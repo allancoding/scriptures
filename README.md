@@ -1,6 +1,6 @@
 ## The Scriptures
 
-The goal is to get everything is one spot.
+The goal is to get everything in one database!
 
 Uses infromation from: 
 * https://www.churchofjesuschrist.org
