@@ -1,0 +1,117 @@
+{
+    "_id": "psalms120",
+    "nextChapterId": "psalms121",
+    "prevChapterId": "psalms119",
+    "volume": {
+        "title": "Old Testament",
+        "titleShort": "OT",
+        "titleOfficial": "The Old Testament",
+        "_id": "oldtestament"
+    },
+    "book": {
+        "title": "Psalms",
+        "titleShort": "Ps",
+        "titleOfficial": "",
+        "subtitle": "",
+        "summary": "",
+        "_id": "psalms"
+    },
+    "chapter": {
+        "bookTitle": "Psalms",
+        "delineation": "Chapter",
+        "number": 120,
+        "summary": "Call upon the Lord when in distress.",
+        "chapterAugmentations": [],
+        "verses": [
+            {
+                "text": "In my distress I cried unto the Lord, and he heard me.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Deliver my soul, O Lord, from lying lips, and from a deceitful tongue.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Deceit.",
+                        "start": 53,
+                        "end": 62
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 42,
+                        "end": 45
+                    }
+                ]
+            },
+            {
+                "text": "What shall be given unto thee? or what shall be done unto thee, thou false tongue?",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Sharp arrows of the mighty, with coals of juniper.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Woe is me, that I sojourn in Mesech, that I dwell in the tents of Kedar!",
+                "footnotes": [
+                    {
+                        "footnote": "Gen. 10:2; Ezek. 27:13.",
+                        "start": 29,
+                        "end": 35
+                    },
+                    {
+                        "footnote": "Jer. 49:29 (28\u201329).",
+                        "start": 57,
+                        "end": 62
+                    },
+                    {
+                        "footnote": "Isa. 60:7.",
+                        "start": 66,
+                        "end": 71
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 37,
+                        "end": 41
+                    }
+                ]
+            },
+            {
+                "text": "My soul hath long dwelt with him that hateth peace.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "I am for peace: but when I speak, they are for war.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0War.",
+                        "start": 47,
+                        "end": 50
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 2,
+                        "end": 8
+                    },
+                    {
+                        "start": 39,
+                        "end": 42
+                    }
+                ]
+            }
+        ]
+    }
+}

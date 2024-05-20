@@ -1,0 +1,76 @@
+{
+    "_id": "psalms150",
+    "nextChapterId": "proverbs1",
+    "prevChapterId": "psalms149",
+    "volume": {
+        "title": "Old Testament",
+        "titleShort": "OT",
+        "titleOfficial": "The Old Testament",
+        "_id": "oldtestament"
+    },
+    "book": {
+        "title": "Psalms",
+        "titleShort": "Ps",
+        "titleOfficial": "",
+        "subtitle": "",
+        "summary": "",
+        "_id": "psalms"
+    },
+    "chapter": {
+        "bookTitle": "Psalms",
+        "delineation": "Chapter",
+        "number": 150,
+        "summary": "Praise God in His sanctuary\u2014Let everything that has breath praise the Lord.",
+        "chapterAugmentations": [],
+        "verses": [
+            {
+                "text": "Praise ye the Lord. Praise God in his sanctuary: praise him in the firmament of his power.",
+                "footnotes": [
+                    {
+                        "footnote": "Alma 15:17.",
+                        "start": 38,
+                        "end": 47
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Praise him for his mighty acts: praise him according to his excellent greatness.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Praise him with the sound of the trumpet: praise him with the psaltery and harp.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Praise him with the timbrel and dance: praise him with stringed instruments and organs.",
+                "footnotes": [
+                    {
+                        "footnote": "HEB\u00a0pipes, flutes.",
+                        "start": 80,
+                        "end": 86
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Praise him upon the loud cymbals: praise him upon the high sounding cymbals.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Let every thing that hath breath praise the Lord. Praise ye the Lord.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            }
+        ]
+    }
+}

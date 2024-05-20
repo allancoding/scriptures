@@ -1,0 +1,726 @@
+{
+    "_id": "1samuel2",
+    "nextChapterId": "1samuel3",
+    "prevChapterId": "1samuel1",
+    "volume": {
+        "title": "Old Testament",
+        "titleShort": "OT",
+        "titleOfficial": "The Old Testament",
+        "_id": "oldtestament"
+    },
+    "book": {
+        "title": "1 Samuel",
+        "titleShort": "1 Sam",
+        "titleOfficial": "",
+        "subtitle": "",
+        "summary": "",
+        "_id": "1samuel"
+    },
+    "chapter": {
+        "bookTitle": "1 Samuel",
+        "delineation": "Chapter",
+        "number": 2,
+        "summary": "Hannah sings praises to the Lord\u2014Samuel ministers before the Lord\u2014Eli blesses Elkanah and Hannah, and they have sons and daughters\u2014The sons of Eli reject the Lord and live in wickedness\u2014The Lord rejects the house of Eli.",
+        "chapterAugmentations": [],
+        "verses": [
+            {
+                "text": "And Hannah prayed, and said, My heart rejoiceth in the Lord, mine horn is exalted in the Lord: my mouth is enlarged over mine enemies; because I rejoice in thy salvation.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Singing.",
+                        "start": 11,
+                        "end": 17
+                    },
+                    {
+                        "footnote": "Luke 1:46 (46\u201355). TG\u00a0Thanksgiving.",
+                        "start": 38,
+                        "end": 47
+                    },
+                    {
+                        "footnote": "HEB\u00a0horn; used figuratively, means \u201cpower,\u201d \u201ccapacity.\u201d Ps. 75:10; 89:17 (17, 24).",
+                        "start": 66,
+                        "end": 70
+                    },
+                    {
+                        "footnote": "Ps. 9:14; 13:5.",
+                        "start": 160,
+                        "end": 169
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "There is none holy as the Lord: for there is none beside thee: neither is there any rock like our God.",
+                "footnotes": [
+                    {
+                        "footnote": "Deut. 4:35; 1\u00a0Kgs. 8:23; 2\u00a0Ne. 2:7.",
+                        "start": 9,
+                        "end": 13
+                    },
+                    {
+                        "footnote": "TG\u00a0Cornerstone; Rock.",
+                        "start": 84,
+                        "end": 88
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 0,
+                        "end": 8
+                    },
+                    {
+                        "start": 36,
+                        "end": 44
+                    },
+                    {
+                        "start": 71,
+                        "end": 79
+                    }
+                ]
+            },
+            {
+                "text": "Talk no more so exceeding proudly; let not arrogancy come out of your mouth: for the Lord is a God of knowledge, and by him actions are weighed.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0God, Intelligence of; God, Omniscience of; Intelligence; Knowledge.",
+                        "start": 102,
+                        "end": 111
+                    },
+                    {
+                        "footnote": "3\u00a0Ne. 27:15 (11\u201315).",
+                        "start": 124,
+                        "end": 131
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 39,
+                        "end": 42
+                    },
+                    {
+                        "start": 90,
+                        "end": 92
+                    }
+                ]
+            },
+            {
+                "text": "The bows of the mighty men are broken, and they that stumbled are girded with strength.",
+                "footnotes": [],
+                "associatedContents": [
+                    {
+                        "type": "paper-page-number",
+                        "data": 384
+                    }
+                ],
+                "italics": [
+                    {
+                        "start": 27,
+                        "end": 30
+                    }
+                ]
+            },
+            {
+                "text": "They that were full have hired out themselves for bread; and they that were hungry ceased: so that the barren hath born seven; and she that hath many children is waxed feeble.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Barren.",
+                        "start": 103,
+                        "end": 109
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 0,
+                        "end": 14
+                    },
+                    {
+                        "start": 61,
+                        "end": 75
+                    }
+                ]
+            },
+            {
+                "text": "The Lord killeth, and maketh alive: he bringeth down to the grave, and bringeth up.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Jesus Christ, Resurrection; Resurrection.",
+                        "start": 39,
+                        "end": 47
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "The Lord maketh poor, and maketh rich: he bringeth low, and lifteth up.",
+                "footnotes": [
+                    {
+                        "footnote": "Ps. 75:7.",
+                        "start": 9,
+                        "end": 15
+                    },
+                    {
+                        "footnote": "TG\u00a0Poor.",
+                        "start": 16,
+                        "end": 20
+                    },
+                    {
+                        "footnote": "Gen. 14:23; D&C 38:16.",
+                        "start": 33,
+                        "end": 37
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "He raiseth up the poor out of the dust, and lifteth up the beggar from the dunghill, to set them among princes, and to make them inherit the throne of glory: for the pillars of the earth are the Lord's, and he hath set the world upon them.",
+                "footnotes": [
+                    {
+                        "footnote": "Ps. 113:7 (7\u20138).",
+                        "start": 3,
+                        "end": 10
+                    },
+                    {
+                        "footnote": "TG\u00a0Poor.",
+                        "start": 18,
+                        "end": 22
+                    },
+                    {
+                        "footnote": "Ps. 75:3.",
+                        "start": 166,
+                        "end": 173
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 40,
+                        "end": 43
+                    },
+                    {
+                        "start": 92,
+                        "end": 96
+                    },
+                    {
+                        "start": 187,
+                        "end": 190
+                    }
+                ]
+            },
+            {
+                "text": "He will keep the feet of his saints, and the wicked shall be silent in darkness; for by strength shall no man prevail.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Silence.",
+                        "start": 61,
+                        "end": 67
+                    },
+                    {
+                        "footnote": "TG\u00a0Strength.",
+                        "start": 88,
+                        "end": 96
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "The adversaries of the Lord shall be broken to pieces; out of heaven shall he thunder upon them: the Lord shall judge the ends of the earth; and he shall give strength unto his king, and exalt the horn of his anointed.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Jesus Christ, Judge; Judgment, the Last.",
+                        "start": 112,
+                        "end": 117
+                    },
+                    {
+                        "footnote": "In the Septuagint Greek version, the noun is christos.",
+                        "start": 209,
+                        "end": 217
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Elkanah went to Ramah to his house. And the child did minister unto the Lord before Eli the priest.",
+                "footnotes": [
+                    {
+                        "footnote": "HEB\u00a0And the youth served the Lord in the presence of Eli, the priest.",
+                        "start": 40,
+                        "end": 43
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Now the sons of Eli were sons of Belial; they knew not the Lord.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Family, Children, Responsibilities toward.",
+                        "start": 8,
+                        "end": 12
+                    },
+                    {
+                        "footnote": "1\u00a0Sam. 3:13.",
+                        "start": 25,
+                        "end": 29
+                    },
+                    {
+                        "footnote": "Deut. 13:13; 1\u00a0Sam. 1:16.",
+                        "start": 33,
+                        "end": 39
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 20,
+                        "end": 24
+                    }
+                ]
+            },
+            {
+                "text": "And the priests' custom with the people was, that, when any man offered sacrifice, the priest's servant came, while the flesh was in seething, with a fleshhook of three teeth in his hand;",
+                "footnotes": [
+                    {
+                        "footnote": "OR\u00a0boiling.",
+                        "start": 130,
+                        "end": 141
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 40,
+                        "end": 50
+                    }
+                ]
+            },
+            {
+                "text": "And he struck it into the pan, or kettle, or caldron, or pot; all that the fleshhook brought up the priest took for himself. So they did in Shiloh unto all the Israelites that came thither.",
+                "footnotes": [
+                    {
+                        "footnote": "Lev. 7:33 (30\u201334); Deut. 18:3.",
+                        "start": 107,
+                        "end": 111
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 14,
+                        "end": 16
+                    }
+                ]
+            },
+            {
+                "text": "Also before they burnt the fat, the priest's servant came, and said to the man that sacrificed, Give flesh to roast for the priest; for he will not have sodden flesh of thee, but raw.",
+                "footnotes": [
+                    {
+                        "footnote": "OR\u00a0cooked, boiled.",
+                        "start": 153,
+                        "end": 159
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And if any man said unto him, Let them not fail to burn the fat presently, and then take as much as thy soul desireth; then he would answer him, Nay; but thou shalt give it me now: and if not, I will take it by force.",
+                "footnotes": [
+                    {
+                        "footnote": "IE\u00a0first of all.",
+                        "start": 64,
+                        "end": 73
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 4,
+                        "end": 6
+                    },
+                    {
+                        "start": 79,
+                        "end": 83
+                    },
+                    {
+                        "start": 89,
+                        "end": 96
+                    },
+                    {
+                        "start": 145,
+                        "end": 149
+                    },
+                    {
+                        "start": 170,
+                        "end": 175
+                    },
+                    {
+                        "start": 205,
+                        "end": 207
+                    }
+                ]
+            },
+            {
+                "text": "Wherefore the sin of the young men was very great before the Lord: for men abhorred the offering of the Lord.",
+                "footnotes": [
+                    {
+                        "footnote": "Mal. 2:8.",
+                        "start": 75,
+                        "end": 83
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "But Samuel ministered before the Lord, being a child, girded with a linen ephod.",
+                "footnotes": [
+                    {
+                        "footnote": "Ex. 28:4.",
+                        "start": 74,
+                        "end": 79
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 39,
+                        "end": 44
+                    }
+                ]
+            },
+            {
+                "text": "Moreover his mother made him a little coat, and brought it to him from year to year, when she came up with her husband to offer the yearly sacrifice.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Marriage, Motherhood.",
+                        "start": 13,
+                        "end": 19
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 56,
+                        "end": 58
+                    }
+                ]
+            },
+            {
+                "text": "And Eli blessed Elkanah and his wife, and said, The Lord give thee seed of this woman for the loan which is lent to the Lord. And they went unto their own home.",
+                "footnotes": [
+                    {
+                        "footnote": "Num. 6:23; Alma 8:22; 10:11.",
+                        "start": 8,
+                        "end": 15
+                    },
+                    {
+                        "footnote": "HEB\u00a0the petition which she asked.",
+                        "start": 90,
+                        "end": 98
+                    },
+                    {
+                        "footnote": "1\u00a0Sam. 1:28.",
+                        "start": 108,
+                        "end": 112
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And the Lord visited Hannah, so that she conceived, and bare three sons and two daughters. And the child Samuel grew before the Lord.",
+                "footnotes": [
+                    {
+                        "footnote": "Gen. 21:1 (1\u20132).",
+                        "start": 13,
+                        "end": 20
+                    }
+                ],
+                "associatedContents": [
+                    {
+                        "type": "paper-page-number",
+                        "data": 385
+                    }
+                ],
+                "italics": []
+            },
+            {
+                "text": "Now Eli was very old, and heard all that his sons did unto all Israel; and how they lay with the women that assembled at the door of the tabernacle of the congregation.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 118,
+                        "end": 120
+                    }
+                ]
+            },
+            {
+                "text": "And he said unto them, Why do ye such things? for I hear of your evil dealings by all this people.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Nay, my sons; for it is no good report that I hear: ye make the Lord's people to transgress.",
+                "footnotes": [
+                    {
+                        "footnote": "Alma 39:11 (1\u201311).",
+                        "start": 81,
+                        "end": 91
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 18,
+                        "end": 23
+                    }
+                ]
+            },
+            {
+                "text": "If one man sin against another, the judge shall judge him: but if a man sin against the Lord, who shall entreat for him? Notwithstanding they hearkened not unto the voice of their father, because the Lord would slay them.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Judgment.",
+                        "start": 48,
+                        "end": 53
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And the child Samuel grew on, and was in favour both with the Lord, and also with men.",
+                "footnotes": [
+                    {
+                        "footnote": "1\u00a0Sam. 3:19; Luke 2:52.",
+                        "start": 21,
+                        "end": 25
+                    },
+                    {
+                        "footnote": "Prov. 3:4.",
+                        "start": 41,
+                        "end": 47
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And there came a man of God unto Eli, and said unto him, Thus saith the Lord, Did I plainly appear unto the house of thy father, when they were in Egypt in Pharaoh's house?",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And did I choose him out of all the tribes of Israel to be my priest, to offer upon mine altar, to burn incense, to wear an ephod before me? and did I give unto the house of thy father all the offerings made by fire of the children of Israel?",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Priesthood, Authority.",
+                        "start": 10,
+                        "end": 16
+                    },
+                    {
+                        "footnote": "Ex. 28:4 (2\u20134); 1\u00a0Sam. 14:3; 22:18.",
+                        "start": 124,
+                        "end": 129
+                    },
+                    {
+                        "footnote": "Lev. 10:12 (12\u201315); Num. 18:8 (8\u201319).",
+                        "start": 193,
+                        "end": 202
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 53,
+                        "end": 58
+                    }
+                ]
+            },
+            {
+                "text": "Wherefore kick ye at my sacrifice and at mine offering, which I have commanded in my habitation; and honourest thy sons above me, to make yourselves fat with the chiefest of all the offerings of Israel my people?",
+                "footnotes": [
+                    {
+                        "footnote": "IE\u00a0treat with scorn.",
+                        "start": 10,
+                        "end": 20
+                    },
+                    {
+                        "footnote": "Matt. 10:37.",
+                        "start": 101,
+                        "end": 110
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 79,
+                        "end": 84
+                    }
+                ]
+            },
+            {
+                "text": "Wherefore the Lord God of Israel saith, I said indeed that thy house, and the house of thy father, should walk before me for ever: but now the Lord saith, Be it far from me; for them that honour me I will honour, and they that despise me shall be lightly esteemed.",
+                "footnotes": [
+                    {
+                        "footnote": "Ex. 27:21.",
+                        "start": 78,
+                        "end": 83
+                    },
+                    {
+                        "footnote": "TG\u00a0Walking with God.",
+                        "start": 106,
+                        "end": 110
+                    },
+                    {
+                        "footnote": "Acts 10:35 (34\u201335); 1\u00a0Ne. 17:35. TG\u00a0Honor; Priesthood, Magnifying Callings within; Respect.",
+                        "start": 188,
+                        "end": 194
+                    },
+                    {
+                        "footnote": "Mal. 2:9.",
+                        "start": 255,
+                        "end": 263
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 54,
+                        "end": 58
+                    }
+                ]
+            },
+            {
+                "text": "Behold, the days come, that I will cut off thine arm, and the arm of thy father's house, that there shall not be an old man in thine house.",
+                "footnotes": [
+                    {
+                        "footnote": "1\u00a0Kgs. 2:27.",
+                        "start": 12,
+                        "end": 16
+                    },
+                    {
+                        "footnote": "1\u00a0Sam. 3:12.",
+                        "start": 35,
+                        "end": 42
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And thou shalt see an enemy in my habitation, in all the wealth which God shall give Israel: and there shall not be an old man in thine house for ever.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 28,
+                        "end": 33
+                    },
+                    {
+                        "start": 53,
+                        "end": 63
+                    },
+                    {
+                        "start": 70,
+                        "end": 73
+                    }
+                ]
+            },
+            {
+                "text": "And the man of thine, whom I shall not cut off from mine altar, shall be to consume thine eyes, and to grieve thine heart: and all the increase of thine house shall die in the flower of their age.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 22,
+                        "end": 26
+                    },
+                    {
+                        "start": 64,
+                        "end": 72
+                    }
+                ]
+            },
+            {
+                "text": "And this shall be a sign unto thee, that shall come upon thy two sons, on Hophni and Phinehas; in one day they shall die both of them.",
+                "footnotes": [
+                    {
+                        "footnote": "1\u00a0Sam. 4:11.",
+                        "start": 117,
+                        "end": 120
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 9,
+                        "end": 17
+                    }
+                ]
+            },
+            {
+                "text": "And I will raise me up a faithful priest, that shall do according to that which is in mine heart and in my mind: and I will build him a sure house; and he shall walk before mine anointed for ever.",
+                "footnotes": [
+                    {
+                        "footnote": "D&C 114:2.",
+                        "start": 11,
+                        "end": 16
+                    },
+                    {
+                        "footnote": "1\u00a0Kgs. 2:35; 1\u00a0Chr. 29:22.",
+                        "start": 34,
+                        "end": 40
+                    },
+                    {
+                        "footnote": "IE\u00a0his progeny shall be perpetuated. Ex. 1:21 (15\u201322); 1\u00a0Sam. 25:28; 2\u00a0Sam. 7:11 (10\u201317); 1\u00a0Kgs. 11:38.",
+                        "start": 117,
+                        "end": 118
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 42,
+                        "end": 46
+                    },
+                    {
+                        "start": 69,
+                        "end": 73
+                    },
+                    {
+                        "start": 80,
+                        "end": 82
+                    }
+                ]
+            },
+            {
+                "text": "And it shall come to pass, that every one that is left in thine house shall come and crouch to him for a piece of silver and a morsel of bread, and shall say, Put me, I pray thee, into one of the priests' offices, that I may eat a piece of bread.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 27,
+                        "end": 31
+                    },
+                    {
+                        "start": 81,
+                        "end": 84
+                    }
+                ]
+            }
+        ]
+    }
+}

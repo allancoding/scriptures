@@ -1,0 +1,120 @@
+{
+    "_id": "psalms15",
+    "nextChapterId": "psalms16",
+    "prevChapterId": "psalms14",
+    "volume": {
+        "title": "Old Testament",
+        "titleShort": "OT",
+        "titleOfficial": "The Old Testament",
+        "_id": "oldtestament"
+    },
+    "book": {
+        "title": "Psalms",
+        "titleShort": "Ps",
+        "titleOfficial": "",
+        "subtitle": "",
+        "summary": "",
+        "_id": "psalms"
+    },
+    "chapter": {
+        "bookTitle": "Psalms",
+        "delineation": "Chapter",
+        "number": 15,
+        "summary": "David asks, Who will dwell in the Lord's holy hill?\u2014He answers, The righteous, the upright, and those with integrity.",
+        "chapterAugmentations": [],
+        "verses": [
+            {
+                "text": "Lord, who shall abide in thy tabernacle? who shall dwell in thy holy hill?",
+                "footnotes": [
+                    {
+                        "footnote": "Ps. 24:3 (3\u20135); 1\u00a0Ne. 15:33 (33\u201336); Mosiah 15:23 (19\u201326); D&C 76:62 (50\u201370); Moses 6:57 (55\u201359).",
+                        "start": 16,
+                        "end": 21
+                    },
+                    {
+                        "footnote": "JST\u00a0Ps. 15:1 \u2026 hill of Zion?",
+                        "start": 69,
+                        "end": 73
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "He that walketh uprightly, and worketh righteousness, and speaketh the truth in his heart.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Walking with God.",
+                        "start": 8,
+                        "end": 15
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "He that backbiteth not with his tongue, nor doeth evil to his neighbour, nor taketh up a reproach against his neighbour.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Backbiting; Gossip.",
+                        "start": 8,
+                        "end": 18
+                    },
+                    {
+                        "footnote": "TG\u00a0Neighbor.",
+                        "start": 62,
+                        "end": 71
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 0,
+                        "end": 7
+                    }
+                ]
+            },
+            {
+                "text": "In whose eyes a vile person is contemned; but he honoureth them that fear the Lord. He that sweareth to his own hurt, and changeth not.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 84,
+                        "end": 91
+                    },
+                    {
+                        "start": 104,
+                        "end": 111
+                    }
+                ]
+            },
+            {
+                "text": "He that putteth not out his money to usury, nor taketh reward against the innocent. He that doeth these things shall never be moved.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Usury.",
+                        "start": 37,
+                        "end": 42
+                    },
+                    {
+                        "footnote": "OR\u00a0a bribe.",
+                        "start": 55,
+                        "end": 61
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 0,
+                        "end": 7
+                    },
+                    {
+                        "start": 104,
+                        "end": 110
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,148 @@
+{
+    "_id": "psalms1",
+    "nextChapterId": "psalms2",
+    "prevChapterId": "job42",
+    "volume": {
+        "title": "Old Testament",
+        "titleShort": "OT",
+        "titleOfficial": "The Old Testament",
+        "_id": "oldtestament"
+    },
+    "book": {
+        "title": "Psalms",
+        "titleShort": "Ps",
+        "titleOfficial": "",
+        "subtitle": "",
+        "summary": "",
+        "_id": "psalms"
+    },
+    "chapter": {
+        "bookTitle": "Psalms",
+        "delineation": "Chapter",
+        "number": 1,
+        "summary": "Blessed are the righteous\u2014The ungodly will perish.",
+        "chapterAugmentations": [],
+        "verses": [
+            {
+                "text": "Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Happiness.",
+                        "start": 0,
+                        "end": 7
+                    },
+                    {
+                        "footnote": "Prov. 1:10 (10\u201319); Eph. 5:11 (8\u201313).",
+                        "start": 24,
+                        "end": 31
+                    },
+                    {
+                        "footnote": "TG\u00a0Counselor.",
+                        "start": 43,
+                        "end": 50
+                    },
+                    {
+                        "footnote": "Ps. 26:4; Jer. 15:17.",
+                        "start": 134,
+                        "end": 142
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 8,
+                        "end": 10
+                    }
+                ]
+            },
+            {
+                "text": "But his delight is in the law of the Lord; and in his law doth he meditate day and night.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Abundant Life.",
+                        "start": 8,
+                        "end": 15
+                    },
+                    {
+                        "footnote": "HEB\u00a0teaching, direction, doctrine. TG\u00a0God, Law of.",
+                        "start": 26,
+                        "end": 29
+                    },
+                    {
+                        "footnote": "TG\u00a0Meditation.",
+                        "start": 66,
+                        "end": 74
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 16,
+                        "end": 18
+                    }
+                ]
+            },
+            {
+                "text": "And he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season; his leaf also shall not wither; and whatsoever he doeth shall prosper.",
+                "footnotes": [
+                    {
+                        "footnote": "Jer. 17:8 (7\u20138).",
+                        "start": 23,
+                        "end": 27
+                    },
+                    {
+                        "footnote": "Gen. 39:3 (2\u20133); Mosiah 1:7; Alma 50:20; Hel. 12:1; D&C 9:13.",
+                        "start": 167,
+                        "end": 174
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "The ungodly are not so: but are like the chaff which the wind driveth away.",
+                "footnotes": [
+                    {
+                        "footnote": "Job 21:18 (17\u201318); Ps. 83:13 (2, 13); Hosea 13:3 (1\u20134); Morm. 5:16 (16\u201318).",
+                        "start": 41,
+                        "end": 46
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 12,
+                        "end": 15
+                    },
+                    {
+                        "start": 28,
+                        "end": 31
+                    }
+                ]
+            },
+            {
+                "text": "Therefore the ungodly shall not stand in the judgment, nor sinners in the congregation of the righteous.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "For the Lord knoweth the way of the righteous: but the way of the ungodly shall perish.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Righteousness.",
+                        "start": 36,
+                        "end": 45
+                    },
+                    {
+                        "footnote": "TG\u00a0Godliness.",
+                        "start": 66,
+                        "end": 73
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            }
+        ]
+    }
+}

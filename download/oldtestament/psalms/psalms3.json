@@ -1,0 +1,132 @@
+{
+    "_id": "psalms3",
+    "nextChapterId": "psalms4",
+    "prevChapterId": "psalms2",
+    "volume": {
+        "title": "Old Testament",
+        "titleShort": "OT",
+        "titleOfficial": "The Old Testament",
+        "_id": "oldtestament"
+    },
+    "book": {
+        "title": "Psalms",
+        "titleShort": "Ps",
+        "titleOfficial": "",
+        "subtitle": "",
+        "summary": "",
+        "_id": "psalms"
+    },
+    "chapter": {
+        "bookTitle": "Psalms",
+        "delineation": "Chapter",
+        "number": 3,
+        "summary": "David cries unto the Lord and is heard\u2014Salvation is of the Lord.",
+        "chapterAugmentations": [],
+        "verses": [
+            {
+                "text": "Lord, how are they increased that trouble me! many are they that rise up against me.",
+                "footnotes": [
+                    {
+                        "footnote": "2\u00a0Sam. 15:14; 17:27 (27\u201329).",
+                        "start": 34,
+                        "end": 41
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 51,
+                        "end": 54
+                    }
+                ]
+            },
+            {
+                "text": "Many there be which say of my soul, There is no help for him in God. Selah.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 5,
+                        "end": 13
+                    },
+                    {
+                        "start": 36,
+                        "end": 44
+                    }
+                ]
+            },
+            {
+                "text": "But thou, O Lord, art a shield for me; my glory, and the lifter up of mine head.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Protection, Divine.",
+                        "start": 24,
+                        "end": 30
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 18,
+                        "end": 21
+                    }
+                ]
+            },
+            {
+                "text": "I cried unto the Lord with my voice, and he heard me out of his holy hill. Selah.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "I laid me down and slept; I awaked; for the Lord sustained me.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "I will not be afraid of ten thousands of people, that have set themselves against me round about.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 63,
+                        "end": 73
+                    }
+                ]
+            },
+            {
+                "text": "Arise, O Lord; save me, O my God: for thou hast smitten all mine enemies upon the cheek bone; thou hast broken the teeth of the ungodly.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 73,
+                        "end": 77
+                    }
+                ]
+            },
+            {
+                "text": "Salvation belongeth unto the Lord: thy blessing is upon thy people. Selah.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Salvation.",
+                        "start": 0,
+                        "end": 9
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 10,
+                        "end": 19
+                    },
+                    {
+                        "start": 48,
+                        "end": 50
+                    }
+                ]
+            }
+        ]
+    }
+}

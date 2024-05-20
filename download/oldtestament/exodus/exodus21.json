@@ -1,0 +1,507 @@
+{
+    "_id": "exodus21",
+    "nextChapterId": "exodus22",
+    "prevChapterId": "exodus20",
+    "volume": {
+        "title": "Old Testament",
+        "titleShort": "OT",
+        "titleOfficial": "The Old Testament",
+        "_id": "oldtestament"
+    },
+    "book": {
+        "title": "Exodus",
+        "titleShort": "Ex",
+        "titleOfficial": "",
+        "subtitle": "",
+        "summary": "",
+        "_id": "exodus"
+    },
+    "chapter": {
+        "bookTitle": "Exodus",
+        "delineation": "Chapter",
+        "number": 21,
+        "summary": "The Lord reveals His laws pertaining to servants, marriage, the death penalty for various offenses, the giving of an eye for an eye and a tooth for a tooth, and the damage done by oxen.",
+        "chapterAugmentations": [],
+        "verses": [
+            {
+                "text": "Now these are the judgments which thou shalt set before them.",
+                "footnotes": [
+                    {
+                        "footnote": "OR\u00a0ordinances.",
+                        "start": 18,
+                        "end": 27
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 10,
+                        "end": 13
+                    }
+                ]
+            },
+            {
+                "text": "If thou buy an Hebrew servant, six years he shall serve: and in the seventh he shall go out free for nothing.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Bondage, Physical.",
+                        "start": 22,
+                        "end": 29
+                    },
+                    {
+                        "footnote": "TG\u00a0Sabbatical Year.",
+                        "start": 68,
+                        "end": 75
+                    },
+                    {
+                        "footnote": "TG\u00a0Liberty.",
+                        "start": 92,
+                        "end": 96
+                    }
+                ],
+                "associatedContents": [
+                    {
+                        "type": "paper-page-number",
+                        "data": 111
+                    }
+                ],
+                "italics": []
+            },
+            {
+                "text": "If he came in by himself, he shall go out by himself: if he were married, then his wife shall go out with him.",
+                "footnotes": [
+                    {
+                        "footnote": "OR\u00a0singly.",
+                        "start": 14,
+                        "end": 24
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "If his master have given him a wife, and she have born him sons or daughters; the wife and her children shall be her master's, and he shall go out by himself.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And if the servant shall plainly say, I love my master, my wife, and my children; I will not go out free:",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Then his master shall bring him unto the judges; he shall also bring him to the door, or unto the door post; and his master shall bore his ear through with an awl; and he shall serve him for ever.",
+                "footnotes": [
+                    {
+                        "footnote": "HEB\u00a0before God; i.e., God's representatives in judicial matters.",
+                        "start": 32,
+                        "end": 36
+                    },
+                    {
+                        "footnote": "Ex. 22:8 (8\u20139).",
+                        "start": 41,
+                        "end": 47
+                    },
+                    {
+                        "footnote": "Deut. 15:17.",
+                        "start": 139,
+                        "end": 142
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And if a man sell his daughter to be a maidservant, she shall not go out as the menservants do.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "If she please not her master, who hath betrothed her to himself, then shall he let her be redeemed: to sell her unto a strange nation he shall have no power, seeing he hath dealt deceitfully with her.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And if he have betrothed her unto his son, he shall deal with her after the manner of daughters.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "If he take him another wife; her food, her raiment, and her duty of marriage, shall he not diminish.",
+                "footnotes": [
+                    {
+                        "footnote": "OR\u00a0marital rights.",
+                        "start": 60,
+                        "end": 76
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 23,
+                        "end": 28
+                    }
+                ]
+            },
+            {
+                "text": "And if he do not these three unto her, then shall she go out free without money.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "He that smiteth a man, so that he die, shall be surely put to death.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Murder.",
+                        "start": 8,
+                        "end": 15
+                    },
+                    {
+                        "footnote": "See JST\u00a0Gen. 9:12\u201313 (Appendix). TG\u00a0Capital Punishment; Punish.",
+                        "start": 55,
+                        "end": 67
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And if a man lie not in wait, but God deliver him into his hand; then I will appoint thee a place whither he shall flee.",
+                "footnotes": [
+                    {
+                        "footnote": "Deut. 19:2.",
+                        "start": 92,
+                        "end": 97
+                    },
+                    {
+                        "footnote": "Deut. 19:3 (1\u201313); 1\u00a0Kgs. 2:28.",
+                        "start": 115,
+                        "end": 119
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 46,
+                        "end": 49
+                    }
+                ]
+            },
+            {
+                "text": "But if a man come presumptuously upon his neighbour, to slay him with guile; thou shalt take him from mine altar, that he may die.",
+                "footnotes": [
+                    {
+                        "footnote": "Deut. 27:24.",
+                        "start": 56,
+                        "end": 60
+                    },
+                    {
+                        "footnote": "TG\u00a0Guile.",
+                        "start": 70,
+                        "end": 75
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And he that smiteth his father, or his mother, shall be surely put to death.",
+                "footnotes": [
+                    {
+                        "footnote": "Mosiah 13:29 (29\u201330); D&C 84:27 (26\u201327).",
+                        "start": 70,
+                        "end": 75
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And he that stealeth a man, and selleth him, or if he be found in his hand, he shall surely be put to death.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Stealing.",
+                        "start": 12,
+                        "end": 20
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And he that curseth his father, or his mother, shall surely be put to death.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Curse; Honoring Father and Mother.",
+                        "start": 12,
+                        "end": 19
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And if men strive together, and one smite another with a stone, or with his fist, and he die not, but keepeth his bed:",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 72,
+                        "end": 75
+                    },
+                    {
+                        "start": 110,
+                        "end": 113
+                    }
+                ]
+            },
+            {
+                "text": "If he rise again, and walk abroad upon his staff, then shall he that smote him be quit: only he shall pay for the loss of his time, and shall cause him to be thoroughly healed.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Time.",
+                        "start": 126,
+                        "end": 130
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 75,
+                        "end": 78
+                    },
+                    {
+                        "start": 106,
+                        "end": 109
+                    },
+                    {
+                        "start": 148,
+                        "end": 151
+                    }
+                ]
+            },
+            {
+                "text": "And if a man smite his servant, or his maid, with a rod, and he die under his hand; he shall be surely punished.",
+                "footnotes": [
+                    {
+                        "footnote": "JST\u00a0Ex. 21:20 \u2026 put to death.",
+                        "start": 96,
+                        "end": 111
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Notwithstanding, if he continue a day or two, he shall not be punished: for he is his money.",
+                "footnotes": [
+                    {
+                        "footnote": "IE\u00a0remains alive.",
+                        "start": 23,
+                        "end": 31
+                    },
+                    {
+                        "footnote": "JST\u00a0Ex. 21:21 \u2026 put to death\u00a0\u2026",
+                        "start": 62,
+                        "end": 70
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 79,
+                        "end": 81
+                    }
+                ]
+            },
+            {
+                "text": "If men strive, and hurt a woman with child, so that her fruit depart from her, and yet no mischief follow: he shall be surely punished, according as the woman's husband will lay upon him; and he shall pay as the judges determine.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Birth Control.",
+                        "start": 37,
+                        "end": 42
+                    },
+                    {
+                        "footnote": "IE\u00a0she has a miscarriage.",
+                        "start": 52,
+                        "end": 55
+                    },
+                    {
+                        "footnote": "OR\u00a0other harm.",
+                        "start": 90,
+                        "end": 98
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 69,
+                        "end": 78
+                    },
+                    {
+                        "start": 219,
+                        "end": 229
+                    }
+                ]
+            },
+            {
+                "text": "And if any mischief follow, then thou shalt give life for life,",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 7,
+                        "end": 10
+                    }
+                ]
+            },
+            {
+                "text": "Eye for eye, tooth for tooth, hand for hand, foot for foot,",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Punish; Retribution.",
+                        "start": 0,
+                        "end": 3
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Burning for burning, wound for wound, stripe for stripe.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And if a man smite the eye of his servant, or the eye of his maid, that it perish; he shall let him go free for his eye's sake.",
+                "footnotes": [],
+                "associatedContents": [
+                    {
+                        "type": "paper-page-number",
+                        "data": 112
+                    }
+                ],
+                "italics": []
+            },
+            {
+                "text": "And if he smite out his manservant's tooth, or his maidservant's tooth; he shall let him go free for his tooth's sake.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "If an ox gore a man or a woman, that they die: then the ox shall be surely stoned, and his flesh shall not be eaten; but the owner of the ox shall be quit.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Blood, Shedding of.",
+                        "start": 42,
+                        "end": 45
+                    },
+                    {
+                        "footnote": "OR\u00a0clear, innocent.",
+                        "start": 150,
+                        "end": 154
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 141,
+                        "end": 149
+                    }
+                ]
+            },
+            {
+                "text": "But if the ox were wont to push with his horn in time past, and it hath been testified to his owner, and he hath not kept him in, but that he hath killed a man or a woman; the ox shall be stoned, and his owner also shall be put to death.",
+                "footnotes": [
+                    {
+                        "footnote": "OR\u00a0accustomed to gore (also vv.\u00a032, 36).",
+                        "start": 19,
+                        "end": 23
+                    },
+                    {
+                        "footnote": "TG\u00a0Capital Punishment.",
+                        "start": 231,
+                        "end": 236
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "If there be laid on him a sum of money, then he shall give for the ransom of his life whatsoever is laid upon him.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Whether he have gored a son, or have gored a daughter, according to this judgment shall it be done unto him.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "If the ox shall push a manservant or a maidservant; he shall give unto their master thirty shekels of silver, and the ox shall be stoned.",
+                "footnotes": [
+                    {
+                        "footnote": "Matt. 26:15 (14\u201316).",
+                        "start": 84,
+                        "end": 90
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And if a man shall open a pit, or if a man shall dig a pit, and not cover it, and an ox or an ass fall therein;",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "The owner of the pit shall make it good, and give money unto the owner of them; and the dead beast shall be his.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 32,
+                        "end": 34
+                    },
+                    {
+                        "start": 41,
+                        "end": 44
+                    },
+                    {
+                        "start": 93,
+                        "end": 98
+                    }
+                ]
+            },
+            {
+                "text": "And if one man's ox hurt another's, that he die; then they shall sell the live ox, and divide the money of it; and the dead ox also they shall divide.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 124,
+                        "end": 126
+                    }
+                ]
+            },
+            {
+                "text": "Or if it be known that the ox hath used to push in time past, and his owner hath not kept him in; he shall surely pay ox for ox; and the dead shall be his own.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            }
+        ]
+    }
+}

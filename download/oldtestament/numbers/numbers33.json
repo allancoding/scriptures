@@ -1,0 +1,589 @@
+{
+    "_id": "numbers33",
+    "nextChapterId": "numbers34",
+    "prevChapterId": "numbers32",
+    "volume": {
+        "title": "Old Testament",
+        "titleShort": "OT",
+        "titleOfficial": "The Old Testament",
+        "_id": "oldtestament"
+    },
+    "book": {
+        "title": "Numbers",
+        "titleShort": "Num",
+        "titleOfficial": "",
+        "subtitle": "",
+        "summary": "",
+        "_id": "numbers"
+    },
+    "chapter": {
+        "bookTitle": "Numbers",
+        "delineation": "Chapter",
+        "number": 33,
+        "summary": "Israel's journeys from Egypt to Canaan are reviewed\u2014The people are commanded to drive out the inhabitants of the land\u2014Any remaining inhabitants will vex Israel.",
+        "chapterAugmentations": [],
+        "verses": [
+            {
+                "text": "These are the journeys of the children of Israel, which went forth out of the land of Egypt with their armies under the hand of Moses and Aaron.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 6,
+                        "end": 9
+                    }
+                ]
+            },
+            {
+                "text": "And Moses wrote their goings out according to their journeys by the commandment of the Lord: and these are their journeys according to their goings out.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 103,
+                        "end": 106
+                    }
+                ]
+            },
+            {
+                "text": "And they departed from Rameses in the first month, on the fifteenth day of the first month; on the morrow after the passover the children of Israel went out with an high hand in the sight of all the Egyptians.",
+                "footnotes": [
+                    {
+                        "footnote": "Gen. 47:11.",
+                        "start": 23,
+                        "end": 30
+                    },
+                    {
+                        "footnote": "OR\u00a0triumphantly.",
+                        "start": 157,
+                        "end": 161
+                    },
+                    {
+                        "footnote": "Ex. 14:8 (8\u20139).",
+                        "start": 165,
+                        "end": 169
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "For the Egyptians buried all their firstborn, which the Lord had smitten among them: upon their gods also the Lord executed judgments.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 29,
+                        "end": 34
+                    }
+                ]
+            },
+            {
+                "text": "And the children of Israel removed from Rameses, and pitched in Succoth.",
+                "footnotes": [
+                    {
+                        "footnote": "Ex. 13:20.",
+                        "start": 64,
+                        "end": 71
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And they departed from Succoth, and pitched in Etham, which is in the edge of the wilderness.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 60,
+                        "end": 62
+                    }
+                ]
+            },
+            {
+                "text": "And they removed from Etham, and turned again unto Pi-hahiroth, which is before Baal-zephon: and they pitched before Migdol.",
+                "footnotes": [
+                    {
+                        "footnote": "Ex. 14:2 (1\u20133).",
+                        "start": 33,
+                        "end": 39
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 70,
+                        "end": 72
+                    }
+                ]
+            },
+            {
+                "text": "And they departed from before Pi-hahiroth, and passed through the midst of the sea into the wilderness, and went three days' journey in the wilderness of Etham, and pitched in Marah.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And they removed from Marah, and came unto Elim: and in Elim were twelve fountains of water, and threescore and ten palm trees; and they pitched there.",
+                "footnotes": [
+                    {
+                        "footnote": "HEB\u00a0springs.",
+                        "start": 73,
+                        "end": 82
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 61,
+                        "end": 65
+                    }
+                ]
+            },
+            {
+                "text": "And they removed from Elim, and encamped by the Red sea.",
+                "footnotes": [
+                    {
+                        "footnote": "OR\u00a0Reed Sea.",
+                        "start": 48,
+                        "end": 55
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And they removed from the Red sea, and encamped in the wilderness of Sin.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And they took their journey out of the wilderness of Sin, and encamped in Dophkah.",
+                "footnotes": [
+                    {
+                        "footnote": "Ex. 17:1.",
+                        "start": 20,
+                        "end": 27
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And they departed from Dophkah, and encamped in Alush.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And they removed from Alush, and encamped at Rephidim, where was no water for the people to drink.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And they departed from Rephidim, and pitched in the wilderness of Sinai.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And they removed from the desert of Sinai, and pitched at Kibroth-hattaavah.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And they departed from Kibroth-hattaavah, and encamped at Hazeroth.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And they departed from Hazeroth, and pitched in Rithmah.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And they departed from Rithmah, and pitched at Rimmon-parez.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And they departed from Rimmon-parez, and pitched in Libnah.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And they removed from Libnah, and pitched at Rissah.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And they journeyed from Rissah, and pitched in Kehelathah.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And they went from Kehelathah, and pitched in mount Shapher.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And they removed from mount Shapher, and encamped in Haradah.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And they removed from Haradah, and pitched in Makheloth.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And they removed from Makheloth, and encamped at Tahath.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And they departed from Tahath, and pitched at Tarah.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And they removed from Tarah, and pitched in Mithcah.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And they went from Mithcah, and pitched in Hashmonah.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And they departed from Hashmonah, and encamped at Moseroth.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And they departed from Moseroth, and pitched in Bene-jaakan.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And they removed from Bene-jaakan, and encamped at Hor-hagidgad.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And they went from Hor-hagidgad, and pitched in Jotbathah.",
+                "footnotes": [
+                    {
+                        "footnote": "Deut. 10:7.",
+                        "start": 48,
+                        "end": 57
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And they removed from Jotbathah, and encamped at Ebronah.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And they departed from Ebronah, and encamped at Ezion-gaber.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And they removed from Ezion-gaber, and pitched in the wilderness of Zin, which is Kadesh.",
+                "footnotes": [
+                    {
+                        "footnote": "1\u00a0Kgs. 9:26; 22:48.",
+                        "start": 22,
+                        "end": 33
+                    },
+                    {
+                        "footnote": "Num. 20:1 (1\u201329).",
+                        "start": 82,
+                        "end": 88
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 79,
+                        "end": 81
+                    }
+                ]
+            },
+            {
+                "text": "And they removed from Kadesh, and pitched in mount Hor, in the edge of the land of Edom.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Aaron the priest went up into mount Hor at the commandment of the Lord, and died there, in the fortieth year after the children of Israel were come out of the land of Egypt, in the first day of the fifth month.",
+                "footnotes": [
+                    {
+                        "footnote": "Num. 20:28 (22\u201329).",
+                        "start": 4,
+                        "end": 9
+                    },
+                    {
+                        "footnote": "Deut. 1:3.",
+                        "start": 99,
+                        "end": 107
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 191,
+                        "end": 194
+                    }
+                ]
+            },
+            {
+                "text": "And Aaron was an hundred and twenty and three years old when he died in mount Hor.",
+                "footnotes": [
+                    {
+                        "footnote": "Ex. 7:7.",
+                        "start": 4,
+                        "end": 9
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 10,
+                        "end": 13
+                    }
+                ]
+            },
+            {
+                "text": "And king Arad the Canaanite, which dwelt in the south in the land of Canaan, heard of the coming of the children of Israel.",
+                "footnotes": [
+                    {
+                        "footnote": "HEB\u00a0the king of Arad. Num. 21:1 (1\u20133).",
+                        "start": 4,
+                        "end": 13
+                    },
+                    {
+                        "footnote": "HEB\u00a0Negev.",
+                        "start": 48,
+                        "end": 53
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And they departed from mount Hor, and pitched in Zalmonah.",
+                "footnotes": [
+                    {
+                        "footnote": "Num. 21:4 (4\u20139).",
+                        "start": 29,
+                        "end": 32
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And they departed from Zalmonah, and pitched in Punon.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And they departed from Punon, and pitched in Oboth.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And they departed from Oboth, and pitched in Ije-abarim, in the border of Moab.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And they departed from Iim, and pitched in Dibon-gad.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And they removed from Dibon-gad, and encamped in Almon-diblathaim.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And they removed from Almon-diblathaim, and pitched in the mountains of Abarim, before Nebo.",
+                "footnotes": [
+                    {
+                        "footnote": "Deut. 32:49 (48\u201352).",
+                        "start": 87,
+                        "end": 91
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And they departed from the mountains of Abarim, and pitched in the plains of Moab by Jordan near Jericho.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 92,
+                        "end": 96
+                    }
+                ]
+            },
+            {
+                "text": "And they pitched by Jordan, from Beth-jesimoth even unto Abel-shittim in the plains of Moab.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 47,
+                        "end": 51
+                    }
+                ]
+            },
+            {
+                "text": "And the Lord spake unto Moses in the plains of Moab by Jordan near Jericho, saying,",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 62,
+                        "end": 66
+                    }
+                ]
+            },
+            {
+                "text": "Speak unto the children of Israel, and say unto them, When ye are passed over Jordan into the land of Canaan;",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Then ye shall drive out all the inhabitants of the land from before you, and destroy all their pictures, and destroy all their molten images, and quite pluck down all their high places:",
+                "footnotes": [
+                    {
+                        "footnote": "Ex. 23:24; Deut. 6:19; 1\u00a0Ne. 17:32 (32\u201338).",
+                        "start": 14,
+                        "end": 19
+                    },
+                    {
+                        "footnote": "HEB\u00a0stone figures.",
+                        "start": 95,
+                        "end": 103
+                    },
+                    {
+                        "footnote": "OR\u00a0hill shrines.",
+                        "start": 173,
+                        "end": 184
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And ye shall dispossess the inhabitants of the land, and dwell therein: for I have given you the land to possess it.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 24,
+                        "end": 42
+                    }
+                ]
+            },
+            {
+                "text": "And ye shall divide the land by lot for an inheritance among your families: and to the more ye shall give the more inheritance, and to the fewer ye shall give the less inheritance: every man's inheritance shall be in the place where his lot falleth; according to the tribes of your fathers ye shall inherit.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Israel, Land of.",
+                        "start": 24,
+                        "end": 28
+                    },
+                    {
+                        "footnote": "D&C 85:7.",
+                        "start": 32,
+                        "end": 35
+                    },
+                    {
+                        "footnote": "Deut. 9:1 (1\u20136).",
+                        "start": 43,
+                        "end": 54
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 76,
+                        "end": 79
+                    },
+                    {
+                        "start": 193,
+                        "end": 204
+                    }
+                ]
+            },
+            {
+                "text": "But if ye will not drive out the inhabitants of the land from before you; then it shall come to pass, that those which ye let remain of them shall be pricks in your eyes, and thorns in your sides, and shall vex you in the land wherein ye dwell.",
+                "footnotes": [
+                    {
+                        "footnote": "Josh. 23:13; Ezek. 28:24.",
+                        "start": 150,
+                        "end": 156
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 141,
+                        "end": 149
+                    }
+                ]
+            },
+            {
+                "text": "Moreover it shall come to pass, that I shall do unto you, as I thought to do unto them.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 32,
+                        "end": 36
+                    }
+                ]
+            }
+        ]
+    }
+}

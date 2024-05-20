@@ -1,0 +1,130 @@
+{
+    "_id": "psalms100",
+    "nextChapterId": "psalms101",
+    "prevChapterId": "psalms99",
+    "volume": {
+        "title": "Old Testament",
+        "titleShort": "OT",
+        "titleOfficial": "The Old Testament",
+        "_id": "oldtestament"
+    },
+    "book": {
+        "title": "Psalms",
+        "titleShort": "Ps",
+        "titleOfficial": "",
+        "subtitle": "",
+        "summary": "",
+        "_id": "psalms"
+    },
+    "chapter": {
+        "bookTitle": "Psalms",
+        "delineation": "Chapter",
+        "number": 100,
+        "summary": "Serve the Lord with gladness, all who are His people\u2014Be thankful unto Him and bless His name.",
+        "chapterAugmentations": [],
+        "verses": [
+            {
+                "text": "Make a joyful noise unto the Lord, all ye lands.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Serve the Lord with gladness: come before his presence with singing.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Cheerful.",
+                        "start": 20,
+                        "end": 28
+                    },
+                    {
+                        "footnote": "TG\u00a0Singing.",
+                        "start": 60,
+                        "end": 67
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Know ye that the Lord he is God: it is he that hath made us, and not we ourselves; we are his people, and the sheep of his pasture.",
+                "footnotes": [
+                    {
+                        "footnote": "Eph. 2:10.",
+                        "start": 52,
+                        "end": 56
+                    },
+                    {
+                        "footnote": "TG\u00a0Sheep.",
+                        "start": 110,
+                        "end": 115
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 25,
+                        "end": 27
+                    },
+                    {
+                        "start": 33,
+                        "end": 38
+                    },
+                    {
+                        "start": 42,
+                        "end": 46
+                    },
+                    {
+                        "start": 83,
+                        "end": 89
+                    }
+                ]
+            },
+            {
+                "text": "Enter into his gates with thanksgiving, and into his courts with praise: be thankful unto him, and bless his name.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Thanksgiving.",
+                        "start": 26,
+                        "end": 38
+                    },
+                    {
+                        "footnote": "Ps. 116:19.",
+                        "start": 53,
+                        "end": 59
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 40,
+                        "end": 43
+                    },
+                    {
+                        "start": 95,
+                        "end": 98
+                    }
+                ]
+            },
+            {
+                "text": "For the Lord is good; his mercy is everlasting; and his truth endureth to all generations.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 13,
+                        "end": 15
+                    },
+                    {
+                        "start": 32,
+                        "end": 34
+                    },
+                    {
+                        "start": 62,
+                        "end": 70
+                    }
+                ]
+            }
+        ]
+    }
+}

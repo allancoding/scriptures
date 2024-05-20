@@ -1,0 +1,132 @@
+{
+    "_id": "psalms6",
+    "nextChapterId": "psalms7",
+    "prevChapterId": "psalms5",
+    "volume": {
+        "title": "Old Testament",
+        "titleShort": "OT",
+        "titleOfficial": "The Old Testament",
+        "_id": "oldtestament"
+    },
+    "book": {
+        "title": "Psalms",
+        "titleShort": "Ps",
+        "titleOfficial": "",
+        "subtitle": "",
+        "summary": "",
+        "_id": "psalms"
+    },
+    "chapter": {
+        "bookTitle": "Psalms",
+        "delineation": "Chapter",
+        "number": 6,
+        "summary": "David cries unto the Lord for mercy\u2014He asks to be healed and saved.",
+        "chapterAugmentations": [],
+        "verses": [
+            {
+                "text": "O Lord, rebuke me not in thine anger, neither chasten me in thy hot displeasure.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Have mercy upon me, O Lord; for I am weak: O Lord, heal me; for my bones are vexed.",
+                "footnotes": [
+                    {
+                        "footnote": "HEB\u00a0wretched, in misery.",
+                        "start": 37,
+                        "end": 41
+                    },
+                    {
+                        "footnote": "TG\u00a0Heal; Sickness.",
+                        "start": 51,
+                        "end": 55
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 34,
+                        "end": 36
+                    }
+                ]
+            },
+            {
+                "text": "My soul is also sore vexed: but thou, O Lord, how long?",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Return, O Lord, deliver my soul: oh save me for thy mercies' sake.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "For in death there is no remembrance of thee: in the grave who shall give thee thanks?",
+                "footnotes": [
+                    {
+                        "footnote": "Ps. 30:9.",
+                        "start": 53,
+                        "end": 58
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 13,
+                        "end": 21
+                    }
+                ]
+            },
+            {
+                "text": "I am weary with my groaning; all the night make I my bed to swim; I water my couch with my tears.",
+                "footnotes": [
+                    {
+                        "footnote": "2\u00a0Ne. 33:3.",
+                        "start": 91,
+                        "end": 96
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Mine eye is consumed because of grief; it waxeth old because of all mine enemies.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Depart from me, all ye workers of iniquity; for the Lord hath heard the voice of my weeping.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Sin.",
+                        "start": 34,
+                        "end": 42
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "The Lord hath heard my supplication; the Lord will receive my prayer.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Let all mine enemies be ashamed and sore vexed: let them return and be ashamed suddenly.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 64,
+                        "end": 67
+                    }
+                ]
+            }
+        ]
+    }
+}

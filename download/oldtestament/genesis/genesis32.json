@@ -1,0 +1,445 @@
+{
+    "_id": "genesis32",
+    "nextChapterId": "genesis33",
+    "prevChapterId": "genesis31",
+    "volume": {
+        "title": "Old Testament",
+        "titleShort": "OT",
+        "titleOfficial": "The Old Testament",
+        "_id": "oldtestament"
+    },
+    "book": {
+        "title": "Genesis",
+        "titleShort": "Gen",
+        "titleOfficial": "",
+        "subtitle": "",
+        "summary": "",
+        "_id": "genesis"
+    },
+    "chapter": {
+        "bookTitle": "Genesis",
+        "delineation": "Chapter",
+        "number": 32,
+        "summary": "Jacob sees angels\u2014He asks God to preserve him from Esau, for whom he prepares presents\u2014He wrestles all night with a messenger of God\u2014Jacob's name is changed to Israel\u2014He sees God face to face.",
+        "chapterAugmentations": [],
+        "verses": [
+            {
+                "text": "And Jacob went on his way, and the angels of God met him.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And when Jacob saw them, he said, This is God's host: and he called the name of that place Mahanaim.",
+                "footnotes": [
+                    {
+                        "footnote": "HEB\u00a0mahneh, \u201ccamp.\u201d D&C 64:24.",
+                        "start": 48,
+                        "end": 52
+                    },
+                    {
+                        "footnote": "IE\u00a0Two hosts, or camps.",
+                        "start": 91,
+                        "end": 99
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 39,
+                        "end": 41
+                    }
+                ]
+            },
+            {
+                "text": "And Jacob sent messengers before him to Esau his brother unto the land of Seir, the country of Edom.",
+                "footnotes": [
+                    {
+                        "footnote": "Gen. 36:8 (8\u20139); Deut. 2:5 (4\u20136); Ezek. 35:2 (1\u201315).",
+                        "start": 74,
+                        "end": 78
+                    },
+                    {
+                        "footnote": "Gen. 36:1 (1, 8).",
+                        "start": 95,
+                        "end": 99
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And he commanded them, saying, Thus shall ye speak unto my lord Esau; Thy servant Jacob saith thus, I have sojourned with Laban, and stayed there until now:",
+                "footnotes": [],
+                "associatedContents": [
+                    {
+                        "type": "paper-page-number",
+                        "data": 50
+                    }
+                ],
+                "italics": []
+            },
+            {
+                "text": "And I have oxen, and asses, flocks, and menservants, and womenservants: and I have sent to tell my lord, that I may find grace in thy sight.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And the messengers returned to Jacob, saying, We came to thy brother Esau, and also he cometh to meet thee, and four hundred men with him.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Then Jacob was greatly afraid and distressed: and he divided the people that was with him, and the flocks, and herds, and the camels, into two bands;",
+                "footnotes": [
+                    {
+                        "footnote": "Gen. 35:3.",
+                        "start": 34,
+                        "end": 44
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 77,
+                        "end": 80
+                    }
+                ]
+            },
+            {
+                "text": "And said, If Esau come to the one company, and smite it, then the other company which is left shall escape.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Jacob said, O God of my father Abraham, and God of my father Isaac, the Lord which saidst unto me, Return unto thy country, and to thy kindred, and I will deal well with thee:",
+                "footnotes": [
+                    {
+                        "footnote": "Matt. 22:32; 1\u00a0Ne. 19:10; D&C 136:21.",
+                        "start": 18,
+                        "end": 21
+                    },
+                    {
+                        "footnote": "Gen. 31:3 (3, 13).",
+                        "start": 103,
+                        "end": 109
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "I am not worthy of the least of all the mercies, and of all the truth, which thou hast shewed unto thy servant; for with my staff I passed over this Jordan; and now I am become two bands.",
+                "footnotes": [
+                    {
+                        "footnote": "OR\u00a0I am unworthy of all the mercies \u2026 TG\u00a0Worthiness.",
+                        "start": 0,
+                        "end": 1
+                    },
+                    {
+                        "footnote": "Gen. 24:27; 1\u00a0Ne. 1:20; Alma 34:38; D&C 46:15.",
+                        "start": 40,
+                        "end": 47
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Deliver me, I pray thee, from the hand of my brother, from the hand of Esau: for I fear him, lest he will come and smite me, and the mother with the children.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Deliver.",
+                        "start": 0,
+                        "end": 7
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 125,
+                        "end": 128
+                    }
+                ]
+            },
+            {
+                "text": "And thou saidst, I will surely do thee good, and make thy seed as the sand of the sea, which cannot be numbered for multitude.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Seed of Abraham.",
+                        "start": 58,
+                        "end": 62
+                    },
+                    {
+                        "footnote": "Hosea 1:10.",
+                        "start": 70,
+                        "end": 74
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And he lodged there that same night; and took of that which came to his hand a present for Esau his brother;",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Two hundred she goats, and twenty he goats, two hundred ewes, and twenty rams,",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Thirty milch camels with their colts, forty kine, and ten bulls, twenty she asses, and ten foals.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And he delivered them into the hand of his servants, every drove by themselves; and said unto his servants, Pass over before me, and put a space betwixt drove and drove.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 17,
+                        "end": 21
+                    }
+                ]
+            },
+            {
+                "text": "And he commanded the foremost, saying, When Esau my brother meeteth thee, and asketh thee, saying, Whose art thou? and whither goest thou? and whose are these before thee?",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 105,
+                        "end": 108
+                    },
+                    {
+                        "start": 149,
+                        "end": 152
+                    }
+                ]
+            },
+            {
+                "text": "Then thou shalt say, They be thy servant Jacob's; it is a present sent unto my lord Esau: and, behold, also he is behind us.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 21,
+                        "end": 28
+                    },
+                    {
+                        "start": 53,
+                        "end": 55
+                    },
+                    {
+                        "start": 111,
+                        "end": 113
+                    }
+                ]
+            },
+            {
+                "text": "And so commanded he the second, and the third, and all that followed the droves, saying, On this manner shall ye speak unto Esau, when ye find him.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And say ye moreover, Behold, thy servant Jacob is behind us. For he said, I will appease him with the present that goeth before me, and afterward I will see his face; peradventure he will accept of me.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 47,
+                        "end": 49
+                    }
+                ]
+            },
+            {
+                "text": "So went the present over before him: and himself lodged that night in the company.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And he rose up that night, and took his two wives, and his two womenservants, and his eleven sons, and passed over the ford Jabbok.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And he took them, and sent them over the brook, and sent over that he had.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Jacob was left alone; and there wrestled a man with him until the breaking of the day.",
+                "footnotes": [
+                    {
+                        "footnote": "Enos 1:2 (1\u201312); Alma 8:10.",
+                        "start": 36,
+                        "end": 44
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And when he saw that he prevailed not against him, he touched the hollow of his thigh; and the hollow of Jacob's thigh was out of joint, as he wrestled with him.",
+                "footnotes": [],
+                "associatedContents": [
+                    {
+                        "type": "paper-page-number",
+                        "data": 51
+                    }
+                ],
+                "italics": []
+            },
+            {
+                "text": "And he said, Let me go, for the day breaketh. And he said, I will not let thee go, except thou bless me.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And he said unto him, What is thy name? And he said, Jacob.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 27,
+                        "end": 29
+                    }
+                ]
+            },
+            {
+                "text": "And he said, Thy name shall be called no more Jacob, but Israel: for as a prince hast thou power with God and with men, and hast prevailed.",
+                "footnotes": [
+                    {
+                        "footnote": "Gen. 25:26. TG\u00a0Name.",
+                        "start": 17,
+                        "end": 21
+                    },
+                    {
+                        "footnote": "IE\u00a0He perseveres (with) God; it may also mean, Let God prevail. TG\u00a0Israel, Origins of.",
+                        "start": 57,
+                        "end": 63
+                    },
+                    {
+                        "footnote": "OR\u00a0for thou hast persevered with God\u00a0\u2026",
+                        "start": 65,
+                        "end": 68
+                    },
+                    {
+                        "footnote": "Ps. 135:4; 3\u00a0Ne. 5:21 (21\u201326); D&C 49:24 (23\u201325); 52:2 (1\u20133); 132:37.",
+                        "start": 74,
+                        "end": 80
+                    },
+                    {
+                        "footnote": "TG\u00a0Priesthood, Power of.",
+                        "start": 91,
+                        "end": 96
+                    },
+                    {
+                        "footnote": "Hosea 12:4.",
+                        "start": 129,
+                        "end": 138
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Jacob asked him, and said, Tell me, I pray thee, thy name. And he said, Wherefore is it that thou dost ask after my name? And he blessed him there.",
+                "footnotes": [
+                    {
+                        "footnote": "Judg. 13:18; Mosiah 5:12 (9\u201314); D&C 18:25; 130:11. TG\u00a0Name.",
+                        "start": 120,
+                        "end": 124
+                    },
+                    {
+                        "footnote": "Gen. 48:16.",
+                        "start": 133,
+                        "end": 140
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 16,
+                        "end": 20
+                    },
+                    {
+                        "start": 36,
+                        "end": 39
+                    },
+                    {
+                        "start": 86,
+                        "end": 88
+                    },
+                    {
+                        "start": 92,
+                        "end": 96
+                    }
+                ]
+            },
+            {
+                "text": "And Jacob called the name of the place Peniel: for I have seen God face to face, and my life is preserved.",
+                "footnotes": [
+                    {
+                        "footnote": "IE\u00a0The face of God.",
+                        "start": 39,
+                        "end": 45
+                    },
+                    {
+                        "footnote": "See JST\u00a0Ex. 33:20, 23 (Appendix). TG\u00a0God, Knowledge about; God, Privilege of Seeing.",
+                        "start": 58,
+                        "end": 62
+                    },
+                    {
+                        "footnote": "Ether 12:39; D&C 17:1; Moses 1:11 (2, 11, 31); 7:4. TG\u00a0God, Body of, Corporeal Nature; God, Manifestations of.",
+                        "start": 67,
+                        "end": 79
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And as he passed over Penuel the sun rose upon him, and he halted upon his thigh.",
+                "footnotes": [
+                    {
+                        "footnote": "Variant of Peniel.",
+                        "start": 22,
+                        "end": 28
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Therefore the children of Israel eat not of the sinew which shrank, which is upon the hollow of the thigh, unto this day: because he touched the hollow of Jacob's thigh in the sinew that shrank.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 41,
+                        "end": 43
+                    },
+                    {
+                        "start": 74,
+                        "end": 76
+                    }
+                ]
+            }
+        ]
+    }
+}

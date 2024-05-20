@@ -1,0 +1,352 @@
+{
+    "_id": "genesis5",
+    "nextChapterId": "genesis6",
+    "prevChapterId": "genesis4",
+    "volume": {
+        "title": "Old Testament",
+        "titleShort": "OT",
+        "titleOfficial": "The Old Testament",
+        "_id": "oldtestament"
+    },
+    "book": {
+        "title": "Genesis",
+        "titleShort": "Gen",
+        "titleOfficial": "",
+        "subtitle": "",
+        "summary": "",
+        "_id": "genesis"
+    },
+    "chapter": {
+        "bookTitle": "Genesis",
+        "delineation": "Chapter",
+        "number": 5,
+        "summary": "The generations of Adam are Adam, Seth, Enos, Cainan, Mahalaleel, Jared, Enoch (who walked with God), Methuselah, Lamech, and Noah (who begat Shem, Ham, and Japheth).",
+        "chapterAugmentations": [],
+        "verses": [
+            {
+                "text": "This is the book of the generations of Adam. In the day that God created man, in the likeness of God made he him;",
+                "footnotes": [
+                    {
+                        "footnote": "1\u00a0Ne. 19:23; 3\u00a0Ne. 24:16; D&C 85:9 (7\u20139). TG\u00a0Scriptures, Writing of.",
+                        "start": 12,
+                        "end": 16
+                    },
+                    {
+                        "footnote": "TG\u00a0Priesthood, History of.",
+                        "start": 24,
+                        "end": 35
+                    },
+                    {
+                        "footnote": "TG\u00a0God, Body of, Corporeal Nature.",
+                        "start": 85,
+                        "end": 93
+                    },
+                    {
+                        "footnote": "TG\u00a0Man, Physical Creation of.",
+                        "start": 101,
+                        "end": 105
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 5,
+                        "end": 7
+                    }
+                ]
+            },
+            {
+                "text": "Male and female created he them; and blessed them, and called their name Adam, in the day when they were created.",
+                "footnotes": [
+                    {
+                        "footnote": "In Hebrew adam is also a common noun, meaning man, or mankind. TG\u00a0Adam.",
+                        "start": 73,
+                        "end": 77
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Adam lived an hundred and thirty years, and begat a son in his own likeness, after his image; and called his name Seth:",
+                "footnotes": [
+                    {
+                        "footnote": "Gen. 1:26 (26\u201328); D&C 107:43 (42\u201343).",
+                        "start": 71,
+                        "end": 79
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 54,
+                        "end": 59
+                    }
+                ]
+            },
+            {
+                "text": "And the days of Adam after he had begotten Seth were eight hundred years: and he begat sons and daughters:",
+                "footnotes": [
+                    {
+                        "footnote": "D&C 107:41 (41\u201350); Moses 5:2 (2\u20133). TG\u00a0Adam.",
+                        "start": 16,
+                        "end": 20
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And all the days that Adam lived were nine hundred and thirty years: and he died.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Seth lived an hundred and five years, and begat Enos:",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Seth lived after he begat Enos eight hundred and seven years, and begat sons and daughters:",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And all the days of Seth were nine hundred and twelve years: and he died.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Enos lived ninety years, and begat Cainan:",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Enos lived after he begat Cainan eight hundred and fifteen years, and begat sons and daughters:",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And all the days of Enos were nine hundred and five years: and he died.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Cainan lived seventy years, and begat Mahalaleel:",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Cainan lived after he begat Mahalaleel eight hundred and forty years, and begat sons and daughters:",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And all the days of Cainan were nine hundred and ten years: and he died.",
+                "footnotes": [
+                    {
+                        "footnote": "D&C 107:45 (45, 53); Moses 6:19 (11\u201325).",
+                        "start": 20,
+                        "end": 26
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Mahalaleel lived sixty and five years, and begat Jared:",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Mahalaleel lived after he begat Jared eight hundred and thirty years, and begat sons and daughters:",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And all the days of Mahalaleel were eight hundred ninety and five years: and he died.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Jared lived an hundred sixty and two years, and he begat Enoch:",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Jared lived after he begat Enoch eight hundred years, and begat sons and daughters:",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And all the days of Jared were nine hundred sixty and two years: and he died.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Enoch lived sixty and five years, and begat Methuselah:",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Enoch walked with God after he begat Methuselah three hundred years, and begat sons and daughters:",
+                "footnotes": [
+                    {
+                        "footnote": "Moses 6:21 (21\u201368); 7:69; 8:1 (1\u20132).",
+                        "start": 4,
+                        "end": 9
+                    },
+                    {
+                        "footnote": "D&C 107:49.",
+                        "start": 10,
+                        "end": 16
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And all the days of Enoch were three hundred sixty and five years:",
+                "footnotes": [
+                    {
+                        "footnote": "Jude 1:14; D&C 38:4; 76:57; 107:57 (48\u201357); 133:54; Moses 7:68 (68\u201369); 8:1.",
+                        "start": 20,
+                        "end": 25
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Enoch walked with God: and he was not; for God took him.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Translated Beings; Zion.",
+                        "start": 4,
+                        "end": 9
+                    },
+                    {
+                        "footnote": "TG\u00a0God, Access to; God, Manifestations of; Walking with God.",
+                        "start": 10,
+                        "end": 16
+                    },
+                    {
+                        "footnote": "Moses 7:69 (68\u201369).",
+                        "start": 51,
+                        "end": 55
+                    }
+                ],
+                "associatedContents": [
+                    {
+                        "class": "iconPointer-OKie_ icon-eLakR icon-ieVZ1",
+                        "data-pointer-type": "media",
+                        "data-scroll-id": "p24",
+                        "title": "Associated Content"
+                    }
+                ],
+                "italics": [
+                    {
+                        "start": 34,
+                        "end": 37
+                    }
+                ]
+            },
+            {
+                "text": "And Methuselah lived an hundred eighty and seven years, and begat Lamech:",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Methuselah lived after he begat Lamech seven hundred eighty and two years, and begat sons and daughters:",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And all the days of Methuselah were nine hundred sixty and nine years: and he died.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Lamech lived an hundred eighty and two years, and begat a son:",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And he called his name Noah, saying, This same shall comfort us concerning our work and toil of our hands, because of the ground which the Lord hath cursed.",
+                "footnotes": [
+                    {
+                        "footnote": "IE\u00a0Rest or Repose. D&C 84:14 (14\u201315); 133:54. TG\u00a0Flood.",
+                        "start": 23,
+                        "end": 27
+                    },
+                    {
+                        "footnote": "Moses 8:20 (16\u201320).",
+                        "start": 53,
+                        "end": 60
+                    },
+                    {
+                        "footnote": "TG\u00a0Curse; Earth, Curse of.",
+                        "start": 149,
+                        "end": 155
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 42,
+                        "end": 46
+                    }
+                ]
+            },
+            {
+                "text": "And Lamech lived after he begat Noah five hundred ninety and five years, and begat sons and daughters:",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And all the days of Lamech were seven hundred seventy and seven years: and he died.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Noah was five hundred years old: and Noah begat Shem, Ham, and Japheth.",
+                "footnotes": [
+                    {
+                        "footnote": "Gen. 9:18 (18\u201327); 10:1; Moses 8:12.",
+                        "start": 46,
+                        "end": 51
+                    },
+                    {
+                        "footnote": "Luke 3:36 (36\u201338).",
+                        "start": 52,
+                        "end": 56
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            }
+        ]
+    }
+}

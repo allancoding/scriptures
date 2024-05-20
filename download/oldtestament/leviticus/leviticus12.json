@@ -1,0 +1,103 @@
+{
+    "_id": "leviticus12",
+    "nextChapterId": "leviticus13",
+    "prevChapterId": "leviticus11",
+    "volume": {
+        "title": "Old Testament",
+        "titleShort": "OT",
+        "titleOfficial": "The Old Testament",
+        "_id": "oldtestament"
+    },
+    "book": {
+        "title": "Leviticus",
+        "titleShort": "Lev",
+        "titleOfficial": "",
+        "subtitle": "",
+        "summary": "",
+        "_id": "leviticus"
+    },
+    "chapter": {
+        "bookTitle": "Leviticus",
+        "delineation": "Chapter",
+        "number": 12,
+        "summary": "The Lord reveals the law of purification of women after childbirth, including a sin offering.",
+        "chapterAugmentations": [],
+        "verses": [
+            {
+                "text": "And the Lord spake unto Moses, saying,",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Speak unto the children of Israel, saying, If a woman have conceived seed, and born a man child: then she shall be unclean seven days; according to the days of the separation for her infirmity shall she be unclean.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And in the eighth day the flesh of his foreskin shall be circumcised.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Circumcision.",
+                        "start": 57,
+                        "end": 68
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And she shall then continue in the blood of her purifying three and thirty days; she shall touch no hallowed thing, nor come into the sanctuary, until the days of her purifying be fulfilled.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "But if she bear a maid child, then she shall be unclean two weeks, as in her separation: and she shall continue in the blood of her purifying threescore and six days.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And when the days of her purifying are fulfilled, for a son, or for a daughter, she shall bring a lamb of the first year for a burnt offering, and a young pigeon, or a turtledove, for a sin offering, unto the door of the tabernacle of the congregation, unto the priest:",
+                "footnotes": [],
+                "associatedContents": [
+                    {
+                        "type": "paper-page-number",
+                        "data": 162
+                    }
+                ],
+                "italics": []
+            },
+            {
+                "text": "Who shall offer it before the Lord, and make an atonement for her; and she shall be cleansed from the issue of her blood. This is the law for her that hath born a male or a female.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 127,
+                        "end": 129
+                    }
+                ]
+            },
+            {
+                "text": "And if she be not able to bring a lamb, then she shall bring two turtles, or two young pigeons; the one for the burnt offering, and the other for a sin offering: and the priest shall make an atonement for her, and she shall be clean.",
+                "footnotes": [
+                    {
+                        "footnote": "Lev. 5:7.",
+                        "start": 18,
+                        "end": 22
+                    },
+                    {
+                        "footnote": "Lev. 15:15 (14\u201315).",
+                        "start": 191,
+                        "end": 200
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            }
+        ]
+    }
+}

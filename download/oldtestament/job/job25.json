@@ -1,0 +1,94 @@
+{
+    "_id": "job25",
+    "nextChapterId": "job26",
+    "prevChapterId": "job24",
+    "volume": {
+        "title": "Old Testament",
+        "titleShort": "OT",
+        "titleOfficial": "The Old Testament",
+        "_id": "oldtestament"
+    },
+    "book": {
+        "title": "Job",
+        "titleShort": "Job",
+        "titleOfficial": "",
+        "subtitle": "",
+        "summary": "",
+        "_id": "job"
+    },
+    "chapter": {
+        "bookTitle": "Job",
+        "delineation": "Chapter",
+        "number": 25,
+        "summary": "Bildad bemoans the lowly state of man and classifies him as a worm.",
+        "chapterAugmentations": [],
+        "verses": [
+            {
+                "text": "Then answered Bildad the Shuhite, and said,",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Dominion and fear are with him, he maketh peace in his high places.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 18,
+                        "end": 21
+                    }
+                ]
+            },
+            {
+                "text": "Is there any number of his armies? and upon whom doth not his light arise?",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "How then can man be justified with God? or how can he be clean that is born of a woman?",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Justification.",
+                        "start": 20,
+                        "end": 29
+                    },
+                    {
+                        "footnote": "Ether 12:37; D&C 88:74 (74\u201375); 135:5 (4\u20135).",
+                        "start": 57,
+                        "end": 62
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 63,
+                        "end": 70
+                    }
+                ]
+            },
+            {
+                "text": "Behold even to the moon, and it shineth not; yea, the stars are not pure in his sight.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "How much less man, that is a worm? and the son of man, which is a worm?",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 19,
+                        "end": 26
+                    },
+                    {
+                        "start": 55,
+                        "end": 63
+                    }
+                ]
+            }
+        ]
+    }
+}

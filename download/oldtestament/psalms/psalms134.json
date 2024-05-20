@@ -1,0 +1,74 @@
+{
+    "_id": "psalms134",
+    "nextChapterId": "psalms135",
+    "prevChapterId": "psalms133",
+    "volume": {
+        "title": "Old Testament",
+        "titleShort": "OT",
+        "titleOfficial": "The Old Testament",
+        "_id": "oldtestament"
+    },
+    "book": {
+        "title": "Psalms",
+        "titleShort": "Ps",
+        "titleOfficial": "",
+        "subtitle": "",
+        "summary": "",
+        "_id": "psalms"
+    },
+    "chapter": {
+        "bookTitle": "Psalms",
+        "delineation": "Chapter",
+        "number": 134,
+        "summary": "Bless the Lord, and He will bless you.",
+        "chapterAugmentations": [],
+        "verses": [
+            {
+                "text": "Behold, bless ye the Lord, all ye servants of the Lord, which by night stand in the house of the Lord.",
+                "footnotes": [
+                    {
+                        "footnote": "1\u00a0Chr. 9:33.",
+                        "start": 65,
+                        "end": 70
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 31,
+                        "end": 33
+                    }
+                ]
+            },
+            {
+                "text": "Lift up your hands in the sanctuary, and bless the Lord.",
+                "footnotes": [
+                    {
+                        "footnote": "Ps. 63:4 (2\u20134).",
+                        "start": 13,
+                        "end": 18
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 19,
+                        "end": 21
+                    }
+                ]
+            },
+            {
+                "text": "The Lord that made heaven and earth bless thee out of Zion.",
+                "footnotes": [
+                    {
+                        "footnote": "Ps. 128:5.",
+                        "start": 36,
+                        "end": 41
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            }
+        ]
+    }
+}

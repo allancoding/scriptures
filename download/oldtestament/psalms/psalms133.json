@@ -1,0 +1,97 @@
+{
+    "_id": "psalms133",
+    "nextChapterId": "psalms134",
+    "prevChapterId": "psalms132",
+    "volume": {
+        "title": "Old Testament",
+        "titleShort": "OT",
+        "titleOfficial": "The Old Testament",
+        "_id": "oldtestament"
+    },
+    "book": {
+        "title": "Psalms",
+        "titleShort": "Ps",
+        "titleOfficial": "",
+        "subtitle": "",
+        "summary": "",
+        "_id": "psalms"
+    },
+    "chapter": {
+        "bookTitle": "Psalms",
+        "delineation": "Chapter",
+        "number": 133,
+        "summary": "David says, It is pleasant for brethren to dwell together in unity!",
+        "chapterAugmentations": [],
+        "verses": [
+            {
+                "text": "Behold, how good and how pleasant it is for brethren to dwell together in unity!",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Family, Love within.",
+                        "start": 44,
+                        "end": 52
+                    },
+                    {
+                        "footnote": "TG\u00a0Common Consent; Unity.",
+                        "start": 74,
+                        "end": 79
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 34,
+                        "end": 39
+                    }
+                ]
+            },
+            {
+                "text": "It is like the precious ointment upon the head, that ran down upon the beard, even Aaron's beard: that went down to the skirts of his garments;",
+                "footnotes": [
+                    {
+                        "footnote": "OR\u00a0collar.",
+                        "start": 120,
+                        "end": 126
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 0,
+                        "end": 5
+                    },
+                    {
+                        "start": 78,
+                        "end": 82
+                    }
+                ]
+            },
+            {
+                "text": "As the dew of Hermon, and as the dew that descended upon the mountains of Zion: for there the Lord commanded the blessing, even life for evermore.",
+                "footnotes": [
+                    {
+                        "footnote": "Deut. 3:9 (8\u20139).",
+                        "start": 14,
+                        "end": 20
+                    },
+                    {
+                        "footnote": "Deut. 28:8 (1\u20139).",
+                        "start": 99,
+                        "end": 108
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 22,
+                        "end": 36
+                    },
+                    {
+                        "start": 123,
+                        "end": 127
+                    }
+                ]
+            }
+        ]
+    }
+}

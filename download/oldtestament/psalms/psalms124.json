@@ -1,0 +1,126 @@
+{
+    "_id": "psalms124",
+    "nextChapterId": "psalms125",
+    "prevChapterId": "psalms123",
+    "volume": {
+        "title": "Old Testament",
+        "titleShort": "OT",
+        "titleOfficial": "The Old Testament",
+        "_id": "oldtestament"
+    },
+    "book": {
+        "title": "Psalms",
+        "titleShort": "Ps",
+        "titleOfficial": "",
+        "subtitle": "",
+        "summary": "",
+        "_id": "psalms"
+    },
+    "chapter": {
+        "bookTitle": "Psalms",
+        "delineation": "Chapter",
+        "number": 124,
+        "summary": "David says, Israel's help is in the name of the Lord.",
+        "chapterAugmentations": [],
+        "verses": [
+            {
+                "text": "If it had not been the Lord who was on our side, now may Israel say;",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 3,
+                        "end": 9
+                    },
+                    {
+                        "start": 14,
+                        "end": 18
+                    }
+                ]
+            },
+            {
+                "text": "If it had not been the Lord who was on our side, when men rose up against us:",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 3,
+                        "end": 9
+                    },
+                    {
+                        "start": 14,
+                        "end": 18
+                    }
+                ]
+            },
+            {
+                "text": "Then they had swallowed us up quick, when their wrath was kindled against us:",
+                "footnotes": [
+                    {
+                        "footnote": "Ps. 56:1 (1\u20132); Prov. 1:12.",
+                        "start": 14,
+                        "end": 23
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Then the waters had overwhelmed us, the stream had gone over our soul:",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Then the proud waters had gone over our soul.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Blessed be the Lord, who hath not given us as a prey to their teeth.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 8,
+                        "end": 10
+                    },
+                    {
+                        "start": 43,
+                        "end": 45
+                    }
+                ]
+            },
+            {
+                "text": "Our soul is escaped as a bird out of the snare of the fowlers: the snare is broken, and we are escaped.",
+                "footnotes": [
+                    {
+                        "footnote": "Ps. 91:3.",
+                        "start": 41,
+                        "end": 46
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Our help is in the name of the Lord, who made heaven and earth.",
+                "footnotes": [
+                    {
+                        "footnote": "Ps. 121:2.",
+                        "start": 4,
+                        "end": 8
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 9,
+                        "end": 11
+                    }
+                ]
+            }
+        ]
+    }
+}

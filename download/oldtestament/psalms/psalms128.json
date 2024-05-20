@@ -1,0 +1,147 @@
+{
+    "_id": "psalms128",
+    "nextChapterId": "psalms129",
+    "prevChapterId": "psalms127",
+    "volume": {
+        "title": "Old Testament",
+        "titleShort": "OT",
+        "titleOfficial": "The Old Testament",
+        "_id": "oldtestament"
+    },
+    "book": {
+        "title": "Psalms",
+        "titleShort": "Ps",
+        "titleOfficial": "",
+        "subtitle": "",
+        "summary": "",
+        "_id": "psalms"
+    },
+    "chapter": {
+        "bookTitle": "Psalms",
+        "delineation": "Chapter",
+        "number": 128,
+        "summary": "Blessed are those who fear the Lord and walk in His ways.",
+        "chapterAugmentations": [],
+        "verses": [
+            {
+                "text": "Blessed is every one that feareth the Lord; that walketh in his ways.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Righteousness.",
+                        "start": 49,
+                        "end": 56
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 8,
+                        "end": 10
+                    }
+                ]
+            },
+            {
+                "text": "For thou shalt eat the labour of thine hands: happy shalt thou be, and it shall be well with thee.",
+                "footnotes": [
+                    {
+                        "footnote": "2\u00a0Ne. 13:10.",
+                        "start": 15,
+                        "end": 18
+                    },
+                    {
+                        "footnote": "Isa. 3:10.",
+                        "start": 23,
+                        "end": 29
+                    },
+                    {
+                        "footnote": "TG\u00a0Happiness.",
+                        "start": 46,
+                        "end": 51
+                    },
+                    {
+                        "footnote": "TG\u00a0Health.",
+                        "start": 83,
+                        "end": 87
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 52,
+                        "end": 57
+                    },
+                    {
+                        "start": 63,
+                        "end": 66
+                    },
+                    {
+                        "start": 71,
+                        "end": 82
+                    }
+                ]
+            },
+            {
+                "text": "Thy wife shall be as a fruitful vine by the sides of thine house: thy children like olive plants round about thy table.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Marriage, Husbands.",
+                        "start": 4,
+                        "end": 8
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 9,
+                        "end": 17
+                    }
+                ]
+            },
+            {
+                "text": "Behold, that thus shall the man be blessed that feareth the Lord.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "The Lord shall bless thee out of Zion: and thou shalt see the good of Jerusalem all the days of thy life.",
+                "footnotes": [
+                    {
+                        "footnote": "Ps. 134:3.",
+                        "start": 15,
+                        "end": 20
+                    },
+                    {
+                        "footnote": "TG\u00a0Zion.",
+                        "start": 33,
+                        "end": 37
+                    }
+                ],
+                "associatedContents": [
+                    {
+                        "type": "paper-page-number",
+                        "data": 801
+                    }
+                ],
+                "italics": []
+            },
+            {
+                "text": "Yea, thou shalt see thy children's children, and peace upon Israel.",
+                "footnotes": [
+                    {
+                        "footnote": "Ps. 125:5.",
+                        "start": 49,
+                        "end": 54
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 45,
+                        "end": 48
+                    }
+                ]
+            }
+        ]
+    }
+}

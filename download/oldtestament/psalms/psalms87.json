@@ -1,0 +1,126 @@
+{
+    "_id": "psalms87",
+    "nextChapterId": "psalms88",
+    "prevChapterId": "psalms86",
+    "volume": {
+        "title": "Old Testament",
+        "titleShort": "OT",
+        "titleOfficial": "The Old Testament",
+        "_id": "oldtestament"
+    },
+    "book": {
+        "title": "Psalms",
+        "titleShort": "Ps",
+        "titleOfficial": "",
+        "subtitle": "",
+        "summary": "",
+        "_id": "psalms"
+    },
+    "chapter": {
+        "bookTitle": "Psalms",
+        "delineation": "Chapter",
+        "number": 87,
+        "summary": "The Lord loves the gates of Zion, and He Himself will establish Zion.",
+        "chapterAugmentations": [],
+        "verses": [
+            {
+                "text": "His foundation is in the holy mountains.",
+                "footnotes": [
+                    {
+                        "footnote": "Isa. 28:16.",
+                        "start": 4,
+                        "end": 14
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 15,
+                        "end": 17
+                    }
+                ]
+            },
+            {
+                "text": "The Lord loveth the gates of Zion more than all the dwellings of Jacob.",
+                "footnotes": [
+                    {
+                        "footnote": "IE\u00a0cities.",
+                        "start": 20,
+                        "end": 25
+                    },
+                    {
+                        "footnote": "TG\u00a0Zion.",
+                        "start": 29,
+                        "end": 33
+                    }
+                ],
+                "associatedContents": [
+                    {
+                        "type": "paper-page-number",
+                        "data": 771
+                    }
+                ],
+                "italics": []
+            },
+            {
+                "text": "Glorious things are spoken of thee, O city of God. Selah.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "I will make mention of Rahab and Babylon to them that know me: behold Philistia, and Tyre, with Ethiopia; this man was born there.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 111,
+                        "end": 114
+                    }
+                ]
+            },
+            {
+                "text": "And of Zion it shall be said, This and that man was born in her: and the highest himself shall establish her.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "The Lord shall count, when he writeth up the people, that this man was born there. Selah.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 53,
+                        "end": 57
+                    },
+                    {
+                        "start": 63,
+                        "end": 66
+                    }
+                ]
+            },
+            {
+                "text": "As well the singers as the players on instruments shall be there: all my springs are in thee.",
+                "footnotes": [
+                    {
+                        "footnote": "OR\u00a0sources; i.e., of joy, happiness, etc.",
+                        "start": 73,
+                        "end": 80
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 50,
+                        "end": 65
+                    },
+                    {
+                        "start": 81,
+                        "end": 84
+                    }
+                ]
+            }
+        ]
+    }
+}

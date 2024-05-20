@@ -1,0 +1,308 @@
+{
+    "_id": "job10",
+    "nextChapterId": "job11",
+    "prevChapterId": "job9",
+    "volume": {
+        "title": "Old Testament",
+        "titleShort": "OT",
+        "titleOfficial": "The Old Testament",
+        "_id": "oldtestament"
+    },
+    "book": {
+        "title": "Job",
+        "titleShort": "Job",
+        "titleOfficial": "",
+        "subtitle": "",
+        "summary": "",
+        "_id": "job"
+    },
+    "chapter": {
+        "bookTitle": "Job",
+        "delineation": "Chapter",
+        "number": 10,
+        "summary": "Job is weary of life\u2014He reasons with God about his afflictions\u2014He asks, Why hast Thou brought me forth out of the womb?",
+        "chapterAugmentations": [],
+        "verses": [
+            {
+                "text": "My soul is weary of my life; I will leave my complaint upon myself; I will speak in the bitterness of my soul.",
+                "footnotes": [
+                    {
+                        "footnote": "Isa. 38:15; Moses 7:44 (42\u201344).",
+                        "start": 88,
+                        "end": 98
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "I will say unto God, Do not condemn me; shew me wherefore thou contendest with me.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Is it good unto thee that thou shouldest oppress, that thou shouldest despise the work of thine hands, and shine upon the counsel of the wicked?",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 0,
+                        "end": 5
+                    }
+                ]
+            },
+            {
+                "text": "Hast thou eyes of flesh? or seest thou as man seeth?",
+                "footnotes": [
+                    {
+                        "footnote": "1\u00a0Sam. 16:7; D&C 121:24.",
+                        "start": 28,
+                        "end": 33
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Are thy days as the days of man? are thy years as man's days,",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 0,
+                        "end": 3
+                    },
+                    {
+                        "start": 33,
+                        "end": 36
+                    }
+                ]
+            },
+            {
+                "text": "That thou inquirest after mine iniquity, and searchest after my sin?",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Thou knowest that I am not wicked; and there is none that can deliver out of thine hand.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 39,
+                        "end": 47
+                    }
+                ]
+            },
+            {
+                "text": "Thine hands have made me and fashioned me together round about; yet thou dost destroy me.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Jesus Christ, Creator.",
+                        "start": 17,
+                        "end": 21
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Remember, I beseech thee, that thou hast made me as the clay; and wilt thou bring me into dust again?",
+                "footnotes": [
+                    {
+                        "footnote": "Gen. 3:19; Alma 42:30; Moses 4:25.",
+                        "start": 90,
+                        "end": 94
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Hast thou not poured me out as milk, and curdled me like cheese?",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Thou hast clothed me with skin and flesh, and hast fenced me with bones and sinews.",
+                "footnotes": [
+                    {
+                        "footnote": "HEB\u00a0covered, protected.",
+                        "start": 51,
+                        "end": 57
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Thou hast granted me life and favour, and thy visitation hath preserved my spirit.",
+                "footnotes": [
+                    {
+                        "footnote": "Moses 1:9 (9\u201310).",
+                        "start": 46,
+                        "end": 56
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And these things hast thou hid in thine heart: I know that this is with thee.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 10,
+                        "end": 16
+                    },
+                    {
+                        "start": 64,
+                        "end": 66
+                    }
+                ]
+            },
+            {
+                "text": "If I sin, then thou markest me, and thou wilt not acquit me from mine iniquity.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "If I be wicked, woe unto me; and if I be righteous, yet will I not lift up my head. I am full of confusion; therefore see thou mine affliction;",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 33,
+                        "end": 35
+                    },
+                    {
+                        "start": 52,
+                        "end": 55
+                    },
+                    {
+                        "start": 84,
+                        "end": 88
+                    }
+                ]
+            },
+            {
+                "text": "For it increaseth. Thou huntest me as a fierce lion: and again thou shewest thyself marvellous upon me.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Thou renewest thy witnesses against me, and increasest thine indignation upon me; changes and war are against me.",
+                "footnotes": [
+                    {
+                        "footnote": "Ps. 55:19.",
+                        "start": 82,
+                        "end": 89
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 98,
+                        "end": 101
+                    }
+                ]
+            },
+            {
+                "text": "Wherefore then hast thou brought me forth out of the womb? Oh that I had given up the ghost, and no eye had seen me!",
+                "footnotes": [
+                    {
+                        "footnote": "Job 3:11.",
+                        "start": 86,
+                        "end": 91
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "I should have been as though I had not been; I should have been carried from the womb to the grave.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Are not my days few? cease then, and let me alone, that I may take comfort a little,",
+                "footnotes": [
+                    {
+                        "footnote": "Job 7:6.",
+                        "start": 11,
+                        "end": 15
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 0,
+                        "end": 3
+                    },
+                    {
+                        "start": 27,
+                        "end": 36
+                    }
+                ]
+            },
+            {
+                "text": "Before I go whence I shall not return, even to the land of darkness and the shadow of death;",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Death.",
+                        "start": 86,
+                        "end": 91
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 12,
+                        "end": 18
+                    },
+                    {
+                        "start": 39,
+                        "end": 43
+                    }
+                ]
+            },
+            {
+                "text": "A land of darkness, as darkness itself; and of the shadow of death, without any order, and where the light is as darkness.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Order.",
+                        "start": 80,
+                        "end": 85
+                    },
+                    {
+                        "footnote": "TG\u00a0Light [noun].",
+                        "start": 101,
+                        "end": 106
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 32,
+                        "end": 43
+                    },
+                    {
+                        "start": 91,
+                        "end": 96
+                    },
+                    {
+                        "start": 107,
+                        "end": 109
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "_id": "psalms123",
+    "nextChapterId": "psalms124",
+    "prevChapterId": "psalms122",
+    "volume": {
+        "title": "Old Testament",
+        "titleShort": "OT",
+        "titleOfficial": "The Old Testament",
+        "_id": "oldtestament"
+    },
+    "book": {
+        "title": "Psalms",
+        "titleShort": "Ps",
+        "titleOfficial": "",
+        "subtitle": "",
+        "summary": "",
+        "_id": "psalms"
+    },
+    "chapter": {
+        "bookTitle": "Psalms",
+        "delineation": "Chapter",
+        "number": 123,
+        "summary": "Lift up your eyes unto the Lord, and plead with Him for mercy.",
+        "chapterAugmentations": [],
+        "verses": [
+            {
+                "text": "Unto thee lift I up mine eyes, O thou that dwellest in the heavens.",
+                "footnotes": [
+                    {
+                        "footnote": "Ps. 121:1; Ezek. 18:6.",
+                        "start": 10,
+                        "end": 14
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Behold, as the eyes of servants look unto the hand of their masters, and as the eyes of a maiden unto the hand of her mistress; so our eyes wait upon the Lord our God, until that he have mercy upon us.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 32,
+                        "end": 36
+                    },
+                    {
+                        "start": 69,
+                        "end": 72
+                    },
+                    {
+                        "start": 140,
+                        "end": 144
+                    }
+                ]
+            },
+            {
+                "text": "Have mercy upon us, O Lord, have mercy upon us: for we are exceedingly filled with contempt.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Our soul is exceedingly filled with the scorning of those that are at ease, and with the contempt of the proud.",
+                "footnotes": [
+                    {
+                        "footnote": "Neh. 2:19; Amos 6:1.",
+                        "start": 40,
+                        "end": 48
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 76,
+                        "end": 79
+                    }
+                ]
+            }
+        ]
+    }
+}

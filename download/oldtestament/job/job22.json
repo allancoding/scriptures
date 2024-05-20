@@ -1,0 +1,349 @@
+{
+    "_id": "job22",
+    "nextChapterId": "job23",
+    "prevChapterId": "job21",
+    "volume": {
+        "title": "Old Testament",
+        "titleShort": "OT",
+        "titleOfficial": "The Old Testament",
+        "_id": "oldtestament"
+    },
+    "book": {
+        "title": "Job",
+        "titleShort": "Job",
+        "titleOfficial": "",
+        "subtitle": "",
+        "summary": "",
+        "_id": "job"
+    },
+    "chapter": {
+        "bookTitle": "Job",
+        "delineation": "Chapter",
+        "number": 22,
+        "summary": "Eliphaz accuses Job of various sins and exhorts him to repent.",
+        "chapterAugmentations": [],
+        "verses": [
+            {
+                "text": "Then Eliphaz the Temanite answered and said,",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Can a man be profitable unto God, as he that is wise may be profitable unto himself?",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Is it any pleasure to the Almighty, that thou art righteous? or is it gain to him, that thou makest thy ways perfect?",
+                "footnotes": [
+                    {
+                        "footnote": "Mosiah 2:21 (20\u201322).",
+                        "start": 50,
+                        "end": 59
+                    },
+                    {
+                        "footnote": "2\u00a0Sam. 22:33.",
+                        "start": 109,
+                        "end": 116
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 0,
+                        "end": 5
+                    },
+                    {
+                        "start": 64,
+                        "end": 69
+                    },
+                    {
+                        "start": 75,
+                        "end": 82
+                    }
+                ]
+            },
+            {
+                "text": "Will he reprove thee for fear of thee? will he enter with thee into judgment?",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Is not thy wickedness great? and thine iniquities infinite?",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 0,
+                        "end": 2
+                    }
+                ]
+            },
+            {
+                "text": "For thou hast taken a pledge from thy brother for nought, and stripped the naked of their clothing.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Thou hast not given water to the weary to drink, and thou hast withholden bread from the hungry.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Bread.",
+                        "start": 74,
+                        "end": 79
+                    },
+                    {
+                        "footnote": "Matt. 25:42; Mosiah 4:26; Alma 4:12 (12\u201313).",
+                        "start": 89,
+                        "end": 95
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "But as for the mighty man, he had the earth; and the honourable man dwelt in it.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 4,
+                        "end": 10
+                    }
+                ]
+            },
+            {
+                "text": "Thou hast sent widows away empty, and the arms of the fatherless have been broken.",
+                "footnotes": [
+                    {
+                        "footnote": "Job 31:21 (21\u201322); James 1:27; 3\u00a0Ne. 24:5.",
+                        "start": 54,
+                        "end": 64
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Therefore snares are round about thee, and sudden fear troubleth thee;",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 17,
+                        "end": 20
+                    }
+                ]
+            },
+            {
+                "text": "Or darkness, that thou canst not see; and abundance of waters cover thee.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 13,
+                        "end": 17
+                    }
+                ]
+            },
+            {
+                "text": "Is not God in the height of heaven? and behold the height of the stars, how high they are!",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 0,
+                        "end": 2
+                    }
+                ]
+            },
+            {
+                "text": "And thou sayest, How doth God know? can he judge through the dark cloud?",
+                "footnotes": [
+                    {
+                        "footnote": "Ps. 73:11.",
+                        "start": 30,
+                        "end": 34
+                    },
+                    {
+                        "footnote": "Ps. 94:9 (7\u201310); D&C 88:41.",
+                        "start": 43,
+                        "end": 48
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Thick clouds are a covering to him, that he seeth not; and he walketh in the circuit of heaven.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 13,
+                        "end": 16
+                    }
+                ]
+            },
+            {
+                "text": "Hast thou marked the old way which wicked men have trodden?",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Which were cut down out of time, whose foundation was overflown with a flood:",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Which said unto God, Depart from us: and what can the Almighty do for them?",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Yet he filled their houses with good things: but the counsel of the wicked is far from me.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 37,
+                        "end": 44
+                    }
+                ]
+            },
+            {
+                "text": "The righteous see it, and are glad: and the innocent laugh them to scorn.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 18,
+                        "end": 21
+                    }
+                ]
+            },
+            {
+                "text": "Whereas our substance is not cut down, but the remnant of them the fire consumeth.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Acquaint now thyself with him, and be at peace: thereby good shall come unto thee.",
+                "footnotes": [
+                    {
+                        "footnote": "IE\u00a0God.",
+                        "start": 26,
+                        "end": 29
+                    },
+                    {
+                        "footnote": "TG\u00a0Peace of God.",
+                        "start": 41,
+                        "end": 46
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Receive, I pray thee, the law from his mouth, and lay up his words in thine heart.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "If thou return to the Almighty, thou shalt be built up, thou shalt put away iniquity far from thy tabernacles.",
+                "footnotes": [
+                    {
+                        "footnote": "1\u00a0Ne. 17:3.",
+                        "start": 46,
+                        "end": 51
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Then shalt thou lay up gold as dust, and the gold of Ophir as the stones of the brooks.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 45,
+                        "end": 49
+                    }
+                ]
+            },
+            {
+                "text": "Yea, the Almighty shall be thy defence, and thou shalt have plenty of silver.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "For then shalt thou have thy delight in the Almighty, and shalt lift up thy face unto God.",
+                "footnotes": [
+                    {
+                        "footnote": "Job 11:15 (13\u201316, 18).",
+                        "start": 76,
+                        "end": 80
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Thou shalt make thy prayer unto him, and he shall hear thee, and thou shalt pay thy vows.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Vow.",
+                        "start": 84,
+                        "end": 88
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Thou shalt also decree a thing, and it shall be established unto thee: and the light shall shine upon thy ways.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "When men are cast down, then thou shalt say, There is lifting up; and he shall save the humble person.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Humility; Poor in Spirit.",
+                        "start": 88,
+                        "end": 94
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 5,
+                        "end": 8
+                    },
+                    {
+                        "start": 45,
+                        "end": 53
+                    }
+                ]
+            },
+            {
+                "text": "He shall deliver the island of the innocent: and it is delivered by the pureness of thine hands.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            }
+        ]
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "_id": "psalms54",
+    "nextChapterId": "psalms55",
+    "prevChapterId": "psalms53",
+    "volume": {
+        "title": "Old Testament",
+        "titleShort": "OT",
+        "titleOfficial": "The Old Testament",
+        "_id": "oldtestament"
+    },
+    "book": {
+        "title": "Psalms",
+        "titleShort": "Ps",
+        "titleOfficial": "",
+        "subtitle": "",
+        "summary": "",
+        "_id": "psalms"
+    },
+    "chapter": {
+        "bookTitle": "Psalms",
+        "delineation": "Chapter",
+        "number": 54,
+        "summary": "David pleads for salvation and promises to serve God.",
+        "chapterAugmentations": [],
+        "verses": [
+            {
+                "text": "Save me, O God, by thy name, and judge me by thy strength.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Hear my prayer, O God; give ear to the words of my mouth.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "For strangers are risen up against me, and oppressors seek after my soul: they have not set God before them. Selah.",
+                "footnotes": [
+                    {
+                        "footnote": "Ps. 86:14.",
+                        "start": 4,
+                        "end": 13
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Behold, God is mine helper: the Lord is with them that uphold my soul.",
+                "footnotes": [
+                    {
+                        "footnote": "Ps. 118:7.",
+                        "start": 8,
+                        "end": 11
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 12,
+                        "end": 14
+                    },
+                    {
+                        "start": 37,
+                        "end": 39
+                    }
+                ]
+            },
+            {
+                "text": "He shall reward evil unto mine enemies: cut them off in thy truth.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "I will freely sacrifice unto thee: I will praise thy name, O Lord; for it is good.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 71,
+                        "end": 76
+                    }
+                ]
+            },
+            {
+                "text": "For he hath delivered me out of all trouble: and mine eye hath seen his desire upon mine enemies.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Deliver.",
+                        "start": 12,
+                        "end": 21
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 68,
+                        "end": 78
+                    }
+                ]
+            }
+        ]
+    }
+}

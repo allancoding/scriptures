@@ -1,0 +1,125 @@
+{
+    "_id": "psalms125",
+    "nextChapterId": "psalms126",
+    "prevChapterId": "psalms124",
+    "volume": {
+        "title": "Old Testament",
+        "titleShort": "OT",
+        "titleOfficial": "The Old Testament",
+        "_id": "oldtestament"
+    },
+    "book": {
+        "title": "Psalms",
+        "titleShort": "Ps",
+        "titleOfficial": "",
+        "subtitle": "",
+        "summary": "",
+        "_id": "psalms"
+    },
+    "chapter": {
+        "bookTitle": "Psalms",
+        "delineation": "Chapter",
+        "number": 125,
+        "summary": "Blessed are they who trust in the Lord\u2014Peace will be upon Israel.",
+        "chapterAugmentations": [],
+        "verses": [
+            {
+                "text": "They that trust in the Lord shall be as mount Zion, which cannot be removed, but abideth for ever.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Trust in God.",
+                        "start": 10,
+                        "end": 15
+                    },
+                    {
+                        "footnote": "1\u00a0Jn. 2:17.",
+                        "start": 81,
+                        "end": 88
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 28,
+                        "end": 36
+                    },
+                    {
+                        "start": 52,
+                        "end": 57
+                    },
+                    {
+                        "start": 77,
+                        "end": 80
+                    }
+                ]
+            },
+            {
+                "text": "As the mountains are round about Jerusalem, so the Lord is round about his people from henceforth even for ever.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 0,
+                        "end": 2
+                    },
+                    {
+                        "start": 17,
+                        "end": 20
+                    },
+                    {
+                        "start": 56,
+                        "end": 58
+                    }
+                ]
+            },
+            {
+                "text": "For the rod of the wicked shall not rest upon the lot of the righteous; lest the righteous put forth their hands unto iniquity.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Wickedness.",
+                        "start": 19,
+                        "end": 25
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Do good, O Lord, unto those that be good, and to them that are upright in their hearts.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 22,
+                        "end": 35
+                    },
+                    {
+                        "start": 49,
+                        "end": 62
+                    }
+                ]
+            },
+            {
+                "text": "As for such as turn aside unto their crooked ways, the Lord shall lead them forth with the workers of iniquity: but peace shall be upon Israel.",
+                "footnotes": [
+                    {
+                        "footnote": "Ps. 128:6; Gal. 6:16.",
+                        "start": 116,
+                        "end": 121
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 112,
+                        "end": 115
+                    },
+                    {
+                        "start": 122,
+                        "end": 130
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "_id": "psalms126",
+    "nextChapterId": "psalms127",
+    "prevChapterId": "psalms125",
+    "volume": {
+        "title": "Old Testament",
+        "titleShort": "OT",
+        "titleOfficial": "The Old Testament",
+        "_id": "oldtestament"
+    },
+    "book": {
+        "title": "Psalms",
+        "titleShort": "Ps",
+        "titleOfficial": "",
+        "subtitle": "",
+        "summary": "",
+        "_id": "psalms"
+    },
+    "chapter": {
+        "bookTitle": "Psalms",
+        "delineation": "Chapter",
+        "number": 126,
+        "summary": "The Lord has done great things for His people, Israel.",
+        "chapterAugmentations": [],
+        "verses": [
+            {
+                "text": "When the Lord turned again the captivity of Zion, we were like them that dream.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Then was our mouth filled with laughter, and our tongue with singing: then said they among the heathen, The Lord hath done great things for them.",
+                "footnotes": [
+                    {
+                        "footnote": "Ezek. 36:36.",
+                        "start": 118,
+                        "end": 122
+                    },
+                    {
+                        "footnote": "Luke 1:49.",
+                        "start": 129,
+                        "end": 135
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "The Lord hath done great things for us; whereof we are glad.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 40,
+                        "end": 47
+                    }
+                ]
+            },
+            {
+                "text": "Turn again our captivity, O Lord, as the streams in the south.",
+                "footnotes": [
+                    {
+                        "footnote": "OR\u00a0Restore us from.",
+                        "start": 0,
+                        "end": 10
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "They that sow in tears shall reap in joy.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Joy.",
+                        "start": 37,
+                        "end": 40
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "He that goeth forth and weepeth, bearing precious seed, shall doubtless come again with rejoicing, bringing his sheaves with him.",
+                "footnotes": [
+                    {
+                        "footnote": "D&C 75:5.",
+                        "start": 50,
+                        "end": 54
+                    },
+                    {
+                        "footnote": "D&C 31:5; 33:9.",
+                        "start": 112,
+                        "end": 119
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 120,
+                        "end": 129
+                    }
+                ]
+            }
+        ]
+    }
+}

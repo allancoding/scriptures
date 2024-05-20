@@ -1,0 +1,96 @@
+{
+    "_id": "psalms43",
+    "nextChapterId": "psalms44",
+    "prevChapterId": "psalms42",
+    "volume": {
+        "title": "Old Testament",
+        "titleShort": "OT",
+        "titleOfficial": "The Old Testament",
+        "_id": "oldtestament"
+    },
+    "book": {
+        "title": "Psalms",
+        "titleShort": "Ps",
+        "titleOfficial": "",
+        "subtitle": "",
+        "summary": "",
+        "_id": "psalms"
+    },
+    "chapter": {
+        "bookTitle": "Psalms",
+        "delineation": "Chapter",
+        "number": 43,
+        "summary": "The righteous praise God and cry, Send out Thy light and Thy truth.",
+        "chapterAugmentations": [],
+        "verses": [
+            {
+                "text": "Judge me, O God, and plead my cause against an ungodly nation: O deliver me from the deceitful and unjust man.",
+                "footnotes": [
+                    {
+                        "footnote": "OR\u00a0Vindicate.",
+                        "start": 0,
+                        "end": 5
+                    },
+                    {
+                        "footnote": "TG\u00a0Deceit.",
+                        "start": 85,
+                        "end": 94
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "For thou art the God of my strength: why dost thou cast me off? why go I mourning because of the oppression of the enemy?",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Mourning.",
+                        "start": 73,
+                        "end": 81
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 9,
+                        "end": 12
+                    }
+                ]
+            },
+            {
+                "text": "O send out thy light and thy truth: let them lead me; let them bring me unto thy holy hill, and to thy tabernacles.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Light [noun].",
+                        "start": 15,
+                        "end": 20
+                    },
+                    {
+                        "footnote": "OR\u00a0dwelling places.",
+                        "start": 103,
+                        "end": 114
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Then will I go unto the altar of God, unto God my exceeding joy: yea, upon the harp will I praise thee, O God my God.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Why art thou cast down, O my soul? and why art thou disquieted within me? hope in God: for I shall yet praise him, who is the health of my countenance, and my God.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 115,
+                        "end": 121
+                    }
+                ]
+            }
+        ]
+    }
+}

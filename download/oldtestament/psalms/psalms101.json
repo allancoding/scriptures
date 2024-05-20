@@ -1,0 +1,141 @@
+{
+    "_id": "psalms101",
+    "nextChapterId": "psalms102",
+    "prevChapterId": "psalms100",
+    "volume": {
+        "title": "Old Testament",
+        "titleShort": "OT",
+        "titleOfficial": "The Old Testament",
+        "_id": "oldtestament"
+    },
+    "book": {
+        "title": "Psalms",
+        "titleShort": "Ps",
+        "titleOfficial": "",
+        "subtitle": "",
+        "summary": "",
+        "_id": "psalms"
+    },
+    "chapter": {
+        "bookTitle": "Psalms",
+        "delineation": "Chapter",
+        "number": 101,
+        "summary": "David sings of mercy and justice\u2014He will forsake the company of evildoers.",
+        "chapterAugmentations": [],
+        "verses": [
+            {
+                "text": "I will sing of mercy and judgment: unto thee, O Lord, will I sing.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "I will behave myself wisely in a perfect way. O when wilt thou come unto me? I will walk within my house with a perfect heart.",
+                "footnotes": [
+                    {
+                        "footnote": "Jacob 6:12 (11\u201312).",
+                        "start": 21,
+                        "end": 27
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "I will set no wicked thing before mine eyes: I hate the work of them that turn aside; it shall not cleave to me.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 86,
+                        "end": 88
+                    }
+                ]
+            },
+            {
+                "text": "A froward heart shall depart from me: I will not know a wicked person.",
+                "footnotes": [
+                    {
+                        "footnote": "HEB\u00a0perverse. Prov. 11:20; 17:20.",
+                        "start": 2,
+                        "end": 9
+                    },
+                    {
+                        "footnote": "Matt. 7:23.",
+                        "start": 49,
+                        "end": 53
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 63,
+                        "end": 70
+                    }
+                ]
+            },
+            {
+                "text": "Whoso privily slandereth his neighbour, him will I cut off: him that hath an high look and a proud heart will not I suffer.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Backbiting; Slander.",
+                        "start": 14,
+                        "end": 24
+                    },
+                    {
+                        "footnote": "Isa. 1:13.",
+                        "start": 116,
+                        "end": 122
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Mine eyes shall be upon the faithful of the land, that they may dwell with me: he that walketh in a perfect way, he shall serve me.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Walking with God.",
+                        "start": 87,
+                        "end": 94
+                    },
+                    {
+                        "footnote": "TG\u00a0Perfection.",
+                        "start": 100,
+                        "end": 107
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 10,
+                        "end": 18
+                    }
+                ]
+            },
+            {
+                "text": "He that worketh deceit shall not dwell within my house: he that telleth lies shall not tarry in my sight.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Deceit.",
+                        "start": 16,
+                        "end": 22
+                    },
+                    {
+                        "footnote": "TG\u00a0Honesty; Lying.",
+                        "start": 72,
+                        "end": 76
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "I will early destroy all the wicked of the land; that I may cut off all wicked doers from the city of the Lord.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            }
+        ]
+    }
+}

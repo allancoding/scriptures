@@ -1,0 +1,145 @@
+{
+    "_id": "psalms23",
+    "nextChapterId": "psalms24",
+    "prevChapterId": "psalms22",
+    "volume": {
+        "title": "Old Testament",
+        "titleShort": "OT",
+        "titleOfficial": "The Old Testament",
+        "_id": "oldtestament"
+    },
+    "book": {
+        "title": "Psalms",
+        "titleShort": "Ps",
+        "titleOfficial": "",
+        "subtitle": "",
+        "summary": "",
+        "_id": "psalms"
+    },
+    "chapter": {
+        "bookTitle": "Psalms",
+        "delineation": "Chapter",
+        "number": 23,
+        "summary": "David declares, The Lord is my shepherd.",
+        "chapterAugmentations": [],
+        "verses": [
+            {
+                "text": "The Lord is my shepherd; I shall not want.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Jesus Christ, Good Shepherd; Shepherd.",
+                        "start": 15,
+                        "end": 23
+                    },
+                    {
+                        "footnote": "Matt. 6:8; Philip. 4:19. TG\u00a0Contentment.",
+                        "start": 37,
+                        "end": 41
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 9,
+                        "end": 11
+                    }
+                ]
+            },
+            {
+                "text": "He maketh me to lie down in green pastures: he leadeth me beside the still waters.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Guidance, Divine.",
+                        "start": 47,
+                        "end": 54
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "He restoreth my soul: he leadeth me in the paths of righteousness for his name's sake.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Righteousness.",
+                        "start": 52,
+                        "end": 65
+                    },
+                    {
+                        "footnote": "1\u00a0Sam. 12:22; Ps. 31:3; 109:21; 1\u00a0Jn. 2:12; 1\u00a0Ne. 20:9.",
+                        "start": 74,
+                        "end": 80
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Walking with God.",
+                        "start": 14,
+                        "end": 18
+                    },
+                    {
+                        "footnote": "Ps. 138:7; D&C 127:2 (1\u20132).",
+                        "start": 31,
+                        "end": 37
+                    },
+                    {
+                        "footnote": "Job 3:5.",
+                        "start": 45,
+                        "end": 51
+                    },
+                    {
+                        "footnote": "TG\u00a0Death.",
+                        "start": 55,
+                        "end": 60
+                    },
+                    {
+                        "footnote": "TG\u00a0Evil.",
+                        "start": 77,
+                        "end": 81
+                    },
+                    {
+                        "footnote": "TG\u00a0Comfort.",
+                        "start": 132,
+                        "end": 139
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 92,
+                        "end": 95
+                    }
+                ]
+            },
+            {
+                "text": "Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Anointing.",
+                        "start": 71,
+                        "end": 80
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the Lord for ever.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Peace of God.",
+                        "start": 7,
+                        "end": 15
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            }
+        ]
+    }
+}

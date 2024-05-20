@@ -1,0 +1,62 @@
+{
+    "_id": "psalms131",
+    "nextChapterId": "psalms132",
+    "prevChapterId": "psalms130",
+    "volume": {
+        "title": "Old Testament",
+        "titleShort": "OT",
+        "titleOfficial": "The Old Testament",
+        "_id": "oldtestament"
+    },
+    "book": {
+        "title": "Psalms",
+        "titleShort": "Ps",
+        "titleOfficial": "",
+        "subtitle": "",
+        "summary": "",
+        "_id": "psalms"
+    },
+    "chapter": {
+        "bookTitle": "Psalms",
+        "delineation": "Chapter",
+        "number": 131,
+        "summary": "David says, Let Israel hope in the Lord forever.",
+        "chapterAugmentations": [],
+        "verses": [
+            {
+                "text": "Lord, my heart is not haughty, nor mine eyes lofty: neither do I exercise myself in great matters, or in things too high for me.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Haughtiness.",
+                        "start": 22,
+                        "end": 29
+                    },
+                    {
+                        "footnote": "Prov. 30:13.",
+                        "start": 40,
+                        "end": 44
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Surely I have behaved and quieted myself, as a child that is weaned of his mother: my soul is even as a weaned child.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 91,
+                        "end": 93
+                    }
+                ]
+            },
+            {
+                "text": "Let Israel hope in the Lord from henceforth and for ever.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            }
+        ]
+    }
+}

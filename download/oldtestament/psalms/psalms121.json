@@ -1,0 +1,147 @@
+{
+    "_id": "psalms121",
+    "nextChapterId": "psalms122",
+    "prevChapterId": "psalms120",
+    "volume": {
+        "title": "Old Testament",
+        "titleShort": "OT",
+        "titleOfficial": "The Old Testament",
+        "_id": "oldtestament"
+    },
+    "book": {
+        "title": "Psalms",
+        "titleShort": "Ps",
+        "titleOfficial": "",
+        "subtitle": "",
+        "summary": "",
+        "_id": "psalms"
+    },
+    "chapter": {
+        "bookTitle": "Psalms",
+        "delineation": "Chapter",
+        "number": 121,
+        "summary": "Help comes from the Lord\u2014He is the guardian of Israel.",
+        "chapterAugmentations": [],
+        "verses": [
+            {
+                "text": "I will lift up mine eyes unto the hills, from whence cometh my help.",
+                "footnotes": [
+                    {
+                        "footnote": "Ps. 123:1.",
+                        "start": 7,
+                        "end": 14
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "My help cometh from the Lord, which made heaven and earth.",
+                "footnotes": [
+                    {
+                        "footnote": "Ps. 124:8.",
+                        "start": 3,
+                        "end": 7
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 8,
+                        "end": 14
+                    }
+                ]
+            },
+            {
+                "text": "He will not suffer thy foot to be moved: he that keepeth thee will not slumber.",
+                "footnotes": [
+                    {
+                        "footnote": "Ps. 66:9.",
+                        "start": 23,
+                        "end": 27
+                    },
+                    {
+                        "footnote": "Ps. 127:1.",
+                        "start": 49,
+                        "end": 56
+                    }
+                ],
+                "associatedContents": [
+                    {
+                        "type": "paper-page-number",
+                        "data": 799
+                    }
+                ],
+                "italics": []
+            },
+            {
+                "text": "Behold, he that keepeth Israel shall neither slumber nor sleep.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "The Lord is thy keeper: the Lord is thy shade upon thy right hand.",
+                "footnotes": [
+                    {
+                        "footnote": "OR\u00a0watchman.",
+                        "start": 16,
+                        "end": 22
+                    },
+                    {
+                        "footnote": "Ps. 91:1.",
+                        "start": 40,
+                        "end": 45
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 9,
+                        "end": 11
+                    },
+                    {
+                        "start": 33,
+                        "end": 35
+                    }
+                ]
+            },
+            {
+                "text": "The sun shall not smite thee by day, nor the moon by night.",
+                "footnotes": [
+                    {
+                        "footnote": "Isa. 49:10; Rev. 7:16.",
+                        "start": 4,
+                        "end": 7
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "The Lord shall preserve thee from all evil: he shall preserve thy soul.",
+                "footnotes": [
+                    {
+                        "footnote": "Ps. 97:10; D&C 45:46.",
+                        "start": 53,
+                        "end": 61
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "The Lord shall preserve thy going out and thy coming in from this time forth, and even for evermore.",
+                "footnotes": [
+                    {
+                        "footnote": "Deut. 28:6.",
+                        "start": 46,
+                        "end": 52
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            }
+        ]
+    }
+}

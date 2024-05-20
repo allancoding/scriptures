@@ -1,0 +1,145 @@
+{
+    "_id": "psalms130",
+    "nextChapterId": "psalms131",
+    "prevChapterId": "psalms129",
+    "volume": {
+        "title": "Old Testament",
+        "titleShort": "OT",
+        "titleOfficial": "The Old Testament",
+        "_id": "oldtestament"
+    },
+    "book": {
+        "title": "Psalms",
+        "titleShort": "Ps",
+        "titleOfficial": "",
+        "subtitle": "",
+        "summary": "",
+        "_id": "psalms"
+    },
+    "chapter": {
+        "bookTitle": "Psalms",
+        "delineation": "Chapter",
+        "number": 130,
+        "summary": "O Lord, hear our prayers, forgive iniquity, and redeem Israel.",
+        "chapterAugmentations": [],
+        "verses": [
+            {
+                "text": "Out of the depths have I cried unto thee, O Lord.",
+                "footnotes": [
+                    {
+                        "footnote": "Ps. 69:2.",
+                        "start": 11,
+                        "end": 17
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Lord, hear my voice: let thine ears be attentive to the voice of my supplications.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "If thou, Lord, shouldest mark iniquities, O Lord, who shall stand?",
+                "footnotes": [
+                    {
+                        "footnote": "Ps. 90:8.",
+                        "start": 30,
+                        "end": 40
+                    },
+                    {
+                        "footnote": "Ps. 76:7.",
+                        "start": 60,
+                        "end": 65
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "But there is forgiveness with thee, that thou mayest be feared.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Forgive.",
+                        "start": 13,
+                        "end": 24
+                    },
+                    {
+                        "footnote": "1\u00a0Kgs. 8:40 (39\u201340).",
+                        "start": 56,
+                        "end": 62
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 4,
+                        "end": 12
+                    }
+                ]
+            },
+            {
+                "text": "I wait for the Lord, my soul doth wait, and in his word do I hope.",
+                "footnotes": [
+                    {
+                        "footnote": "Ps. 40:1.",
+                        "start": 2,
+                        "end": 10
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "My soul waiteth for the Lord more than they that watch for the morning: I say, more than they that watch for the morning.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 8,
+                        "end": 15
+                    },
+                    {
+                        "start": 72,
+                        "end": 88
+                    }
+                ]
+            },
+            {
+                "text": "Let Israel hope in the Lord: for with the Lord there is mercy, and with him is plenteous redemption.",
+                "footnotes": [
+                    {
+                        "footnote": "Isa. 55:7.",
+                        "start": 89,
+                        "end": 99
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 47,
+                        "end": 55
+                    },
+                    {
+                        "start": 76,
+                        "end": 78
+                    }
+                ]
+            },
+            {
+                "text": "And he shall redeem Israel from all his iniquities.",
+                "footnotes": [
+                    {
+                        "footnote": "Ps. 25:22.",
+                        "start": 13,
+                        "end": 19
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            }
+        ]
+    }
+}

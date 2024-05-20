@@ -1,0 +1,99 @@
+{
+    "_id": "psalms93",
+    "nextChapterId": "psalms94",
+    "prevChapterId": "psalms92",
+    "volume": {
+        "title": "Old Testament",
+        "titleShort": "OT",
+        "titleOfficial": "The Old Testament",
+        "_id": "oldtestament"
+    },
+    "book": {
+        "title": "Psalms",
+        "titleShort": "Ps",
+        "titleOfficial": "",
+        "subtitle": "",
+        "summary": "",
+        "_id": "psalms"
+    },
+    "chapter": {
+        "bookTitle": "Psalms",
+        "delineation": "Chapter",
+        "number": 93,
+        "summary": "The Lord reigns\u2014He is from everlasting\u2014Holiness adorns the house of the Lord forever.",
+        "chapterAugmentations": [],
+        "verses": [
+            {
+                "text": "The Lord reigneth, he is clothed with majesty; the Lord is clothed with strength, wherewith he hath girded himself: the world also is stablished, that it cannot be moved.",
+                "footnotes": [
+                    {
+                        "footnote": "D&C 65:5.",
+                        "start": 25,
+                        "end": 32
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 82,
+                        "end": 91
+                    }
+                ]
+            },
+            {
+                "text": "Thy throne is established of old: thou art from everlasting.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0God, Eternal Nature of.",
+                        "start": 48,
+                        "end": 59
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 11,
+                        "end": 13
+                    },
+                    {
+                        "start": 39,
+                        "end": 42
+                    }
+                ]
+            },
+            {
+                "text": "The floods have lifted up, O Lord, the floods have lifted up their voice; the floods lift up their waves.",
+                "footnotes": [
+                    {
+                        "footnote": "HEB\u00a0rivers, streams.",
+                        "start": 4,
+                        "end": 10
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "The Lord on high is mightier than the noise of many waters, yea, than the mighty waves of the sea.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 17,
+                        "end": 19
+                    },
+                    {
+                        "start": 60,
+                        "end": 69
+                    }
+                ]
+            },
+            {
+                "text": "Thy testimonies are very sure: holiness becometh thine house, O Lord, for ever.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            }
+        ]
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "_id": "psalms20",
+    "nextChapterId": "psalms21",
+    "prevChapterId": "psalms19",
+    "volume": {
+        "title": "Old Testament",
+        "titleShort": "OT",
+        "titleOfficial": "The Old Testament",
+        "_id": "oldtestament"
+    },
+    "book": {
+        "title": "Psalms",
+        "titleShort": "Ps",
+        "titleOfficial": "",
+        "subtitle": "",
+        "summary": "",
+        "_id": "psalms"
+    },
+    "chapter": {
+        "bookTitle": "Psalms",
+        "delineation": "Chapter",
+        "number": 20,
+        "summary": "David prays that the Lord will hear in time of trouble\u2014The Lord saves His anointed.",
+        "chapterAugmentations": [],
+        "verses": [
+            {
+                "text": "The Lord hear thee in the day of trouble; the name of the God of Jacob defend thee;",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Send thee help from the sanctuary, and strengthen thee out of Zion;",
+                "footnotes": [
+                    {
+                        "footnote": "Ps. 73:17.",
+                        "start": 24,
+                        "end": 33
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Remember all thy offerings, and accept thy burnt sacrifice; Selah.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Grant thee according to thine own heart, and fulfil all thy counsel.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "We will rejoice in thy salvation, and in the name of our God we will set up our banners: the Lord fulfil all thy petitions.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 76,
+                        "end": 79
+                    }
+                ]
+            },
+            {
+                "text": "Now know I that the Lord saveth his anointed; he will hear him from his holy heaven with the saving strength of his right hand.",
+                "footnotes": [
+                    {
+                        "footnote": "Ps. 18:50; D&C 109:80.",
+                        "start": 36,
+                        "end": 44
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Some trust in chariots, and some in horses: but we will remember the name of the Lord our God.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 5,
+                        "end": 10
+                    }
+                ]
+            },
+            {
+                "text": "They are brought down and fallen: but we are risen, and stand upright.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Save, Lord: let the king hear us when we call.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            }
+        ]
+    }
+}
