@@ -1,0 +1,343 @@
+{
+    "_id": "john2",
+    "nextChapterId": "john3",
+    "prevChapterId": "john1",
+    "volume": {
+        "title": "New Testament",
+        "titleShort": "NT",
+        "titleOfficial": "The New Testament",
+        "_id": "newtestament"
+    },
+    "book": {
+        "title": "John",
+        "titleShort": "John",
+        "titleOfficial": "",
+        "subtitle": "",
+        "summary": "",
+        "_id": "john"
+    },
+    "chapter": {
+        "bookTitle": "John",
+        "delineation": "Chapter",
+        "number": 2,
+        "summary": "Jesus turns water into wine in Cana\u2014He attends the Passover, cleanses the temple, foretells His death and resurrection, and performs miracles.",
+        "chapterAugmentations": [],
+        "verses": [
+            {
+                "text": "And the third day there was a marriage in Cana of Galilee; and the mother of Jesus was there:",
+                "footnotes": [
+                    {
+                        "footnote": "JST\u00a0John 2:1 \u2026 third day of the week\u00a0\u2026",
+                        "start": 8,
+                        "end": 17
+                    }
+                ],
+                "associatedContents": [
+                    {
+                        "class": "iconPointer-OKie_ icon-eLakR icon-ieVZ1",
+                        "data-pointer-type": "media",
+                        "data-scroll-id": "p1",
+                        "title": "Associated Content"
+                    }
+                ],
+                "italics": []
+            },
+            {
+                "text": "And both Jesus was called, and his disciples, to the marriage.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And when they wanted wine, the mother of Jesus saith unto him, They have no wine.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Jesus saith unto her, Woman, what have I to do with thee? mine hour is not yet come.",
+                "footnotes": [
+                    {
+                        "footnote": "JST\u00a0John 2:4 \u2026 Woman, what wilt thou have me to do for thee? that will I do; for mine hour is not yet come. TG\u00a0Woman.",
+                        "start": 22,
+                        "end": 27
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "His mother saith unto the servants, Whatsoever he saith unto you, do it.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 69,
+                        "end": 72
+                    }
+                ]
+            },
+            {
+                "text": "And there were set there six waterpots of stone, after the manner of the purifying of the Jews, containing two or three firkins apiece.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Purification.",
+                        "start": 73,
+                        "end": 82
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Jesus saith unto them, Fill the waterpots with water. And they filled them up to the brim.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And he saith unto them, Draw out now, and bear unto the governor of the feast. And they bare it.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 93,
+                        "end": 96
+                    }
+                ]
+            },
+            {
+                "text": "When the ruler of the feast had tasted the water that was made wine, and knew not whence it was: (but the servants which drew the water knew;) the governor of the feast called the bridegroom,",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And saith unto him, Every man at the beginning doth set forth good wine; and when men have well drunk, then that which is worse: but thou hast kept the good wine until now.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 129,
+                        "end": 132
+                    }
+                ]
+            },
+            {
+                "text": "This beginning of miracles did Jesus in Cana of Galilee, and manifested forth his glory; and his disciples believed on him.",
+                "footnotes": [
+                    {
+                        "footnote": "John 4:54.",
+                        "start": 5,
+                        "end": 14
+                    },
+                    {
+                        "footnote": "TG\u00a0Miracle.",
+                        "start": 18,
+                        "end": 26
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "After this he went down to Capernaum, he, and his mother, and his brethren, and his disciples: and they continued there not many days.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Jesus Christ, Family of.",
+                        "start": 66,
+                        "end": 74
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And the Jews' passover was at hand, and Jesus went up to Jerusalem,",
+                "footnotes": [],
+                "associatedContents": [
+                    {
+                        "class": "iconPointer-OKie_ icon-eLakR icon-ieVZ1",
+                        "data-pointer-type": "media",
+                        "data-scroll-id": "p13",
+                        "title": "Associated Content"
+                    }
+                ],
+                "italics": []
+            },
+            {
+                "text": "And found in the temple those that sold oxen and sheep and doves, and the changers of money sitting:",
+                "footnotes": [
+                    {
+                        "footnote": "Ps. 69:9.",
+                        "start": 86,
+                        "end": 91
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And when he had made a scourge of small cords, he drove them all out of the temple, and the sheep, and the oxen; and poured out the changers' money, and overthrew the tables;",
+                "footnotes": [
+                    {
+                        "footnote": "GR\u00a0whip. Matt. 21:12\u201316.",
+                        "start": 23,
+                        "end": 30
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And said unto them that sold doves, Take these things hence; make not my Father's house an house of merchandise.",
+                "footnotes": [],
+                "associatedContents": [
+                    {
+                        "class": "iconPointer-OKie_ icon-eLakR icon-ieVZ1",
+                        "data-pointer-type": "media",
+                        "data-scroll-id": "p16",
+                        "title": "Associated Content"
+                    }
+                ],
+                "italics": []
+            },
+            {
+                "text": "And his disciples remembered that it was written, The zeal of thine house hath eaten me up.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Zeal.",
+                        "start": 54,
+                        "end": 58
+                    },
+                    {
+                        "footnote": "GR\u00a0consumed me.",
+                        "start": 79,
+                        "end": 90
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Then answered the Jews and said unto him, What sign shewest thou unto us, seeing that thou doest these things?",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Sign Seekers.",
+                        "start": 47,
+                        "end": 51
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Jesus answered and said unto them, Destroy this temple, and in three days I will raise it up.",
+                "footnotes": [
+                    {
+                        "footnote": "Matt. 26:61; 27:40, 63 (62\u201366); Mark 14:58.",
+                        "start": 48,
+                        "end": 54
+                    },
+                    {
+                        "footnote": "TG\u00a0Jesus Christ, Resurrection; Resurrection.",
+                        "start": 81,
+                        "end": 86
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Then said the Jews, Forty and six years was this temple in building, and wilt thou rear it up in three days?",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Temple.",
+                        "start": 49,
+                        "end": 55
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "But he spake of the temple of his body.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "When therefore he was risen from the dead, his disciples remembered that he had said this unto them; and they believed the scripture, and the word which Jesus had said.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Now when he was in Jerusalem at the passover, in the feast day, many believed in his name, when they saw the miracles which he did.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Passover.",
+                        "start": 36,
+                        "end": 44
+                    },
+                    {
+                        "footnote": "TG\u00a0Name.",
+                        "start": 85,
+                        "end": 89
+                    },
+                    {
+                        "footnote": "TG\u00a0Miracle; Signs.",
+                        "start": 109,
+                        "end": 117
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 59,
+                        "end": 63
+                    }
+                ]
+            },
+            {
+                "text": "But Jesus did not commit himself unto them, because he knew all men,",
+                "footnotes": [
+                    {
+                        "footnote": "GR\u00a0entrust.",
+                        "start": 18,
+                        "end": 24
+                    },
+                    {
+                        "footnote": "Luke 6:8.",
+                        "start": 55,
+                        "end": 59
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 64,
+                        "end": 68
+                    }
+                ]
+            },
+            {
+                "text": "And needed not that any should testify of man: for he knew what was in man.",
+                "footnotes": [
+                    {
+                        "footnote": "Matt. 12:25; Luke 11:17; John 6:61.",
+                        "start": 54,
+                        "end": 58
+                    },
+                    {
+                        "footnote": "D&C 62:1.",
+                        "start": 71,
+                        "end": 74
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            }
+        ]
+    }
+}

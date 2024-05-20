@@ -1,0 +1,657 @@
+{
+    "_id": "john3",
+    "nextChapterId": "john4",
+    "prevChapterId": "john2",
+    "volume": {
+        "title": "New Testament",
+        "titleShort": "NT",
+        "titleOfficial": "The New Testament",
+        "_id": "newtestament"
+    },
+    "book": {
+        "title": "John",
+        "titleShort": "John",
+        "titleOfficial": "",
+        "subtitle": "",
+        "summary": "",
+        "_id": "john"
+    },
+    "chapter": {
+        "bookTitle": "John",
+        "delineation": "Chapter",
+        "number": 3,
+        "summary": "Jesus tells Nicodemus that men must be born again\u2014God so loved the world that He sent His Only Begotten Son to save men\u2014John the Baptist testifies that he that believes on the Son has everlasting life.",
+        "chapterAugmentations": [],
+        "verses": [
+            {
+                "text": "There was a man of the Pharisees, named Nicodemus, a ruler of the Jews:",
+                "footnotes": [
+                    {
+                        "footnote": "John 7:50; 19:39.",
+                        "start": 40,
+                        "end": 49
+                    },
+                    {
+                        "footnote": "John 7:26.",
+                        "start": 53,
+                        "end": 58
+                    }
+                ],
+                "associatedContents": [
+                    {
+                        "class": "iconPointer-OKie_ icon-eLakR icon-ieVZ1",
+                        "data-pointer-type": "media",
+                        "data-scroll-id": "p1",
+                        "title": "Associated Content"
+                    }
+                ],
+                "italics": []
+            },
+            {
+                "text": "The same came to Jesus by night, and said unto him, Rabbi, we know that thou art a teacher come from God: for no man can do these miracles that thou doest, except God be with him.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Miracle.",
+                        "start": 130,
+                        "end": 138
+                    },
+                    {
+                        "footnote": "Ex. 8:19; Luke 11:20; Acts 2:22; 10:38.",
+                        "start": 163,
+                        "end": 166
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Jesus answered and said unto him, Verily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Man, New, Spiritually Reborn.",
+                        "start": 83,
+                        "end": 87
+                    },
+                    {
+                        "footnote": "GR\u00a0from above, anew.",
+                        "start": 88,
+                        "end": 93
+                    },
+                    {
+                        "footnote": "D&C 56:18.",
+                        "start": 105,
+                        "end": 108
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Nicodemus saith unto him, How can a man be born when he is old? can he enter the second time into his mother's womb, and be born?",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Jesus answered, Verily, verily, I say unto thee, Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Holy Ghost, Baptism of.",
+                        "start": 65,
+                        "end": 69
+                    },
+                    {
+                        "footnote": "TG\u00a0Baptism; Baptism, Essential.",
+                        "start": 73,
+                        "end": 78
+                    },
+                    {
+                        "footnote": "TG\u00a0Holy Ghost, Mission of.",
+                        "start": 90,
+                        "end": 96
+                    },
+                    {
+                        "footnote": "1\u00a0Cor. 6:9; 15:50.",
+                        "start": 108,
+                        "end": 113
+                    }
+                ],
+                "associatedContents": [
+                    {
+                        "class": "iconPointer-OKie_ icon-eLakR icon-ieVZ1",
+                        "data-pointer-type": "media",
+                        "data-scroll-id": "p5",
+                        "title": "Associated Content"
+                    }
+                ],
+                "italics": [
+                    {
+                        "start": 83,
+                        "end": 85
+                    }
+                ]
+            },
+            {
+                "text": "That which is born of the flesh is flesh; and that which is born of the Spirit is spirit.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Marvel not that I said unto thee, Ye must be born again.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Man, Natural, Not Spiritually Reborn.",
+                        "start": 45,
+                        "end": 55
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "The wind bloweth where it listeth, and thou hearest the sound thereof, but canst not tell whence it cometh, and whither it goeth: so is every one that is born of the Spirit.",
+                "footnotes": [
+                    {
+                        "footnote": "GR\u00a0wind, spirit.",
+                        "start": 4,
+                        "end": 8
+                    },
+                    {
+                        "footnote": "Eccl. 11:5.",
+                        "start": 166,
+                        "end": 172
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Nicodemus answered and said unto him, How can these things be?",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Jesus answered and said unto him, Art thou a master of Israel, and knowest not these things?",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Verily, verily, I say unto thee, We speak that we do know, and testify that we have seen; and ye receive not our witness.",
+                "footnotes": [
+                    {
+                        "footnote": "The Greek construction suggests that verses\u00a011\u201321 contain a direct quotation. This testimony of Jesus was given to a member of the Sanhedrin.",
+                        "start": 0,
+                        "end": 6
+                    },
+                    {
+                        "footnote": "TG\u00a0Testimony.",
+                        "start": 63,
+                        "end": 70
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "If I have told you earthly things, and ye believe not, how shall ye believe, if I tell you of heavenly things?",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Faith.",
+                        "start": 42,
+                        "end": 53
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 91,
+                        "end": 93
+                    }
+                ]
+            },
+            {
+                "text": "And no man hath ascended up to heaven, but he that came down from heaven, even the Son of man which is in heaven.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Jesus Christ, Ascension of.",
+                        "start": 16,
+                        "end": 24
+                    },
+                    {
+                        "footnote": "John 6:62. TG\u00a0Jesus Christ, Condescension of.",
+                        "start": 51,
+                        "end": 55
+                    },
+                    {
+                        "footnote": "Moses 6:57.",
+                        "start": 83,
+                        "end": 93
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 74,
+                        "end": 78
+                    }
+                ]
+            },
+            {
+                "text": "And as Moses lifted up the serpent in the wilderness, even so must the Son of man be lifted up:",
+                "footnotes": [
+                    {
+                        "footnote": "2\u00a0Ne. 25:20. TG\u00a0Jesus Christ, Prophecies about; Jesus Christ, Types of, in Anticipation; Symbolism.",
+                        "start": 27,
+                        "end": 34
+                    },
+                    {
+                        "footnote": "TG\u00a0Jesus Christ, Son of Man.",
+                        "start": 71,
+                        "end": 81
+                    }
+                ],
+                "associatedContents": [
+                    {
+                        "class": "iconPointer-OKie_ icon-eLakR icon-ieVZ1",
+                        "data-pointer-type": "media",
+                        "data-scroll-id": "p14",
+                        "title": "Associated Content"
+                    },
+                    {
+                        "type": "paper-page-number",
+                        "data": 1329
+                    }
+                ],
+                "italics": []
+            },
+            {
+                "text": "That whosoever believeth in him should not perish, but have eternal life.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0God the Father, Elohim.",
+                        "start": 4,
+                        "end": 7
+                    },
+                    {
+                        "footnote": "TG\u00a0God, Love of; Love; Mercy; Worth of Souls.",
+                        "start": 11,
+                        "end": 16
+                    },
+                    {
+                        "footnote": "TG\u00a0World.",
+                        "start": 21,
+                        "end": 26
+                    },
+                    {
+                        "footnote": "TG\u00a0God, Gifts of; Jesus Christ, Redeemer.",
+                        "start": 36,
+                        "end": 40
+                    },
+                    {
+                        "footnote": "Gen. 22:2 (1\u201314); Jacob 4:5.",
+                        "start": 45,
+                        "end": 49
+                    },
+                    {
+                        "footnote": "TG\u00a0Jesus Christ, Divine Sonship.",
+                        "start": 59,
+                        "end": 62
+                    },
+                    {
+                        "footnote": "TG\u00a0Faith.",
+                        "start": 79,
+                        "end": 88
+                    },
+                    {
+                        "footnote": "D&C 45:5.",
+                        "start": 124,
+                        "end": 135
+                    },
+                    {
+                        "footnote": "1\u00a0Jn. 4:9.",
+                        "start": 136,
+                        "end": 140
+                    }
+                ],
+                "associatedContents": [
+                    {
+                        "class": "iconPointer-OKie_ icon-eLakR icon-ieVZ1",
+                        "data-pointer-type": "media",
+                        "data-scroll-id": "p16",
+                        "title": "Associated Content"
+                    }
+                ],
+                "italics": []
+            },
+            {
+                "text": "For God sent not his Son into the world to condemn the world; but that the world through him might be saved.",
+                "footnotes": [
+                    {
+                        "footnote": "D&C 49:5; 132:24 (24, 59). TG\u00a0Jesus Christ, Messenger of the Covenant.",
+                        "start": 8,
+                        "end": 12
+                    },
+                    {
+                        "footnote": "Luke 9:56 (54\u201356).",
+                        "start": 43,
+                        "end": 50
+                    },
+                    {
+                        "footnote": "TG\u00a0Jesus Christ, Atonement through.",
+                        "start": 102,
+                        "end": 107
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "He that believeth on him is not condemned: but he that believeth not is condemned already, because he hath not believed in the name of the only begotten Son of God.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Unbelief.",
+                        "start": 55,
+                        "end": 68
+                    },
+                    {
+                        "footnote": "TG\u00a0Name.",
+                        "start": 127,
+                        "end": 131
+                    },
+                    {
+                        "footnote": "JST\u00a0John 3:18 \u2026 Son of God, which before was preached by the mouth of the holy prophets; for they testified of me.",
+                        "start": 153,
+                        "end": 163
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And this is the condemnation, that light is come into the world, and men loved darkness rather than light, because their deeds were evil.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Light [noun]; Light of Christ.",
+                        "start": 35,
+                        "end": 40
+                    },
+                    {
+                        "footnote": "TG\u00a0Darkness, Spiritual; Secret Combinations.",
+                        "start": 79,
+                        "end": 87
+                    },
+                    {
+                        "footnote": "D&C 10:21; 29:45.",
+                        "start": 121,
+                        "end": 126
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "For every one that doeth evil hateth the light, neither cometh to the light, lest his deeds should be reproved.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Evil.",
+                        "start": 25,
+                        "end": 29
+                    },
+                    {
+                        "footnote": "TG\u00a0Hate.",
+                        "start": 30,
+                        "end": 36
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "But he that doeth truth cometh to the light, that his deeds may be made manifest, that they are wrought in God.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Good Works.",
+                        "start": 12,
+                        "end": 17
+                    },
+                    {
+                        "footnote": "TG\u00a0Truth.",
+                        "start": 18,
+                        "end": 23
+                    },
+                    {
+                        "footnote": "TG\u00a0Discernment, Spiritual.",
+                        "start": 38,
+                        "end": 43
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "After these things came Jesus and his disciples into the land of Jud\u00e6a; and there he tarried with them, and baptized.",
+                "footnotes": [
+                    {
+                        "footnote": "John 4:2 (1\u20132); JST\u00a0John 4:1\u20134 (Appendix).",
+                        "start": 108,
+                        "end": 116
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And John also was baptizing in \u00c6non near to Salim, because there was much water there: and they came, and were baptized.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Baptism, Immersion.",
+                        "start": 74,
+                        "end": 79
+                    },
+                    {
+                        "footnote": "TG\u00a0Baptism.",
+                        "start": 111,
+                        "end": 119
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "For John was not yet cast into prison.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Then there arose a question between some of John's disciples and the Jews about purifying.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 36,
+                        "end": 40
+                    }
+                ]
+            },
+            {
+                "text": "And they came unto John, and said unto him, Rabbi, he that was with thee beyond Jordan, to whom thou barest witness, behold, the same baptizeth, and all men come to him.",
+                "footnotes": [
+                    {
+                        "footnote": "JST\u00a0John 3:27 \u2026 and he receiveth of all people who come unto him.",
+                        "start": 145,
+                        "end": 148
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 153,
+                        "end": 156
+                    }
+                ]
+            },
+            {
+                "text": "John answered and said, A man can receive nothing, except it be given him from heaven.",
+                "footnotes": [
+                    {
+                        "footnote": "James 1:17 (17\u201318).",
+                        "start": 34,
+                        "end": 41
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Ye yourselves bear me witness, that I said, I am not the Christ, but that I am sent before him.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "He that hath the bride is the bridegroom: but the friend of the bridegroom, which standeth and heareth him, rejoiceth greatly because of the bridegroom's voice: this my joy therefore is fulfilled.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "He must increase, but I must decrease.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 24,
+                        "end": 28
+                    }
+                ]
+            },
+            {
+                "text": "He that cometh from above is above all: he that is of the earth is earthly, and speaketh of the earth: he that cometh from heaven is above all.",
+                "footnotes": [
+                    {
+                        "footnote": "John 8:23.",
+                        "start": 20,
+                        "end": 25
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And what he hath seen and heard, that he testifieth; and no man receiveth his testimony.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Testimony.",
+                        "start": 41,
+                        "end": 51
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "He that hath received his testimony hath set to his seal that God is true.",
+                "footnotes": [
+                    {
+                        "footnote": "OR\u00a0declared that, certified that.",
+                        "start": 41,
+                        "end": 44
+                    },
+                    {
+                        "footnote": "TG\u00a0Seal.",
+                        "start": 52,
+                        "end": 56
+                    }
+                ],
+                "associatedContents": [
+                    {
+                        "type": "paper-page-number",
+                        "data": 1330
+                    }
+                ],
+                "italics": []
+            },
+            {
+                "text": "For he whom God hath sent speaketh the words of God: for God giveth not the Spirit by measure unto him.",
+                "footnotes": [
+                    {
+                        "footnote": "Isa. 61:1. TG\u00a0Jesus Christ, Teaching Mode of.",
+                        "start": 26,
+                        "end": 34
+                    },
+                    {
+                        "footnote": "JST\u00a0John 3:34 \u2026 for God giveth him not the Spirit by measure, for he dwelleth in him, even the fullness.",
+                        "start": 53,
+                        "end": 56
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 94,
+                        "end": 103
+                    }
+                ]
+            },
+            {
+                "text": "The Father loveth the Son, and hath given all things into his hand.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Jesus Christ, Divine Sonship.",
+                        "start": 22,
+                        "end": 25
+                    },
+                    {
+                        "footnote": "TG\u00a0Jesus Christ, Authority of.",
+                        "start": 36,
+                        "end": 41
+                    },
+                    {
+                        "footnote": "TG\u00a0Jesus Christ, Power of.",
+                        "start": 46,
+                        "end": 52
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "He that believeth on the Son hath everlasting life: and he that believeth not the Son shall not see life; but the wrath of God abideth on him.",
+                "footnotes": [
+                    {
+                        "footnote": "JST\u00a0John 3:36 And he who believeth on the Son hath everlasting life; and shall receive of his fullness. But he who believeth not the Son, shall not receive of his fullness; for the wrath of God is upon him.",
+                        "start": 0,
+                        "end": 2
+                    },
+                    {
+                        "footnote": "TG\u00a0Eternal Life.",
+                        "start": 34,
+                        "end": 50
+                    },
+                    {
+                        "footnote": "GR\u00a0disbelieves, disobeys, is uncompliant to.",
+                        "start": 64,
+                        "end": 77
+                    },
+                    {
+                        "footnote": "TG\u00a0God, Indignation of.",
+                        "start": 114,
+                        "end": 119
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            }
+        ]
+    }
+}

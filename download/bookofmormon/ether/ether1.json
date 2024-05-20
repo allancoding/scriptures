@@ -1,0 +1,462 @@
+{
+    "_id": "ether1",
+    "nextChapterId": "ether2",
+    "prevChapterId": "mormon9",
+    "volume": {
+        "title": "Book of Mormon",
+        "titleShort": "BoM",
+        "titleOfficial": "The Book of Mormon",
+        "_id": "bookofmormon"
+    },
+    "book": {
+        "title": "Ether",
+        "titleShort": "Ether",
+        "titleOfficial": "",
+        "subtitle": "",
+        "summary": "",
+        "_id": "ether"
+    },
+    "chapter": {
+        "bookTitle": "Ether",
+        "delineation": "Chapter",
+        "number": 1,
+        "summary": "Moroni abridges the writings of Ether\u2014Ether's genealogy is set forth\u2014The language of the Jaredites is not confounded at the Tower of Babel\u2014The Lord promises to lead them to a choice land and make them a great nation.",
+        "chapterAugmentations": [],
+        "verses": [
+            {
+                "text": "And now I, Moroni, proceed to give an account of those ancient inhabitants who were destroyed by the hand of the Lord upon the face of this north country.",
+                "footnotes": [
+                    {
+                        "footnote": "Mosiah 28:19.",
+                        "start": 38,
+                        "end": 45
+                    },
+                    {
+                        "footnote": "1\u00a0Sam. 5:9; Morm. 5:23; D&C 87:6 (6\u20137).",
+                        "start": 101,
+                        "end": 105
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And I take mine account from the twenty and four plates which were found by the people of Limhi, which is called the Book of Ether.",
+                "footnotes": [
+                    {
+                        "footnote": "Alma 37:21 (21\u201331); Ether 15:33.",
+                        "start": 33,
+                        "end": 39
+                    }
+                ],
+                "associatedContents": [
+                    {
+                        "type": "paper-page-number",
+                        "data": 488
+                    }
+                ],
+                "italics": []
+            },
+            {
+                "text": "And as I suppose that the first part of this record, which speaks concerning the creation of the world, and also of Adam, and an account from that time even to the great tower, and whatsoever things transpired among the children of men until that time, is had among the Jews\u2014",
+                "footnotes": [
+                    {
+                        "footnote": "Ether 8:9.",
+                        "start": 26,
+                        "end": 31
+                    },
+                    {
+                        "footnote": "Gen. 11:4 (1\u20139); Omni 1:22; Mosiah 28:17; Hel. 6:28.",
+                        "start": 170,
+                        "end": 175
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Therefore I do not write those things which transpired from the days of Adam until that time; but they are had upon the plates; and whoso findeth them, the same will have power that he may get the full account.",
+                "footnotes": [
+                    {
+                        "footnote": "IE\u00a0covering same period as Genesis 1\u201310.",
+                        "start": 64,
+                        "end": 76
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "But behold, I give not the full account, but a part of the account I give, from the tower down until they were destroyed.",
+                "footnotes": [
+                    {
+                        "footnote": "Ether 3:17; 15:33.",
+                        "start": 47,
+                        "end": 51
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And on this wise do I give the account. He that wrote this record was Ether, and he was a descendant of Coriantor.",
+                "footnotes": [
+                    {
+                        "footnote": "Ether 11:23; 12:2; 15:34.",
+                        "start": 70,
+                        "end": 75
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Coriantor was the son of Moron.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Moron was the son of Ethem.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Ethem was the son of Ahah.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Ahah was the son of Seth.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Seth was the son of Shiblon.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Shiblon was the son of Com.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Com was the son of Coriantum.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Coriantum was the son of Amnigaddah.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Amnigaddah was the son of Aaron.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Aaron was a descendant of Heth, who was the son of Hearthom.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Hearthom was the son of Lib.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Lib was the son of Kish.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Kish was the son of Corom.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Corom was the son of Levi.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Levi was the son of Kim.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Kim was the son of Morianton.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Morianton was a descendant of Riplakish.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Riplakish was the son of Shez.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Shez was the son of Heth.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Heth was the son of Com.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Com was the son of Coriantum.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Coriantum was the son of Emer.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Emer was the son of Omer.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Omer was the son of Shule.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Shule was the son of Kib.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Kib was the son of Orihah, who was the son of Jared;",
+                "footnotes": [
+                    {
+                        "footnote": "Ether 7:3.",
+                        "start": 4,
+                        "end": 7
+                    },
+                    {
+                        "footnote": "Ether 6:27.",
+                        "start": 23,
+                        "end": 29
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Which Jared came forth with his brother and their families, with some others and their families, from the great tower, at the time the Lord confounded the language of the people, and swore in his wrath that they should be scattered upon all the face of the earth; and according to the word of the Lord the people were scattered.",
+                "footnotes": [
+                    {
+                        "footnote": "Gen. 11:9 (6\u20139).",
+                        "start": 6,
+                        "end": 11
+                    },
+                    {
+                        "footnote": "Omni 1:22.",
+                        "start": 140,
+                        "end": 150
+                    },
+                    {
+                        "footnote": "Mosiah 28:17.",
+                        "start": 245,
+                        "end": 249
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And the brother of Jared being a large and mighty man, and a man highly favored of the Lord, Jared, his brother, said unto him: Cry unto the Lord, that he will not confound us that we may not understand our words.",
+                "footnotes": [
+                    {
+                        "footnote": "Ether 2:13; 6:1.",
+                        "start": 8,
+                        "end": 24
+                    },
+                    {
+                        "footnote": "TG\u00a0Communication.",
+                        "start": 192,
+                        "end": 202
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And it came to pass that the brother of Jared did cry unto the Lord, and the Lord had compassion upon Jared; therefore he did not confound the language of Jared; and Jared and his brother were not confounded.",
+                "footnotes": [
+                    {
+                        "footnote": "Zeph. 3:9; Ether 3:24; Moses 6:6 (5\u20136).",
+                        "start": 143,
+                        "end": 151
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Then Jared said unto his brother: Cry again unto the Lord, and it may be that he will turn away his anger from them who are our friends, that he confound not their language.",
+                "footnotes": [
+                    {
+                        "footnote": "Ether 2:1.",
+                        "start": 128,
+                        "end": 135
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And it came to pass that the brother of Jared did cry unto the Lord, and the Lord had compassion upon their friends and their families also, that they were not confounded.",
+                "footnotes": [],
+                "associatedContents": [
+                    {
+                        "type": "paper-page-number",
+                        "data": 489
+                    }
+                ],
+                "italics": []
+            },
+            {
+                "text": "And it came to pass that Jared spake again unto his brother, saying: Go and inquire of the Lord whether he will drive us out of the land, and if he will drive us out of the land, cry unto him whither we shall go. And who knoweth but the Lord will carry us forth into a land which is choice above all the earth? And if it so be, let us be faithful unto the Lord, that we may receive it for our inheritance.",
+                "footnotes": [
+                    {
+                        "footnote": "2\u00a0Chr. 18:4 (4\u20137).",
+                        "start": 76,
+                        "end": 83
+                    },
+                    {
+                        "footnote": "1\u00a0Ne. 2:20. TG\u00a0Lands of Inheritance.",
+                        "start": 283,
+                        "end": 289
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And it came to pass that the brother of Jared did cry unto the Lord according to that which had been spoken by the mouth of Jared.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And it came to pass that the Lord did hear the brother of Jared, and had compassion upon him, and said unto him:",
+                "footnotes": [
+                    {
+                        "footnote": "Ether 3:3.",
+                        "start": 69,
+                        "end": 72
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Go to and gather together thy flocks, both male and female, of every kind; and also of the seed of the earth of every kind; and thy families; and also Jared thy brother and his family; and also thy friends and their families, and the friends of Jared and their families.",
+                "footnotes": [
+                    {
+                        "footnote": "Ether 2:1 (1\u20133).",
+                        "start": 30,
+                        "end": 36
+                    },
+                    {
+                        "footnote": "1\u00a0Ne. 8:1; 16:11; Ether 9:17.",
+                        "start": 91,
+                        "end": 95
+                    },
+                    {
+                        "footnote": "Ether 6:20.",
+                        "start": 128,
+                        "end": 131
+                    },
+                    {
+                        "footnote": "Num. 1:2; Mosiah 6:3; D&C 48:6.",
+                        "start": 132,
+                        "end": 140
+                    },
+                    {
+                        "footnote": "Ether 6:16.",
+                        "start": 198,
+                        "end": 205
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And when thou hast done this thou shalt go at the head of them down into the valley which is northward. And there will I meet thee, and I will go before thee into a land which is choice above all the lands of the earth.",
+                "footnotes": [
+                    {
+                        "footnote": "Gen. 12:1; Num. 9:17; 1\u00a0Ne. 2:2; Ether 2:5; Abr. 2:3.",
+                        "start": 40,
+                        "end": 42
+                    },
+                    {
+                        "footnote": "Judg. 4:14; D&C 84:88 (87\u201388).",
+                        "start": 146,
+                        "end": 152
+                    },
+                    {
+                        "footnote": "1\u00a0Ne. 13:30.",
+                        "start": 179,
+                        "end": 185
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And there will I bless thee and thy seed, and raise up unto me of thy seed, and of the seed of thy brother, and they who shall go with thee, a great nation. And there shall be none greater than the nation which I will raise up unto me of thy seed, upon all the face of the earth. And thus I will do unto thee because this long time ye have cried unto me.",
+                "footnotes": [
+                    {
+                        "footnote": "Gen. 26:3; Deut. 28:8.",
+                        "start": 161,
+                        "end": 166
+                    },
+                    {
+                        "footnote": "Ether 15:2.",
+                        "start": 181,
+                        "end": 188
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            }
+        ]
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "_id": "moroni1",
+    "nextChapterId": "moroni2",
+    "prevChapterId": "ether15",
+    "volume": {
+        "title": "Book of Mormon",
+        "titleShort": "BoM",
+        "titleOfficial": "The Book of Mormon",
+        "_id": "bookofmormon"
+    },
+    "book": {
+        "title": "Moroni",
+        "titleShort": "Moro",
+        "titleOfficial": "",
+        "subtitle": "",
+        "summary": "",
+        "_id": "moroni"
+    },
+    "chapter": {
+        "bookTitle": "Moroni",
+        "delineation": "Chapter",
+        "number": 1,
+        "summary": "Moroni writes for the benefit of the Lamanites\u2014The Nephites who will not deny Christ are put to death. About A.D.\u00a0401\u201321.",
+        "chapterAugmentations": [],
+        "verses": [
+            {
+                "text": "Now I, Moroni, after having made an end of abridging the account of the people of Jared, I had supposed not to have written more, but I have not as yet perished; and I make not myself known to the Lamanites lest they should destroy me.",
+                "footnotes": [
+                    {
+                        "footnote": "Morm. 8:5; Moro. 10:1 (1\u20132).",
+                        "start": 104,
+                        "end": 107
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "For behold, their wars are exceedingly fierce among themselves; and because of their hatred they put to death every Nephite that will not deny the Christ.",
+                "footnotes": [
+                    {
+                        "footnote": "1\u00a0Ne. 12:21 (20\u201323).",
+                        "start": 18,
+                        "end": 22
+                    },
+                    {
+                        "footnote": "TG\u00a0Hate.",
+                        "start": 85,
+                        "end": 91
+                    },
+                    {
+                        "footnote": "Alma 45:14.",
+                        "start": 97,
+                        "end": 109
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And I, Moroni, will not deny the Christ; wherefore, I wander whithersoever I can for the safety of mine own life.",
+                "footnotes": [
+                    {
+                        "footnote": "Matt. 10:33 (32\u201333); 3\u00a0Ne. 29:5.",
+                        "start": 24,
+                        "end": 28
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Wherefore, I write a few more things, contrary to that which I had supposed; for I had supposed not to have written any more; but I write a few more things, that perhaps they may be of worth unto my brethren, the Lamanites, in some future day, according to the will of the Lord.",
+                "footnotes": [
+                    {
+                        "footnote": "2\u00a0Ne. 3:12 (11\u201312, 19).",
+                        "start": 185,
+                        "end": 190
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            }
+        ]
+    }
+}

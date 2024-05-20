@@ -1,0 +1,101 @@
+{
+    "_id": "moroni3",
+    "nextChapterId": "moroni4",
+    "prevChapterId": "moroni2",
+    "volume": {
+        "title": "Book of Mormon",
+        "titleShort": "BoM",
+        "titleOfficial": "The Book of Mormon",
+        "_id": "bookofmormon"
+    },
+    "book": {
+        "title": "Moroni",
+        "titleShort": "Moro",
+        "titleOfficial": "",
+        "subtitle": "",
+        "summary": "",
+        "_id": "moroni"
+    },
+    "chapter": {
+        "bookTitle": "Moroni",
+        "delineation": "Chapter",
+        "number": 3,
+        "summary": "Elders ordain priests and teachers by the laying on of hands. About A.D.\u00a0401\u201321.",
+        "chapterAugmentations": [],
+        "verses": [
+            {
+                "text": "The manner which the disciples, who were called the elders of the church, ordained priests and teachers\u2014",
+                "footnotes": [
+                    {
+                        "footnote": "Alma 6:1. TG\u00a0Elder.",
+                        "start": 52,
+                        "end": 58
+                    },
+                    {
+                        "footnote": "TG\u00a0Church Organization.",
+                        "start": 74,
+                        "end": 82
+                    },
+                    {
+                        "footnote": "Mosiah 6:3.",
+                        "start": 83,
+                        "end": 90
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "After they had prayed unto the Father in the name of Christ, they laid their hands upon them, and said:",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Hands, Laying on of.",
+                        "start": 66,
+                        "end": 70
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "In the name of Jesus Christ I ordain you to be a priest (or if he be a teacher, I ordain you to be a teacher) to preach repentance and remission of sins through Jesus Christ, by the endurance of faith on his name to the end. Amen.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Teacher.",
+                        "start": 71,
+                        "end": 78
+                    },
+                    {
+                        "footnote": "TG\u00a0Remission of Sins.",
+                        "start": 135,
+                        "end": 144
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And after this manner did they ordain priests and teachers, according to the gifts and callings of God unto men; and they ordained them by the power of the Holy Ghost, which was in them.",
+                "footnotes": [
+                    {
+                        "footnote": "D&C 18:32; 20:39 (39, 60). TG\u00a0Priesthood; Priesthood, History of.",
+                        "start": 31,
+                        "end": 37
+                    },
+                    {
+                        "footnote": "TG\u00a0God, Gifts of.",
+                        "start": 77,
+                        "end": 82
+                    },
+                    {
+                        "footnote": "1\u00a0Ne. 13:37; Moro. 6:9.",
+                        "start": 143,
+                        "end": 148
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            }
+        ]
+    }
+}

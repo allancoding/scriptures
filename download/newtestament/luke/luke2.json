@@ -1,0 +1,721 @@
+{
+    "_id": "luke2",
+    "nextChapterId": "luke3",
+    "prevChapterId": "luke1",
+    "volume": {
+        "title": "New Testament",
+        "titleShort": "NT",
+        "titleOfficial": "The New Testament",
+        "_id": "newtestament"
+    },
+    "book": {
+        "title": "Luke",
+        "titleShort": "Luke",
+        "titleOfficial": "",
+        "subtitle": "",
+        "summary": "",
+        "_id": "luke"
+    },
+    "chapter": {
+        "bookTitle": "Luke",
+        "delineation": "Chapter",
+        "number": 2,
+        "summary": "Heavenly messengers herald the birth of Jesus in Bethlehem\u2014He is circumcised, and Simeon and Anna prophesy of His mission\u2014At twelve years of age, He goes about His Father's business.",
+        "chapterAugmentations": [],
+        "verses": [
+            {
+                "text": "And it came to pass in those days, that there went out a decree from C\u00e6sar Augustus, that all the world should be taxed.",
+                "footnotes": [
+                    {
+                        "footnote": "JST\u00a0Luke 2:1 \u2026 his empire should be taxed.",
+                        "start": 94,
+                        "end": 103
+                    },
+                    {
+                        "footnote": "GR\u00a0enrolled, registered (also vv.\u00a03, 5).",
+                        "start": 114,
+                        "end": 119
+                    }
+                ],
+                "associatedContents": [
+                    {
+                        "class": "iconPointer-OKie_ icon-eLakR icon-ieVZ1",
+                        "data-pointer-type": "media",
+                        "data-scroll-id": "p1",
+                        "title": "Associated Content"
+                    }
+                ],
+                "italics": []
+            },
+            {
+                "text": "(And this taxing was first made when Cyrenius was governor of Syria.)",
+                "footnotes": [
+                    {
+                        "footnote": "GR\u00a0enrollment.",
+                        "start": 10,
+                        "end": 16
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 1,
+                        "end": 4
+                    }
+                ]
+            },
+            {
+                "text": "And all went to be taxed, every one into his own city.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Joseph also went up from Galilee, out of the city of Nazareth, into Jud\u00e6a, unto the city of David, which is called Bethlehem; (because he was of the house and lineage of David:)",
+                "footnotes": [
+                    {
+                        "footnote": "1\u00a0Sam. 16:1; Micah 5:2 (1\u20132); John 7:42 (41\u201344); Alma 7:10.",
+                        "start": 119,
+                        "end": 128
+                    }
+                ],
+                "associatedContents": [
+                    {
+                        "class": "iconPointer-OKie_ icon-eLakR icon-ieVZ1",
+                        "data-pointer-type": "media",
+                        "data-scroll-id": "p4",
+                        "title": "Associated Content"
+                    }
+                ],
+                "italics": []
+            },
+            {
+                "text": "To be taxed with Mary his espoused wife, being great with child.",
+                "footnotes": [
+                    {
+                        "footnote": "Matt. 1:24 (20\u201325).",
+                        "start": 26,
+                        "end": 34
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And so it was, that, while they were there, the days were accomplished that she should be delivered.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And she brought forth her firstborn son, and wrapped him in swaddling clothes, and laid him in a manger; because there was no room for them in the inn.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Firstborn.",
+                        "start": 26,
+                        "end": 35
+                    },
+                    {
+                        "footnote": "JST\u00a0Luke 2:7 \u2026 inns.",
+                        "start": 147,
+                        "end": 150
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And there were in the same country shepherds abiding in the field, keeping watch over their flock by night.",
+                "footnotes": [],
+                "associatedContents": [
+                    {
+                        "class": "iconPointer-OKie_ icon-eLakR icon-ieVZ1",
+                        "data-pointer-type": "media",
+                        "data-scroll-id": "p8",
+                        "title": "Associated Content"
+                    }
+                ],
+                "italics": []
+            },
+            {
+                "text": "And, lo, the angel of the Lord came upon them, and the glory of the Lord shone round about them: and they were sore afraid.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0God, Glory of.",
+                        "start": 55,
+                        "end": 60
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And the angel said unto them, Fear not: for, behold, I bring you good tidings of great joy, which shall be to all people.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Gospel.",
+                        "start": 65,
+                        "end": 77
+                    },
+                    {
+                        "footnote": "TG\u00a0Joy.",
+                        "start": 87,
+                        "end": 90
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "For unto you is born this day in the city of David a Saviour, which is Christ the Lord.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Jesus Christ, Birth of.",
+                        "start": 16,
+                        "end": 20
+                    },
+                    {
+                        "footnote": "TG\u00a0Jesus Christ, Savior.",
+                        "start": 53,
+                        "end": 60
+                    },
+                    {
+                        "footnote": "TG\u00a0Jesus Christ, Lord.",
+                        "start": 82,
+                        "end": 86
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And this shall be a sign unto you; Ye shall find the babe wrapped in swaddling clothes, lying in a manger.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Signs.",
+                        "start": 20,
+                        "end": 24
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 9,
+                        "end": 17
+                    }
+                ]
+            },
+            {
+                "text": "And suddenly there was with the angel a multitude of the heavenly host praising God, and saying,",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Glory to God in the highest, and on earth peace, good will toward men.",
+                "footnotes": [
+                    {
+                        "footnote": "Luke 19:38.",
+                        "start": 0,
+                        "end": 5
+                    },
+                    {
+                        "footnote": "TG\u00a0Peace.",
+                        "start": 42,
+                        "end": 47
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And it came to pass, as the angels were gone away from them into heaven, the shepherds said one to another, Let us now go even unto Bethlehem, and see this thing which is come to pass, which the Lord hath made known unto us.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And they came with haste, and found Mary, and Joseph, and the babe lying in a manger.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Haste.",
+                        "start": 19,
+                        "end": 24
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And when they had seen it, they made known abroad the saying which was told them concerning this child.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 23,
+                        "end": 26
+                    }
+                ]
+            },
+            {
+                "text": "And all they that heard it wondered at those things which were told them by the shepherds.",
+                "footnotes": [
+                    {
+                        "footnote": "OR\u00a0marveled.",
+                        "start": 27,
+                        "end": 35
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 24,
+                        "end": 26
+                    }
+                ]
+            },
+            {
+                "text": "But Mary kept all these things, and pondered them in her heart.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Meditation.",
+                        "start": 36,
+                        "end": 44
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 45,
+                        "end": 49
+                    }
+                ]
+            },
+            {
+                "text": "And the shepherds returned, glorifying and praising God for all the things that they had heard and seen, as it was told unto them.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And when eight days were accomplished for the circumcising of the child, his name was called Jesus, which was so named of the angel before he was conceived in the womb.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Circumcision.",
+                        "start": 46,
+                        "end": 58
+                    },
+                    {
+                        "footnote": "TG\u00a0Jesus Christ, Prophecies about.",
+                        "start": 113,
+                        "end": 118
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And when the days of her purification according to the law of Moses were accomplished, they brought him to Jerusalem, to present him to the Lord;",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Purification.",
+                        "start": 25,
+                        "end": 37
+                    }
+                ],
+                "associatedContents": [
+                    {
+                        "class": "iconPointer-OKie_ icon-eLakR icon-ieVZ1",
+                        "data-pointer-type": "media",
+                        "data-scroll-id": "p22",
+                        "title": "Associated Content"
+                    }
+                ],
+                "italics": [
+                    {
+                        "start": 129,
+                        "end": 132
+                    }
+                ]
+            },
+            {
+                "text": "(As it is written in the law of the Lord, Every male that openeth the womb shall be called holy to the Lord;)",
+                "footnotes": [
+                    {
+                        "footnote": "Ex. 13:2; 34:19.",
+                        "start": 70,
+                        "end": 74
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And to offer a sacrifice according to that which is said in the law of the Lord, A pair of turtledoves, or two young pigeons.",
+                "footnotes": [
+                    {
+                        "footnote": "Lev. 1:14; 5:7.",
+                        "start": 91,
+                        "end": 102
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And, behold, there was a man in Jerusalem, whose name was Simeon; and the same man was just and devout, waiting for the consolation of Israel: and the Holy Ghost was upon him.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 54,
+                        "end": 57
+                    },
+                    {
+                        "start": 83,
+                        "end": 86
+                    }
+                ]
+            },
+            {
+                "text": "And it was revealed unto him by the Holy Ghost, that he should not see death, before he had seen the Lord's Christ.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And he came by the Spirit into the temple: and when the parents brought in the child Jesus, to do for him after the custom of the law,",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Then took he him up in his arms, and blessed God, and said,",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Lord, now lettest thou thy servant depart in peace, according to thy word:",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "For mine eyes have seen thy salvation,",
+                "footnotes": [
+                    {
+                        "footnote": "Ps. 67:2.",
+                        "start": 28,
+                        "end": 37
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Which thou hast prepared before the face of all people;",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "A light to lighten the Gentiles, and the glory of thy people Israel.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Jesus Christ, Light of the World.",
+                        "start": 2,
+                        "end": 7
+                    },
+                    {
+                        "footnote": "GR\u00a0for revelation to.",
+                        "start": 8,
+                        "end": 18
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Joseph and his mother marvelled at those things which were spoken of him.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Simeon blessed them, and said unto Mary his mother, Behold, this child is set for the fall and rising again of many in Israel; and for a sign which shall be spoken against;",
+                "footnotes": [
+                    {
+                        "footnote": "OR\u00a0appointed.",
+                        "start": 78,
+                        "end": 81
+                    },
+                    {
+                        "footnote": "Isa. 8:14 (13\u201315); Matt. 21:44 (43\u201345); Rom. 9:32 (28\u201333); 2\u00a0Ne. 18:14; Alma 11:40 (40\u201341).",
+                        "start": 90,
+                        "end": 94
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 69,
+                        "end": 74
+                    }
+                ]
+            },
+            {
+                "text": "(Yea, a sword shall pierce through thy own soul also,) that the thoughts of many hearts may be revealed.",
+                "footnotes": [
+                    {
+                        "footnote": "John 19:25.",
+                        "start": 20,
+                        "end": 26
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And there was one Anna, a prophetess, the daughter of Phanuel, of the tribe of Aser: she was of a great age, and had lived with an husband seven years from her virginity;",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Woman.",
+                        "start": 26,
+                        "end": 36
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And she was a widow of about fourscore and four years, which departed not from the temple, but served God with fastings and prayers night and day.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Fast, Fasting.",
+                        "start": 111,
+                        "end": 119
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 8,
+                        "end": 11
+                    },
+                    {
+                        "start": 102,
+                        "end": 105
+                    }
+                ]
+            },
+            {
+                "text": "And she coming in that instant gave thanks likewise unto the Lord, and spake of him to all them that looked for redemption in Jerusalem.",
+                "footnotes": [
+                    {
+                        "footnote": "D&C 29:42.",
+                        "start": 112,
+                        "end": 122
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And when they had performed all things according to the law of the Lord, they returned into Galilee, to their own city Nazareth.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And the child grew, and waxed strong in spirit, filled with wisdom: and the grace of God was upon him.",
+                "footnotes": [
+                    {
+                        "footnote": "OR\u00a0became. See JST\u00a0Matt. 3:24\u201326 (Appendix).",
+                        "start": 24,
+                        "end": 29
+                    },
+                    {
+                        "footnote": "TG\u00a0Grace.",
+                        "start": 76,
+                        "end": 81
+                    }
+                ],
+                "associatedContents": [
+                    {
+                        "class": "iconPointer-OKie_ icon-eLakR icon-ieVZ1",
+                        "data-pointer-type": "media",
+                        "data-scroll-id": "p40",
+                        "title": "Associated Content"
+                    }
+                ],
+                "italics": []
+            },
+            {
+                "text": "Now his parents went to Jerusalem every year at the feast of the passover.",
+                "footnotes": [
+                    {
+                        "footnote": "Deut. 16:1.",
+                        "start": 52,
+                        "end": 73
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And when he was twelve years old, they went up to Jerusalem after the custom of the feast.",
+                "footnotes": [],
+                "associatedContents": [
+                    {
+                        "type": "paper-page-number",
+                        "data": 1277
+                    }
+                ],
+                "italics": []
+            },
+            {
+                "text": "And when they had fulfilled the days, as they returned, the child Jesus tarried behind in Jerusalem; and Joseph and his mother knew not of it.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 136,
+                        "end": 142
+                    }
+                ]
+            },
+            {
+                "text": "But they, supposing him to have been in the company, went a day's journey; and they sought him among their kinsfolk and acquaintance.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 101,
+                        "end": 106
+                    }
+                ]
+            },
+            {
+                "text": "And when they found him not, they turned back again to Jerusalem, seeking him.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And it came to pass, that after three days they found him in the temple, sitting in the midst of the doctors, both hearing them, and asking them questions.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Temple.",
+                        "start": 65,
+                        "end": 71
+                    },
+                    {
+                        "footnote": "GR\u00a0teachers.",
+                        "start": 101,
+                        "end": 108
+                    },
+                    {
+                        "footnote": "JST\u00a0Luke 2:46 \u2026 and they were hearing him, and asking him questions.",
+                        "start": 110,
+                        "end": 114
+                    },
+                    {
+                        "footnote": "John 7:15 (14\u201315).",
+                        "start": 133,
+                        "end": 139
+                    }
+                ],
+                "associatedContents": [
+                    {
+                        "class": "iconPointer-OKie_ icon-eLakR icon-ieVZ1",
+                        "data-pointer-type": "media",
+                        "data-scroll-id": "p46",
+                        "title": "Associated Content"
+                    }
+                ],
+                "italics": []
+            },
+            {
+                "text": "And all that heard him were astonished at his understanding and answers.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Understanding.",
+                        "start": 46,
+                        "end": 59
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And when they saw him, they were amazed: and his mother said unto him, Son, why hast thou thus dealt with us? behold, thy father and I have sought thee sorrowing.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And he said unto them, How is it that ye sought me? wist ye not that I must be about my Father's business?",
+                "footnotes": [
+                    {
+                        "footnote": "OR\u00a0knew.",
+                        "start": 52,
+                        "end": 56
+                    },
+                    {
+                        "footnote": "John 4:34; 6:39 (38\u201339). TG\u00a0God the Father, Elohim.",
+                        "start": 88,
+                        "end": 96
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And they understood not the saying which he spake unto them.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And he went down with them, and came to Nazareth, and was subject unto them: but his mother kept all these sayings in her heart.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Family, Children, Duties of; Self-Mastery.",
+                        "start": 58,
+                        "end": 65
+                    },
+                    {
+                        "footnote": "TG\u00a0Heart.",
+                        "start": 122,
+                        "end": 127
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Jesus increased in wisdom and stature, and in favour with God and man.",
+                "footnotes": [
+                    {
+                        "footnote": "1\u00a0Sam. 2:26; 3:19.",
+                        "start": 10,
+                        "end": 19
+                    },
+                    {
+                        "footnote": "TG\u00a0God, Wisdom of; Study.",
+                        "start": 23,
+                        "end": 29
+                    },
+                    {
+                        "footnote": "D&C 93:13 (12\u201314). TG\u00a0Jesus Christ, Relationships with the Father.",
+                        "start": 50,
+                        "end": 56
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            }
+        ]
+    }
+}

@@ -1,0 +1,524 @@
+{
+    "_id": "matthew15",
+    "nextChapterId": "matthew16",
+    "prevChapterId": "matthew14",
+    "volume": {
+        "title": "New Testament",
+        "titleShort": "NT",
+        "titleOfficial": "The New Testament",
+        "_id": "newtestament"
+    },
+    "book": {
+        "title": "Matthew",
+        "titleShort": "Matt",
+        "titleOfficial": "",
+        "subtitle": "",
+        "summary": "",
+        "_id": "matthew"
+    },
+    "chapter": {
+        "bookTitle": "Matthew",
+        "delineation": "Chapter",
+        "number": 15,
+        "summary": "The scribes and Pharisees contend against Jesus\u2014He heals the daughter of a gentile woman\u2014He feeds the four thousand.",
+        "chapterAugmentations": [],
+        "verses": [
+            {
+                "text": "Then came to Jesus scribes and Pharisees, which were of Jerusalem, saying,",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Scribe.",
+                        "start": 19,
+                        "end": 26
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Why do thy disciples transgress the tradition of the elders? for they wash not their hands when they eat bread.",
+                "footnotes": [
+                    {
+                        "footnote": "Alma 24:7; D&C 123:7 (7\u20138).",
+                        "start": 36,
+                        "end": 45
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "But he answered and said unto them, Why do ye also transgress the commandment of God by your tradition?",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Traditions of Men.",
+                        "start": 93,
+                        "end": 102
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "For God commanded, saying, Honour thy father and mother: and, He that curseth father or mother, let him die the death.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Honor; Honoring Father and Mother; Respect.",
+                        "start": 27,
+                        "end": 33
+                    },
+                    {
+                        "footnote": "GR\u00a0he shall surely die. TG\u00a0Capital Punishment.",
+                        "start": 96,
+                        "end": 107
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "But ye say, Whosoever shall say to his father or his mother, It is a gift, by whatsoever thou mightest be profited by me;",
+                "footnotes": [
+                    {
+                        "footnote": "Mark 7:11.",
+                        "start": 69,
+                        "end": 73
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 35,
+                        "end": 38
+                    },
+                    {
+                        "start": 49,
+                        "end": 52
+                    },
+                    {
+                        "start": 61,
+                        "end": 66
+                    }
+                ]
+            },
+            {
+                "text": "And honour not his father or his mother, he shall be free. Thus have ye made the commandment of God of none effect by your tradition.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 41,
+                        "end": 58
+                    }
+                ]
+            },
+            {
+                "text": "Ye hypocrites, well did Esaias prophesy of you, saying,",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 0,
+                        "end": 2
+                    }
+                ]
+            },
+            {
+                "text": "This people draweth nigh unto me with their mouth, and honoureth me with their lips; but their heart is far from me.",
+                "footnotes": [
+                    {
+                        "footnote": "Jer. 12:2.",
+                        "start": 44,
+                        "end": 49
+                    },
+                    {
+                        "footnote": "Isa. 29:13; Titus 1:16 (15\u201316); 2\u00a0Ne. 27:25 (24\u201325). TG\u00a0Hypocrisy.",
+                        "start": 55,
+                        "end": 64
+                    },
+                    {
+                        "footnote": "Ezek. 33:31; Alma 34:28; D&C 45:29.",
+                        "start": 95,
+                        "end": 100
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 73,
+                        "end": 78
+                    }
+                ]
+            },
+            {
+                "text": "But in vain they do worship me, teaching for doctrines the commandments of men.",
+                "footnotes": [
+                    {
+                        "footnote": "Isa. 1:13.",
+                        "start": 20,
+                        "end": 27
+                    },
+                    {
+                        "footnote": "Matt. 16:12; Col. 2:22 (18\u201322); Titus 1:14 (13\u201314); 2\u00a0Ne. 28:9.",
+                        "start": 45,
+                        "end": 54
+                    },
+                    {
+                        "footnote": "TG\u00a0Apostasy of Israel.",
+                        "start": 59,
+                        "end": 71
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 41,
+                        "end": 44
+                    }
+                ]
+            },
+            {
+                "text": "And he called the multitude, and said unto them, Hear, and understand:",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Not that which goeth into the mouth defileth a man; but that which cometh out of the mouth, this defileth a man.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Cleanliness.",
+                        "start": 36,
+                        "end": 44
+                    },
+                    {
+                        "footnote": "TG\u00a0Gossip; Profanity.",
+                        "start": 85,
+                        "end": 90
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Then came his disciples, and said unto him, Knowest thou that the Pharisees were offended, after they heard this saying?",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "But he answered and said, Every plant, which my heavenly Father hath not planted, shall be rooted up.",
+                "footnotes": [
+                    {
+                        "footnote": "John 15:2 (1\u20132). TG\u00a0Vineyard of the Lord.",
+                        "start": 32,
+                        "end": 37
+                    }
+                ],
+                "associatedContents": [
+                    {
+                        "type": "paper-page-number",
+                        "data": 1214
+                    }
+                ],
+                "italics": []
+            },
+            {
+                "text": "Let them alone: they be blind leaders of the blind. And if the blind lead the blind, both shall fall into the ditch.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Spiritual Blindness.",
+                        "start": 24,
+                        "end": 29
+                    },
+                    {
+                        "footnote": "TG\u00a0Governments; Leadership.",
+                        "start": 30,
+                        "end": 37
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Then answered Peter and said unto him, Declare unto us this parable.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Jesus said, Are ye also yet without understanding?",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Do not ye yet understand, that whatsoever entereth in at the mouth goeth into the belly, and is cast out into the draught?",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "But those things which proceed out of the mouth come forth from the heart; and they defile the man.",
+                "footnotes": [
+                    {
+                        "footnote": "Mosiah 4:30 (29\u201330).",
+                        "start": 42,
+                        "end": 47
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "For out of the heart proceed evil thoughts, murders, adulteries, fornications, thefts, false witness, blasphemies:",
+                "footnotes": [
+                    {
+                        "footnote": "Gen. 6:5; Heb. 3:12; Hel. 12:4. TG\u00a0Chastity.",
+                        "start": 15,
+                        "end": 20
+                    },
+                    {
+                        "footnote": "TG\u00a0Blood, Shedding of; Murder.",
+                        "start": 44,
+                        "end": 51
+                    },
+                    {
+                        "footnote": "TG\u00a0Adulterer; Sexual Immorality.",
+                        "start": 53,
+                        "end": 63
+                    },
+                    {
+                        "footnote": "TG\u00a0Fornication.",
+                        "start": 65,
+                        "end": 77
+                    },
+                    {
+                        "footnote": "Ps. 27:12; Hel. 7:21 (21\u201322).",
+                        "start": 87,
+                        "end": 100
+                    },
+                    {
+                        "footnote": "GR\u00a0slanderous statements. TG\u00a0Blaspheme.",
+                        "start": 102,
+                        "end": 113
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "These are the things which defile a man: but to eat with unwashen hands defileth not a man.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Pollution.",
+                        "start": 27,
+                        "end": 33
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 10,
+                        "end": 20
+                    }
+                ]
+            },
+            {
+                "text": "Then Jesus went thence, and departed into the coasts of Tyre and Sidon.",
+                "footnotes": [
+                    {
+                        "footnote": "GR\u00a0regions.",
+                        "start": 46,
+                        "end": 52
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And, behold, a woman of Canaan came out of the same coasts, and cried unto him, saying, Have mercy on me, O Lord, thou Son of David; my daughter is grievously vexed with a devil.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 114,
+                        "end": 118
+                    }
+                ]
+            },
+            {
+                "text": "But he answered her not a word. And his disciples came and besought him, saying, Send her away; for she crieth after us.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "But he answered and said, I am not sent but unto the lost sheep of the house of Israel.",
+                "footnotes": [
+                    {
+                        "footnote": "3\u00a0Ne. 15:23. TG\u00a0Jesus Christ, Messenger of the Covenant.",
+                        "start": 35,
+                        "end": 39
+                    },
+                    {
+                        "footnote": "TG\u00a0Israel, Scattering of.",
+                        "start": 80,
+                        "end": 86
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Then came she and worshipped him, saying, Lord, help me.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "But he answered and said, It is not meet to take the children's bread, and to cast it to dogs.",
+                "footnotes": [
+                    {
+                        "footnote": "Prov. 23:9; Matt. 7:6; D&C 6:12 (10\u201312); 10:37 (36\u201337); 41:6.",
+                        "start": 89,
+                        "end": 93
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 83,
+                        "end": 85
+                    }
+                ]
+            },
+            {
+                "text": "And she said, Truth, Lord: yet the dogs eat of the crumbs which fall from their masters' table.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Then Jesus answered and said unto her, O woman, great is thy faith: be it unto thee even as thou wilt. And her daughter was made whole from that very hour.",
+                "footnotes": [
+                    {
+                        "footnote": "James 5:15 (14\u201315).",
+                        "start": 61,
+                        "end": 66
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 54,
+                        "end": 56
+                    }
+                ]
+            },
+            {
+                "text": "And Jesus departed from thence, and came nigh unto the sea of Galilee; and went up into a mountain, and sat down there.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And great multitudes came unto him, having with them those that were lame, blind, dumb, maimed, and many others, and cast them down at Jesus' feet; and he healed them:",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 53,
+                        "end": 68
+                    }
+                ]
+            },
+            {
+                "text": "Insomuch that the multitude wondered, when they saw the dumb to speak, the maimed to be whole, the lame to walk, and the blind to see: and they glorified the God of Israel.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Then Jesus called his disciples unto him, and said, I have compassion on the multitude, because they continue with me now three days, and have nothing to eat: and I will not send them away fasting, lest they faint in the way.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 32,
+                        "end": 41
+                    }
+                ]
+            },
+            {
+                "text": "And his disciples say unto him, Whence should we have so much bread in the wilderness, as to fill so great a multitude?",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Jesus saith unto them, How many loaves have ye? And they said, Seven, and a few little fishes.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And he commanded the multitude to sit down on the ground.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And he took the seven loaves and the fishes, and gave thanks, and brake them, and gave to his disciples, and the disciples to the multitude.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Bread.",
+                        "start": 22,
+                        "end": 28
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 72,
+                        "end": 77
+                    }
+                ]
+            },
+            {
+                "text": "And they did all eat, and were filled: and they took up of the broken meat that was left seven baskets full.",
+                "footnotes": [
+                    {
+                        "footnote": "2\u00a0Kgs. 4:44 (42\u201344); Matt. 14:20 (19\u201321).",
+                        "start": 48,
+                        "end": 52
+                    }
+                ],
+                "associatedContents": [
+                    {
+                        "type": "paper-page-number",
+                        "data": 1215
+                    }
+                ],
+                "italics": [
+                    {
+                        "start": 70,
+                        "end": 74
+                    }
+                ]
+            },
+            {
+                "text": "And they that did eat were four thousand men, beside women and children.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And he sent away the multitude, and took ship, and came into the coasts of Magdala.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            }
+        ]
+    }
+}

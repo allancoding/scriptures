@@ -1,0 +1,72 @@
+{
+    "_id": "moroni5",
+    "nextChapterId": "moroni6",
+    "prevChapterId": "moroni4",
+    "volume": {
+        "title": "Book of Mormon",
+        "titleShort": "BoM",
+        "titleOfficial": "The Book of Mormon",
+        "_id": "bookofmormon"
+    },
+    "book": {
+        "title": "Moroni",
+        "titleShort": "Moro",
+        "titleOfficial": "",
+        "subtitle": "",
+        "summary": "",
+        "_id": "moroni"
+    },
+    "chapter": {
+        "bookTitle": "Moroni",
+        "delineation": "Chapter",
+        "number": 5,
+        "summary": "The mode of administering the sacramental wine is set forth. About A.D.\u00a0401\u201321.",
+        "chapterAugmentations": [],
+        "verses": [
+            {
+                "text": "The manner of administering the wine\u2014Behold, they took the cup, and said:",
+                "footnotes": [
+                    {
+                        "footnote": "3\u00a0Ne. 18:11 (8\u201311); D&C 20:78.",
+                        "start": 4,
+                        "end": 10
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "O God, the Eternal Father, we ask thee, in the name of thy Son, Jesus Christ, to bless and sanctify this wine to the souls of all those who drink of it, that they may do it in remembrance of the blood of thy Son, which was shed for them; that they may witness unto thee, O God, the Eternal Father, that they do always remember him, that they may have his Spirit to be with them. Amen.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Sacrament.",
+                        "start": 105,
+                        "end": 109
+                    },
+                    {
+                        "footnote": "Luke 22:20; 1\u00a0Cor. 11:25.",
+                        "start": 176,
+                        "end": 187
+                    },
+                    {
+                        "footnote": "D&C 27:2 (2\u20134).",
+                        "start": 195,
+                        "end": 200
+                    },
+                    {
+                        "footnote": "TG\u00a0Spirituality.",
+                        "start": 355,
+                        "end": 361
+                    }
+                ],
+                "associatedContents": [
+                    {
+                        "type": "paper-page-number",
+                        "data": 520
+                    }
+                ],
+                "italics": []
+            }
+        ]
+    }
+}

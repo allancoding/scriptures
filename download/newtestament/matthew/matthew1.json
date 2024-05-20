@@ -1,0 +1,400 @@
+{
+    "_id": "matthew1",
+    "nextChapterId": "matthew2",
+    "prevChapterId": "malachi4",
+    "volume": {
+        "title": "New Testament",
+        "titleShort": "NT",
+        "titleOfficial": "The New Testament",
+        "_id": "newtestament"
+    },
+    "book": {
+        "title": "Matthew",
+        "titleShort": "Matt",
+        "titleOfficial": "",
+        "subtitle": "",
+        "summary": "",
+        "_id": "matthew"
+    },
+    "chapter": {
+        "bookTitle": "Matthew",
+        "delineation": "Chapter",
+        "number": 1,
+        "summary": "Christ is born of Mary\u2014She conceives by the power of the Holy Ghost\u2014Our Lord is named Jesus.",
+        "chapterAugmentations": [],
+        "verses": [
+            {
+                "text": "The book of the generation of Jesus Christ, the son of David, the son of Abraham.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Jesus Christ, Davidic Descent of.",
+                        "start": 55,
+                        "end": 60
+                    }
+                ],
+                "associatedContents": [
+                    {
+                        "class": "iconPointer-OKie_ icon-eLakR icon-ieVZ1",
+                        "data-pointer-type": "media",
+                        "data-scroll-id": "p1",
+                        "title": "Associated Content"
+                    }
+                ],
+                "italics": []
+            },
+            {
+                "text": "Abraham begat Isaac; and Isaac begat Jacob; and Jacob begat Judas and his brethren;",
+                "footnotes": [
+                    {
+                        "footnote": "Gen. 25:19.",
+                        "start": 0,
+                        "end": 7
+                    },
+                    {
+                        "footnote": "TG\u00a0Israel, Judah, People of.",
+                        "start": 60,
+                        "end": 65
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Judas begat Phares and Zara of Thamar; and Phares begat Esrom; and Esrom begat Aram;",
+                "footnotes": [
+                    {
+                        "footnote": "Ruth 4:18; 1\u00a0Chr. 2:4 (4\u201315).",
+                        "start": 16,
+                        "end": 22
+                    },
+                    {
+                        "footnote": "Gen. 38:30.",
+                        "start": 27,
+                        "end": 31
+                    },
+                    {
+                        "footnote": "1\u00a0Chr. 2:9.",
+                        "start": 60,
+                        "end": 65
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Aram begat Aminadab; and Aminadab begat Naasson; and Naasson begat Salmon;",
+                "footnotes": [
+                    {
+                        "footnote": "Num. 1:7.",
+                        "start": 57,
+                        "end": 64
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Salmon begat Booz of Rachab; and Booz begat Obed of Ruth; and Obed begat Jesse;",
+                "footnotes": [
+                    {
+                        "footnote": "Ruth 4:21.",
+                        "start": 17,
+                        "end": 21
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Jesse begat David the king; and David the king begat Solomon of her that had been the wife of Urias;",
+                "footnotes": [
+                    {
+                        "footnote": "2\u00a0Sam. 12:24 (24\u201325); 1\u00a0Chr. 3:5.",
+                        "start": 57,
+                        "end": 64
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 72,
+                        "end": 94
+                    }
+                ]
+            },
+            {
+                "text": "And Solomon begat Roboam; and Roboam begat Abia; and Abia begat Asa;",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Asa begat Josaphat; and Josaphat begat Joram; and Joram begat Ozias;",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Ozias begat Joatham; and Joatham begat Achaz; and Achaz begat Ezekias;",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Ezekias begat Manasses; and Manasses begat Amon; and Amon begat Josias;",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Josias begat Jechonias and his brethren, about the time they were carried away to Babylon:",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Israel, Bondage of, in Other Lands.",
+                        "start": 86,
+                        "end": 93
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And after they were brought to Babylon, Jechonias begat Salathiel; and Salathiel begat Zorobabel;",
+                "footnotes": [
+                    {
+                        "footnote": "1\u00a0Chr. 3:19 (17\u201319); Ezra 2:2 (1\u20132); Hag. 1:1.",
+                        "start": 87,
+                        "end": 96
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Zorobabel begat Abiud; and Abiud begat Eliakim; and Eliakim begat Azor;",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Azor begat Sadoc; and Sadoc begat Achim; and Achim begat Eliud;",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Eliud begat Eleazar; and Eleazar begat Matthan; and Matthan begat Jacob;",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Jacob begat Joseph the husband of Mary, of whom was born Jesus, who is called Christ.",
+                "footnotes": [
+                    {
+                        "footnote": "Luke 3:23 (23\u201338).",
+                        "start": 16,
+                        "end": 22
+                    },
+                    {
+                        "footnote": "1\u00a0Ne. 11:18 (14\u201321); Mosiah 3:8.",
+                        "start": 38,
+                        "end": 42
+                    },
+                    {
+                        "footnote": "Luke 20:14; D&C 93:14 (3\u201317).",
+                        "start": 61,
+                        "end": 66
+                    },
+                    {
+                        "footnote": "JST\u00a0Matt. 1:4 \u2026 as the prophets have written, who is called Christ.",
+                        "start": 68,
+                        "end": 71
+                    },
+                    {
+                        "footnote": "The Greek title \u201cChrist\u201d and the Hebrew title \u201cMessiah\u201d are synonymous, meaning \u201cAnointed One.\u201d",
+                        "start": 82,
+                        "end": 88
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "So all the generations from Abraham to David are fourteen generations; and from David until the carrying away into Babylon are fourteen generations; and from the carrying away into Babylon unto Christ are fourteen generations.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Book of Remembrance.",
+                        "start": 214,
+                        "end": 225
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 45,
+                        "end": 48
+                    },
+                    {
+                        "start": 123,
+                        "end": 126
+                    },
+                    {
+                        "start": 201,
+                        "end": 204
+                    }
+                ]
+            },
+            {
+                "text": "Now the birth of Jesus Christ was on this wise: When as his mother Mary was espoused to Joseph, before they came together, she was found with child of the Holy Ghost.",
+                "footnotes": [
+                    {
+                        "footnote": "JST\u00a0Matt. 2:1 Now, as it is written, the birth of\u00a0\u2026",
+                        "start": 0,
+                        "end": 3
+                    },
+                    {
+                        "footnote": "D&C 20:1.",
+                        "start": 8,
+                        "end": 13
+                    },
+                    {
+                        "footnote": "GR\u00a0in this way.",
+                        "start": 34,
+                        "end": 46
+                    }
+                ],
+                "associatedContents": [
+                    {
+                        "type": "paper-page-number",
+                        "data": 1188
+                    }
+                ],
+                "italics": []
+            },
+            {
+                "text": "Then Joseph her husband, being a just man, and not willing to make her a publick example, was minded to put her away privily.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Example.",
+                        "start": 81,
+                        "end": 88
+                    },
+                    {
+                        "footnote": "IE\u00a0desired to release or divorce her secretly.",
+                        "start": 90,
+                        "end": 93
+                    },
+                    {
+                        "footnote": "Deut. 24:1.",
+                        "start": 104,
+                        "end": 107
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 38,
+                        "end": 42
+                    }
+                ]
+            },
+            {
+                "text": "But while he thought on these things, behold, the angel of the Lord appeared unto him in a dream, saying, Joseph, thou son of David, fear not to take unto thee Mary thy wife: for that which is conceived in her is of the Holy Ghost.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Dream.",
+                        "start": 91,
+                        "end": 96
+                    },
+                    {
+                        "footnote": "2\u00a0Ne. 19:7.",
+                        "start": 126,
+                        "end": 131
+                    },
+                    {
+                        "footnote": "Luke 1:35; Alma 7:10.",
+                        "start": 220,
+                        "end": 230
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And she shall bring forth a son, and thou shalt call his name Jesus: for he shall save his people from their sins.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Jesus Christ, Prophecies about.",
+                        "start": 57,
+                        "end": 61
+                    },
+                    {
+                        "footnote": "TG\u00a0Forgive; Jesus Christ, Atonement through; Jesus Christ, Mission of; Jesus Christ, Redeemer; Jesus Christ, Savior; Redemption; Salvation.",
+                        "start": 82,
+                        "end": 86
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Now all this was done, that it might be fulfilled which was spoken of the Lord by the prophet, saying,",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Behold, a virgin shall be with child, and shall bring forth a son, and they shall call his name Emmanuel, which being interpreted is, God with us.",
+                "footnotes": [
+                    {
+                        "footnote": "Isa. 7:14.",
+                        "start": 0,
+                        "end": 6
+                    },
+                    {
+                        "footnote": "TG\u00a0Jesus Christ, Birth of.",
+                        "start": 10,
+                        "end": 16
+                    },
+                    {
+                        "footnote": "TG\u00a0Name.",
+                        "start": 91,
+                        "end": 95
+                    },
+                    {
+                        "footnote": "TG\u00a0Jesus Christ, Prophecies about.",
+                        "start": 96,
+                        "end": 104
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Then Joseph being raised from sleep did as the angel of the Lord had bidden him, and took unto him his wife:",
+                "footnotes": [
+                    {
+                        "footnote": "Luke 2:5.",
+                        "start": 103,
+                        "end": 107
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And knew her not till she had brought forth her firstborn son: and he called his name Jesus.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Firstborn.",
+                        "start": 48,
+                        "end": 57
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            }
+        ]
+    }
+}

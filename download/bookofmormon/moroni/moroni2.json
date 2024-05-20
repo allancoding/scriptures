@@ -1,0 +1,86 @@
+{
+    "_id": "moroni2",
+    "nextChapterId": "moroni3",
+    "prevChapterId": "moroni1",
+    "volume": {
+        "title": "Book of Mormon",
+        "titleShort": "BoM",
+        "titleOfficial": "The Book of Mormon",
+        "_id": "bookofmormon"
+    },
+    "book": {
+        "title": "Moroni",
+        "titleShort": "Moro",
+        "titleOfficial": "",
+        "subtitle": "",
+        "summary": "",
+        "_id": "moroni"
+    },
+    "chapter": {
+        "bookTitle": "Moroni",
+        "delineation": "Chapter",
+        "number": 2,
+        "summary": "Jesus gave the twelve Nephite disciples power to confer the gift of the Holy Ghost. About A.D.\u00a0401\u201321.",
+        "chapterAugmentations": [],
+        "verses": [
+            {
+                "text": "The words of Christ, which he spake unto his disciples, the twelve whom he had chosen, as he laid his hands upon them\u2014",
+                "footnotes": [
+                    {
+                        "footnote": "3\u00a0Ne. 13:25; 15:11.",
+                        "start": 45,
+                        "end": 54
+                    }
+                ],
+                "associatedContents": [
+                    {
+                        "class": "iconPointer-OKie_ icon-eLakR icon-ieVZ1",
+                        "data-pointer-type": "media",
+                        "data-scroll-id": "p1",
+                        "title": "Associated Content"
+                    }
+                ],
+                "italics": []
+            },
+            {
+                "text": "And he called them by name, saying: Ye shall call on the Father in my name, in mighty prayer; and after ye have done this ye shall have power that to him upon whom ye shall lay your hands, ye shall give the Holy Ghost; and in my name shall ye give it, for thus do mine apostles.",
+                "footnotes": [
+                    {
+                        "footnote": "Gen. 4:26; Ether 4:15.",
+                        "start": 45,
+                        "end": 49
+                    },
+                    {
+                        "footnote": "Matt. 10:1. TG\u00a0Priesthood, Melchizedek.",
+                        "start": 136,
+                        "end": 141
+                    },
+                    {
+                        "footnote": "TG\u00a0Hands, Laying on of.",
+                        "start": 182,
+                        "end": 187
+                    },
+                    {
+                        "footnote": "3\u00a0Ne. 18:37.",
+                        "start": 189,
+                        "end": 191
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Now Christ spake these words unto them at the time of his first appearing; and the multitude heard it not, but the disciples heard it; and on as many as they laid their hands, fell the Holy Ghost.",
+                "footnotes": [
+                    {
+                        "footnote": "Acts 19:6.",
+                        "start": 158,
+                        "end": 162
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            }
+        ]
+    }
+}

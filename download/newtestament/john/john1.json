@@ -1,0 +1,793 @@
+{
+    "_id": "john1",
+    "nextChapterId": "john2",
+    "prevChapterId": "luke24",
+    "volume": {
+        "title": "New Testament",
+        "titleShort": "NT",
+        "titleOfficial": "The New Testament",
+        "_id": "newtestament"
+    },
+    "book": {
+        "title": "John",
+        "titleShort": "John",
+        "titleOfficial": "",
+        "subtitle": "",
+        "summary": "",
+        "_id": "john"
+    },
+    "chapter": {
+        "bookTitle": "John",
+        "delineation": "Chapter",
+        "number": 1,
+        "summary": "Christ is the Word of God\u2014He created all things and was made flesh\u2014John baptizes Jesus and testifies that He is the Lamb of God\u2014John, Andrew, Simon, Philip, and Nathanael believe in Christ and follow Him.",
+        "chapterAugmentations": [],
+        "verses": [
+            {
+                "text": "In the beginning was the Word, and the Word was with God, and the Word was God.",
+                "footnotes": [
+                    {
+                        "footnote": "JST\u00a0John 1:1\u201334 (Appendix).",
+                        "start": 0,
+                        "end": 2
+                    },
+                    {
+                        "footnote": "D&C 76:39. TG\u00a0Jesus Christ, Firstborn; Jesus Christ, Foreordained.",
+                        "start": 7,
+                        "end": 16
+                    },
+                    {
+                        "footnote": "TG\u00a0Jesus Christ, Messenger of the Covenant; Jesus Christ, Relationships with the Father.",
+                        "start": 39,
+                        "end": 43
+                    },
+                    {
+                        "footnote": "TG\u00a0Jesus Christ, Jehovah.",
+                        "start": 66,
+                        "end": 70
+                    },
+                    {
+                        "footnote": "TG\u00a0Jesus Christ, Authority of.",
+                        "start": 75,
+                        "end": 78
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "The same was in the beginning with God.",
+                "footnotes": [
+                    {
+                        "footnote": "1\u00a0Jn. 1:1. TG\u00a0Man, Antemortal Existence of.",
+                        "start": 20,
+                        "end": 29
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "All things were made by him; and without him was not any thing made that was made.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Creation; God, Power of; Jesus Christ, Creator; Jesus Christ, Mission of; Jesus Christ, Power of.",
+                        "start": 16,
+                        "end": 20
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "In him was life; and the life was the light of men.",
+                "footnotes": [
+                    {
+                        "footnote": "1\u00a0Jn. 5:11 (10\u201321).",
+                        "start": 11,
+                        "end": 15
+                    },
+                    {
+                        "footnote": "TG\u00a0Jesus Christ, Light of the World; Light [noun].",
+                        "start": 38,
+                        "end": 43
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And the light shineth in darkness; and the darkness comprehended it not.",
+                "footnotes": [
+                    {
+                        "footnote": "D&C 6:21; 34:2; 45:7.",
+                        "start": 8,
+                        "end": 13
+                    },
+                    {
+                        "footnote": "TG\u00a0Darkness, Spiritual.",
+                        "start": 25,
+                        "end": 33
+                    },
+                    {
+                        "footnote": "1\u00a0Cor. 2:11 (10\u201314); D&C 45:29.",
+                        "start": 52,
+                        "end": 64
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "There was a man sent from God, whose name was John.",
+                "footnotes": [
+                    {
+                        "footnote": "1\u00a0Ne. 11:27.",
+                        "start": 46,
+                        "end": 50
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 42,
+                        "end": 45
+                    }
+                ]
+            },
+            {
+                "text": "The same came for a witness, to bear witness of the Light, that all men through him might believe.",
+                "footnotes": [
+                    {
+                        "footnote": "John 19:35 (35\u201337).",
+                        "start": 20,
+                        "end": 27
+                    },
+                    {
+                        "footnote": "D&C 66:7.",
+                        "start": 37,
+                        "end": 44
+                    },
+                    {
+                        "footnote": "John 20:31 (30\u201331).",
+                        "start": 90,
+                        "end": 97
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 68,
+                        "end": 71
+                    }
+                ]
+            },
+            {
+                "text": "He was not that Light, but was sent to bear witness of that Light.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 27,
+                        "end": 35
+                    }
+                ]
+            },
+            {
+                "text": "That was the true Light, which lighteth every man that cometh into the world.",
+                "footnotes": [
+                    {
+                        "footnote": "John 12:46. TG\u00a0Intelligence; Jesus Christ, Light of the World; Light of Christ.",
+                        "start": 18,
+                        "end": 23
+                    },
+                    {
+                        "footnote": "TG\u00a0Discernment, Spiritual.",
+                        "start": 31,
+                        "end": 39
+                    },
+                    {
+                        "footnote": "D&C 84:46.",
+                        "start": 40,
+                        "end": 49
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 0,
+                        "end": 4
+                    }
+                ]
+            },
+            {
+                "text": "He was in the world, and the world was made by him, and the world knew him not.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0World.",
+                        "start": 14,
+                        "end": 19
+                    },
+                    {
+                        "footnote": "TG\u00a0Creation.",
+                        "start": 29,
+                        "end": 34
+                    },
+                    {
+                        "footnote": "TG\u00a0Jesus Christ, Creator.",
+                        "start": 39,
+                        "end": 43
+                    },
+                    {
+                        "footnote": "Isa. 53:3.",
+                        "start": 66,
+                        "end": 70
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "He came unto his own, and his own received him not.",
+                "footnotes": [
+                    {
+                        "footnote": "3\u00a0Ne. 9:16; D&C 6:21.",
+                        "start": 34,
+                        "end": 42
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "But as many as received him, to them gave he power to become the sons of God, even to them that believe on his name:",
+                "footnotes": [
+                    {
+                        "footnote": "D&C 25:1. TG\u00a0Teachable.",
+                        "start": 15,
+                        "end": 23
+                    },
+                    {
+                        "footnote": "GR\u00a0authority, right, privilege. D&C 11:30. TG\u00a0Jesus Christ, Power of.",
+                        "start": 45,
+                        "end": 50
+                    },
+                    {
+                        "footnote": "D&C 39:4 (3\u20136). TG\u00a0Sons and Daughters of God.",
+                        "start": 65,
+                        "end": 69
+                    },
+                    {
+                        "footnote": "TG\u00a0Name.",
+                        "start": 111,
+                        "end": 115
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 78,
+                        "end": 82
+                    }
+                ]
+            },
+            {
+                "text": "Which were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Holy Ghost, Baptism of.",
+                        "start": 11,
+                        "end": 15
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Flesh and Blood; God, Manifestations of; Jesus Christ, Birth of; Jesus Christ, Condescension of.",
+                        "start": 22,
+                        "end": 27
+                    },
+                    {
+                        "footnote": "TG\u00a0God, Presence of.",
+                        "start": 33,
+                        "end": 38
+                    },
+                    {
+                        "footnote": "Matt. 17:2 (1\u20139); Luke 1:2; John 19:35; 21:24; Acts 5:32; 26:16; 2\u00a0Pet. 1:16 (16\u201319); D&C 93:11.",
+                        "start": 57,
+                        "end": 63
+                    },
+                    {
+                        "footnote": "Heb. 1:3. TG\u00a0Glory; Jesus Christ, Glory of.",
+                        "start": 68,
+                        "end": 73
+                    },
+                    {
+                        "footnote": "TG\u00a0Jesus Christ, Divine Sonship.",
+                        "start": 95,
+                        "end": 99
+                    },
+                    {
+                        "footnote": "D&C 76:23.",
+                        "start": 100,
+                        "end": 108
+                    },
+                    {
+                        "footnote": "D&C 66:12.",
+                        "start": 133,
+                        "end": 138
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "John bare witness of him, and cried, saying, This was he of whom I spake, He that cometh after me is preferred before me: for he was before me.",
+                "footnotes": [
+                    {
+                        "footnote": "John 5:33.",
+                        "start": 10,
+                        "end": 17
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And of his fulness have all we received, and grace for grace.",
+                "footnotes": [
+                    {
+                        "footnote": "Col. 2:10.",
+                        "start": 11,
+                        "end": 18
+                    },
+                    {
+                        "footnote": "D&C 93:12.",
+                        "start": 45,
+                        "end": 50
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "For the law was given by Moses, but grace and truth came by Jesus Christ.",
+                "footnotes": [
+                    {
+                        "footnote": "JST\u00a0John 1:17\u201318 (Appendix).",
+                        "start": 0,
+                        "end": 3
+                    },
+                    {
+                        "footnote": "TG\u00a0Law of Moses.",
+                        "start": 8,
+                        "end": 11
+                    },
+                    {
+                        "footnote": "TG\u00a0Grace.",
+                        "start": 36,
+                        "end": 41
+                    },
+                    {
+                        "footnote": "TG\u00a0Truth.",
+                        "start": 46,
+                        "end": 51
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 32,
+                        "end": 35
+                    }
+                ]
+            },
+            {
+                "text": "No man hath seen God at any time; the only begotten Son, which is in the bosom of the Father, he hath declared him.",
+                "footnotes": [
+                    {
+                        "footnote": "D&C 67:11; 84:22.",
+                        "start": 3,
+                        "end": 6
+                    },
+                    {
+                        "footnote": "TG\u00a0God, Privilege of Seeing.",
+                        "start": 12,
+                        "end": 16
+                    },
+                    {
+                        "footnote": "JST\u00a0John 1:19 \u2026 at any time, except he hath borne record of the Son; for except it is through him no man can be saved.",
+                        "start": 21,
+                        "end": 32
+                    },
+                    {
+                        "footnote": "Luke 10:22.",
+                        "start": 102,
+                        "end": 110
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 111,
+                        "end": 115
+                    }
+                ]
+            },
+            {
+                "text": "And this is the record of John, when the Jews sent priests and Levites from Jerusalem to ask him, Who art thou?",
+                "footnotes": [
+                    {
+                        "footnote": "Luke 3:15 (15\u201316).",
+                        "start": 26,
+                        "end": 30
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And he confessed, and denied not; but confessed, I am not the Christ.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And they asked him, What then? Art thou Elias? And he saith, I am not. Art thou that prophet? And he answered, No.",
+                "footnotes": [
+                    {
+                        "footnote": "Mal. 4:5 (5\u20136).",
+                        "start": 40,
+                        "end": 45
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Then said they unto him, Who art thou? that we may give an answer to them that sent us. What sayest thou of thyself?",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "He said, I am the voice of one crying in the wilderness, Make straight the way of the Lord, as said the prophet Esaias.",
+                "footnotes": [
+                    {
+                        "footnote": "Matt. 3:3; Mark 1:3; Luke 3:4.",
+                        "start": 18,
+                        "end": 23
+                    },
+                    {
+                        "footnote": "D&C 84:28.",
+                        "start": 62,
+                        "end": 70
+                    },
+                    {
+                        "footnote": "D&C 65:1.",
+                        "start": 75,
+                        "end": 78
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 11,
+                        "end": 13
+                    }
+                ]
+            },
+            {
+                "text": "And they which were sent were of the Pharisees.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And they asked him, and said unto him, Why baptizest thou then, if thou be not that Christ, nor Elias, neither that prophet?",
+                "footnotes": [],
+                "associatedContents": [
+                    {
+                        "type": "paper-page-number",
+                        "data": 1326
+                    }
+                ],
+                "italics": []
+            },
+            {
+                "text": "John answered them, saying, I baptize with water: but there standeth one among you, whom ye know not;",
+                "footnotes": [
+                    {
+                        "footnote": "D&C 52:10.",
+                        "start": 43,
+                        "end": 48
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "He it is, who coming after me is preferred before me, whose shoe's latchet I am not worthy to unloose.",
+                "footnotes": [
+                    {
+                        "footnote": "JST\u00a0John 1:28 (Appendix).",
+                        "start": 0,
+                        "end": 2
+                    },
+                    {
+                        "footnote": "GR\u00a0sandal strap.",
+                        "start": 60,
+                        "end": 74
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "These things were done in Bethabara beyond Jordan, where John was baptizing.",
+                "footnotes": [
+                    {
+                        "footnote": "1\u00a0Ne. 10:9.",
+                        "start": 26,
+                        "end": 35
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "The next day John seeth Jesus coming unto him, and saith, Behold the Lamb of God, which taketh away the sin of the world.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Jesus Christ, Lamb of God; Jesus Christ, Redeemer; Jesus Christ, Types of, in Anticipation; Passover.",
+                        "start": 69,
+                        "end": 73
+                    },
+                    {
+                        "footnote": "TG\u00a0Jesus Christ, Atonement through; Redemption; Sin.",
+                        "start": 104,
+                        "end": 107
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "This is he of whom I said, After me cometh a man which is preferred before me: for he was before me.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And I knew him not: but that he should be made manifest to Israel, therefore am I come baptizing with water.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And John bare record, saying, I saw the Spirit descending from heaven like a dove, and it abode upon him.",
+                "footnotes": [
+                    {
+                        "footnote": "D&C 93:11.",
+                        "start": 9,
+                        "end": 13
+                    },
+                    {
+                        "footnote": "TG\u00a0Jesus Christ, Baptism of.",
+                        "start": 40,
+                        "end": 46
+                    },
+                    {
+                        "footnote": "TG\u00a0Holy Ghost, Dove, Sign of.",
+                        "start": 77,
+                        "end": 81
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And I knew him not: but he that sent me to baptize with water, the same said unto me, Upon whom thou shalt see the Spirit descending, and remaining on him, the same is he which baptizeth with the Holy Ghost.",
+                "footnotes": [
+                    {
+                        "footnote": "JST\u00a0John 1:32 And I knew him; for he who sent me\u00a0\u2026",
+                        "start": 0,
+                        "end": 3
+                    },
+                    {
+                        "footnote": "TG\u00a0Holy Ghost, Baptism of.",
+                        "start": 196,
+                        "end": 206
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And I saw, and bare record that this is the Son of God.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Testimony.",
+                        "start": 20,
+                        "end": 26
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Again the next day after John stood, and two of his disciples;",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And looking upon Jesus as he walked, he saith, Behold the Lamb of God!",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Passover.",
+                        "start": 58,
+                        "end": 62
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And the two disciples heard him speak, and they followed Jesus.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Then Jesus turned, and saw them following, and saith unto them, What seek ye? They said unto him, Rabbi, (which is to say, being interpreted, Master,) where dwellest thou?",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "He saith unto them, Come and see. They came and saw where he dwelt, and abode with him that day: for it was about the tenth hour.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "One of the two which heard John speak, and followed him, was Andrew, Simon Peter's brother.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Apostles.",
+                        "start": 43,
+                        "end": 51
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 32,
+                        "end": 38
+                    }
+                ]
+            },
+            {
+                "text": "He first findeth his own brother Simon, and saith unto him, We have found the Messias, which is, being interpreted, the Christ.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Jesus Christ, Messiah.",
+                        "start": 78,
+                        "end": 85
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And he brought him to Jesus. And when Jesus beheld him, he said, Thou art Simon the son of Jona: thou shalt be called Cephas, which is by interpretation, A stone.",
+                "footnotes": [
+                    {
+                        "footnote": "GR\u00a0Stone, Pebble. JST\u00a0John 1:42 \u2026 Cephas, which is, by interpretation, a seer, or a stone. And they were fishermen. And they straightway left all, and followed Jesus. Matt. 16:18; Luke 6:14; Gal. 2:9.",
+                        "start": 118,
+                        "end": 124
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "The day following Jesus would go forth into Galilee, and findeth Philip, and saith unto him, Follow me.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Now Philip was of Bethsaida, the city of Andrew and Peter.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Philip findeth Nathanael, and saith unto him, We have found him, of whom Moses in the law, and the prophets, did write, Jesus of Nazareth, the son of Joseph.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Jesus Christ, Prophecies about.",
+                        "start": 73,
+                        "end": 78
+                    },
+                    {
+                        "footnote": "TG\u00a0Record Keeping.",
+                        "start": 113,
+                        "end": 118
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And Nathanael said unto him, Can there any good thing come out of Nazareth? Philip saith unto him, Come and see.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Jesus saw Nathanael coming to him, and saith of him, Behold an Israelite indeed, in whom is no guile!",
+                "footnotes": [
+                    {
+                        "footnote": "D&C 41:11.",
+                        "start": 10,
+                        "end": 19
+                    },
+                    {
+                        "footnote": "GR\u00a0deceit, fraud. TG\u00a0Guile.",
+                        "start": 95,
+                        "end": 100
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Nathanael saith unto him, Whence knowest thou me? Jesus answered and said unto him, Before that Philip called thee, when thou wast under the fig tree, I saw thee.",
+                "footnotes": [],
+                "associatedContents": [
+                    {
+                        "type": "paper-page-number",
+                        "data": 1327
+                    }
+                ],
+                "italics": []
+            },
+            {
+                "text": "Nathanael answered and saith unto him, Rabbi, thou art the Son of God; thou art the King of Israel.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0God, Body of, Corporeal Nature.",
+                        "start": 59,
+                        "end": 69
+                    },
+                    {
+                        "footnote": "TG\u00a0Jesus Christ, Messiah.",
+                        "start": 84,
+                        "end": 88
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Jesus answered and said unto him, Because I said unto thee, I saw thee under the fig tree, believest thou? thou shalt see greater things than these.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And he saith unto him, Verily, verily, I say unto you, Hereafter ye shall see heaven open, and the angels of God ascending and descending upon the Son of man.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            }
+        ]
+    }
+}

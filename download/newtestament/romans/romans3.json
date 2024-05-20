@@ -1,0 +1,610 @@
+{
+    "_id": "romans3",
+    "nextChapterId": "romans4",
+    "prevChapterId": "romans2",
+    "volume": {
+        "title": "New Testament",
+        "titleShort": "NT",
+        "titleOfficial": "The New Testament",
+        "_id": "newtestament"
+    },
+    "book": {
+        "title": "Romans",
+        "titleShort": "Rom",
+        "titleOfficial": "",
+        "subtitle": "",
+        "summary": "",
+        "_id": "romans"
+    },
+    "chapter": {
+        "bookTitle": "Romans",
+        "delineation": "Chapter",
+        "number": 3,
+        "summary": "Man is not justified by the law of Moses\u2014He is justified through righteousness, which comes through faith in Christ, made possible through Christ's atoning sacrifice.",
+        "chapterAugmentations": [],
+        "verses": [
+            {
+                "text": "What advantage then hath the Jew? or what profit is there of circumcision?",
+                "footnotes": [
+                    {
+                        "footnote": "JST\u00a0Rom. 3:1\u20132 What advantage then hath the Jew over the Gentile? or what profit of circumcision, who is not a Jew from the heart? But he who is a Jew from the heart, I say hath much every way\u00a0\u2026",
+                        "start": 0,
+                        "end": 4
+                    },
+                    {
+                        "footnote": "GR\u00a0preeminence.",
+                        "start": 5,
+                        "end": 14
+                    },
+                    {
+                        "footnote": "TG\u00a0Circumcision.",
+                        "start": 61,
+                        "end": 73
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 49,
+                        "end": 57
+                    }
+                ]
+            },
+            {
+                "text": "Much every way: chiefly, because that unto them were committed the oracles of God.",
+                "footnotes": [
+                    {
+                        "footnote": "Acts 7:38; 2\u00a0Ne. 29:4 (4\u20136).",
+                        "start": 67,
+                        "end": 74
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "For what if some did not believe? shall their unbelief make the faith of God without effect?",
+                "footnotes": [
+                    {
+                        "footnote": "1\u00a0Ne. 8:28 (26\u201328).",
+                        "start": 46,
+                        "end": 54
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "God forbid: yea, let God be true, but every man a liar; as it is written, That thou mightest be justified in thy sayings, and mightest overcome when thou art judged.",
+                "footnotes": [
+                    {
+                        "footnote": "GR\u00a0May it not be!",
+                        "start": 0,
+                        "end": 10
+                    },
+                    {
+                        "footnote": "Alma 30:42 (37\u201342).",
+                        "start": 50,
+                        "end": 54
+                    },
+                    {
+                        "footnote": "Ps. 51:4.",
+                        "start": 96,
+                        "end": 105
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "But if our unrighteousness commend the righteousness of God, what shall we say? Is God unrighteous who taketh vengeance? (I speak as a man)",
+                "footnotes": [
+                    {
+                        "footnote": "JST\u00a0Rom. 3:5\u20138 (Appendix).",
+                        "start": 0,
+                        "end": 3
+                    },
+                    {
+                        "footnote": "GR\u00a0recommend.",
+                        "start": 27,
+                        "end": 34
+                    },
+                    {
+                        "footnote": "2\u00a0Ne. 26:7; Alma 42:1 (1, 13\u201325).",
+                        "start": 87,
+                        "end": 98
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 80,
+                        "end": 82
+                    }
+                ]
+            },
+            {
+                "text": "God forbid: for then how shall God judge the world?",
+                "footnotes": [
+                    {
+                        "footnote": "GR\u00a0May it not be!",
+                        "start": 0,
+                        "end": 10
+                    },
+                    {
+                        "footnote": "TG\u00a0Jesus Christ, Judge.",
+                        "start": 35,
+                        "end": 40
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "For if the truth of God hath more abounded through my lie unto his glory; why yet am I also judged as a sinner?",
+                "footnotes": [
+                    {
+                        "footnote": "GR\u00a0in, by, because of.",
+                        "start": 43,
+                        "end": 50
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And not rather, (as we be slanderously reported, and as some affirm that we say,) Let us do evil, that good may come? whose damnation is just.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Damnation.",
+                        "start": 124,
+                        "end": 133
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 8,
+                        "end": 15
+                    }
+                ]
+            },
+            {
+                "text": "What then? are we better than they? No, in no wise: for we have before proved both Jews and Gentiles, that they are all under sin;",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 25,
+                        "end": 35
+                    }
+                ]
+            },
+            {
+                "text": "As it is written, There is none righteous, no, not one:",
+                "footnotes": [
+                    {
+                        "footnote": "Ps. 14:2\u20133; 53:1 (1\u20133).",
+                        "start": 27,
+                        "end": 31
+                    },
+                    {
+                        "footnote": "TG\u00a0Man, Natural, Not Spiritually Reborn.",
+                        "start": 32,
+                        "end": 41
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "There is none that understandeth, there is none that seeketh after God.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "They are all gone out of the way, they are together become unprofitable; there is none that doeth good, no, not one.",
+                "footnotes": [
+                    {
+                        "footnote": "D&C 82:6.",
+                        "start": 29,
+                        "end": 32
+                    },
+                    {
+                        "footnote": "Luke 17:10 (7\u201310); Mosiah 2:21 (20\u201321).",
+                        "start": 59,
+                        "end": 71
+                    },
+                    {
+                        "footnote": "D&C 33:4; 35:12.",
+                        "start": 98,
+                        "end": 102
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Their throat is an open sepulchre; with their tongues they have used deceit; the poison of asps is under their lips:",
+                "footnotes": [
+                    {
+                        "footnote": "Ps. 5:9.",
+                        "start": 6,
+                        "end": 12
+                    },
+                    {
+                        "footnote": "Ps. 140:3 (1\u201313).",
+                        "start": 81,
+                        "end": 87
+                    }
+                ],
+                "associatedContents": [
+                    {
+                        "type": "paper-page-number",
+                        "data": 1420
+                    }
+                ],
+                "italics": [
+                    {
+                        "start": 13,
+                        "end": 15
+                    },
+                    {
+                        "start": 96,
+                        "end": 98
+                    }
+                ]
+            },
+            {
+                "text": "Whose mouth is full of cursing and bitterness:",
+                "footnotes": [
+                    {
+                        "footnote": "Alma 41:11; Morm. 8:31.",
+                        "start": 35,
+                        "end": 45
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 12,
+                        "end": 14
+                    }
+                ]
+            },
+            {
+                "text": "Their feet are swift to shed blood:",
+                "footnotes": [
+                    {
+                        "footnote": "Isa. 59:7 (7\u20138).",
+                        "start": 24,
+                        "end": 28
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 11,
+                        "end": 14
+                    }
+                ]
+            },
+            {
+                "text": "Destruction and misery are in their ways:",
+                "footnotes": [
+                    {
+                        "footnote": "Mosiah 3:25; Morm. 8:38.",
+                        "start": 16,
+                        "end": 22
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 23,
+                        "end": 26
+                    }
+                ]
+            },
+            {
+                "text": "And the way of peace have they not known:",
+                "footnotes": [
+                    {
+                        "footnote": "1\u00a0Ne. 20:22 (18\u201322).",
+                        "start": 15,
+                        "end": 20
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "There is no fear of God before their eyes.",
+                "footnotes": [
+                    {
+                        "footnote": "D&C 10:56 (55\u201356).",
+                        "start": 12,
+                        "end": 16
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Now we know that what things soever the law saith, it saith to them who are under the law: that every mouth may be stopped, and all the world may become guilty before God.",
+                "footnotes": [
+                    {
+                        "footnote": "Ezek. 16:63.",
+                        "start": 102,
+                        "end": 107
+                    },
+                    {
+                        "footnote": "TG\u00a0Guilt.",
+                        "start": 153,
+                        "end": 159
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Therefore by the deeds of the law there shall no flesh be justified in his sight: for by the law is the knowledge of sin.",
+                "footnotes": [
+                    {
+                        "footnote": "2\u00a0Ne. 25:23.",
+                        "start": 17,
+                        "end": 22
+                    },
+                    {
+                        "footnote": "TG\u00a0Law of Moses.",
+                        "start": 30,
+                        "end": 33
+                    },
+                    {
+                        "footnote": "2\u00a0Ne. 2:5 (5\u20138).",
+                        "start": 58,
+                        "end": 67
+                    },
+                    {
+                        "footnote": "GR\u00a0through.",
+                        "start": 86,
+                        "end": 88
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 97,
+                        "end": 99
+                    }
+                ]
+            },
+            {
+                "text": "But now the righteousness of God without the law is manifested, being witnessed by the law and the prophets;",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0God, the Standard of Righteousness.",
+                        "start": 12,
+                        "end": 25
+                    },
+                    {
+                        "footnote": "GR\u00a0apart from, without intervention of.",
+                        "start": 33,
+                        "end": 40
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Even the righteousness of God which is by faith of Jesus Christ unto all and upon all them that believe: for there is no difference:",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 30,
+                        "end": 38
+                    }
+                ]
+            },
+            {
+                "text": "For all have sinned, and come short of the glory of God;",
+                "footnotes": [
+                    {
+                        "footnote": "Prov. 20:9; 1\u00a0Ne. 10:6. TG\u00a0Man, Natural, Not Spiritually Reborn; Sin.",
+                        "start": 13,
+                        "end": 19
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Being justified freely by his grace through the redemption that is in Christ Jesus:",
+                "footnotes": [
+                    {
+                        "footnote": "JST\u00a0Rom. 3:24 Therefore being justified only by his grace\u00a0\u2026",
+                        "start": 0,
+                        "end": 5
+                    },
+                    {
+                        "footnote": "D&C 20:30.",
+                        "start": 6,
+                        "end": 15
+                    },
+                    {
+                        "footnote": "TG\u00a0Grace.",
+                        "start": 30,
+                        "end": 35
+                    },
+                    {
+                        "footnote": "TG\u00a0Jesus Christ, Redeemer.",
+                        "start": 48,
+                        "end": 58
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Whom God hath set forth to be a propitiation through faith in his blood, to declare his righteousness for the remission of sins that are past, through the forbearance of God;",
+                "footnotes": [
+                    {
+                        "footnote": "GR\u00a0purposed, designed beforehand.",
+                        "start": 14,
+                        "end": 23
+                    },
+                    {
+                        "footnote": "GR\u00a0mercy seat. TG\u00a0Jesus Christ, Atonement through; Redemption.",
+                        "start": 32,
+                        "end": 44
+                    },
+                    {
+                        "footnote": "TG\u00a0Blood, Symbolism of.",
+                        "start": 66,
+                        "end": 71
+                    },
+                    {
+                        "footnote": "TG\u00a0Remission of Sins.",
+                        "start": 110,
+                        "end": 119
+                    },
+                    {
+                        "footnote": "TG\u00a0Forbear.",
+                        "start": 155,
+                        "end": 166
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 24,
+                        "end": 29
+                    }
+                ]
+            },
+            {
+                "text": "To declare, I say, at this time his righteousness: that he might be just, and the justifier of him which believeth in Jesus.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0God, Justice of.",
+                        "start": 68,
+                        "end": 72
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 12,
+                        "end": 18
+                    }
+                ]
+            },
+            {
+                "text": "Where is boasting then? It is excluded. By what law? of works? Nay: but by the law of faith.",
+                "footnotes": [
+                    {
+                        "footnote": "Alma 26:36 (10\u201312, 36); D&C 3:4; 84:73.",
+                        "start": 9,
+                        "end": 17
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 6,
+                        "end": 8
+                    }
+                ]
+            },
+            {
+                "text": "Therefore we conclude that a man is justified by faith without the deeds of the law.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Justification.",
+                        "start": 36,
+                        "end": 45
+                    },
+                    {
+                        "footnote": "TG\u00a0Faith.",
+                        "start": 49,
+                        "end": 54
+                    },
+                    {
+                        "footnote": "GR\u00a0apart from, without intervention of.",
+                        "start": 55,
+                        "end": 62
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Is he the God of the Jews only? is he not also of the Gentiles? Yes, of the Gentiles also:",
+                "footnotes": [
+                    {
+                        "footnote": "2\u00a0Ne. 30:2 (1\u20132).",
+                        "start": 10,
+                        "end": 13
+                    },
+                    {
+                        "footnote": "TG\u00a0Gentiles.",
+                        "start": 76,
+                        "end": 84
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 0,
+                        "end": 5
+                    },
+                    {
+                        "start": 32,
+                        "end": 37
+                    }
+                ]
+            },
+            {
+                "text": "Seeing it is one God, which shall justify the circumcision by faith, and uncircumcision through faith.",
+                "footnotes": [
+                    {
+                        "footnote": "1\u00a0Tim. 2:5; D&C 121:28.",
+                        "start": 13,
+                        "end": 20
+                    },
+                    {
+                        "footnote": "TG\u00a0Circumcision.",
+                        "start": 46,
+                        "end": 58
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 7,
+                        "end": 12
+                    }
+                ]
+            },
+            {
+                "text": "Do we then make void the law through faith? God forbid: yea, we establish the law.",
+                "footnotes": [
+                    {
+                        "footnote": "GR\u00a0May it not be!",
+                        "start": 44,
+                        "end": 54
+                    },
+                    {
+                        "footnote": "GR\u00a0but.",
+                        "start": 56,
+                        "end": 59
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            }
+        ]
+    }
+}

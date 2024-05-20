@@ -1,0 +1,522 @@
+{
+    "_id": "1john2",
+    "nextChapterId": "1john3",
+    "prevChapterId": "1john1",
+    "volume": {
+        "title": "New Testament",
+        "titleShort": "NT",
+        "titleOfficial": "The New Testament",
+        "_id": "newtestament"
+    },
+    "book": {
+        "title": "1 John",
+        "titleShort": "1 Jn",
+        "titleOfficial": "",
+        "subtitle": "",
+        "summary": "",
+        "_id": "1john"
+    },
+    "chapter": {
+        "bookTitle": "1 John",
+        "delineation": "Chapter",
+        "number": 2,
+        "summary": "Christ is our Advocate with the Father\u2014We know God by obedience\u2014Love not the world\u2014Anti-Christs will come in the last days.",
+        "chapterAugmentations": [],
+        "verses": [
+            {
+                "text": "My little children, these things write I unto you, that ye sin not. And if any man sin, we have an advocate with the Father, Jesus Christ the righteous:",
+                "footnotes": [
+                    {
+                        "footnote": "JST\u00a01\u00a0Jn. 2:1 \u2026 But if any man sin and repent, we have an advocate\u00a0\u2026",
+                        "start": 68,
+                        "end": 71
+                    },
+                    {
+                        "footnote": "GR\u00a0intercessor, helper, comforter. TG\u00a0Jesus Christ, Authority of; Jesus Christ, Relationships with the Father; Salvation, Plan of.",
+                        "start": 99,
+                        "end": 107
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And he is the propitiation for our sins: and not for ours only, but also for the sins of the whole world.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Jesus Christ, Atonement through; Jesus Christ, Redeemer; Jesus Christ, Savior; Redemption; Remission of Sins.",
+                        "start": 14,
+                        "end": 26
+                    },
+                    {
+                        "footnote": "Alma 11:41 (40\u201341); D&C 21:9; 76:41 (41\u201343).",
+                        "start": 99,
+                        "end": 104
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 77,
+                        "end": 88
+                    }
+                ]
+            },
+            {
+                "text": "And hereby we do know that we know him, if we keep his commandments.",
+                "footnotes": [
+                    {
+                        "footnote": "1\u00a0Jn. 3:22 (22\u201324); 5:3 (2\u20133).",
+                        "start": 46,
+                        "end": 50
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "He that saith, I know him, and keepeth not his commandments, is a liar, and the truth is not in him.",
+                "footnotes": [
+                    {
+                        "footnote": "1\u00a0Jn. 3:6.",
+                        "start": 47,
+                        "end": 59
+                    },
+                    {
+                        "footnote": "TG\u00a0Lying.",
+                        "start": 66,
+                        "end": 70
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "But whoso keepeth his word, in him verily is the love of God perfected: hereby know we that we are in him.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Obedience.",
+                        "start": 10,
+                        "end": 17
+                    },
+                    {
+                        "footnote": "2\u00a0Cor. 5:17.",
+                        "start": 99,
+                        "end": 105
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "He that saith he abideth in him ought himself also so to walk, even as he walked.",
+                "footnotes": [
+                    {
+                        "footnote": "John 15:4.",
+                        "start": 17,
+                        "end": 24
+                    },
+                    {
+                        "footnote": "Matt. 11:29; 2\u00a0Ne. 31:12 (12\u201313); Moro. 7:4 (3\u20134); D&C 19:23.",
+                        "start": 57,
+                        "end": 61
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Brethren, I write no new commandment unto you, but an old commandment which ye had from the beginning. The old commandment is the word which ye have heard from the beginning.",
+                "footnotes": [
+                    {
+                        "footnote": "JST\u00a01\u00a0Jn. 2:7 Brethren, I write a new commandment unto you, but it is the same commandment which ye had from the beginning\u00a0\u2026",
+                        "start": 0,
+                        "end": 8
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Again, a new commandment I write unto you, which thing is true in him and in you: because the darkness is past, and the true light now shineth.",
+                "footnotes": [
+                    {
+                        "footnote": "JST\u00a01\u00a0Jn. 2:8 \u2026 which thing was of old ordained of God; and is true in him, and in you\u00a0\u2026",
+                        "start": 43,
+                        "end": 48
+                    },
+                    {
+                        "footnote": "TG\u00a0Darkness, Spiritual.",
+                        "start": 94,
+                        "end": 102
+                    },
+                    {
+                        "footnote": "GR\u00a0passing away.",
+                        "start": 106,
+                        "end": 110
+                    },
+                    {
+                        "footnote": "2\u00a0Ne. 3:5; D&C 50:24.",
+                        "start": 125,
+                        "end": 130
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "He that saith he is in the light, and hateth his brother, is in darkness even until now.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "He that loveth his brother abideth in the light, and there is none occasion of stumbling in him.",
+                "footnotes": [
+                    {
+                        "footnote": "D&C 95:12. TG\u00a0Family, Love within; Love.",
+                        "start": 8,
+                        "end": 14
+                    },
+                    {
+                        "footnote": "TG\u00a0Brotherhood and Sisterhood.",
+                        "start": 19,
+                        "end": 26
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "But he that hateth his brother is in darkness, and walketh in darkness, and knoweth not whither he goeth, because that darkness hath blinded his eyes.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Walking in Darkness.",
+                        "start": 51,
+                        "end": 58
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "I write unto you, little children, because your sins are forgiven you for his name's sake.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Scriptures, Writing of.",
+                        "start": 2,
+                        "end": 7
+                    },
+                    {
+                        "footnote": "Mosiah 5:7; Moses 6:52.",
+                        "start": 25,
+                        "end": 33
+                    },
+                    {
+                        "footnote": "GR\u00a0because of, through His name.",
+                        "start": 70,
+                        "end": 73
+                    },
+                    {
+                        "footnote": "1\u00a0Sam. 12:22; Ps. 23:3; Acts 4:12; 1\u00a0Ne. 20:9.",
+                        "start": 78,
+                        "end": 84
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "I write unto you, fathers, because ye have known him that is from the beginning. I write unto you, young men, because ye have overcome the wicked one. I write unto you, little children, because ye have known the Father.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 53,
+                        "end": 60
+                    }
+                ]
+            },
+            {
+                "text": "I have written unto you, fathers, because ye have known him that is from the beginning. I have written unto you, young men, because ye are strong, and the word of God abideth in you, and ye have overcome the wicked one.",
+                "footnotes": [],
+                "associatedContents": [
+                    {
+                        "type": "paper-page-number",
+                        "data": 1557
+                    }
+                ],
+                "italics": [
+                    {
+                        "start": 60,
+                        "end": 67
+                    }
+                ]
+            },
+            {
+                "text": "Love not the world, neither the things that are in the world. If any man love the world, the love of the Father is not in him.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0World.",
+                        "start": 13,
+                        "end": 18
+                    },
+                    {
+                        "footnote": "TG\u00a0Worldliness.",
+                        "start": 55,
+                        "end": 60
+                    },
+                    {
+                        "footnote": "D&C 95:12.",
+                        "start": 93,
+                        "end": 97
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 39,
+                        "end": 47
+                    }
+                ]
+            },
+            {
+                "text": "For all that is in the world, the lust of the flesh, and the lust of the eyes, and the pride of life, is not of the Father, but is of the world.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Chastity; Lust; Sensuality.",
+                        "start": 34,
+                        "end": 38
+                    },
+                    {
+                        "footnote": "GR\u00a0haughtiness, ostentation. TG\u00a0Pride.",
+                        "start": 87,
+                        "end": 92
+                    },
+                    {
+                        "footnote": "Mark 7:21 (21\u201322).",
+                        "start": 138,
+                        "end": 143
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 13,
+                        "end": 15
+                    }
+                ]
+            },
+            {
+                "text": "And the world passeth away, and the lust thereof: but he that doeth the will of God abideth for ever.",
+                "footnotes": [
+                    {
+                        "footnote": "1\u00a0Cor. 7:31 (29\u201331).",
+                        "start": 8,
+                        "end": 13
+                    },
+                    {
+                        "footnote": "TG\u00a0World, End of.",
+                        "start": 14,
+                        "end": 21
+                    },
+                    {
+                        "footnote": "TG\u00a0God, Will of.",
+                        "start": 72,
+                        "end": 76
+                    },
+                    {
+                        "footnote": "Ps. 125:1; 3\u00a0Ne. 14:21.",
+                        "start": 84,
+                        "end": 91
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Little children, it is the last time: and as ye have heard that antichrist shall come, even now are there many antichrists; whereby we know that it is the last time.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Antichrist; False Prophets.",
+                        "start": 64,
+                        "end": 74
+                    },
+                    {
+                        "footnote": "TG\u00a0Apostasy of the Early Christian Church.",
+                        "start": 111,
+                        "end": 122
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "They went out from us, but they were not of us; for if they had been of us, they would no doubt have continued with us: but they went out, that they might be made manifest that they were not all of us.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 87,
+                        "end": 95
+                    },
+                    {
+                        "start": 124,
+                        "end": 138
+                    }
+                ]
+            },
+            {
+                "text": "But ye have an unction from the Holy One, and ye know all things.",
+                "footnotes": [
+                    {
+                        "footnote": "GR\u00a0anointing.",
+                        "start": 15,
+                        "end": 22
+                    },
+                    {
+                        "footnote": "TG\u00a0Holiness.",
+                        "start": 32,
+                        "end": 40
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "I have not written unto you because ye know not the truth, but because ye know it, and that no lie is of the truth.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Who is a liar but he that denieth that Jesus is the Christ? He is antichrist, that denieth the Father and the Son.",
+                "footnotes": [
+                    {
+                        "footnote": "Alma 5:39 (38\u201340).",
+                        "start": 9,
+                        "end": 13
+                    },
+                    {
+                        "footnote": "TG\u00a0Antichrist.",
+                        "start": 66,
+                        "end": 76
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Whosoever denieth the Son, the same hath not the Father: [but] he that acknowledgeth the Son hath the Father also.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 58,
+                        "end": 61
+                    },
+                    {
+                        "start": 63,
+                        "end": 114
+                    }
+                ]
+            },
+            {
+                "text": "Let that therefore abide in you, which ye have heard from the beginning. If that which ye have heard from the beginning shall remain in you, ye also shall continue in the Son, and in the Father.",
+                "footnotes": [
+                    {
+                        "footnote": "2\u00a0Jn. 1:6.",
+                        "start": 110,
+                        "end": 119
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And this is the promise that he hath promised us, even eternal life.",
+                "footnotes": [
+                    {
+                        "footnote": "D&C 88:4. TG\u00a0Promise.",
+                        "start": 16,
+                        "end": 23
+                    },
+                    {
+                        "footnote": "John 17:3 (2\u20133); 2\u00a0Ne. 31:20.",
+                        "start": 55,
+                        "end": 67
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 50,
+                        "end": 54
+                    }
+                ]
+            },
+            {
+                "text": "These things have I written unto you concerning them that seduce you.",
+                "footnotes": [
+                    {
+                        "footnote": "GR\u00a0deceive, lead astray, cause to wander.",
+                        "start": 58,
+                        "end": 64
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 6,
+                        "end": 12
+                    }
+                ]
+            },
+            {
+                "text": "But the anointing which ye have received of him abideth in you, and ye need not that any man teach you: but as the same anointing teacheth you of all things, and is truth, and is no lie, and even as it hath taught you, ye shall abide in him.",
+                "footnotes": [
+                    {
+                        "footnote": "D&C 43:15.",
+                        "start": 93,
+                        "end": 98
+                    },
+                    {
+                        "footnote": "TG\u00a0Anointing.",
+                        "start": 120,
+                        "end": 129
+                    },
+                    {
+                        "footnote": "John 6:45; 1\u00a0Thes. 4:9.",
+                        "start": 130,
+                        "end": 138
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "And now, little children, abide in him; that, when he shall appear, we may have confidence, and not be ashamed before him at his coming.",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "If ye know that he is righteous, ye know that every one that doeth righteousness is born of him.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Righteousness.",
+                        "start": 67,
+                        "end": 80
+                    },
+                    {
+                        "footnote": "TG\u00a0Man, New, Spiritually Reborn.",
+                        "start": 84,
+                        "end": 88
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            }
+        ]
+    }
+}

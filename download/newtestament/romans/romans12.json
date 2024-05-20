@@ -1,0 +1,457 @@
+{
+    "_id": "romans12",
+    "nextChapterId": "romans13",
+    "prevChapterId": "romans11",
+    "volume": {
+        "title": "New Testament",
+        "titleShort": "NT",
+        "titleOfficial": "The New Testament",
+        "_id": "newtestament"
+    },
+    "book": {
+        "title": "Romans",
+        "titleShort": "Rom",
+        "titleOfficial": "",
+        "subtitle": "",
+        "summary": "",
+        "_id": "romans"
+    },
+    "chapter": {
+        "bookTitle": "Romans",
+        "delineation": "Chapter",
+        "number": 12,
+        "summary": "Paul counsels the Saints to present their bodies as a living sacrifice, to use their own grace-given gifts, and to live as Saints should live.",
+        "chapterAugmentations": [],
+        "verses": [
+            {
+                "text": "I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Body, Sanctity of.",
+                        "start": 79,
+                        "end": 85
+                    },
+                    {
+                        "footnote": "Mosiah 2:34; Moro. 10:32 (30\u201333); D&C 93:1. TG\u00a0Self-Sacrifice.",
+                        "start": 95,
+                        "end": 104
+                    },
+                    {
+                        "footnote": "Lev. 1:4.",
+                        "start": 112,
+                        "end": 122
+                    },
+                    {
+                        "footnote": "TG\u00a0Service.",
+                        "start": 158,
+                        "end": 165
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 133,
+                        "end": 141
+                    }
+                ]
+            },
+            {
+                "text": "And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0World; Worldliness.",
+                        "start": 29,
+                        "end": 34
+                    },
+                    {
+                        "footnote": "Eph. 5:8; 1\u00a0Jn. 5:4 (1\u20135). TG\u00a0Self-Mastery.",
+                        "start": 46,
+                        "end": 57
+                    },
+                    {
+                        "footnote": "TG\u00a0Man, New, Spiritually Reborn.",
+                        "start": 65,
+                        "end": 73
+                    },
+                    {
+                        "footnote": "TG\u00a0Mind.",
+                        "start": 82,
+                        "end": 86
+                    },
+                    {
+                        "footnote": "GR\u00a0test, try, prove.",
+                        "start": 100,
+                        "end": 105
+                    },
+                    {
+                        "footnote": "TG\u00a0God, Will of.",
+                        "start": 154,
+                        "end": 158
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 111,
+                        "end": 113
+                    }
+                ]
+            },
+            {
+                "text": "For I say, through the grace given unto me, to every man that is among you, not to think of himself more highly than he ought to think; but to think soberly, according as God hath dealt to every man the measure of faith.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Humility.",
+                        "start": 83,
+                        "end": 88
+                    },
+                    {
+                        "footnote": "D&C 18:21; 43:35.",
+                        "start": 149,
+                        "end": 156
+                    },
+                    {
+                        "footnote": "1\u00a0Cor. 7:17.",
+                        "start": 171,
+                        "end": 174
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 89,
+                        "end": 99
+                    }
+                ]
+            },
+            {
+                "text": "For as we have many members in one body, and all members have not the same office:",
+                "footnotes": [
+                    {
+                        "footnote": "GR\u00a0function, operation.",
+                        "start": 75,
+                        "end": 81
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "So we, being many, are one body in Christ, and every one members one of another.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Unity.",
+                        "start": 23,
+                        "end": 26
+                    },
+                    {
+                        "footnote": "TG\u00a0Church.",
+                        "start": 27,
+                        "end": 31
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 7,
+                        "end": 12
+                    }
+                ]
+            },
+            {
+                "text": "Having then gifts differing according to the grace that is given to us, whether prophecy, let us prophesy according to the proportion of faith;",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Grace.",
+                        "start": 45,
+                        "end": 50
+                    },
+                    {
+                        "footnote": "TG\u00a0Faith.",
+                        "start": 137,
+                        "end": 142
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 90,
+                        "end": 105
+                    }
+                ]
+            },
+            {
+                "text": "Or ministry, let us wait on our ministering: or he that teacheth, on teaching;",
+                "footnotes": [],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 13,
+                        "end": 24
+                    },
+                    {
+                        "start": 28,
+                        "end": 31
+                    }
+                ]
+            },
+            {
+                "text": "Or he that exhorteth, on exhortation: he that giveth, let him do it with simplicity; he that ruleth, with diligence; he that sheweth mercy, with cheerfulness.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Cheerful.",
+                        "start": 145,
+                        "end": 157
+                    }
+                ],
+                "associatedContents": [
+                    {
+                        "type": "paper-page-number",
+                        "data": 1433
+                    }
+                ],
+                "italics": [
+                    {
+                        "start": 54,
+                        "end": 67
+                    }
+                ]
+            },
+            {
+                "text": "Let love be without dissimulation. Abhor that which is evil; cleave to that which is good.",
+                "footnotes": [
+                    {
+                        "footnote": "GR\u00a0sincere, unfeigned, real.",
+                        "start": 12,
+                        "end": 33
+                    },
+                    {
+                        "footnote": "Ps. 26:4; 2\u00a0Ne. 4:31; Alma 13:12; D&C 38:42. TG\u00a0Evil.",
+                        "start": 55,
+                        "end": 59
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 0,
+                        "end": 3
+                    }
+                ]
+            },
+            {
+                "text": "Be kindly affectioned one to another with brotherly love; in honour preferring one another;",
+                "footnotes": [
+                    {
+                        "footnote": "Philip. 2:2 (1\u20134).",
+                        "start": 10,
+                        "end": 21
+                    },
+                    {
+                        "footnote": "TG\u00a0Brotherhood and Sisterhood.",
+                        "start": 42,
+                        "end": 51
+                    },
+                    {
+                        "footnote": "TG\u00a0Love.",
+                        "start": 52,
+                        "end": 56
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 0,
+                        "end": 2
+                    }
+                ]
+            },
+            {
+                "text": "Not slothful in business; fervent in spirit; serving the Lord;",
+                "footnotes": [
+                    {
+                        "footnote": "GR\u00a0haste, diligence.",
+                        "start": 16,
+                        "end": 24
+                    },
+                    {
+                        "footnote": "TG\u00a0Zeal.",
+                        "start": 26,
+                        "end": 33
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Rejoicing in hope; patient in tribulation; continuing instant in prayer;",
+                "footnotes": [
+                    {
+                        "footnote": "D&C 24:8; 31:9.",
+                        "start": 19,
+                        "end": 26
+                    },
+                    {
+                        "footnote": "TG\u00a0Adversity.",
+                        "start": 30,
+                        "end": 41
+                    },
+                    {
+                        "footnote": "GR\u00a0constantly persisting in.",
+                        "start": 43,
+                        "end": 64
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Distributing to the necessity of saints; given to hospitality.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Hospitality.",
+                        "start": 50,
+                        "end": 61
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Bless them which persecute you: bless, and curse not.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Enemies; Persecution.",
+                        "start": 17,
+                        "end": 26
+                    },
+                    {
+                        "footnote": "TG\u00a0Curse.",
+                        "start": 43,
+                        "end": 48
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Rejoice with them that do rejoice, and weep with them that weep.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Compassion.",
+                        "start": 39,
+                        "end": 43
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Be of the same mind one toward another. Mind not high things, but condescend to men of low estate. Be not wise in your own conceits.",
+                "footnotes": [
+                    {
+                        "footnote": "GR\u00a0conforming willingly with the humble. 3\u00a0Ne. 12:5.",
+                        "start": 66,
+                        "end": 76
+                    },
+                    {
+                        "footnote": "Prov. 26:12. TG\u00a0Pride.",
+                        "start": 123,
+                        "end": 131
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 0,
+                        "end": 2
+                    }
+                ]
+            },
+            {
+                "text": "Recompense to no man evil for evil. Provide things honest in the sight of all men.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Forgive; Retribution.",
+                        "start": 0,
+                        "end": 10
+                    },
+                    {
+                        "footnote": "TG\u00a0Evil.",
+                        "start": 21,
+                        "end": 25
+                    },
+                    {
+                        "footnote": "TG\u00a0Honesty.",
+                        "start": 51,
+                        "end": 57
+                    },
+                    {
+                        "footnote": "2\u00a0Cor. 8:21.",
+                        "start": 65,
+                        "end": 70
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "If it be possible, as much as lieth in you, live peaceably with all men.",
+                "footnotes": [
+                    {
+                        "footnote": "Prov. 3:30. TG\u00a0Peace; Peacemakers.",
+                        "start": 49,
+                        "end": 58
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Dearly beloved, avenge not yourselves, but rather give place unto wrath: for it is written, Vengeance is mine; I will repay, saith the Lord.",
+                "footnotes": [
+                    {
+                        "footnote": "TG\u00a0Forbear; Retribution.",
+                        "start": 16,
+                        "end": 22
+                    }
+                ],
+                "associatedContents": [],
+                "italics": [
+                    {
+                        "start": 43,
+                        "end": 49
+                    },
+                    {
+                        "start": 102,
+                        "end": 104
+                    }
+                ]
+            },
+            {
+                "text": "Therefore if thine enemy hunger, feed him; if he thirst, give him drink: for in so doing thou shalt heap coals of fire on his head.",
+                "footnotes": [
+                    {
+                        "footnote": "2\u00a0Kgs. 6:22. TG\u00a0Enemies.",
+                        "start": 19,
+                        "end": 24
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            },
+            {
+                "text": "Be not overcome of evil, but overcome evil with good.",
+                "footnotes": [
+                    {
+                        "footnote": "Rev. 2:17.",
+                        "start": 29,
+                        "end": 37
+                    }
+                ],
+                "associatedContents": [],
+                "italics": []
+            }
+        ]
+    }
+}
