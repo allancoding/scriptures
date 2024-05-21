@@ -8,6 +8,7 @@ def write_file(file_path, content):
     create_directory(os.path.dirname(file_path))
     with open(file_path, "w") as f:
         f.write(json.dumps(content, indent=4))
+        
 def download(urlpath, todl):
     if os.path.exists("download/" + todl + ".json"):
         return

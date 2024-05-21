@@ -1,0 +1,33 @@
+{
+    "_id": "titlepage",
+    "nextChapterId": "titlepageofthebookofmormon",
+    "prevChapterId": "revelation22",
+    "volume": {
+        "title": "Book of Mormon",
+        "titleShort": "BoM",
+        "titleOfficial": "The Book of Mormon",
+        "_id": "bookofmormon"
+    },
+    "book": {
+        "title": "Introduction and Witnesses",
+        "titleShort": "I & W",
+        "titleOfficial": "",
+        "subtitle": "",
+        "summary": "",
+        "_id": "introductionwitnesses"
+    },
+    "chapter": {
+        "bookTitle": "Introduction and Witnesses",
+        "delineation": "Page",
+        "title": "The Book of Mormon",
+        "subtitle": "Another Testament of Jesus Christ",
+        "body": [],
+        "footer": [
+            "Published by The Church of Jesus Christ of Latter-day Saints Salt Lake City, Utah, USA",
+            "First English edition published in Palmyra, New York, USA, in 1830",
+            "© 2013 by Intellectual Reserve, Inc. All rights reserved. Source: 2015/03/24"
+        ],
+        "number": 1,
+        "chapterAugmentations": []
+    }
+}
