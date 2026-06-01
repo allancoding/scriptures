@@ -6,4 +6,4 @@ Uses information from:
 * https://www.churchofjesuschrist.org
 * https://openscriptureapi.org
 * https://github.com/bcbooks/scriptures-json
-* https://scriptures.nephi.org/
+* https://scriptures.nephi.org
