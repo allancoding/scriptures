@@ -1,0 +1,146 @@
+{
+  "_id": "psalms23",
+  "book": {
+    "_id": "psalms",
+    "title": "Psalms",
+    "titleShort": "Ps.",
+    "titleOfficial": "",
+    "subtitle": "",
+    "summary": "",
+    "chapterDelineation": "Psalm"
+  },
+  "chapter": {
+    "bookTitle": "Psalms",
+    "delineation": "Psalm",
+    "number": 23,
+    "summary": "David declares, The Lord is my shepherd.",
+    "chapterAugmentations": [],
+    "verses": [
+      {
+        "text": "The Lord is my shepherd; I shall not want.",
+        "footNotes": [
+          {
+            "start": 15,
+            "end": 23,
+            "text": "TG Jesus Christ, Good Shepherd; Shepherd."
+          },
+          {
+            "start": 37,
+            "end": 41,
+            "text": "Matt. 6:8; Philip. 4:19. TG Contentment."
+          }
+        ],
+        "italics": [
+          {
+            "start": 9,
+            "end": 11
+          }
+        ],
+        "associatedContent": []
+      },
+      {
+        "text": "He maketh me to lie down in green pastures: he leadeth me beside the still waters.",
+        "footNotes": [
+          {
+            "start": 47,
+            "end": 54,
+            "text": "TG Guidance, Divine."
+          }
+        ],
+        "italics": [],
+        "associatedContent": []
+      },
+      {
+        "text": "He restoreth my soul: he leadeth me in the paths of righteousness for his name’s sake.",
+        "footNotes": [
+          {
+            "start": 52,
+            "end": 65,
+            "text": "TG Righteousness."
+          },
+          {
+            "start": 74,
+            "end": 80,
+            "text": "1 Sam. 12:22; Ps. 31:3; 109:21; 1 Jn. 2:12; 1 Ne. 20:9."
+          }
+        ],
+        "italics": [],
+        "associatedContent": []
+      },
+      {
+        "text": "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me.",
+        "footNotes": [
+          {
+            "start": 14,
+            "end": 18,
+            "text": "TG Walking with God."
+          },
+          {
+            "start": 31,
+            "end": 37,
+            "text": "Ps. 138:7; D&C 127:2 (1–2)."
+          },
+          {
+            "start": 45,
+            "end": 51,
+            "text": "Job 3:5."
+          },
+          {
+            "start": 55,
+            "end": 60,
+            "text": "TG Death."
+          },
+          {
+            "start": 77,
+            "end": 81,
+            "text": "TG Evil."
+          },
+          {
+            "start": 132,
+            "end": 139,
+            "text": "TG Comfort."
+          }
+        ],
+        "italics": [
+          {
+            "start": 92,
+            "end": 95
+          }
+        ],
+        "associatedContent": []
+      },
+      {
+        "text": "Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.",
+        "footNotes": [
+          {
+            "start": 71,
+            "end": 80,
+            "text": "TG Anointing."
+          }
+        ],
+        "italics": [],
+        "associatedContent": []
+      },
+      {
+        "text": "Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the Lord for ever.",
+        "footNotes": [
+          {
+            "start": 7,
+            "end": 15,
+            "text": "TG Peace of God."
+          }
+        ],
+        "italics": [],
+        "associatedContent": []
+      }
+    ]
+  },
+  "nextChapterId": "psalms24",
+  "prevChapterId": "psalms22",
+  "volume": {
+    "_id": "oldtestament",
+    "title": "Old Testament",
+    "titleShort": "OT",
+    "titleOfficial": "The Old Testament"
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "_id": "psalms3",
+  "book": {
+    "_id": "psalms",
+    "title": "Psalms",
+    "titleShort": "Ps.",
+    "titleOfficial": "",
+    "subtitle": "",
+    "summary": "",
+    "chapterDelineation": "Psalm"
+  },
+  "chapter": {
+    "bookTitle": "Psalms",
+    "delineation": "Psalm",
+    "number": 3,
+    "summary": "David cries unto the Lord and is heard—Salvation is of the Lord.",
+    "chapterAugmentations": [],
+    "verses": [
+      {
+        "text": "Lord, how are they increased that trouble me! many are they that rise up against me.",
+        "footNotes": [
+          {
+            "start": 34,
+            "end": 41,
+            "text": "2 Sam. 15:14; 17:27 (27–29)."
+          }
+        ],
+        "italics": [
+          {
+            "start": 51,
+            "end": 54
+          }
+        ],
+        "associatedContent": []
+      },
+      {
+        "text": "Many there be which say of my soul, There is no help for him in God. Selah.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 5,
+            "end": 13
+          },
+          {
+            "start": 36,
+            "end": 44
+          }
+        ],
+        "associatedContent": []
+      },
+      {
+        "text": "But thou, O Lord, art a shield for me; my glory, and the lifter up of mine head.",
+        "footNotes": [
+          {
+            "start": 24,
+            "end": 30,
+            "text": "TG Protection, Divine."
+          }
+        ],
+        "italics": [
+          {
+            "start": 18,
+            "end": 21
+          }
+        ],
+        "associatedContent": []
+      },
+      {
+        "text": "I cried unto the Lord with my voice, and he heard me out of his holy hill. Selah.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": []
+      },
+      {
+        "text": "I laid me down and slept; I awaked; for the Lord sustained me.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": []
+      },
+      {
+        "text": "I will not be afraid of ten thousands of people, that have set themselves against me round about.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 63,
+            "end": 73
+          }
+        ],
+        "associatedContent": []
+      },
+      {
+        "text": "Arise, O Lord; save me, O my God: for thou hast smitten all mine enemies upon the cheek bone; thou hast broken the teeth of the ungodly.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 73,
+            "end": 77
+          }
+        ],
+        "associatedContent": []
+      },
+      {
+        "text": "Salvation belongeth unto the Lord: thy blessing is upon thy people. Selah.",
+        "footNotes": [
+          {
+            "start": 0,
+            "end": 9,
+            "text": "TG Salvation."
+          }
+        ],
+        "italics": [
+          {
+            "start": 10,
+            "end": 19
+          },
+          {
+            "start": 48,
+            "end": 50
+          }
+        ],
+        "associatedContent": []
+      }
+    ]
+  },
+  "nextChapterId": "psalms4",
+  "prevChapterId": "psalms2",
+  "volume": {
+    "_id": "oldtestament",
+    "title": "Old Testament",
+    "titleShort": "OT",
+    "titleOfficial": "The Old Testament"
+  }
+}

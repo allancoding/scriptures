@@ -1,0 +1,121 @@
+{
+  "_id": "psalms15",
+  "book": {
+    "_id": "psalms",
+    "title": "Psalms",
+    "titleShort": "Ps.",
+    "titleOfficial": "",
+    "subtitle": "",
+    "summary": "",
+    "chapterDelineation": "Psalm"
+  },
+  "chapter": {
+    "bookTitle": "Psalms",
+    "delineation": "Psalm",
+    "number": 15,
+    "summary": "David asks, Who will dwell in the Lord’s holy hill?—He answers, The righteous, the upright, and those with integrity.",
+    "chapterAugmentations": [],
+    "verses": [
+      {
+        "text": "Lord, who shall abide in thy tabernacle? who shall dwell in thy holy hill?",
+        "footNotes": [
+          {
+            "start": 16,
+            "end": 21,
+            "text": "Ps. 24:3 (3–5); 1 Ne. 15:33 (33–36); Mosiah 15:23 (19–26); D&C 76:62 (50–70); Moses 6:57 (55–59)."
+          },
+          {
+            "start": 69,
+            "end": 73,
+            "text": "JST Ps. 15:1 … hill of Zion?"
+          }
+        ],
+        "italics": [],
+        "associatedContent": []
+      },
+      {
+        "text": "He that walketh uprightly, and worketh righteousness, and speaketh the truth in his heart.",
+        "footNotes": [
+          {
+            "start": 8,
+            "end": 15,
+            "text": "TG Walking with God."
+          }
+        ],
+        "italics": [],
+        "associatedContent": []
+      },
+      {
+        "text": "He that backbiteth not with his tongue, nor doeth evil to his neighbour, nor taketh up a reproach against his neighbour.",
+        "footNotes": [
+          {
+            "start": 8,
+            "end": 18,
+            "text": "TG Backbiting; Gossip."
+          },
+          {
+            "start": 62,
+            "end": 71,
+            "text": "TG Neighbor."
+          }
+        ],
+        "italics": [
+          {
+            "start": 0,
+            "end": 7
+          }
+        ],
+        "associatedContent": []
+      },
+      {
+        "text": "In whose eyes a vile person is contemned; but he honoureth them that fear the Lord. He that sweareth to his own hurt, and changeth not.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 84,
+            "end": 91
+          },
+          {
+            "start": 104,
+            "end": 111
+          }
+        ],
+        "associatedContent": []
+      },
+      {
+        "text": "He that putteth not out his money to usury, nor taketh reward against the innocent. He that doeth these things shall never be moved.",
+        "footNotes": [
+          {
+            "start": 37,
+            "end": 42,
+            "text": "TG Usury."
+          },
+          {
+            "start": 55,
+            "end": 61,
+            "text": "OR a bribe."
+          }
+        ],
+        "italics": [
+          {
+            "start": 0,
+            "end": 7
+          },
+          {
+            "start": 104,
+            "end": 110
+          }
+        ],
+        "associatedContent": []
+      }
+    ]
+  },
+  "nextChapterId": "psalms16",
+  "prevChapterId": "psalms14",
+  "volume": {
+    "_id": "oldtestament",
+    "title": "Old Testament",
+    "titleShort": "OT",
+    "titleOfficial": "The Old Testament"
+  }
+}

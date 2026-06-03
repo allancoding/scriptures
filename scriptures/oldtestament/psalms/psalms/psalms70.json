@@ -1,0 +1,79 @@
+{
+  "_id": "psalms70",
+  "book": {
+    "_id": "psalms",
+    "title": "Psalms",
+    "titleShort": "Ps.",
+    "titleOfficial": "",
+    "subtitle": "",
+    "summary": "",
+    "chapterDelineation": "Psalm"
+  },
+  "chapter": {
+    "bookTitle": "Psalms",
+    "delineation": "Psalm",
+    "number": 70,
+    "summary": "David proclaims, Let God be magnified.",
+    "chapterAugmentations": [],
+    "verses": [
+      {
+        "text": "Make haste, O God, to deliver me; make haste to help me, O Lord.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 0,
+            "end": 11
+          }
+        ],
+        "associatedContent": []
+      },
+      {
+        "text": "Let them be ashamed and confounded that seek after my soul: let them be turned backward, and put to confusion, that desire my hurt.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": []
+      },
+      {
+        "text": "Let them be turned back for a reward of their shame that say, Aha, aha.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": []
+      },
+      {
+        "text": "Let all those that seek thee rejoice and be glad in thee: and let such as love thy salvation say continually, Let God be magnified.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": []
+      },
+      {
+        "text": "But I am poor and needy: make haste unto me, O God: thou art my help and my deliverer; O Lord, make no tarrying.",
+        "footNotes": [
+          {
+            "start": 30,
+            "end": 35,
+            "text": "Ps. 141:1."
+          }
+        ],
+        "italics": [
+          {
+            "start": 6,
+            "end": 8
+          },
+          {
+            "start": 57,
+            "end": 60
+          }
+        ],
+        "associatedContent": []
+      }
+    ]
+  },
+  "nextChapterId": "psalms71",
+  "prevChapterId": "psalms69",
+  "volume": {
+    "_id": "oldtestament",
+    "title": "Old Testament",
+    "titleShort": "OT",
+    "titleOfficial": "The Old Testament"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "_id": "psalms117",
+  "book": {
+    "_id": "psalms",
+    "title": "Psalms",
+    "titleShort": "Ps.",
+    "titleOfficial": "",
+    "subtitle": "",
+    "summary": "",
+    "chapterDelineation": "Psalm"
+  },
+  "chapter": {
+    "bookTitle": "Psalms",
+    "delineation": "Psalm",
+    "number": 117,
+    "summary": "Praise the Lord for His mercy and truth.",
+    "chapterAugmentations": [],
+    "verses": [
+      {
+        "text": "O praise the Lord, all ye nations: praise him, all ye people.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": []
+      },
+      {
+        "text": "For his merciful kindness is great toward us: and the truth of the Lord endureth for ever. Praise ye the Lord.",
+        "footNotes": [
+          {
+            "start": 54,
+            "end": 59,
+            "text": "D&C 84:45; 93:24."
+          }
+        ],
+        "italics": [
+          {
+            "start": 72,
+            "end": 80
+          }
+        ],
+        "associatedContent": []
+      }
+    ]
+  },
+  "nextChapterId": "psalms118",
+  "prevChapterId": "psalms116",
+  "volume": {
+    "_id": "oldtestament",
+    "title": "Old Testament",
+    "titleShort": "OT",
+    "titleOfficial": "The Old Testament"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "_id": "job25",
+  "book": {
+    "_id": "job",
+    "title": "Job",
+    "titleShort": "Job",
+    "titleOfficial": "",
+    "subtitle": "",
+    "summary": "",
+    "chapterDelineation": "Chapter"
+  },
+  "chapter": {
+    "bookTitle": "Job",
+    "delineation": "Chapter",
+    "number": 25,
+    "summary": "Bildad bemoans the lowly state of man and classifies him as a worm.",
+    "chapterAugmentations": [],
+    "verses": [
+      {
+        "text": "Then answered Bildad the Shuhite, and said,",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": []
+      },
+      {
+        "text": "Dominion and fear are with him, he maketh peace in his high places.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 18,
+            "end": 21
+          }
+        ],
+        "associatedContent": []
+      },
+      {
+        "text": "Is there any number of his armies? and upon whom doth not his light arise?",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": []
+      },
+      {
+        "text": "How then can man be justified with God? or how can he be clean that is born of a woman?",
+        "footNotes": [
+          {
+            "start": 20,
+            "end": 29,
+            "text": "TG Justification."
+          },
+          {
+            "start": 57,
+            "end": 62,
+            "text": "Ether 12:37; D&C 88:74 (74–75); 135:5 (4–5)."
+          }
+        ],
+        "italics": [
+          {
+            "start": 63,
+            "end": 70
+          }
+        ],
+        "associatedContent": []
+      },
+      {
+        "text": "Behold even to the moon, and it shineth not; yea, the stars are not pure in his sight.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": []
+      },
+      {
+        "text": "How much less man, that is a worm? and the son of man, which is a worm?",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 19,
+            "end": 26
+          },
+          {
+            "start": 55,
+            "end": 63
+          }
+        ],
+        "associatedContent": []
+      }
+    ]
+  },
+  "nextChapterId": "job26",
+  "prevChapterId": "job24",
+  "volume": {
+    "_id": "oldtestament",
+    "title": "Old Testament",
+    "titleShort": "OT",
+    "titleOfficial": "The Old Testament"
+  }
+}

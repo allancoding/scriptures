@@ -1,0 +1,146 @@
+{
+  "_id": "psalms130",
+  "book": {
+    "_id": "psalms",
+    "title": "Psalms",
+    "titleShort": "Ps.",
+    "titleOfficial": "",
+    "subtitle": "",
+    "summary": "",
+    "chapterDelineation": "Psalm"
+  },
+  "chapter": {
+    "bookTitle": "Psalms",
+    "delineation": "Psalm",
+    "number": 130,
+    "summary": "O Lord, hear our prayers, forgive iniquity, and redeem Israel.",
+    "chapterAugmentations": [],
+    "verses": [
+      {
+        "text": "Out of the depths have I cried unto thee, O Lord.",
+        "footNotes": [
+          {
+            "start": 11,
+            "end": 17,
+            "text": "Ps. 69:2."
+          }
+        ],
+        "italics": [],
+        "associatedContent": []
+      },
+      {
+        "text": "Lord, hear my voice: let thine ears be attentive to the voice of my supplications.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": []
+      },
+      {
+        "text": "If thou, Lord, shouldest mark iniquities, O Lord, who shall stand?",
+        "footNotes": [
+          {
+            "start": 30,
+            "end": 40,
+            "text": "Ps. 90:8."
+          },
+          {
+            "start": 60,
+            "end": 65,
+            "text": "Ps. 76:7."
+          }
+        ],
+        "italics": [],
+        "associatedContent": []
+      },
+      {
+        "text": "But there is forgiveness with thee, that thou mayest be feared.",
+        "footNotes": [
+          {
+            "start": 13,
+            "end": 24,
+            "text": "TG Forgive."
+          },
+          {
+            "start": 56,
+            "end": 62,
+            "text": "1 Kgs. 8:40 (39–40)."
+          }
+        ],
+        "italics": [
+          {
+            "start": 4,
+            "end": 12
+          }
+        ],
+        "associatedContent": []
+      },
+      {
+        "text": "I wait for the Lord, my soul doth wait, and in his word do I hope.",
+        "footNotes": [
+          {
+            "start": 2,
+            "end": 10,
+            "text": "Ps. 40:1."
+          }
+        ],
+        "italics": [],
+        "associatedContent": []
+      },
+      {
+        "text": "My soul waiteth for the Lord more than they that watch for the morning: I say, more than they that watch for the morning.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 8,
+            "end": 15
+          },
+          {
+            "start": 72,
+            "end": 88
+          }
+        ],
+        "associatedContent": []
+      },
+      {
+        "text": "Let Israel hope in the Lord: for with the Lord there is mercy, and with him is plenteous redemption.",
+        "footNotes": [
+          {
+            "start": 89,
+            "end": 99,
+            "text": "Isa. 55:7."
+          }
+        ],
+        "italics": [
+          {
+            "start": 47,
+            "end": 55
+          },
+          {
+            "start": 76,
+            "end": 78
+          }
+        ],
+        "associatedContent": []
+      },
+      {
+        "text": "And he shall redeem Israel from all his iniquities.",
+        "footNotes": [
+          {
+            "start": 13,
+            "end": 19,
+            "text": "Ps. 25:22."
+          }
+        ],
+        "italics": [],
+        "associatedContent": []
+      }
+    ]
+  },
+  "nextChapterId": "psalms131",
+  "prevChapterId": "psalms129",
+  "volume": {
+    "_id": "oldtestament",
+    "title": "Old Testament",
+    "titleShort": "OT",
+    "titleOfficial": "The Old Testament"
+  }
+}

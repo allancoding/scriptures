@@ -1,0 +1,84 @@
+{
+  "_id": "esther10",
+  "book": {
+    "_id": "esther",
+    "title": "Esther",
+    "titleShort": "Esth.",
+    "titleOfficial": "",
+    "subtitle": "",
+    "summary": "",
+    "chapterDelineation": "Chapter"
+  },
+  "chapter": {
+    "bookTitle": "Esther",
+    "delineation": "Chapter",
+    "number": 10,
+    "summary": "Mordecai, the Jew, stands next to Ahasuerus in power and might.",
+    "chapterAugmentations": [],
+    "verses": [
+      {
+        "text": "And the king Ahasuerus laid a tribute upon the land, and upon the isles of the sea.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 57,
+            "end": 61
+          }
+        ],
+        "associatedContent": []
+      },
+      {
+        "text": "And all the acts of his power and of his might, and the declaration of the greatness of Mordecai, whereunto the king advanced him, are they not written in the book of the chronicles of the kings of Media and Persia?",
+        "footNotes": [
+          {
+            "start": 117,
+            "end": 125,
+            "text": "Dan. 3:30."
+          },
+          {
+            "start": 171,
+            "end": 181,
+            "text": "1 Kgs. 14:19; 1 Chr. 27:24; Esth. 6:1."
+          }
+        ],
+        "italics": [
+          {
+            "start": 131,
+            "end": 134
+          }
+        ],
+        "associatedContent": []
+      },
+      {
+        "text": "For Mordecai the Jew was next unto king Ahasuerus, and great among the Jews, and accepted of the multitude of his brethren, seeking the wealth of his people, and speaking peace to all his seed.",
+        "footNotes": [
+          {
+            "start": 17,
+            "end": 20,
+            "text": "Dan. 6:3."
+          },
+          {
+            "start": 25,
+            "end": 29,
+            "text": "Gen. 41:40."
+          }
+        ],
+        "italics": [
+          {
+            "start": 21,
+            "end": 24
+          }
+        ],
+        "associatedContent": []
+      }
+    ]
+  },
+  "nextChapterId": "job1",
+  "prevChapterId": "esther9",
+  "volume": {
+    "_id": "oldtestament",
+    "title": "Old Testament",
+    "titleShort": "OT",
+    "titleOfficial": "The Old Testament"
+  }
+}

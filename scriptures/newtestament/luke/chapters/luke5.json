@@ -1,0 +1,484 @@
+{
+  "_id": "luke5",
+  "book": {
+    "_id": "luke",
+    "title": "Luke",
+    "titleShort": "Luke",
+    "titleOfficial": "",
+    "subtitle": "",
+    "summary": "",
+    "chapterDelineation": "Chapter"
+  },
+  "chapter": {
+    "bookTitle": "Luke",
+    "delineation": "Chapter",
+    "number": 5,
+    "summary": "Peter, the fisherman, is called to catch men—Jesus heals a leper—He forgives sins and heals a paralytic—Matthew is called—The sick need a physician—New wine must be put in new bottles.",
+    "chapterAugmentations": [],
+    "verses": [
+      {
+        "text": "And it came to pass, that, as the people pressed upon him to hear the word of God, he stood by the lake of Gennesaret,",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": []
+      },
+      {
+        "text": "And saw two ships standing by the lake: but the fishermen were gone out of them, and were washing their nets.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 98,
+            "end": 103
+          }
+        ],
+        "associatedContent": []
+      },
+      {
+        "text": "And he entered into one of the ships, which was Simon’s, and prayed him that he would thrust out a little from the land. And he sat down, and taught the people out of the ship.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": []
+      },
+      {
+        "text": "Now when he had left speaking, he said unto Simon, Launch out into the deep, and let down your nets for a draught.",
+        "footNotes": [
+          {
+            "start": 106,
+            "end": 113,
+            "text": "GR catch, haul."
+          }
+        ],
+        "italics": [],
+        "associatedContent": []
+      },
+      {
+        "text": "And Simon answering said unto him, Master, we have toiled all the night, and have taken nothing: nevertheless at thy word I will let down the net.",
+        "footNotes": [
+          {
+            "start": 51,
+            "end": 57,
+            "text": "TG Industry."
+          }
+        ],
+        "italics": [],
+        "associatedContent": []
+      },
+      {
+        "text": "And when they had this done, they inclosed a great multitude of fishes: and their net brake.",
+        "footNotes": [
+          {
+            "start": 86,
+            "end": 91,
+            "text": "OR was breaking."
+          }
+        ],
+        "italics": [],
+        "associatedContent": []
+      },
+      {
+        "text": "And they beckoned unto their partners, which were in the other ship, that they should come and help them. And they came, and filled both the ships, so that they began to sink.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 23,
+            "end": 28
+          }
+        ],
+        "associatedContent": []
+      },
+      {
+        "text": "When Simon Peter saw it, he fell down at Jesus’ knees, saying, Depart from me; for I am a sinful man, O Lord.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 21,
+            "end": 24
+          }
+        ],
+        "associatedContent": []
+      },
+      {
+        "text": "For he was astonished, and all that were with him, at the draught of the fishes which they had taken:",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": []
+      },
+      {
+        "text": "And so was also James, and John, the sons of Zebedee, which were partners with Simon. And Jesus said unto Simon, Fear not; from henceforth thou shalt catch men.",
+        "footNotes": [
+          {
+            "start": 150,
+            "end": 155,
+            "text": "GR capture, take alive. TG Missionary Work."
+          }
+        ],
+        "italics": [
+          {
+            "start": 7,
+            "end": 10
+          }
+        ],
+        "associatedContent": []
+      },
+      {
+        "text": "And when they had brought their ships to land, they forsook all, and followed him.",
+        "footNotes": [
+          {
+            "start": 52,
+            "end": 59,
+            "text": "Luke 14:33 (28–33)."
+          },
+          {
+            "start": 69,
+            "end": 77,
+            "text": "TG Apostles."
+          }
+        ],
+        "italics": [],
+        "associatedContent": []
+      },
+      {
+        "text": "And it came to pass, when he was in a certain city, behold a man full of leprosy: who seeing Jesus fell on his face, and besought him, saying, Lord, if thou wilt, thou canst make me clean.",
+        "footNotes": [
+          {
+            "start": 73,
+            "end": 80,
+            "text": "TG Leprosy."
+          }
+        ],
+        "italics": [
+          {
+            "start": 107,
+            "end": 110
+          }
+        ],
+        "associatedContent": []
+      },
+      {
+        "text": "And he put forth his hand, and touched him, saying, I will: be thou clean. And immediately the leprosy departed from him.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 17,
+            "end": 20
+          }
+        ],
+        "associatedContent": []
+      },
+      {
+        "text": "And he charged him to tell no man: but go, and shew thyself to the priest, and offer for thy cleansing, according as Moses commanded, for a testimony unto them.",
+        "footNotes": [
+          {
+            "start": 67,
+            "end": 73,
+            "text": "Lev. 14:2 (1–32)."
+          }
+        ],
+        "italics": [],
+        "associatedContent": []
+      },
+      {
+        "text": "But so much the more went there a fame abroad of him: and great multitudes came together to hear, and to be healed by him of their infirmities.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": []
+      },
+      {
+        "text": "And he withdrew himself into the wilderness, and prayed.",
+        "footNotes": [
+          {
+            "start": 7,
+            "end": 15,
+            "text": "Luke 4:42; 6:12."
+          }
+        ],
+        "italics": [],
+        "associatedContent": []
+      },
+      {
+        "text": "And it came to pass on a certain day, as he was teaching, that there were Pharisees and doctors of the law sitting by, which were come out of every town of Galilee, and Judæa, and Jerusalem: and the power of the Lord was present to heal them.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 221,
+            "end": 228
+          }
+        ],
+        "associatedContent": []
+      },
+      {
+        "text": "And, behold, men brought in a bed a man which was taken with a palsy: and they sought means to bring him in, and to lay him before him.",
+        "footNotes": [
+          {
+            "start": 50,
+            "end": 68,
+            "text": "GR paralyzed."
+          }
+        ],
+        "italics": [
+          {
+            "start": 86,
+            "end": 91
+          },
+          {
+            "start": 120,
+            "end": 123
+          }
+        ],
+        "associatedContent": []
+      },
+      {
+        "text": "And when they could not find by what way they might bring him in because of the multitude, they went upon the housetop, and let him down through the tiling with his couch into the midst before Jesus.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 37,
+            "end": 40
+          },
+          {
+            "start": 161,
+            "end": 164
+          }
+        ],
+        "associatedContent": []
+      },
+      {
+        "text": "And when he saw their faith, he said unto him, Man, thy sins are forgiven thee.",
+        "footNotes": [
+          {
+            "start": 65,
+            "end": 73,
+            "text": "TG Forgive."
+          }
+        ],
+        "italics": [],
+        "associatedContent": []
+      },
+      {
+        "text": "And the scribes and the Pharisees began to reason, saying, Who is this which speaketh blasphemies? Who can forgive sins, but God alone?",
+        "footNotes": [
+          {
+            "start": 86,
+            "end": 97,
+            "text": "TG Blaspheme."
+          },
+          {
+            "start": 107,
+            "end": 114,
+            "text": "D&C 64:3 (1–5); 110:5 (4–6). TG Remission of Sins."
+          }
+        ],
+        "italics": [],
+        "associatedContent": []
+      },
+      {
+        "text": "But when Jesus perceived their thoughts, he answering said unto them, What reason ye in your hearts?",
+        "footNotes": [
+          {
+            "start": 15,
+            "end": 24,
+            "text": "TG Jesus Christ, Teaching Mode of."
+          }
+        ],
+        "italics": [],
+        "associatedContent": []
+      },
+      {
+        "text": "Whether is easier, to say, Thy sins be forgiven thee; or to say, Rise up and walk?",
+        "footNotes": [
+          {
+            "start": 0,
+            "end": 7,
+            "text": "JST Luke 5:23 Does it require more power to forgive sins than to make the sick rise up and walk?"
+          }
+        ],
+        "italics": [],
+        "associatedContent": []
+      },
+      {
+        "text": "But that ye may know that the Son of man hath power upon earth to forgive sins, (he said unto the sick of the palsy,) I say unto thee, Arise, and take up thy couch, and go into thine house.",
+        "footNotes": [
+          {
+            "start": 66,
+            "end": 73,
+            "text": "TG Remission of Sins."
+          }
+        ],
+        "italics": [],
+        "associatedContent": []
+      },
+      {
+        "text": "And immediately he rose up before them, and took up that whereon he lay, and departed to his own house, glorifying God.",
+        "footNotes": [
+          {
+            "start": 104,
+            "end": 114,
+            "text": "Luke 18:43."
+          }
+        ],
+        "italics": [],
+        "associatedContent": []
+      },
+      {
+        "text": "And they were all amazed, and they glorified God, and were filled with fear, saying, We have seen strange things to day.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": []
+      },
+      {
+        "text": "And after these things he went forth, and saw a publican, named Levi, sitting at the receipt of custom: and he said unto him, Follow me.",
+        "footNotes": [
+          {
+            "start": 64,
+            "end": 68,
+            "text": "Matt. 9:9 (9–13)."
+          }
+        ],
+        "italics": [],
+        "associatedContent": []
+      },
+      {
+        "text": "And he left all, rose up, and followed him.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": []
+      },
+      {
+        "text": "And Levi made him a great feast in his own house: and there was a great company of publicans and of others that sat down with them.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": []
+      },
+      {
+        "text": "But their scribes and Pharisees murmured against his disciples, saying, Why do ye eat and drink with publicans and sinners?",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": []
+      },
+      {
+        "text": "And Jesus answering said unto them, They that are whole need not a physician; but they that are sick.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": []
+      },
+      {
+        "text": "I came not to call the righteous, but sinners to repentance.",
+        "footNotes": [
+          {
+            "start": 38,
+            "end": 45,
+            "text": "John 9:39 (39–41); 1 Tim. 1:15."
+          }
+        ],
+        "italics": [],
+        "associatedContent": []
+      },
+      {
+        "text": "And they said unto him, Why do the disciples of John fast often, and make prayers, and likewise the disciples of the Pharisees; but thine eat and drink?",
+        "footNotes": [
+          {
+            "start": 53,
+            "end": 57,
+            "text": "Mark 2:18 (18–22)."
+          }
+        ],
+        "italics": [
+          {
+            "start": 96,
+            "end": 109
+          }
+        ],
+        "associatedContent": []
+      },
+      {
+        "text": "And he said unto them, Can ye make the children of the bridechamber fast, while the bridegroom is with them?",
+        "footNotes": [
+          {
+            "start": 55,
+            "end": 67,
+            "text": "Matt. 22:2 (2–14); Rev. 19:7 (7–9); 21:2."
+          }
+        ],
+        "italics": [],
+        "associatedContent": []
+      },
+      {
+        "text": "But the days will come, when the bridegroom shall be taken away from them, and then shall they fast in those days.",
+        "footNotes": [
+          {
+            "start": 33,
+            "end": 43,
+            "text": "Mark 2:19; John 16:5 (4–7)."
+          },
+          {
+            "start": 95,
+            "end": 99,
+            "text": "Acts 13:2 (2–3)."
+          }
+        ],
+        "italics": [],
+        "associatedContent": []
+      },
+      {
+        "text": "And he spake also a parable unto them; No man putteth a piece of a new garment upon an old; if otherwise, then both the new maketh a rent, and the piece that was taken out of the new agreeth not with the old.",
+        "footNotes": [
+          {
+            "start": 183,
+            "end": 190,
+            "text": "GR fits, accords."
+          }
+        ],
+        "italics": [
+          {
+            "start": 162,
+            "end": 167
+          }
+        ],
+        "associatedContent": []
+      },
+      {
+        "text": "And no man putteth new wine into old bottles; else the new wine will burst the bottles, and be spilled, and the bottles shall perish.",
+        "footNotes": [
+          {
+            "start": 79,
+            "end": 86,
+            "text": "GR leather bags or wineskins."
+          }
+        ],
+        "italics": [],
+        "associatedContent": []
+      },
+      {
+        "text": "But new wine must be put into new bottles; and both are preserved.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": []
+      },
+      {
+        "text": "No man also having drunk old wine straightway desireth new: for he saith, The old is better.",
+        "footNotes": [
+          {
+            "start": 34,
+            "end": 45,
+            "text": "GR immediately."
+          }
+        ],
+        "italics": [
+          {
+            "start": 29,
+            "end": 33
+          }
+        ],
+        "associatedContent": []
+      }
+    ]
+  },
+  "nextChapterId": "luke6",
+  "prevChapterId": "luke4",
+  "volume": {
+    "_id": "newtestament",
+    "title": "New Testament",
+    "titleShort": "NT",
+    "titleOfficial": "The New Testament"
+  }
+}

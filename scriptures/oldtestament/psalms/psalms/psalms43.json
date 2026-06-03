@@ -1,0 +1,97 @@
+{
+  "_id": "psalms43",
+  "book": {
+    "_id": "psalms",
+    "title": "Psalms",
+    "titleShort": "Ps.",
+    "titleOfficial": "",
+    "subtitle": "",
+    "summary": "",
+    "chapterDelineation": "Psalm"
+  },
+  "chapter": {
+    "bookTitle": "Psalms",
+    "delineation": "Psalm",
+    "number": 43,
+    "summary": "The righteous praise God and cry, Send out Thy light and Thy truth.",
+    "chapterAugmentations": [],
+    "verses": [
+      {
+        "text": "Judge me, O God, and plead my cause against an ungodly nation: O deliver me from the deceitful and unjust man.",
+        "footNotes": [
+          {
+            "start": 0,
+            "end": 5,
+            "text": "OR Vindicate."
+          },
+          {
+            "start": 85,
+            "end": 94,
+            "text": "TG Deceit."
+          }
+        ],
+        "italics": [],
+        "associatedContent": []
+      },
+      {
+        "text": "For thou art the God of my strength: why dost thou cast me off? why go I mourning because of the oppression of the enemy?",
+        "footNotes": [
+          {
+            "start": 73,
+            "end": 81,
+            "text": "TG Mourning."
+          }
+        ],
+        "italics": [
+          {
+            "start": 9,
+            "end": 12
+          }
+        ],
+        "associatedContent": []
+      },
+      {
+        "text": "O send out thy light and thy truth: let them lead me; let them bring me unto thy holy hill, and to thy tabernacles.",
+        "footNotes": [
+          {
+            "start": 15,
+            "end": 20,
+            "text": "TG Light [noun]."
+          },
+          {
+            "start": 103,
+            "end": 114,
+            "text": "OR dwelling places."
+          }
+        ],
+        "italics": [],
+        "associatedContent": []
+      },
+      {
+        "text": "Then will I go unto the altar of God, unto God my exceeding joy: yea, upon the harp will I praise thee, O God my God.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": []
+      },
+      {
+        "text": "Why art thou cast down, O my soul? and why art thou disquieted within me? hope in God: for I shall yet praise him, who is the health of my countenance, and my God.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 115,
+            "end": 121
+          }
+        ],
+        "associatedContent": []
+      }
+    ]
+  },
+  "nextChapterId": "psalms44",
+  "prevChapterId": "psalms42",
+  "volume": {
+    "_id": "oldtestament",
+    "title": "Old Testament",
+    "titleShort": "OT",
+    "titleOfficial": "The Old Testament"
+  }
+}
