@@ -1,65 +1,77 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
-
-# Quick script that takes an original JSON file and exports a reference edition
-# Expects the original JSON to be in the same directory
-
-VERSION = 1
 
 from collections import OrderedDict
-import datetime
-import json
-import sys
+import json, sys
+from pathlib import Path
 
-if len(sys.argv) != 2:
-    print("Usage: python make-reference.py book-of-mormon.json")
-    sys.exit(-1)
+script_dir = Path(__file__).resolve().parent
 
-filename = sys.argv[1]
-output_filename = filename.replace('.json', '')
+def make_reference(input_path: Path) -> None:
+    output_filename = input_path.name.replace('.json', '')
+    with open(input_path, 'r', encoding='utf-8') as f:
+        data = json.load(f)
 
-with open(filename, 'r') as f:
-    data = f.read()
+    output = OrderedDict()
 
-data = json.loads(data)
+    # Everything but D&C
+    if 'books' in data:
+        for b in data['books']:
+            # Use the human title as the key (e.g. "1 Nephi")
+            book_key = b.get('title', b.get('titleShort', b.get('_id', '')))
+            if book_key == '':
+                continue
 
-output = OrderedDict()
+            if book_key not in output:
+                output[book_key] = OrderedDict()
 
-# Everything but D&C
-if 'books' in data:
-    for b in data['books']:
-        book = b['book']
-        if book not in output:
-            output[book] = OrderedDict()
+            if 'heading' in b:
+                output[book_key]['heading'] = b['heading']
 
-        if 'heading' in b:
-            output[book]['heading'] = b['heading']
+            for c in b.get('chapters', []):
+                chapter = c.get('chapter', c)
+                chapter_number = chapter.get('number')
+                chapter_key = str(chapter_number) if chapter_number is not None else str(c.get('_id', ''))
 
-        for c in b['chapters']:
-            chapter = str(c['chapter'])
+                if chapter_key not in output[book_key]:
+                    output[book_key][chapter_key] = OrderedDict()
 
-            if chapter not in output[book]:
-                output[book][chapter] = OrderedDict()
+                if 'heading' in c:
+                    output[book_key][chapter_key]['heading'] = c['heading']
 
-            if 'heading' in c:
-                output[book][chapter]['heading'] = c['heading']
+                for v in chapter.get('verses', []):
+                    verse_num = v.get('verseNumber') or v.get('verse')
+                    if verse_num is None:
+                        continue
+                    output[book_key][chapter_key][str(verse_num)] = v.get('text', '')
 
-            for v in c['verses']:
-                output[book][chapter][str(v['verse'])] = v['text']
+    # D&C / sections
+    if 'sections' in data:
+        for s in data['sections']:
+            section_number = s.get('sectionNumber') or s.get('number') or s.get('_id')
+            section_key = str(section_number)
 
-# D&C
-if 'sections' in data:
-    for s in data['sections']:
-        section = str(s['section'])
+            if section_key not in output:
+                output[section_key] = OrderedDict()
 
-        if section not in output:
-            output[section] = OrderedDict()
+            for v in s.get('verses', []):
+                verse_num = v.get('verseNumber') or v.get('verse')
+                if verse_num is None:
+                    continue
+                output[section_key][str(verse_num)] = v.get('text', '')
 
-        for v in s['verses']:
-            output[section][str(v['verse'])] = v['text']
+    out_dir = script_dir.parent / 'reference'
+    out_dir.mkdir(exist_ok=True)
+    out_path = out_dir / f"{output_filename}-reference.json"
+    with open(out_path, 'w', encoding='utf-8') as f:
+        json.dump(output, f, sort_keys=False, indent=4, ensure_ascii=False)
 
-output['last_modified'] = datetime.datetime.now().isoformat()[:10]
-output['version'] = VERSION
 
-with open('{}-reference.json'.format(output_filename), 'w', encoding='utf-8') as f:
-    json.dump(output, f, sort_keys=False, indent=4, ensure_ascii=False)
+input_dir = script_dir.parent / 'complete' / 'scriptures'
+
+if len(sys.argv) == 1:
+    input_paths = sorted(input_dir.glob('*.json'))
+else:
+    input_paths = [input_dir / Path(arg).name for arg in sys.argv[1:]]
+
+for input_path in input_paths:
+    make_reference(input_path)
