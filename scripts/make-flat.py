@@ -1,71 +1,78 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
 
-# Quick script that takes an original JSON file and exports a flat edition
-# Expects the original JSON to be in the same directory
+import json, sys
+from pathlib import Path
 
-VERSION = 1
+script_dir = Path(__file__).resolve().parent
 
-import datetime
-import json
-import sys
+def make_flat(input_path: Path) -> None:
+    output_path = script_dir.parent / 'flat' / input_path.name.replace('.json', '-flat.json')
 
-if len(sys.argv) != 2:
-    print("Usage: python make-flat.py book-of-mormon.json")
-    sys.exit(-1)
+    with open(input_path, 'r', encoding='utf-8') as f:
+        data = f.read()
 
-filename = sys.argv[1]
-output_filename = filename.replace('.json', '')
+    data = json.loads(data)
 
-with open(filename, 'r') as f:
-    data = f.read()
+    verses = []
+    headings = []
 
-data = json.loads(data)
+    def verse_reference(book_title: str, chapter_number: int, verse_number: int) -> str:
+        return f'{book_title} {chapter_number}:{verse_number}'
 
-verses = []
-headings = []
+    # Everything but D&C
+    if 'books' in data:
+        for b in data['books']:
+            book_title = b.get('title', b.get('book', ''))
 
-# Everything but D&C
-if 'books' in data:
-    for b in data['books']:
-        if 'heading' in b:
-            headings.append({
-                'text': b['heading'],
-                'reference': b['book'],
-            })
-
-        for c in b['chapters']:
-            if 'heading' in c:
+            if 'heading' in b:
                 headings.append({
-                    'text': c['heading'],
-                    'reference': c['reference'],
+                    'text': b['heading'],
+                    'reference': book_title,
                 })
 
-            for v in c['verses']:
+            for c in b['chapters']:
+                chapter = c.get('chapter', c)
+                chapter_number = chapter.get('number')
+
+                if 'heading' in c:
+                    headings.append({
+                        'text': c['heading'],
+                        'reference': book_title,
+                    })
+
+                for v in chapter.get('verses', []):
+                    verses.append({
+                        'text': v['text'],
+                        'reference': verse_reference(book_title, chapter_number, v['verseNumber']),
+                    })
+
+    # D&C
+    if 'sections' in data:
+        for s in data['sections']:
+            book_title = data.get('title', data.get('book', 'Doctrine and Covenants'))
+            for v in s['verses']:
                 verses.append({
                     'text': v['text'],
-                    'reference': v['reference'],
+                    'reference': verse_reference(book_title, s.get('sectionNumber', s.get('number')), v['verseNumber']),
                 })
 
-# D&C
-if 'sections' in data:
-    for s in data['sections']:
-        for v in s['verses']:
-            verses.append({
-                'text': v['text'],
-                'reference': v['reference'],
-            })
+    data = {
+        'headings': headings,
+        'verses': verses
+    }
 
+    if len(headings) == 0:
+        del data['headings']
 
-data = {
-    'headings': headings,
-    'last_modified': datetime.datetime.now().isoformat()[:10],
-    'verses': verses,
-    'version': VERSION,
-}
+    with open(output_path, 'w', encoding='utf-8') as f:
+        json.dump(data, f, sort_keys=True, indent=4, ensure_ascii=False)
 
-if len(headings) == 0:
-    del data['headings']
+input_dir = script_dir.parent / 'complete' / 'scriptures'
 
-with open('{}-flat.json'.format(output_filename), 'w', encoding='utf-8') as f:
-    json.dump(data, f, sort_keys=True, indent=4, ensure_ascii=False)
+if len(sys.argv) == 1:
+    input_paths = sorted(input_dir.glob('*.json'))
+else:
+    input_paths = [input_dir / Path(arg).name for arg in sys.argv[1:]]
+
+for input_path in input_paths:
+    make_flat(input_path)
