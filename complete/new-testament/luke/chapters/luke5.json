@@ -1,0 +1,918 @@
+{
+  "_id": "luke5",
+  "book": {
+    "_id": "luke",
+    "title": "Luke",
+    "titleShort": "Luke",
+    "titleOfficial": "",
+    "subtitle": "",
+    "summary": "",
+    "chapterDelineation": "Chapter"
+  },
+  "chapter": {
+    "bookTitle": "Luke",
+    "delineation": "Chapter",
+    "number": 5,
+    "summary": "Peter, the fisherman, is called to catch men—Jesus heals a leper—He forgives sins and heals a paralytic—Matthew is called—The sick need a physician—New wine must be put in new bottles.",
+    "chapterAugmentations": [],
+    "verses": [
+      {
+        "text": "And it came to pass, that, as the people pressed upon him to hear the word of God, he stood by the lake of Gennesaret,",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 1,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Luke 5:1",
+        "book": "Luke",
+        "chapter": 5,
+        "verse": 1
+      },
+      {
+        "text": "And saw two ships standing by the lake: but the fishermen were gone out of them, and were washing their nets.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 98,
+            "end": 103
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 2,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Luke 5:2",
+        "book": "Luke",
+        "chapter": 5,
+        "verse": 2
+      },
+      {
+        "text": "And he entered into one of the ships, which was Simon’s, and prayed him that he would thrust out a little from the land. And he sat down, and taught the people out of the ship.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 3,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Luke 5:3",
+        "book": "Luke",
+        "chapter": 5,
+        "verse": 3
+      },
+      {
+        "text": "Now when he had left speaking, he said unto Simon, Launch out into the deep, and let down your nets for a draught.",
+        "footNotes": [
+          {
+            "start": 106,
+            "end": 113,
+            "text": "GR catch, haul."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 4,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Luke 5:4",
+        "book": "Luke",
+        "chapter": 5,
+        "verse": 4
+      },
+      {
+        "text": "And Simon answering said unto him, Master, we have toiled all the night, and have taken nothing: nevertheless at thy word I will let down the net.",
+        "footNotes": [
+          {
+            "start": 51,
+            "end": 57,
+            "text": "TG Industry."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 5,
+        "crossReferences": [
+          {
+            "raw": "TG Industry.",
+            "prettyString": "TG Industry",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Industry",
+                "entryId": "tg-industry",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Luke 5:5",
+        "book": "Luke",
+        "chapter": 5,
+        "verse": 5
+      },
+      {
+        "text": "And when they had this done, they inclosed a great multitude of fishes: and their net brake.",
+        "footNotes": [
+          {
+            "start": 86,
+            "end": 91,
+            "text": "OR was breaking."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 6,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Luke 5:6",
+        "book": "Luke",
+        "chapter": 5,
+        "verse": 6
+      },
+      {
+        "text": "And they beckoned unto their partners, which were in the other ship, that they should come and help them. And they came, and filled both the ships, so that they began to sink.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 23,
+            "end": 28
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 7,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Luke 5:7",
+        "book": "Luke",
+        "chapter": 5,
+        "verse": 7
+      },
+      {
+        "text": "When Simon Peter saw it, he fell down at Jesus’ knees, saying, Depart from me; for I am a sinful man, O Lord.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 21,
+            "end": 24
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 8,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Luke 5:8",
+        "book": "Luke",
+        "chapter": 5,
+        "verse": 8
+      },
+      {
+        "text": "For he was astonished, and all that were with him, at the draught of the fishes which they had taken:",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 9,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Luke 5:9",
+        "book": "Luke",
+        "chapter": 5,
+        "verse": 9
+      },
+      {
+        "text": "And so was also James, and John, the sons of Zebedee, which were partners with Simon. And Jesus said unto Simon, Fear not; from henceforth thou shalt catch men.",
+        "footNotes": [
+          {
+            "start": 150,
+            "end": 155,
+            "text": "GR capture, take alive. TG Missionary Work."
+          }
+        ],
+        "italics": [
+          {
+            "start": 7,
+            "end": 10
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 10,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Luke 5:10",
+        "book": "Luke",
+        "chapter": 5,
+        "verse": 10
+      },
+      {
+        "text": "And when they had brought their ships to land, they forsook all, and followed him.",
+        "footNotes": [
+          {
+            "start": 52,
+            "end": 59,
+            "text": "Luke 14:33 (28–33)."
+          },
+          {
+            "start": 69,
+            "end": 77,
+            "text": "TG Apostles."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 11,
+        "crossReferences": [
+          {
+            "raw": "TG Apostles.",
+            "prettyString": "TG Apostles",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Apostles",
+                "entryId": "tg-apostles",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Luke 5:11",
+        "book": "Luke",
+        "chapter": 5,
+        "verse": 11
+      },
+      {
+        "text": "And it came to pass, when he was in a certain city, behold a man full of leprosy: who seeing Jesus fell on his face, and besought him, saying, Lord, if thou wilt, thou canst make me clean.",
+        "footNotes": [
+          {
+            "start": 73,
+            "end": 80,
+            "text": "TG Leprosy."
+          }
+        ],
+        "italics": [
+          {
+            "start": 107,
+            "end": 110
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 12,
+        "crossReferences": [
+          {
+            "raw": "TG Leprosy.",
+            "prettyString": "TG Leprosy",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Leprosy",
+                "entryId": "tg-leprosy",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Luke 5:12",
+        "book": "Luke",
+        "chapter": 5,
+        "verse": 12
+      },
+      {
+        "text": "And he put forth his hand, and touched him, saying, I will: be thou clean. And immediately the leprosy departed from him.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 17,
+            "end": 20
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 13,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Luke 5:13",
+        "book": "Luke",
+        "chapter": 5,
+        "verse": 13
+      },
+      {
+        "text": "And he charged him to tell no man: but go, and shew thyself to the priest, and offer for thy cleansing, according as Moses commanded, for a testimony unto them.",
+        "footNotes": [
+          {
+            "start": 67,
+            "end": 73,
+            "text": "Lev. 14:2 (1–32)."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 14,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Luke 5:14",
+        "book": "Luke",
+        "chapter": 5,
+        "verse": 14
+      },
+      {
+        "text": "But so much the more went there a fame abroad of him: and great multitudes came together to hear, and to be healed by him of their infirmities.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 15,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Luke 5:15",
+        "book": "Luke",
+        "chapter": 5,
+        "verse": 15
+      },
+      {
+        "text": "And he withdrew himself into the wilderness, and prayed.",
+        "footNotes": [
+          {
+            "start": 7,
+            "end": 15,
+            "text": "Luke 4:42; 6:12."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 16,
+        "crossReferences": [
+          {
+            "raw": "Luke 4:42; 6:12.",
+            "prettyString": "Luke 4:42; 6:12",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "luke",
+                "chapters": [
+                  {
+                    "start": 4,
+                    "end": 4,
+                    "verses": [
+                      {
+                        "start": 42,
+                        "end": 42
+                      }
+                    ]
+                  },
+                  {
+                    "start": 6,
+                    "end": 6,
+                    "verses": [
+                      {
+                        "start": 12,
+                        "end": 12
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Luke 5:16",
+        "book": "Luke",
+        "chapter": 5,
+        "verse": 16
+      },
+      {
+        "text": "And it came to pass on a certain day, as he was teaching, that there were Pharisees and doctors of the law sitting by, which were come out of every town of Galilee, and Judæa, and Jerusalem: and the power of the Lord was present to heal them.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 221,
+            "end": 228
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 17,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Luke 5:17",
+        "book": "Luke",
+        "chapter": 5,
+        "verse": 17
+      },
+      {
+        "text": "And, behold, men brought in a bed a man which was taken with a palsy: and they sought means to bring him in, and to lay him before him.",
+        "footNotes": [
+          {
+            "start": 50,
+            "end": 68,
+            "text": "GR paralyzed."
+          }
+        ],
+        "italics": [
+          {
+            "start": 86,
+            "end": 91
+          },
+          {
+            "start": 120,
+            "end": 123
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 18,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Luke 5:18",
+        "book": "Luke",
+        "chapter": 5,
+        "verse": 18
+      },
+      {
+        "text": "And when they could not find by what way they might bring him in because of the multitude, they went upon the housetop, and let him down through the tiling with his couch into the midst before Jesus.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 37,
+            "end": 40
+          },
+          {
+            "start": 161,
+            "end": 164
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 19,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Luke 5:19",
+        "book": "Luke",
+        "chapter": 5,
+        "verse": 19
+      },
+      {
+        "text": "And when he saw their faith, he said unto him, Man, thy sins are forgiven thee.",
+        "footNotes": [
+          {
+            "start": 65,
+            "end": 73,
+            "text": "TG Forgive."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 20,
+        "crossReferences": [
+          {
+            "raw": "TG Forgive.",
+            "prettyString": "TG Forgive",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Forgive",
+                "entryId": "tg-forgive",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Luke 5:20",
+        "book": "Luke",
+        "chapter": 5,
+        "verse": 20
+      },
+      {
+        "text": "And the scribes and the Pharisees began to reason, saying, Who is this which speaketh blasphemies? Who can forgive sins, but God alone?",
+        "footNotes": [
+          {
+            "start": 86,
+            "end": 97,
+            "text": "TG Blaspheme."
+          },
+          {
+            "start": 107,
+            "end": 114,
+            "text": "D&C 64:3 (1–5); 110:5 (4–6). TG Remission of Sins."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 21,
+        "crossReferences": [
+          {
+            "raw": "TG Blaspheme.",
+            "prettyString": "TG Blaspheme",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Blaspheme",
+                "entryId": "tg-blaspheme",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Luke 5:21",
+        "book": "Luke",
+        "chapter": 5,
+        "verse": 21
+      },
+      {
+        "text": "But when Jesus perceived their thoughts, he answering said unto them, What reason ye in your hearts?",
+        "footNotes": [
+          {
+            "start": 15,
+            "end": 24,
+            "text": "TG Jesus Christ, Teaching Mode of."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 22,
+        "crossReferences": [
+          {
+            "raw": "TG Jesus Christ, Teaching Mode of.",
+            "prettyString": "TG Jesus Christ, Teaching Mode of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Jesus Christ, Teaching Mode of",
+                "entryId": "tg-jesus-christ-teaching-mode-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Luke 5:22",
+        "book": "Luke",
+        "chapter": 5,
+        "verse": 22
+      },
+      {
+        "text": "Whether is easier, to say, Thy sins be forgiven thee; or to say, Rise up and walk?",
+        "footNotes": [
+          {
+            "start": 0,
+            "end": 7,
+            "text": "JST Luke 5:23 Does it require more power to forgive sins than to make the sick rise up and walk?"
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 23,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Luke 5:23",
+        "book": "Luke",
+        "chapter": 5,
+        "verse": 23
+      },
+      {
+        "text": "But that ye may know that the Son of man hath power upon earth to forgive sins, (he said unto the sick of the palsy,) I say unto thee, Arise, and take up thy couch, and go into thine house.",
+        "footNotes": [
+          {
+            "start": 66,
+            "end": 73,
+            "text": "TG Remission of Sins."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 24,
+        "crossReferences": [
+          {
+            "raw": "TG Remission of Sins.",
+            "prettyString": "TG Remission of Sins",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Remission of Sins",
+                "entryId": "tg-remission-of-sins",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Luke 5:24",
+        "book": "Luke",
+        "chapter": 5,
+        "verse": 24
+      },
+      {
+        "text": "And immediately he rose up before them, and took up that whereon he lay, and departed to his own house, glorifying God.",
+        "footNotes": [
+          {
+            "start": 104,
+            "end": 114,
+            "text": "Luke 18:43."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 25,
+        "crossReferences": [
+          {
+            "raw": "Luke 18:43.",
+            "prettyString": "Luke 18:43",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "luke",
+                "chapters": [
+                  {
+                    "start": 18,
+                    "end": 18,
+                    "verses": [
+                      {
+                        "start": 43,
+                        "end": 43
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Luke 5:25",
+        "book": "Luke",
+        "chapter": 5,
+        "verse": 25
+      },
+      {
+        "text": "And they were all amazed, and they glorified God, and were filled with fear, saying, We have seen strange things to day.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 26,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Luke 5:26",
+        "book": "Luke",
+        "chapter": 5,
+        "verse": 26
+      },
+      {
+        "text": "And after these things he went forth, and saw a publican, named Levi, sitting at the receipt of custom: and he said unto him, Follow me.",
+        "footNotes": [
+          {
+            "start": 64,
+            "end": 68,
+            "text": "Matt. 9:9 (9–13)."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 27,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Luke 5:27",
+        "book": "Luke",
+        "chapter": 5,
+        "verse": 27
+      },
+      {
+        "text": "And he left all, rose up, and followed him.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 28,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Luke 5:28",
+        "book": "Luke",
+        "chapter": 5,
+        "verse": 28
+      },
+      {
+        "text": "And Levi made him a great feast in his own house: and there was a great company of publicans and of others that sat down with them.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 29,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Luke 5:29",
+        "book": "Luke",
+        "chapter": 5,
+        "verse": 29
+      },
+      {
+        "text": "But their scribes and Pharisees murmured against his disciples, saying, Why do ye eat and drink with publicans and sinners?",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 30,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Luke 5:30",
+        "book": "Luke",
+        "chapter": 5,
+        "verse": 30
+      },
+      {
+        "text": "And Jesus answering said unto them, They that are whole need not a physician; but they that are sick.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 31,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Luke 5:31",
+        "book": "Luke",
+        "chapter": 5,
+        "verse": 31
+      },
+      {
+        "text": "I came not to call the righteous, but sinners to repentance.",
+        "footNotes": [
+          {
+            "start": 38,
+            "end": 45,
+            "text": "John 9:39 (39–41); 1 Tim. 1:15."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 32,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Luke 5:32",
+        "book": "Luke",
+        "chapter": 5,
+        "verse": 32
+      },
+      {
+        "text": "And they said unto him, Why do the disciples of John fast often, and make prayers, and likewise the disciples of the Pharisees; but thine eat and drink?",
+        "footNotes": [
+          {
+            "start": 53,
+            "end": 57,
+            "text": "Mark 2:18 (18–22)."
+          }
+        ],
+        "italics": [
+          {
+            "start": 96,
+            "end": 109
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 33,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Luke 5:33",
+        "book": "Luke",
+        "chapter": 5,
+        "verse": 33
+      },
+      {
+        "text": "And he said unto them, Can ye make the children of the bridechamber fast, while the bridegroom is with them?",
+        "footNotes": [
+          {
+            "start": 55,
+            "end": 67,
+            "text": "Matt. 22:2 (2–14); Rev. 19:7 (7–9); 21:2."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 34,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Luke 5:34",
+        "book": "Luke",
+        "chapter": 5,
+        "verse": 34
+      },
+      {
+        "text": "But the days will come, when the bridegroom shall be taken away from them, and then shall they fast in those days.",
+        "footNotes": [
+          {
+            "start": 33,
+            "end": 43,
+            "text": "Mark 2:19; John 16:5 (4–7)."
+          },
+          {
+            "start": 95,
+            "end": 99,
+            "text": "Acts 13:2 (2–3)."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 35,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Luke 5:35",
+        "book": "Luke",
+        "chapter": 5,
+        "verse": 35
+      },
+      {
+        "text": "And he spake also a parable unto them; No man putteth a piece of a new garment upon an old; if otherwise, then both the new maketh a rent, and the piece that was taken out of the new agreeth not with the old.",
+        "footNotes": [
+          {
+            "start": 183,
+            "end": 190,
+            "text": "GR fits, accords."
+          }
+        ],
+        "italics": [
+          {
+            "start": 162,
+            "end": 167
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 36,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Luke 5:36",
+        "book": "Luke",
+        "chapter": 5,
+        "verse": 36
+      },
+      {
+        "text": "And no man putteth new wine into old bottles; else the new wine will burst the bottles, and be spilled, and the bottles shall perish.",
+        "footNotes": [
+          {
+            "start": 79,
+            "end": 86,
+            "text": "GR leather bags or wineskins."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 37,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Luke 5:37",
+        "book": "Luke",
+        "chapter": 5,
+        "verse": 37
+      },
+      {
+        "text": "But new wine must be put into new bottles; and both are preserved.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 38,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Luke 5:38",
+        "book": "Luke",
+        "chapter": 5,
+        "verse": 38
+      },
+      {
+        "text": "No man also having drunk old wine straightway desireth new: for he saith, The old is better.",
+        "footNotes": [
+          {
+            "start": 34,
+            "end": 45,
+            "text": "GR immediately."
+          }
+        ],
+        "italics": [
+          {
+            "start": 29,
+            "end": 33
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 39,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Luke 5:39",
+        "book": "Luke",
+        "chapter": 5,
+        "verse": 39
+      }
+    ]
+  },
+  "nextChapterId": "luke6",
+  "prevChapterId": "luke4",
+  "volume": {
+    "_id": "newtestament",
+    "title": "New Testament",
+    "titleShort": "NT",
+    "titleOfficial": "The New Testament"
+  }
+}

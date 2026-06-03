@@ -1,0 +1,211 @@
+{
+  "_id": "doctrineandcovenants80",
+  "book": {
+    "_id": "doctrineandcovenants",
+    "title": "Doctrine and Covenants",
+    "titleShort": "D&C",
+    "titleOfficial": "",
+    "subtitle": "",
+    "summary": "",
+    "chapterDelineation": "Section"
+  },
+  "chapter": {
+    "bookTitle": "Doctrine and Covenants",
+    "delineation": "Section",
+    "number": 80,
+    "summary": "1–5, Stephen Burnett and Eden Smith are called to preach in whatever place they choose.",
+    "chapterAugmentations": [
+      {
+        "type": "introduction",
+        "text": "Revelation given through Joseph Smith the Prophet to Stephen Burnett, at Hiram, Ohio, March 7, 1832."
+      }
+    ],
+    "verses": [
+      {
+        "text": "Verily, thus saith the Lord unto you my servant Stephen Burnett: Go ye, go ye into the world and preach the gospel to every creature that cometh under the sound of your voice.",
+        "footNotes": [
+          {
+            "start": 48,
+            "end": 63,
+            "text": "D&C 75:35."
+          },
+          {
+            "start": 124,
+            "end": 132,
+            "text": "Mark 16:15."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 1,
+        "crossReferences": [
+          {
+            "raw": "D&C 75:35.",
+            "prettyString": "D&C 75:35",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 75,
+                    "end": 75,
+                    "verses": [
+                      {
+                        "start": 35,
+                        "end": 35
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "Mark 16:15.",
+            "prettyString": "Mark 16:15",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "mark",
+                "chapters": [
+                  {
+                    "start": 16,
+                    "end": 16,
+                    "verses": [
+                      {
+                        "start": 15,
+                        "end": 15
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 80:1",
+        "book": "Doctrine and Covenants",
+        "chapter": 80,
+        "verse": 1
+      },
+      {
+        "text": "And inasmuch as you desire a companion, I will give unto you my servant Eden Smith.",
+        "footNotes": [
+          {
+            "start": 72,
+            "end": 82,
+            "text": "D&C 75:36."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 2,
+        "crossReferences": [
+          {
+            "raw": "D&C 75:36.",
+            "prettyString": "D&C 75:36",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 75,
+                    "end": 75,
+                    "verses": [
+                      {
+                        "start": 36,
+                        "end": 36
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 80:2",
+        "book": "Doctrine and Covenants",
+        "chapter": 80,
+        "verse": 2
+      },
+      {
+        "text": "Wherefore, go ye and preach my gospel, whether to the north or to the south, to the east or to the west, it mattereth not, for ye cannot go amiss.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 3,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 80:3",
+        "book": "Doctrine and Covenants",
+        "chapter": 80,
+        "verse": 3
+      },
+      {
+        "text": "Therefore, declare the things which ye have heard, and verily believe, and know to be true.",
+        "footNotes": [
+          {
+            "start": 75,
+            "end": 79,
+            "text": "D&C 20:17. TG Testimony."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 4,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 80:4",
+        "book": "Doctrine and Covenants",
+        "chapter": 80,
+        "verse": 4
+      },
+      {
+        "text": "Behold, this is the will of him who hath called you, your Redeemer, even Jesus Christ. Amen.",
+        "footNotes": [
+          {
+            "start": 41,
+            "end": 47,
+            "text": "TG Called of God."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 5,
+        "crossReferences": [
+          {
+            "raw": "TG Called of God.",
+            "prettyString": "TG Called of God",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Called of God",
+                "entryId": "tg-called-of-god",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 80:5",
+        "book": "Doctrine and Covenants",
+        "chapter": 80,
+        "verse": 5
+      }
+    ]
+  },
+  "nextChapterId": "doctrineandcovenants81",
+  "prevChapterId": "doctrineandcovenants79",
+  "volume": {
+    "_id": "doctrineandcovenants",
+    "title": "Doctrine and Covenants",
+    "titleShort": "D&C",
+    "titleOfficial": "The Doctrine and Covenants"
+  }
+}

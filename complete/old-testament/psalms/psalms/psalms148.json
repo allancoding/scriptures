@@ -1,0 +1,386 @@
+{
+  "_id": "psalms148",
+  "book": {
+    "_id": "psalms",
+    "title": "Psalms",
+    "titleShort": "Ps.",
+    "titleOfficial": "",
+    "subtitle": "",
+    "summary": "",
+    "chapterDelineation": "Psalm"
+  },
+  "chapter": {
+    "bookTitle": "Psalms",
+    "delineation": "Psalm",
+    "number": 148,
+    "summary": "Let all things praise the Lord: men and angels, the heavenly bodies, the elements and the earth, and all things thereon.",
+    "chapterAugmentations": [],
+    "verses": [
+      {
+        "text": "Praise ye the Lord. Praise ye the Lord from the heavens: praise him in the heights.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 1,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 148:1",
+        "book": "Psalms",
+        "chapter": 148,
+        "verse": 1
+      },
+      {
+        "text": "Praise ye him, all his angels: praise ye him, all his hosts.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 2,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 148:2",
+        "book": "Psalms",
+        "chapter": 148,
+        "verse": 2
+      },
+      {
+        "text": "Praise ye him, sun and moon: praise him, all ye stars of light.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 3,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 148:3",
+        "book": "Psalms",
+        "chapter": 148,
+        "verse": 3
+      },
+      {
+        "text": "Praise him, ye heavens of heavens, and ye waters that be above the heavens.",
+        "footNotes": [
+          {
+            "start": 42,
+            "end": 48,
+            "text": "Gen. 1:7."
+          }
+        ],
+        "italics": [
+          {
+            "start": 54,
+            "end": 56
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 4,
+        "crossReferences": [
+          {
+            "raw": "Gen. 1:7.",
+            "prettyString": "Genesis 1:7",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "genesis",
+                "chapters": [
+                  {
+                    "start": 1,
+                    "end": 1,
+                    "verses": [
+                      {
+                        "start": 7,
+                        "end": 7
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 148:4",
+        "book": "Psalms",
+        "chapter": 148,
+        "verse": 4
+      },
+      {
+        "text": "Let them praise the name of the Lord: for he commanded, and they were created.",
+        "footNotes": [
+          {
+            "start": 45,
+            "end": 54,
+            "text": "Ps. 33:9."
+          },
+          {
+            "start": 70,
+            "end": 77,
+            "text": "TG Creation."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 5,
+        "crossReferences": [
+          {
+            "raw": "Ps. 33:9.",
+            "prettyString": "Psalms 33:9",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "psalms",
+                "chapters": [
+                  {
+                    "start": 33,
+                    "end": 33,
+                    "verses": [
+                      {
+                        "start": 9,
+                        "end": 9
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Creation.",
+            "prettyString": "TG Creation",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Creation",
+                "entryId": "tg-creation",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 148:5",
+        "book": "Psalms",
+        "chapter": 148,
+        "verse": 5
+      },
+      {
+        "text": "He hath also stablished them for ever and ever: he hath made a decree which shall not pass.",
+        "footNotes": [
+          {
+            "start": 63,
+            "end": 69,
+            "text": "Ps. 119:89."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 6,
+        "crossReferences": [
+          {
+            "raw": "Ps. 119:89.",
+            "prettyString": "Psalms 119:89",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "psalms",
+                "chapters": [
+                  {
+                    "start": 119,
+                    "end": 119,
+                    "verses": [
+                      {
+                        "start": 89,
+                        "end": 89
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 148:6",
+        "book": "Psalms",
+        "chapter": 148,
+        "verse": 6
+      },
+      {
+        "text": "Praise the Lord from the earth, ye dragons, and all deeps:",
+        "footNotes": [
+          {
+            "start": 35,
+            "end": 42,
+            "text": "HEB sea monsters."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 7,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 148:7",
+        "book": "Psalms",
+        "chapter": 148,
+        "verse": 7
+      },
+      {
+        "text": "Fire, and hail; snow, and vapour; stormy wind fulfilling his word:",
+        "footNotes": [
+          {
+            "start": 41,
+            "end": 45,
+            "text": "TG Nature, Earth."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 8,
+        "crossReferences": [
+          {
+            "raw": "TG Nature, Earth.",
+            "prettyString": "TG Nature, Earth",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Nature, Earth",
+                "entryId": "tg-nature-earth",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 148:8",
+        "book": "Psalms",
+        "chapter": 148,
+        "verse": 8
+      },
+      {
+        "text": "Mountains, and all hills; fruitful trees, and all cedars:",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 9,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 148:9",
+        "book": "Psalms",
+        "chapter": 148,
+        "verse": 9
+      },
+      {
+        "text": "Beasts, and all cattle; creeping things, and flying fowl:",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 10,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 148:10",
+        "book": "Psalms",
+        "chapter": 148,
+        "verse": 10
+      },
+      {
+        "text": "Kings of the earth, and all people; princes, and all judges of the earth:",
+        "footNotes": [
+          {
+            "start": 53,
+            "end": 59,
+            "text": "OR rulers."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 11,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 148:11",
+        "book": "Psalms",
+        "chapter": 148,
+        "verse": 11
+      },
+      {
+        "text": "Both young men, and maidens; old men, and children:",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 12,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 148:12",
+        "book": "Psalms",
+        "chapter": 148,
+        "verse": 12
+      },
+      {
+        "text": "Let them praise the name of the Lord: for his name alone is excellent; his glory is above the earth and heaven.",
+        "footNotes": [
+          {
+            "start": 75,
+            "end": 80,
+            "text": "TG Celestial Glory."
+          }
+        ],
+        "italics": [
+          {
+            "start": 81,
+            "end": 83
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 13,
+        "crossReferences": [
+          {
+            "raw": "TG Celestial Glory.",
+            "prettyString": "TG Celestial Glory",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Celestial Glory",
+                "entryId": "tg-celestial-glory",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 148:13",
+        "book": "Psalms",
+        "chapter": 148,
+        "verse": 13
+      },
+      {
+        "text": "He also exalteth the horn of his people, the praise of all his saints; even of the children of Israel, a people near unto him. Praise ye the Lord.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 71,
+            "end": 75
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 14,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 148:14",
+        "book": "Psalms",
+        "chapter": 148,
+        "verse": 14
+      }
+    ]
+  },
+  "nextChapterId": "psalms149",
+  "prevChapterId": "psalms147",
+  "volume": {
+    "_id": "oldtestament",
+    "title": "Old Testament",
+    "titleShort": "OT",
+    "titleOfficial": "The Old Testament"
+  }
+}

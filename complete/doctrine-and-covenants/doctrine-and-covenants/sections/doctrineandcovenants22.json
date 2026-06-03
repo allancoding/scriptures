@@ -1,0 +1,194 @@
+{
+  "_id": "doctrineandcovenants22",
+  "book": {
+    "_id": "doctrineandcovenants",
+    "title": "Doctrine and Covenants",
+    "titleShort": "D&C",
+    "titleOfficial": "",
+    "subtitle": "",
+    "summary": "",
+    "chapterDelineation": "Section"
+  },
+  "chapter": {
+    "bookTitle": "Doctrine and Covenants",
+    "delineation": "Section",
+    "number": 22,
+    "summary": "1, Baptism is a new and everlasting covenant; 2–4, Authoritative baptism is required.",
+    "chapterAugmentations": [
+      {
+        "type": "introduction",
+        "text": "Revelation given through Joseph Smith the Prophet, at Manchester, New York, April 16, 1830. This revelation was given to the Church in consequence of some who had previously been baptized desiring to unite with the Church without rebaptism."
+      }
+    ],
+    "verses": [
+      {
+        "text": "Behold, I say unto you that all old covenants have I caused to be done away in this thing; and this is a new and an everlasting covenant, even that which was from the beginning.",
+        "footNotes": [
+          {
+            "start": 32,
+            "end": 35,
+            "text": "Heb. 8:13; 3 Ne. 9:17; 12:47 (46–47)."
+          },
+          {
+            "start": 105,
+            "end": 108,
+            "text": "D&C 66:2. TG New and Everlasting Covenant."
+          },
+          {
+            "start": 128,
+            "end": 136,
+            "text": "TG Covenants."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 1,
+        "crossReferences": [
+          {
+            "raw": "TG Covenants.",
+            "prettyString": "TG Covenants",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Covenants",
+                "entryId": "tg-covenants",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 22:1",
+        "book": "Doctrine and Covenants",
+        "chapter": 22,
+        "verse": 1
+      },
+      {
+        "text": "Wherefore, although a man should be baptized an hundred times it availeth him nothing, for you cannot enter in at the strait gate by the law of Moses, neither by your dead works.",
+        "footNotes": [
+          {
+            "start": 137,
+            "end": 140,
+            "text": "Gal. 2:16. TG Law of Moses."
+          },
+          {
+            "start": 167,
+            "end": 177,
+            "text": "Moro. 8:23 (23–26)."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 2,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 22:2",
+        "book": "Doctrine and Covenants",
+        "chapter": 22,
+        "verse": 2
+      },
+      {
+        "text": "For it is because of your dead works that I have caused this last covenant and this church to be built up unto me, even as in days of old.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 3,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 22:3",
+        "book": "Doctrine and Covenants",
+        "chapter": 22,
+        "verse": 3
+      },
+      {
+        "text": "Wherefore, enter ye in at the gate, as I have commanded, and seek not to counsel your God. Amen.",
+        "footNotes": [
+          {
+            "start": 30,
+            "end": 34,
+            "text": "Matt. 7:13 (13–14); Luke 13:24; 2 Ne. 9:41; 31:9 (9, 17–18); 3 Ne. 14:14 (13–14); 27:33; D&C 43:7. TG Baptism, Essential."
+          },
+          {
+            "start": 61,
+            "end": 65,
+            "text": "Rom. 11:34; 1 Cor. 2:16; Jacob 4:10."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 4,
+        "crossReferences": [
+          {
+            "raw": "Rom. 11:34; 1 Cor. 2:16; Jacob 4:10.",
+            "prettyString": "Romans 11:34; 1 Corinthians 2:16; Jacob 4:10",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "romans",
+                "chapters": [
+                  {
+                    "start": 11,
+                    "end": 11,
+                    "verses": [
+                      {
+                        "start": 34,
+                        "end": 34
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "1corinthians",
+                "chapters": [
+                  {
+                    "start": 2,
+                    "end": 2,
+                    "verses": [
+                      {
+                        "start": 16,
+                        "end": 16
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "jacob",
+                "chapters": [
+                  {
+                    "start": 4,
+                    "end": 4,
+                    "verses": [
+                      {
+                        "start": 10,
+                        "end": 10
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 22:4",
+        "book": "Doctrine and Covenants",
+        "chapter": 22,
+        "verse": 4
+      }
+    ]
+  },
+  "nextChapterId": "doctrineandcovenants23",
+  "prevChapterId": "doctrineandcovenants21",
+  "volume": {
+    "_id": "doctrineandcovenants",
+    "title": "Doctrine and Covenants",
+    "titleShort": "D&C",
+    "titleOfficial": "The Doctrine and Covenants"
+  }
+}

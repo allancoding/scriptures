@@ -1,0 +1,1514 @@
+{
+  "_id": "mark1",
+  "book": {
+    "_id": "mark",
+    "title": "Mark",
+    "titleShort": "Mark",
+    "titleOfficial": "THE GOSPEL ACCORDING TO",
+    "subtitle": "",
+    "summary": "",
+    "chapterDelineation": "Chapter"
+  },
+  "chapter": {
+    "bookTitle": "St Mark",
+    "delineation": "Chapter",
+    "number": 1,
+    "summary": "Jesus is baptized by John—He preaches the gospel, calls disciples, casts out devils, heals the sick, and cleanses a leper.",
+    "chapterAugmentations": [],
+    "verses": [
+      {
+        "text": "The beginning of the gospel of Jesus Christ, the Son of God;",
+        "footNotes": [
+          {
+            "start": 21,
+            "end": 27,
+            "text": "TG Gospel."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 1,
+        "crossReferences": [
+          {
+            "raw": "TG Gospel.",
+            "prettyString": "TG Gospel",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Gospel",
+                "entryId": "tg-gospel",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "St Mark 1:1",
+        "book": "St Mark",
+        "chapter": 1,
+        "verse": 1
+      },
+      {
+        "text": "As it is written in the prophets, Behold, I send my messenger before thy face, which shall prepare thy way before thee.",
+        "footNotes": [
+          {
+            "start": 52,
+            "end": 61,
+            "text": "Mal. 3:1; Matt. 11:10."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 2,
+        "crossReferences": [
+          {
+            "raw": "Mal. 3:1; Matt. 11:10.",
+            "prettyString": "Malachi 3:1; Matthew 11:10",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "malachi",
+                "chapters": [
+                  {
+                    "start": 3,
+                    "end": 3,
+                    "verses": [
+                      {
+                        "start": 1,
+                        "end": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "matthew",
+                "chapters": [
+                  {
+                    "start": 11,
+                    "end": 11,
+                    "verses": [
+                      {
+                        "start": 10,
+                        "end": 10
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "St Mark 1:2",
+        "book": "St Mark",
+        "chapter": 1,
+        "verse": 2
+      },
+      {
+        "text": "The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight.",
+        "footNotes": [
+          {
+            "start": 4,
+            "end": 9,
+            "text": "Matt. 3:3; Luke 3:4; John 1:23."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 3,
+        "crossReferences": [
+          {
+            "raw": "Matt. 3:3; Luke 3:4; John 1:23.",
+            "prettyString": "Matthew 3:3; Luke 3:4; John 1:23",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "matthew",
+                "chapters": [
+                  {
+                    "start": 3,
+                    "end": 3,
+                    "verses": [
+                      {
+                        "start": 3,
+                        "end": 3
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "luke",
+                "chapters": [
+                  {
+                    "start": 3,
+                    "end": 3,
+                    "verses": [
+                      {
+                        "start": 4,
+                        "end": 4
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "john",
+                "chapters": [
+                  {
+                    "start": 1,
+                    "end": 1,
+                    "verses": [
+                      {
+                        "start": 23,
+                        "end": 23
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "St Mark 1:3",
+        "book": "St Mark",
+        "chapter": 1,
+        "verse": 3
+      },
+      {
+        "text": "John did baptize in the wilderness, and preach the baptism of repentance for the remission of sins.",
+        "footNotes": [
+          {
+            "start": 40,
+            "end": 46,
+            "text": "TG Missionary Work."
+          },
+          {
+            "start": 51,
+            "end": 58,
+            "text": "TG Baptism."
+          },
+          {
+            "start": 62,
+            "end": 72,
+            "text": "TG Repent."
+          },
+          {
+            "start": 81,
+            "end": 90,
+            "text": "TG Remission of Sins."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 4,
+        "crossReferences": [
+          {
+            "raw": "TG Missionary Work.",
+            "prettyString": "TG Missionary Work",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Missionary Work",
+                "entryId": "tg-missionary-work",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Baptism.",
+            "prettyString": "TG Baptism",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Baptism",
+                "entryId": "tg-baptism",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Repent.",
+            "prettyString": "TG Repent",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Repent",
+                "entryId": "tg-repent",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Remission of Sins.",
+            "prettyString": "TG Remission of Sins",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Remission of Sins",
+                "entryId": "tg-remission-of-sins",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "St Mark 1:4",
+        "book": "St Mark",
+        "chapter": 1,
+        "verse": 4
+      },
+      {
+        "text": "And there went out unto him all the land of Judæa, and they of Jerusalem, and were all baptized of him in the river of Jordan, confessing their sins.",
+        "footNotes": [
+          {
+            "start": 87,
+            "end": 95,
+            "text": "TG Baptism, Immersion."
+          },
+          {
+            "start": 127,
+            "end": 137,
+            "text": "TG Baptism, Qualifications for."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 5,
+        "crossReferences": [
+          {
+            "raw": "TG Baptism, Immersion.",
+            "prettyString": "TG Baptism, Immersion",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Baptism, Immersion",
+                "entryId": "tg-baptism-immersion",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Baptism, Qualifications for.",
+            "prettyString": "TG Baptism, Qualifications for",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Baptism, Qualifications for",
+                "entryId": "tg-baptism-qualifications-for",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "St Mark 1:5",
+        "book": "St Mark",
+        "chapter": 1,
+        "verse": 5
+      },
+      {
+        "text": "And John was clothed with camel’s hair, and with a girdle of a skin about his loins; and he did eat locusts and wild honey;",
+        "footNotes": [
+          {
+            "start": 13,
+            "end": 20,
+            "text": "TG Clothing."
+          },
+          {
+            "start": 26,
+            "end": 33,
+            "text": "2 Kgs. 1:8."
+          },
+          {
+            "start": 100,
+            "end": 107,
+            "text": "Lev. 11:22."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 6,
+        "crossReferences": [
+          {
+            "raw": "TG Clothing.",
+            "prettyString": "TG Clothing",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Clothing",
+                "entryId": "tg-clothing",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "2 Kgs. 1:8.",
+            "prettyString": "2 Kings 1:8",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "2kings",
+                "chapters": [
+                  {
+                    "start": 1,
+                    "end": 1,
+                    "verses": [
+                      {
+                        "start": 8,
+                        "end": 8
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "Lev. 11:22.",
+            "prettyString": "Leviticus 11:22",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "leviticus",
+                "chapters": [
+                  {
+                    "start": 11,
+                    "end": 11,
+                    "verses": [
+                      {
+                        "start": 22,
+                        "end": 22
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "St Mark 1:6",
+        "book": "St Mark",
+        "chapter": 1,
+        "verse": 6
+      },
+      {
+        "text": "And preached, saying, There cometh one mightier than I after me, the latchet of whose shoes I am not worthy to stoop down and unloose.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 7,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "St Mark 1:7",
+        "book": "St Mark",
+        "chapter": 1,
+        "verse": 7
+      },
+      {
+        "text": "I indeed have baptized you with water: but he shall baptize you with the Holy Ghost.",
+        "footNotes": [
+          {
+            "start": 39,
+            "end": 42,
+            "text": "JST Mark 1:6 … but he shall not only baptize you with water, but with fire, and the Holy Ghost."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 8,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "St Mark 1:8",
+        "book": "St Mark",
+        "chapter": 1,
+        "verse": 8
+      },
+      {
+        "text": "And it came to pass in those days, that Jesus came from Nazareth of Galilee, and was baptized of John in Jordan.",
+        "footNotes": [
+          {
+            "start": 85,
+            "end": 93,
+            "text": "TG Baptism; Baptism, Essential; Jesus Christ, Baptism of."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 9,
+        "crossReferences": [
+          {
+            "raw": "TG Baptism; Baptism, Essential; Jesus Christ, Baptism of.",
+            "prettyString": "TG Baptism; TG Baptism, Essential; TG Jesus Christ, Baptism of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Baptism",
+                "entryId": "tg-baptism",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Baptism, Essential",
+                "entryId": "tg-baptism-essential",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Jesus Christ, Baptism of",
+                "entryId": "tg-jesus-christ-baptism-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "St Mark 1:9",
+        "book": "St Mark",
+        "chapter": 1,
+        "verse": 9
+      },
+      {
+        "text": "And straightway coming up out of the water, he saw the heavens opened, and the Spirit like a dove descending upon him:",
+        "footNotes": [
+          {
+            "start": 23,
+            "end": 25,
+            "text": "TG Baptism, Immersion."
+          },
+          {
+            "start": 93,
+            "end": 97,
+            "text": "TG Holy Ghost, Dove, Sign of."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 10,
+        "crossReferences": [
+          {
+            "raw": "TG Baptism, Immersion.",
+            "prettyString": "TG Baptism, Immersion",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Baptism, Immersion",
+                "entryId": "tg-baptism-immersion",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Holy Ghost, Dove, Sign of.",
+            "prettyString": "TG Holy Ghost, Dove, Sign of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Holy Ghost, Dove, Sign of",
+                "entryId": "tg-holy-ghost-dove-sign-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "St Mark 1:10",
+        "book": "St Mark",
+        "chapter": 1,
+        "verse": 10
+      },
+      {
+        "text": "And there came a voice from heaven, saying, Thou art my beloved Son, in whom I am well pleased.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 36,
+            "end": 43
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 11,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "St Mark 1:11",
+        "book": "St Mark",
+        "chapter": 1,
+        "verse": 11
+      },
+      {
+        "text": "And immediately the Spirit driveth him into the wilderness.",
+        "footNotes": [
+          {
+            "start": 0,
+            "end": 3,
+            "text": "JST Mark 1:10–11 And immediately the Spirit took him into the wilderness. And he was there in the wilderness forty days, Satan seeking to tempt him; and was with …"
+          },
+          {
+            "start": 48,
+            "end": 58,
+            "text": "GR desert."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 12,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "St Mark 1:12",
+        "book": "St Mark",
+        "chapter": 1,
+        "verse": 12
+      },
+      {
+        "text": "And he was there in the wilderness forty days, tempted of Satan; and was with the wild beasts; and the angels ministered unto him.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 13,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "St Mark 1:13",
+        "book": "St Mark",
+        "chapter": 1,
+        "verse": 13
+      },
+      {
+        "text": "Now after that John was put in prison, Jesus came into Galilee, preaching the gospel of the kingdom of God,",
+        "footNotes": [
+          {
+            "start": 64,
+            "end": 73,
+            "text": "TG Jesus Christ, Teaching Mode of."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 14,
+        "crossReferences": [
+          {
+            "raw": "TG Jesus Christ, Teaching Mode of.",
+            "prettyString": "TG Jesus Christ, Teaching Mode of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Jesus Christ, Teaching Mode of",
+                "entryId": "tg-jesus-christ-teaching-mode-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "St Mark 1:14",
+        "book": "St Mark",
+        "chapter": 1,
+        "verse": 14
+      },
+      {
+        "text": "And saying, The time is fulfilled, and the kingdom of God is at hand: repent ye, and believe the gospel.",
+        "footNotes": [
+          {
+            "start": 16,
+            "end": 20,
+            "text": "TG Time."
+          },
+          {
+            "start": 43,
+            "end": 50,
+            "text": "D&C 33:10 (1–18). TG Kingdom of God, in Heaven."
+          },
+          {
+            "start": 58,
+            "end": 68,
+            "text": "GR has arrived."
+          },
+          {
+            "start": 70,
+            "end": 76,
+            "text": "TG Repent."
+          },
+          {
+            "start": 85,
+            "end": 92,
+            "text": "TG Faith."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 15,
+        "crossReferences": [
+          {
+            "raw": "TG Time.",
+            "prettyString": "TG Time",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Time",
+                "entryId": "tg-time",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Repent.",
+            "prettyString": "TG Repent",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Repent",
+                "entryId": "tg-repent",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Faith.",
+            "prettyString": "TG Faith",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Faith",
+                "entryId": "tg-faith",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "St Mark 1:15",
+        "book": "St Mark",
+        "chapter": 1,
+        "verse": 15
+      },
+      {
+        "text": "Now as he walked by the sea of Galilee, he saw Simon and Andrew his brother casting a net into the sea: for they were fishers.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 16,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "St Mark 1:16",
+        "book": "St Mark",
+        "chapter": 1,
+        "verse": 16
+      },
+      {
+        "text": "And Jesus said unto them, Come ye after me, and I will make you to become fishers of men.",
+        "footNotes": [
+          {
+            "start": 74,
+            "end": 88,
+            "text": "TG Apostles; Missionary Work."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 17,
+        "crossReferences": [
+          {
+            "raw": "TG Apostles; Missionary Work.",
+            "prettyString": "TG Apostles; TG Missionary Work",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Apostles",
+                "entryId": "tg-apostles",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Missionary Work",
+                "entryId": "tg-missionary-work",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "St Mark 1:17",
+        "book": "St Mark",
+        "chapter": 1,
+        "verse": 17
+      },
+      {
+        "text": "And straightway they forsook their nets, and followed him.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 18,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "St Mark 1:18",
+        "book": "St Mark",
+        "chapter": 1,
+        "verse": 18
+      },
+      {
+        "text": "And when he had gone a little further thence, he saw James the son of Zebedee, and John his brother, who also were in the ship mending their nets.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 63,
+            "end": 66
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 19,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "St Mark 1:19",
+        "book": "St Mark",
+        "chapter": 1,
+        "verse": 19
+      },
+      {
+        "text": "And straightway he called them: and they left their father Zebedee in the ship with the hired servants, and went after him.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 20,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "St Mark 1:20",
+        "book": "St Mark",
+        "chapter": 1,
+        "verse": 20
+      },
+      {
+        "text": "And they went into Capernaum; and straightway on the sabbath day he entered into the synagogue, and taught.",
+        "footNotes": [
+          {
+            "start": 100,
+            "end": 106,
+            "text": "TG Jesus Christ, Teaching Mode of."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 21,
+        "crossReferences": [
+          {
+            "raw": "TG Jesus Christ, Teaching Mode of.",
+            "prettyString": "TG Jesus Christ, Teaching Mode of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Jesus Christ, Teaching Mode of",
+                "entryId": "tg-jesus-christ-teaching-mode-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "St Mark 1:21",
+        "book": "St Mark",
+        "chapter": 1,
+        "verse": 21
+      },
+      {
+        "text": "And they were astonished at his doctrine: for he taught them as one that had authority, and not as the scribes.",
+        "footNotes": [
+          {
+            "start": 77,
+            "end": 86,
+            "text": "TG Authority; Jesus Christ, Authority of."
+          },
+          {
+            "start": 103,
+            "end": 110,
+            "text": "TG Scribe."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 22,
+        "crossReferences": [
+          {
+            "raw": "TG Authority; Jesus Christ, Authority of.",
+            "prettyString": "TG Authority; TG Jesus Christ, Authority of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Authority",
+                "entryId": "tg-authority",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Jesus Christ, Authority of",
+                "entryId": "tg-jesus-christ-authority-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Scribe.",
+            "prettyString": "TG Scribe",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Scribe",
+                "entryId": "tg-scribe",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "St Mark 1:22",
+        "book": "St Mark",
+        "chapter": 1,
+        "verse": 22
+      },
+      {
+        "text": "And there was in their synagogue a man with an unclean spirit; and he cried out,",
+        "footNotes": [
+          {
+            "start": 47,
+            "end": 61,
+            "text": "TG Spirits, Evil or Unclean."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 23,
+        "crossReferences": [
+          {
+            "raw": "TG Spirits, Evil or Unclean.",
+            "prettyString": "TG Spirits, Evil or Unclean",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Spirits, Evil or Unclean",
+                "entryId": "tg-spirits-evil-or-unclean",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "St Mark 1:23",
+        "book": "St Mark",
+        "chapter": 1,
+        "verse": 23
+      },
+      {
+        "text": "Saying, Let us alone; what have we to do with thee, thou Jesus of Nazareth? art thou come to destroy us? I know thee who thou art, the Holy One of God.",
+        "footNotes": [
+          {
+            "start": 22,
+            "end": 26,
+            "text": "GR what business do you have with us …"
+          },
+          {
+            "start": 135,
+            "end": 143,
+            "text": "TG Holiness."
+          }
+        ],
+        "italics": [
+          {
+            "start": 12,
+            "end": 14
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 24,
+        "crossReferences": [
+          {
+            "raw": "TG Holiness.",
+            "prettyString": "TG Holiness",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Holiness",
+                "entryId": "tg-holiness",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "St Mark 1:24",
+        "book": "St Mark",
+        "chapter": 1,
+        "verse": 24
+      },
+      {
+        "text": "And Jesus rebuked him, saying, Hold thy peace, and come out of him.",
+        "footNotes": [
+          {
+            "start": 10,
+            "end": 17,
+            "text": "TG Heal."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 25,
+        "crossReferences": [
+          {
+            "raw": "TG Heal.",
+            "prettyString": "TG Heal",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Heal",
+                "entryId": "tg-heal",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "St Mark 1:25",
+        "book": "St Mark",
+        "chapter": 1,
+        "verse": 25
+      },
+      {
+        "text": "And when the unclean spirit had torn him, and cried with a loud voice, he came out of him.",
+        "footNotes": [
+          {
+            "start": 32,
+            "end": 36,
+            "text": "Mark 9:20 (14–29)."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 26,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "St Mark 1:26",
+        "book": "St Mark",
+        "chapter": 1,
+        "verse": 26
+      },
+      {
+        "text": "And they were all amazed, insomuch that they questioned among themselves, saying, What thing is this? what new doctrine is this? for with authority commandeth he even the unclean spirits, and they do obey him.",
+        "footNotes": [
+          {
+            "start": 138,
+            "end": 147,
+            "text": "TG Authority; Jesus Christ, Authority of."
+          }
+        ],
+        "italics": [
+          {
+            "start": 120,
+            "end": 122
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 27,
+        "crossReferences": [
+          {
+            "raw": "TG Authority; Jesus Christ, Authority of.",
+            "prettyString": "TG Authority; TG Jesus Christ, Authority of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Authority",
+                "entryId": "tg-authority",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Jesus Christ, Authority of",
+                "entryId": "tg-jesus-christ-authority-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "St Mark 1:27",
+        "book": "St Mark",
+        "chapter": 1,
+        "verse": 27
+      },
+      {
+        "text": "And immediately his fame spread abroad throughout all the region round about Galilee.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 28,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "St Mark 1:28",
+        "book": "St Mark",
+        "chapter": 1,
+        "verse": 28
+      },
+      {
+        "text": "And forthwith, when they were come out of the synagogue, they entered into the house of Simon and Andrew, with James and John.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 29,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "St Mark 1:29",
+        "book": "St Mark",
+        "chapter": 1,
+        "verse": 29
+      },
+      {
+        "text": "But Simon’s wife’s mother lay sick of a fever, and anon they tell him of her.",
+        "footNotes": [
+          {
+            "start": 51,
+            "end": 55,
+            "text": "GR immediately."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 30,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "St Mark 1:30",
+        "book": "St Mark",
+        "chapter": 1,
+        "verse": 30
+      },
+      {
+        "text": "And he came and took her by the hand, and lifted her up; and immediately the fever left her, and she ministered unto them.",
+        "footNotes": [
+          {
+            "start": 42,
+            "end": 48,
+            "text": "TG Heal."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 31,
+        "crossReferences": [
+          {
+            "raw": "TG Heal.",
+            "prettyString": "TG Heal",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Heal",
+                "entryId": "tg-heal",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "St Mark 1:31",
+        "book": "St Mark",
+        "chapter": 1,
+        "verse": 31
+      },
+      {
+        "text": "And at even, when the sun did set, they brought unto him all that were diseased, and them that were possessed with devils.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 32,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "St Mark 1:32",
+        "book": "St Mark",
+        "chapter": 1,
+        "verse": 32
+      },
+      {
+        "text": "And all the city was gathered together at the door.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 33,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "St Mark 1:33",
+        "book": "St Mark",
+        "chapter": 1,
+        "verse": 33
+      },
+      {
+        "text": "And he healed many that were sick of divers diseases, and cast out many devils; and suffered not the devils to speak, because they knew him.",
+        "footNotes": [
+          {
+            "start": 7,
+            "end": 13,
+            "text": "TG Heal; Miracle."
+          },
+          {
+            "start": 72,
+            "end": 78,
+            "text": "Mosiah 3:6 (5–6). TG Spirits, Evil or Unclean."
+          },
+          {
+            "start": 84,
+            "end": 96,
+            "text": "GR did not allow."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 34,
+        "crossReferences": [
+          {
+            "raw": "TG Heal; Miracle.",
+            "prettyString": "TG Heal; TG Miracle",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Heal",
+                "entryId": "tg-heal",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Miracle",
+                "entryId": "tg-miracle",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "St Mark 1:34",
+        "book": "St Mark",
+        "chapter": 1,
+        "verse": 34
+      },
+      {
+        "text": "And in the morning, rising up a great while before day, he went out, and departed into a solitary place, and there prayed.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 35,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "St Mark 1:35",
+        "book": "St Mark",
+        "chapter": 1,
+        "verse": 35
+      },
+      {
+        "text": "And Simon and they that were with him followed after him.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 36,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "St Mark 1:36",
+        "book": "St Mark",
+        "chapter": 1,
+        "verse": 36
+      },
+      {
+        "text": "And when they had found him, they said unto him, All men seek for thee.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 53,
+            "end": 56
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 37,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "St Mark 1:37",
+        "book": "St Mark",
+        "chapter": 1,
+        "verse": 37
+      },
+      {
+        "text": "And he said unto them, Let us go into the next towns, that I may preach there also: for therefore came I forth.",
+        "footNotes": [
+          {
+            "start": 65,
+            "end": 71,
+            "text": "TG Jesus Christ, Mission of; Teaching."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 38,
+        "crossReferences": [
+          {
+            "raw": "TG Jesus Christ, Mission of; Teaching.",
+            "prettyString": "TG Jesus Christ, Mission of; TG Teaching",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Jesus Christ, Mission of",
+                "entryId": "tg-jesus-christ-mission-of",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Teaching",
+                "entryId": "tg-teaching",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "St Mark 1:38",
+        "book": "St Mark",
+        "chapter": 1,
+        "verse": 38
+      },
+      {
+        "text": "And he preached in their synagogues throughout all Galilee, and cast out devils.",
+        "footNotes": [
+          {
+            "start": 73,
+            "end": 79,
+            "text": "Luke 4:36 (31–37); D&C 35:9 (6–12)."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 39,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "St Mark 1:39",
+        "book": "St Mark",
+        "chapter": 1,
+        "verse": 39
+      },
+      {
+        "text": "And there came a leper to him, beseeching him, and kneeling down to him, and saying unto him, If thou wilt, thou canst make me clean.",
+        "footNotes": [
+          {
+            "start": 17,
+            "end": 22,
+            "text": "TG Leprosy."
+          },
+          {
+            "start": 127,
+            "end": 132,
+            "text": "GR pure."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 40,
+        "crossReferences": [
+          {
+            "raw": "TG Leprosy.",
+            "prettyString": "TG Leprosy",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Leprosy",
+                "entryId": "tg-leprosy",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "St Mark 1:40",
+        "book": "St Mark",
+        "chapter": 1,
+        "verse": 40
+      },
+      {
+        "text": "And Jesus, moved with compassion, put forth his hand, and touched him, and saith unto him, I will; be thou clean.",
+        "footNotes": [
+          {
+            "start": 22,
+            "end": 32,
+            "text": "TG Compassion."
+          }
+        ],
+        "italics": [
+          {
+            "start": 44,
+            "end": 47
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 41,
+        "crossReferences": [
+          {
+            "raw": "TG Compassion.",
+            "prettyString": "TG Compassion",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Compassion",
+                "entryId": "tg-compassion",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "St Mark 1:41",
+        "book": "St Mark",
+        "chapter": 1,
+        "verse": 41
+      },
+      {
+        "text": "And as soon as he had spoken, immediately the leprosy departed from him, and he was cleansed.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 42,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "St Mark 1:42",
+        "book": "St Mark",
+        "chapter": 1,
+        "verse": 42
+      },
+      {
+        "text": "And he straitly charged him, and forthwith sent him away;",
+        "footNotes": [
+          {
+            "start": 7,
+            "end": 27,
+            "text": "GR warned him sternly."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 43,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "St Mark 1:43",
+        "book": "St Mark",
+        "chapter": 1,
+        "verse": 43
+      },
+      {
+        "text": "And saith unto him, See thou say nothing to any man: but go thy way, shew thyself to the priest, and offer for thy cleansing those things which Moses commanded, for a testimony unto them.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 44,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "St Mark 1:44",
+        "book": "St Mark",
+        "chapter": 1,
+        "verse": 44
+      },
+      {
+        "text": "But he went out, and began to publish it much, and to blaze abroad the matter, insomuch that Jesus could no more openly enter into the city, but was without in desert places: and they came to him from every quarter.",
+        "footNotes": [
+          {
+            "start": 54,
+            "end": 66,
+            "text": "GR spread widely."
+          }
+        ],
+        "italics": [
+          {
+            "start": 38,
+            "end": 40
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 45,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "St Mark 1:45",
+        "book": "St Mark",
+        "chapter": 1,
+        "verse": 45
+      }
+    ]
+  },
+  "nextChapterId": "mark2",
+  "prevChapterId": "matthew28",
+  "volume": {
+    "_id": "newtestament",
+    "title": "New Testament",
+    "titleShort": "NT",
+    "titleOfficial": "The New Testament"
+  }
+}

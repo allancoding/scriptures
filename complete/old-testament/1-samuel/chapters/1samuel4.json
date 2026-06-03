@@ -1,0 +1,681 @@
+{
+  "_id": "1samuel4",
+  "book": {
+    "_id": "1samuel",
+    "title": "1 Samuel",
+    "titleShort": "1 Sam.",
+    "titleOfficial": "",
+    "subtitle": "",
+    "summary": "",
+    "chapterDelineation": "Chapter"
+  },
+  "chapter": {
+    "bookTitle": "1 Samuel",
+    "delineation": "Chapter",
+    "number": 4,
+    "summary": "The Israelites are smitten and defeated by the Philistines, who also capture the ark of God—Eli’s sons are slain, Eli dies in an accident, and his daughter-in-law dies in childbirth.",
+    "chapterAugmentations": [],
+    "verses": [
+      {
+        "text": "And the word of Samuel came to all Israel. Now Israel went out against the Philistines to battle, and pitched beside Eben-ezer: and the Philistines pitched in Aphek.",
+        "footNotes": [
+          {
+            "start": 117,
+            "end": 126,
+            "text": "1 Sam. 5:1; 7:12."
+          },
+          {
+            "start": 159,
+            "end": 164,
+            "text": "Josh. 12:18."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 1,
+        "crossReferences": [
+          {
+            "raw": "1 Sam. 5:1; 7:12.",
+            "prettyString": "1 Samuel 5:1; 7:12",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "1samuel",
+                "chapters": [
+                  {
+                    "start": 5,
+                    "end": 5,
+                    "verses": [
+                      {
+                        "start": 1,
+                        "end": 1
+                      }
+                    ]
+                  },
+                  {
+                    "start": 7,
+                    "end": 7,
+                    "verses": [
+                      {
+                        "start": 12,
+                        "end": 12
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "Josh. 12:18.",
+            "prettyString": "Joshua 12:18",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "joshua",
+                "chapters": [
+                  {
+                    "start": 12,
+                    "end": 12,
+                    "verses": [
+                      {
+                        "start": 18,
+                        "end": 18
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "1 Samuel 4:1",
+        "book": "1 Samuel",
+        "chapter": 4,
+        "verse": 1
+      },
+      {
+        "text": "And the Philistines put themselves in array against Israel: and when they joined battle, Israel was smitten before the Philistines: and they slew of the army in the field about four thousand men.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 2,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "1 Samuel 4:2",
+        "book": "1 Samuel",
+        "chapter": 4,
+        "verse": 2
+      },
+      {
+        "text": "And when the people were come into the camp, the elders of Israel said, Wherefore hath the Lord smitten us to day before the Philistines? Let us fetch the ark of the covenant of the Lord out of Shiloh unto us, that, when it cometh among us, it may save us out of the hand of our enemies.",
+        "footNotes": [
+          {
+            "start": 155,
+            "end": 158,
+            "text": "TG Ark of the Covenant."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 3,
+        "crossReferences": [
+          {
+            "raw": "TG Ark of the Covenant.",
+            "prettyString": "TG Ark of the Covenant",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Ark of the Covenant",
+                "entryId": "tg-ark-of-the-covenant",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "1 Samuel 4:3",
+        "book": "1 Samuel",
+        "chapter": 4,
+        "verse": 3
+      },
+      {
+        "text": "So the people sent to Shiloh, that they might bring from thence the ark of the covenant of the Lord of hosts, which dwelleth between the cherubims: and the two sons of Eli, Hophni and Phinehas, were there with the ark of the covenant of God.",
+        "footNotes": [
+          {
+            "start": 137,
+            "end": 146,
+            "text": "TG Cherubim."
+          }
+        ],
+        "italics": [
+          {
+            "start": 125,
+            "end": 132
+          },
+          {
+            "start": 194,
+            "end": 198
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 4,
+        "crossReferences": [
+          {
+            "raw": "TG Cherubim.",
+            "prettyString": "TG Cherubim",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Cherubim",
+                "entryId": "tg-cherubim",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "1 Samuel 4:4",
+        "book": "1 Samuel",
+        "chapter": 4,
+        "verse": 4
+      },
+      {
+        "text": "And when the ark of the covenant of the Lord came into the camp, all Israel shouted with a great shout, so that the earth rang again.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 5,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "1 Samuel 4:5",
+        "book": "1 Samuel",
+        "chapter": 4,
+        "verse": 5
+      },
+      {
+        "text": "And when the Philistines heard the noise of the shout, they said, What meaneth the noise of this great shout in the camp of the Hebrews? And they understood that the ark of the Lord was come into the camp.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 71,
+            "end": 78
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 6,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "1 Samuel 4:6",
+        "book": "1 Samuel",
+        "chapter": 4,
+        "verse": 6
+      },
+      {
+        "text": "And the Philistines were afraid, for they said, God is come into the camp. And they said, Woe unto us! for there hath not been such a thing heretofore.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 7,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "1 Samuel 4:7",
+        "book": "1 Samuel",
+        "chapter": 4,
+        "verse": 7
+      },
+      {
+        "text": "Woe unto us! who shall deliver us out of the hand of these mighty Gods? these are the Gods that smote the Egyptians with all the plagues in the wilderness.",
+        "footNotes": [
+          {
+            "start": 59,
+            "end": 70,
+            "text": "1 Ne. 7:11 (10–12)."
+          }
+        ],
+        "italics": [
+          {
+            "start": 78,
+            "end": 81
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 8,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "1 Samuel 4:8",
+        "book": "1 Samuel",
+        "chapter": 4,
+        "verse": 8
+      },
+      {
+        "text": "Be strong, and quit yourselves like men, O ye Philistines, that ye be not servants unto the Hebrews, as they have been to you: quit yourselves like men, and fight.",
+        "footNotes": [
+          {
+            "start": 15,
+            "end": 19,
+            "text": "OR be men."
+          },
+          {
+            "start": 36,
+            "end": 39,
+            "text": "2 Sam. 10:12; Isa. 46:8; 1 Cor. 16:13; 2 Ne. 1:21."
+          },
+          {
+            "start": 74,
+            "end": 82,
+            "text": "Judg. 13:1."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 9,
+        "crossReferences": [
+          {
+            "raw": "2 Sam. 10:12; Isa. 46:8; 1 Cor. 16:13; 2 Ne. 1:21.",
+            "prettyString": "2 Samuel 10:12; Isaiah 46:8; 1 Corinthians 16:13; 2 Nephi 1:21",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "2samuel",
+                "chapters": [
+                  {
+                    "start": 10,
+                    "end": 10,
+                    "verses": [
+                      {
+                        "start": 12,
+                        "end": 12
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "isaiah",
+                "chapters": [
+                  {
+                    "start": 46,
+                    "end": 46,
+                    "verses": [
+                      {
+                        "start": 8,
+                        "end": 8
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "1corinthians",
+                "chapters": [
+                  {
+                    "start": 16,
+                    "end": 16,
+                    "verses": [
+                      {
+                        "start": 13,
+                        "end": 13
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "2nephi",
+                "chapters": [
+                  {
+                    "start": 1,
+                    "end": 1,
+                    "verses": [
+                      {
+                        "start": 21,
+                        "end": 21
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "Judg. 13:1.",
+            "prettyString": "Judges 13:1",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "judges",
+                "chapters": [
+                  {
+                    "start": 13,
+                    "end": 13,
+                    "verses": [
+                      {
+                        "start": 1,
+                        "end": 1
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "1 Samuel 4:9",
+        "book": "1 Samuel",
+        "chapter": 4,
+        "verse": 9
+      },
+      {
+        "text": "And the Philistines fought, and Israel was smitten, and they fled every man into his tent: and there was a very great slaughter; for there fell of Israel thirty thousand footmen.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 10,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "1 Samuel 4:10",
+        "book": "1 Samuel",
+        "chapter": 4,
+        "verse": 10
+      },
+      {
+        "text": "And the ark of God was taken; and the two sons of Eli, Hophni and Phinehas, were slain.",
+        "footNotes": [
+          {
+            "start": 81,
+            "end": 86,
+            "text": "1 Sam. 2:34 (31–34)."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 11,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "1 Samuel 4:11",
+        "book": "1 Samuel",
+        "chapter": 4,
+        "verse": 11
+      },
+      {
+        "text": "And there ran a man of Benjamin out of the army, and came to Shiloh the same day with his clothes rent, and with earth upon his head.",
+        "footNotes": [
+          {
+            "start": 98,
+            "end": 102,
+            "text": "Josh. 7:6."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 12,
+        "crossReferences": [
+          {
+            "raw": "Josh. 7:6.",
+            "prettyString": "Joshua 7:6",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "joshua",
+                "chapters": [
+                  {
+                    "start": 7,
+                    "end": 7,
+                    "verses": [
+                      {
+                        "start": 6,
+                        "end": 6
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "1 Samuel 4:12",
+        "book": "1 Samuel",
+        "chapter": 4,
+        "verse": 12
+      },
+      {
+        "text": "And when he came, lo, Eli sat upon a seat by the wayside watching: for his heart trembled for the ark of God. And when the man came into the city, and told it, all the city cried out.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 156,
+            "end": 159
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 13,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "1 Samuel 4:13",
+        "book": "1 Samuel",
+        "chapter": 4,
+        "verse": 13
+      },
+      {
+        "text": "And when Eli heard the noise of the crying, he said, What meaneth the noise of this tumult? And the man came in hastily, and told Eli.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 58,
+            "end": 65
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 14,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "1 Samuel 4:14",
+        "book": "1 Samuel",
+        "chapter": 4,
+        "verse": 14
+      },
+      {
+        "text": "Now Eli was ninety and eight years old; and his eyes were dim, that he could not see.",
+        "footNotes": [
+          {
+            "start": 48,
+            "end": 52,
+            "text": "1 Sam. 3:2."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 15,
+        "crossReferences": [
+          {
+            "raw": "1 Sam. 3:2.",
+            "prettyString": "1 Samuel 3:2",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "1samuel",
+                "chapters": [
+                  {
+                    "start": 3,
+                    "end": 3,
+                    "verses": [
+                      {
+                        "start": 2,
+                        "end": 2
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "1 Samuel 4:15",
+        "book": "1 Samuel",
+        "chapter": 4,
+        "verse": 15
+      },
+      {
+        "text": "And the man said unto Eli, I am he that came out of the army, and I fled to day out of the army. And he said, What is there done, my son?",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 29,
+            "end": 31
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 16,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "1 Samuel 4:16",
+        "book": "1 Samuel",
+        "chapter": 4,
+        "verse": 16
+      },
+      {
+        "text": "And the messenger answered and said, Israel is fled before the Philistines, and there hath been also a great slaughter among the people, and thy two sons also, Hophni and Phinehas, are dead, and the ark of God is taken.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 17,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "1 Samuel 4:17",
+        "book": "1 Samuel",
+        "chapter": 4,
+        "verse": 17
+      },
+      {
+        "text": "And it came to pass, when he made mention of the ark of God, that he fell from off the seat backward by the side of the gate, and his neck brake, and he died: for he was an old man, and heavy. And he had judged Israel forty years.",
+        "footNotes": [
+          {
+            "start": 87,
+            "end": 91,
+            "text": "1 Sam. 1:9."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 18,
+        "crossReferences": [
+          {
+            "raw": "1 Sam. 1:9.",
+            "prettyString": "1 Samuel 1:9",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "1samuel",
+                "chapters": [
+                  {
+                    "start": 1,
+                    "end": 1,
+                    "verses": [
+                      {
+                        "start": 9,
+                        "end": 9
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "1 Samuel 4:18",
+        "book": "1 Samuel",
+        "chapter": 4,
+        "verse": 18
+      },
+      {
+        "text": "And his daughter in law, Phinehas’ wife, was with child, near to be delivered: and when she heard the tidings that the ark of God was taken, and that her father in law and her husband were dead, she bowed herself and travailed; for her pains came upon her.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 57,
+            "end": 61
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 19,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "1 Samuel 4:19",
+        "book": "1 Samuel",
+        "chapter": 4,
+        "verse": 19
+      },
+      {
+        "text": "And about the time of her death the women that stood by her said unto her, Fear not; for thou hast born a son. But she answered not, neither did she regard it.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 156,
+            "end": 159
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 20,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "1 Samuel 4:20",
+        "book": "1 Samuel",
+        "chapter": 4,
+        "verse": 20
+      },
+      {
+        "text": "And she named the child I-chabod, saying, The glory is departed from Israel: because the ark of God was taken, and because of her father in law and her husband.",
+        "footNotes": [
+          {
+            "start": 24,
+            "end": 32,
+            "text": "IE Where is the glory?"
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 21,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "1 Samuel 4:21",
+        "book": "1 Samuel",
+        "chapter": 4,
+        "verse": 21
+      },
+      {
+        "text": "And she said, The glory is departed from Israel: for the ark of God is taken.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 22,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "1 Samuel 4:22",
+        "book": "1 Samuel",
+        "chapter": 4,
+        "verse": 22
+      }
+    ]
+  },
+  "nextChapterId": "1samuel5",
+  "prevChapterId": "1samuel3",
+  "volume": {
+    "_id": "oldtestament",
+    "title": "Old Testament",
+    "titleShort": "OT",
+    "titleOfficial": "The Old Testament"
+  }
+}

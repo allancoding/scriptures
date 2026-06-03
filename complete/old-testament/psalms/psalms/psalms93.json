@@ -1,0 +1,173 @@
+{
+  "_id": "psalms93",
+  "book": {
+    "_id": "psalms",
+    "title": "Psalms",
+    "titleShort": "Ps.",
+    "titleOfficial": "",
+    "subtitle": "",
+    "summary": "",
+    "chapterDelineation": "Psalm"
+  },
+  "chapter": {
+    "bookTitle": "Psalms",
+    "delineation": "Psalm",
+    "number": 93,
+    "summary": "The Lord reigns—He is from everlasting—Holiness adorns the house of the Lord forever.",
+    "chapterAugmentations": [],
+    "verses": [
+      {
+        "text": "The Lord reigneth, he is clothed with majesty; the Lord is clothed with strength, wherewith he hath girded himself: the world also is stablished, that it cannot be moved.",
+        "footNotes": [
+          {
+            "start": 25,
+            "end": 32,
+            "text": "D&C 65:5."
+          }
+        ],
+        "italics": [
+          {
+            "start": 82,
+            "end": 91
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 1,
+        "crossReferences": [
+          {
+            "raw": "D&C 65:5.",
+            "prettyString": "D&C 65:5",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 65,
+                    "end": 65,
+                    "verses": [
+                      {
+                        "start": 5,
+                        "end": 5
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 93:1",
+        "book": "Psalms",
+        "chapter": 93,
+        "verse": 1
+      },
+      {
+        "text": "Thy throne is established of old: thou art from everlasting.",
+        "footNotes": [
+          {
+            "start": 48,
+            "end": 59,
+            "text": "TG God, Eternal Nature of."
+          }
+        ],
+        "italics": [
+          {
+            "start": 11,
+            "end": 13
+          },
+          {
+            "start": 39,
+            "end": 42
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 2,
+        "crossReferences": [
+          {
+            "raw": "TG God, Eternal Nature of.",
+            "prettyString": "TG God, Eternal Nature of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "God, Eternal Nature of",
+                "entryId": "tg-god-eternal-nature-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 93:2",
+        "book": "Psalms",
+        "chapter": 93,
+        "verse": 2
+      },
+      {
+        "text": "The floods have lifted up, O Lord, the floods have lifted up their voice; the floods lift up their waves.",
+        "footNotes": [
+          {
+            "start": 4,
+            "end": 10,
+            "text": "HEB rivers, streams."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 3,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 93:3",
+        "book": "Psalms",
+        "chapter": 93,
+        "verse": 3
+      },
+      {
+        "text": "The Lord on high is mightier than the noise of many waters, yea, than the mighty waves of the sea.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 17,
+            "end": 19
+          },
+          {
+            "start": 60,
+            "end": 69
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 4,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 93:4",
+        "book": "Psalms",
+        "chapter": 93,
+        "verse": 4
+      },
+      {
+        "text": "Thy testimonies are very sure: holiness becometh thine house, O Lord, for ever.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 5,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 93:5",
+        "book": "Psalms",
+        "chapter": 93,
+        "verse": 5
+      }
+    ]
+  },
+  "nextChapterId": "psalms94",
+  "prevChapterId": "psalms92",
+  "volume": {
+    "_id": "oldtestament",
+    "title": "Old Testament",
+    "titleShort": "OT",
+    "titleOfficial": "The Old Testament"
+  }
+}

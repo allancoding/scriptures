@@ -1,0 +1,430 @@
+{
+  "_id": "psalms23",
+  "book": {
+    "_id": "psalms",
+    "title": "Psalms",
+    "titleShort": "Ps.",
+    "titleOfficial": "",
+    "subtitle": "",
+    "summary": "",
+    "chapterDelineation": "Psalm"
+  },
+  "chapter": {
+    "bookTitle": "Psalms",
+    "delineation": "Psalm",
+    "number": 23,
+    "summary": "David declares, The Lord is my shepherd.",
+    "chapterAugmentations": [],
+    "verses": [
+      {
+        "text": "The Lord is my shepherd; I shall not want.",
+        "footNotes": [
+          {
+            "start": 15,
+            "end": 23,
+            "text": "TG Jesus Christ, Good Shepherd; Shepherd."
+          },
+          {
+            "start": 37,
+            "end": 41,
+            "text": "Matt. 6:8; Philip. 4:19. TG Contentment."
+          }
+        ],
+        "italics": [
+          {
+            "start": 9,
+            "end": 11
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 1,
+        "crossReferences": [
+          {
+            "raw": "TG Jesus Christ, Good Shepherd; Shepherd.",
+            "prettyString": "TG Jesus Christ, Good Shepherd; TG Shepherd",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Jesus Christ, Good Shepherd",
+                "entryId": "tg-jesus-christ-good-shepherd",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Shepherd",
+                "entryId": "tg-shepherd",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 23:1",
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 1
+      },
+      {
+        "text": "He maketh me to lie down in green pastures: he leadeth me beside the still waters.",
+        "footNotes": [
+          {
+            "start": 47,
+            "end": 54,
+            "text": "TG Guidance, Divine."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 2,
+        "crossReferences": [
+          {
+            "raw": "TG Guidance, Divine.",
+            "prettyString": "TG Guidance, Divine",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Guidance, Divine",
+                "entryId": "tg-guidance-divine",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 23:2",
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 2
+      },
+      {
+        "text": "He restoreth my soul: he leadeth me in the paths of righteousness for his name’s sake.",
+        "footNotes": [
+          {
+            "start": 52,
+            "end": 65,
+            "text": "TG Righteousness."
+          },
+          {
+            "start": 74,
+            "end": 80,
+            "text": "1 Sam. 12:22; Ps. 31:3; 109:21; 1 Jn. 2:12; 1 Ne. 20:9."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 3,
+        "crossReferences": [
+          {
+            "raw": "TG Righteousness.",
+            "prettyString": "TG Righteousness",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Righteousness",
+                "entryId": "tg-righteousness",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "1 Sam. 12:22; Ps. 31:3; 109:21; 1 Jn. 2:12; 1 Ne. 20:9.",
+            "prettyString": "1 Samuel 12:22; Psalms 31:3; 109:21; 1 John 2:12; 1 Nephi 20:9",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "1samuel",
+                "chapters": [
+                  {
+                    "start": 12,
+                    "end": 12,
+                    "verses": [
+                      {
+                        "start": 22,
+                        "end": 22
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "psalms",
+                "chapters": [
+                  {
+                    "start": 31,
+                    "end": 31,
+                    "verses": [
+                      {
+                        "start": 3,
+                        "end": 3
+                      }
+                    ]
+                  },
+                  {
+                    "start": 109,
+                    "end": 109,
+                    "verses": [
+                      {
+                        "start": 21,
+                        "end": 21
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "1john",
+                "chapters": [
+                  {
+                    "start": 2,
+                    "end": 2,
+                    "verses": [
+                      {
+                        "start": 12,
+                        "end": 12
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "1nephi",
+                "chapters": [
+                  {
+                    "start": 20,
+                    "end": 20,
+                    "verses": [
+                      {
+                        "start": 9,
+                        "end": 9
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 23:3",
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 3
+      },
+      {
+        "text": "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me.",
+        "footNotes": [
+          {
+            "start": 14,
+            "end": 18,
+            "text": "TG Walking with God."
+          },
+          {
+            "start": 31,
+            "end": 37,
+            "text": "Ps. 138:7; D&C 127:2 (1–2)."
+          },
+          {
+            "start": 45,
+            "end": 51,
+            "text": "Job 3:5."
+          },
+          {
+            "start": 55,
+            "end": 60,
+            "text": "TG Death."
+          },
+          {
+            "start": 77,
+            "end": 81,
+            "text": "TG Evil."
+          },
+          {
+            "start": 132,
+            "end": 139,
+            "text": "TG Comfort."
+          }
+        ],
+        "italics": [
+          {
+            "start": 92,
+            "end": 95
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 4,
+        "crossReferences": [
+          {
+            "raw": "TG Walking with God.",
+            "prettyString": "TG Walking with God",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Walking with God",
+                "entryId": "tg-walking-with-god",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "Job 3:5.",
+            "prettyString": "Job 3:5",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "job",
+                "chapters": [
+                  {
+                    "start": 3,
+                    "end": 3,
+                    "verses": [
+                      {
+                        "start": 5,
+                        "end": 5
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Death.",
+            "prettyString": "TG Death",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Death",
+                "entryId": "tg-death",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Evil.",
+            "prettyString": "TG Evil",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Evil",
+                "entryId": "tg-evil",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Comfort.",
+            "prettyString": "TG Comfort",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Comfort",
+                "entryId": "tg-comfort",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 23:4",
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 4
+      },
+      {
+        "text": "Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.",
+        "footNotes": [
+          {
+            "start": 71,
+            "end": 80,
+            "text": "TG Anointing."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 5,
+        "crossReferences": [
+          {
+            "raw": "TG Anointing.",
+            "prettyString": "TG Anointing",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Anointing",
+                "entryId": "tg-anointing",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 23:5",
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 5
+      },
+      {
+        "text": "Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the Lord for ever.",
+        "footNotes": [
+          {
+            "start": 7,
+            "end": 15,
+            "text": "TG Peace of God."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 6,
+        "crossReferences": [
+          {
+            "raw": "TG Peace of God.",
+            "prettyString": "TG Peace of God",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Peace of God",
+                "entryId": "tg-peace-of-god",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 23:6",
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 6
+      }
+    ]
+  },
+  "nextChapterId": "psalms24",
+  "prevChapterId": "psalms22",
+  "volume": {
+    "_id": "oldtestament",
+    "title": "Old Testament",
+    "titleShort": "OT",
+    "titleOfficial": "The Old Testament"
+  }
+}

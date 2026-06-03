@@ -1,0 +1,149 @@
+{
+  "_id": "moroni5",
+  "book": {
+    "_id": "moroni",
+    "title": "Moroni",
+    "titleShort": "Moro.",
+    "titleOfficial": "",
+    "subtitle": "",
+    "summary": "",
+    "chapterDelineation": "Chapter"
+  },
+  "chapter": {
+    "bookTitle": "Moroni",
+    "delineation": "Chapter",
+    "number": 5,
+    "summary": "The mode of administering the sacramental wine is set forth. About A.D. 401–21.",
+    "chapterAugmentations": [],
+    "verses": [
+      {
+        "text": "The manner of administering the wine—Behold, they took the cup, and said:",
+        "footNotes": [
+          {
+            "start": 4,
+            "end": 10,
+            "text": "3 Ne. 18:11 (8–11); D&C 20:78."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 1,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Moroni 5:1",
+        "book": "Moroni",
+        "chapter": 5,
+        "verse": 1
+      },
+      {
+        "text": "O God, the Eternal Father, we ask thee, in the name of thy Son, Jesus Christ, to bless and sanctify this wine to the souls of all those who drink of it, that they may do it in remembrance of the blood of thy Son, which was shed for them; that they may witness unto thee, O God, the Eternal Father, that they do always remember him, that they may have his Spirit to be with them. Amen.",
+        "footNotes": [
+          {
+            "start": 105,
+            "end": 109,
+            "text": "TG Sacrament."
+          },
+          {
+            "start": 176,
+            "end": 187,
+            "text": "Luke 22:20; 1 Cor. 11:25."
+          },
+          {
+            "start": 195,
+            "end": 200,
+            "text": "D&C 27:2 (2–4)."
+          },
+          {
+            "start": 355,
+            "end": 361,
+            "text": "TG Spirituality."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 2,
+        "crossReferences": [
+          {
+            "raw": "TG Sacrament.",
+            "prettyString": "TG Sacrament",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Sacrament",
+                "entryId": "tg-sacrament",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "Luke 22:20; 1 Cor. 11:25.",
+            "prettyString": "Luke 22:20; 1 Corinthians 11:25",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "luke",
+                "chapters": [
+                  {
+                    "start": 22,
+                    "end": 22,
+                    "verses": [
+                      {
+                        "start": 20,
+                        "end": 20
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "1corinthians",
+                "chapters": [
+                  {
+                    "start": 11,
+                    "end": 11,
+                    "verses": [
+                      {
+                        "start": 25,
+                        "end": 25
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Spirituality.",
+            "prettyString": "TG Spirituality",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Spirituality",
+                "entryId": "tg-spirituality",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Moroni 5:2",
+        "book": "Moroni",
+        "chapter": 5,
+        "verse": 2
+      }
+    ]
+  },
+  "nextChapterId": "moroni6",
+  "prevChapterId": "moroni4",
+  "volume": {
+    "_id": "bookofmormon",
+    "title": "Book of Mormon",
+    "titleShort": "BoM",
+    "titleOfficial": "The Book of Mormon"
+  }
+}
