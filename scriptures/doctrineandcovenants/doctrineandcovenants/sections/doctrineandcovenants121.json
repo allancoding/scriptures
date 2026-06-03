@@ -36,7 +36,37 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 1,
+        "crossReferences": [
+          {
+            "raw": "Matt. 27:46.",
+            "prettyString": "Matthew 27:46",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "matthew",
+                "chapters": [
+                  {
+                    "start": 27,
+                    "end": 27,
+                    "verses": [
+                      {
+                        "start": 46,
+                        "end": 46
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 121:1",
+        "book": "Doctrine and Covenants",
+        "chapter": 121,
+        "verse": 1
       },
       {
         "text": "How long shall thy hand be stayed, and thine eye, yea thy pure eye, behold from the eternal heavens the wrongs of thy people and of thy servants, and thine ear be penetrated with their cries?",
@@ -48,7 +78,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 2,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 121:2",
+        "book": "Doctrine and Covenants",
+        "chapter": 121,
+        "verse": 2
       },
       {
         "text": "Yea, O Lord, how long shall they suffer these wrongs and unlawful oppressions, before thine heart shall be softened toward them, and thy bowels be moved with compassion toward them?",
@@ -70,7 +107,59 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 3,
+        "crossReferences": [
+          {
+            "raw": "TG Cruelty; Oppression; Persecution.",
+            "prettyString": "TG Cruelty; TG Oppression; TG Persecution",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Cruelty",
+                "entryId": "tg-cruelty",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Oppression",
+                "entryId": "tg-oppression",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Persecution",
+                "entryId": "tg-persecution",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Compassion.",
+            "prettyString": "TG Compassion",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Compassion",
+                "entryId": "tg-compassion",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 121:3",
+        "book": "Doctrine and Covenants",
+        "chapter": 121,
+        "verse": 3
       },
       {
         "text": "O Lord God Almighty, maker of heaven, earth, and seas, and of all things that in them are, and who controllest and subjectest the devil, and the dark and benighted dominion of Sheol—stretch forth thy hand; let thine eye pierce; let thy pavilion be taken up; let thy hiding place no longer be covered; let thine ear be inclined; let thine heart be softened, and thy bowels moved with compassion toward us.",
@@ -102,7 +191,127 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 4,
+        "crossReferences": [
+          {
+            "raw": "TG God, Power of.",
+            "prettyString": "TG God, Power of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "God, Power of",
+                "entryId": "tg-god-power-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "Gen. 1:1.",
+            "prettyString": "Genesis 1:1",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "genesis",
+                "chapters": [
+                  {
+                    "start": 1,
+                    "end": 1,
+                    "verses": [
+                      {
+                        "start": 1,
+                        "end": 1
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "2 Sam. 22:7.",
+            "prettyString": "2 Samuel 22:7",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "2samuel",
+                "chapters": [
+                  {
+                    "start": 22,
+                    "end": 22,
+                    "verses": [
+                      {
+                        "start": 7,
+                        "end": 7
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "D&C 101:89; 123:6.",
+            "prettyString": "D&C 101:89; 123:6",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 101,
+                    "end": 101,
+                    "verses": [
+                      {
+                        "start": 89,
+                        "end": 89
+                      }
+                    ]
+                  },
+                  {
+                    "start": 123,
+                    "end": 123,
+                    "verses": [
+                      {
+                        "start": 6,
+                        "end": 6
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Compassion; God, Mercy of.",
+            "prettyString": "TG Compassion; TG God, Mercy of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Compassion",
+                "entryId": "tg-compassion",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "God, Mercy of",
+                "entryId": "tg-god-mercy-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 121:4",
+        "book": "Doctrine and Covenants",
+        "chapter": 121,
+        "verse": 4
       },
       {
         "text": "Let thine anger be kindled against our enemies; and, in the fury of thine heart, with thy sword avenge us of our wrongs.",
@@ -124,7 +333,37 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 5,
+        "crossReferences": [
+          {
+            "raw": "Ps. 119:84.",
+            "prettyString": "Psalms 119:84",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "psalms",
+                "chapters": [
+                  {
+                    "start": 119,
+                    "end": 119,
+                    "verses": [
+                      {
+                        "start": 84,
+                        "end": 84
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 121:5",
+        "book": "Doctrine and Covenants",
+        "chapter": 121,
+        "verse": 5
       },
       {
         "text": "Remember thy suffering saints, O our God; and thy servants will rejoice in thy name forever.",
@@ -136,7 +375,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 6,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 121:6",
+        "book": "Doctrine and Covenants",
+        "chapter": 121,
+        "verse": 6
       },
       {
         "text": "My son, peace be unto thy soul; thine adversity and thine afflictions shall be but a small moment;",
@@ -158,7 +404,59 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 7,
+        "crossReferences": [
+          {
+            "raw": "TG Adversity; Affliction.",
+            "prettyString": "TG Adversity; TG Affliction",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Adversity",
+                "entryId": "tg-adversity",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Affliction",
+                "entryId": "tg-affliction",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "Isa. 54:7.",
+            "prettyString": "Isaiah 54:7",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "isaiah",
+                "chapters": [
+                  {
+                    "start": 54,
+                    "end": 54,
+                    "verses": [
+                      {
+                        "start": 7,
+                        "end": 7
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 121:7",
+        "book": "Doctrine and Covenants",
+        "chapter": 121,
+        "verse": 7
       },
       {
         "text": "And then, if thou endure it well, God shall exalt thee on high; thou shalt triumph over all thy foes.",
@@ -175,7 +473,29 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 8,
+        "crossReferences": [
+          {
+            "raw": "TG Enemies.",
+            "prettyString": "TG Enemies",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Enemies",
+                "entryId": "tg-enemies",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 121:8",
+        "book": "Doctrine and Covenants",
+        "chapter": 121,
+        "verse": 8
       },
       {
         "text": "Thy friends do stand by thee, and they shall hail thee again with warm hearts and friendly hands.",
@@ -187,7 +507,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 9,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 121:9",
+        "book": "Doctrine and Covenants",
+        "chapter": 121,
+        "verse": 9
       },
       {
         "text": "Thou art not yet as Job; thy friends do not contend against thee, neither charge thee with transgression, as they did Job.",
@@ -199,7 +526,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 10,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 121:10",
+        "book": "Doctrine and Covenants",
+        "chapter": 121,
+        "verse": 10
       },
       {
         "text": "And they who do charge thee with transgression, their hope shall be blasted, and their prospects shall melt away as the hoar frost melteth before the burning rays of the rising sun;",
@@ -211,7 +545,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 11,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 121:11",
+        "book": "Doctrine and Covenants",
+        "chapter": 121,
+        "verse": 11
       },
       {
         "text": "And also that God hath set his hand and seal to change the times and seasons, and to blind their minds, that they may not understand his marvelous workings; that he may prove them also and take them in their own craftiness;",
@@ -238,7 +579,99 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 12,
+        "crossReferences": [
+          {
+            "raw": "Ex. 8:19; 1 Ne. 19:22; Alma 23:6; D&C 84:3.",
+            "prettyString": "Exodus 8:19; 1 Nephi 19:22; Alma 23:6; D&C 84:3",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "exodus",
+                "chapters": [
+                  {
+                    "start": 8,
+                    "end": 8,
+                    "verses": [
+                      {
+                        "start": 19,
+                        "end": 19
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "1nephi",
+                "chapters": [
+                  {
+                    "start": 19,
+                    "end": 19,
+                    "verses": [
+                      {
+                        "start": 22,
+                        "end": 22
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "alma",
+                "chapters": [
+                  {
+                    "start": 23,
+                    "end": 23,
+                    "verses": [
+                      {
+                        "start": 6,
+                        "end": 6
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 84,
+                    "end": 84,
+                    "verses": [
+                      {
+                        "start": 3,
+                        "end": 3
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Test.",
+            "prettyString": "TG Test",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Test",
+                "entryId": "tg-test",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 121:12",
+        "book": "Doctrine and Covenants",
+        "chapter": 121,
+        "verse": 12
       },
       {
         "text": "Also because their hearts are corrupted, and the things which they are willing to bring upon others, and love to have others suffer, may come upon themselves to the very uttermost;",
@@ -250,7 +683,53 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 13,
+        "crossReferences": [
+          {
+            "raw": "Prov. 28:10; 1 Ne. 14:3.",
+            "prettyString": "Proverbs 28:10; 1 Nephi 14:3",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "proverbs",
+                "chapters": [
+                  {
+                    "start": 28,
+                    "end": 28,
+                    "verses": [
+                      {
+                        "start": 10,
+                        "end": 10
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "1nephi",
+                "chapters": [
+                  {
+                    "start": 14,
+                    "end": 14,
+                    "verses": [
+                      {
+                        "start": 3,
+                        "end": 3
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 121:13",
+        "book": "Doctrine and Covenants",
+        "chapter": 121,
+        "verse": 13
       },
       {
         "text": "That they may be disappointed also, and their hopes may be cut off;",
@@ -262,7 +741,37 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 14,
+        "crossReferences": [
+          {
+            "raw": "3 Ne. 4:10.",
+            "prettyString": "3 Nephi 4:10",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "3nephi",
+                "chapters": [
+                  {
+                    "start": 4,
+                    "end": 4,
+                    "verses": [
+                      {
+                        "start": 10,
+                        "end": 10
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 121:14",
+        "book": "Doctrine and Covenants",
+        "chapter": 121,
+        "verse": 14
       },
       {
         "text": "And not many years hence, that they and their posterity shall be swept from under heaven, saith God, that not one of them is left to stand by the wall.",
@@ -279,7 +788,69 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 15,
+        "crossReferences": [
+          {
+            "raw": "Ps. 37:28; 109:13.",
+            "prettyString": "Psalms 37:28; 109:13",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "psalms",
+                "chapters": [
+                  {
+                    "start": 37,
+                    "end": 37,
+                    "verses": [
+                      {
+                        "start": 28,
+                        "end": 28
+                      }
+                    ]
+                  },
+                  {
+                    "start": 109,
+                    "end": 109,
+                    "verses": [
+                      {
+                        "start": 13,
+                        "end": 13
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "D&C 124:52.",
+            "prettyString": "D&C 124:52",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 124,
+                    "end": 124,
+                    "verses": [
+                      {
+                        "start": 52,
+                        "end": 52
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 121:15",
+        "book": "Doctrine and Covenants",
+        "chapter": 121,
+        "verse": 15
       },
       {
         "text": "Cursed are all those that shall lift up the heel against mine anointed, saith the Lord, and cry they have sinned when they have not sinned before me, saith the Lord, but have done that which was meet in mine eyes, and which I commanded them.",
@@ -306,7 +877,29 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 16,
+        "crossReferences": [
+          {
+            "raw": "TG Curse.",
+            "prettyString": "TG Curse",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Curse",
+                "entryId": "tg-curse",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 121:16",
+        "book": "Doctrine and Covenants",
+        "chapter": 121,
+        "verse": 16
       },
       {
         "text": "But those who cry transgression do it because they are the servants of sin, and are the children of disobedience themselves.",
@@ -323,7 +916,53 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 17,
+        "crossReferences": [
+          {
+            "raw": "Rev. 12:10; Alma 15:15.",
+            "prettyString": "Revelation 12:10; Alma 15:15",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "revelation",
+                "chapters": [
+                  {
+                    "start": 12,
+                    "end": 12,
+                    "verses": [
+                      {
+                        "start": 10,
+                        "end": 10
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "alma",
+                "chapters": [
+                  {
+                    "start": 15,
+                    "end": 15,
+                    "verses": [
+                      {
+                        "start": 15,
+                        "end": 15
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 121:17",
+        "book": "Doctrine and Covenants",
+        "chapter": 121,
+        "verse": 17
       },
       {
         "text": "And those who swear falsely against my servants, that they might bring them into bondage and death—",
@@ -340,7 +979,29 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 18,
+        "crossReferences": [
+          {
+            "raw": "TG Swearing.",
+            "prettyString": "TG Swearing",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Swearing",
+                "entryId": "tg-swearing",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 121:18",
+        "book": "Doctrine and Covenants",
+        "chapter": 121,
+        "verse": 18
       },
       {
         "text": "Wo unto them; because they have offended my little ones they shall be severed from the ordinances of mine house.",
@@ -357,7 +1018,37 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 19,
+        "crossReferences": [
+          {
+            "raw": "TG Ordinance; Salvation.",
+            "prettyString": "TG Ordinance; TG Salvation",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Ordinance",
+                "entryId": "tg-ordinance",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Salvation",
+                "entryId": "tg-salvation",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 121:19",
+        "book": "Doctrine and Covenants",
+        "chapter": 121,
+        "verse": 19
       },
       {
         "text": "Their basket shall not be full, their houses and their barns shall perish, and they themselves shall be despised by those that flattered them.",
@@ -374,7 +1065,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 20,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 121:20",
+        "book": "Doctrine and Covenants",
+        "chapter": 121,
+        "verse": 20
       },
       {
         "text": "They shall not have right to the priesthood, nor their posterity after them from generation to generation.",
@@ -386,7 +1084,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 21,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 121:21",
+        "book": "Doctrine and Covenants",
+        "chapter": 121,
+        "verse": 21
       },
       {
         "text": "It had been better for them that a millstone had been hanged about their necks, and they drowned in the depth of the sea.",
@@ -398,7 +1103,53 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 22,
+        "crossReferences": [
+          {
+            "raw": "Matt. 18:6; D&C 54:5.",
+            "prettyString": "Matthew 18:6; D&C 54:5",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "matthew",
+                "chapters": [
+                  {
+                    "start": 18,
+                    "end": 18,
+                    "verses": [
+                      {
+                        "start": 6,
+                        "end": 6
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 54,
+                    "end": 54,
+                    "verses": [
+                      {
+                        "start": 5,
+                        "end": 5
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 121:22",
+        "book": "Doctrine and Covenants",
+        "chapter": 121,
+        "verse": 22
       },
       {
         "text": "Wo unto all those that discomfort my people, and drive, and murder, and testify against them, saith the Lord of Hosts; a generation of vipers shall not escape the damnation of hell.",
@@ -420,7 +1171,91 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 23,
+        "crossReferences": [
+          {
+            "raw": "D&C 101:1.",
+            "prettyString": "D&C 101:1",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 101,
+                    "end": 101,
+                    "verses": [
+                      {
+                        "start": 1,
+                        "end": 1
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "Esth. 3:13.",
+            "prettyString": "Esther 3:13",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "esther",
+                "chapters": [
+                  {
+                    "start": 3,
+                    "end": 3,
+                    "verses": [
+                      {
+                        "start": 13,
+                        "end": 13
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "Matt. 12:34; 23:33.",
+            "prettyString": "Matthew 12:34; 23:33",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "matthew",
+                "chapters": [
+                  {
+                    "start": 12,
+                    "end": 12,
+                    "verses": [
+                      {
+                        "start": 34,
+                        "end": 34
+                      }
+                    ]
+                  },
+                  {
+                    "start": 23,
+                    "end": 23,
+                    "verses": [
+                      {
+                        "start": 33,
+                        "end": 33
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 121:23",
+        "book": "Doctrine and Covenants",
+        "chapter": 121,
+        "verse": 23
       },
       {
         "text": "Behold, mine eyes see and know all their works, and I have in reserve a swift judgment in the season thereof, for them all;",
@@ -437,7 +1272,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 24,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 121:24",
+        "book": "Doctrine and Covenants",
+        "chapter": 121,
+        "verse": 24
       },
       {
         "text": "For there is a time appointed for every man, according as his works shall be.",
@@ -459,7 +1301,51 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 25,
+        "crossReferences": [
+          {
+            "raw": "D&C 122:9.",
+            "prettyString": "D&C 122:9",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 122,
+                    "end": 122,
+                    "verses": [
+                      {
+                        "start": 9,
+                        "end": 9
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Good Works.",
+            "prettyString": "TG Good Works",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Good Works",
+                "entryId": "tg-good-works",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 121:25",
+        "book": "Doctrine and Covenants",
+        "chapter": 121,
+        "verse": 25
       },
       {
         "text": "God shall give unto you knowledge by his Holy Spirit, yea, by the unspeakable gift of the Holy Ghost, that has not been revealed since the world was until now;",
@@ -486,7 +1372,43 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 26,
+        "crossReferences": [
+          {
+            "raw": "TG God, Spirit of.",
+            "prettyString": "TG God, Spirit of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "God, Spirit of",
+                "entryId": "tg-god-spirit-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Holy Ghost, Gift of.",
+            "prettyString": "TG Holy Ghost, Gift of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Holy Ghost, Gift of",
+                "entryId": "tg-holy-ghost-gift-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 121:26",
+        "book": "Doctrine and Covenants",
+        "chapter": 121,
+        "verse": 26
       },
       {
         "text": "Which our forefathers have awaited with anxious expectation to be revealed in the last times, which their minds were pointed to by the angels, as held in reserve for the fulness of their glory;",
@@ -498,7 +1420,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 27,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 121:27",
+        "book": "Doctrine and Covenants",
+        "chapter": 121,
+        "verse": 27
       },
       {
         "text": "A time to come in the which nothing shall be withheld, whether there be one God or many gods, they shall be manifest.",
@@ -520,7 +1449,77 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 28,
+        "crossReferences": [
+          {
+            "raw": "D&C 42:61; 59:4; 76:7; 98:12; 101:32.",
+            "prettyString": "D&C 42:61; 59:4; 76:7; 98:12; 101:32",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 42,
+                    "end": 42,
+                    "verses": [
+                      {
+                        "start": 61,
+                        "end": 61
+                      }
+                    ]
+                  },
+                  {
+                    "start": 59,
+                    "end": 59,
+                    "verses": [
+                      {
+                        "start": 4,
+                        "end": 4
+                      }
+                    ]
+                  },
+                  {
+                    "start": 76,
+                    "end": 76,
+                    "verses": [
+                      {
+                        "start": 7,
+                        "end": 7
+                      }
+                    ]
+                  },
+                  {
+                    "start": 98,
+                    "end": 98,
+                    "verses": [
+                      {
+                        "start": 12,
+                        "end": 12
+                      }
+                    ]
+                  },
+                  {
+                    "start": 101,
+                    "end": 101,
+                    "verses": [
+                      {
+                        "start": 32,
+                        "end": 32
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 121:28",
+        "book": "Doctrine and Covenants",
+        "chapter": 121,
+        "verse": 28
       },
       {
         "text": "All thrones and dominions, principalities and powers, shall be revealed and set forth upon all who have endured valiantly for the gospel of Jesus Christ.",
@@ -537,7 +1536,37 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 29,
+        "crossReferences": [
+          {
+            "raw": "D&C 101:32.",
+            "prettyString": "D&C 101:32",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 101,
+                    "end": 101,
+                    "verses": [
+                      {
+                        "start": 32,
+                        "end": 32
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 121:29",
+        "book": "Doctrine and Covenants",
+        "chapter": 121,
+        "verse": 29
       },
       {
         "text": "And also, if there be bounds set to the heavens or to the seas, or to the dry land, or to the sun, moon, or stars—",
@@ -549,7 +1578,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 30,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 121:30",
+        "book": "Doctrine and Covenants",
+        "chapter": 121,
+        "verse": 30
       },
       {
         "text": "All the times of their revolutions, all the appointed days, months, and years, and all the days of their days, months, and years, and all their glories, laws, and set times, shall be revealed in the days of the dispensation of the fulness of times—",
@@ -566,7 +1602,29 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 31,
+        "crossReferences": [
+          {
+            "raw": "TG Dispensations.",
+            "prettyString": "TG Dispensations",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Dispensations",
+                "entryId": "tg-dispensations",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 121:31",
+        "book": "Doctrine and Covenants",
+        "chapter": 121,
+        "verse": 31
       },
       {
         "text": "According to that which was ordained in the midst of the Council of the Eternal God of all other gods before this world was, that should be reserved unto the finishing and the end thereof, when every man shall enter into his eternal presence and into his immortal rest.",
@@ -603,7 +1661,175 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 32,
+        "crossReferences": [
+          {
+            "raw": "TG Earth, Purpose of.",
+            "prettyString": "TG Earth, Purpose of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Earth, Purpose of",
+                "entryId": "tg-earth-purpose-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Council in Heaven.",
+            "prettyString": "TG Council in Heaven",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Council in Heaven",
+                "entryId": "tg-council-in-heaven",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Earth, Destiny of; World.",
+            "prettyString": "TG Earth, Destiny of; TG World",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Earth, Destiny of",
+                "entryId": "tg-earth-destiny-of",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "World",
+                "entryId": "tg-world",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Man, Potential to Become like Heavenly Father.",
+            "prettyString": "TG Man, Potential to Become like Heavenly Father",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Man, Potential to Become like Heavenly Father",
+                "entryId": "tg-man-potential-to-become-like-heavenly-father",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "Ps. 95:11; Heb. 3:11; 4:1; Alma 12:34; 3 Ne. 27:19; D&C 84:24.",
+            "prettyString": "Psalms 95:11; Hebrews 3:11; 4:1; Alma 12:34; 3 Nephi 27:19; D&C 84:24",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "psalms",
+                "chapters": [
+                  {
+                    "start": 95,
+                    "end": 95,
+                    "verses": [
+                      {
+                        "start": 11,
+                        "end": 11
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "hebrews",
+                "chapters": [
+                  {
+                    "start": 3,
+                    "end": 3,
+                    "verses": [
+                      {
+                        "start": 11,
+                        "end": 11
+                      }
+                    ]
+                  },
+                  {
+                    "start": 4,
+                    "end": 4,
+                    "verses": [
+                      {
+                        "start": 1,
+                        "end": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "alma",
+                "chapters": [
+                  {
+                    "start": 12,
+                    "end": 12,
+                    "verses": [
+                      {
+                        "start": 34,
+                        "end": 34
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "3nephi",
+                "chapters": [
+                  {
+                    "start": 27,
+                    "end": 27,
+                    "verses": [
+                      {
+                        "start": 19,
+                        "end": 19
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 84,
+                    "end": 84,
+                    "verses": [
+                      {
+                        "start": 24,
+                        "end": 24
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 121:32",
+        "book": "Doctrine and Covenants",
+        "chapter": 121,
+        "verse": 32
       },
       {
         "text": "How long can rolling waters remain impure? What power shall stay the heavens? As well might man stretch forth his puny arm to stop the Missouri river in its decreed course, or to turn it up stream, as to hinder the Almighty from pouring down knowledge from heaven upon the heads of the Latter-day Saints.",
@@ -630,7 +1856,51 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 33,
+        "crossReferences": [
+          {
+            "raw": "Dan. 4:35.",
+            "prettyString": "Daniel 4:35",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "daniel",
+                "chapters": [
+                  {
+                    "start": 4,
+                    "end": 4,
+                    "verses": [
+                      {
+                        "start": 35,
+                        "end": 35
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG God, Power of.",
+            "prettyString": "TG God, Power of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "God, Power of",
+                "entryId": "tg-god-power-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 121:33",
+        "book": "Doctrine and Covenants",
+        "chapter": 121,
+        "verse": 33
       },
       {
         "text": "Behold, there are many called, but few are chosen. And why are they not chosen?",
@@ -642,7 +1912,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 34,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 121:34",
+        "book": "Doctrine and Covenants",
+        "chapter": 121,
+        "verse": 34
       },
       {
         "text": "Because their hearts are set so much upon the things of this world, and aspire to the honors of men, that they do not learn this one lesson—",
@@ -669,7 +1946,51 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 35,
+        "crossReferences": [
+          {
+            "raw": "TG Selfishness; Worldliness.",
+            "prettyString": "TG Selfishness; TG Worldliness",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Selfishness",
+                "entryId": "tg-selfishness",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Worldliness",
+                "entryId": "tg-worldliness",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Motivations.",
+            "prettyString": "TG Motivations",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Motivations",
+                "entryId": "tg-motivations",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 121:35",
+        "book": "Doctrine and Covenants",
+        "chapter": 121,
+        "verse": 35
       },
       {
         "text": "That the rights of the priesthood are inseparably connected with the powers of heaven, and that the powers of heaven cannot be controlled nor handled only upon the principles of righteousness.",
@@ -691,7 +2012,29 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 36,
+        "crossReferences": [
+          {
+            "raw": "TG Priesthood, Magnifying Callings within.",
+            "prettyString": "TG Priesthood, Magnifying Callings within",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Priesthood, Magnifying Callings within",
+                "entryId": "tg-priesthood-magnifying-callings-within",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 121:36",
+        "book": "Doctrine and Covenants",
+        "chapter": 121,
+        "verse": 36
       },
       {
         "text": "That they may be conferred upon us, it is true; but when we undertake to cover our sins, or to gratify our pride, our vain ambition, or to exercise control or dominion or compulsion upon the souls of the children of men, in any degree of unrighteousness, behold, the heavens withdraw themselves; the Spirit of the Lord is grieved; and when it is withdrawn, Amen to the priesthood or the authority of that man.",
@@ -723,7 +2066,51 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 37,
+        "crossReferences": [
+          {
+            "raw": "TG Sin.",
+            "prettyString": "TG Sin",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Sin",
+                "entryId": "tg-sin",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Haughtiness; Pride.",
+            "prettyString": "TG Haughtiness; TG Pride",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Haughtiness",
+                "entryId": "tg-haughtiness",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Pride",
+                "entryId": "tg-pride",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 121:37",
+        "book": "Doctrine and Covenants",
+        "chapter": 121,
+        "verse": 37
       },
       {
         "text": "Behold, ere he is aware, he is left unto himself, to kick against the pricks, to persecute the saints, and to fight against God.",
@@ -745,7 +2132,61 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 38,
+        "crossReferences": [
+          {
+            "raw": "Acts 9:5; 26:14.",
+            "prettyString": "Acts 9:5; 26:14",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "acts",
+                "chapters": [
+                  {
+                    "start": 9,
+                    "end": 9,
+                    "verses": [
+                      {
+                        "start": 5,
+                        "end": 5
+                      }
+                    ]
+                  },
+                  {
+                    "start": 26,
+                    "end": 26,
+                    "verses": [
+                      {
+                        "start": 14,
+                        "end": 14
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Persecution.",
+            "prettyString": "TG Persecution",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Persecution",
+                "entryId": "tg-persecution",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 121:38",
+        "book": "Doctrine and Covenants",
+        "chapter": 121,
+        "verse": 38
       },
       {
         "text": "We have learned by sad experience that it is the nature and disposition of almost all men, as soon as they get a little authority, as they suppose, they will immediately begin to exercise unrighteous dominion.",
@@ -767,7 +2208,43 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 39,
+        "crossReferences": [
+          {
+            "raw": "TG Man, Natural, Not Spiritually Reborn.",
+            "prettyString": "TG Man, Natural, Not Spiritually Reborn",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Man, Natural, Not Spiritually Reborn",
+                "entryId": "tg-man-natural-not-spiritually-reborn",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Authority.",
+            "prettyString": "TG Authority",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Authority",
+                "entryId": "tg-authority",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 121:39",
+        "book": "Doctrine and Covenants",
+        "chapter": 121,
+        "verse": 39
       },
       {
         "text": "Hence many are called, but few are chosen.",
@@ -779,7 +2256,53 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 40,
+        "crossReferences": [
+          {
+            "raw": "Matt. 20:16; D&C 95:5.",
+            "prettyString": "Matthew 20:16; D&C 95:5",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "matthew",
+                "chapters": [
+                  {
+                    "start": 20,
+                    "end": 20,
+                    "verses": [
+                      {
+                        "start": 16,
+                        "end": 16
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 95,
+                    "end": 95,
+                    "verses": [
+                      {
+                        "start": 5,
+                        "end": 5
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 121:40",
+        "book": "Doctrine and Covenants",
+        "chapter": 121,
+        "verse": 40
       },
       {
         "text": "No power or influence can or ought to be maintained by virtue of the priesthood, only by persuasion, by long-suffering, by gentleness and meekness, and by love unfeigned;",
@@ -806,7 +2329,29 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 41,
+        "crossReferences": [
+          {
+            "raw": "TG Priesthood, Power of.",
+            "prettyString": "TG Priesthood, Power of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Priesthood, Power of",
+                "entryId": "tg-priesthood-power-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 121:41",
+        "book": "Doctrine and Covenants",
+        "chapter": 121,
+        "verse": 41
       },
       {
         "text": "By kindness, and pure knowledge, which shall greatly enlarge the soul without hypocrisy, and without guile—",
@@ -838,7 +2383,95 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 42,
+        "crossReferences": [
+          {
+            "raw": "TG Courtesy; Kindness.",
+            "prettyString": "TG Courtesy; TG Kindness",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Courtesy",
+                "entryId": "tg-courtesy",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Kindness",
+                "entryId": "tg-kindness",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Understanding.",
+            "prettyString": "TG Understanding",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Understanding",
+                "entryId": "tg-understanding",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "James 3:17.",
+            "prettyString": "James 3:17",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "james",
+                "chapters": [
+                  {
+                    "start": 3,
+                    "end": 3,
+                    "verses": [
+                      {
+                        "start": 17,
+                        "end": 17
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Guile; Sincere.",
+            "prettyString": "TG Guile; TG Sincere",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Guile",
+                "entryId": "tg-guile",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Sincere",
+                "entryId": "tg-sincere",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 121:42",
+        "book": "Doctrine and Covenants",
+        "chapter": 121,
+        "verse": 42
       },
       {
         "text": "Reproving betimes with sharpness, when moved upon by the Holy Ghost; and then showing forth afterwards an increase of love toward him whom thou hast reproved, lest he esteem thee to be his enemy;",
@@ -865,7 +2498,87 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 43,
+        "crossReferences": [
+          {
+            "raw": "TG Chastening; Reproof.",
+            "prettyString": "TG Chastening; TG Reproof",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Chastening",
+                "entryId": "tg-chastening",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Reproof",
+                "entryId": "tg-reproof",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "D&C 15:2.",
+            "prettyString": "D&C 15:2",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 15,
+                    "end": 15,
+                    "verses": [
+                      {
+                        "start": 2,
+                        "end": 2
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Holy Ghost, Mission of.",
+            "prettyString": "TG Holy Ghost, Mission of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Holy Ghost, Mission of",
+                "entryId": "tg-holy-ghost-mission-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Charity.",
+            "prettyString": "TG Charity",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Charity",
+                "entryId": "tg-charity",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 121:43",
+        "book": "Doctrine and Covenants",
+        "chapter": 121,
+        "verse": 43
       },
       {
         "text": "That he may know that thy faithfulness is stronger than the cords of death.",
@@ -877,7 +2590,29 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 44,
+        "crossReferences": [
+          {
+            "raw": "TG Dependability.",
+            "prettyString": "TG Dependability",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Dependability",
+                "entryId": "tg-dependability",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 121:44",
+        "book": "Doctrine and Covenants",
+        "chapter": 121,
+        "verse": 44
       },
       {
         "text": "Let thy bowels also be full of charity towards all men, and to the household of faith, and let virtue garnish thy thoughts unceasingly; then shall thy confidence wax strong in the presence of God; and the doctrine of the priesthood shall distil upon thy soul as the dews from heaven.",
@@ -909,7 +2644,119 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 45,
+        "crossReferences": [
+          {
+            "raw": "TG Chastity; Modesty; Virtue.",
+            "prettyString": "TG Chastity; TG Modesty; TG Virtue",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Chastity",
+                "entryId": "tg-chastity",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Modesty",
+                "entryId": "tg-modesty",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Virtue",
+                "entryId": "tg-virtue",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Trust in God.",
+            "prettyString": "TG Trust in God",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Trust in God",
+                "entryId": "tg-trust-in-god",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG God, Presence of; God, Privilege of Seeing.",
+            "prettyString": "TG God, Presence of; TG God, Privilege of Seeing",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "God, Presence of",
+                "entryId": "tg-god-presence-of",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "God, Privilege of Seeing",
+                "entryId": "tg-god-privilege-of-seeing",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "Deut. 32:2; D&C 128:19.",
+            "prettyString": "Deuteronomy 32:2; D&C 128:19",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "deuteronomy",
+                "chapters": [
+                  {
+                    "start": 32,
+                    "end": 32,
+                    "verses": [
+                      {
+                        "start": 2,
+                        "end": 2
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 128,
+                    "end": 128,
+                    "verses": [
+                      {
+                        "start": 19,
+                        "end": 19
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 121:45",
+        "book": "Doctrine and Covenants",
+        "chapter": 121,
+        "verse": 45
       },
       {
         "text": "The Holy Ghost shall be thy constant companion, and thy scepter an unchanging scepter of righteousness and truth; and thy dominion shall be an everlasting dominion, and without compulsory means it shall flow unto thee forever and ever.",
@@ -931,7 +2778,73 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 46,
+        "crossReferences": [
+          {
+            "raw": "TG Holy Ghost, Mission of; Spirituality.",
+            "prettyString": "TG Holy Ghost, Mission of; TG Spirituality",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Holy Ghost, Mission of",
+                "entryId": "tg-holy-ghost-mission-of",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Spirituality",
+                "entryId": "tg-spirituality",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Righteousness.",
+            "prettyString": "TG Righteousness",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Righteousness",
+                "entryId": "tg-righteousness",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "Dan. 7:14.",
+            "prettyString": "Daniel 7:14",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "daniel",
+                "chapters": [
+                  {
+                    "start": 7,
+                    "end": 7,
+                    "verses": [
+                      {
+                        "start": 14,
+                        "end": 14
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 121:46",
+        "book": "Doctrine and Covenants",
+        "chapter": 121,
+        "verse": 46
       }
     ]
   },

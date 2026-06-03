@@ -36,13 +36,50 @@
             "end": 12
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 1,
+        "crossReferences": [
+          {
+            "raw": "1 Chr. 29:14.",
+            "prettyString": "1 Chronicles 29:14",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "1chronicles",
+                "chapters": [
+                  {
+                    "start": 29,
+                    "end": 29,
+                    "verses": [
+                      {
+                        "start": 14,
+                        "end": 14
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 24:1",
+        "book": "Psalms",
+        "chapter": 24,
+        "verse": 1
       },
       {
         "text": "For he hath founded it upon the seas, and established it upon the floods.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 2,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 24:2",
+        "book": "Psalms",
+        "chapter": 24,
+        "verse": 2
       },
       {
         "text": "Who shall ascend into the hill of the Lord? or who shall stand in his holy place?",
@@ -59,7 +96,37 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 3,
+        "crossReferences": [
+          {
+            "raw": "TG Holiness; Temple.",
+            "prettyString": "TG Holiness; TG Temple",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Holiness",
+                "entryId": "tg-holiness",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Temple",
+                "entryId": "tg-temple",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 24:3",
+        "book": "Psalms",
+        "chapter": 24,
+        "verse": 3
       },
       {
         "text": "He that hath clean hands, and a pure heart; who hath not lifted up his soul unto vanity, nor sworn deceitfully.",
@@ -101,13 +168,158 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 4,
+        "crossReferences": [
+          {
+            "raw": "TG Chastity; Cleanliness.",
+            "prettyString": "TG Chastity; TG Cleanliness",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Chastity",
+                "entryId": "tg-chastity",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Cleanliness",
+                "entryId": "tg-cleanliness",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "1 Tim. 2:8.",
+            "prettyString": "1 Timothy 2:8",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "1timothy",
+                "chapters": [
+                  {
+                    "start": 2,
+                    "end": 2,
+                    "verses": [
+                      {
+                        "start": 8,
+                        "end": 8
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Purity; Virtue.",
+            "prettyString": "TG Purity; TG Virtue",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Purity",
+                "entryId": "tg-purity",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Virtue",
+                "entryId": "tg-virtue",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Heart.",
+            "prettyString": "TG Heart",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Heart",
+                "entryId": "tg-heart",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Vanity.",
+            "prettyString": "TG Vanity",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Vanity",
+                "entryId": "tg-vanity",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Swearing.",
+            "prettyString": "TG Swearing",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Swearing",
+                "entryId": "tg-swearing",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Deceit; Honesty.",
+            "prettyString": "TG Deceit; TG Honesty",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Deceit",
+                "entryId": "tg-deceit",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Honesty",
+                "entryId": "tg-honesty",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 24:4",
+        "book": "Psalms",
+        "chapter": 24,
+        "verse": 4
       },
       {
         "text": "He shall receive the blessing from the Lord, and righteousness from the God of his salvation.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 5,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 24:5",
+        "book": "Psalms",
+        "chapter": 24,
+        "verse": 5
       },
       {
         "text": "This is the generation of them that seek him, that seek thy face, O Jacob. Selah.",
@@ -124,7 +336,14 @@
             "end": 7
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 6,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 24:6",
+        "book": "Psalms",
+        "chapter": 24,
+        "verse": 6
       },
       {
         "text": "Lift up your heads, O ye gates; and be ye lift up, ye everlasting doors; and the King of glory shall come in.",
@@ -141,7 +360,29 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 7,
+        "crossReferences": [
+          {
+            "raw": "TG Jesus Christ, Second Coming.",
+            "prettyString": "TG Jesus Christ, Second Coming",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Jesus Christ, Second Coming",
+                "entryId": "tg-jesus-christ-second-coming",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 24:7",
+        "book": "Psalms",
+        "chapter": 24,
+        "verse": 7
       },
       {
         "text": "Who is this King of glory? The Lord strong and mighty, the Lord mighty in battle.",
@@ -163,7 +404,51 @@
             "end": 6
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 8,
+        "crossReferences": [
+          {
+            "raw": "TG Kingdom of God, in Heaven.",
+            "prettyString": "TG Kingdom of God, in Heaven",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Kingdom of God, in Heaven",
+                "entryId": "tg-kingdom-of-god-in-heaven",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "Alma 5:50.",
+            "prettyString": "Alma 5:50",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "alma",
+                "chapters": [
+                  {
+                    "start": 5,
+                    "end": 5,
+                    "verses": [
+                      {
+                        "start": 50,
+                        "end": 50
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 24:8",
+        "book": "Psalms",
+        "chapter": 24,
+        "verse": 8
       },
       {
         "text": "Lift up your heads, O ye gates; even lift them up, ye everlasting doors; and the King of glory shall come in.",
@@ -174,7 +459,14 @@
             "end": 46
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 9,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 24:9",
+        "book": "Psalms",
+        "chapter": 24,
+        "verse": 9
       },
       {
         "text": "Who is this King of glory? The Lord of hosts, he is the King of glory. Selah.",
@@ -191,7 +483,29 @@
             "end": 51
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 10,
+        "crossReferences": [
+          {
+            "raw": "TG Jesus Christ, Prophecies about.",
+            "prettyString": "TG Jesus Christ, Prophecies about",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Jesus Christ, Prophecies about",
+                "entryId": "tg-jesus-christ-prophecies-about",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 24:10",
+        "book": "Psalms",
+        "chapter": 24,
+        "verse": 10
       }
     ]
   },

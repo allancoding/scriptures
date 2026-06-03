@@ -31,7 +31,43 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 1,
+        "crossReferences": [
+          {
+            "raw": "TG Servant.",
+            "prettyString": "TG Servant",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Servant",
+                "entryId": "tg-servant",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Israel, Twelve Tribes of.",
+            "prettyString": "TG Israel, Twelve Tribes of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Israel, Twelve Tribes of",
+                "entryId": "tg-israel-twelve-tribes-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "James 1:1",
+        "book": "James",
+        "chapter": 1,
+        "verse": 1
       },
       {
         "text": "My brethren, count it all joy when ye fall into divers temptations;",
@@ -48,7 +84,29 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 2,
+        "crossReferences": [
+          {
+            "raw": "TG Temptation.",
+            "prettyString": "TG Temptation",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Temptation",
+                "entryId": "tg-temptation",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "James 1:2",
+        "book": "James",
+        "chapter": 1,
+        "verse": 2
       },
       {
         "text": "Knowing this, that the trying of your faith worketh patience.",
@@ -70,7 +128,29 @@
             "end": 13
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 3,
+        "crossReferences": [
+          {
+            "raw": "TG Patience.",
+            "prettyString": "TG Patience",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Patience",
+                "entryId": "tg-patience",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "James 1:3",
+        "book": "James",
+        "chapter": 1,
+        "verse": 3
       },
       {
         "text": "But let patience have her perfect work, that ye may be perfect and entire, wanting nothing.",
@@ -87,7 +167,29 @@
             "end": 25
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 4,
+        "crossReferences": [
+          {
+            "raw": "TG Perfection.",
+            "prettyString": "TG Perfection",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Perfection",
+                "entryId": "tg-perfection",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "James 1:4",
+        "book": "James",
+        "chapter": 1,
+        "verse": 4
       },
       {
         "text": "If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.",
@@ -119,7 +221,105 @@
             "end": 69
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 5,
+        "crossReferences": [
+          {
+            "raw": "D&C 42:68; JS—H 1:11.",
+            "prettyString": "D&C 42:68; JS—H 1:11",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 42,
+                    "end": 42,
+                    "verses": [
+                      {
+                        "start": 68,
+                        "end": 68
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "josephsmithhistory",
+                "chapters": [
+                  {
+                    "start": 1,
+                    "end": 1,
+                    "verses": [
+                      {
+                        "start": 11,
+                        "end": 11
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Guidance, Divine; Learn; Wisdom.",
+            "prettyString": "TG Guidance, Divine; TG Learn; TG Wisdom",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Guidance, Divine",
+                "entryId": "tg-guidance-divine",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Learn",
+                "entryId": "tg-learn",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Wisdom",
+                "entryId": "tg-wisdom",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Benevolence; Revelation.",
+            "prettyString": "TG Benevolence; TG Revelation",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Benevolence",
+                "entryId": "tg-benevolence",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Revelation",
+                "entryId": "tg-revelation",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "James 1:5",
+        "book": "James",
+        "chapter": 1,
+        "verse": 5
       },
       {
         "text": "But let him ask in faith, nothing wavering. For he that wavereth is like a wave of the sea driven with the wind and tossed.",
@@ -141,13 +341,56 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 6,
+        "crossReferences": [
+          {
+            "raw": "TG Prayer.",
+            "prettyString": "TG Prayer",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Prayer",
+                "entryId": "tg-prayer",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Faith.",
+            "prettyString": "TG Faith",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Faith",
+                "entryId": "tg-faith",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "James 1:6",
+        "book": "James",
+        "chapter": 1,
+        "verse": 6
       },
       {
         "text": "For let not that man think that he shall receive any thing of the Lord.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 7,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "James 1:7",
+        "book": "James",
+        "chapter": 1,
+        "verse": 7
       },
       {
         "text": "A double minded man is unstable in all his ways.",
@@ -164,7 +407,14 @@
             "end": 22
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 8,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "James 1:8",
+        "book": "James",
+        "chapter": 1,
+        "verse": 8
       },
       {
         "text": "Let the brother of low degree rejoice in that he is exalted:",
@@ -176,7 +426,37 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 9,
+        "crossReferences": [
+          {
+            "raw": "Matt. 23:12.",
+            "prettyString": "Matthew 23:12",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "matthew",
+                "chapters": [
+                  {
+                    "start": 23,
+                    "end": 23,
+                    "verses": [
+                      {
+                        "start": 12,
+                        "end": 12
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "James 1:9",
+        "book": "James",
+        "chapter": 1,
+        "verse": 9
       },
       {
         "text": "But the rich, in that he is made low: because as the flower of the grass he shall pass away.",
@@ -188,7 +468,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 10,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "James 1:10",
+        "book": "James",
+        "chapter": 1,
+        "verse": 10
       },
       {
         "text": "For the sun is no sooner risen with a burning heat, but it withereth the grass, and the flower thereof falleth, and the grace of the fashion of it perisheth: so also shall the rich man fade away in his ways.",
@@ -205,7 +492,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 11,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "James 1:11",
+        "book": "James",
+        "chapter": 1,
+        "verse": 11
       },
       {
         "text": "Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him.",
@@ -237,7 +531,51 @@
             "end": 10
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 12,
+        "crossReferences": [
+          {
+            "raw": "TG Test.",
+            "prettyString": "TG Test",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Test",
+                "entryId": "tg-test",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Exaltation; Reward.",
+            "prettyString": "TG Exaltation; TG Reward",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Exaltation",
+                "entryId": "tg-exaltation",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Reward",
+                "entryId": "tg-reward",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "James 1:12",
+        "book": "James",
+        "chapter": 1,
+        "verse": 12
       },
       {
         "text": "Let no man say when he is tempted, I am tempted of God: for God cannot be tempted with evil, neither tempteth he any man:",
@@ -254,7 +592,43 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 13,
+        "crossReferences": [
+          {
+            "raw": "TG God, Perfection of.",
+            "prettyString": "TG God, Perfection of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "God, Perfection of",
+                "entryId": "tg-god-perfection-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Evil.",
+            "prettyString": "TG Evil",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Evil",
+                "entryId": "tg-evil",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "James 1:13",
+        "book": "James",
+        "chapter": 1,
+        "verse": 13
       },
       {
         "text": "But every man is tempted, when he is drawn away of his own lust, and enticed.",
@@ -271,7 +645,67 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 14,
+        "crossReferences": [
+          {
+            "raw": "TG Temptation.",
+            "prettyString": "TG Temptation",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Temptation",
+                "entryId": "tg-temptation",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Chastity; Lust; Motivations; Sensuality.",
+            "prettyString": "TG Chastity; TG Lust; TG Motivations; TG Sensuality",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Chastity",
+                "entryId": "tg-chastity",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Lust",
+                "entryId": "tg-lust",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Motivations",
+                "entryId": "tg-motivations",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Sensuality",
+                "entryId": "tg-sensuality",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "James 1:14",
+        "book": "James",
+        "chapter": 1,
+        "verse": 14
       },
       {
         "text": "Then when lust hath conceived, it bringeth forth sin: and sin, when it is finished, bringeth forth death.",
@@ -283,13 +717,42 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 15,
+        "crossReferences": [
+          {
+            "raw": "TG Sin.",
+            "prettyString": "TG Sin",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Sin",
+                "entryId": "tg-sin",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "James 1:15",
+        "book": "James",
+        "chapter": 1,
+        "verse": 15
       },
       {
         "text": "Do not err, my beloved brethren.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 16,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "James 1:16",
+        "book": "James",
+        "chapter": 1,
+        "verse": 16
       },
       {
         "text": "Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning.",
@@ -326,13 +789,112 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 17,
+        "crossReferences": [
+          {
+            "raw": "Ps. 85:12.",
+            "prettyString": "Psalms 85:12",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "psalms",
+                "chapters": [
+                  {
+                    "start": 85,
+                    "end": 85,
+                    "verses": [
+                      {
+                        "start": 12,
+                        "end": 12
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "D&C 67:9.",
+            "prettyString": "D&C 67:9",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 67,
+                    "end": 67,
+                    "verses": [
+                      {
+                        "start": 9,
+                        "end": 9
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "D&C 67:4, 9.",
+            "prettyString": "D&C 67:4, 9",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 67,
+                    "end": 67,
+                    "verses": [
+                      {
+                        "start": 4,
+                        "end": 4
+                      },
+                      {
+                        "start": 9,
+                        "end": 9
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG God, Perfection of.",
+            "prettyString": "TG God, Perfection of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "God, Perfection of",
+                "entryId": "tg-god-perfection-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "James 1:17",
+        "book": "James",
+        "chapter": 1,
+        "verse": 17
       },
       {
         "text": "Of his own will begat he us with the word of truth, that we should be a kind of firstfruits of his creatures.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 18,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "James 1:18",
+        "book": "James",
+        "chapter": 1,
+        "verse": 18
       },
       {
         "text": "Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath:",
@@ -354,13 +916,78 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 19,
+        "crossReferences": [
+          {
+            "raw": "Prov. 17:27.",
+            "prettyString": "Proverbs 17:27",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "proverbs",
+                "chapters": [
+                  {
+                    "start": 17,
+                    "end": 17,
+                    "verses": [
+                      {
+                        "start": 27,
+                        "end": 27
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Patience.",
+            "prettyString": "TG Patience",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Patience",
+                "entryId": "tg-patience",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Anger.",
+            "prettyString": "TG Anger",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Anger",
+                "entryId": "tg-anger",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "James 1:19",
+        "book": "James",
+        "chapter": 1,
+        "verse": 19
       },
       {
         "text": "For the wrath of man worketh not the righteousness of God.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 20,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "James 1:20",
+        "book": "James",
+        "chapter": 1,
+        "verse": 20
       },
       {
         "text": "Wherefore lay apart all filthiness and superfluity of naughtiness, and receive with meekness the engrafted word, which is able to save your souls.",
@@ -387,7 +1014,43 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 21,
+        "crossReferences": [
+          {
+            "raw": "TG Filthiness.",
+            "prettyString": "TG Filthiness",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Filthiness",
+                "entryId": "tg-filthiness",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Meek.",
+            "prettyString": "TG Meek",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Meek",
+                "entryId": "tg-meek",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "James 1:21",
+        "book": "James",
+        "chapter": 1,
+        "verse": 21
       },
       {
         "text": "But be ye doers of the word, and not hearers only, deceiving your own selves.",
@@ -399,7 +1062,53 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 22,
+        "crossReferences": [
+          {
+            "raw": "TG Commitment; Duty; Good Works; Hypocrisy.",
+            "prettyString": "TG Commitment; TG Duty; TG Good Works; TG Hypocrisy",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Commitment",
+                "entryId": "tg-commitment",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Duty",
+                "entryId": "tg-duty",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Good Works",
+                "entryId": "tg-good-works",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Hypocrisy",
+                "entryId": "tg-hypocrisy",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "James 1:22",
+        "book": "James",
+        "chapter": 1,
+        "verse": 22
       },
       {
         "text": "For if any be a hearer of the word, and not a doer, he is like unto a man beholding his natural face in a glass:",
@@ -416,13 +1125,50 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 23,
+        "crossReferences": [
+          {
+            "raw": "1 Cor. 13:12.",
+            "prettyString": "1 Corinthians 13:12",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "1corinthians",
+                "chapters": [
+                  {
+                    "start": 13,
+                    "end": 13,
+                    "verses": [
+                      {
+                        "start": 12,
+                        "end": 12
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "James 1:23",
+        "book": "James",
+        "chapter": 1,
+        "verse": 23
       },
       {
         "text": "For he beholdeth himself, and goeth his way, and straightway forgetteth what manner of man he was.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 24,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "James 1:24",
+        "book": "James",
+        "chapter": 1,
+        "verse": 24
       },
       {
         "text": "But whoso looketh into the perfect law of liberty, and continueth therein, he being not a forgetful hearer, but a doer of the work, this man shall be blessed in his deed.",
@@ -444,7 +1190,43 @@
             "end": 74
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 25,
+        "crossReferences": [
+          {
+            "raw": "TG God, Law of.",
+            "prettyString": "TG God, Law of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "God, Law of",
+                "entryId": "tg-god-law-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Liberty.",
+            "prettyString": "TG Liberty",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Liberty",
+                "entryId": "tg-liberty",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "James 1:25",
+        "book": "James",
+        "chapter": 1,
+        "verse": 25
       },
       {
         "text": "If any man among you seem to be religious, and bridleth not his tongue, but deceiveth his own heart, this man’s religion is vain.",
@@ -466,7 +1248,37 @@
             "end": 123
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 26,
+        "crossReferences": [
+          {
+            "raw": "TG Gossip; Profanity.",
+            "prettyString": "TG Gossip; TG Profanity",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Gossip",
+                "entryId": "tg-gossip",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Profanity",
+                "entryId": "tg-profanity",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "James 1:26",
+        "book": "James",
+        "chapter": 1,
+        "verse": 26
       },
       {
         "text": "Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction, and to keep himself unspotted from the world.",
@@ -518,7 +1330,71 @@
             "end": 122
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 27,
+        "crossReferences": [
+          {
+            "raw": "TG Charity.",
+            "prettyString": "TG Charity",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Charity",
+                "entryId": "tg-charity",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Widows.",
+            "prettyString": "TG Widows",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Widows",
+                "entryId": "tg-widows",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Affliction.",
+            "prettyString": "TG Affliction",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Affliction",
+                "entryId": "tg-affliction",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Worldliness.",
+            "prettyString": "TG Worldliness",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Worldliness",
+                "entryId": "tg-worldliness",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "James 1:27",
+        "book": "James",
+        "chapter": 1,
+        "verse": 27
       }
     ]
   },

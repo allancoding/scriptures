@@ -41,7 +41,37 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 1,
+        "crossReferences": [
+          {
+            "raw": "Acts 15:29.",
+            "prettyString": "Acts 15:29",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "acts",
+                "chapters": [
+                  {
+                    "start": 15,
+                    "end": 15,
+                    "verses": [
+                      {
+                        "start": 29,
+                        "end": 29
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "1 Corinthians 8:1",
+        "book": "1 Corinthians",
+        "chapter": 8,
+        "verse": 1
       },
       {
         "text": "And if any man think that he knoweth any thing, he knoweth nothing yet as he ought to know.",
@@ -53,7 +83,37 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 2,
+        "crossReferences": [
+          {
+            "raw": "TG Education; Study.",
+            "prettyString": "TG Education; TG Study",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Education",
+                "entryId": "tg-education",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Study",
+                "entryId": "tg-study",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "1 Corinthians 8:2",
+        "book": "1 Corinthians",
+        "chapter": 8,
+        "verse": 2
       },
       {
         "text": "But if any man love God, the same is known of him.",
@@ -65,7 +125,37 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 3,
+        "crossReferences": [
+          {
+            "raw": "John 10:14.",
+            "prettyString": "John 10:14",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "john",
+                "chapters": [
+                  {
+                    "start": 10,
+                    "end": 10,
+                    "verses": [
+                      {
+                        "start": 14,
+                        "end": 14
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "1 Corinthians 8:3",
+        "book": "1 Corinthians",
+        "chapter": 8,
+        "verse": 3
       },
       {
         "text": "As concerning therefore the eating of those things that are offered in sacrifice unto idols, we know that an idol is nothing in the world, and that there is none other God but one.",
@@ -96,13 +186,27 @@
             "end": 156
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 4,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "1 Corinthians 8:4",
+        "book": "1 Corinthians",
+        "chapter": 8,
+        "verse": 4
       },
       {
         "text": "For though there be that are called gods, whether in heaven or in earth, (as there be gods many, and lords many,)",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 5,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "1 Corinthians 8:5",
+        "book": "1 Corinthians",
+        "chapter": 8,
+        "verse": 5
       },
       {
         "text": "But to us there is but one God, the Father, of whom are all things, and we in him; and one Lord Jesus Christ, by whom are all things, and we by him.",
@@ -142,7 +246,95 @@
             "end": 121
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 6,
+        "crossReferences": [
+          {
+            "raw": "TG Godhead.",
+            "prettyString": "TG Godhead",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Godhead",
+                "entryId": "tg-godhead",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "Dan. 2:47; Eph. 4:6.",
+            "prettyString": "Daniel 2:47; Ephesians 4:6",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "daniel",
+                "chapters": [
+                  {
+                    "start": 2,
+                    "end": 2,
+                    "verses": [
+                      {
+                        "start": 47,
+                        "end": 47
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "ephesians",
+                "chapters": [
+                  {
+                    "start": 4,
+                    "end": 4,
+                    "verses": [
+                      {
+                        "start": 6,
+                        "end": 6
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Jesus Christ, Lord.",
+            "prettyString": "TG Jesus Christ, Lord",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Jesus Christ, Lord",
+                "entryId": "tg-jesus-christ-lord",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Jesus Christ, Power of.",
+            "prettyString": "TG Jesus Christ, Power of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Jesus Christ, Power of",
+                "entryId": "tg-jesus-christ-power-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "1 Corinthians 8:6",
+        "book": "1 Corinthians",
+        "chapter": 8,
+        "verse": 6
       },
       {
         "text": "Howbeit there is not in every man that knowledge: for some with conscience of the idol unto this hour eat it as a thing offered unto an idol; and their conscience being weak is defiled.",
@@ -163,7 +355,29 @@
             "end": 108
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 7,
+        "crossReferences": [
+          {
+            "raw": "TG Conscience.",
+            "prettyString": "TG Conscience",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Conscience",
+                "entryId": "tg-conscience",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "1 Corinthians 8:7",
+        "book": "1 Corinthians",
+        "chapter": 8,
+        "verse": 7
       },
       {
         "text": "But meat commendeth us not to God: for neither, if we eat, are we the better; neither, if we eat not, are we the worse.",
@@ -175,7 +389,29 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 8,
+        "crossReferences": [
+          {
+            "raw": "TG Food.",
+            "prettyString": "TG Food",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Food",
+                "entryId": "tg-food",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "1 Corinthians 8:8",
+        "book": "1 Corinthians",
+        "chapter": 8,
+        "verse": 8
       },
       {
         "text": "But take heed lest by any means this liberty of yours become a stumblingblock to them that are weak.",
@@ -197,19 +433,85 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 9,
+        "crossReferences": [
+          {
+            "raw": "TG Liberty; Motivations.",
+            "prettyString": "TG Liberty; TG Motivations",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Liberty",
+                "entryId": "tg-liberty",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Motivations",
+                "entryId": "tg-motivations",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "Rom. 14:1.",
+            "prettyString": "Romans 14:1",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "romans",
+                "chapters": [
+                  {
+                    "start": 14,
+                    "end": 14,
+                    "verses": [
+                      {
+                        "start": 1,
+                        "end": 1
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "1 Corinthians 8:9",
+        "book": "1 Corinthians",
+        "chapter": 8,
+        "verse": 9
       },
       {
         "text": "For if any man see thee which hast knowledge sit at meat in the idol’s temple, shall not the conscience of him which is weak be emboldened to eat those things which are offered to idols;",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 10,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "1 Corinthians 8:10",
+        "book": "1 Corinthians",
+        "chapter": 8,
+        "verse": 10
       },
       {
         "text": "And through thy knowledge shall the weak brother perish, for whom Christ died?",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 11,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "1 Corinthians 8:11",
+        "book": "1 Corinthians",
+        "chapter": 8,
+        "verse": 11
       },
       {
         "text": "But when ye sin so against the brethren, and wound their weak conscience, ye sin against Christ.",
@@ -221,7 +523,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 12,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "1 Corinthians 8:12",
+        "book": "1 Corinthians",
+        "chapter": 8,
+        "verse": 12
       },
       {
         "text": "Wherefore, if meat make my brother to offend, I will eat no flesh while the world standeth, lest I make my brother to offend.",
@@ -243,7 +552,29 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 13,
+        "crossReferences": [
+          {
+            "raw": "TG Abstain.",
+            "prettyString": "TG Abstain",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Abstain",
+                "entryId": "tg-abstain",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "1 Corinthians 8:13",
+        "book": "1 Corinthians",
+        "chapter": 8,
+        "verse": 13
       }
     ]
   },

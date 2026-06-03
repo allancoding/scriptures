@@ -31,7 +31,75 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 1,
+        "crossReferences": [
+          {
+            "raw": "Lev. 26:17; Amos 9:1.",
+            "prettyString": "Leviticus 26:17; Amos 9:1",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "leviticus",
+                "chapters": [
+                  {
+                    "start": 26,
+                    "end": 26,
+                    "verses": [
+                      {
+                        "start": 17,
+                        "end": 17
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "amos",
+                "chapters": [
+                  {
+                    "start": 9,
+                    "end": 9,
+                    "verses": [
+                      {
+                        "start": 1,
+                        "end": 1
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "2 Ne. 9:40.",
+            "prettyString": "2 Nephi 9:40",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "2nephi",
+                "chapters": [
+                  {
+                    "start": 9,
+                    "end": 9,
+                    "verses": [
+                      {
+                        "start": 40,
+                        "end": 40
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 28:1",
+        "book": "Proverbs",
+        "chapter": 28,
+        "verse": 1
       },
       {
         "text": "For the transgression of a land many are the princes thereof: but by a man of understanding and knowledge the state thereof shall be prolonged.",
@@ -50,7 +118,14 @@
             "end": 123
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 2,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Proverbs 28:2",
+        "book": "Proverbs",
+        "chapter": 28,
+        "verse": 2
       },
       {
         "text": "A poor man that oppresseth the poor is like a sweeping rain which leaveth no food.",
@@ -67,13 +142,42 @@
             "end": 43
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 3,
+        "crossReferences": [
+          {
+            "raw": "TG Oppression.",
+            "prettyString": "TG Oppression",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Oppression",
+                "entryId": "tg-oppression",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 28:3",
+        "book": "Proverbs",
+        "chapter": 28,
+        "verse": 3
       },
       {
         "text": "They that forsake the law praise the wicked: but such as keep the law contend with them.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 4,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Proverbs 28:4",
+        "book": "Proverbs",
+        "chapter": 28,
+        "verse": 4
       },
       {
         "text": "Evil men understand not judgment: but they that seek the Lord understand all things.",
@@ -90,7 +194,37 @@
             "end": 84
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 5,
+        "crossReferences": [
+          {
+            "raw": "D&C 88:67.",
+            "prettyString": "D&C 88:67",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 88,
+                    "end": 88,
+                    "verses": [
+                      {
+                        "start": 67,
+                        "end": 67
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 28:5",
+        "book": "Proverbs",
+        "chapter": 28,
+        "verse": 5
       },
       {
         "text": "Better is the poor that walketh in his uprightness, than he that is perverse in his ways, though he be rich.",
@@ -119,7 +253,47 @@
             "end": 102
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 6,
+        "crossReferences": [
+          {
+            "raw": "Prov. 10:9; 19:1.",
+            "prettyString": "Proverbs 10:9; 19:1",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "proverbs",
+                "chapters": [
+                  {
+                    "start": 10,
+                    "end": 10,
+                    "verses": [
+                      {
+                        "start": 9,
+                        "end": 9
+                      }
+                    ]
+                  },
+                  {
+                    "start": 19,
+                    "end": 19,
+                    "verses": [
+                      {
+                        "start": 1,
+                        "end": 1
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 28:6",
+        "book": "Proverbs",
+        "chapter": 28,
+        "verse": 6
       },
       {
         "text": "Whoso keepeth the law is a wise son: but he that is a companion of riotous men shameth his father.",
@@ -145,7 +319,29 @@
             "end": 78
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 7,
+        "crossReferences": [
+          {
+            "raw": "TG Shame.",
+            "prettyString": "TG Shame",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Shame",
+                "entryId": "tg-shame",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 28:7",
+        "book": "Proverbs",
+        "chapter": 28,
+        "verse": 7
       },
       {
         "text": "He that by usury and unjust gain increaseth his substance, he shall gather it for him that will pity the poor.",
@@ -162,7 +358,51 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 8,
+        "crossReferences": [
+          {
+            "raw": "TG Usury.",
+            "prettyString": "TG Usury",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Usury",
+                "entryId": "tg-usury",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "Alma 11:20.",
+            "prettyString": "Alma 11:20",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "alma",
+                "chapters": [
+                  {
+                    "start": 11,
+                    "end": 11,
+                    "verses": [
+                      {
+                        "start": 20,
+                        "end": 20
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 28:8",
+        "book": "Proverbs",
+        "chapter": 28,
+        "verse": 8
       },
       {
         "text": "He that turneth away his ear from hearing the law, even his prayer shall be abomination.",
@@ -184,7 +424,14 @@
             "end": 75
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 9,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Proverbs 28:9",
+        "book": "Proverbs",
+        "chapter": 28,
+        "verse": 9
       },
       {
         "text": "Whoso causeth the righteous to go astray in an evil way, he shall fall himself into his own pit: but the upright shall have good things in possession.",
@@ -211,7 +458,105 @@
             "end": 135
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 10,
+        "crossReferences": [
+          {
+            "raw": "TG Justice.",
+            "prettyString": "TG Justice",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Justice",
+                "entryId": "tg-justice",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "Prov. 26:27; 1 Ne. 22:14.",
+            "prettyString": "Proverbs 26:27; 1 Nephi 22:14",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "proverbs",
+                "chapters": [
+                  {
+                    "start": 26,
+                    "end": 26,
+                    "verses": [
+                      {
+                        "start": 27,
+                        "end": 27
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "1nephi",
+                "chapters": [
+                  {
+                    "start": 22,
+                    "end": 22,
+                    "verses": [
+                      {
+                        "start": 14,
+                        "end": 14
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "Gen. 24:1; Matt. 6:33.",
+            "prettyString": "Genesis 24:1; Matthew 6:33",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "genesis",
+                "chapters": [
+                  {
+                    "start": 24,
+                    "end": 24,
+                    "verses": [
+                      {
+                        "start": 1,
+                        "end": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "matthew",
+                "chapters": [
+                  {
+                    "start": 6,
+                    "end": 6,
+                    "verses": [
+                      {
+                        "start": 33,
+                        "end": 33
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 28:10",
+        "book": "Proverbs",
+        "chapter": 28,
+        "verse": 10
       },
       {
         "text": "The rich man is wise in his own conceit; but the poor that hath understanding searcheth him out.",
@@ -228,7 +573,14 @@
             "end": 15
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 11,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Proverbs 28:11",
+        "book": "Proverbs",
+        "chapter": 28,
+        "verse": 11
       },
       {
         "text": "When righteous men do rejoice, there is great glory: but when the wicked rise, a man is hidden.",
@@ -249,7 +601,37 @@
             "end": 39
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 12,
+        "crossReferences": [
+          {
+            "raw": "Prov. 11:10.",
+            "prettyString": "Proverbs 11:10",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "proverbs",
+                "chapters": [
+                  {
+                    "start": 11,
+                    "end": 11,
+                    "verses": [
+                      {
+                        "start": 10,
+                        "end": 10
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 28:12",
+        "book": "Proverbs",
+        "chapter": 28,
+        "verse": 12
       },
       {
         "text": "He that covereth his sins shall not prosper: but whoso confesseth and forsaketh them shall have mercy.",
@@ -276,7 +658,43 @@
             "end": 84
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 13,
+        "crossReferences": [
+          {
+            "raw": "TG Confession.",
+            "prettyString": "TG Confession",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Confession",
+                "entryId": "tg-confession",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Repent.",
+            "prettyString": "TG Repent",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Repent",
+                "entryId": "tg-repent",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 28:13",
+        "book": "Proverbs",
+        "chapter": 28,
+        "verse": 13
       },
       {
         "text": "Happy is the man that feareth alway: but he that hardeneth his heart shall fall into mischief.",
@@ -298,7 +716,43 @@
             "end": 8
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 14,
+        "crossReferences": [
+          {
+            "raw": "TG Reverence.",
+            "prettyString": "TG Reverence",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Reverence",
+                "entryId": "tg-reverence",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Hardheartedness.",
+            "prettyString": "TG Hardheartedness",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Hardheartedness",
+                "entryId": "tg-hardheartedness",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 28:14",
+        "book": "Proverbs",
+        "chapter": 28,
+        "verse": 14
       },
       {
         "text": "As a roaring lion, and a ranging bear; so is a wicked ruler over the poor people.",
@@ -319,7 +773,37 @@
             "end": 44
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 15,
+        "crossReferences": [
+          {
+            "raw": "Ezek. 22:25.",
+            "prettyString": "Ezekiel 22:25",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "ezekiel",
+                "chapters": [
+                  {
+                    "start": 22,
+                    "end": 22,
+                    "verses": [
+                      {
+                        "start": 25,
+                        "end": 25
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 28:15",
+        "book": "Proverbs",
+        "chapter": 28,
+        "verse": 15
       },
       {
         "text": "The prince that wanteth understanding is also a great oppressor: but he that hateth covetousness shall prolong his days.",
@@ -344,7 +828,29 @@
             "end": 114
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 16,
+        "crossReferences": [
+          {
+            "raw": "TG Covet.",
+            "prettyString": "TG Covet",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Covet",
+                "entryId": "tg-covet",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 28:16",
+        "book": "Proverbs",
+        "chapter": 28,
+        "verse": 16
       },
       {
         "text": "A man that doeth violence to the blood of any person shall flee to the pit; let no man stay him.",
@@ -366,7 +872,14 @@
             "end": 45
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 17,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Proverbs 28:17",
+        "book": "Proverbs",
+        "chapter": 28,
+        "verse": 17
       },
       {
         "text": "Whoso walketh uprightly shall be saved: but he that is perverse in his ways shall fall at once.",
@@ -387,7 +900,29 @@
             "end": 70
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 18,
+        "crossReferences": [
+          {
+            "raw": "TG Walking with God.",
+            "prettyString": "TG Walking with God",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Walking with God",
+                "entryId": "tg-walking-with-god",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 28:18",
+        "book": "Proverbs",
+        "chapter": 28,
+        "verse": 18
       },
       {
         "text": "He that tilleth his land shall have plenty of bread: but he that followeth after vain persons shall have poverty enough.",
@@ -398,7 +933,14 @@
             "end": 93
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 19,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Proverbs 28:19",
+        "book": "Proverbs",
+        "chapter": 28,
+        "verse": 19
       },
       {
         "text": "A faithful man shall abound with blessings: but he that maketh haste to be rich shall not be innocent.",
@@ -415,7 +957,43 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 20,
+        "crossReferences": [
+          {
+            "raw": "TG Haste.",
+            "prettyString": "TG Haste",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Haste",
+                "entryId": "tg-haste",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Treasure.",
+            "prettyString": "TG Treasure",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Treasure",
+                "entryId": "tg-treasure",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 28:20",
+        "book": "Proverbs",
+        "chapter": 28,
+        "verse": 20
       },
       {
         "text": "To have respect of persons is not good: for for a piece of bread that man will transgress.",
@@ -446,7 +1024,89 @@
             "end": 69
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 21,
+        "crossReferences": [
+          {
+            "raw": "Prov. 24:23; James 2:9.",
+            "prettyString": "Proverbs 24:23; James 2:9",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "proverbs",
+                "chapters": [
+                  {
+                    "start": 24,
+                    "end": 24,
+                    "verses": [
+                      {
+                        "start": 23,
+                        "end": 23
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "james",
+                "chapters": [
+                  {
+                    "start": 2,
+                    "end": 2,
+                    "verses": [
+                      {
+                        "start": 9,
+                        "end": 9
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "Ezek. 13:19.",
+            "prettyString": "Ezekiel 13:19",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "ezekiel",
+                "chapters": [
+                  {
+                    "start": 13,
+                    "end": 13,
+                    "verses": [
+                      {
+                        "start": 19,
+                        "end": 19
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Bread.",
+            "prettyString": "TG Bread",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Bread",
+                "entryId": "tg-bread",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 28:21",
+        "book": "Proverbs",
+        "chapter": 28,
+        "verse": 21
       },
       {
         "text": "He that hasteth to be rich hath an evil eye, and considereth not that poverty shall come upon him.",
@@ -457,7 +1117,14 @@
             "end": 31
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 22,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Proverbs 28:22",
+        "book": "Proverbs",
+        "chapter": 28,
+        "verse": 22
       },
       {
         "text": "He that rebuketh a man afterwards shall find more favour than he that flattereth with the tongue.",
@@ -474,7 +1141,51 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 23,
+        "crossReferences": [
+          {
+            "raw": "Prov. 27:5.",
+            "prettyString": "Proverbs 27:5",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "proverbs",
+                "chapters": [
+                  {
+                    "start": 27,
+                    "end": 27,
+                    "verses": [
+                      {
+                        "start": 5,
+                        "end": 5
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Flatter.",
+            "prettyString": "TG Flatter",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Flatter",
+                "entryId": "tg-flatter",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 28:23",
+        "book": "Proverbs",
+        "chapter": 28,
+        "verse": 23
       },
       {
         "text": "Whoso robbeth his father or his mother, and saith, It is no transgression; the same is the companion of a destroyer.",
@@ -489,7 +1200,14 @@
             "end": 86
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 24,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Proverbs 28:24",
+        "book": "Proverbs",
+        "chapter": 28,
+        "verse": 24
       },
       {
         "text": "He that is of a proud heart stirreth up strife: but he that putteth his trust in the Lord shall be made fat.",
@@ -516,7 +1234,61 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 25,
+        "crossReferences": [
+          {
+            "raw": "TG Strife.",
+            "prettyString": "TG Strife",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Strife",
+                "entryId": "tg-strife",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "D&C 11:12; 84:116.",
+            "prettyString": "D&C 11:12; 84:116",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 11,
+                    "end": 11,
+                    "verses": [
+                      {
+                        "start": 12,
+                        "end": 12
+                      }
+                    ]
+                  },
+                  {
+                    "start": 84,
+                    "end": 84,
+                    "verses": [
+                      {
+                        "start": 116,
+                        "end": 116
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 28:25",
+        "book": "Proverbs",
+        "chapter": 28,
+        "verse": 25
       },
       {
         "text": "He that trusteth in his own heart is a fool: but whoso walketh wisely, he shall be delivered.",
@@ -528,7 +1300,29 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 26,
+        "crossReferences": [
+          {
+            "raw": "TG Trust Not in the Arm of Flesh.",
+            "prettyString": "TG Trust Not in the Arm of Flesh",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Trust Not in the Arm of Flesh",
+                "entryId": "tg-trust-not-in-the-arm-of-flesh",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 28:26",
+        "book": "Proverbs",
+        "chapter": 28,
+        "verse": 26
       },
       {
         "text": "He that giveth unto the poor shall not lack: but he that hideth his eyes shall have many a curse.",
@@ -540,7 +1334,45 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 27,
+        "crossReferences": [
+          {
+            "raw": "TG Almsgiving; Poor; Welfare.",
+            "prettyString": "TG Almsgiving; TG Poor; TG Welfare",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Almsgiving",
+                "entryId": "tg-almsgiving",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Poor",
+                "entryId": "tg-poor",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Welfare",
+                "entryId": "tg-welfare",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 28:27",
+        "book": "Proverbs",
+        "chapter": 28,
+        "verse": 27
       },
       {
         "text": "When the wicked rise, men hide themselves: but when they perish, the righteous increase.",
@@ -552,7 +1384,37 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 28,
+        "crossReferences": [
+          {
+            "raw": "D&C 98:9.",
+            "prettyString": "D&C 98:9",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 98,
+                    "end": 98,
+                    "verses": [
+                      {
+                        "start": 9,
+                        "end": 9
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 28:28",
+        "book": "Proverbs",
+        "chapter": 28,
+        "verse": 28
       }
     ]
   },

@@ -31,7 +31,37 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 1,
+        "crossReferences": [
+          {
+            "raw": "D&C 118:5.",
+            "prettyString": "D&C 118:5",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 118,
+                    "end": 118,
+                    "verses": [
+                      {
+                        "start": 5,
+                        "end": 5
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 114:1",
+        "book": "Doctrine and Covenants",
+        "chapter": 114,
+        "verse": 1
       },
       {
         "text": "For verily thus saith the Lord, that inasmuch as there are those among you who deny my name, others shall be planted in their stead and receive their bishopric. Amen.",
@@ -58,7 +88,71 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 2,
+        "crossReferences": [
+          {
+            "raw": "TG Apostasy of Individuals.",
+            "prettyString": "TG Apostasy of Individuals",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Apostasy of Individuals",
+                "entryId": "tg-apostasy-of-individuals",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "D&C 35:18; 42:10; 64:40.",
+            "prettyString": "D&C 35:18; 42:10; 64:40",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 35,
+                    "end": 35,
+                    "verses": [
+                      {
+                        "start": 18,
+                        "end": 18
+                      }
+                    ]
+                  },
+                  {
+                    "start": 42,
+                    "end": 42,
+                    "verses": [
+                      {
+                        "start": 10,
+                        "end": 10
+                      }
+                    ]
+                  },
+                  {
+                    "start": 64,
+                    "end": 64,
+                    "verses": [
+                      {
+                        "start": 40,
+                        "end": 40
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 114:2",
+        "book": "Doctrine and Covenants",
+        "chapter": 114,
+        "verse": 2
       }
     ]
   },

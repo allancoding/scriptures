@@ -36,7 +36,14 @@
             "end": 45
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 1,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 86:1",
+        "book": "Psalms",
+        "chapter": 86,
+        "verse": 1
       },
       {
         "text": "Preserve my soul; for I am holy: O thou my God, save thy servant that trusteth in thee.",
@@ -53,13 +60,27 @@
             "end": 26
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 2,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 86:2",
+        "book": "Psalms",
+        "chapter": 86,
+        "verse": 2
       },
       {
         "text": "Be merciful unto me, O Lord: for I cry unto thee daily.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 3,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 86:3",
+        "book": "Psalms",
+        "chapter": 86,
+        "verse": 3
       },
       {
         "text": "Rejoice the soul of thy servant: for unto thee, O Lord, do I lift up my soul.",
@@ -71,7 +92,47 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 4,
+        "crossReferences": [
+          {
+            "raw": "Ps. 25:1; 143:8.",
+            "prettyString": "Psalms 25:1; 143:8",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "psalms",
+                "chapters": [
+                  {
+                    "start": 25,
+                    "end": 25,
+                    "verses": [
+                      {
+                        "start": 1,
+                        "end": 1
+                      }
+                    ]
+                  },
+                  {
+                    "start": 143,
+                    "end": 143,
+                    "verses": [
+                      {
+                        "start": 8,
+                        "end": 8
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 86:4",
+        "book": "Psalms",
+        "chapter": 86,
+        "verse": 4
       },
       {
         "text": "For thou, Lord, art good, and ready to forgive; and plenteous in mercy unto all them that call upon thee.",
@@ -88,13 +149,42 @@
             "end": 19
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 5,
+        "crossReferences": [
+          {
+            "raw": "TG Forgive.",
+            "prettyString": "TG Forgive",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Forgive",
+                "entryId": "tg-forgive",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 86:5",
+        "book": "Psalms",
+        "chapter": 86,
+        "verse": 5
       },
       {
         "text": "Give ear, O Lord, unto my prayer; and attend to the voice of my supplications.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 6,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 86:6",
+        "book": "Psalms",
+        "chapter": 86,
+        "verse": 6
       },
       {
         "text": "In the day of my trouble I will call upon thee: for thou wilt answer me.",
@@ -106,7 +196,37 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 7,
+        "crossReferences": [
+          {
+            "raw": "Ps. 77:2.",
+            "prettyString": "Psalms 77:2",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "psalms",
+                "chapters": [
+                  {
+                    "start": 77,
+                    "end": 77,
+                    "verses": [
+                      {
+                        "start": 2,
+                        "end": 2
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 86:7",
+        "book": "Psalms",
+        "chapter": 86,
+        "verse": 7
       },
       {
         "text": "Among the gods there is none like unto thee, O Lord; neither are there any works like unto thy works.",
@@ -127,7 +247,37 @@
             "end": 80
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 8,
+        "crossReferences": [
+          {
+            "raw": "Ex. 15:11.",
+            "prettyString": "Exodus 15:11",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "exodus",
+                "chapters": [
+                  {
+                    "start": 15,
+                    "end": 15,
+                    "verses": [
+                      {
+                        "start": 11,
+                        "end": 11
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 86:8",
+        "book": "Psalms",
+        "chapter": 86,
+        "verse": 8
       },
       {
         "text": "All nations whom thou hast made shall come and worship before thee, O Lord; and shall glorify thy name.",
@@ -149,7 +299,59 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 9,
+        "crossReferences": [
+          {
+            "raw": "D&C 88:104.",
+            "prettyString": "D&C 88:104",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 88,
+                    "end": 88,
+                    "verses": [
+                      {
+                        "start": 104,
+                        "end": 104
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "Ps. 65:2.",
+            "prettyString": "Psalms 65:2",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "psalms",
+                "chapters": [
+                  {
+                    "start": 65,
+                    "end": 65,
+                    "verses": [
+                      {
+                        "start": 2,
+                        "end": 2
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 86:9",
+        "book": "Psalms",
+        "chapter": 86,
+        "verse": 9
       },
       {
         "text": "For thou art great, and doest wondrous things: thou art God alone.",
@@ -164,7 +366,14 @@
             "end": 55
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 10,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 86:10",
+        "book": "Psalms",
+        "chapter": 86,
+        "verse": 10
       },
       {
         "text": "Teach me thy way, O Lord; I will walk in thy truth: unite my heart to fear thy name.",
@@ -176,13 +385,50 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 11,
+        "crossReferences": [
+          {
+            "raw": "1 Kgs. 8:36.",
+            "prettyString": "1 Kings 8:36",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "1kings",
+                "chapters": [
+                  {
+                    "start": 8,
+                    "end": 8,
+                    "verses": [
+                      {
+                        "start": 36,
+                        "end": 36
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 86:11",
+        "book": "Psalms",
+        "chapter": 86,
+        "verse": 11
       },
       {
         "text": "I will praise thee, O Lord my God, with all my heart: and I will glorify thy name for evermore.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 12,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 86:12",
+        "book": "Psalms",
+        "chapter": 86,
+        "verse": 12
       },
       {
         "text": "For great is thy mercy toward me: and thou hast delivered my soul from the lowest hell.",
@@ -199,7 +445,53 @@
             "end": 12
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 13,
+        "crossReferences": [
+          {
+            "raw": "Ps. 30:3; Acts 2:34.",
+            "prettyString": "Psalms 30:3; Acts 2:34",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "psalms",
+                "chapters": [
+                  {
+                    "start": 30,
+                    "end": 30,
+                    "verses": [
+                      {
+                        "start": 3,
+                        "end": 3
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "acts",
+                "chapters": [
+                  {
+                    "start": 2,
+                    "end": 2,
+                    "verses": [
+                      {
+                        "start": 34,
+                        "end": 34
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 86:13",
+        "book": "Psalms",
+        "chapter": 86,
+        "verse": 13
       },
       {
         "text": "O God, the proud are risen against me, and the assemblies of violent men have sought after my soul; and have not set thee before them.",
@@ -216,7 +508,37 @@
             "end": 72
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 14,
+        "crossReferences": [
+          {
+            "raw": "Ps. 54:3.",
+            "prettyString": "Psalms 54:3",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "psalms",
+                "chapters": [
+                  {
+                    "start": 54,
+                    "end": 54,
+                    "verses": [
+                      {
+                        "start": 3,
+                        "end": 3
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 86:14",
+        "book": "Psalms",
+        "chapter": 86,
+        "verse": 14
       },
       {
         "text": "But thou, O Lord, art a God full of compassion, and gracious, longsuffering, and plenteous in mercy and truth.",
@@ -243,13 +565,110 @@
             "end": 21
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 15,
+        "crossReferences": [
+          {
+            "raw": "Num. 14:18; Ps. 103:8.",
+            "prettyString": "Numbers 14:18; Psalms 103:8",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "numbers",
+                "chapters": [
+                  {
+                    "start": 14,
+                    "end": 14,
+                    "verses": [
+                      {
+                        "start": 18,
+                        "end": 18
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "psalms",
+                "chapters": [
+                  {
+                    "start": 103,
+                    "end": 103,
+                    "verses": [
+                      {
+                        "start": 8,
+                        "end": 8
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "Ps. 145:8.",
+            "prettyString": "Psalms 145:8",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "psalms",
+                "chapters": [
+                  {
+                    "start": 145,
+                    "end": 145,
+                    "verses": [
+                      {
+                        "start": 8,
+                        "end": 8
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "Ps. 62:12.",
+            "prettyString": "Psalms 62:12",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "psalms",
+                "chapters": [
+                  {
+                    "start": 62,
+                    "end": 62,
+                    "verses": [
+                      {
+                        "start": 12,
+                        "end": 12
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 86:15",
+        "book": "Psalms",
+        "chapter": 86,
+        "verse": 15
       },
       {
         "text": "O turn unto me, and have mercy upon me; give thy strength unto thy servant, and save the son of thine handmaid.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 16,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 86:16",
+        "book": "Psalms",
+        "chapter": 86,
+        "verse": 16
       },
       {
         "text": "Shew me a token for good; that they which hate me may see it, and be ashamed: because thou, Lord, hast holpen me, and comforted me.",
@@ -260,7 +679,14 @@
             "end": 61
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 17,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 86:17",
+        "book": "Psalms",
+        "chapter": 86,
+        "verse": 17
       }
     ]
   },

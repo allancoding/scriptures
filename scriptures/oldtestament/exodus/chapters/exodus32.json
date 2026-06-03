@@ -46,7 +46,123 @@
             "end": 199
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 1,
+        "crossReferences": [
+          {
+            "raw": "Ex. 24:18; 34:28; Deut. 9:9.",
+            "prettyString": "Exodus 24:18; 34:28; Deuteronomy 9:9",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "exodus",
+                "chapters": [
+                  {
+                    "start": 24,
+                    "end": 24,
+                    "verses": [
+                      {
+                        "start": 18,
+                        "end": 18
+                      }
+                    ]
+                  },
+                  {
+                    "start": 34,
+                    "end": 34,
+                    "verses": [
+                      {
+                        "start": 28,
+                        "end": 28
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "deuteronomy",
+                "chapters": [
+                  {
+                    "start": 9,
+                    "end": 9,
+                    "verses": [
+                      {
+                        "start": 9,
+                        "end": 9
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "Ex. 32:23; Acts 7:40.",
+            "prettyString": "Exodus 32:23; Acts 7:40",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "exodus",
+                "chapters": [
+                  {
+                    "start": 32,
+                    "end": 32,
+                    "verses": [
+                      {
+                        "start": 23,
+                        "end": 23
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "acts",
+                "chapters": [
+                  {
+                    "start": 7,
+                    "end": 7,
+                    "verses": [
+                      {
+                        "start": 40,
+                        "end": 40
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "Ex. 13:21.",
+            "prettyString": "Exodus 13:21",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "exodus",
+                "chapters": [
+                  {
+                    "start": 13,
+                    "end": 13,
+                    "verses": [
+                      {
+                        "start": 21,
+                        "end": 21
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Exodus 32:1",
+        "book": "Exodus",
+        "chapter": 32,
+        "verse": 1
       },
       {
         "text": "And Aaron said unto them, Break off the golden earrings, which are in the ears of your wives, of your sons, and of your daughters, and bring them unto me.",
@@ -67,7 +183,14 @@
             "end": 145
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 2,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Exodus 32:2",
+        "book": "Exodus",
+        "chapter": 32,
+        "verse": 2
       },
       {
         "text": "And all the people brake off the golden earrings which were in their ears, and brought them unto Aaron.",
@@ -82,7 +205,14 @@
             "end": 91
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 3,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Exodus 32:3",
+        "book": "Exodus",
+        "chapter": 32,
+        "verse": 3
       },
       {
         "text": "And he received them at their hand, and fashioned it with a graving tool, after he had made it a molten calf: and they said, These be thy gods, O Israel, which brought thee up out of the land of Egypt.",
@@ -113,7 +243,91 @@
             "end": 133
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 4,
+        "crossReferences": [
+          {
+            "raw": "Neh. 9:18; Ps. 106:19; D&C 124:84.",
+            "prettyString": "Nehemiah 9:18; Psalms 106:19; D&C 124:84",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "nehemiah",
+                "chapters": [
+                  {
+                    "start": 9,
+                    "end": 9,
+                    "verses": [
+                      {
+                        "start": 18,
+                        "end": 18
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "psalms",
+                "chapters": [
+                  {
+                    "start": 106,
+                    "end": 106,
+                    "verses": [
+                      {
+                        "start": 19,
+                        "end": 19
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 124,
+                    "end": 124,
+                    "verses": [
+                      {
+                        "start": 84,
+                        "end": 84
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "Alma 30:53.",
+            "prettyString": "Alma 30:53",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "alma",
+                "chapters": [
+                  {
+                    "start": 30,
+                    "end": 30,
+                    "verses": [
+                      {
+                        "start": 53,
+                        "end": 53
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Exodus 32:4",
+        "book": "Exodus",
+        "chapter": 32,
+        "verse": 4
       },
       {
         "text": "And when Aaron saw it, he built an altar before it; and Aaron made proclamation, and said, To morrow is a feast to the Lord.",
@@ -128,7 +342,14 @@
             "end": 103
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 5,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Exodus 32:5",
+        "book": "Exodus",
+        "chapter": 32,
+        "verse": 5
       },
       {
         "text": "And they rose up early on the morrow, and offered burnt offerings, and brought peace offerings; and the people sat down to eat and to drink, and rose up to play.",
@@ -145,7 +366,37 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 6,
+        "crossReferences": [
+          {
+            "raw": "1 Cor. 10:7.",
+            "prettyString": "1 Corinthians 10:7",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "1corinthians",
+                "chapters": [
+                  {
+                    "start": 10,
+                    "end": 10,
+                    "verses": [
+                      {
+                        "start": 7,
+                        "end": 7
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Exodus 32:6",
+        "book": "Exodus",
+        "chapter": 32,
+        "verse": 6
       },
       {
         "text": "And the Lord said unto Moses, Go, get thee down; for thy people, which thou broughtest out of the land of Egypt, have corrupted themselves:",
@@ -162,7 +413,14 @@
             "end": 139
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 7,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Exodus 32:7",
+        "book": "Exodus",
+        "chapter": 32,
+        "verse": 7
       },
       {
         "text": "They have turned aside quickly out of the way which I commanded them: they have made them a molten calf, and have worshipped it, and have sacrificed thereunto, and said, These be thy gods, O Israel, which have brought thee up out of the land of Egypt.",
@@ -189,7 +447,14 @@
             "end": 178
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 8,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Exodus 32:8",
+        "book": "Exodus",
+        "chapter": 32,
+        "verse": 8
       },
       {
         "text": "And the Lord said unto Moses, I have seen this people, and, behold, it is a stiffnecked people:",
@@ -206,7 +471,37 @@
             "end": 73
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 9,
+        "crossReferences": [
+          {
+            "raw": "TG Apostasy of Israel; Stiffnecked.",
+            "prettyString": "TG Apostasy of Israel; TG Stiffnecked",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Apostasy of Israel",
+                "entryId": "tg-apostasy-of-israel",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Stiffnecked",
+                "entryId": "tg-stiffnecked",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Exodus 32:9",
+        "book": "Exodus",
+        "chapter": 32,
+        "verse": 9
       },
       {
         "text": "Now therefore let me alone, that my wrath may wax hot against them, and that I may consume them: and I will make of thee a great nation.",
@@ -228,7 +523,75 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 10,
+        "crossReferences": [
+          {
+            "raw": "Ex. 22:24; D&C 84:24.",
+            "prettyString": "Exodus 22:24; D&C 84:24",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "exodus",
+                "chapters": [
+                  {
+                    "start": 22,
+                    "end": 22,
+                    "verses": [
+                      {
+                        "start": 24,
+                        "end": 24
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 84,
+                    "end": 84,
+                    "verses": [
+                      {
+                        "start": 24,
+                        "end": 24
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "Num. 14:12.",
+            "prettyString": "Numbers 14:12",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "numbers",
+                "chapters": [
+                  {
+                    "start": 14,
+                    "end": 14,
+                    "verses": [
+                      {
+                        "start": 12,
+                        "end": 12
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Exodus 32:10",
+        "book": "Exodus",
+        "chapter": 32,
+        "verse": 10
       },
       {
         "text": "And Moses besought the Lord his God, and said, Lord, why doth thy wrath wax hot against thy people, which thou hast brought forth out of the land of Egypt with great power, and with a mighty hand?",
@@ -240,7 +603,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 11,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Exodus 32:11",
+        "book": "Exodus",
+        "chapter": 32,
+        "verse": 11
       },
       {
         "text": "Wherefore should the Egyptians speak, and say, For mischief did he bring them out, to slay them in the mountains, and to consume them from the face of the earth? Turn from thy fierce wrath, and repent of this evil against thy people.",
@@ -262,7 +632,69 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 12,
+        "crossReferences": [
+          {
+            "raw": "Gen. 6:6; Ex. 32:14; Deut. 9:19.",
+            "prettyString": "Genesis 6:6; Exodus 32:14; Deuteronomy 9:19",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "genesis",
+                "chapters": [
+                  {
+                    "start": 6,
+                    "end": 6,
+                    "verses": [
+                      {
+                        "start": 6,
+                        "end": 6
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "exodus",
+                "chapters": [
+                  {
+                    "start": 32,
+                    "end": 32,
+                    "verses": [
+                      {
+                        "start": 14,
+                        "end": 14
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "deuteronomy",
+                "chapters": [
+                  {
+                    "start": 9,
+                    "end": 9,
+                    "verses": [
+                      {
+                        "start": 19,
+                        "end": 19
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Exodus 32:12",
+        "book": "Exodus",
+        "chapter": 32,
+        "verse": 12
       },
       {
         "text": "Remember Abraham, Isaac, and Israel, thy servants, to whom thou swarest by thine own self, and saidst unto them, I will multiply your seed as the stars of heaven, and all this land that I have spoken of will I give unto your seed, and they shall inherit it for ever.",
@@ -299,7 +731,103 @@
             "end": 256
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 13,
+        "crossReferences": [
+          {
+            "raw": "2 Kgs. 13:23.",
+            "prettyString": "2 Kings 13:23",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "2kings",
+                "chapters": [
+                  {
+                    "start": 13,
+                    "end": 13,
+                    "verses": [
+                      {
+                        "start": 23,
+                        "end": 23
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "D&C 27:10; Abr. 1:2.",
+            "prettyString": "D&C 27:10; Abraham 1:2",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 27,
+                    "end": 27,
+                    "verses": [
+                      {
+                        "start": 10,
+                        "end": 10
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "abraham",
+                "chapters": [
+                  {
+                    "start": 1,
+                    "end": 1,
+                    "verses": [
+                      {
+                        "start": 2,
+                        "end": 2
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Seed of Abraham.",
+            "prettyString": "TG Seed of Abraham",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Seed of Abraham",
+                "entryId": "tg-seed-of-abraham",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Promised Lands.",
+            "prettyString": "TG Promised Lands",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Promised Lands",
+                "entryId": "tg-promised-lands",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Exodus 32:13",
+        "book": "Exodus",
+        "chapter": 32,
+        "verse": 13
       },
       {
         "text": "And the Lord repented of the evil which he thought to do unto his people.",
@@ -316,7 +844,69 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 14,
+        "crossReferences": [
+          {
+            "raw": "Gen. 6:6; Ex. 32:12; Num. 23:19.",
+            "prettyString": "Genesis 6:6; Exodus 32:12; Numbers 23:19",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "genesis",
+                "chapters": [
+                  {
+                    "start": 6,
+                    "end": 6,
+                    "verses": [
+                      {
+                        "start": 6,
+                        "end": 6
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "exodus",
+                "chapters": [
+                  {
+                    "start": 32,
+                    "end": 32,
+                    "verses": [
+                      {
+                        "start": 12,
+                        "end": 12
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "numbers",
+                "chapters": [
+                  {
+                    "start": 23,
+                    "end": 23,
+                    "verses": [
+                      {
+                        "start": 19,
+                        "end": 19
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Exodus 32:14",
+        "book": "Exodus",
+        "chapter": 32,
+        "verse": 14
       },
       {
         "text": "And Moses turned, and went down from the mount, and the two tables of the testimony were in his hand: the tables were written on both their sides; on the one side and on the other were they written.",
@@ -341,7 +931,63 @@
             "end": 184
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 15,
+        "crossReferences": [
+          {
+            "raw": "Ex. 24:12; 34:29; Deut. 4:13.",
+            "prettyString": "Exodus 24:12; 34:29; Deuteronomy 4:13",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "exodus",
+                "chapters": [
+                  {
+                    "start": 24,
+                    "end": 24,
+                    "verses": [
+                      {
+                        "start": 12,
+                        "end": 12
+                      }
+                    ]
+                  },
+                  {
+                    "start": 34,
+                    "end": 34,
+                    "verses": [
+                      {
+                        "start": 29,
+                        "end": 29
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "deuteronomy",
+                "chapters": [
+                  {
+                    "start": 4,
+                    "end": 4,
+                    "verses": [
+                      {
+                        "start": 13,
+                        "end": 13
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Exodus 32:15",
+        "book": "Exodus",
+        "chapter": 32,
+        "verse": 15
       },
       {
         "text": "And the tables were the work of God, and the writing was the writing of God, graven upon the tables.",
@@ -367,7 +1013,43 @@
             "end": 56
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 16,
+        "crossReferences": [
+          {
+            "raw": "TG Law of Moses.",
+            "prettyString": "TG Law of Moses",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Law of Moses",
+                "entryId": "tg-law-of-moses",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Scriptures, Writing of.",
+            "prettyString": "TG Scriptures, Writing of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Scriptures, Writing of",
+                "entryId": "tg-scriptures-writing-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Exodus 32:16",
+        "book": "Exodus",
+        "chapter": 32,
+        "verse": 16
       },
       {
         "text": "And when Joshua heard the noise of the people as they shouted, he said unto Moses, There is a noise of war in the camp.",
@@ -389,7 +1071,71 @@
             "end": 91
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 17,
+        "crossReferences": [
+          {
+            "raw": "Ex. 17:9; 24:13; 33:11.",
+            "prettyString": "Exodus 17:9; 24:13; 33:11",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "exodus",
+                "chapters": [
+                  {
+                    "start": 17,
+                    "end": 17,
+                    "verses": [
+                      {
+                        "start": 9,
+                        "end": 9
+                      }
+                    ]
+                  },
+                  {
+                    "start": 24,
+                    "end": 24,
+                    "verses": [
+                      {
+                        "start": 13,
+                        "end": 13
+                      }
+                    ]
+                  },
+                  {
+                    "start": 33,
+                    "end": 33,
+                    "verses": [
+                      {
+                        "start": 11,
+                        "end": 11
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Rioting and Reveling.",
+            "prettyString": "TG Rioting and Reveling",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Rioting and Reveling",
+                "entryId": "tg-rioting-and-reveling",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Exodus 32:17",
+        "book": "Exodus",
+        "chapter": 32,
+        "verse": 17
       },
       {
         "text": "And he said, It is not the voice of them that shout for mastery, neither is it the voice of them that cry for being overcome: but the noise of them that sing do I hear.",
@@ -426,7 +1172,14 @@
             "end": 152
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 18,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Exodus 32:18",
+        "book": "Exodus",
+        "chapter": 32,
+        "verse": 18
       },
       {
         "text": "And it came to pass, as soon as he came nigh unto the camp, that he saw the calf, and the dancing: and Moses’ anger waxed hot, and he cast the tables out of his hands, and brake them beneath the mount.",
@@ -448,7 +1201,29 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 19,
+        "crossReferences": [
+          {
+            "raw": "TG Anger.",
+            "prettyString": "TG Anger",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Anger",
+                "entryId": "tg-anger",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Exodus 32:19",
+        "book": "Exodus",
+        "chapter": 32,
+        "verse": 19
       },
       {
         "text": "And he took the calf which they had made, and burnt it in the fire, and ground it to powder, and strawed it upon the water, and made the children of Israel drink of it.",
@@ -487,13 +1262,72 @@
             "end": 168
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 20,
+        "crossReferences": [
+          {
+            "raw": "Deut. 9:21.",
+            "prettyString": "Deuteronomy 9:21",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "deuteronomy",
+                "chapters": [
+                  {
+                    "start": 9,
+                    "end": 9,
+                    "verses": [
+                      {
+                        "start": 21,
+                        "end": 21
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "Deut. 9:21.",
+            "prettyString": "Deuteronomy 9:21",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "deuteronomy",
+                "chapters": [
+                  {
+                    "start": 9,
+                    "end": 9,
+                    "verses": [
+                      {
+                        "start": 21,
+                        "end": 21
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Exodus 32:20",
+        "book": "Exodus",
+        "chapter": 32,
+        "verse": 20
       },
       {
         "text": "And Moses said unto Aaron, What did this people unto thee, that thou hast brought so great a sin upon them?",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 21,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Exodus 32:21",
+        "book": "Exodus",
+        "chapter": 32,
+        "verse": 21
       },
       {
         "text": "And Aaron said, Let not the anger of my lord wax hot: thou knowest the people, that they are set on mischief.",
@@ -524,7 +1358,53 @@
             "end": 96
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 22,
+        "crossReferences": [
+          {
+            "raw": "Gen. 44:18; Deut. 9:20.",
+            "prettyString": "Genesis 44:18; Deuteronomy 9:20",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "genesis",
+                "chapters": [
+                  {
+                    "start": 44,
+                    "end": 44,
+                    "verses": [
+                      {
+                        "start": 18,
+                        "end": 18
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "deuteronomy",
+                "chapters": [
+                  {
+                    "start": 9,
+                    "end": 9,
+                    "verses": [
+                      {
+                        "start": 20,
+                        "end": 20
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Exodus 32:22",
+        "book": "Exodus",
+        "chapter": 32,
+        "verse": 22
       },
       {
         "text": "For they said unto me, Make us gods, which shall go before us: for as for this Moses, the man that brought us up out of the land of Egypt, we wot not what is become of him.",
@@ -546,7 +1426,75 @@
             "end": 73
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 23,
+        "crossReferences": [
+          {
+            "raw": "Acts 7:40; 1 Ne. 17:42.",
+            "prettyString": "Acts 7:40; 1 Nephi 17:42",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "acts",
+                "chapters": [
+                  {
+                    "start": 7,
+                    "end": 7,
+                    "verses": [
+                      {
+                        "start": 40,
+                        "end": 40
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "1nephi",
+                "chapters": [
+                  {
+                    "start": 17,
+                    "end": 17,
+                    "verses": [
+                      {
+                        "start": 42,
+                        "end": 42
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "Ex. 32:1.",
+            "prettyString": "Exodus 32:1",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "exodus",
+                "chapters": [
+                  {
+                    "start": 32,
+                    "end": 32,
+                    "verses": [
+                      {
+                        "start": 1,
+                        "end": 1
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Exodus 32:23",
+        "book": "Exodus",
+        "chapter": 32,
+        "verse": 23
       },
       {
         "text": "And I said unto them, Whosoever hath any gold, let them break it off. So they gave it me: then I cast it into the fire, and there came out this calf.",
@@ -561,7 +1509,14 @@
             "end": 85
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 24,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Exodus 32:24",
+        "book": "Exodus",
+        "chapter": 32,
+        "verse": 24
       },
       {
         "text": "And when Moses saw that the people were naked; (for Aaron had made them naked unto their shame among their enemies:)",
@@ -587,7 +1542,69 @@
             "end": 88
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 25,
+        "crossReferences": [
+          {
+            "raw": "2 Chr. 28:19; 2 Ne. 9:14; Morm. 9:5.",
+            "prettyString": "2 Chronicles 28:19; 2 Nephi 9:14; Mormon 9:5",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "2chronicles",
+                "chapters": [
+                  {
+                    "start": 28,
+                    "end": 28,
+                    "verses": [
+                      {
+                        "start": 19,
+                        "end": 19
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "2nephi",
+                "chapters": [
+                  {
+                    "start": 9,
+                    "end": 9,
+                    "verses": [
+                      {
+                        "start": 14,
+                        "end": 14
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "mormon",
+                "chapters": [
+                  {
+                    "start": 9,
+                    "end": 9,
+                    "verses": [
+                      {
+                        "start": 5,
+                        "end": 5
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Exodus 32:25",
+        "book": "Exodus",
+        "chapter": 32,
+        "verse": 25
       },
       {
         "text": "Then Moses stood in the gate of the camp, and said, Who is on the Lord’s side? let him come unto me. And all the sons of Levi gathered themselves together unto him.",
@@ -602,7 +1619,14 @@
             "end": 91
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 26,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Exodus 32:26",
+        "book": "Exodus",
+        "chapter": 32,
+        "verse": 26
       },
       {
         "text": "And he said unto them, Thus saith the Lord God of Israel, Put every man his sword by his side, and go in and out from gate to gate throughout the camp, and slay every man his brother, and every man his companion, and every man his neighbour.",
@@ -619,13 +1643,50 @@
             "end": 98
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 27,
+        "crossReferences": [
+          {
+            "raw": "Num. 25:5.",
+            "prettyString": "Numbers 25:5",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "numbers",
+                "chapters": [
+                  {
+                    "start": 25,
+                    "end": 25,
+                    "verses": [
+                      {
+                        "start": 5,
+                        "end": 5
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Exodus 32:27",
+        "book": "Exodus",
+        "chapter": 32,
+        "verse": 27
       },
       {
         "text": "And the children of Levi did according to the word of Moses: and there fell of the people that day about three thousand men.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 28,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Exodus 32:28",
+        "book": "Exodus",
+        "chapter": 32,
+        "verse": 28
       },
       {
         "text": "For Moses had said, Consecrate yourselves to day to the Lord, even every man upon his son, and upon his brother; that he may bestow upon you a blessing this day.",
@@ -647,7 +1708,61 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 29,
+        "crossReferences": [
+          {
+            "raw": "TG Dedication.",
+            "prettyString": "TG Dedication",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Dedication",
+                "entryId": "tg-dedication",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "D&C 130:20; 132:5.",
+            "prettyString": "D&C 130:20; 132:5",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 130,
+                    "end": 130,
+                    "verses": [
+                      {
+                        "start": 20,
+                        "end": 20
+                      }
+                    ]
+                  },
+                  {
+                    "start": 132,
+                    "end": 132,
+                    "verses": [
+                      {
+                        "start": 5,
+                        "end": 5
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Exodus 32:29",
+        "book": "Exodus",
+        "chapter": 32,
+        "verse": 29
       },
       {
         "text": "And it came to pass on the morrow, that Moses said unto the people, Ye have sinned a great sin: and now I will go up unto the Lord; peradventure I shall make an atonement for your sin.",
@@ -669,7 +1784,37 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 30,
+        "crossReferences": [
+          {
+            "raw": "Num. 25:13.",
+            "prettyString": "Numbers 25:13",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "numbers",
+                "chapters": [
+                  {
+                    "start": 25,
+                    "end": 25,
+                    "verses": [
+                      {
+                        "start": 13,
+                        "end": 13
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Exodus 32:30",
+        "book": "Exodus",
+        "chapter": 32,
+        "verse": 30
       },
       {
         "text": "And Moses returned unto the Lord, and said, Oh, this people have sinned a great sin, and have made them gods of gold.",
@@ -681,7 +1826,29 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 31,
+        "crossReferences": [
+          {
+            "raw": "TG Worship.",
+            "prettyString": "TG Worship",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Worship",
+                "entryId": "tg-worship",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Exodus 32:31",
+        "book": "Exodus",
+        "chapter": 32,
+        "verse": 31
       },
       {
         "text": "Yet now, if thou wilt forgive their sin—; and if not, blot me, I pray thee, out of thy book which thou hast written.",
@@ -708,7 +1875,81 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 32,
+        "crossReferences": [
+          {
+            "raw": "Rom. 9:3.",
+            "prettyString": "Romans 9:3",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "romans",
+                "chapters": [
+                  {
+                    "start": 9,
+                    "end": 9,
+                    "verses": [
+                      {
+                        "start": 3,
+                        "end": 3
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "Ps. 139:16.",
+            "prettyString": "Psalms 139:16",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "psalms",
+                "chapters": [
+                  {
+                    "start": 139,
+                    "end": 139,
+                    "verses": [
+                      {
+                        "start": 16,
+                        "end": 16
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "Luke 10:20.",
+            "prettyString": "Luke 10:20",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "luke",
+                "chapters": [
+                  {
+                    "start": 10,
+                    "end": 10,
+                    "verses": [
+                      {
+                        "start": 20,
+                        "end": 20
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Exodus 32:32",
+        "book": "Exodus",
+        "chapter": 32,
+        "verse": 32
       },
       {
         "text": "And the Lord said unto Moses, Whosoever hath sinned against me, him will I blot out of my book.",
@@ -735,7 +1976,161 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 33,
+        "crossReferences": [
+          {
+            "raw": "A of F 1:2.",
+            "prettyString": "AofF 1:2",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "articlesoffaith",
+                "chapters": [
+                  {
+                    "start": 1,
+                    "end": 1,
+                    "verses": [
+                      {
+                        "start": 2,
+                        "end": 2
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Accountability.",
+            "prettyString": "TG Accountability",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Accountability",
+                "entryId": "tg-accountability",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "Mosiah 26:36; Alma 1:24; 6:3; Moro. 6:7; D&C 20:83.",
+            "prettyString": "Mosiah 26:36; Alma 1:24; 6:3; Moroni 6:7; D&C 20:83",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "mosiah",
+                "chapters": [
+                  {
+                    "start": 26,
+                    "end": 26,
+                    "verses": [
+                      {
+                        "start": 36,
+                        "end": 36
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "alma",
+                "chapters": [
+                  {
+                    "start": 1,
+                    "end": 1,
+                    "verses": [
+                      {
+                        "start": 24,
+                        "end": 24
+                      }
+                    ]
+                  },
+                  {
+                    "start": 6,
+                    "end": 6,
+                    "verses": [
+                      {
+                        "start": 3,
+                        "end": 3
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "moroni",
+                "chapters": [
+                  {
+                    "start": 6,
+                    "end": 6,
+                    "verses": [
+                      {
+                        "start": 7,
+                        "end": 7
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 20,
+                    "end": 20,
+                    "verses": [
+                      {
+                        "start": 83,
+                        "end": 83
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Book of Life; Book of Remembrance; Record Keeping.",
+            "prettyString": "TG Book of Life; TG Book of Remembrance; TG Record Keeping",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Book of Life",
+                "entryId": "tg-book-of-life",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Book of Remembrance",
+                "entryId": "tg-book-of-remembrance",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Record Keeping",
+                "entryId": "tg-record-keeping",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Exodus 32:33",
+        "book": "Exodus",
+        "chapter": 32,
+        "verse": 33
       },
       {
         "text": "Therefore now go, lead the people unto the place of which I have spoken unto thee: behold, mine Angel shall go before thee: nevertheless in the day when I visit I will visit their sin upon them.",
@@ -757,13 +2152,72 @@
             "end": 48
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 34,
+        "crossReferences": [
+          {
+            "raw": "Ex. 33:12.",
+            "prettyString": "Exodus 33:12",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "exodus",
+                "chapters": [
+                  {
+                    "start": 33,
+                    "end": 33,
+                    "verses": [
+                      {
+                        "start": 12,
+                        "end": 12
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "Num. 20:16.",
+            "prettyString": "Numbers 20:16",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "numbers",
+                "chapters": [
+                  {
+                    "start": 20,
+                    "end": 20,
+                    "verses": [
+                      {
+                        "start": 16,
+                        "end": 16
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Exodus 32:34",
+        "book": "Exodus",
+        "chapter": 32,
+        "verse": 34
       },
       {
         "text": "And the Lord plagued the people, because they made the calf, which Aaron made.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 35,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Exodus 32:35",
+        "book": "Exodus",
+        "chapter": 32,
+        "verse": 35
       }
     ]
   },

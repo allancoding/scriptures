@@ -46,7 +46,125 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 1,
+        "crossReferences": [
+          {
+            "raw": "Mark 12:36; Luke 20:42.",
+            "prettyString": "Mark 12:36; Luke 20:42",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "mark",
+                "chapters": [
+                  {
+                    "start": 12,
+                    "end": 12,
+                    "verses": [
+                      {
+                        "start": 36,
+                        "end": 36
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "luke",
+                "chapters": [
+                  {
+                    "start": 20,
+                    "end": 20,
+                    "verses": [
+                      {
+                        "start": 42,
+                        "end": 42
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "Acts 2:34.",
+            "prettyString": "Acts 2:34",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "acts",
+                "chapters": [
+                  {
+                    "start": 2,
+                    "end": 2,
+                    "verses": [
+                      {
+                        "start": 34,
+                        "end": 34
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "Heb. 1:13.",
+            "prettyString": "Hebrews 1:13",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "hebrews",
+                "chapters": [
+                  {
+                    "start": 1,
+                    "end": 1,
+                    "verses": [
+                      {
+                        "start": 13,
+                        "end": 13
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Celestial Glory.",
+            "prettyString": "TG Celestial Glory",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Celestial Glory",
+                "entryId": "tg-celestial-glory",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Enemies.",
+            "prettyString": "TG Enemies",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Enemies",
+                "entryId": "tg-enemies",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 110:1",
+        "book": "Psalms",
+        "chapter": 110,
+        "verse": 1
       },
       {
         "text": "The Lord shall send the rod of thy strength out of Zion: rule thou in the midst of thine enemies.",
@@ -58,7 +176,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 2,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 110:2",
+        "book": "Psalms",
+        "chapter": 110,
+        "verse": 2
       },
       {
         "text": "Thy people shall be willing in the day of thy power, in the beauties of holiness from the womb of the morning: thou hast the dew of thy youth.",
@@ -69,7 +194,14 @@
             "end": 19
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 3,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 110:3",
+        "book": "Psalms",
+        "chapter": 110,
+        "verse": 3
       },
       {
         "text": "The Lord hath sworn, and will not repent, Thou art a priest for ever after the order of Melchizedek.",
@@ -101,13 +233,124 @@
             "end": 50
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 4,
+        "crossReferences": [
+          {
+            "raw": "TG Oath.",
+            "prettyString": "TG Oath",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Oath",
+                "entryId": "tg-oath",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "1 Sam. 15:35; Ps. 135:14.",
+            "prettyString": "1 Samuel 15:35; Psalms 135:14",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "1samuel",
+                "chapters": [
+                  {
+                    "start": 15,
+                    "end": 15,
+                    "verses": [
+                      {
+                        "start": 35,
+                        "end": 35
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "psalms",
+                "chapters": [
+                  {
+                    "start": 135,
+                    "end": 135,
+                    "verses": [
+                      {
+                        "start": 14,
+                        "end": 14
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG High Priest, Melchizedek Priesthood; Jesus Christ, Prophecies about; Priesthood, Melchizedek.",
+            "prettyString": "TG High Priest, Melchizedek Priesthood; TG Jesus Christ, Prophecies about; TG Priesthood, Melchizedek",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "High Priest, Melchizedek Priesthood",
+                "entryId": "tg-high-priest-melchizedek-priesthood",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Jesus Christ, Prophecies about",
+                "entryId": "tg-jesus-christ-prophecies-about",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Priesthood, Melchizedek",
+                "entryId": "tg-priesthood-melchizedek",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Jesus Christ, Types of, in Anticipation.",
+            "prettyString": "TG Jesus Christ, Types of, in Anticipation",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Jesus Christ, Types of, in Anticipation",
+                "entryId": "tg-jesus-christ-types-of-in-anticipation",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 110:4",
+        "book": "Psalms",
+        "chapter": 110,
+        "verse": 4
       },
       {
         "text": "The Lord at thy right hand shall strike through kings in the day of his wrath.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 5,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 110:5",
+        "book": "Psalms",
+        "chapter": 110,
+        "verse": 5
       },
       {
         "text": "He shall judge among the heathen, he shall fill the places with the dead bodies; he shall wound the heads over many countries.",
@@ -118,13 +361,27 @@
             "end": 58
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 6,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 110:6",
+        "book": "Psalms",
+        "chapter": 110,
+        "verse": 6
       },
       {
         "text": "He shall drink of the brook in the way: therefore shall he lift up the head.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 7,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 110:7",
+        "book": "Psalms",
+        "chapter": 110,
+        "verse": 7
       }
     ]
   },

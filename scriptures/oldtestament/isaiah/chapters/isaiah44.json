@@ -26,7 +26,63 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 1,
+        "crossReferences": [
+          {
+            "raw": "Isa. 44:21; 45:4; 1 Ne. 20:20.",
+            "prettyString": "Isaiah 44:21; 45:4; 1 Nephi 20:20",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "isaiah",
+                "chapters": [
+                  {
+                    "start": 44,
+                    "end": 44,
+                    "verses": [
+                      {
+                        "start": 21,
+                        "end": 21
+                      }
+                    ]
+                  },
+                  {
+                    "start": 45,
+                    "end": 45,
+                    "verses": [
+                      {
+                        "start": 4,
+                        "end": 4
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "1nephi",
+                "chapters": [
+                  {
+                    "start": 20,
+                    "end": 20,
+                    "verses": [
+                      {
+                        "start": 20,
+                        "end": 20
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Isaiah 44:1",
+        "book": "Isaiah",
+        "chapter": 44,
+        "verse": 1
       },
       {
         "text": "Thus saith the Lord that made thee, and formed thee from the womb, which will help thee; Fear not, O Jacob, my servant; and thou, Jesurun, whom I have chosen.",
@@ -48,7 +104,75 @@
             "end": 72
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 2,
+        "crossReferences": [
+          {
+            "raw": "Isa. 49:5; Jer. 1:5.",
+            "prettyString": "Isaiah 49:5; Jeremiah 1:5",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "isaiah",
+                "chapters": [
+                  {
+                    "start": 49,
+                    "end": 49,
+                    "verses": [
+                      {
+                        "start": 5,
+                        "end": 5
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "jeremiah",
+                "chapters": [
+                  {
+                    "start": 1,
+                    "end": 1,
+                    "verses": [
+                      {
+                        "start": 5,
+                        "end": 5
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "Deut. 33:26.",
+            "prettyString": "Deuteronomy 33:26",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "deuteronomy",
+                "chapters": [
+                  {
+                    "start": 33,
+                    "end": 33,
+                    "verses": [
+                      {
+                        "start": 26,
+                        "end": 26
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Isaiah 44:2",
+        "book": "Isaiah",
+        "chapter": 44,
+        "verse": 2
       },
       {
         "text": "For I will pour water upon him that is thirsty, and floods upon the dry ground: I will pour my spirit upon thy seed, and my blessing upon thine offspring:",
@@ -70,7 +194,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 3,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Isaiah 44:3",
+        "book": "Isaiah",
+        "chapter": 44,
+        "verse": 3
       },
       {
         "text": "And they shall spring up as among the grass, as willows by the water courses.",
@@ -81,7 +212,14 @@
             "end": 27
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 4,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Isaiah 44:4",
+        "book": "Isaiah",
+        "chapter": 44,
+        "verse": 4
       },
       {
         "text": "One shall say, I am the Lord’s; and another shall call himself by the name of Jacob; and another shall subscribe with his hand unto the Lord, and surname himself by the name of Israel.",
@@ -115,7 +253,37 @@
             "end": 161
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 5,
+        "crossReferences": [
+          {
+            "raw": "TG Conversion; Israel, Mission of.",
+            "prettyString": "TG Conversion; TG Israel, Mission of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Conversion",
+                "entryId": "tg-conversion",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Israel, Mission of",
+                "entryId": "tg-israel-mission-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Isaiah 44:5",
+        "book": "Isaiah",
+        "chapter": 44,
+        "verse": 5
       },
       {
         "text": "Thus saith the Lord the King of Israel, and his redeemer the Lord of hosts; I am the first, and I am the last; and beside me there is no God.",
@@ -145,13 +313,56 @@
             "end": 133
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 6,
+        "crossReferences": [
+          {
+            "raw": "TG Kingdom of God, in Heaven.",
+            "prettyString": "TG Kingdom of God, in Heaven",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Kingdom of God, in Heaven",
+                "entryId": "tg-kingdom-of-god-in-heaven",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Jesus Christ, Jehovah.",
+            "prettyString": "TG Jesus Christ, Jehovah",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Jesus Christ, Jehovah",
+                "entryId": "tg-jesus-christ-jehovah",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Isaiah 44:6",
+        "book": "Isaiah",
+        "chapter": 44,
+        "verse": 6
       },
       {
         "text": "And who, as I, shall call, and shall declare it, and set it in order for me, since I appointed the ancient people? and the things that are coming, and shall come, let them shew unto them.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 7,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Isaiah 44:7",
+        "book": "Isaiah",
+        "chapter": 44,
+        "verse": 7
       },
       {
         "text": "Fear ye not, neither be afraid: have not I told thee from that time, and have declared it? ye are even my witnesses. Is there a God beside me? yea, there is no God; I know not any.",
@@ -185,7 +396,37 @@
             "end": 180
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 8,
+        "crossReferences": [
+          {
+            "raw": "Isa. 41:10.",
+            "prettyString": "Isaiah 41:10",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "isaiah",
+                "chapters": [
+                  {
+                    "start": 41,
+                    "end": 41,
+                    "verses": [
+                      {
+                        "start": 10,
+                        "end": 10
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Isaiah 44:8",
+        "book": "Isaiah",
+        "chapter": 44,
+        "verse": 8
       },
       {
         "text": "They that make a graven image are all of them vanity; and their delectable things shall not profit; and they are their own witnesses; they see not, nor know; that they may be ashamed.",
@@ -216,7 +457,14 @@
             "end": 112
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 9,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Isaiah 44:9",
+        "book": "Isaiah",
+        "chapter": 44,
+        "verse": 9
       },
       {
         "text": "Who hath formed a god, or molten a graven image that is profitable for nothing?",
@@ -233,7 +481,37 @@
             "end": 52
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 10,
+        "crossReferences": [
+          {
+            "raw": "Hab. 2:18.",
+            "prettyString": "Habakkuk 2:18",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "habakkuk",
+                "chapters": [
+                  {
+                    "start": 2,
+                    "end": 2,
+                    "verses": [
+                      {
+                        "start": 18,
+                        "end": 18
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Isaiah 44:10",
+        "book": "Isaiah",
+        "chapter": 44,
+        "verse": 10
       },
       {
         "text": "Behold, all his fellows shall be ashamed: and the workmen, they are of men: let them all be gathered together, let them stand up; yet they shall fear, and they shall be ashamed together.",
@@ -258,7 +536,14 @@
             "end": 154
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 11,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Isaiah 44:11",
+        "book": "Isaiah",
+        "chapter": 44,
+        "verse": 11
       },
       {
         "text": "The smith with the tongs both worketh in the coals, and fashioneth it with hammers, and worketh it with the strength of his arms: yea, he is hungry, and his strength faileth: he drinketh no water, and is faint.",
@@ -270,7 +555,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 12,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Isaiah 44:12",
+        "book": "Isaiah",
+        "chapter": 44,
+        "verse": 12
       },
       {
         "text": "The carpenter stretcheth out his rule; he marketh it out with a line; he fitteth it with planes, and he marketh it out with the compass, and maketh it after the figure of a man, according to the beauty of a man; that it may remain in the house.",
@@ -281,7 +573,14 @@
             "end": 32
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 13,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Isaiah 44:13",
+        "book": "Isaiah",
+        "chapter": 44,
+        "verse": 13
       },
       {
         "text": "He heweth him down cedars, and taketh the cypress and the oak, which he strengtheneth for himself among the trees of the forest: he planteth an ash, and the rain doth nourish it.",
@@ -292,7 +591,14 @@
             "end": 178
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 14,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Isaiah 44:14",
+        "book": "Isaiah",
+        "chapter": 44,
+        "verse": 14
       },
       {
         "text": "Then shall it be for a man to burn: for he will take thereof, and warm himself; yea, he kindleth it, and baketh bread; yea, he maketh a god, and worshippeth it; he maketh it a graven image, and falleth down thereto.",
@@ -307,7 +613,14 @@
             "end": 160
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 15,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Isaiah 44:15",
+        "book": "Isaiah",
+        "chapter": 44,
+        "verse": 15
       },
       {
         "text": "He burneth part thereof in the fire; with part thereof he eateth flesh; he roasteth roast, and is satisfied: yea, he warmeth himself, and saith, Aha, I am warm, I have seen the fire:",
@@ -318,7 +631,14 @@
             "end": 133
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 16,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Isaiah 44:16",
+        "book": "Isaiah",
+        "chapter": 44,
+        "verse": 16
       },
       {
         "text": "And the residue thereof he maketh a god, even his graven image: he falleth down unto it, and worshippeth it, and prayeth unto it, and saith, Deliver me; for thou art my god.",
@@ -337,7 +657,14 @@
             "end": 165
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 17,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Isaiah 44:17",
+        "book": "Isaiah",
+        "chapter": 44,
+        "verse": 17
       },
       {
         "text": "They have not known nor understood: for he hath shut their eyes, that they cannot see; and their hearts, that they cannot understand.",
@@ -364,7 +691,81 @@
             "end": 90
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 18,
+        "crossReferences": [
+          {
+            "raw": "Isa. 45:20.",
+            "prettyString": "Isaiah 45:20",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "isaiah",
+                "chapters": [
+                  {
+                    "start": 45,
+                    "end": 45,
+                    "verses": [
+                      {
+                        "start": 20,
+                        "end": 20
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "Jacob 4:14.",
+            "prettyString": "Jacob 4:14",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "jacob",
+                "chapters": [
+                  {
+                    "start": 4,
+                    "end": 4,
+                    "verses": [
+                      {
+                        "start": 14,
+                        "end": 14
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "3 Ne. 19:33.",
+            "prettyString": "3 Nephi 19:33",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "3nephi",
+                "chapters": [
+                  {
+                    "start": 19,
+                    "end": 19,
+                    "verses": [
+                      {
+                        "start": 33,
+                        "end": 33
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Isaiah 44:18",
+        "book": "Isaiah",
+        "chapter": 44,
+        "verse": 18
       },
       {
         "text": "And none considereth in his heart, neither is there knowledge nor understanding to say, I have burned part of it in the fire; yea, also I have baked bread upon the coals thereof; I have roasted flesh, and eaten it: and shall I make the residue thereof an abomination? shall I fall down to the stock of a tree?",
@@ -385,7 +786,29 @@
             "end": 214
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 19,
+        "crossReferences": [
+          {
+            "raw": "TG Superstitions.",
+            "prettyString": "TG Superstitions",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Superstitions",
+                "entryId": "tg-superstitions",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Isaiah 44:19",
+        "book": "Isaiah",
+        "chapter": 44,
+        "verse": 19
       },
       {
         "text": "He feedeth on ashes: a deceived heart hath turned him aside, that he cannot deliver his soul, nor say, Is there not a lie in my right hand?",
@@ -407,7 +830,75 @@
             "end": 111
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 20,
+        "crossReferences": [
+          {
+            "raw": "Hosea 4:12; Rom. 1:21.",
+            "prettyString": "Hosea 4:12; Romans 1:21",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "hosea",
+                "chapters": [
+                  {
+                    "start": 4,
+                    "end": 4,
+                    "verses": [
+                      {
+                        "start": 12,
+                        "end": 12
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "romans",
+                "chapters": [
+                  {
+                    "start": 1,
+                    "end": 1,
+                    "verses": [
+                      {
+                        "start": 21,
+                        "end": 21
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "Ps. 144:8.",
+            "prettyString": "Psalms 144:8",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "psalms",
+                "chapters": [
+                  {
+                    "start": 144,
+                    "end": 144,
+                    "verses": [
+                      {
+                        "start": 8,
+                        "end": 8
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Isaiah 44:20",
+        "book": "Isaiah",
+        "chapter": 44,
+        "verse": 20
       },
       {
         "text": "Remember these, O Jacob and Israel; for thou art my servant: I have formed thee; thou art my servant: O Israel, thou shalt not be forgotten of me.",
@@ -438,7 +929,14 @@
             "end": 89
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 21,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Isaiah 44:21",
+        "book": "Isaiah",
+        "chapter": 44,
+        "verse": 21
       },
       {
         "text": "I have blotted out, as a thick cloud, thy transgressions, and, as a cloud, thy sins: return unto me; for I have redeemed thee.",
@@ -450,7 +948,29 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 22,
+        "crossReferences": [
+          {
+            "raw": "TG Transgress.",
+            "prettyString": "TG Transgress",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Transgress",
+                "entryId": "tg-transgress",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Isaiah 44:22",
+        "book": "Isaiah",
+        "chapter": 44,
+        "verse": 22
       },
       {
         "text": "Sing, O ye heavens; for the Lord hath done it: shout, ye lower parts of the earth: break forth into singing, ye mountains, O forest, and every tree therein: for the Lord hath redeemed Jacob, and glorified himself in Israel.",
@@ -477,7 +997,65 @@
             "end": 46
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 23,
+        "crossReferences": [
+          {
+            "raw": "Isa. 49:13.",
+            "prettyString": "Isaiah 49:13",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "isaiah",
+                "chapters": [
+                  {
+                    "start": 49,
+                    "end": 49,
+                    "verses": [
+                      {
+                        "start": 13,
+                        "end": 13
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Singing.",
+            "prettyString": "TG Singing",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Singing",
+                "entryId": "tg-singing",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Israel, Restoration of.",
+            "prettyString": "TG Israel, Restoration of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Israel, Restoration of",
+                "entryId": "tg-israel-restoration-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Isaiah 44:23",
+        "book": "Isaiah",
+        "chapter": 44,
+        "verse": 23
       },
       {
         "text": "Thus saith the Lord, thy redeemer, and he that formed thee from the womb, I am the Lord that maketh all things; that stretcheth forth the heavens alone; that spreadeth abroad the earth by myself;",
@@ -508,7 +1086,65 @@
             "end": 111
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 24,
+        "crossReferences": [
+          {
+            "raw": "TG Jesus Christ, Jehovah.",
+            "prettyString": "TG Jesus Christ, Jehovah",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Jesus Christ, Jehovah",
+                "entryId": "tg-jesus-christ-jehovah",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "1 Ne. 21:5.",
+            "prettyString": "1 Nephi 21:5",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "1nephi",
+                "chapters": [
+                  {
+                    "start": 21,
+                    "end": 21,
+                    "verses": [
+                      {
+                        "start": 5,
+                        "end": 5
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Jesus Christ, Creator.",
+            "prettyString": "TG Jesus Christ, Creator",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Jesus Christ, Creator",
+                "entryId": "tg-jesus-christ-creator",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Isaiah 44:24",
+        "book": "Isaiah",
+        "chapter": 44,
+        "verse": 24
       },
       {
         "text": "That frustrateth the tokens of the liars, and maketh diviners mad; that turneth wise men backward, and maketh their knowledge foolish;",
@@ -525,13 +1161,66 @@
             "end": 88
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 25,
+        "crossReferences": [
+          {
+            "raw": "1 Cor. 1:20; D&C 133:58.",
+            "prettyString": "1 Corinthians 1:20; D&C 133:58",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "1corinthians",
+                "chapters": [
+                  {
+                    "start": 1,
+                    "end": 1,
+                    "verses": [
+                      {
+                        "start": 20,
+                        "end": 20
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 133,
+                    "end": 133,
+                    "verses": [
+                      {
+                        "start": 58,
+                        "end": 58
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Isaiah 44:25",
+        "book": "Isaiah",
+        "chapter": 44,
+        "verse": 25
       },
       {
         "text": "That confirmeth the word of his servant, and performeth the counsel of his messengers; that saith to Jerusalem, Thou shalt be inhabited; and to the cities of Judah, Ye shall be built, and I will raise up the decayed places thereof:",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 26,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Isaiah 44:26",
+        "book": "Isaiah",
+        "chapter": 44,
+        "verse": 26
       },
       {
         "text": "That saith to the deep, Be dry, and I will dry up thy rivers:",
@@ -543,7 +1232,47 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 27,
+        "crossReferences": [
+          {
+            "raw": "Jer. 50:38; 51:36.",
+            "prettyString": "Jeremiah 50:38; 51:36",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "jeremiah",
+                "chapters": [
+                  {
+                    "start": 50,
+                    "end": 50,
+                    "verses": [
+                      {
+                        "start": 38,
+                        "end": 38
+                      }
+                    ]
+                  },
+                  {
+                    "start": 51,
+                    "end": 51,
+                    "verses": [
+                      {
+                        "start": 36,
+                        "end": 36
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Isaiah 44:27",
+        "book": "Isaiah",
+        "chapter": 44,
+        "verse": 27
       },
       {
         "text": "That saith of Cyrus, He is my shepherd, and shall perform all my pleasure: even saying to Jerusalem, Thou shalt be built; and to the temple, Thy foundation shall be laid.",
@@ -580,7 +1309,95 @@
             "end": 26
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 28,
+        "crossReferences": [
+          {
+            "raw": "TG Governments.",
+            "prettyString": "TG Governments",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Governments",
+                "entryId": "tg-governments",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "Jer. 50:44.",
+            "prettyString": "Jeremiah 50:44",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "jeremiah",
+                "chapters": [
+                  {
+                    "start": 50,
+                    "end": 50,
+                    "verses": [
+                      {
+                        "start": 44,
+                        "end": 44
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "Isa. 46:10.",
+            "prettyString": "Isaiah 46:10",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "isaiah",
+                "chapters": [
+                  {
+                    "start": 46,
+                    "end": 46,
+                    "verses": [
+                      {
+                        "start": 10,
+                        "end": 10
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "Isa. 45:13.",
+            "prettyString": "Isaiah 45:13",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "isaiah",
+                "chapters": [
+                  {
+                    "start": 45,
+                    "end": 45,
+                    "verses": [
+                      {
+                        "start": 13,
+                        "end": 13
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Isaiah 44:28",
+        "book": "Isaiah",
+        "chapter": 44,
+        "verse": 28
       }
     ]
   },

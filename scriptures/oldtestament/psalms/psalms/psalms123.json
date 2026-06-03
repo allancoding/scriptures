@@ -26,7 +26,53 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 1,
+        "crossReferences": [
+          {
+            "raw": "Ps. 121:1; Ezek. 18:6.",
+            "prettyString": "Psalms 121:1; Ezekiel 18:6",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "psalms",
+                "chapters": [
+                  {
+                    "start": 121,
+                    "end": 121,
+                    "verses": [
+                      {
+                        "start": 1,
+                        "end": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "ezekiel",
+                "chapters": [
+                  {
+                    "start": 18,
+                    "end": 18,
+                    "verses": [
+                      {
+                        "start": 6,
+                        "end": 6
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 123:1",
+        "book": "Psalms",
+        "chapter": 123,
+        "verse": 1
       },
       {
         "text": "Behold, as the eyes of servants look unto the hand of their masters, and as the eyes of a maiden unto the hand of her mistress; so our eyes wait upon the Lord our God, until that he have mercy upon us.",
@@ -45,13 +91,27 @@
             "end": 144
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 2,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 123:2",
+        "book": "Psalms",
+        "chapter": 123,
+        "verse": 2
       },
       {
         "text": "Have mercy upon us, O Lord, have mercy upon us: for we are exceedingly filled with contempt.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 3,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 123:3",
+        "book": "Psalms",
+        "chapter": 123,
+        "verse": 3
       },
       {
         "text": "Our soul is exceedingly filled with the scorning of those that are at ease, and with the contempt of the proud.",
@@ -68,7 +128,53 @@
             "end": 79
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 4,
+        "crossReferences": [
+          {
+            "raw": "Neh. 2:19; Amos 6:1.",
+            "prettyString": "Nehemiah 2:19; Amos 6:1",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "nehemiah",
+                "chapters": [
+                  {
+                    "start": 2,
+                    "end": 2,
+                    "verses": [
+                      {
+                        "start": 19,
+                        "end": 19
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "amos",
+                "chapters": [
+                  {
+                    "start": 6,
+                    "end": 6,
+                    "verses": [
+                      {
+                        "start": 1,
+                        "end": 1
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 123:4",
+        "book": "Psalms",
+        "chapter": 123,
+        "verse": 4
       }
     ]
   },

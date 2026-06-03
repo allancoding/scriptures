@@ -26,7 +26,69 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 1,
+        "crossReferences": [
+          {
+            "raw": "Amos 2:10; 1 Ne. 5:15; D&C 136:22.",
+            "prettyString": "Amos 2:10; 1 Nephi 5:15; D&C 136:22",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "amos",
+                "chapters": [
+                  {
+                    "start": 2,
+                    "end": 2,
+                    "verses": [
+                      {
+                        "start": 10,
+                        "end": 10
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "1nephi",
+                "chapters": [
+                  {
+                    "start": 5,
+                    "end": 5,
+                    "verses": [
+                      {
+                        "start": 15,
+                        "end": 15
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 136,
+                    "end": 136,
+                    "verses": [
+                      {
+                        "start": 22,
+                        "end": 22
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Amos 3:1",
+        "book": "Amos",
+        "chapter": 3,
+        "verse": 1
       },
       {
         "text": "You only have I known of all the families of the earth: therefore I will punish you for all your iniquities.",
@@ -48,7 +110,43 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 2,
+        "crossReferences": [
+          {
+            "raw": "TG Peculiar People.",
+            "prettyString": "TG Peculiar People",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Peculiar People",
+                "entryId": "tg-peculiar-people",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Accountability.",
+            "prettyString": "TG Accountability",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Accountability",
+                "entryId": "tg-accountability",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Amos 3:2",
+        "book": "Amos",
+        "chapter": 3,
+        "verse": 2
       },
       {
         "text": "Can two walk together, except they be agreed?",
@@ -60,13 +158,42 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 3,
+        "crossReferences": [
+          {
+            "raw": "TG Unity.",
+            "prettyString": "TG Unity",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Unity",
+                "entryId": "tg-unity",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Amos 3:3",
+        "book": "Amos",
+        "chapter": 3,
+        "verse": 3
       },
       {
         "text": "Will a lion roar in the forest, when he hath no prey? will a young lion cry out of his den, if he have taken nothing?",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 4,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Amos 3:4",
+        "book": "Amos",
+        "chapter": 3,
+        "verse": 4
       },
       {
         "text": "Can a bird fall in a snare upon the earth, where no gin is for him? shall one take up a snare from the earth, and have taken nothing at all?",
@@ -87,7 +214,14 @@
             "end": 77
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 5,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Amos 3:5",
+        "book": "Amos",
+        "chapter": 3,
+        "verse": 5
       },
       {
         "text": "Shall a trumpet be blown in the city, and the people not be afraid? shall there be evil in a city, and the Lord hath not done it?",
@@ -109,7 +243,69 @@
             "end": 129
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 6,
+        "crossReferences": [
+          {
+            "raw": "Isa. 45:7; Alma 5:40; Moro. 7:12.",
+            "prettyString": "Isaiah 45:7; Alma 5:40; Moroni 7:12",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "isaiah",
+                "chapters": [
+                  {
+                    "start": 45,
+                    "end": 45,
+                    "verses": [
+                      {
+                        "start": 7,
+                        "end": 7
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "alma",
+                "chapters": [
+                  {
+                    "start": 5,
+                    "end": 5,
+                    "verses": [
+                      {
+                        "start": 40,
+                        "end": 40
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "moroni",
+                "chapters": [
+                  {
+                    "start": 7,
+                    "end": 7,
+                    "verses": [
+                      {
+                        "start": 12,
+                        "end": 12
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Amos 3:6",
+        "book": "Amos",
+        "chapter": 3,
+        "verse": 6
       },
       {
         "text": "Surely the Lord God will do nothing, but he revealeth his secret unto his servants the prophets.",
@@ -136,7 +332,37 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 7,
+        "crossReferences": [
+          {
+            "raw": "Dan. 2:19.",
+            "prettyString": "Daniel 2:19",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "daniel",
+                "chapters": [
+                  {
+                    "start": 2,
+                    "end": 2,
+                    "verses": [
+                      {
+                        "start": 19,
+                        "end": 19
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Amos 3:7",
+        "book": "Amos",
+        "chapter": 3,
+        "verse": 7
       },
       {
         "text": "The lion hath roared, who will not fear? the Lord God hath spoken, who can but prophesy?",
@@ -148,7 +374,37 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 8,
+        "crossReferences": [
+          {
+            "raw": "Acts 4:20.",
+            "prettyString": "Acts 4:20",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "acts",
+                "chapters": [
+                  {
+                    "start": 4,
+                    "end": 4,
+                    "verses": [
+                      {
+                        "start": 20,
+                        "end": 20
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Amos 3:8",
+        "book": "Amos",
+        "chapter": 3,
+        "verse": 8
       },
       {
         "text": "Publish in the palaces at Ashdod, and in the palaces in the land of Egypt, and say, Assemble yourselves upon the mountains of Samaria, and behold the great tumults in the midst thereof, and the oppressed in the midst thereof.",
@@ -160,7 +416,37 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 9,
+        "crossReferences": [
+          {
+            "raw": "Amos 1:8.",
+            "prettyString": "Amos 1:8",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "amos",
+                "chapters": [
+                  {
+                    "start": 1,
+                    "end": 1,
+                    "verses": [
+                      {
+                        "start": 8,
+                        "end": 8
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Amos 3:9",
+        "book": "Amos",
+        "chapter": 3,
+        "verse": 9
       },
       {
         "text": "For they know not to do right, saith the Lord, who store up violence and robbery in their palaces.",
@@ -172,7 +458,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 10,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Amos 3:10",
+        "book": "Amos",
+        "chapter": 3,
+        "verse": 10
       },
       {
         "text": "Therefore thus saith the Lord God; An adversary there shall be even round about the land; and he shall bring down thy strength from thee, and thy palaces shall be spoiled.",
@@ -183,7 +476,14 @@
             "end": 62
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 11,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Amos 3:11",
+        "book": "Amos",
+        "chapter": 3,
+        "verse": 11
       },
       {
         "text": "Thus saith the Lord; As the shepherd taketh out of the mouth of the lion two legs, or a piece of an ear; so shall the children of Israel be taken out that dwell in Samaria in the corner of a bed, and in Damascus in a couch.",
@@ -194,13 +494,27 @@
             "end": 214
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 12,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Amos 3:12",
+        "book": "Amos",
+        "chapter": 3,
+        "verse": 12
       },
       {
         "text": "Hear ye, and testify in the house of Jacob, saith the Lord God, the God of hosts,",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 13,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Amos 3:13",
+        "book": "Amos",
+        "chapter": 3,
+        "verse": 13
       },
       {
         "text": "That in the day that I shall visit the transgressions of Israel upon him I will also visit the altars of Beth-el: and the horns of the altar shall be cut off, and fall to the ground.",
@@ -217,7 +531,37 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 14,
+        "crossReferences": [
+          {
+            "raw": "2 Kgs. 23:15.",
+            "prettyString": "2 Kings 23:15",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "2kings",
+                "chapters": [
+                  {
+                    "start": 23,
+                    "end": 23,
+                    "verses": [
+                      {
+                        "start": 15,
+                        "end": 15
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Amos 3:14",
+        "book": "Amos",
+        "chapter": 3,
+        "verse": 14
       },
       {
         "text": "And I will smite the winter house with the summer house; and the houses of ivory shall perish, and the great houses shall have an end, saith the Lord.",
@@ -234,7 +578,59 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 15,
+        "crossReferences": [
+          {
+            "raw": "Jer. 36:22.",
+            "prettyString": "Jeremiah 36:22",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "jeremiah",
+                "chapters": [
+                  {
+                    "start": 36,
+                    "end": 36,
+                    "verses": [
+                      {
+                        "start": 22,
+                        "end": 22
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "1 Kgs. 22:39.",
+            "prettyString": "1 Kings 22:39",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "1kings",
+                "chapters": [
+                  {
+                    "start": 22,
+                    "end": 22,
+                    "verses": [
+                      {
+                        "start": 39,
+                        "end": 39
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Amos 3:15",
+        "book": "Amos",
+        "chapter": 3,
+        "verse": 15
       }
     ]
   },

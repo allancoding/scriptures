@@ -45,13 +45,98 @@
             "end": 107
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 1,
+        "crossReferences": [
+          {
+            "raw": "Jer. 39:1; 52:4; Ezek. 24:1.",
+            "prettyString": "Jeremiah 39:1; 52:4; Ezekiel 24:1",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "jeremiah",
+                "chapters": [
+                  {
+                    "start": 39,
+                    "end": 39,
+                    "verses": [
+                      {
+                        "start": 1,
+                        "end": 1
+                      }
+                    ]
+                  },
+                  {
+                    "start": 52,
+                    "end": 52,
+                    "verses": [
+                      {
+                        "start": 4,
+                        "end": 4
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "ezekiel",
+                "chapters": [
+                  {
+                    "start": 24,
+                    "end": 24,
+                    "verses": [
+                      {
+                        "start": 1,
+                        "end": 1
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "Jer. 21:2.",
+            "prettyString": "Jeremiah 21:2",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "jeremiah",
+                "chapters": [
+                  {
+                    "start": 21,
+                    "end": 21,
+                    "verses": [
+                      {
+                        "start": 2,
+                        "end": 2
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "2 Kings 25:1",
+        "book": "2 Kings",
+        "chapter": 25,
+        "verse": 1
       },
       {
         "text": "And the city was besieged unto the eleventh year of king Zedekiah.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 2,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "2 Kings 25:2",
+        "book": "2 Kings",
+        "chapter": 25,
+        "verse": 2
       },
       {
         "text": "And on the ninth day of the fourth month the famine prevailed in the city, and there was no bread for the people of the land.",
@@ -66,7 +151,14 @@
             "end": 34
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 3,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "2 Kings 25:3",
+        "book": "2 Kings",
+        "chapter": 25,
+        "verse": 3
       },
       {
         "text": "And the city was broken up, and all the men of war fled by night by the way of the gate between two walls, which is by the king’s garden: (now the Chaldees were against the city round about:) and the king went the way toward the plain.",
@@ -100,7 +192,29 @@
             "end": 204
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 4,
+        "crossReferences": [
+          {
+            "raw": "TG Jerusalem.",
+            "prettyString": "TG Jerusalem",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Jerusalem",
+                "entryId": "tg-jerusalem",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "2 Kings 25:4",
+        "book": "2 Kings",
+        "chapter": 25,
+        "verse": 4
       },
       {
         "text": "And the army of the Chaldees pursued after the king, and overtook him in the plains of Jericho: and all his army were scattered from him.",
@@ -117,7 +231,37 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 5,
+        "crossReferences": [
+          {
+            "raw": "Ezek. 12:14.",
+            "prettyString": "Ezekiel 12:14",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "ezekiel",
+                "chapters": [
+                  {
+                    "start": 12,
+                    "end": 12,
+                    "verses": [
+                      {
+                        "start": 14,
+                        "end": 14
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "2 Kings 25:5",
+        "book": "2 Kings",
+        "chapter": 25,
+        "verse": 5
       },
       {
         "text": "So they took the king, and brought him up to the king of Babylon to Riblah; and they gave judgment upon him.",
@@ -139,7 +283,97 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 6,
+        "crossReferences": [
+          {
+            "raw": "Ezek. 17:12; Omni 1:15.",
+            "prettyString": "Ezekiel 17:12; Omni 1:15",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "ezekiel",
+                "chapters": [
+                  {
+                    "start": 17,
+                    "end": 17,
+                    "verses": [
+                      {
+                        "start": 12,
+                        "end": 12
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "omni",
+                "chapters": [
+                  {
+                    "start": 1,
+                    "end": 1,
+                    "verses": [
+                      {
+                        "start": 15,
+                        "end": 15
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "2 Kgs. 23:33.",
+            "prettyString": "2 Kings 23:33",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "2kings",
+                "chapters": [
+                  {
+                    "start": 23,
+                    "end": 23,
+                    "verses": [
+                      {
+                        "start": 33,
+                        "end": 33
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "Ezek. 23:24.",
+            "prettyString": "Ezekiel 23:24",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "ezekiel",
+                "chapters": [
+                  {
+                    "start": 23,
+                    "end": 23,
+                    "verses": [
+                      {
+                        "start": 24,
+                        "end": 24
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "2 Kings 25:6",
+        "book": "2 Kings",
+        "chapter": 25,
+        "verse": 6
       },
       {
         "text": "And they slew the sons of Zedekiah before his eyes, and put out the eyes of Zedekiah, and bound him with fetters of brass, and carried him to Babylon.",
@@ -161,7 +395,65 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 7,
+        "crossReferences": [
+          {
+            "raw": "Hel. 8:21.",
+            "prettyString": "Helaman 8:21",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "helaman",
+                "chapters": [
+                  {
+                    "start": 8,
+                    "end": 8,
+                    "verses": [
+                      {
+                        "start": 21,
+                        "end": 21
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Israel, Scattering of.",
+            "prettyString": "TG Israel, Scattering of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Israel, Scattering of",
+                "entryId": "tg-israel-scattering-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Israel, Bondage of, in Other Lands.",
+            "prettyString": "TG Israel, Bondage of, in Other Lands",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Israel, Bondage of, in Other Lands",
+                "entryId": "tg-israel-bondage-of-in-other-lands",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "2 Kings 25:7",
+        "book": "2 Kings",
+        "chapter": 25,
+        "verse": 7
       },
       {
         "text": "And in the fifth month, on the seventh day of the month, which is the nineteenth year of king Nebuchadnezzar king of Babylon, came Nebuzar-adan, captain of the guard, a servant of the king of Babylon, unto Jerusalem:",
@@ -182,7 +474,37 @@
             "end": 65
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 8,
+        "crossReferences": [
+          {
+            "raw": "Jer. 43:6.",
+            "prettyString": "Jeremiah 43:6",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "jeremiah",
+                "chapters": [
+                  {
+                    "start": 43,
+                    "end": 43,
+                    "verses": [
+                      {
+                        "start": 6,
+                        "end": 6
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "2 Kings 25:8",
+        "book": "2 Kings",
+        "chapter": 25,
+        "verse": 8
       },
       {
         "text": "And he burnt the house of the Lord, and the king’s house, and all the houses of Jerusalem, and every great man’s house burnt he with fire.",
@@ -209,7 +531,131 @@
             "end": 112
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 9,
+        "crossReferences": [
+          {
+            "raw": "Isa. 64:11; Jer. 39:8; 52:13; Ezek. 16:41.",
+            "prettyString": "Isaiah 64:11; Jeremiah 39:8; 52:13; Ezekiel 16:41",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "isaiah",
+                "chapters": [
+                  {
+                    "start": 64,
+                    "end": 64,
+                    "verses": [
+                      {
+                        "start": 11,
+                        "end": 11
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "jeremiah",
+                "chapters": [
+                  {
+                    "start": 39,
+                    "end": 39,
+                    "verses": [
+                      {
+                        "start": 8,
+                        "end": 8
+                      }
+                    ]
+                  },
+                  {
+                    "start": 52,
+                    "end": 52,
+                    "verses": [
+                      {
+                        "start": 13,
+                        "end": 13
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "ezekiel",
+                "chapters": [
+                  {
+                    "start": 16,
+                    "end": 16,
+                    "verses": [
+                      {
+                        "start": 41,
+                        "end": 41
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Temple.",
+            "prettyString": "TG Temple",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Temple",
+                "entryId": "tg-temple",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "Ps. 79:1; Hosea 8:14.",
+            "prettyString": "Psalms 79:1; Hosea 8:14",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "psalms",
+                "chapters": [
+                  {
+                    "start": 79,
+                    "end": 79,
+                    "verses": [
+                      {
+                        "start": 1,
+                        "end": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "hosea",
+                "chapters": [
+                  {
+                    "start": 8,
+                    "end": 8,
+                    "verses": [
+                      {
+                        "start": 14,
+                        "end": 14
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "2 Kings 25:9",
+        "book": "2 Kings",
+        "chapter": 25,
+        "verse": 9
       },
       {
         "text": "And all the army of the Chaldees, that were with the captain of the guard, brake down the walls of Jerusalem round about.",
@@ -220,7 +666,14 @@
             "end": 48
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 10,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "2 Kings 25:10",
+        "book": "2 Kings",
+        "chapter": 25,
+        "verse": 10
       },
       {
         "text": "Now the rest of the people that were left in the city, and the fugitives that fell away to the king of Babylon, with the remnant of the multitude, did Nebuzar-adan the captain of the guard carry away.",
@@ -237,7 +690,14 @@
             "end": 36
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 11,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "2 Kings 25:11",
+        "book": "2 Kings",
+        "chapter": 25,
+        "verse": 11
       },
       {
         "text": "But the captain of the guard left of the poor of the land to be vinedressers and husbandmen.",
@@ -254,7 +714,37 @@
             "end": 63
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 12,
+        "crossReferences": [
+          {
+            "raw": "Jer. 40:7.",
+            "prettyString": "Jeremiah 40:7",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "jeremiah",
+                "chapters": [
+                  {
+                    "start": 40,
+                    "end": 40,
+                    "verses": [
+                      {
+                        "start": 7,
+                        "end": 7
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "2 Kings 25:12",
+        "book": "2 Kings",
+        "chapter": 25,
+        "verse": 12
       },
       {
         "text": "And the pillars of brass that were in the house of the Lord, and the bases, and the brasen sea that was in the house of the Lord, did the Chaldees break in pieces, and carried the brass of them to Babylon.",
@@ -290,7 +780,103 @@
             "end": 103
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 13,
+        "crossReferences": [
+          {
+            "raw": "1 Kgs. 7:15.",
+            "prettyString": "1 Kings 7:15",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "1kings",
+                "chapters": [
+                  {
+                    "start": 7,
+                    "end": 7,
+                    "verses": [
+                      {
+                        "start": 15,
+                        "end": 15
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "1 Kgs. 7:27.",
+            "prettyString": "1 Kings 7:27",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "1kings",
+                "chapters": [
+                  {
+                    "start": 7,
+                    "end": 7,
+                    "verses": [
+                      {
+                        "start": 27,
+                        "end": 27
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "Jer. 27:19.",
+            "prettyString": "Jeremiah 27:19",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "jeremiah",
+                "chapters": [
+                  {
+                    "start": 27,
+                    "end": 27,
+                    "verses": [
+                      {
+                        "start": 19,
+                        "end": 19
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "Jer. 20:5.",
+            "prettyString": "Jeremiah 20:5",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "jeremiah",
+                "chapters": [
+                  {
+                    "start": 20,
+                    "end": 20,
+                    "verses": [
+                      {
+                        "start": 5,
+                        "end": 5
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "2 Kings 25:13",
+        "book": "2 Kings",
+        "chapter": 25,
+        "verse": 13
       },
       {
         "text": "And the pots, and the shovels, and the snuffers, and the spoons, and all the vessels of brass wherewith they ministered, took they away.",
@@ -307,7 +893,37 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 14,
+        "crossReferences": [
+          {
+            "raw": "Ex. 27:3.",
+            "prettyString": "Exodus 27:3",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "exodus",
+                "chapters": [
+                  {
+                    "start": 27,
+                    "end": 27,
+                    "verses": [
+                      {
+                        "start": 3,
+                        "end": 3
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "2 Kings 25:14",
+        "book": "2 Kings",
+        "chapter": 25,
+        "verse": 14
       },
       {
         "text": "And the firepans, and the bowls, and such things as were of gold, in gold, and of silver, in silver, the captain of the guard took away.",
@@ -330,7 +946,14 @@
             "end": 92
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 15,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "2 Kings 25:15",
+        "book": "2 Kings",
+        "chapter": 25,
+        "verse": 15
       },
       {
         "text": "The two pillars, one sea, and the bases which Solomon had made for the house of the Lord; the brass of all these vessels was without weight.",
@@ -342,7 +965,37 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 16,
+        "crossReferences": [
+          {
+            "raw": "1 Kgs. 7:47.",
+            "prettyString": "1 Kings 7:47",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "1kings",
+                "chapters": [
+                  {
+                    "start": 7,
+                    "end": 7,
+                    "verses": [
+                      {
+                        "start": 47,
+                        "end": 47
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "2 Kings 25:16",
+        "book": "2 Kings",
+        "chapter": 25,
+        "verse": 16
       },
       {
         "text": "The height of the one pillar was eighteen cubits, and the chapiter upon it was brass: and the height of the chapiter three cubits; and the wreathen work, and pomegranates upon the chapiter round about, all of brass: and like unto these had the second pillar with wreathen work.",
@@ -357,7 +1010,14 @@
             "end": 78
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 17,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "2 Kings 25:17",
+        "book": "2 Kings",
+        "chapter": 25,
+        "verse": 17
       },
       {
         "text": "And the captain of the guard took Seraiah the chief priest, and Zephaniah the second priest, and the three keepers of the door:",
@@ -374,7 +1034,59 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 18,
+        "crossReferences": [
+          {
+            "raw": "1 Chr. 6:14.",
+            "prettyString": "1 Chronicles 6:14",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "1chronicles",
+                "chapters": [
+                  {
+                    "start": 6,
+                    "end": 6,
+                    "verses": [
+                      {
+                        "start": 14,
+                        "end": 14
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "2 Kgs. 23:4.",
+            "prettyString": "2 Kings 23:4",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "2kings",
+                "chapters": [
+                  {
+                    "start": 23,
+                    "end": 23,
+                    "verses": [
+                      {
+                        "start": 4,
+                        "end": 4
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "2 Kings 25:18",
+        "book": "2 Kings",
+        "chapter": 25,
+        "verse": 18
       },
       {
         "text": "And out of the city he took an officer that was set over the men of war, and five men of them that were in the king’s presence, which were found in the city, and the principal scribe of the host, which mustered the people of the land, and threescore men of the people of the land that were found in the city:",
@@ -391,13 +1103,50 @@
             "end": 289
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 19,
+        "crossReferences": [
+          {
+            "raw": "Jer. 52:25.",
+            "prettyString": "Jeremiah 52:25",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "jeremiah",
+                "chapters": [
+                  {
+                    "start": 52,
+                    "end": 52,
+                    "verses": [
+                      {
+                        "start": 25,
+                        "end": 25
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "2 Kings 25:19",
+        "book": "2 Kings",
+        "chapter": 25,
+        "verse": 19
       },
       {
         "text": "And Nebuzar-adan captain of the guard took these, and brought them to the king of Babylon to Riblah:",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 20,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "2 Kings 25:20",
+        "book": "2 Kings",
+        "chapter": 25,
+        "verse": 20
       },
       {
         "text": "And the king of Babylon smote them, and slew them at Riblah in the land of Hamath. So Judah was carried away out of their land.",
@@ -409,7 +1158,63 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 21,
+        "crossReferences": [
+          {
+            "raw": "Jer. 39:6; 52:10; Ezek. 11:10.",
+            "prettyString": "Jeremiah 39:6; 52:10; Ezekiel 11:10",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "jeremiah",
+                "chapters": [
+                  {
+                    "start": 39,
+                    "end": 39,
+                    "verses": [
+                      {
+                        "start": 6,
+                        "end": 6
+                      }
+                    ]
+                  },
+                  {
+                    "start": 52,
+                    "end": 52,
+                    "verses": [
+                      {
+                        "start": 10,
+                        "end": 10
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "ezekiel",
+                "chapters": [
+                  {
+                    "start": 11,
+                    "end": 11,
+                    "verses": [
+                      {
+                        "start": 10,
+                        "end": 10
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "2 Kings 25:21",
+        "book": "2 Kings",
+        "chapter": 25,
+        "verse": 21
       },
       {
         "text": "And as for the people that remained in the land of Judah, whom Nebuchadnezzar king of Babylon had left, even over them he made Gedaliah the son of Ahikam, the son of Shaphan, ruler.",
@@ -426,31 +1231,66 @@
             "end": 10
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 22,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "2 Kings 25:22",
+        "book": "2 Kings",
+        "chapter": 25,
+        "verse": 22
       },
       {
         "text": "And when all the captains of the armies, they and their men, heard that the king of Babylon had made Gedaliah governor, there came to Gedaliah to Mizpah, even Ishmael the son of Nethaniah, and Johanan the son of Careah, and Seraiah the son of Tanhumeth the Netophathite, and Jaazaniah the son of a Maachathite, they and their men.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 23,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "2 Kings 25:23",
+        "book": "2 Kings",
+        "chapter": 25,
+        "verse": 23
       },
       {
         "text": "And Gedaliah sware to them, and to their men, and said unto them, Fear not to be the servants of the Chaldees: dwell in the land, and serve the king of Babylon; and it shall be well with you.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 24,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "2 Kings 25:24",
+        "book": "2 Kings",
+        "chapter": 25,
+        "verse": 24
       },
       {
         "text": "But it came to pass in the seventh month, that Ishmael the son of Nethaniah, the son of Elishama, of the seed royal, came, and ten men with him, and smote Gedaliah, that he died, and the Jews and the Chaldees that were with him at Mizpah.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 25,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "2 Kings 25:25",
+        "book": "2 Kings",
+        "chapter": 25,
+        "verse": 25
       },
       {
         "text": "And all the people, both small and great, and the captains of the armies, arose, and came to Egypt: for they were afraid of the Chaldees.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 26,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "2 Kings 25:26",
+        "book": "2 Kings",
+        "chapter": 25,
+        "verse": 26
       },
       {
         "text": "And it came to pass in the seven and thirtieth year of the captivity of Jehoiachin king of Judah, in the twelfth month, on the seven and twentieth day of the month, that Evil-merodach king of Babylon in the year that he began to reign did lift up the head of Jehoiachin king of Judah out of prison;",
@@ -465,7 +1305,14 @@
             "end": 169
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 27,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "2 Kings 25:27",
+        "book": "2 Kings",
+        "chapter": 25,
+        "verse": 27
       },
       {
         "text": "And he spake kindly to him, and set his throne above the throne of the kings that were with him in Babylon;",
@@ -482,13 +1329,27 @@
             "end": 86
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 28,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "2 Kings 25:28",
+        "book": "2 Kings",
+        "chapter": 25,
+        "verse": 28
       },
       {
         "text": "And changed his prison garments: and he did eat bread continually before him all the days of his life.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 29,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "2 Kings 25:29",
+        "book": "2 Kings",
+        "chapter": 25,
+        "verse": 29
       },
       {
         "text": "And his allowance was a continual allowance given him of the king, a daily rate for every day, all the days of his life.",
@@ -499,7 +1360,14 @@
             "end": 21
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 30,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "2 Kings 25:30",
+        "book": "2 Kings",
+        "chapter": 25,
+        "verse": 30
       }
     ]
   },

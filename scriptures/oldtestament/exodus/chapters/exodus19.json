@@ -31,7 +31,37 @@
             "end": 117
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 1,
+        "crossReferences": [
+          {
+            "raw": "Num. 10:12.",
+            "prettyString": "Numbers 10:12",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "numbers",
+                "chapters": [
+                  {
+                    "start": 10,
+                    "end": 10,
+                    "verses": [
+                      {
+                        "start": 12,
+                        "end": 12
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Exodus 19:1",
+        "book": "Exodus",
+        "chapter": 19,
+        "verse": 1
       },
       {
         "text": "For they were departed from Rephidim, and were come to the desert of Sinai, and had pitched in the wilderness; and there Israel camped before the mount.",
@@ -48,7 +78,14 @@
             "end": 54
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 2,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Exodus 19:2",
+        "book": "Exodus",
+        "chapter": 19,
+        "verse": 2
       },
       {
         "text": "And Moses went up unto God, and the Lord called unto him out of the mountain, saying, Thus shalt thou say to the house of Jacob, and tell the children of Israel;",
@@ -65,7 +102,53 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 3,
+        "crossReferences": [
+          {
+            "raw": "Lev. 1:1; Moses 1:17.",
+            "prettyString": "Leviticus 1:1; Moses 1:17",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "leviticus",
+                "chapters": [
+                  {
+                    "start": 1,
+                    "end": 1,
+                    "verses": [
+                      {
+                        "start": 1,
+                        "end": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "moses",
+                "chapters": [
+                  {
+                    "start": 1,
+                    "end": 1,
+                    "verses": [
+                      {
+                        "start": 17,
+                        "end": 17
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Exodus 19:3",
+        "book": "Exodus",
+        "chapter": 19,
+        "verse": 3
       },
       {
         "text": "Ye have seen what I did unto the Egyptians, and how I bare you on eagles’ wings, and brought you unto myself.",
@@ -82,7 +165,14 @@
             "end": 51
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 4,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Exodus 19:4",
+        "book": "Exodus",
+        "chapter": 19,
+        "verse": 4
       },
       {
         "text": "Now therefore, if ye will obey my voice indeed, and keep my covenant, then ye shall be a peculiar treasure unto me above all people: for all the earth is mine:",
@@ -114,7 +204,95 @@
             "end": 153
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 5,
+        "crossReferences": [
+          {
+            "raw": "TG Obedience.",
+            "prettyString": "TG Obedience",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Obedience",
+                "entryId": "tg-obedience",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Abrahamic Covenant; Covenants.",
+            "prettyString": "TG Abrahamic Covenant; TG Covenants",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Abrahamic Covenant",
+                "entryId": "tg-abrahamic-covenant",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Covenants",
+                "entryId": "tg-covenants",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Israel, Twelve Tribes of; Peculiar People.",
+            "prettyString": "TG Israel, Twelve Tribes of; TG Peculiar People",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Israel, Twelve Tribes of",
+                "entryId": "tg-israel-twelve-tribes-of",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Peculiar People",
+                "entryId": "tg-peculiar-people",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Israel, Blessings of; Treasure.",
+            "prettyString": "TG Israel, Blessings of; TG Treasure",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Israel, Blessings of",
+                "entryId": "tg-israel-blessings-of",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Treasure",
+                "entryId": "tg-treasure",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Exodus 19:5",
+        "book": "Exodus",
+        "chapter": 19,
+        "verse": 5
       },
       {
         "text": "And ye shall be unto me a kingdom of priests, and an holy nation. These are the words which thou shalt speak unto the children of Israel.",
@@ -146,7 +324,73 @@
             "end": 75
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 6,
+        "crossReferences": [
+          {
+            "raw": "TG Election.",
+            "prettyString": "TG Election",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Election",
+                "entryId": "tg-election",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Israel, Mission of; Priesthood; Priesthood, History of.",
+            "prettyString": "TG Israel, Mission of; TG Priesthood; TG Priesthood, History of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Israel, Mission of",
+                "entryId": "tg-israel-mission-of",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Priesthood",
+                "entryId": "tg-priesthood",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Priesthood, History of",
+                "entryId": "tg-priesthood-history-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Separation.",
+            "prettyString": "TG Separation",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Separation",
+                "entryId": "tg-separation",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Exodus 19:6",
+        "book": "Exodus",
+        "chapter": 19,
+        "verse": 6
       },
       {
         "text": "And Moses came and called for the elders of the people, and laid before their faces all these words which the Lord commanded him.",
@@ -158,7 +402,37 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 7,
+        "crossReferences": [
+          {
+            "raw": "Mal. 4:4.",
+            "prettyString": "Malachi 4:4",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "malachi",
+                "chapters": [
+                  {
+                    "start": 4,
+                    "end": 4,
+                    "verses": [
+                      {
+                        "start": 4,
+                        "end": 4
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Exodus 19:7",
+        "book": "Exodus",
+        "chapter": 19,
+        "verse": 7
       },
       {
         "text": "And all the people answered together, and said, All that the Lord hath spoken we will do. And Moses returned the words of the people unto the Lord.",
@@ -170,7 +444,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 8,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Exodus 19:8",
+        "book": "Exodus",
+        "chapter": 19,
+        "verse": 8
       },
       {
         "text": "And the Lord said unto Moses, Lo, I come unto thee in a thick cloud, that the people may hear when I speak with thee, and believe thee for ever. And Moses told the words of the people unto the Lord.",
@@ -187,7 +468,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 9,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Exodus 19:9",
+        "book": "Exodus",
+        "chapter": 19,
+        "verse": 9
       },
       {
         "text": "And the Lord said unto Moses, Go unto the people, and sanctify them to day and to morrow, and let them wash their clothes,",
@@ -204,7 +492,29 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 10,
+        "crossReferences": [
+          {
+            "raw": "TG Cleanliness.",
+            "prettyString": "TG Cleanliness",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Cleanliness",
+                "entryId": "tg-cleanliness",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Exodus 19:10",
+        "book": "Exodus",
+        "chapter": 19,
+        "verse": 10
       },
       {
         "text": "And be ready against the third day: for the third day the Lord will come down in the sight of all the people upon mount Sinai.",
@@ -216,7 +526,37 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 11,
+        "crossReferences": [
+          {
+            "raw": "TG God, Privilege of Seeing; Sight.",
+            "prettyString": "TG God, Privilege of Seeing; TG Sight",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "God, Privilege of Seeing",
+                "entryId": "tg-god-privilege-of-seeing",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Sight",
+                "entryId": "tg-sight",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Exodus 19:11",
+        "book": "Exodus",
+        "chapter": 19,
+        "verse": 11
       },
       {
         "text": "And thou shalt set bounds unto the people round about, saying, Take heed to yourselves, that ye go not up into the mount, or touch the border of it: whosoever toucheth the mount shall be surely put to death:",
@@ -242,7 +582,37 @@
             "end": 102
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 12,
+        "crossReferences": [
+          {
+            "raw": "Ex. 34:3.",
+            "prettyString": "Exodus 34:3",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "exodus",
+                "chapters": [
+                  {
+                    "start": 34,
+                    "end": 34,
+                    "verses": [
+                      {
+                        "start": 3,
+                        "end": 3
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Exodus 19:12",
+        "book": "Exodus",
+        "chapter": 19,
+        "verse": 12
       },
       {
         "text": "There shall not an hand touch it, but he shall surely be stoned, or shot through; whether it be beast or man, it shall not live: when the trumpet soundeth long, they shall come up to the mount.",
@@ -253,13 +623,27 @@
             "end": 95
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 13,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Exodus 19:13",
+        "book": "Exodus",
+        "chapter": 19,
+        "verse": 13
       },
       {
         "text": "And Moses went down from the mount unto the people, and sanctified the people; and they washed their clothes.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 14,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Exodus 19:14",
+        "book": "Exodus",
+        "chapter": 19,
+        "verse": 14
       },
       {
         "text": "And he said unto the people, Be ready against the third day: come not at your wives.",
@@ -276,7 +660,14 @@
             "end": 77
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 15,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Exodus 19:15",
+        "book": "Exodus",
+        "chapter": 19,
+        "verse": 15
       },
       {
         "text": "And it came to pass on the third day in the morning, that there were thunders and lightnings, and a thick cloud upon the mount, and the voice of the trumpet exceeding loud; so that all the people that was in the camp trembled.",
@@ -287,7 +678,14 @@
             "end": 204
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 16,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Exodus 19:16",
+        "book": "Exodus",
+        "chapter": 19,
+        "verse": 16
       },
       {
         "text": "And Moses brought forth the people out of the camp to meet with God; and they stood at the nether part of the mount.",
@@ -304,7 +702,37 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 17,
+        "crossReferences": [
+          {
+            "raw": "TG God, Presence of; Meetings.",
+            "prettyString": "TG God, Presence of; TG Meetings",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "God, Presence of",
+                "entryId": "tg-god-presence-of",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Meetings",
+                "entryId": "tg-meetings",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Exodus 19:17",
+        "book": "Exodus",
+        "chapter": 19,
+        "verse": 17
       },
       {
         "text": "And mount Sinai was altogether on a smoke, because the Lord descended upon it in fire: and the smoke thereof ascended as the smoke of a furnace, and the whole mount quaked greatly.",
@@ -341,7 +769,51 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 18,
+        "crossReferences": [
+          {
+            "raw": "TG God, Presence of.",
+            "prettyString": "TG God, Presence of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "God, Presence of",
+                "entryId": "tg-god-presence-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "Hab. 3:10.",
+            "prettyString": "Habakkuk 3:10",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "habakkuk",
+                "chapters": [
+                  {
+                    "start": 3,
+                    "end": 3,
+                    "verses": [
+                      {
+                        "start": 10,
+                        "end": 10
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Exodus 19:18",
+        "book": "Exodus",
+        "chapter": 19,
+        "verse": 18
       },
       {
         "text": "And when the voice of the trumpet sounded long, and waxed louder and louder, Moses spake, and God answered him by a voice.",
@@ -358,7 +830,29 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 19,
+        "crossReferences": [
+          {
+            "raw": "TG God, Manifestations of.",
+            "prettyString": "TG God, Manifestations of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "God, Manifestations of",
+                "entryId": "tg-god-manifestations-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Exodus 19:19",
+        "book": "Exodus",
+        "chapter": 19,
+        "verse": 19
       },
       {
         "text": "And the Lord came down upon mount Sinai, on the top of the mount: and the Lord called Moses up to the top of the mount; and Moses went up.",
@@ -375,7 +869,37 @@
             "end": 94
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 20,
+        "crossReferences": [
+          {
+            "raw": "Ex. 34:2.",
+            "prettyString": "Exodus 34:2",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "exodus",
+                "chapters": [
+                  {
+                    "start": 34,
+                    "end": 34,
+                    "verses": [
+                      {
+                        "start": 2,
+                        "end": 2
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Exodus 19:20",
+        "book": "Exodus",
+        "chapter": 19,
+        "verse": 20
       },
       {
         "text": "And the Lord said unto Moses, Go down, charge the people, lest they break through unto the Lord to gaze, and many of them perish.",
@@ -392,31 +916,66 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 21,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Exodus 19:21",
+        "book": "Exodus",
+        "chapter": 19,
+        "verse": 21
       },
       {
         "text": "And let the priests also, which come near to the Lord, sanctify themselves, lest the Lord break forth upon them.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 22,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Exodus 19:22",
+        "book": "Exodus",
+        "chapter": 19,
+        "verse": 22
       },
       {
         "text": "And Moses said unto the Lord, The people cannot come up to mount Sinai: for thou chargedst us, saying, Set bounds about the mount, and sanctify it.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 23,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Exodus 19:23",
+        "book": "Exodus",
+        "chapter": 19,
+        "verse": 23
       },
       {
         "text": "And the Lord said unto him, Away, get thee down, and thou shalt come up, thou, and Aaron with thee: but let not the priests and the people break through to come up unto the Lord, lest he break forth upon them.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 24,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Exodus 19:24",
+        "book": "Exodus",
+        "chapter": 19,
+        "verse": 24
       },
       {
         "text": "So Moses went down unto the people, and spake unto them.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 25,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Exodus 19:25",
+        "book": "Exodus",
+        "chapter": 19,
+        "verse": 25
       }
     ]
   },

@@ -46,7 +46,43 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 1,
+        "crossReferences": [
+          {
+            "raw": "TG Time.",
+            "prettyString": "TG Time",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Time",
+                "entryId": "tg-time",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Nature, Earth.",
+            "prettyString": "TG Nature, Earth",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Nature, Earth",
+                "entryId": "tg-nature-earth",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Genesis 1:1",
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 1
       },
       {
         "text": "And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.",
@@ -78,7 +114,103 @@
             "end": 58
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 2,
+        "crossReferences": [
+          {
+            "raw": "Abr. 4:2.",
+            "prettyString": "Abraham 4:2",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "abraham",
+                "chapters": [
+                  {
+                    "start": 4,
+                    "end": 4,
+                    "verses": [
+                      {
+                        "start": 2,
+                        "end": 2
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Darkness, Physical.",
+            "prettyString": "TG Darkness, Physical",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Darkness, Physical",
+                "entryId": "tg-darkness-physical",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG God, Spirit of.",
+            "prettyString": "TG God, Spirit of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "God, Spirit of",
+                "entryId": "tg-god-spirit-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "Moses 2:2; Abr. 4:2.",
+            "prettyString": "Moses 2:2; Abraham 4:2",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "moses",
+                "chapters": [
+                  {
+                    "start": 2,
+                    "end": 2,
+                    "verses": [
+                      {
+                        "start": 2,
+                        "end": 2
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "abraham",
+                "chapters": [
+                  {
+                    "start": 4,
+                    "end": 4,
+                    "verses": [
+                      {
+                        "start": 2,
+                        "end": 2
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Genesis 1:2",
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 2
       },
       {
         "text": "And God said, Let there be light: and there was light.",
@@ -95,7 +227,51 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 3,
+        "crossReferences": [
+          {
+            "raw": "Ps. 33:9.",
+            "prettyString": "Psalms 33:9",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "psalms",
+                "chapters": [
+                  {
+                    "start": 33,
+                    "end": 33,
+                    "verses": [
+                      {
+                        "start": 9,
+                        "end": 9
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Light [noun].",
+            "prettyString": "TG Light [noun]",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Light [noun]",
+                "entryId": "tg-light-noun",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Genesis 1:3",
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 3
       },
       {
         "text": "And God saw the light, that it was good: and God divided the light from the darkness.",
@@ -112,7 +288,69 @@
             "end": 34
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 4,
+        "crossReferences": [
+          {
+            "raw": "Alma 32:35; Moses 2:4; Abr. 4:4.",
+            "prettyString": "Alma 32:35; Moses 2:4; Abraham 4:4",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "alma",
+                "chapters": [
+                  {
+                    "start": 32,
+                    "end": 32,
+                    "verses": [
+                      {
+                        "start": 35,
+                        "end": 35
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "moses",
+                "chapters": [
+                  {
+                    "start": 2,
+                    "end": 2,
+                    "verses": [
+                      {
+                        "start": 4,
+                        "end": 4
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "abraham",
+                "chapters": [
+                  {
+                    "start": 4,
+                    "end": 4,
+                    "verses": [
+                      {
+                        "start": 4,
+                        "end": 4
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Genesis 1:4",
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 4
       },
       {
         "text": "And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day.",
@@ -139,7 +377,81 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 5,
+        "crossReferences": [
+          {
+            "raw": "TG Darkness, Physical.",
+            "prettyString": "TG Darkness, Physical",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Darkness, Physical",
+                "entryId": "tg-darkness-physical",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Time.",
+            "prettyString": "TG Time",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Time",
+                "entryId": "tg-time",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "Moses 2:5; Abr. 4:5.",
+            "prettyString": "Moses 2:5; Abraham 4:5",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "moses",
+                "chapters": [
+                  {
+                    "start": 2,
+                    "end": 2,
+                    "verses": [
+                      {
+                        "start": 5,
+                        "end": 5
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "abraham",
+                "chapters": [
+                  {
+                    "start": 4,
+                    "end": 4,
+                    "verses": [
+                      {
+                        "start": 5,
+                        "end": 5
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Genesis 1:5",
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 5
       },
       {
         "text": "And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters.",
@@ -151,7 +463,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 6,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Genesis 1:6",
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 6
       },
       {
         "text": "And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so.",
@@ -172,7 +491,14 @@
             "end": 108
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 7,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Genesis 1:7",
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 7
       },
       {
         "text": "And God called the firmament Heaven. And the evening and the morning were the second day.",
@@ -189,7 +515,51 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 8,
+        "crossReferences": [
+          {
+            "raw": "TG Heaven.",
+            "prettyString": "TG Heaven",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Heaven",
+                "entryId": "tg-heaven",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "Abr. 4:8.",
+            "prettyString": "Abraham 4:8",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "abraham",
+                "chapters": [
+                  {
+                    "start": 4,
+                    "end": 4,
+                    "verses": [
+                      {
+                        "start": 8,
+                        "end": 8
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Genesis 1:8",
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 8
       },
       {
         "text": "And God said, Let the waters under the heaven be gathered together unto one place, and let the dry land appear: and it was so.",
@@ -211,7 +581,67 @@
             "end": 103
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 9,
+        "crossReferences": [
+          {
+            "raw": "TG Earth, Dividing of.",
+            "prettyString": "TG Earth, Dividing of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Earth, Dividing of",
+                "entryId": "tg-earth-dividing-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "Moses 2:9; Abr. 4:9.",
+            "prettyString": "Moses 2:9; Abraham 4:9",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "moses",
+                "chapters": [
+                  {
+                    "start": 2,
+                    "end": 2,
+                    "verses": [
+                      {
+                        "start": 9,
+                        "end": 9
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "abraham",
+                "chapters": [
+                  {
+                    "start": 4,
+                    "end": 4,
+                    "verses": [
+                      {
+                        "start": 9,
+                        "end": 9
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Genesis 1:9",
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 9
       },
       {
         "text": "And God called the dry land Earth; and the gathering together of the waters called he Seas: and God saw that it was good.",
@@ -232,7 +662,37 @@
             "end": 115
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 10,
+        "crossReferences": [
+          {
+            "raw": "Moses 1:29.",
+            "prettyString": "Moses 1:29",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "moses",
+                "chapters": [
+                  {
+                    "start": 1,
+                    "end": 1,
+                    "verses": [
+                      {
+                        "start": 29,
+                        "end": 29
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Genesis 1:10",
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 10
       },
       {
         "text": "And God said, Let the earth bring forth grass, the herb yielding seed, and the fruit tree yielding fruit after his kind, whose seed is in itself, upon the earth: and it was so.",
@@ -253,7 +713,14 @@
             "end": 134
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 11,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Genesis 1:11",
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 11
       },
       {
         "text": "And the earth brought forth grass, and herb yielding seed after his kind, and the tree yielding fruit, whose seed was in itself, after his kind: and God saw that it was good.",
@@ -283,13 +750,50 @@
             "end": 168
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 12,
+        "crossReferences": [
+          {
+            "raw": "D&C 88:25.",
+            "prettyString": "D&C 88:25",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 88,
+                    "end": 88,
+                    "verses": [
+                      {
+                        "start": 25,
+                        "end": 25
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Genesis 1:12",
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 12
       },
       {
         "text": "And the evening and the morning were the third day.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 13,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Genesis 1:13",
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 13
       },
       {
         "text": "And God said, Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years:",
@@ -311,13 +815,42 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 14,
+        "crossReferences": [
+          {
+            "raw": "TG Order.",
+            "prettyString": "TG Order",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Order",
+                "entryId": "tg-order",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Genesis 1:14",
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 14
       },
       {
         "text": "And let them be for lights in the firmament of the heaven to give light upon the earth: and it was so.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 15,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Genesis 1:15",
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 15
       },
       {
         "text": "And God made two great lights; the greater light to rule the day, and the lesser light to rule the night: he made the stars also.",
@@ -339,7 +872,14 @@
             "end": 113
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 16,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Genesis 1:16",
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 16
       },
       {
         "text": "And God set them in the firmament of the heaven to give light upon the earth,",
@@ -351,7 +891,37 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 17,
+        "crossReferences": [
+          {
+            "raw": "D&C 76:109.",
+            "prettyString": "D&C 76:109",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 76,
+                    "end": 76,
+                    "verses": [
+                      {
+                        "start": 109,
+                        "end": 109
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Genesis 1:17",
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 17
       },
       {
         "text": "And to rule over the day and over the night, and to divide the light from the darkness: and God saw that it was good.",
@@ -368,13 +938,50 @@
             "end": 111
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 18,
+        "crossReferences": [
+          {
+            "raw": "Jer. 31:35.",
+            "prettyString": "Jeremiah 31:35",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "jeremiah",
+                "chapters": [
+                  {
+                    "start": 31,
+                    "end": 31,
+                    "verses": [
+                      {
+                        "start": 35,
+                        "end": 35
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Genesis 1:18",
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 18
       },
       {
         "text": "And the evening and the morning were the fourth day.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 19,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Genesis 1:19",
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 19
       },
       {
         "text": "And God said, Let the waters bring forth abundantly the moving creature that hath life, and fowl that may fly above the earth in the open firmament of heaven.",
@@ -401,7 +1008,14 @@
             "end": 101
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 20,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Genesis 1:20",
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 20
       },
       {
         "text": "And God created great whales, and every living creature that moveth, which the waters brought forth abundantly, after their kind, and every winged fowl after his kind: and God saw that it was good.",
@@ -418,7 +1032,14 @@
             "end": 191
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 21,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Genesis 1:21",
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 21
       },
       {
         "text": "And God blessed them, saying, Be fruitful, and multiply, and fill the waters in the seas, and let fowl multiply in the earth.",
@@ -430,13 +1051,66 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 22,
+        "crossReferences": [
+          {
+            "raw": "Moses 2:22; Abr. 4:22.",
+            "prettyString": "Moses 2:22; Abraham 4:22",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "moses",
+                "chapters": [
+                  {
+                    "start": 2,
+                    "end": 2,
+                    "verses": [
+                      {
+                        "start": 22,
+                        "end": 22
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "abraham",
+                "chapters": [
+                  {
+                    "start": 4,
+                    "end": 4,
+                    "verses": [
+                      {
+                        "start": 22,
+                        "end": 22
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Genesis 1:22",
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 22
       },
       {
         "text": "And the evening and the morning were the fifth day.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 23,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Genesis 1:23",
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 23
       },
       {
         "text": "And God said, Let the earth bring forth the living creature after his kind, cattle, and creeping thing, and beast of the earth after his kind: and it was so.",
@@ -448,7 +1122,29 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 24,
+        "crossReferences": [
+          {
+            "raw": "TG Order.",
+            "prettyString": "TG Order",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Order",
+                "entryId": "tg-order",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Genesis 1:24",
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 24
       },
       {
         "text": "And God made the beast of the earth after his kind, and cattle after their kind, and every thing that creepeth upon the earth after his kind: and God saw that it was good.",
@@ -459,7 +1155,14 @@
             "end": 165
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 25,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Genesis 1:25",
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 25
       },
       {
         "text": "And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.",
@@ -496,7 +1199,73 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 26,
+        "crossReferences": [
+          {
+            "raw": "TG Creation.",
+            "prettyString": "TG Creation",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Creation",
+                "entryId": "tg-creation",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Adam; Man, Physical Creation of.",
+            "prettyString": "TG Adam; TG Man, Physical Creation of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Adam",
+                "entryId": "tg-adam",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Man, Physical Creation of",
+                "entryId": "tg-man-physical-creation-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "Gen. 5:3.",
+            "prettyString": "Genesis 5:3",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "genesis",
+                "chapters": [
+                  {
+                    "start": 5,
+                    "end": 5,
+                    "verses": [
+                      {
+                        "start": 3,
+                        "end": 3
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Genesis 1:26",
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 26
       },
       {
         "text": "So God created man in his own image, in the image of God created he him; male and female created he them.",
@@ -518,7 +1287,43 @@
             "end": 29
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 27,
+        "crossReferences": [
+          {
+            "raw": "TG God, Body of, Corporeal Nature.",
+            "prettyString": "TG God, Body of, Corporeal Nature",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "God, Body of, Corporeal Nature",
+                "entryId": "tg-god-body-of-corporeal-nature",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Woman.",
+            "prettyString": "TG Woman",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Woman",
+                "entryId": "tg-woman",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Genesis 1:27",
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 27
       },
       {
         "text": "And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.",
@@ -550,7 +1355,43 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 28,
+        "crossReferences": [
+          {
+            "raw": "TG Children.",
+            "prettyString": "TG Children",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Children",
+                "entryId": "tg-children",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Earth, Purpose of.",
+            "prettyString": "TG Earth, Purpose of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Earth, Purpose of",
+                "entryId": "tg-earth-purpose-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Genesis 1:28",
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 28
       },
       {
         "text": "And God said, Behold, I have given you every herb bearing seed, which is upon the face of all the earth, and every tree, in the which is the fruit of a tree yielding seed; to you it shall be for meat.",
@@ -571,7 +1412,14 @@
             "end": 136
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 29,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Genesis 1:29",
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 29
       },
       {
         "text": "And to every beast of the earth, and to every fowl of the air, and to every thing that creepeth upon the earth, wherein there is life, I have given every green herb for meat: and it was so.",
@@ -592,7 +1440,14 @@
             "end": 147
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 30,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Genesis 1:30",
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 30
       },
       {
         "text": "And God saw every thing that he had made, and, behold, it was very good. And the evening and the morning were the sixth day.",
@@ -614,7 +1469,85 @@
             "end": 61
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 31,
+        "crossReferences": [
+          {
+            "raw": "Ex. 31:17; Mosiah 13:19; Moses 2:31; Abr. 4:31.",
+            "prettyString": "Exodus 31:17; Mosiah 13:19; Moses 2:31; Abraham 4:31",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "exodus",
+                "chapters": [
+                  {
+                    "start": 31,
+                    "end": 31,
+                    "verses": [
+                      {
+                        "start": 17,
+                        "end": 17
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "mosiah",
+                "chapters": [
+                  {
+                    "start": 13,
+                    "end": 13,
+                    "verses": [
+                      {
+                        "start": 19,
+                        "end": 19
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "moses",
+                "chapters": [
+                  {
+                    "start": 2,
+                    "end": 2,
+                    "verses": [
+                      {
+                        "start": 31,
+                        "end": 31
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "abraham",
+                "chapters": [
+                  {
+                    "start": 4,
+                    "end": 4,
+                    "verses": [
+                      {
+                        "start": 31,
+                        "end": 31
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Genesis 1:31",
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 31
       }
     ]
   },

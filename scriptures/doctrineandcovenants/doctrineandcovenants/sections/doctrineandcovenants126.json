@@ -36,7 +36,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 1,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 126:1",
+        "book": "Doctrine and Covenants",
+        "chapter": 126,
+        "verse": 1
       },
       {
         "text": "I have seen your labor and toil in journeyings for my name.",
@@ -48,7 +55,29 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 2,
+        "crossReferences": [
+          {
+            "raw": "TG Good Works.",
+            "prettyString": "TG Good Works",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Good Works",
+                "entryId": "tg-good-works",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 126:2",
+        "book": "Doctrine and Covenants",
+        "chapter": 126,
+        "verse": 2
       },
       {
         "text": "I therefore command you to send my word abroad, and take especial care of your family from this time, henceforth and forever. Amen.",
@@ -65,7 +94,69 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 3,
+        "crossReferences": [
+          {
+            "raw": "D&C 107:38; 124:139.",
+            "prettyString": "D&C 107:38; 124:139",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 107,
+                    "end": 107,
+                    "verses": [
+                      {
+                        "start": 38,
+                        "end": 38
+                      }
+                    ]
+                  },
+                  {
+                    "start": 124,
+                    "end": 124,
+                    "verses": [
+                      {
+                        "start": 139,
+                        "end": 139
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Family, Children, Responsibilities toward; Family, Love within.",
+            "prettyString": "TG Family, Children, Responsibilities toward; TG Family, Love within",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Family, Children, Responsibilities toward",
+                "entryId": "tg-family-children-responsibilities-toward",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Family, Love within",
+                "entryId": "tg-family-love-within",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 126:3",
+        "book": "Doctrine and Covenants",
+        "chapter": 126,
+        "verse": 3
       }
     ]
   },

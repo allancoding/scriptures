@@ -26,7 +26,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 1,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Joshua 1:1",
+        "book": "Joshua",
+        "chapter": 1,
+        "verse": 1
       },
       {
         "text": "Moses my servant is dead; now therefore arise, go over this Jordan, thou, and all this people, unto the land which I do give to them, even to the children of Israel.",
@@ -43,13 +50,27 @@
             "end": 138
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 2,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Joshua 1:2",
+        "book": "Joshua",
+        "chapter": 1,
+        "verse": 2
       },
       {
         "text": "Every place that the sole of your foot shall tread upon, that have I given unto you, as I said unto Moses.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 3,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Joshua 1:3",
+        "book": "Joshua",
+        "chapter": 1,
+        "verse": 3
       },
       {
         "text": "From the wilderness and this Lebanon even unto the great river, the river Euphrates, all the land of the Hittites, and unto the great sea toward the going down of the sun, shall be your coast.",
@@ -71,7 +92,37 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 4,
+        "crossReferences": [
+          {
+            "raw": "Deut. 3:25.",
+            "prettyString": "Deuteronomy 3:25",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "deuteronomy",
+                "chapters": [
+                  {
+                    "start": 3,
+                    "end": 3,
+                    "verses": [
+                      {
+                        "start": 25,
+                        "end": 25
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Joshua 1:4",
+        "book": "Joshua",
+        "chapter": 1,
+        "verse": 4
       },
       {
         "text": "There shall not any man be able to stand before thee all the days of thy life: as I was with Moses, so I will be with thee: I will not fail thee, nor forsake thee.",
@@ -98,7 +149,69 @@
             "end": 102
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 5,
+        "crossReferences": [
+          {
+            "raw": "1 Kgs. 6:13; Heb. 13:5; D&C 88:83.",
+            "prettyString": "1 Kings 6:13; Hebrews 13:5; D&C 88:83",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "1kings",
+                "chapters": [
+                  {
+                    "start": 6,
+                    "end": 6,
+                    "verses": [
+                      {
+                        "start": 13,
+                        "end": 13
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "hebrews",
+                "chapters": [
+                  {
+                    "start": 13,
+                    "end": 13,
+                    "verses": [
+                      {
+                        "start": 5,
+                        "end": 5
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 88,
+                    "end": 88,
+                    "verses": [
+                      {
+                        "start": 83,
+                        "end": 83
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Joshua 1:5",
+        "book": "Joshua",
+        "chapter": 1,
+        "verse": 5
       },
       {
         "text": "Be strong and of a good courage: for unto this people shalt thou divide for an inheritance the land, which I sware unto their fathers to give them.",
@@ -125,7 +238,115 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 6,
+        "crossReferences": [
+          {
+            "raw": "D&C 52:17; 66:8; 133:58.",
+            "prettyString": "D&C 52:17; 66:8; 133:58",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 52,
+                    "end": 52,
+                    "verses": [
+                      {
+                        "start": 17,
+                        "end": 17
+                      }
+                    ]
+                  },
+                  {
+                    "start": 66,
+                    "end": 66,
+                    "verses": [
+                      {
+                        "start": 8,
+                        "end": 8
+                      }
+                    ]
+                  },
+                  {
+                    "start": 133,
+                    "end": 133,
+                    "verses": [
+                      {
+                        "start": 58,
+                        "end": 58
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "Ezek. 47:22.",
+            "prettyString": "Ezekiel 47:22",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "ezekiel",
+                "chapters": [
+                  {
+                    "start": 47,
+                    "end": 47,
+                    "verses": [
+                      {
+                        "start": 22,
+                        "end": 22
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "Deut. 11:8.",
+            "prettyString": "Deuteronomy 11:8",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "deuteronomy",
+                "chapters": [
+                  {
+                    "start": 11,
+                    "end": 11,
+                    "verses": [
+                      {
+                        "start": 8,
+                        "end": 8
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Israel, Land of.",
+            "prettyString": "TG Israel, Land of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Israel, Land of",
+                "entryId": "tg-israel-land-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Joshua 1:6",
+        "book": "Joshua",
+        "chapter": 1,
+        "verse": 6
       },
       {
         "text": "Only be thou strong and very courageous, that thou mayest observe to do according to all the law, which Moses my servant commanded thee: turn not from it to the right hand or to the left, that thou mayest prosper whithersoever thou goest.",
@@ -156,7 +377,29 @@
             "end": 177
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 7,
+        "crossReferences": [
+          {
+            "raw": "TG Courage.",
+            "prettyString": "TG Courage",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Courage",
+                "entryId": "tg-courage",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Joshua 1:7",
+        "book": "Joshua",
+        "chapter": 1,
+        "verse": 7
       },
       {
         "text": "This book of the law shall not depart out of thy mouth; but thou shalt meditate therein day and night, that thou mayest observe to do according to all that is written therein: for then thou shalt make thy way prosperous, and then thou shalt have good success.",
@@ -173,7 +416,37 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 8,
+        "crossReferences": [
+          {
+            "raw": "TG Meditation; Scriptures, Study of.",
+            "prettyString": "TG Meditation; TG Scriptures, Study of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Meditation",
+                "entryId": "tg-meditation",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Scriptures, Study of",
+                "entryId": "tg-scriptures-study-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Joshua 1:8",
+        "book": "Joshua",
+        "chapter": 1,
+        "verse": 8
       },
       {
         "text": "Have not I commanded thee? Be strong and of a good courage; be not afraid, neither be thou dismayed: for the Lord thy God is with thee whithersoever thou goest.",
@@ -190,7 +463,37 @@
             "end": 124
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 9,
+        "crossReferences": [
+          {
+            "raw": "D&C 38:7.",
+            "prettyString": "D&C 38:7",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 38,
+                    "end": 38,
+                    "verses": [
+                      {
+                        "start": 7,
+                        "end": 7
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Joshua 1:9",
+        "book": "Joshua",
+        "chapter": 1,
+        "verse": 9
       },
       {
         "text": "Then Joshua commanded the officers of the people, saying,",
@@ -202,7 +505,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 10,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Joshua 1:10",
+        "book": "Joshua",
+        "chapter": 1,
+        "verse": 10
       },
       {
         "text": "Pass through the host, and command the people, saying, Prepare you victuals; for within three days ye shall pass over this Jordan, to go in to possess the land, which the Lord your God giveth you to possess it.",
@@ -224,13 +534,27 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 11,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Joshua 1:11",
+        "book": "Joshua",
+        "chapter": 1,
+        "verse": 11
       },
       {
         "text": "And to the Reubenites, and to the Gadites, and to half the tribe of Manasseh, spake Joshua, saying,",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 12,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Joshua 1:12",
+        "book": "Joshua",
+        "chapter": 1,
+        "verse": 12
       },
       {
         "text": "Remember the word which Moses the servant of the Lord commanded you, saying, The Lord your God hath given you rest, and hath given you this land.",
@@ -247,13 +571,27 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 13,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Joshua 1:13",
+        "book": "Joshua",
+        "chapter": 1,
+        "verse": 13
       },
       {
         "text": "Your wives, your little ones, and your cattle, shall remain in the land which Moses gave you on this side Jordan; but ye shall pass before your brethren armed, all the mighty men of valour, and help them;",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 14,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Joshua 1:14",
+        "book": "Joshua",
+        "chapter": 1,
+        "verse": 14
       },
       {
         "text": "Until the Lord have given your brethren rest, as he hath given you, and they also have possessed the land which the Lord your God giveth them: then ye shall return unto the land of your possession, and enjoy it, which Moses the Lord’s servant gave you on this side Jordan toward the sunrising.",
@@ -264,19 +602,40 @@
             "end": 62
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 15,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Joshua 1:15",
+        "book": "Joshua",
+        "chapter": 1,
+        "verse": 15
       },
       {
         "text": "And they answered Joshua, saying, All that thou commandest us we will do, and whithersoever thou sendest us, we will go.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 16,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Joshua 1:16",
+        "book": "Joshua",
+        "chapter": 1,
+        "verse": 16
       },
       {
         "text": "According as we hearkened unto Moses in all things, so will we hearken unto thee: only the Lord thy God be with thee, as he was with Moses.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 17,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Joshua 1:17",
+        "book": "Joshua",
+        "chapter": 1,
+        "verse": 17
       },
       {
         "text": "Whosoever he be that doth rebel against thy commandment, and will not hearken unto thy words in all that thou commandest him, he shall be put to death: only be strong and of a good courage.",
@@ -298,7 +657,43 @@
             "end": 15
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 18,
+        "crossReferences": [
+          {
+            "raw": "TG Rebellion.",
+            "prettyString": "TG Rebellion",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Rebellion",
+                "entryId": "tg-rebellion",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Capital Punishment.",
+            "prettyString": "TG Capital Punishment",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Capital Punishment",
+                "entryId": "tg-capital-punishment",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Joshua 1:18",
+        "book": "Joshua",
+        "chapter": 1,
+        "verse": 18
       }
     ]
   },

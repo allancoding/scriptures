@@ -41,7 +41,29 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 1,
+        "crossReferences": [
+          {
+            "raw": "TG Covenants.",
+            "prettyString": "TG Covenants",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Covenants",
+                "entryId": "tg-covenants",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 22:1",
+        "book": "Doctrine and Covenants",
+        "chapter": 22,
+        "verse": 1
       },
       {
         "text": "Wherefore, although a man should be baptized an hundred times it availeth him nothing, for you cannot enter in at the strait gate by the law of Moses, neither by your dead works.",
@@ -58,13 +80,27 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 2,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 22:2",
+        "book": "Doctrine and Covenants",
+        "chapter": 22,
+        "verse": 2
       },
       {
         "text": "For it is because of your dead works that I have caused this last covenant and this church to be built up unto me, even as in days of old.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 3,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 22:3",
+        "book": "Doctrine and Covenants",
+        "chapter": 22,
+        "verse": 3
       },
       {
         "text": "Wherefore, enter ye in at the gate, as I have commanded, and seek not to counsel your God. Amen.",
@@ -81,7 +117,69 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 4,
+        "crossReferences": [
+          {
+            "raw": "Rom. 11:34; 1 Cor. 2:16; Jacob 4:10.",
+            "prettyString": "Romans 11:34; 1 Corinthians 2:16; Jacob 4:10",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "romans",
+                "chapters": [
+                  {
+                    "start": 11,
+                    "end": 11,
+                    "verses": [
+                      {
+                        "start": 34,
+                        "end": 34
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "1corinthians",
+                "chapters": [
+                  {
+                    "start": 2,
+                    "end": 2,
+                    "verses": [
+                      {
+                        "start": 16,
+                        "end": 16
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "jacob",
+                "chapters": [
+                  {
+                    "start": 4,
+                    "end": 4,
+                    "verses": [
+                      {
+                        "start": 10,
+                        "end": 10
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 22:4",
+        "book": "Doctrine and Covenants",
+        "chapter": 22,
+        "verse": 4
       }
     ]
   },

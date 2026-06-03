@@ -31,7 +31,37 @@
             "end": 33
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 1,
+        "crossReferences": [
+          {
+            "raw": "1 Chr. 9:33.",
+            "prettyString": "1 Chronicles 9:33",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "1chronicles",
+                "chapters": [
+                  {
+                    "start": 9,
+                    "end": 9,
+                    "verses": [
+                      {
+                        "start": 33,
+                        "end": 33
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 134:1",
+        "book": "Psalms",
+        "chapter": 134,
+        "verse": 1
       },
       {
         "text": "Lift up your hands in the sanctuary, and bless the Lord.",
@@ -48,7 +78,14 @@
             "end": 21
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 2,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 134:2",
+        "book": "Psalms",
+        "chapter": 134,
+        "verse": 2
       },
       {
         "text": "The Lord that made heaven and earth bless thee out of Zion.",
@@ -60,7 +97,37 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 3,
+        "crossReferences": [
+          {
+            "raw": "Ps. 128:5.",
+            "prettyString": "Psalms 128:5",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "psalms",
+                "chapters": [
+                  {
+                    "start": 128,
+                    "end": 128,
+                    "verses": [
+                      {
+                        "start": 5,
+                        "end": 5
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 134:3",
+        "book": "Psalms",
+        "chapter": 134,
+        "verse": 3
       }
     ]
   },

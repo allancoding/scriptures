@@ -26,7 +26,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 1,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "3 Nephi 30:1",
+        "book": "3 Nephi",
+        "chapter": 30,
+        "verse": 1
       },
       {
         "text": "Turn, all ye Gentiles, from your wicked ways; and repent of your evil doings, of your lyings and deceivings, and of your whoredoms, and of your secret abominations, and your idolatries, and of your murders, and your priestcrafts, and your envyings, and your strifes, and from all your wickedness and abominations, and come unto me, and be baptized in my name, that ye may receive a remission of your sins, and be filled with the Holy Ghost, that ye may be numbered with my people who are of the house of Israel.",
@@ -68,7 +75,95 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 2,
+        "crossReferences": [
+          {
+            "raw": "TG Repent.",
+            "prettyString": "TG Repent",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Repent",
+                "entryId": "tg-repent",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "3 Ne. 16:10; Morm. 8:31.",
+            "prettyString": "3 Nephi 16:10; Mormon 8:31",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "3nephi",
+                "chapters": [
+                  {
+                    "start": 16,
+                    "end": 16,
+                    "verses": [
+                      {
+                        "start": 10,
+                        "end": 10
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "mormon",
+                "chapters": [
+                  {
+                    "start": 8,
+                    "end": 8,
+                    "verses": [
+                      {
+                        "start": 31,
+                        "end": 31
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Priestcraft.",
+            "prettyString": "TG Priestcraft",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Priestcraft",
+                "entryId": "tg-priestcraft",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Envy.",
+            "prettyString": "TG Envy",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Envy",
+                "entryId": "tg-envy",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "3 Nephi 30:2",
+        "book": "3 Nephi",
+        "chapter": 30,
+        "verse": 2
       }
     ]
   },

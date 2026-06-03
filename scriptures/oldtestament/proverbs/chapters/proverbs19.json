@@ -40,7 +40,47 @@
             "end": 65
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 1,
+        "crossReferences": [
+          {
+            "raw": "D&C 88:17; 104:16.",
+            "prettyString": "D&C 88:17; 104:16",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 88,
+                    "end": 88,
+                    "verses": [
+                      {
+                        "start": 17,
+                        "end": 17
+                      }
+                    ]
+                  },
+                  {
+                    "start": 104,
+                    "end": 104,
+                    "verses": [
+                      {
+                        "start": 16,
+                        "end": 16
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 19:1",
+        "book": "Proverbs",
+        "chapter": 19,
+        "verse": 1
       },
       {
         "text": "Also, that the soul be without knowledge, it is not good; and he that hasteth with his feet sinneth.",
@@ -74,7 +114,67 @@
             "end": 86
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 2,
+        "crossReferences": [
+          {
+            "raw": "D&C 42:61; Abr. 1:2.",
+            "prettyString": "D&C 42:61; Abraham 1:2",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 42,
+                    "end": 42,
+                    "verses": [
+                      {
+                        "start": 61,
+                        "end": 61
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "abraham",
+                "chapters": [
+                  {
+                    "start": 1,
+                    "end": 1,
+                    "verses": [
+                      {
+                        "start": 2,
+                        "end": 2
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Haste.",
+            "prettyString": "TG Haste",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Haste",
+                "entryId": "tg-haste",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 19:2",
+        "book": "Proverbs",
+        "chapter": 19,
+        "verse": 2
       },
       {
         "text": "The foolishness of man perverteth his way: and his heart fretteth against the Lord.",
@@ -86,7 +186,29 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 3,
+        "crossReferences": [
+          {
+            "raw": "TG Foolishness.",
+            "prettyString": "TG Foolishness",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Foolishness",
+                "entryId": "tg-foolishness",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 19:3",
+        "book": "Proverbs",
+        "chapter": 19,
+        "verse": 3
       },
       {
         "text": "Wealth maketh many friends; but the poor is separated from his neighbour.",
@@ -98,7 +220,37 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 4,
+        "crossReferences": [
+          {
+            "raw": "Prov. 14:20.",
+            "prettyString": "Proverbs 14:20",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "proverbs",
+                "chapters": [
+                  {
+                    "start": 14,
+                    "end": 14,
+                    "verses": [
+                      {
+                        "start": 20,
+                        "end": 20
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 19:4",
+        "book": "Proverbs",
+        "chapter": 19,
+        "verse": 4
       },
       {
         "text": "A false witness shall not be unpunished, and he that speaketh lies shall not escape.",
@@ -120,7 +272,51 @@
             "end": 52
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 5,
+        "crossReferences": [
+          {
+            "raw": "Mosiah 13:23.",
+            "prettyString": "Mosiah 13:23",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "mosiah",
+                "chapters": [
+                  {
+                    "start": 13,
+                    "end": 13,
+                    "verses": [
+                      {
+                        "start": 23,
+                        "end": 23
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Lying.",
+            "prettyString": "TG Lying",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Lying",
+                "entryId": "tg-lying",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 19:5",
+        "book": "Proverbs",
+        "chapter": 19,
+        "verse": 5
       },
       {
         "text": "Many will entreat the favour of the prince: and every man is a friend to him that giveth gifts.",
@@ -142,7 +338,75 @@
             "end": 60
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 6,
+        "crossReferences": [
+          {
+            "raw": "Prov. 29:26; Alma 47:35.",
+            "prettyString": "Proverbs 29:26; Alma 47:35",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "proverbs",
+                "chapters": [
+                  {
+                    "start": 29,
+                    "end": 29,
+                    "verses": [
+                      {
+                        "start": 26,
+                        "end": 26
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "alma",
+                "chapters": [
+                  {
+                    "start": 47,
+                    "end": 47,
+                    "verses": [
+                      {
+                        "start": 35,
+                        "end": 35
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "Matt. 5:46.",
+            "prettyString": "Matthew 5:46",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "matthew",
+                "chapters": [
+                  {
+                    "start": 5,
+                    "end": 5,
+                    "verses": [
+                      {
+                        "start": 46,
+                        "end": 46
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 19:6",
+        "book": "Proverbs",
+        "chapter": 19,
+        "verse": 6
       },
       {
         "text": "All the brethren of the poor do hate him: how much more do his friends go far from him? he pursueth them with words, yet they are wanting to him.",
@@ -171,7 +435,37 @@
             "end": 145
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 7,
+        "crossReferences": [
+          {
+            "raw": "Prov. 18:23.",
+            "prettyString": "Proverbs 18:23",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "proverbs",
+                "chapters": [
+                  {
+                    "start": 18,
+                    "end": 18,
+                    "verses": [
+                      {
+                        "start": 23,
+                        "end": 23
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 19:7",
+        "book": "Proverbs",
+        "chapter": 19,
+        "verse": 7
       },
       {
         "text": "He that getteth wisdom loveth his own soul: he that keepeth understanding shall find good.",
@@ -183,7 +477,29 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 8,
+        "crossReferences": [
+          {
+            "raw": "TG Understanding.",
+            "prettyString": "TG Understanding",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Understanding",
+                "entryId": "tg-understanding",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 19:8",
+        "book": "Proverbs",
+        "chapter": 19,
+        "verse": 8
       },
       {
         "text": "A false witness shall not be unpunished, and he that speaketh lies shall perish.",
@@ -205,7 +521,51 @@
             "end": 52
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 9,
+        "crossReferences": [
+          {
+            "raw": "TG Punish.",
+            "prettyString": "TG Punish",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Punish",
+                "entryId": "tg-punish",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "2 Ne. 9:34.",
+            "prettyString": "2 Nephi 9:34",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "2nephi",
+                "chapters": [
+                  {
+                    "start": 9,
+                    "end": 9,
+                    "verses": [
+                      {
+                        "start": 34,
+                        "end": 34
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 19:9",
+        "book": "Proverbs",
+        "chapter": 19,
+        "verse": 9
       },
       {
         "text": "Delight is not seemly for a fool; much less for a servant to have rule over princes.",
@@ -217,7 +577,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 10,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Proverbs 19:10",
+        "book": "Proverbs",
+        "chapter": 19,
+        "verse": 10
       },
       {
         "text": "The discretion of a man deferreth his anger; and it is his glory to pass over a transgression.",
@@ -249,7 +616,71 @@
             "end": 54
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 11,
+        "crossReferences": [
+          {
+            "raw": "TG Rashness.",
+            "prettyString": "TG Rashness",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Rashness",
+                "entryId": "tg-rashness",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Anger.",
+            "prettyString": "TG Anger",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Anger",
+                "entryId": "tg-anger",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Glory.",
+            "prettyString": "TG Glory",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Glory",
+                "entryId": "tg-glory",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Transgress.",
+            "prettyString": "TG Transgress",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Transgress",
+                "entryId": "tg-transgress",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 19:11",
+        "book": "Proverbs",
+        "chapter": 19,
+        "verse": 11
       },
       {
         "text": "The king’s wrath is as the roaring of a lion; but his favour is as dew upon the grass.",
@@ -270,7 +701,37 @@
             "end": 63
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 12,
+        "crossReferences": [
+          {
+            "raw": "Prov. 20:2.",
+            "prettyString": "Proverbs 20:2",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "proverbs",
+                "chapters": [
+                  {
+                    "start": 20,
+                    "end": 20,
+                    "verses": [
+                      {
+                        "start": 2,
+                        "end": 2
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 19:12",
+        "book": "Proverbs",
+        "chapter": 19,
+        "verse": 12
       },
       {
         "text": "A foolish son is the calamity of his father: and the contentions of a wife are a continual dropping.",
@@ -301,7 +762,73 @@
             "end": 78
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 13,
+        "crossReferences": [
+          {
+            "raw": "TG Marriage, Fatherhood.",
+            "prettyString": "TG Marriage, Fatherhood",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Marriage, Fatherhood",
+                "entryId": "tg-marriage-fatherhood",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "Prov. 21:9.",
+            "prettyString": "Proverbs 21:9",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "proverbs",
+                "chapters": [
+                  {
+                    "start": 21,
+                    "end": 21,
+                    "verses": [
+                      {
+                        "start": 9,
+                        "end": 9
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "Prov. 27:15.",
+            "prettyString": "Proverbs 27:15",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "proverbs",
+                "chapters": [
+                  {
+                    "start": 27,
+                    "end": 27,
+                    "verses": [
+                      {
+                        "start": 15,
+                        "end": 15
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 19:13",
+        "book": "Proverbs",
+        "chapter": 19,
+        "verse": 13
       },
       {
         "text": "House and riches are the inheritance of fathers: and a prudent wife is from the Lord.",
@@ -322,7 +849,29 @@
             "end": 70
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 14,
+        "crossReferences": [
+          {
+            "raw": "TG Prudence.",
+            "prettyString": "TG Prudence",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Prudence",
+                "entryId": "tg-prudence",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 19:14",
+        "book": "Proverbs",
+        "chapter": 19,
+        "verse": 14
       },
       {
         "text": "Slothfulness casteth into a deep sleep; and an idle soul shall suffer hunger.",
@@ -339,7 +888,51 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 15,
+        "crossReferences": [
+          {
+            "raw": "TG Laziness; Procrastination.",
+            "prettyString": "TG Laziness; TG Procrastination",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Laziness",
+                "entryId": "tg-laziness",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Procrastination",
+                "entryId": "tg-procrastination",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Idleness.",
+            "prettyString": "TG Idleness",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Idleness",
+                "entryId": "tg-idleness",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 19:15",
+        "book": "Proverbs",
+        "chapter": 19,
+        "verse": 15
       },
       {
         "text": "He that keepeth the commandment keepeth his own soul; but he that despiseth his ways shall die.",
@@ -356,7 +949,69 @@
             "end": 57
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 16,
+        "crossReferences": [
+          {
+            "raw": "Prov. 13:13; Luke 11:28; D&C 1:32.",
+            "prettyString": "Proverbs 13:13; Luke 11:28; D&C 1:32",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "proverbs",
+                "chapters": [
+                  {
+                    "start": 13,
+                    "end": 13,
+                    "verses": [
+                      {
+                        "start": 13,
+                        "end": 13
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "luke",
+                "chapters": [
+                  {
+                    "start": 11,
+                    "end": 11,
+                    "verses": [
+                      {
+                        "start": 28,
+                        "end": 28
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 1,
+                    "end": 1,
+                    "verses": [
+                      {
+                        "start": 32,
+                        "end": 32
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 19:16",
+        "book": "Proverbs",
+        "chapter": 19,
+        "verse": 16
       },
       {
         "text": "He that hath pity upon the poor lendeth unto the Lord; and that which he hath given will he pay him again.",
@@ -373,7 +1028,37 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 17,
+        "crossReferences": [
+          {
+            "raw": "TG Compassion; Generosity.",
+            "prettyString": "TG Compassion; TG Generosity",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Compassion",
+                "entryId": "tg-compassion",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Generosity",
+                "entryId": "tg-generosity",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 19:17",
+        "book": "Proverbs",
+        "chapter": 19,
+        "verse": 17
       },
       {
         "text": "Chasten thy son while there is hope, and let not thy soul spare for his crying.",
@@ -385,7 +1070,29 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 18,
+        "crossReferences": [
+          {
+            "raw": "TG Chastening.",
+            "prettyString": "TG Chastening",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Chastening",
+                "entryId": "tg-chastening",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 19:18",
+        "book": "Proverbs",
+        "chapter": 19,
+        "verse": 18
       },
       {
         "text": "A man of great wrath shall suffer punishment: for if thou deliver him, yet thou must do it again.",
@@ -402,7 +1109,37 @@
             "end": 70
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 19,
+        "crossReferences": [
+          {
+            "raw": "Morm. 8:21.",
+            "prettyString": "Mormon 8:21",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "mormon",
+                "chapters": [
+                  {
+                    "start": 8,
+                    "end": 8,
+                    "verses": [
+                      {
+                        "start": 21,
+                        "end": 21
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 19:19",
+        "book": "Proverbs",
+        "chapter": 19,
+        "verse": 19
       },
       {
         "text": "Hear counsel, and receive instruction, that thou mayest be wise in thy latter end.",
@@ -414,7 +1151,29 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 20,
+        "crossReferences": [
+          {
+            "raw": "TG Edification.",
+            "prettyString": "TG Edification",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Edification",
+                "entryId": "tg-edification",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 19:20",
+        "book": "Proverbs",
+        "chapter": 19,
+        "verse": 20
       },
       {
         "text": "There are many devices in a man’s heart; nevertheless the counsel of the Lord, that shall stand.",
@@ -431,7 +1190,37 @@
             "end": 9
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 21,
+        "crossReferences": [
+          {
+            "raw": "Isa. 46:10.",
+            "prettyString": "Isaiah 46:10",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "isaiah",
+                "chapters": [
+                  {
+                    "start": 46,
+                    "end": 46,
+                    "verses": [
+                      {
+                        "start": 10,
+                        "end": 10
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 19:21",
+        "book": "Proverbs",
+        "chapter": 19,
+        "verse": 21
       },
       {
         "text": "The desire of a man is his kindness: and a poor man is better than a liar.",
@@ -457,7 +1246,43 @@
             "end": 54
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 22,
+        "crossReferences": [
+          {
+            "raw": "TG Kindness.",
+            "prettyString": "TG Kindness",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Kindness",
+                "entryId": "tg-kindness",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Lying.",
+            "prettyString": "TG Lying",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Lying",
+                "entryId": "tg-lying",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 19:22",
+        "book": "Proverbs",
+        "chapter": 19,
+        "verse": 22
       },
       {
         "text": "The fear of the Lord tendeth to life: and he that hath it shall abide satisfied; he shall not be visited with evil.",
@@ -483,7 +1308,61 @@
             "end": 57
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 23,
+        "crossReferences": [
+          {
+            "raw": "TG Reverence.",
+            "prettyString": "TG Reverence",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Reverence",
+                "entryId": "tg-reverence",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "Prov. 10:16; 11:19.",
+            "prettyString": "Proverbs 10:16; 11:19",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "proverbs",
+                "chapters": [
+                  {
+                    "start": 10,
+                    "end": 10,
+                    "verses": [
+                      {
+                        "start": 16,
+                        "end": 16
+                      }
+                    ]
+                  },
+                  {
+                    "start": 11,
+                    "end": 11,
+                    "verses": [
+                      {
+                        "start": 19,
+                        "end": 19
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 19:23",
+        "book": "Proverbs",
+        "chapter": 19,
+        "verse": 23
       },
       {
         "text": "A slothful man hideth his hand in his bosom, and will not so much as bring it to his mouth again.",
@@ -504,7 +1383,29 @@
             "end": 37
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 24,
+        "crossReferences": [
+          {
+            "raw": "TG Laziness.",
+            "prettyString": "TG Laziness",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Laziness",
+                "entryId": "tg-laziness",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 19:24",
+        "book": "Proverbs",
+        "chapter": 19,
+        "verse": 24
       },
       {
         "text": "Smite a scorner, and the simple will beware: and reprove one that hath understanding, and he will understand knowledge.",
@@ -521,7 +1422,37 @@
             "end": 89
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 25,
+        "crossReferences": [
+          {
+            "raw": "Prov. 21:11.",
+            "prettyString": "Proverbs 21:11",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "proverbs",
+                "chapters": [
+                  {
+                    "start": 21,
+                    "end": 21,
+                    "verses": [
+                      {
+                        "start": 11,
+                        "end": 11
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 19:25",
+        "book": "Proverbs",
+        "chapter": 19,
+        "verse": 25
       },
       {
         "text": "He that wasteth his father, and chaseth away his mother, is a son that causeth shame, and bringeth reproach.",
@@ -550,7 +1481,53 @@
             "end": 59
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 26,
+        "crossReferences": [
+          {
+            "raw": "Prov. 20:20; Mosiah 13:20.",
+            "prettyString": "Proverbs 20:20; Mosiah 13:20",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "proverbs",
+                "chapters": [
+                  {
+                    "start": 20,
+                    "end": 20,
+                    "verses": [
+                      {
+                        "start": 20,
+                        "end": 20
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "mosiah",
+                "chapters": [
+                  {
+                    "start": 13,
+                    "end": 13,
+                    "verses": [
+                      {
+                        "start": 20,
+                        "end": 20
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 19:26",
+        "book": "Proverbs",
+        "chapter": 19,
+        "verse": 26
       },
       {
         "text": "Cease, my son, to hear the instruction that causeth to err from the words of knowledge.",
@@ -567,13 +1544,27 @@
             "end": 51
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 27,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Proverbs 19:27",
+        "book": "Proverbs",
+        "chapter": 19,
+        "verse": 27
       },
       {
         "text": "An ungodly witness scorneth judgment: and the mouth of the wicked devoureth iniquity.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 28,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Proverbs 19:28",
+        "book": "Proverbs",
+        "chapter": 19,
+        "verse": 28
       },
       {
         "text": "Judgments are prepared for scorners, and stripes for the back of fools.",
@@ -585,7 +1576,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 29,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Proverbs 19:29",
+        "book": "Proverbs",
+        "chapter": 19,
+        "verse": 29
       }
     ]
   },

@@ -36,7 +36,37 @@
             "end": 44
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 1,
+        "crossReferences": [
+          {
+            "raw": "2 Sam. 7:20.",
+            "prettyString": "2 Samuel 7:20",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "2samuel",
+                "chapters": [
+                  {
+                    "start": 7,
+                    "end": 7,
+                    "verses": [
+                      {
+                        "start": 20,
+                        "end": 20
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 139:1",
+        "book": "Psalms",
+        "chapter": 139,
+        "verse": 1
       },
       {
         "text": "Thou knowest my downsitting and mine uprising, thou understandest my thought afar off.",
@@ -48,7 +78,85 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 2,
+        "crossReferences": [
+          {
+            "raw": "Amos 4:13; Matt. 12:25; Mosiah 24:12; D&C 6:16.",
+            "prettyString": "Amos 4:13; Matthew 12:25; Mosiah 24:12; D&C 6:16",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "amos",
+                "chapters": [
+                  {
+                    "start": 4,
+                    "end": 4,
+                    "verses": [
+                      {
+                        "start": 13,
+                        "end": 13
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "matthew",
+                "chapters": [
+                  {
+                    "start": 12,
+                    "end": 12,
+                    "verses": [
+                      {
+                        "start": 25,
+                        "end": 25
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "mosiah",
+                "chapters": [
+                  {
+                    "start": 24,
+                    "end": 24,
+                    "verses": [
+                      {
+                        "start": 12,
+                        "end": 12
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 6,
+                    "end": 6,
+                    "verses": [
+                      {
+                        "start": 16,
+                        "end": 16
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 139:2",
+        "book": "Psalms",
+        "chapter": 139,
+        "verse": 2
       },
       {
         "text": "Thou compassest my path and my lying down, and art acquainted with all my ways.",
@@ -65,7 +173,29 @@
             "end": 66
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 3,
+        "crossReferences": [
+          {
+            "raw": "TG God, Omniscience of.",
+            "prettyString": "TG God, Omniscience of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "God, Omniscience of",
+                "entryId": "tg-god-omniscience-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 139:3",
+        "book": "Psalms",
+        "chapter": 139,
+        "verse": 3
       },
       {
         "text": "For there is not a word in my tongue, but, lo, O Lord, thou knowest it altogether.",
@@ -80,13 +210,27 @@
             "end": 42
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 4,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 139:4",
+        "book": "Psalms",
+        "chapter": 139,
+        "verse": 4
       },
       {
         "text": "Thou hast beset me behind and before, and laid thine hand upon me.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 5,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 139:5",
+        "book": "Psalms",
+        "chapter": 139,
+        "verse": 5
       },
       {
         "text": "Such knowledge is too wonderful for me; it is high, I cannot attain unto it.",
@@ -116,7 +260,51 @@
             "end": 67
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 6,
+        "crossReferences": [
+          {
+            "raw": "TG God, Intelligence of.",
+            "prettyString": "TG God, Intelligence of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "God, Intelligence of",
+                "entryId": "tg-god-intelligence-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "Job 42:3.",
+            "prettyString": "Job 42:3",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "job",
+                "chapters": [
+                  {
+                    "start": 42,
+                    "end": 42,
+                    "verses": [
+                      {
+                        "start": 3,
+                        "end": 3
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 139:6",
+        "book": "Psalms",
+        "chapter": 139,
+        "verse": 6
       },
       {
         "text": "Whither shall I go from thy spirit? or whither shall I flee from thy presence?",
@@ -133,7 +321,37 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 7,
+        "crossReferences": [
+          {
+            "raw": "Jonah 1:3.",
+            "prettyString": "Jonah 1:3",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "jonah",
+                "chapters": [
+                  {
+                    "start": 1,
+                    "end": 1,
+                    "verses": [
+                      {
+                        "start": 3,
+                        "end": 3
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 139:7",
+        "book": "Psalms",
+        "chapter": 139,
+        "verse": 7
       },
       {
         "text": "If I ascend up into heaven, thou art there: if I make my bed in hell, behold, thou art there.",
@@ -154,7 +372,14 @@
             "end": 93
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 8,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 139:8",
+        "book": "Psalms",
+        "chapter": 139,
+        "verse": 8
       },
       {
         "text": "If I take the wings of the morning, and dwell in the uttermost parts of the sea;",
@@ -169,19 +394,40 @@
             "end": 39
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 9,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 139:9",
+        "book": "Psalms",
+        "chapter": 139,
+        "verse": 9
       },
       {
         "text": "Even there shall thy hand lead me, and thy right hand shall hold me.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 10,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 139:10",
+        "book": "Psalms",
+        "chapter": 139,
+        "verse": 10
       },
       {
         "text": "If I say, Surely the darkness shall cover me; even the night shall be light about me.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 11,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 139:11",
+        "book": "Psalms",
+        "chapter": 139,
+        "verse": 11
       },
       {
         "text": "Yea, the darkness hideth not from thee; but the night shineth as the day: the darkness and the light are both alike to thee.",
@@ -196,7 +442,14 @@
             "end": 124
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 12,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 139:12",
+        "book": "Psalms",
+        "chapter": 139,
+        "verse": 12
       },
       {
         "text": "For thou hast possessed my reins: thou hast covered me in my mother’s womb.",
@@ -213,7 +466,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 13,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 139:13",
+        "book": "Psalms",
+        "chapter": 139,
+        "verse": 13
       },
       {
         "text": "I will praise thee; for I am fearfully and wonderfully made: marvellous are thy works; and that my soul knoweth right well.",
@@ -232,7 +492,14 @@
             "end": 95
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 14,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 139:14",
+        "book": "Psalms",
+        "chapter": 139,
+        "verse": 14
       },
       {
         "text": "My substance was not hid from thee, when I was made in secret, and curiously wrought in the lowest parts of the earth.",
@@ -243,7 +510,14 @@
             "end": 66
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 15,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 139:15",
+        "book": "Psalms",
+        "chapter": 139,
+        "verse": 15
       },
       {
         "text": "Thine eyes did see my substance, yet being unperfect; and in thy book all my members were written, which in continuance were fashioned, when as yet there was none of them.",
@@ -268,7 +542,53 @@
             "end": 157
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 16,
+        "crossReferences": [
+          {
+            "raw": "Ex. 32:32; Rev. 17:8.",
+            "prettyString": "Exodus 32:32; Revelation 17:8",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "exodus",
+                "chapters": [
+                  {
+                    "start": 32,
+                    "end": 32,
+                    "verses": [
+                      {
+                        "start": 32,
+                        "end": 32
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "revelation",
+                "chapters": [
+                  {
+                    "start": 17,
+                    "end": 17,
+                    "verses": [
+                      {
+                        "start": 8,
+                        "end": 8
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 139:16",
+        "book": "Psalms",
+        "chapter": 139,
+        "verse": 16
       },
       {
         "text": "How precious also are thy thoughts unto me, O God! how great is the sum of them!",
@@ -280,7 +600,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 17,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 139:17",
+        "book": "Psalms",
+        "chapter": 139,
+        "verse": 17
       },
       {
         "text": "If I should count them, they are more in number than the sand: when I awake, I am still with thee.",
@@ -291,7 +618,14 @@
             "end": 2
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 18,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 139:18",
+        "book": "Psalms",
+        "chapter": 139,
+        "verse": 18
       },
       {
         "text": "Surely thou wilt slay the wicked, O God: depart from me therefore, ye bloody men.",
@@ -303,7 +637,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 19,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 139:19",
+        "book": "Psalms",
+        "chapter": 139,
+        "verse": 19
       },
       {
         "text": "For they speak against thee wickedly, and thine enemies take thy name in vain.",
@@ -329,19 +670,63 @@
             "end": 69
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 20,
+        "crossReferences": [
+          {
+            "raw": "Matt. 5:33.",
+            "prettyString": "Matthew 5:33",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "matthew",
+                "chapters": [
+                  {
+                    "start": 5,
+                    "end": 5,
+                    "verses": [
+                      {
+                        "start": 33,
+                        "end": 33
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 139:20",
+        "book": "Psalms",
+        "chapter": 139,
+        "verse": 20
       },
       {
         "text": "Do not I hate them, O Lord, that hate thee? and am not I grieved with those that rise up against thee?",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 21,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 139:21",
+        "book": "Psalms",
+        "chapter": 139,
+        "verse": 21
       },
       {
         "text": "I hate them with perfect hatred: I count them mine enemies.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 22,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 139:22",
+        "book": "Psalms",
+        "chapter": 139,
+        "verse": 22
       },
       {
         "text": "Search me, O God, and know my heart: try me, and know my thoughts:",
@@ -353,7 +738,29 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 23,
+        "crossReferences": [
+          {
+            "raw": "TG Test.",
+            "prettyString": "TG Test",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Test",
+                "entryId": "tg-test",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 139:23",
+        "book": "Psalms",
+        "chapter": 139,
+        "verse": 23
       },
       {
         "text": "And see if there be any wicked way in me, and lead me in the way everlasting.",
@@ -364,7 +771,14 @@
             "end": 23
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 24,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 139:24",
+        "book": "Psalms",
+        "chapter": 139,
+        "verse": 24
       }
     ]
   },

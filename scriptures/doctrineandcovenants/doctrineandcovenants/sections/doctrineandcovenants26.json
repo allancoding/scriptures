@@ -51,7 +51,111 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 1,
+        "crossReferences": [
+          {
+            "raw": "TG Time.",
+            "prettyString": "TG Time",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Time",
+                "entryId": "tg-time",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Scriptures, Study of; Study.",
+            "prettyString": "TG Scriptures, Study of; TG Study",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Scriptures, Study of",
+                "entryId": "tg-scriptures-study-of",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Study",
+                "entryId": "tg-study",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "D&C 24:3; 37:2.",
+            "prettyString": "D&C 24:3; 37:2",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 24,
+                    "end": 24,
+                    "verses": [
+                      {
+                        "start": 3,
+                        "end": 3
+                      }
+                    ]
+                  },
+                  {
+                    "start": 37,
+                    "end": 37,
+                    "verses": [
+                      {
+                        "start": 2,
+                        "end": 2
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Industry.",
+            "prettyString": "TG Industry",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Industry",
+                "entryId": "tg-industry",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Guidance, Divine.",
+            "prettyString": "TG Guidance, Divine",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Guidance, Divine",
+                "entryId": "tg-guidance-divine",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 26:1",
+        "book": "Doctrine and Covenants",
+        "chapter": 26,
+        "verse": 1
       },
       {
         "text": "And all things shall be done by common consent in the church, by much prayer and faith, for all things you shall receive by faith. Amen.",
@@ -68,7 +172,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 2,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 26:2",
+        "book": "Doctrine and Covenants",
+        "chapter": 26,
+        "verse": 2
       }
     ]
   },

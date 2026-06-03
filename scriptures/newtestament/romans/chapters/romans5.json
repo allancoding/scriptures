@@ -36,7 +36,57 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 1,
+        "crossReferences": [
+          {
+            "raw": "TG Justification.",
+            "prettyString": "TG Justification",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Justification",
+                "entryId": "tg-justification",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Faith.",
+            "prettyString": "TG Faith",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Faith",
+                "entryId": "tg-faith",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Peace of God.",
+            "prettyString": "TG Peace of God",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Peace of God",
+                "entryId": "tg-peace-of-god",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Romans 5:1",
+        "book": "Romans",
+        "chapter": 5,
+        "verse": 1
       },
       {
         "text": "By whom also we have access by faith into this grace wherein we stand, and rejoice in hope of the glory of God.",
@@ -48,7 +98,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 2,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Romans 5:2",
+        "book": "Romans",
+        "chapter": 5,
+        "verse": 2
       },
       {
         "text": "And not only so, but we glory in tribulations also: knowing that tribulation worketh patience;",
@@ -75,13 +132,78 @@
             "end": 16
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 3,
+        "crossReferences": [
+          {
+            "raw": "2 Cor. 4:17.",
+            "prettyString": "2 Corinthians 4:17",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "2corinthians",
+                "chapters": [
+                  {
+                    "start": 4,
+                    "end": 4,
+                    "verses": [
+                      {
+                        "start": 17,
+                        "end": 17
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Tribulation.",
+            "prettyString": "TG Tribulation",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Tribulation",
+                "entryId": "tg-tribulation",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Patience.",
+            "prettyString": "TG Patience",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Patience",
+                "entryId": "tg-patience",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Romans 5:3",
+        "book": "Romans",
+        "chapter": 5,
+        "verse": 3
       },
       {
         "text": "And patience, experience; and experience, hope:",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 4,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Romans 5:4",
+        "book": "Romans",
+        "chapter": 5,
+        "verse": 4
       },
       {
         "text": "And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us.",
@@ -98,7 +220,29 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 5,
+        "crossReferences": [
+          {
+            "raw": "TG Love.",
+            "prettyString": "TG Love",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Love",
+                "entryId": "tg-love",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Romans 5:5",
+        "book": "Romans",
+        "chapter": 5,
+        "verse": 5
       },
       {
         "text": "For when we were yet without strength, in due time Christ died for the ungodly.",
@@ -110,13 +254,42 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 6,
+        "crossReferences": [
+          {
+            "raw": "TG Strength.",
+            "prettyString": "TG Strength",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Strength",
+                "entryId": "tg-strength",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Romans 5:6",
+        "book": "Romans",
+        "chapter": 5,
+        "verse": 6
       },
       {
         "text": "For scarcely for a righteous man will one die: yet peradventure for a good man some would even dare to die.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 7,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Romans 5:7",
+        "book": "Romans",
+        "chapter": 5,
+        "verse": 7
       },
       {
         "text": "But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us.",
@@ -133,7 +306,51 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 8,
+        "crossReferences": [
+          {
+            "raw": "Mosiah 4:11.",
+            "prettyString": "Mosiah 4:11",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "mosiah",
+                "chapters": [
+                  {
+                    "start": 4,
+                    "end": 4,
+                    "verses": [
+                      {
+                        "start": 11,
+                        "end": 11
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Salvation, Plan of.",
+            "prettyString": "TG Salvation, Plan of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Salvation, Plan of",
+                "entryId": "tg-salvation-plan-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Romans 5:8",
+        "book": "Romans",
+        "chapter": 5,
+        "verse": 8
       },
       {
         "text": "Much more then, being now justified by his blood, we shall be saved from wrath through him.",
@@ -150,7 +367,43 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 9,
+        "crossReferences": [
+          {
+            "raw": "TG Jesus Christ, Atonement through.",
+            "prettyString": "TG Jesus Christ, Atonement through",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Jesus Christ, Atonement through",
+                "entryId": "tg-jesus-christ-atonement-through",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Blood, Symbolism of.",
+            "prettyString": "TG Blood, Symbolism of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Blood, Symbolism of",
+                "entryId": "tg-blood-symbolism-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Romans 5:9",
+        "book": "Romans",
+        "chapter": 5,
+        "verse": 9
       },
       {
         "text": "For if, when we were enemies, we were reconciled to God by the death of his Son, much more, being reconciled, we shall be saved by his life.",
@@ -167,7 +420,51 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 10,
+        "crossReferences": [
+          {
+            "raw": "TG Jesus Christ, Redeemer; Reconciliation.",
+            "prettyString": "TG Jesus Christ, Redeemer; TG Reconciliation",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Jesus Christ, Redeemer",
+                "entryId": "tg-jesus-christ-redeemer",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Reconciliation",
+                "entryId": "tg-reconciliation",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Jesus Christ, Death of.",
+            "prettyString": "TG Jesus Christ, Death of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Jesus Christ, Death of",
+                "entryId": "tg-jesus-christ-death-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Romans 5:10",
+        "book": "Romans",
+        "chapter": 5,
+        "verse": 10
       },
       {
         "text": "And not only so, but we also joy in God through our Lord Jesus Christ, by whom we have now received the atonement.",
@@ -184,7 +481,14 @@
             "end": 16
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 11,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Romans 5:11",
+        "book": "Romans",
+        "chapter": 5,
+        "verse": 11
       },
       {
         "text": "Wherefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned:",
@@ -211,7 +515,65 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 12,
+        "crossReferences": [
+          {
+            "raw": "1 Cor. 15:21.",
+            "prettyString": "1 Corinthians 15:21",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "1corinthians",
+                "chapters": [
+                  {
+                    "start": 15,
+                    "end": 15,
+                    "verses": [
+                      {
+                        "start": 21,
+                        "end": 21
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Death.",
+            "prettyString": "TG Death",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Death",
+                "entryId": "tg-death",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Man, Natural, Not Spiritually Reborn.",
+            "prettyString": "TG Man, Natural, Not Spiritually Reborn",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Man, Natural, Not Spiritually Reborn",
+                "entryId": "tg-man-natural-not-spiritually-reborn",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Romans 5:12",
+        "book": "Romans",
+        "chapter": 5,
+        "verse": 12
       },
       {
         "text": "(For until the law sin was in the world: but sin is not imputed when there is no law.",
@@ -228,7 +590,29 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 13,
+        "crossReferences": [
+          {
+            "raw": "TG Sin.",
+            "prettyString": "TG Sin",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Sin",
+                "entryId": "tg-sin",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Romans 5:13",
+        "book": "Romans",
+        "chapter": 5,
+        "verse": 13
       },
       {
         "text": "Nevertheless death reigned from Adam to Moses, even over them that had not sinned after the similitude of Adam’s transgression, who is the figure of him that was to come.",
@@ -245,7 +629,29 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 14,
+        "crossReferences": [
+          {
+            "raw": "TG Transgress.",
+            "prettyString": "TG Transgress",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Transgress",
+                "entryId": "tg-transgress",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Romans 5:14",
+        "book": "Romans",
+        "chapter": 5,
+        "verse": 14
       },
       {
         "text": "But not as the offence, so also is the free gift. For if through the offence of one many be dead, much more the grace of God, and the gift by grace, which is by one man, Jesus Christ, hath abounded unto many.",
@@ -266,7 +672,37 @@
             "end": 157
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 15,
+        "crossReferences": [
+          {
+            "raw": "2 Cor. 5:14.",
+            "prettyString": "2 Corinthians 5:14",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "2corinthians",
+                "chapters": [
+                  {
+                    "start": 5,
+                    "end": 5,
+                    "verses": [
+                      {
+                        "start": 14,
+                        "end": 14
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Romans 5:15",
+        "book": "Romans",
+        "chapter": 5,
+        "verse": 15
       },
       {
         "text": "And not as it was by one that sinned, so is the gift: for the judgment was by one to condemnation, but the free gift is of many offences unto justification.",
@@ -289,7 +725,14 @@
             "end": 119
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 16,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Romans 5:16",
+        "book": "Romans",
+        "chapter": 5,
+        "verse": 16
       },
       {
         "text": "For if by one man’s offence death reigned by one; much more they which receive abundance of grace and of the gift of righteousness shall reign in life by one, Jesus Christ.)",
@@ -301,7 +744,29 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 17,
+        "crossReferences": [
+          {
+            "raw": "TG Grace.",
+            "prettyString": "TG Grace",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Grace",
+                "entryId": "tg-grace",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Romans 5:17",
+        "book": "Romans",
+        "chapter": 5,
+        "verse": 17
       },
       {
         "text": "Therefore as by the offence of one judgment came upon all men to condemnation; even so by the righteousness of one the free gift came upon all men unto justification of life.",
@@ -327,7 +792,43 @@
             "end": 133
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 18,
+        "crossReferences": [
+          {
+            "raw": "TG Righteousness.",
+            "prettyString": "TG Righteousness",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Righteousness",
+                "entryId": "tg-righteousness",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Justification.",
+            "prettyString": "TG Justification",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Justification",
+                "entryId": "tg-justification",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Romans 5:18",
+        "book": "Romans",
+        "chapter": 5,
+        "verse": 18
       },
       {
         "text": "For as by one man’s disobedience many were made sinners, so by the obedience of one shall many be made righteous.",
@@ -344,13 +845,56 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 19,
+        "crossReferences": [
+          {
+            "raw": "TG Disobedience.",
+            "prettyString": "TG Disobedience",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Disobedience",
+                "entryId": "tg-disobedience",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Obedience.",
+            "prettyString": "TG Obedience",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Obedience",
+                "entryId": "tg-obedience",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Romans 5:19",
+        "book": "Romans",
+        "chapter": 5,
+        "verse": 19
       },
       {
         "text": "Moreover the law entered, that the offence might abound. But where sin abounded, grace did much more abound:",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 20,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Romans 5:20",
+        "book": "Romans",
+        "chapter": 5,
+        "verse": 20
       },
       {
         "text": "That as sin hath reigned unto death, even so might grace reign through righteousness unto eternal life by Jesus Christ our Lord.",
@@ -367,7 +911,43 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 21,
+        "crossReferences": [
+          {
+            "raw": "TG Righteousness.",
+            "prettyString": "TG Righteousness",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Righteousness",
+                "entryId": "tg-righteousness",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Eternal Life.",
+            "prettyString": "TG Eternal Life",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Eternal Life",
+                "entryId": "tg-eternal-life",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Romans 5:21",
+        "book": "Romans",
+        "chapter": 5,
+        "verse": 21
       }
     ]
   },

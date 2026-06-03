@@ -36,7 +36,37 @@
             "end": 79
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 1,
+        "crossReferences": [
+          {
+            "raw": "JS—M 1:2.",
+            "prettyString": "JS—M 1:2",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "josephsmithmatthew",
+                "chapters": [
+                  {
+                    "start": 1,
+                    "end": 1,
+                    "verses": [
+                      {
+                        "start": 2,
+                        "end": 2
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Matthew 24:1",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 1
       },
       {
         "text": "And Jesus said unto them, See ye not all these things? verily I say unto you, There shall not be left here one stone upon another, that shall not be thrown down.",
@@ -53,7 +83,37 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 2,
+        "crossReferences": [
+          {
+            "raw": "D&C 45:18.",
+            "prettyString": "D&C 45:18",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 45,
+                    "end": 45,
+                    "verses": [
+                      {
+                        "start": 18,
+                        "end": 18
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Matthew 24:2",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 2
       },
       {
         "text": "And as he sat upon the mount of Olives, the disciples came unto him privately, saying, Tell us, when shall these things be? and what shall be the sign of thy coming, and of the end of the world?",
@@ -75,7 +135,14 @@
             "end": 141
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 3,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Matthew 24:3",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 3
       },
       {
         "text": "And Jesus answered and said unto them, Take heed that no man deceive you.",
@@ -87,7 +154,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 4,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Matthew 24:4",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 4
       },
       {
         "text": "For many shall come in my name, saying, I am Christ; and shall deceive many.",
@@ -109,7 +183,43 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 5,
+        "crossReferences": [
+          {
+            "raw": "TG Name.",
+            "prettyString": "TG Name",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Name",
+                "entryId": "tg-name",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG False Christs.",
+            "prettyString": "TG False Christs",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "False Christs",
+                "entryId": "tg-false-christs",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Matthew 24:5",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 5
       },
       {
         "text": "And ye shall hear of wars and rumours of wars: see that ye be not troubled: for all these things must come to pass, but the end is not yet.",
@@ -131,7 +241,29 @@
             "end": 96
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 6,
+        "crossReferences": [
+          {
+            "raw": "TG War.",
+            "prettyString": "TG War",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "War",
+                "entryId": "tg-war",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Matthew 24:6",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 6
       },
       {
         "text": "For nation shall rise against nation, and kingdom against kingdom: and there shall be famines, and pestilences, and earthquakes, in divers places.",
@@ -148,7 +280,51 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 7,
+        "crossReferences": [
+          {
+            "raw": "TG Last Days; Nations.",
+            "prettyString": "TG Last Days; TG Nations",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Last Days",
+                "entryId": "tg-last-days",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Nations",
+                "entryId": "tg-nations",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Drought.",
+            "prettyString": "TG Drought",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Drought",
+                "entryId": "tg-drought",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Matthew 24:7",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 7
       },
       {
         "text": "All these are the beginning of sorrows.",
@@ -165,7 +341,29 @@
             "end": 13
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 8,
+        "crossReferences": [
+          {
+            "raw": "TG Sorrow.",
+            "prettyString": "TG Sorrow",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Sorrow",
+                "entryId": "tg-sorrow",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Matthew 24:8",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 8
       },
       {
         "text": "Then shall they deliver you up to be afflicted, and shall kill you: and ye shall be hated of all nations for my name’s sake.",
@@ -187,7 +385,43 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 9,
+        "crossReferences": [
+          {
+            "raw": "TG Martyrdom.",
+            "prettyString": "TG Martyrdom",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Martyrdom",
+                "entryId": "tg-martyrdom",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Persecution.",
+            "prettyString": "TG Persecution",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Persecution",
+                "entryId": "tg-persecution",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Matthew 24:9",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 9
       },
       {
         "text": "And then shall many be offended, and shall betray one another, and shall hate one another.",
@@ -199,7 +433,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 10,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Matthew 24:10",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 10
       },
       {
         "text": "And many false prophets shall rise, and shall deceive many.",
@@ -211,7 +452,37 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 11,
+        "crossReferences": [
+          {
+            "raw": "TG Apostasy of the Early Christian Church; False Prophets.",
+            "prettyString": "TG Apostasy of the Early Christian Church; TG False Prophets",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Apostasy of the Early Christian Church",
+                "entryId": "tg-apostasy-of-the-early-christian-church",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "False Prophets",
+                "entryId": "tg-false-prophets",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Matthew 24:11",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 11
       },
       {
         "text": "And because iniquity shall abound, the love of many shall wax cold.",
@@ -228,7 +499,51 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 12,
+        "crossReferences": [
+          {
+            "raw": "D&C 45:27.",
+            "prettyString": "D&C 45:27",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 45,
+                    "end": 45,
+                    "verses": [
+                      {
+                        "start": 27,
+                        "end": 27
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Apostasy of Individuals.",
+            "prettyString": "TG Apostasy of Individuals",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Apostasy of Individuals",
+                "entryId": "tg-apostasy-of-individuals",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Matthew 24:12",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 12
       },
       {
         "text": "But he that shall endure unto the end, the same shall be saved.",
@@ -240,7 +555,37 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 13,
+        "crossReferences": [
+          {
+            "raw": "TG Perseverance; Steadfastness.",
+            "prettyString": "TG Perseverance; TG Steadfastness",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Perseverance",
+                "entryId": "tg-perseverance",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Steadfastness",
+                "entryId": "tg-steadfastness",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Matthew 24:13",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 13
       },
       {
         "text": "And this gospel of the kingdom shall be preached in all the world for a witness unto all nations; and then shall the end come.",
@@ -262,7 +607,83 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 14,
+        "crossReferences": [
+          {
+            "raw": "TG Gospel; Restoration of the Gospel.",
+            "prettyString": "TG Gospel; TG Restoration of the Gospel",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Gospel",
+                "entryId": "tg-gospel",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Restoration of the Gospel",
+                "entryId": "tg-restoration-of-the-gospel",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Kingdom of God, on Earth.",
+            "prettyString": "TG Kingdom of God, on Earth",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Kingdom of God, on Earth",
+                "entryId": "tg-kingdom-of-god-on-earth",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "D&C 29:23; 43:31.",
+            "prettyString": "D&C 29:23; 43:31",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 29,
+                    "end": 29,
+                    "verses": [
+                      {
+                        "start": 23,
+                        "end": 23
+                      }
+                    ]
+                  },
+                  {
+                    "start": 43,
+                    "end": 43,
+                    "verses": [
+                      {
+                        "start": 31,
+                        "end": 31
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Matthew 24:14",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 14
       },
       {
         "text": "When ye therefore shall see the abomination of desolation, spoken of by Daniel the prophet, stand in the holy place, (whoso readeth, let him understand:)",
@@ -284,7 +705,65 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 15,
+        "crossReferences": [
+          {
+            "raw": "TG Abomination of Desolation.",
+            "prettyString": "TG Abomination of Desolation",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Abomination of Desolation",
+                "entryId": "tg-abomination-of-desolation",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Jerusalem.",
+            "prettyString": "TG Jerusalem",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Jerusalem",
+                "entryId": "tg-jerusalem",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "D&C 57:9.",
+            "prettyString": "D&C 57:9",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 57,
+                    "end": 57,
+                    "verses": [
+                      {
+                        "start": 9,
+                        "end": 9
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Matthew 24:15",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 15
       },
       {
         "text": "Then let them which be in Judæa flee into the mountains:",
@@ -296,19 +775,55 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 16,
+        "crossReferences": [
+          {
+            "raw": "TG Israel, Scattering of.",
+            "prettyString": "TG Israel, Scattering of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Israel, Scattering of",
+                "entryId": "tg-israel-scattering-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Matthew 24:16",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 16
       },
       {
         "text": "Let him which is on the housetop not come down to take any thing out of his house:",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 17,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Matthew 24:17",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 17
       },
       {
         "text": "Neither let him which is in the field return back to take his clothes.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 18,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Matthew 24:18",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 18
       },
       {
         "text": "And woe unto them that are with child, and to them that give suck in those days!",
@@ -320,13 +835,50 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 19,
+        "crossReferences": [
+          {
+            "raw": "Luke 23:29.",
+            "prettyString": "Luke 23:29",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "luke",
+                "chapters": [
+                  {
+                    "start": 23,
+                    "end": 23,
+                    "verses": [
+                      {
+                        "start": 29,
+                        "end": 29
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Matthew 24:19",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 19
       },
       {
         "text": "But pray ye that your flight be not in the winter, neither on the sabbath day:",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 20,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Matthew 24:20",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 20
       },
       {
         "text": "For then shall be great tribulation, such as was not since the beginning of the world to this time, no, nor ever shall be.",
@@ -338,7 +890,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 21,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Matthew 24:21",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 21
       },
       {
         "text": "And except those days should be shortened, there should no flesh be saved: but for the elect’s sake those days shall be shortened.",
@@ -350,7 +909,29 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 22,
+        "crossReferences": [
+          {
+            "raw": "TG Time.",
+            "prettyString": "TG Time",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Time",
+                "entryId": "tg-time",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Matthew 24:22",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 22
       },
       {
         "text": "Then if any man shall say unto you, Lo, here is Christ, or there; believe it not.",
@@ -371,7 +952,37 @@
             "end": 76
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 23,
+        "crossReferences": [
+          {
+            "raw": "D&C 49:22.",
+            "prettyString": "D&C 49:22",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 49,
+                    "end": 49,
+                    "verses": [
+                      {
+                        "start": 22,
+                        "end": 22
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Matthew 24:23",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 23
       },
       {
         "text": "For there shall arise false Christs, and false prophets, and shall shew great signs and wonders; insomuch that, if it were possible, they shall deceive the very elect.",
@@ -413,13 +1024,70 @@
             "end": 122
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 24,
+        "crossReferences": [
+          {
+            "raw": "TG Apostasy of the Early Christian Church.",
+            "prettyString": "TG Apostasy of the Early Christian Church",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Apostasy of the Early Christian Church",
+                "entryId": "tg-apostasy-of-the-early-christian-church",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG False Christs.",
+            "prettyString": "TG False Christs",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "False Christs",
+                "entryId": "tg-false-christs",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG False Prophets.",
+            "prettyString": "TG False Prophets",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "False Prophets",
+                "entryId": "tg-false-prophets",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Matthew 24:24",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 24
       },
       {
         "text": "Behold, I have told you before.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 25,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Matthew 24:25",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 25
       },
       {
         "text": "Wherefore if they shall say unto you, Behold, he is in the desert; go not forth: behold, he is in the secret chambers; believe it not.",
@@ -440,7 +1108,14 @@
             "end": 129
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 26,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Matthew 24:26",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 26
       },
       {
         "text": "For as the lightning cometh out of the east, and shineth even unto the west; so shall also the coming of the Son of man be.",
@@ -457,7 +1132,37 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 27,
+        "crossReferences": [
+          {
+            "raw": "Ezek. 43:2.",
+            "prettyString": "Ezekiel 43:2",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "ezekiel",
+                "chapters": [
+                  {
+                    "start": 43,
+                    "end": 43,
+                    "verses": [
+                      {
+                        "start": 2,
+                        "end": 2
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Matthew 24:27",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 27
       },
       {
         "text": "For wheresoever the carcase is, there will the eagles be gathered together.",
@@ -469,7 +1174,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 28,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Matthew 24:28",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 28
       },
       {
         "text": "Immediately after the tribulation of those days shall the sun be darkened, and the moon shall not give her light, and the stars shall fall from heaven, and the powers of the heavens shall be shaken:",
@@ -491,7 +1203,43 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 29,
+        "crossReferences": [
+          {
+            "raw": "TG Day of the Lord.",
+            "prettyString": "TG Day of the Lord",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Day of the Lord",
+                "entryId": "tg-day-of-the-lord",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Astronomy.",
+            "prettyString": "TG Astronomy",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Astronomy",
+                "entryId": "tg-astronomy",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Matthew 24:29",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 29
       },
       {
         "text": "And then shall appear the sign of the Son of man in heaven: and then shall all the tribes of the earth mourn, and they shall see the Son of man coming in the clouds of heaven with power and great glory.",
@@ -528,7 +1276,71 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 30,
+        "crossReferences": [
+          {
+            "raw": "TG Heaven.",
+            "prettyString": "TG Heaven",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Heaven",
+                "entryId": "tg-heaven",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Jesus Christ, Son of Man.",
+            "prettyString": "TG Jesus Christ, Son of Man",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Jesus Christ, Son of Man",
+                "entryId": "tg-jesus-christ-son-of-man",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Jesus Christ, Power of.",
+            "prettyString": "TG Jesus Christ, Power of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Jesus Christ, Power of",
+                "entryId": "tg-jesus-christ-power-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Jesus Christ, Glory of.",
+            "prettyString": "TG Jesus Christ, Glory of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Jesus Christ, Glory of",
+                "entryId": "tg-jesus-christ-glory-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Matthew 24:30",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 30
       },
       {
         "text": "And he shall send his angels with a great sound of a trumpet, and they shall gather together his elect from the four winds, from one end of heaven to the other.",
@@ -555,7 +1367,51 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 31,
+        "crossReferences": [
+          {
+            "raw": "TG Angels.",
+            "prettyString": "TG Angels",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Angels",
+                "entryId": "tg-angels",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "Deut. 30:4.",
+            "prettyString": "Deuteronomy 30:4",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "deuteronomy",
+                "chapters": [
+                  {
+                    "start": 30,
+                    "end": 30,
+                    "verses": [
+                      {
+                        "start": 4,
+                        "end": 4
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Matthew 24:31",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 31
       },
       {
         "text": "Now learn a parable of the fig tree; When his branch is yet tender, and putteth forth leaves, ye know that summer is nigh:",
@@ -572,7 +1428,37 @@
             "end": 116
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 32,
+        "crossReferences": [
+          {
+            "raw": "D&C 35:16.",
+            "prettyString": "D&C 35:16",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 35,
+                    "end": 35,
+                    "verses": [
+                      {
+                        "start": 16,
+                        "end": 16
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Matthew 24:32",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 32
       },
       {
         "text": "So likewise ye, when ye shall see all these things, know that it is near, even at the doors.",
@@ -594,7 +1480,37 @@
             "end": 78
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 33,
+        "crossReferences": [
+          {
+            "raw": "D&C 45:63.",
+            "prettyString": "D&C 45:63",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 45,
+                    "end": 45,
+                    "verses": [
+                      {
+                        "start": 63,
+                        "end": 63
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Matthew 24:33",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 33
       },
       {
         "text": "Verily I say unto you, This generation shall not pass, till all these things be fulfilled.",
@@ -616,7 +1532,37 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 34,
+        "crossReferences": [
+          {
+            "raw": "D&C 45:21.",
+            "prettyString": "D&C 45:21",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 45,
+                    "end": 45,
+                    "verses": [
+                      {
+                        "start": 21,
+                        "end": 21
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Matthew 24:34",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 34
       },
       {
         "text": "Heaven and earth shall pass away, but my words shall not pass away.",
@@ -638,7 +1584,69 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 35,
+        "crossReferences": [
+          {
+            "raw": "Josh. 21:45; 1 Kgs. 8:56; D&C 45:23.",
+            "prettyString": "Joshua 21:45; 1 Kings 8:56; D&C 45:23",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "joshua",
+                "chapters": [
+                  {
+                    "start": 21,
+                    "end": 21,
+                    "verses": [
+                      {
+                        "start": 45,
+                        "end": 45
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "1kings",
+                "chapters": [
+                  {
+                    "start": 8,
+                    "end": 8,
+                    "verses": [
+                      {
+                        "start": 56,
+                        "end": 56
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 45,
+                    "end": 45,
+                    "verses": [
+                      {
+                        "start": 23,
+                        "end": 23
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Matthew 24:35",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 35
       },
       {
         "text": "But of that day and hour knoweth no man, no, not the angels of heaven, but my Father only.",
@@ -665,7 +1673,75 @@
             "end": 40
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 36,
+        "crossReferences": [
+          {
+            "raw": "D&C 39:21; 49:7.",
+            "prettyString": "D&C 39:21; 49:7",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 39,
+                    "end": 39,
+                    "verses": [
+                      {
+                        "start": 21,
+                        "end": 21
+                      }
+                    ]
+                  },
+                  {
+                    "start": 49,
+                    "end": 49,
+                    "verses": [
+                      {
+                        "start": 7,
+                        "end": 7
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Jesus Christ, Second Coming.",
+            "prettyString": "TG Jesus Christ, Second Coming",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Jesus Christ, Second Coming",
+                "entryId": "tg-jesus-christ-second-coming",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Angels.",
+            "prettyString": "TG Angels",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Angels",
+                "entryId": "tg-angels",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Matthew 24:36",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 36
       },
       {
         "text": "But as the days of Noe were, so shall also the coming of the Son of man be.",
@@ -682,7 +1758,14 @@
             "end": 28
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 37,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Matthew 24:37",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 37
       },
       {
         "text": "For as in the days that were before the flood they were eating and drinking, marrying and giving in marriage, until the day that Noe entered into the ark,",
@@ -694,19 +1777,55 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 38,
+        "crossReferences": [
+          {
+            "raw": "TG Worldliness.",
+            "prettyString": "TG Worldliness",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Worldliness",
+                "entryId": "tg-worldliness",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Matthew 24:38",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 38
       },
       {
         "text": "And knew not until the flood came, and took them all away; so shall also the coming of the Son of man be.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 39,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Matthew 24:39",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 39
       },
       {
         "text": "Then shall two be in the field; the one shall be taken, and the other left.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 40,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Matthew 24:40",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 40
       },
       {
         "text": "Two women shall be grinding at the mill; the one shall be taken, and the other left.",
@@ -717,7 +1836,14 @@
             "end": 18
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 41,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Matthew 24:41",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 41
       },
       {
         "text": "Watch therefore: for ye know not what hour your Lord doth come.",
@@ -729,7 +1855,37 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 42,
+        "crossReferences": [
+          {
+            "raw": "TG Millennium, Preparing a People for; Watch.",
+            "prettyString": "TG Millennium, Preparing a People for; TG Watch",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Millennium, Preparing a People for",
+                "entryId": "tg-millennium-preparing-a-people-for",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Watch",
+                "entryId": "tg-watch",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Matthew 24:42",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 42
       },
       {
         "text": "But know this, that if the goodman of the house had known in what watch the thief would come, he would have watched, and would not have suffered his house to be broken up.",
@@ -741,7 +1897,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 43,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Matthew 24:43",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 43
       },
       {
         "text": "Therefore be ye also ready: for in such an hour as ye think not the Son of man cometh.",
@@ -763,7 +1926,77 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 44,
+        "crossReferences": [
+          {
+            "raw": "TG Procrastination.",
+            "prettyString": "TG Procrastination",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Procrastination",
+                "entryId": "tg-procrastination",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "Luke 12:40; D&C 45:2; 51:20.",
+            "prettyString": "Luke 12:40; D&C 45:2; 51:20",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "luke",
+                "chapters": [
+                  {
+                    "start": 12,
+                    "end": 12,
+                    "verses": [
+                      {
+                        "start": 40,
+                        "end": 40
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 45,
+                    "end": 45,
+                    "verses": [
+                      {
+                        "start": 2,
+                        "end": 2
+                      }
+                    ]
+                  },
+                  {
+                    "start": 51,
+                    "end": 51,
+                    "verses": [
+                      {
+                        "start": 20,
+                        "end": 20
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Matthew 24:44",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 44
       },
       {
         "text": "Who then is a faithful and wise servant, whom his lord hath made ruler over his household, to give them meat in due season?",
@@ -785,7 +2018,59 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 45,
+        "crossReferences": [
+          {
+            "raw": "D&C 51:19.",
+            "prettyString": "D&C 51:19",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 51,
+                    "end": 51,
+                    "verses": [
+                      {
+                        "start": 19,
+                        "end": 19
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "D&C 72:4.",
+            "prettyString": "D&C 72:4",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 72,
+                    "end": 72,
+                    "verses": [
+                      {
+                        "start": 4,
+                        "end": 4
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Matthew 24:45",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 45
       },
       {
         "text": "Blessed is that servant, whom his lord when he cometh shall find so doing.",
@@ -802,13 +2087,42 @@
             "end": 10
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 46,
+        "crossReferences": [
+          {
+            "raw": "TG Servant.",
+            "prettyString": "TG Servant",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Servant",
+                "entryId": "tg-servant",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Matthew 24:46",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 46
       },
       {
         "text": "Verily I say unto you, That he shall make him ruler over all his goods.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 47,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Matthew 24:47",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 47
       },
       {
         "text": "But and if that evil servant shall say in his heart, My lord delayeth his coming;",
@@ -820,7 +2134,37 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 48,
+        "crossReferences": [
+          {
+            "raw": "D&C 45:26.",
+            "prettyString": "D&C 45:26",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 45,
+                    "end": 45,
+                    "verses": [
+                      {
+                        "start": 26,
+                        "end": 26
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Matthew 24:48",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 48
       },
       {
         "text": "And shall begin to smite his fellowservants, and to eat and drink with the drunken;",
@@ -831,7 +2175,14 @@
             "end": 28
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 49,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Matthew 24:49",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 49
       },
       {
         "text": "The lord of that servant shall come in a day when he looketh not for him, and in an hour that he is not aware of,",
@@ -842,7 +2193,14 @@
             "end": 73
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 50,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Matthew 24:50",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 50
       },
       {
         "text": "And shall cut him asunder, and appoint him his portion with the hypocrites: there shall be weeping and gnashing of teeth.",
@@ -853,7 +2211,14 @@
             "end": 42
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 51,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Matthew 24:51",
+        "book": "Matthew",
+        "chapter": 24,
+        "verse": 51
       }
     ]
   },

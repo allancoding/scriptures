@@ -51,7 +51,59 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 1,
+        "crossReferences": [
+          {
+            "raw": "JS—H 1:2.",
+            "prettyString": "JS—H 1:2",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "josephsmithhistory",
+                "chapters": [
+                  {
+                    "start": 1,
+                    "end": 1,
+                    "verses": [
+                      {
+                        "start": 2,
+                        "end": 2
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "D&C 21:3.",
+            "prettyString": "D&C 21:3",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 21,
+                    "end": 21,
+                    "verses": [
+                      {
+                        "start": 3,
+                        "end": 3
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:1",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 1
       },
       {
         "text": "Which commandments were given to Joseph Smith, Jun., who was called of God, and ordained an apostle of Jesus Christ, to be the first elder of this church;",
@@ -83,7 +135,119 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 2,
+        "crossReferences": [
+          {
+            "raw": "TG Authority; Called of God.",
+            "prettyString": "TG Authority; TG Called of God",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Authority",
+                "entryId": "tg-authority",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Called of God",
+                "entryId": "tg-called-of-god",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "D&C 5:6.",
+            "prettyString": "D&C 5:6",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 5,
+                    "end": 5,
+                    "verses": [
+                      {
+                        "start": 6,
+                        "end": 6
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Apostles.",
+            "prettyString": "TG Apostles",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Apostles",
+                "entryId": "tg-apostles",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "D&C 21:11; 30:7.",
+            "prettyString": "D&C 21:11; 30:7",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 21,
+                    "end": 21,
+                    "verses": [
+                      {
+                        "start": 11,
+                        "end": 11
+                      }
+                    ]
+                  },
+                  {
+                    "start": 30,
+                    "end": 30,
+                    "verses": [
+                      {
+                        "start": 7,
+                        "end": 7
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Elder, Melchizedek Priesthood.",
+            "prettyString": "TG Elder, Melchizedek Priesthood",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Elder, Melchizedek Priesthood",
+                "entryId": "tg-elder-melchizedek-priesthood",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:2",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 2
       },
       {
         "text": "And to Oliver Cowdery, who was also called of God, an apostle of Jesus Christ, to be the second elder of this church, and ordained under his hand;",
@@ -95,7 +259,37 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 3,
+        "crossReferences": [
+          {
+            "raw": "D&C 28:1.",
+            "prettyString": "D&C 28:1",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 28,
+                    "end": 28,
+                    "verses": [
+                      {
+                        "start": 1,
+                        "end": 1
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:3",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 3
       },
       {
         "text": "And this according to the grace of our Lord and Savior Jesus Christ, to whom be all glory, both now and forever. Amen.",
@@ -107,7 +301,29 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 4,
+        "crossReferences": [
+          {
+            "raw": "TG Grace.",
+            "prettyString": "TG Grace",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Grace",
+                "entryId": "tg-grace",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:4",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 4
       },
       {
         "text": "After it was truly manifested unto this first elder that he had received a remission of his sins, he was entangled again in the vanities of the world;",
@@ -129,7 +345,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 5,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:5",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 5
       },
       {
         "text": "But after repenting, and humbling himself sincerely, through faith, God ministered unto him by an holy angel, whose countenance was as lightning, and whose garments were pure and white above all other whiteness;",
@@ -151,7 +374,51 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 6,
+        "crossReferences": [
+          {
+            "raw": "TG Priesthood, Qualifying for.",
+            "prettyString": "TG Priesthood, Qualifying for",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Priesthood, Qualifying for",
+                "entryId": "tg-priesthood-qualifying-for",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "Matt. 28:3.",
+            "prettyString": "Matthew 28:3",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "matthew",
+                "chapters": [
+                  {
+                    "start": 28,
+                    "end": 28,
+                    "verses": [
+                      {
+                        "start": 3,
+                        "end": 3
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:6",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 6
       },
       {
         "text": "And gave unto him commandments which inspired him;",
@@ -163,7 +430,29 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 7,
+        "crossReferences": [
+          {
+            "raw": "TG Guidance, Divine.",
+            "prettyString": "TG Guidance, Divine",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Guidance, Divine",
+                "entryId": "tg-guidance-divine",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:7",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 7
       },
       {
         "text": "And gave him power from on high, by the means which were before prepared, to translate the Book of Mormon;",
@@ -180,7 +469,51 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 8,
+        "crossReferences": [
+          {
+            "raw": "Luke 24:49.",
+            "prettyString": "Luke 24:49",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "luke",
+                "chapters": [
+                  {
+                    "start": 24,
+                    "end": 24,
+                    "verses": [
+                      {
+                        "start": 49,
+                        "end": 49
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Urim and Thummim.",
+            "prettyString": "TG Urim and Thummim",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Urim and Thummim",
+                "entryId": "tg-urim-and-thummim",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:8",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 8
       },
       {
         "text": "Which contains a record of a fallen people, and the fulness of the gospel of Jesus Christ to the Gentiles and to the Jews also;",
@@ -202,7 +535,99 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 9,
+        "crossReferences": [
+          {
+            "raw": "TG Record Keeping.",
+            "prettyString": "TG Record Keeping",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Record Keeping",
+                "entryId": "tg-record-keeping",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "D&C 14:10; 18:4; JS—H 1:34.",
+            "prettyString": "D&C 14:10; 18:4; JS—H 1:34",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 14,
+                    "end": 14,
+                    "verses": [
+                      {
+                        "start": 10,
+                        "end": 10
+                      }
+                    ]
+                  },
+                  {
+                    "start": 18,
+                    "end": 18,
+                    "verses": [
+                      {
+                        "start": 4,
+                        "end": 4
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "josephsmithhistory",
+                "chapters": [
+                  {
+                    "start": 1,
+                    "end": 1,
+                    "verses": [
+                      {
+                        "start": 34,
+                        "end": 34
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Book of Mormon; Gospel.",
+            "prettyString": "TG Book of Mormon; TG Gospel",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Book of Mormon",
+                "entryId": "tg-book-of-mormon",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Gospel",
+                "entryId": "tg-gospel",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:9",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 9
       },
       {
         "text": "Which was given by inspiration, and is confirmed to others by the ministering of angels, and is declared unto the world by them—",
@@ -219,7 +644,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 10,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:10",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 10
       },
       {
         "text": "Proving to the world that the holy scriptures are true, and that God does inspire men and call them to his holy work in this age and generation, as well as in generations of old;",
@@ -241,7 +673,43 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 11,
+        "crossReferences": [
+          {
+            "raw": "TG Inspiration.",
+            "prettyString": "TG Inspiration",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Inspiration",
+                "entryId": "tg-inspiration",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Sacred.",
+            "prettyString": "TG Sacred",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Sacred",
+                "entryId": "tg-sacred",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:11",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 11
       },
       {
         "text": "Thereby showing that he is the same God yesterday, today, and forever. Amen.",
@@ -258,7 +726,37 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 12,
+        "crossReferences": [
+          {
+            "raw": "Ps. 48:14.",
+            "prettyString": "Psalms 48:14",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "psalms",
+                "chapters": [
+                  {
+                    "start": 48,
+                    "end": 48,
+                    "verses": [
+                      {
+                        "start": 14,
+                        "end": 14
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:12",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 12
       },
       {
         "text": "Therefore, having so great witnesses, by them shall the world be judged, even as many as shall hereafter come to a knowledge of this work.",
@@ -270,7 +768,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 13,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:13",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 13
       },
       {
         "text": "And those who receive it in faith, and work righteousness, shall receive a crown of eternal life;",
@@ -287,7 +792,29 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 14,
+        "crossReferences": [
+          {
+            "raw": "TG Righteousness.",
+            "prettyString": "TG Righteousness",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Righteousness",
+                "entryId": "tg-righteousness",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:14",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 14
       },
       {
         "text": "But those who harden their hearts in unbelief, and reject it, it shall turn to their own condemnation—",
@@ -314,7 +841,87 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 15,
+        "crossReferences": [
+          {
+            "raw": "TG Hardheartedness.",
+            "prettyString": "TG Hardheartedness",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Hardheartedness",
+                "entryId": "tg-hardheartedness",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Unbelief.",
+            "prettyString": "TG Unbelief",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Unbelief",
+                "entryId": "tg-unbelief",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "D&C 6:31.",
+            "prettyString": "D&C 6:31",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 6,
+                    "end": 6,
+                    "verses": [
+                      {
+                        "start": 31,
+                        "end": 31
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "John 5:24.",
+            "prettyString": "John 5:24",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "john",
+                "chapters": [
+                  {
+                    "start": 5,
+                    "end": 5,
+                    "verses": [
+                      {
+                        "start": 24,
+                        "end": 24
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:15",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 15
       },
       {
         "text": "For the Lord God has spoken it; and we, the elders of the church, have heard and bear witness to the words of the glorious Majesty on high, to whom be glory forever and ever. Amen.",
@@ -326,7 +933,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 16,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:16",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 16
       },
       {
         "text": "By these things we know that there is a God in heaven, who is infinite and eternal, from everlasting to everlasting the same unchangeable God, the framer of heaven and earth, and all things which are in them;",
@@ -353,7 +967,97 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 17,
+        "crossReferences": [
+          {
+            "raw": "Josh. 2:11; 2 Ne. 10:14.",
+            "prettyString": "Joshua 2:11; 2 Nephi 10:14",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "joshua",
+                "chapters": [
+                  {
+                    "start": 2,
+                    "end": 2,
+                    "verses": [
+                      {
+                        "start": 11,
+                        "end": 11
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "2nephi",
+                "chapters": [
+                  {
+                    "start": 10,
+                    "end": 10,
+                    "verses": [
+                      {
+                        "start": 14,
+                        "end": 14
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Eternity; God, Eternal Nature of; Immortality.",
+            "prettyString": "TG Eternity; TG God, Eternal Nature of; TG Immortality",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Eternity",
+                "entryId": "tg-eternity",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "God, Eternal Nature of",
+                "entryId": "tg-god-eternal-nature-of",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Immortality",
+                "entryId": "tg-immortality",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG God, Perfection of.",
+            "prettyString": "TG God, Perfection of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "God, Perfection of",
+                "entryId": "tg-god-perfection-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:17",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 17
       },
       {
         "text": "And that he created man, male and female, after his own image and in his own likeness, created he them;",
@@ -370,7 +1074,45 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 18,
+        "crossReferences": [
+          {
+            "raw": "TG Creation; God, Creator; Man, Physical Creation of.",
+            "prettyString": "TG Creation; TG God, Creator; TG Man, Physical Creation of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Creation",
+                "entryId": "tg-creation",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "God, Creator",
+                "entryId": "tg-god-creator",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Man, Physical Creation of",
+                "entryId": "tg-man-physical-creation-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:18",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 18
       },
       {
         "text": "And gave unto them commandments that they should love and serve him, the only living and true God, and that he should be the only being whom they should worship.",
@@ -397,7 +1139,111 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 19,
+        "crossReferences": [
+          {
+            "raw": "Ps. 42:2; Dan. 6:26; 1 Thes. 1:9; Alma 5:13; 7:6; D&C 14:9.",
+            "prettyString": "Psalms 42:2; Daniel 6:26; 1 Thessalonians 1:9; Alma 5:13; 7:6; D&C 14:9",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "psalms",
+                "chapters": [
+                  {
+                    "start": 42,
+                    "end": 42,
+                    "verses": [
+                      {
+                        "start": 2,
+                        "end": 2
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "daniel",
+                "chapters": [
+                  {
+                    "start": 6,
+                    "end": 6,
+                    "verses": [
+                      {
+                        "start": 26,
+                        "end": 26
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "1thessalonians",
+                "chapters": [
+                  {
+                    "start": 1,
+                    "end": 1,
+                    "verses": [
+                      {
+                        "start": 9,
+                        "end": 9
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "alma",
+                "chapters": [
+                  {
+                    "start": 5,
+                    "end": 5,
+                    "verses": [
+                      {
+                        "start": 13,
+                        "end": 13
+                      }
+                    ]
+                  },
+                  {
+                    "start": 7,
+                    "end": 7,
+                    "verses": [
+                      {
+                        "start": 6,
+                        "end": 6
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 14,
+                    "end": 14,
+                    "verses": [
+                      {
+                        "start": 9,
+                        "end": 9
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:19",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 19
       },
       {
         "text": "But by the transgression of these holy laws man became sensual and devilish, and became fallen man.",
@@ -424,7 +1270,71 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 20,
+        "crossReferences": [
+          {
+            "raw": "TG Transgress.",
+            "prettyString": "TG Transgress",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Transgress",
+                "entryId": "tg-transgress",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Sensuality.",
+            "prettyString": "TG Sensuality",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Sensuality",
+                "entryId": "tg-sensuality",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Devil.",
+            "prettyString": "TG Devil",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Devil",
+                "entryId": "tg-devil",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Man, Natural, Not Spiritually Reborn.",
+            "prettyString": "TG Man, Natural, Not Spiritually Reborn",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Man, Natural, Not Spiritually Reborn",
+                "entryId": "tg-man-natural-not-spiritually-reborn",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:20",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 20
       },
       {
         "text": "Wherefore, the Almighty God gave his Only Begotten Son, as it is written in those scriptures which have been given of him.",
@@ -436,7 +1346,29 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 21,
+        "crossReferences": [
+          {
+            "raw": "TG Jesus Christ, Divine Sonship.",
+            "prettyString": "TG Jesus Christ, Divine Sonship",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Jesus Christ, Divine Sonship",
+                "entryId": "tg-jesus-christ-divine-sonship",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:21",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 21
       },
       {
         "text": "He suffered temptations but gave no heed unto them.",
@@ -453,7 +1385,69 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 22,
+        "crossReferences": [
+          {
+            "raw": "Matt. 4:6; 27:40.",
+            "prettyString": "Matthew 4:6; 27:40",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "matthew",
+                "chapters": [
+                  {
+                    "start": 4,
+                    "end": 4,
+                    "verses": [
+                      {
+                        "start": 6,
+                        "end": 6
+                      }
+                    ]
+                  },
+                  {
+                    "start": 27,
+                    "end": 27,
+                    "verses": [
+                      {
+                        "start": 40,
+                        "end": 40
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Jesus Christ, Temptation of; Temptation.",
+            "prettyString": "TG Jesus Christ, Temptation of; TG Temptation",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Jesus Christ, Temptation of",
+                "entryId": "tg-jesus-christ-temptation-of",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Temptation",
+                "entryId": "tg-temptation",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:22",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 22
       },
       {
         "text": "He was crucified, died, and rose again the third day;",
@@ -475,7 +1469,65 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 23,
+        "crossReferences": [
+          {
+            "raw": "TG Jesus Christ, Crucifixion of.",
+            "prettyString": "TG Jesus Christ, Crucifixion of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Jesus Christ, Crucifixion of",
+                "entryId": "tg-jesus-christ-crucifixion-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Jesus Christ, Death of.",
+            "prettyString": "TG Jesus Christ, Death of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Jesus Christ, Death of",
+                "entryId": "tg-jesus-christ-death-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Jesus Christ, Resurrection; Resurrection.",
+            "prettyString": "TG Jesus Christ, Resurrection; TG Resurrection",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Jesus Christ, Resurrection",
+                "entryId": "tg-jesus-christ-resurrection",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Resurrection",
+                "entryId": "tg-resurrection",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:23",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 23
       },
       {
         "text": "And ascended into heaven, to sit down on the right hand of the Father, to reign with almighty power according to the will of the Father;",
@@ -497,7 +1549,57 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 24,
+        "crossReferences": [
+          {
+            "raw": "TG Jesus Christ, Ascension of.",
+            "prettyString": "TG Jesus Christ, Ascension of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Jesus Christ, Ascension of",
+                "entryId": "tg-jesus-christ-ascension-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG God the Father, Elohim.",
+            "prettyString": "TG God the Father, Elohim",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "God the Father, Elohim",
+                "entryId": "tg-god-the-father-elohim",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Jesus Christ, Authority of.",
+            "prettyString": "TG Jesus Christ, Authority of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Jesus Christ, Authority of",
+                "entryId": "tg-jesus-christ-authority-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:24",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 24
       },
       {
         "text": "That as many as would believe and be baptized in his holy name, and endure in faith to the end, should be saved—",
@@ -514,7 +1616,45 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 25,
+        "crossReferences": [
+          {
+            "raw": "TG Baptism; Faith; Perseverance.",
+            "prettyString": "TG Baptism; TG Faith; TG Perseverance",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Baptism",
+                "entryId": "tg-baptism",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Faith",
+                "entryId": "tg-faith",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Perseverance",
+                "entryId": "tg-perseverance",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:25",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 25
       },
       {
         "text": "Not only those who believed after he came in the meridian of time, in the flesh, but all those from the beginning, even as many as were before he came, who believed in the words of the holy prophets, who spake as they were inspired by the gift of the Holy Ghost, who truly testified of him in all things, should have eternal life,",
@@ -546,7 +1686,51 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 26,
+        "crossReferences": [
+          {
+            "raw": "D&C 39:3.",
+            "prettyString": "D&C 39:3",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 39,
+                    "end": 39,
+                    "verses": [
+                      {
+                        "start": 3,
+                        "end": 3
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Jesus Christ, Condescension of.",
+            "prettyString": "TG Jesus Christ, Condescension of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Jesus Christ, Condescension of",
+                "entryId": "tg-jesus-christ-condescension-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:26",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 26
       },
       {
         "text": "As well as those who should come after, who should believe in the gifts and callings of God by the Holy Ghost, which beareth record of the Father and of the Son;",
@@ -563,7 +1747,69 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 27,
+        "crossReferences": [
+          {
+            "raw": "D&C 18:32.",
+            "prettyString": "D&C 18:32",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 18,
+                    "end": 18,
+                    "verses": [
+                      {
+                        "start": 32,
+                        "end": 32
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "D&C 1:39; 42:17.",
+            "prettyString": "D&C 1:39; 42:17",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 1,
+                    "end": 1,
+                    "verses": [
+                      {
+                        "start": 39,
+                        "end": 39
+                      }
+                    ]
+                  },
+                  {
+                    "start": 42,
+                    "end": 42,
+                    "verses": [
+                      {
+                        "start": 17,
+                        "end": 17
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:27",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 27
       },
       {
         "text": "Which Father, Son, and Holy Ghost are one God, infinite and eternal, without end. Amen.",
@@ -575,7 +1821,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 28,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:28",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 28
       },
       {
         "text": "And we know that all men must repent and believe on the name of Jesus Christ, and worship the Father in his name, and endure in faith on his name to the end, or they cannot be saved in the kingdom of God.",
@@ -607,7 +1860,71 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 29,
+        "crossReferences": [
+          {
+            "raw": "TG Repent.",
+            "prettyString": "TG Repent",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Repent",
+                "entryId": "tg-repent",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Perseverance.",
+            "prettyString": "TG Perseverance",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Perseverance",
+                "entryId": "tg-perseverance",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Faith.",
+            "prettyString": "TG Faith",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Faith",
+                "entryId": "tg-faith",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Salvation.",
+            "prettyString": "TG Salvation",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Salvation",
+                "entryId": "tg-salvation",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:29",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 29
       },
       {
         "text": "And we know that justification through the grace of our Lord and Savior Jesus Christ is just and true;",
@@ -624,7 +1941,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 30,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:30",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 30
       },
       {
         "text": "And we know also, that sanctification through the grace of our Lord and Savior Jesus Christ is just and true, to all those who love and serve God with all their mights, minds, and strength.",
@@ -646,7 +1970,105 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 31,
+        "crossReferences": [
+          {
+            "raw": "TG Sanctification.",
+            "prettyString": "TG Sanctification",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Sanctification",
+                "entryId": "tg-sanctification",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "Ps. 18:1; Alma 13:29; D&C 76:116.",
+            "prettyString": "Psalms 18:1; Alma 13:29; D&C 76:116",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "psalms",
+                "chapters": [
+                  {
+                    "start": 18,
+                    "end": 18,
+                    "verses": [
+                      {
+                        "start": 1,
+                        "end": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "alma",
+                "chapters": [
+                  {
+                    "start": 13,
+                    "end": 13,
+                    "verses": [
+                      {
+                        "start": 29,
+                        "end": 29
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 76,
+                    "end": 76,
+                    "verses": [
+                      {
+                        "start": 116,
+                        "end": 116
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "Deut. 6:5.",
+            "prettyString": "Deuteronomy 6:5",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "deuteronomy",
+                "chapters": [
+                  {
+                    "start": 6,
+                    "end": 6,
+                    "verses": [
+                      {
+                        "start": 5,
+                        "end": 5
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:31",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 31
       },
       {
         "text": "But there is a possibility that man may fall from grace and depart from the living God;",
@@ -663,7 +2085,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 32,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:32",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 32
       },
       {
         "text": "Therefore let the church take heed and pray always, lest they fall into temptation;",
@@ -675,7 +2104,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 33,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:33",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 33
       },
       {
         "text": "Yea, and even let those who are sanctified take heed also.",
@@ -687,7 +2123,29 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 34,
+        "crossReferences": [
+          {
+            "raw": "TG Sanctification.",
+            "prettyString": "TG Sanctification",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Sanctification",
+                "entryId": "tg-sanctification",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:34",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 34
       },
       {
         "text": "And we know that these things are true and according to the revelations of John, neither adding to, nor diminishing from the prophecy of his book, the holy scriptures, or the revelations of God which shall come hereafter by the gift and power of the Holy Ghost, the voice of God, or the ministering of angels.",
@@ -704,7 +2162,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 35,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:35",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 35
       },
       {
         "text": "And the Lord God has spoken it; and honor, power and glory be rendered to his holy name, both now and ever. Amen.",
@@ -721,7 +2186,63 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 36,
+        "crossReferences": [
+          {
+            "raw": "Ezek. 5:13; D&C 20:16; 109:79.",
+            "prettyString": "Ezekiel 5:13; D&C 20:16; 109:79",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "ezekiel",
+                "chapters": [
+                  {
+                    "start": 5,
+                    "end": 5,
+                    "verses": [
+                      {
+                        "start": 13,
+                        "end": 13
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 20,
+                    "end": 20,
+                    "verses": [
+                      {
+                        "start": 16,
+                        "end": 16
+                      }
+                    ]
+                  },
+                  {
+                    "start": 109,
+                    "end": 109,
+                    "verses": [
+                      {
+                        "start": 79,
+                        "end": 79
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:36",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 36
       },
       {
         "text": "And again, by way of commandment to the church concerning the manner of baptism—All those who humble themselves before God, and desire to be baptized, and come forth with broken hearts and contrite spirits, and witness before the church that they have truly repented of all their sins, and are willing to take upon them the name of Jesus Christ, having a determination to serve him to the end, and truly manifest by their works that they have received of the Spirit of Christ unto the remission of their sins, shall be received by baptism into his church.",
@@ -763,7 +2284,87 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 37,
+        "crossReferences": [
+          {
+            "raw": "TG Baptism, Qualifications for.",
+            "prettyString": "TG Baptism, Qualifications for",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Baptism, Qualifications for",
+                "entryId": "tg-baptism-qualifications-for",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Contrite Heart; Poor in Spirit.",
+            "prettyString": "TG Contrite Heart; TG Poor in Spirit",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Contrite Heart",
+                "entryId": "tg-contrite-heart",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Poor in Spirit",
+                "entryId": "tg-poor-in-spirit",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Light of Christ; Spirituality.",
+            "prettyString": "TG Light of Christ; TG Spirituality",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Light of Christ",
+                "entryId": "tg-light-of-christ",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Spirituality",
+                "entryId": "tg-spirituality",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Remission of Sins.",
+            "prettyString": "TG Remission of Sins",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Remission of Sins",
+                "entryId": "tg-remission-of-sins",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:37",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 37
       },
       {
         "text": "The duty of the elders, priests, teachers, deacons, and members of the church of Christ—An apostle is an elder, and it is his calling to baptize;",
@@ -790,7 +2391,81 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 38,
+        "crossReferences": [
+          {
+            "raw": "TG Church Organization; Duty; Priesthood, History of; Priesthood, Magnifying Callings within.",
+            "prettyString": "TG Church Organization; TG Duty; TG Priesthood, History of; TG Priesthood, Magnifying Callings within",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Church Organization",
+                "entryId": "tg-church-organization",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Duty",
+                "entryId": "tg-duty",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Priesthood, History of",
+                "entryId": "tg-priesthood-history-of",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Priesthood, Magnifying Callings within",
+                "entryId": "tg-priesthood-magnifying-callings-within",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Apostles.",
+            "prettyString": "TG Apostles",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Apostles",
+                "entryId": "tg-apostles",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Elder.",
+            "prettyString": "TG Elder",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Elder",
+                "entryId": "tg-elder",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:38",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 38
       },
       {
         "text": "And to ordain other elders, priests, teachers, and deacons;",
@@ -802,7 +2477,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 39,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:39",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 39
       },
       {
         "text": "And to administer bread and wine—the emblems of the flesh and blood of Christ—",
@@ -819,7 +2501,43 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 40,
+        "crossReferences": [
+          {
+            "raw": "TG Sacrament.",
+            "prettyString": "TG Sacrament",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Sacrament",
+                "entryId": "tg-sacrament",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Jesus Christ, Types of, in Memory.",
+            "prettyString": "TG Jesus Christ, Types of, in Memory",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Jesus Christ, Types of, in Memory",
+                "entryId": "tg-jesus-christ-types-of-in-memory",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:40",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 40
       },
       {
         "text": "And to confirm those who are baptized into the church, by the laying on of hands for the baptism of fire and the Holy Ghost, according to the scriptures;",
@@ -836,19 +2554,63 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 41,
+        "crossReferences": [
+          {
+            "raw": "TG Hands, Laying on of; Holy Ghost, Baptism of.",
+            "prettyString": "TG Hands, Laying on of; TG Holy Ghost, Baptism of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Hands, Laying on of",
+                "entryId": "tg-hands-laying-on-of",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Holy Ghost, Baptism of",
+                "entryId": "tg-holy-ghost-baptism-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:41",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 41
       },
       {
         "text": "And to teach, expound, exhort, baptize, and watch over the church;",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 42,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:42",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 42
       },
       {
         "text": "And to confirm the church by the laying on of the hands, and the giving of the Holy Ghost;",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 43,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:43",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 43
       },
       {
         "text": "And to take the lead of all meetings.",
@@ -860,7 +2622,29 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 44,
+        "crossReferences": [
+          {
+            "raw": "TG Leadership.",
+            "prettyString": "TG Leadership",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Leadership",
+                "entryId": "tg-leadership",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:44",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 44
       },
       {
         "text": "The elders are to conduct the meetings as they are led by the Holy Ghost, according to the commandments and revelations of God.",
@@ -882,7 +2666,89 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 45,
+        "crossReferences": [
+          {
+            "raw": "Moro. 6:9; D&C 46:2.",
+            "prettyString": "Moroni 6:9; D&C 46:2",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "moroni",
+                "chapters": [
+                  {
+                    "start": 6,
+                    "end": 6,
+                    "verses": [
+                      {
+                        "start": 9,
+                        "end": 9
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 46,
+                    "end": 46,
+                    "verses": [
+                      {
+                        "start": 2,
+                        "end": 2
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Meetings.",
+            "prettyString": "TG Meetings",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Meetings",
+                "entryId": "tg-meetings",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "Gal. 5:18.",
+            "prettyString": "Galatians 5:18",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "galatians",
+                "chapters": [
+                  {
+                    "start": 5,
+                    "end": 5,
+                    "verses": [
+                      {
+                        "start": 18,
+                        "end": 18
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:45",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 45
       },
       {
         "text": "The priest’s duty is to preach, teach, expound, exhort, and baptize, and administer the sacrament,",
@@ -899,7 +2765,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 46,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:46",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 46
       },
       {
         "text": "And visit the house of each member, and exhort them to pray vocally and in secret and attend to all family duties.",
@@ -921,7 +2794,91 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 47,
+        "crossReferences": [
+          {
+            "raw": "1 Tim. 2:8.",
+            "prettyString": "1 Timothy 2:8",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "1timothy",
+                "chapters": [
+                  {
+                    "start": 2,
+                    "end": 2,
+                    "verses": [
+                      {
+                        "start": 8,
+                        "end": 8
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "D&C 19:28; 23:6.",
+            "prettyString": "D&C 19:28; 23:6",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 19,
+                    "end": 19,
+                    "verses": [
+                      {
+                        "start": 28,
+                        "end": 28
+                      }
+                    ]
+                  },
+                  {
+                    "start": 23,
+                    "end": 23,
+                    "verses": [
+                      {
+                        "start": 6,
+                        "end": 6
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Family; Family, Children, Responsibilities toward.",
+            "prettyString": "TG Family; TG Family, Children, Responsibilities toward",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Family",
+                "entryId": "tg-family",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Family, Children, Responsibilities toward",
+                "entryId": "tg-family-children-responsibilities-toward",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:47",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 47
       },
       {
         "text": "And he may also ordain other priests, teachers, and deacons.",
@@ -933,7 +2890,29 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 48,
+        "crossReferences": [
+          {
+            "raw": "TG Priesthood, Ordination.",
+            "prettyString": "TG Priesthood, Ordination",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Priesthood, Ordination",
+                "entryId": "tg-priesthood-ordination",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:48",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 48
       },
       {
         "text": "And he is to take the lead of meetings when there is no elder present;",
@@ -945,19 +2924,55 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 49,
+        "crossReferences": [
+          {
+            "raw": "TG Leadership.",
+            "prettyString": "TG Leadership",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Leadership",
+                "entryId": "tg-leadership",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:49",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 49
       },
       {
         "text": "But when there is an elder present, he is only to preach, teach, expound, exhort, and baptize,",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 50,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:50",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 50
       },
       {
         "text": "And visit the house of each member, exhorting them to pray vocally and in secret and attend to all family duties.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 51,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:51",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 51
       },
       {
         "text": "In all these duties the priest is to assist the elder if occasion requires.",
@@ -969,7 +2984,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 52,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:52",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 52
       },
       {
         "text": "The teacher’s duty is to watch over the church always, and be with and strengthen them;",
@@ -991,7 +3013,73 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 53,
+        "crossReferences": [
+          {
+            "raw": "TG Teacher, Aaronic Priesthood.",
+            "prettyString": "TG Teacher, Aaronic Priesthood",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Teacher, Aaronic Priesthood",
+                "entryId": "tg-teacher-aaronic-priesthood",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "D&C 84:111.",
+            "prettyString": "D&C 84:111",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 84,
+                    "end": 84,
+                    "verses": [
+                      {
+                        "start": 111,
+                        "end": 111
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "Prov. 27:23.",
+            "prettyString": "Proverbs 27:23",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "proverbs",
+                "chapters": [
+                  {
+                    "start": 27,
+                    "end": 27,
+                    "verses": [
+                      {
+                        "start": 23,
+                        "end": 23
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:53",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 53
       },
       {
         "text": "And see that there is no iniquity in the church, neither hardness with each other, neither lying, backbiting, nor evil speaking;",
@@ -1018,19 +3106,129 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 54,
+        "crossReferences": [
+          {
+            "raw": "1 Thes. 5:13.",
+            "prettyString": "1 Thessalonians 5:13",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "1thessalonians",
+                "chapters": [
+                  {
+                    "start": 5,
+                    "end": 5,
+                    "verses": [
+                      {
+                        "start": 13,
+                        "end": 13
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Backbiting; Gossip.",
+            "prettyString": "TG Backbiting; TG Gossip",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Backbiting",
+                "entryId": "tg-backbiting",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Gossip",
+                "entryId": "tg-gossip",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Evil; Slander.",
+            "prettyString": "TG Evil; TG Slander",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Evil",
+                "entryId": "tg-evil",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Slander",
+                "entryId": "tg-slander",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Profanity; Reviling.",
+            "prettyString": "TG Profanity; TG Reviling",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Profanity",
+                "entryId": "tg-profanity",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Reviling",
+                "entryId": "tg-reviling",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:54",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 54
       },
       {
         "text": "And see that the church meet together often, and also see that all the members do their duty.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 55,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:55",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 55
       },
       {
         "text": "And he is to take the lead of meetings in the absence of the elder or priest—",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 56,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:56",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 56
       },
       {
         "text": "And is to be assisted always, in all his duties in the church, by the deacons, if occasion requires.",
@@ -1042,7 +3240,29 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 57,
+        "crossReferences": [
+          {
+            "raw": "TG Deacon.",
+            "prettyString": "TG Deacon",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Deacon",
+                "entryId": "tg-deacon",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:57",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 57
       },
       {
         "text": "But neither teachers nor deacons have authority to baptize, administer the sacrament, or lay on hands;",
@@ -1059,13 +3279,56 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 58,
+        "crossReferences": [
+          {
+            "raw": "TG Sacrament.",
+            "prettyString": "TG Sacrament",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Sacrament",
+                "entryId": "tg-sacrament",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Hands, Laying on of.",
+            "prettyString": "TG Hands, Laying on of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Hands, Laying on of",
+                "entryId": "tg-hands-laying-on-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:58",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 58
       },
       {
         "text": "They are, however, to warn, expound, exhort, and teach, and invite all to come unto Christ.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 59,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:59",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 59
       },
       {
         "text": "Every elder, priest, teacher, or deacon is to be ordained according to the gifts and callings of God unto him; and he is to be ordained by the power of the Holy Ghost, which is in the one who ordains him.",
@@ -1097,7 +3360,71 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 60,
+        "crossReferences": [
+          {
+            "raw": "TG Elder, Melchizedek Priesthood.",
+            "prettyString": "TG Elder, Melchizedek Priesthood",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Elder, Melchizedek Priesthood",
+                "entryId": "tg-elder-melchizedek-priesthood",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Priest, Aaronic Priesthood.",
+            "prettyString": "TG Priest, Aaronic Priesthood",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Priest, Aaronic Priesthood",
+                "entryId": "tg-priest-aaronic-priesthood",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Called of God.",
+            "prettyString": "TG Called of God",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Called of God",
+                "entryId": "tg-called-of-god",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Priesthood, Ordination.",
+            "prettyString": "TG Priesthood, Ordination",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Priesthood, Ordination",
+                "entryId": "tg-priesthood-ordination",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:60",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 60
       },
       {
         "text": "The several elders composing this church of Christ are to meet in conference once in three months, or from time to time as said conferences shall direct or appoint;",
@@ -1109,13 +3436,42 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 61,
+        "crossReferences": [
+          {
+            "raw": "TG Meetings.",
+            "prettyString": "TG Meetings",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Meetings",
+                "entryId": "tg-meetings",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:61",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 61
       },
       {
         "text": "And said conferences are to do whatever church business is necessary to be done at the time.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 62,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:62",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 62
       },
       {
         "text": "The elders are to receive their licenses from other elders, by vote of the church to which they belong, or from the conferences.",
@@ -1127,7 +3483,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 63,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:63",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 63
       },
       {
         "text": "Each priest, teacher, or deacon, who is ordained by a priest, may take a certificate from him at the time, which certificate, when presented to an elder, shall entitle him to a license, which shall authorize him to perform the duties of his calling, or he may receive it from a conference.",
@@ -1139,7 +3502,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 64,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:64",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 64
       },
       {
         "text": "No person is to be ordained to any office in this church, where there is a regularly organized branch of the same, without the vote of that church;",
@@ -1156,13 +3526,42 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 65,
+        "crossReferences": [
+          {
+            "raw": "TG Priesthood, Ordination.",
+            "prettyString": "TG Priesthood, Ordination",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Priesthood, Ordination",
+                "entryId": "tg-priesthood-ordination",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:65",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 65
       },
       {
         "text": "But the presiding elders, traveling bishops, high councilors, high priests, and elders, may have the privilege of ordaining, where there is no branch of the church that a vote may be called.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 66,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:66",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 66
       },
       {
         "text": "Every president of the high priesthood (or presiding elder), bishop, high councilor, and high priest, is to be ordained by the direction of a high council or general conference.",
@@ -1184,7 +3583,51 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 67,
+        "crossReferences": [
+          {
+            "raw": "TG Bishop.",
+            "prettyString": "TG Bishop",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Bishop",
+                "entryId": "tg-bishop",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Church Organization; High Priest, Melchizedek Priesthood.",
+            "prettyString": "TG Church Organization; TG High Priest, Melchizedek Priesthood",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Church Organization",
+                "entryId": "tg-church-organization",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "High Priest, Melchizedek Priesthood",
+                "entryId": "tg-high-priest-melchizedek-priesthood",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:67",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 67
       },
       {
         "text": "The duty of the members after they are received by baptism—The elders or priests are to have a sufficient time to expound all things concerning the church of Christ to their understanding, previous to their partaking of the sacrament and being confirmed by the laying on of the hands of the elders, so that all things may be done in order.",
@@ -1221,7 +3664,99 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 68,
+        "crossReferences": [
+          {
+            "raw": "TG Duty.",
+            "prettyString": "TG Duty",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Duty",
+                "entryId": "tg-duty",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Baptism.",
+            "prettyString": "TG Baptism",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Baptism",
+                "entryId": "tg-baptism",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Understanding.",
+            "prettyString": "TG Understanding",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Understanding",
+                "entryId": "tg-understanding",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Sacrament.",
+            "prettyString": "TG Sacrament",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Sacrament",
+                "entryId": "tg-sacrament",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Hands, Laying on of.",
+            "prettyString": "TG Hands, Laying on of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Hands, Laying on of",
+                "entryId": "tg-hands-laying-on-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Order.",
+            "prettyString": "TG Order",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Order",
+                "entryId": "tg-order",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:68",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 68
       },
       {
         "text": "And the members shall manifest before the church, and also before the elders, by a godly walk and conversation, that they are worthy of it, that there may be works and faith agreeable to the holy scriptures—walking in holiness before the Lord.",
@@ -1243,7 +3778,65 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 69,
+        "crossReferences": [
+          {
+            "raw": "TG Godliness.",
+            "prettyString": "TG Godliness",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Godliness",
+                "entryId": "tg-godliness",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "James 2:14.",
+            "prettyString": "James 2:14",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "james",
+                "chapters": [
+                  {
+                    "start": 2,
+                    "end": 2,
+                    "verses": [
+                      {
+                        "start": 14,
+                        "end": 14
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Holiness.",
+            "prettyString": "TG Holiness",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Holiness",
+                "entryId": "tg-holiness",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:69",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 69
       },
       {
         "text": "Every member of the church of Christ having children is to bring them unto the elders before the church, who are to lay their hands upon them in the name of Jesus Christ, and bless them in his name.",
@@ -1260,7 +3853,59 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 70,
+        "crossReferences": [
+          {
+            "raw": "TG Blessing; Children; Family, Love within.",
+            "prettyString": "TG Blessing; TG Children; TG Family, Love within",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Blessing",
+                "entryId": "tg-blessing",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Children",
+                "entryId": "tg-children",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Family, Love within",
+                "entryId": "tg-family-love-within",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Hands, Laying on of.",
+            "prettyString": "TG Hands, Laying on of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Hands, Laying on of",
+                "entryId": "tg-hands-laying-on-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:70",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 70
       },
       {
         "text": "No one can be received into the church of Christ unless he has arrived unto the years of accountability before God, and is capable of repentance.",
@@ -1277,7 +3922,29 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 71,
+        "crossReferences": [
+          {
+            "raw": "TG Repent.",
+            "prettyString": "TG Repent",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Repent",
+                "entryId": "tg-repent",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:71",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 71
       },
       {
         "text": "Baptism is to be administered in the following manner unto all those who repent—",
@@ -1289,13 +3956,27 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 72,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:72",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 72
       },
       {
         "text": "The person who is called of God and has authority from Jesus Christ to baptize, shall go down into the water with the person who has presented himself or herself for baptism, and shall say, calling him or her by name: Having been commissioned of Jesus Christ, I baptize you in the name of the Father, and of the Son, and of the Holy Ghost. Amen.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 73,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:73",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 73
       },
       {
         "text": "Then shall he immerse him or her in the water, and come forth again out of the water.",
@@ -1307,7 +3988,37 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 74,
+        "crossReferences": [
+          {
+            "raw": "TG Baptism, Immersion; Jesus Christ, Types of, in Memory.",
+            "prettyString": "TG Baptism, Immersion; TG Jesus Christ, Types of, in Memory",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Baptism, Immersion",
+                "entryId": "tg-baptism-immersion",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Jesus Christ, Types of, in Memory",
+                "entryId": "tg-jesus-christ-types-of-in-memory",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:74",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 74
       },
       {
         "text": "It is expedient that the church meet together often to partake of bread and wine in the remembrance of the Lord Jesus;",
@@ -1334,7 +4045,87 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 75,
+        "crossReferences": [
+          {
+            "raw": "TG Assembly for Worship; Meetings.",
+            "prettyString": "TG Assembly for Worship; TG Meetings",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Assembly for Worship",
+                "entryId": "tg-assembly-for-worship",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Meetings",
+                "entryId": "tg-meetings",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "Acts 20:7.",
+            "prettyString": "Acts 20:7",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "acts",
+                "chapters": [
+                  {
+                    "start": 20,
+                    "end": 20,
+                    "verses": [
+                      {
+                        "start": 7,
+                        "end": 7
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Bread.",
+            "prettyString": "TG Bread",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Bread",
+                "entryId": "tg-bread",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Sacrament.",
+            "prettyString": "TG Sacrament",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Sacrament",
+                "entryId": "tg-sacrament",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:75",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 75
       },
       {
         "text": "And the elder or priest shall administer it; and after this manner shall he administer it—he shall kneel with the church and call upon the Father in solemn prayer, saying:",
@@ -1346,7 +4137,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 76,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:76",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 76
       },
       {
         "text": "O God, the Eternal Father, we ask thee in the name of thy Son, Jesus Christ, to bless and sanctify this bread to the souls of all those who partake of it, that they may eat in remembrance of the body of thy Son, and witness unto thee, O God, the Eternal Father, that they are willing to take upon them the name of thy Son, and always remember him and keep his commandments which he has given them; that they may always have his Spirit to be with them. Amen.",
@@ -1373,7 +4171,51 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 77,
+        "crossReferences": [
+          {
+            "raw": "TG Obedience.",
+            "prettyString": "TG Obedience",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Obedience",
+                "entryId": "tg-obedience",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "John 14:16.",
+            "prettyString": "John 14:16",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "john",
+                "chapters": [
+                  {
+                    "start": 14,
+                    "end": 14,
+                    "verses": [
+                      {
+                        "start": 16,
+                        "end": 16
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:77",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 77
       },
       {
         "text": "The manner of administering the wine—he shall take the cup also, and say:",
@@ -1390,7 +4232,37 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 78,
+        "crossReferences": [
+          {
+            "raw": "Luke 22:20.",
+            "prettyString": "Luke 22:20",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "luke",
+                "chapters": [
+                  {
+                    "start": 22,
+                    "end": 22,
+                    "verses": [
+                      {
+                        "start": 20,
+                        "end": 20
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:78",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 78
       },
       {
         "text": "O God, the Eternal Father, we ask thee in the name of thy Son, Jesus Christ, to bless and sanctify this wine to the souls of all those who drink of it, that they may do it in remembrance of the blood of thy Son, which was shed for them; that they may witness unto thee, O God, the Eternal Father, that they do always remember him, that they may have his Spirit to be with them. Amen.",
@@ -1402,7 +4274,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 79,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:79",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 79
       },
       {
         "text": "Any member of the church of Christ transgressing, or being overtaken in a fault, shall be dealt with as the scriptures direct.",
@@ -1419,13 +4298,64 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 80,
+        "crossReferences": [
+          {
+            "raw": "TG Offense.",
+            "prettyString": "TG Offense",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Offense",
+                "entryId": "tg-offense",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "Gal. 6:1.",
+            "prettyString": "Galatians 6:1",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "galatians",
+                "chapters": [
+                  {
+                    "start": 6,
+                    "end": 6,
+                    "verses": [
+                      {
+                        "start": 1,
+                        "end": 1
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:80",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 80
       },
       {
         "text": "It shall be the duty of the several churches, composing the church of Christ, to send one or more of their teachers to attend the several conferences held by the elders of the church,",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 81,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:81",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 81
       },
       {
         "text": "With a list of the names of the several members uniting themselves with the church since the last conference; or send by the hand of some priest; so that a regular list of all the names of the whole church may be kept in a book by one of the elders, whomsoever the other elders shall appoint from time to time;",
@@ -1437,7 +4367,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 82,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:82",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 82
       },
       {
         "text": "And also, if any have been expelled from the church, so that their names may be blotted out of the general church record of names.",
@@ -1454,7 +4391,29 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 83,
+        "crossReferences": [
+          {
+            "raw": "TG Record Keeping.",
+            "prettyString": "TG Record Keeping",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Record Keeping",
+                "entryId": "tg-record-keeping",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:83",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 83
       },
       {
         "text": "All members removing from the church where they reside, if going to a church where they are not known, may take a letter certifying that they are regular members and in good standing, which certificate may be signed by any elder or priest if the member receiving the letter is personally acquainted with the elder or priest, or it may be signed by the teachers or deacons of the church.",
@@ -1466,7 +4425,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 84,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 20:84",
+        "book": "Doctrine and Covenants",
+        "chapter": 20,
+        "verse": 84
       }
     ]
   },

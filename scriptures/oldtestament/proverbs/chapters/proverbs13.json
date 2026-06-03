@@ -25,7 +25,14 @@
             "end": 18
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 1,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Proverbs 13:1",
+        "book": "Proverbs",
+        "chapter": 13,
+        "verse": 1
       },
       {
         "text": "A man shall eat good by the fruit of his mouth: but the soul of the transgressors shall eat violence.",
@@ -40,7 +47,14 @@
             "end": 91
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 2,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Proverbs 13:2",
+        "book": "Proverbs",
+        "chapter": 13,
+        "verse": 2
       },
       {
         "text": "He that keepeth his mouth keepeth his life: but he that openeth wide his lips shall have destruction.",
@@ -62,7 +76,43 @@
             "end": 47
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 3,
+        "crossReferences": [
+          {
+            "raw": "TG Silence.",
+            "prettyString": "TG Silence",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Silence",
+                "entryId": "tg-silence",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Gossip.",
+            "prettyString": "TG Gossip",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Gossip",
+                "entryId": "tg-gossip",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 13:3",
+        "book": "Proverbs",
+        "chapter": 13,
+        "verse": 3
       },
       {
         "text": "The soul of the sluggard desireth, and hath nothing: but the soul of the diligent shall be made fat.",
@@ -79,7 +129,37 @@
             "end": 43
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 4,
+        "crossReferences": [
+          {
+            "raw": "TG Apathy; Laziness.",
+            "prettyString": "TG Apathy; TG Laziness",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Apathy",
+                "entryId": "tg-apathy",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Laziness",
+                "entryId": "tg-laziness",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 13:4",
+        "book": "Proverbs",
+        "chapter": 13,
+        "verse": 4
       },
       {
         "text": "A righteous man hateth lying: but a wicked man is loathsome, and cometh to shame.",
@@ -100,7 +180,29 @@
             "end": 46
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 5,
+        "crossReferences": [
+          {
+            "raw": "TG Hate.",
+            "prettyString": "TG Hate",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Hate",
+                "entryId": "tg-hate",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 13:5",
+        "book": "Proverbs",
+        "chapter": 13,
+        "verse": 5
       },
       {
         "text": "Righteousness keepeth him that is upright in the way: but wickedness overthroweth the sinner.",
@@ -117,7 +219,14 @@
             "end": 33
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 6,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Proverbs 13:6",
+        "book": "Proverbs",
+        "chapter": 13,
+        "verse": 6
       },
       {
         "text": "There is that maketh himself rich, yet hath nothing: there is that maketh himself poor, yet hath great riches.",
@@ -147,7 +256,75 @@
             "end": 96
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 7,
+        "crossReferences": [
+          {
+            "raw": "Prov. 11:24; Matt. 16:26.",
+            "prettyString": "Proverbs 11:24; Matthew 16:26",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "proverbs",
+                "chapters": [
+                  {
+                    "start": 11,
+                    "end": 11,
+                    "verses": [
+                      {
+                        "start": 24,
+                        "end": 24
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "matthew",
+                "chapters": [
+                  {
+                    "start": 16,
+                    "end": 16,
+                    "verses": [
+                      {
+                        "start": 26,
+                        "end": 26
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "D&C 6:7.",
+            "prettyString": "D&C 6:7",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 6,
+                    "end": 6,
+                    "verses": [
+                      {
+                        "start": 7,
+                        "end": 7
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 13:7",
+        "book": "Proverbs",
+        "chapter": 13,
+        "verse": 7
       },
       {
         "text": "The ransom of a man’s life are his riches: but the poor heareth not rebuke.",
@@ -158,7 +335,14 @@
             "end": 30
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 8,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Proverbs 13:8",
+        "book": "Proverbs",
+        "chapter": 13,
+        "verse": 8
       },
       {
         "text": "The light of the righteous rejoiceth: but the lamp of the wicked shall be put out.",
@@ -170,7 +354,53 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 9,
+        "crossReferences": [
+          {
+            "raw": "Job 18:5; Prov. 24:20.",
+            "prettyString": "Job 18:5; Proverbs 24:20",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "job",
+                "chapters": [
+                  {
+                    "start": 18,
+                    "end": 18,
+                    "verses": [
+                      {
+                        "start": 5,
+                        "end": 5
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "proverbs",
+                "chapters": [
+                  {
+                    "start": 24,
+                    "end": 24,
+                    "verses": [
+                      {
+                        "start": 20,
+                        "end": 20
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 13:9",
+        "book": "Proverbs",
+        "chapter": 13,
+        "verse": 9
       },
       {
         "text": "Only by pride cometh contention: but with the well advised is wisdom.",
@@ -192,7 +422,51 @@
             "end": 61
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 10,
+        "crossReferences": [
+          {
+            "raw": "Prov. 28:25.",
+            "prettyString": "Proverbs 28:25",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "proverbs",
+                "chapters": [
+                  {
+                    "start": 28,
+                    "end": 28,
+                    "verses": [
+                      {
+                        "start": 25,
+                        "end": 25
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Contention.",
+            "prettyString": "TG Contention",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Contention",
+                "entryId": "tg-contention",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 13:10",
+        "book": "Proverbs",
+        "chapter": 13,
+        "verse": 10
       },
       {
         "text": "Wealth gotten by vanity shall be diminished: but he that gathereth by labour shall increase.",
@@ -219,7 +493,73 @@
             "end": 13
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 11,
+        "crossReferences": [
+          {
+            "raw": "Hel. 13:19.",
+            "prettyString": "Helaman 13:19",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "helaman",
+                "chapters": [
+                  {
+                    "start": 13,
+                    "end": 13,
+                    "verses": [
+                      {
+                        "start": 19,
+                        "end": 19
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Vanity.",
+            "prettyString": "TG Vanity",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Vanity",
+                "entryId": "tg-vanity",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Industry; Labor.",
+            "prettyString": "TG Industry; TG Labor",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Industry",
+                "entryId": "tg-industry",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Labor",
+                "entryId": "tg-labor",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 13:11",
+        "book": "Proverbs",
+        "chapter": 13,
+        "verse": 11
       },
       {
         "text": "Hope deferred maketh the heart sick: but when the desire cometh, it is a tree of life.",
@@ -234,7 +574,14 @@
             "end": 70
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 12,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Proverbs 13:12",
+        "book": "Proverbs",
+        "chapter": 13,
+        "verse": 12
       },
       {
         "text": "Whoso despiseth the word shall be destroyed: but he that feareth the commandment shall be rewarded.",
@@ -251,7 +598,67 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 13,
+        "crossReferences": [
+          {
+            "raw": "Prov. 19:16; Morm. 9:26.",
+            "prettyString": "Proverbs 19:16; Mormon 9:26",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "proverbs",
+                "chapters": [
+                  {
+                    "start": 19,
+                    "end": 19,
+                    "verses": [
+                      {
+                        "start": 16,
+                        "end": 16
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "mormon",
+                "chapters": [
+                  {
+                    "start": 9,
+                    "end": 9,
+                    "verses": [
+                      {
+                        "start": 26,
+                        "end": 26
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Reward.",
+            "prettyString": "TG Reward",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Reward",
+                "entryId": "tg-reward",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 13:13",
+        "book": "Proverbs",
+        "chapter": 13,
+        "verse": 13
       },
       {
         "text": "The law of the wise is a fountain of life, to depart from the snares of death.",
@@ -268,7 +675,53 @@
             "end": 22
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 14,
+        "crossReferences": [
+          {
+            "raw": "Prov. 10:11; Moro. 7:11.",
+            "prettyString": "Proverbs 10:11; Moroni 7:11",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "proverbs",
+                "chapters": [
+                  {
+                    "start": 10,
+                    "end": 10,
+                    "verses": [
+                      {
+                        "start": 11,
+                        "end": 11
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "moroni",
+                "chapters": [
+                  {
+                    "start": 7,
+                    "end": 7,
+                    "verses": [
+                      {
+                        "start": 11,
+                        "end": 11
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 13:14",
+        "book": "Proverbs",
+        "chapter": 13,
+        "verse": 14
       },
       {
         "text": "Good understanding giveth favour: but the way of transgressors is hard.",
@@ -279,7 +732,14 @@
             "end": 65
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 15,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Proverbs 13:15",
+        "book": "Proverbs",
+        "chapter": 13,
+        "verse": 15
       },
       {
         "text": "Every prudent man dealeth with knowledge: but a fool layeth open his folly.",
@@ -300,7 +760,29 @@
             "end": 68
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 16,
+        "crossReferences": [
+          {
+            "raw": "TG Prudence.",
+            "prettyString": "TG Prudence",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Prudence",
+                "entryId": "tg-prudence",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 13:16",
+        "book": "Proverbs",
+        "chapter": 13,
+        "verse": 16
       },
       {
         "text": "A wicked messenger falleth into mischief: but a faithful ambassador is health.",
@@ -311,7 +793,14 @@
             "end": 70
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 17,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Proverbs 13:17",
+        "book": "Proverbs",
+        "chapter": 13,
+        "verse": 17
       },
       {
         "text": "Poverty and shame shall be to him that refuseth instruction: but he that regardeth reproof shall be honoured.",
@@ -338,7 +827,83 @@
             "end": 29
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 18,
+        "crossReferences": [
+          {
+            "raw": "TG Shame.",
+            "prettyString": "TG Shame",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Shame",
+                "entryId": "tg-shame",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "Prov. 15:5.",
+            "prettyString": "Proverbs 15:5",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "proverbs",
+                "chapters": [
+                  {
+                    "start": 15,
+                    "end": 15,
+                    "verses": [
+                      {
+                        "start": 5,
+                        "end": 5
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "D&C 95:1; 121:43.",
+            "prettyString": "D&C 95:1; 121:43",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 95,
+                    "end": 95,
+                    "verses": [
+                      {
+                        "start": 1,
+                        "end": 1
+                      }
+                    ]
+                  },
+                  {
+                    "start": 121,
+                    "end": 121,
+                    "verses": [
+                      {
+                        "start": 43,
+                        "end": 43
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 13:18",
+        "book": "Proverbs",
+        "chapter": 13,
+        "verse": 18
       },
       {
         "text": "The desire accomplished is sweet to the soul: but it is abomination to fools to depart from evil.",
@@ -349,7 +914,14 @@
             "end": 55
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 19,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Proverbs 13:19",
+        "book": "Proverbs",
+        "chapter": 13,
+        "verse": 19
       },
       {
         "text": "He that walketh with wise men shall be wise: but a companion of fools shall be destroyed.",
@@ -360,7 +932,14 @@
             "end": 29
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 20,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Proverbs 13:20",
+        "book": "Proverbs",
+        "chapter": 13,
+        "verse": 20
       },
       {
         "text": "Evil pursueth sinners: but to the righteous good shall be repayed.",
@@ -372,7 +951,37 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 21,
+        "crossReferences": [
+          {
+            "raw": "Ps. 32:10.",
+            "prettyString": "Psalms 32:10",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "psalms",
+                "chapters": [
+                  {
+                    "start": 32,
+                    "end": 32,
+                    "verses": [
+                      {
+                        "start": 10,
+                        "end": 10
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 13:21",
+        "book": "Proverbs",
+        "chapter": 13,
+        "verse": 21
       },
       {
         "text": "A good man leaveth an inheritance to his children’s children: and the wealth of the sinner is laid up for the just.",
@@ -393,7 +1002,37 @@
             "end": 93
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 22,
+        "crossReferences": [
+          {
+            "raw": "Eccl. 2:26.",
+            "prettyString": "Ecclesiastes 2:26",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "ecclesiastes",
+                "chapters": [
+                  {
+                    "start": 2,
+                    "end": 2,
+                    "verses": [
+                      {
+                        "start": 26,
+                        "end": 26
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 13:22",
+        "book": "Proverbs",
+        "chapter": 13,
+        "verse": 22
       },
       {
         "text": "Much food is in the tillage of the poor: but there is that is destroyed for want of judgment.",
@@ -408,7 +1047,14 @@
             "end": 61
           }
         ],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 23,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Proverbs 13:23",
+        "book": "Proverbs",
+        "chapter": 13,
+        "verse": 23
       },
       {
         "text": "He that spareth his rod hateth his son: but he that loveth him chasteneth him betimes.",
@@ -425,7 +1071,37 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 24,
+        "crossReferences": [
+          {
+            "raw": "Prov. 29:15.",
+            "prettyString": "Proverbs 29:15",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "proverbs",
+                "chapters": [
+                  {
+                    "start": 29,
+                    "end": 29,
+                    "verses": [
+                      {
+                        "start": 15,
+                        "end": 15
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Proverbs 13:24",
+        "book": "Proverbs",
+        "chapter": 13,
+        "verse": 24
       },
       {
         "text": "The righteous eateth to the satisfying of his soul: but the belly of the wicked shall want.",
@@ -437,7 +1113,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 25,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Proverbs 13:25",
+        "book": "Proverbs",
+        "chapter": 13,
+        "verse": 25
       }
     ]
   },

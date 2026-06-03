@@ -31,7 +31,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 1,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 46:1",
+        "book": "Doctrine and Covenants",
+        "chapter": 46,
+        "verse": 1
       },
       {
         "text": "But notwithstanding those things which are written, it always has been given to the elders of my church from the beginning, and ever shall be, to conduct all meetings as they are directed and guided by the Holy Spirit.",
@@ -48,7 +55,91 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 2,
+        "crossReferences": [
+          {
+            "raw": "Lev. 9:1; Alma 6:1.",
+            "prettyString": "Leviticus 9:1; Alma 6:1",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "leviticus",
+                "chapters": [
+                  {
+                    "start": 9,
+                    "end": 9,
+                    "verses": [
+                      {
+                        "start": 1,
+                        "end": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "alma",
+                "chapters": [
+                  {
+                    "start": 6,
+                    "end": 6,
+                    "verses": [
+                      {
+                        "start": 1,
+                        "end": 1
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "Moro. 6:9; D&C 20:45.",
+            "prettyString": "Moroni 6:9; D&C 20:45",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "moroni",
+                "chapters": [
+                  {
+                    "start": 6,
+                    "end": 6,
+                    "verses": [
+                      {
+                        "start": 9,
+                        "end": 9
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 20,
+                    "end": 20,
+                    "verses": [
+                      {
+                        "start": 45,
+                        "end": 45
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 46:2",
+        "book": "Doctrine and Covenants",
+        "chapter": 46,
+        "verse": 2
       },
       {
         "text": "Nevertheless ye are commanded never to cast any one out from your public meetings, which are held before the world.",
@@ -65,7 +156,45 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 3,
+        "crossReferences": [
+          {
+            "raw": "TG Church; Fellowshipping; Meetings.",
+            "prettyString": "TG Church; TG Fellowshipping; TG Meetings",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Church",
+                "entryId": "tg-church",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Fellowshipping",
+                "entryId": "tg-fellowshipping",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Meetings",
+                "entryId": "tg-meetings",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 46:3",
+        "book": "Doctrine and Covenants",
+        "chapter": 46,
+        "verse": 3
       },
       {
         "text": "Ye are also commanded not to cast any one who belongeth to the church out of your sacrament meetings; nevertheless, if any have trespassed, let him not partake until he makes reconciliation.",
@@ -82,7 +211,37 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 4,
+        "crossReferences": [
+          {
+            "raw": "TG Reconciliation; Sacrament.",
+            "prettyString": "TG Reconciliation; TG Sacrament",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Reconciliation",
+                "entryId": "tg-reconciliation",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Sacrament",
+                "entryId": "tg-sacrament",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 46:4",
+        "book": "Doctrine and Covenants",
+        "chapter": 46,
+        "verse": 4
       },
       {
         "text": "And again I say unto you, ye shall not cast any out of your sacrament meetings who are earnestly seeking the kingdom—I speak this concerning those who are not of the church.",
@@ -94,7 +253,29 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 5,
+        "crossReferences": [
+          {
+            "raw": "TG Missionary Work.",
+            "prettyString": "TG Missionary Work",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Missionary Work",
+                "entryId": "tg-missionary-work",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 46:5",
+        "book": "Doctrine and Covenants",
+        "chapter": 46,
+        "verse": 5
       },
       {
         "text": "And again I say unto you, concerning your confirmation meetings, that if there be any that are not of the church, that are earnestly seeking after the kingdom, ye shall not cast them out.",
@@ -106,7 +287,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 6,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 46:6",
+        "book": "Doctrine and Covenants",
+        "chapter": 46,
+        "verse": 6
       },
       {
         "text": "But ye are commanded in all things to ask of God, who giveth liberally; and that which the Spirit testifies unto you even so I would that ye should do in all holiness of heart, walking uprightly before me, considering the end of your salvation, doing all things with prayer and thanksgiving, that ye may not be seduced by evil spirits, or doctrines of devils, or the commandments of men; for some are of men, and others of devils.",
@@ -148,7 +336,65 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 7,
+        "crossReferences": [
+          {
+            "raw": "TG Holiness.",
+            "prettyString": "TG Holiness",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Holiness",
+                "entryId": "tg-holiness",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Meditation; Prayer.",
+            "prettyString": "TG Meditation; TG Prayer",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Meditation",
+                "entryId": "tg-meditation",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Prayer",
+                "entryId": "tg-prayer",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Spirits, Evil or Unclean.",
+            "prettyString": "TG Spirits, Evil or Unclean",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Spirits, Evil or Unclean",
+                "entryId": "tg-spirits-evil-or-unclean",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 46:7",
+        "book": "Doctrine and Covenants",
+        "chapter": 46,
+        "verse": 7
       },
       {
         "text": "Wherefore, beware lest ye are deceived; and that ye may not be deceived seek ye earnestly the best gifts, always remembering for what they are given;",
@@ -160,7 +406,53 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 8,
+        "crossReferences": [
+          {
+            "raw": "1 Cor. 12:31; D&C 11:10.",
+            "prettyString": "1 Corinthians 12:31; D&C 11:10",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "1corinthians",
+                "chapters": [
+                  {
+                    "start": 12,
+                    "end": 12,
+                    "verses": [
+                      {
+                        "start": 31,
+                        "end": 31
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 11,
+                    "end": 11,
+                    "verses": [
+                      {
+                        "start": 10,
+                        "end": 10
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 46:8",
+        "book": "Doctrine and Covenants",
+        "chapter": 46,
+        "verse": 8
       },
       {
         "text": "For verily I say unto you, they are given for the benefit of those who love me and keep all my commandments, and him that seeketh so to do; that all may be benefited that seek or that ask of me, that ask and not for a sign that they may consume it upon their lusts.",
@@ -177,7 +469,51 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 9,
+        "crossReferences": [
+          {
+            "raw": "TG Sign Seekers.",
+            "prettyString": "TG Sign Seekers",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Sign Seekers",
+                "entryId": "tg-sign-seekers",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "James 4:3.",
+            "prettyString": "James 4:3",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "james",
+                "chapters": [
+                  {
+                    "start": 4,
+                    "end": 4,
+                    "verses": [
+                      {
+                        "start": 3,
+                        "end": 3
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 46:9",
+        "book": "Doctrine and Covenants",
+        "chapter": 46,
+        "verse": 9
       },
       {
         "text": "And again, verily I say unto you, I would that ye should always remember, and always retain in your minds what those gifts are, that are given unto the church.",
@@ -194,7 +530,51 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 10,
+        "crossReferences": [
+          {
+            "raw": "TG Mind.",
+            "prettyString": "TG Mind",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Mind",
+                "entryId": "tg-mind",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "1 Cor. 14:12.",
+            "prettyString": "1 Corinthians 14:12",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "1corinthians",
+                "chapters": [
+                  {
+                    "start": 14,
+                    "end": 14,
+                    "verses": [
+                      {
+                        "start": 12,
+                        "end": 12
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 46:10",
+        "book": "Doctrine and Covenants",
+        "chapter": 46,
+        "verse": 10
       },
       {
         "text": "For all have not every gift given unto them; for there are many gifts, and to every man is given a gift by the Spirit of God.",
@@ -206,13 +586,27 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 11,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 46:11",
+        "book": "Doctrine and Covenants",
+        "chapter": 46,
+        "verse": 11
       },
       {
         "text": "To some is given one, and to some is given another, that all may be profited thereby.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 12,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 46:12",
+        "book": "Doctrine and Covenants",
+        "chapter": 46,
+        "verse": 12
       },
       {
         "text": "To some it is given by the Holy Ghost to know that Jesus Christ is the Son of God, and that he was crucified for the sins of the world.",
@@ -224,7 +618,29 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 13,
+        "crossReferences": [
+          {
+            "raw": "TG Holy Ghost, Source of Testimony.",
+            "prettyString": "TG Holy Ghost, Source of Testimony",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Holy Ghost, Source of Testimony",
+                "entryId": "tg-holy-ghost-source-of-testimony",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 46:13",
+        "book": "Doctrine and Covenants",
+        "chapter": 46,
+        "verse": 13
       },
       {
         "text": "To others it is given to believe on their words, that they also might have eternal life if they continue faithful.",
@@ -236,7 +652,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 14,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 46:14",
+        "book": "Doctrine and Covenants",
+        "chapter": 46,
+        "verse": 14
       },
       {
         "text": "And again, to some it is given by the Holy Ghost to know the differences of administration, as it will be pleasing unto the same Lord, according as the Lord will, suiting his mercies according to the conditions of the children of men.",
@@ -253,7 +676,91 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 15,
+        "crossReferences": [
+          {
+            "raw": "Moro. 10:8.",
+            "prettyString": "Moroni 10:8",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "moroni",
+                "chapters": [
+                  {
+                    "start": 10,
+                    "end": 10,
+                    "verses": [
+                      {
+                        "start": 8,
+                        "end": 8
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "Gen. 32:10; 1 Ne. 1:20; Alma 34:38.",
+            "prettyString": "Genesis 32:10; 1 Nephi 1:20; Alma 34:38",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "genesis",
+                "chapters": [
+                  {
+                    "start": 32,
+                    "end": 32,
+                    "verses": [
+                      {
+                        "start": 10,
+                        "end": 10
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "1nephi",
+                "chapters": [
+                  {
+                    "start": 1,
+                    "end": 1,
+                    "verses": [
+                      {
+                        "start": 20,
+                        "end": 20
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "alma",
+                "chapters": [
+                  {
+                    "start": 34,
+                    "end": 34,
+                    "verses": [
+                      {
+                        "start": 38,
+                        "end": 38
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 46:15",
+        "book": "Doctrine and Covenants",
+        "chapter": 46,
+        "verse": 15
       },
       {
         "text": "And again, it is given by the Holy Ghost to some to know the diversities of operations, whether they be of God, that the manifestations of the Spirit may be given to every man to profit withal.",
@@ -265,7 +772,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 16,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 46:16",
+        "book": "Doctrine and Covenants",
+        "chapter": 46,
+        "verse": 16
       },
       {
         "text": "And again, verily I say unto you, to some is given, by the Spirit of God, the word of wisdom.",
@@ -277,7 +791,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 17,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 46:17",
+        "book": "Doctrine and Covenants",
+        "chapter": 46,
+        "verse": 17
       },
       {
         "text": "To another is given the word of knowledge, that all may be taught to be wise and to have knowledge.",
@@ -289,7 +810,37 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 18,
+        "crossReferences": [
+          {
+            "raw": "TG Education; Knowledge.",
+            "prettyString": "TG Education; TG Knowledge",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Education",
+                "entryId": "tg-education",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Knowledge",
+                "entryId": "tg-knowledge",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 46:18",
+        "book": "Doctrine and Covenants",
+        "chapter": 46,
+        "verse": 18
       },
       {
         "text": "And again, to some it is given to have faith to be healed;",
@@ -301,7 +852,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 19,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 46:19",
+        "book": "Doctrine and Covenants",
+        "chapter": 46,
+        "verse": 19
       },
       {
         "text": "And to others it is given to have faith to heal.",
@@ -313,7 +871,29 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 20,
+        "crossReferences": [
+          {
+            "raw": "TG Heal.",
+            "prettyString": "TG Heal",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Heal",
+                "entryId": "tg-heal",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 46:20",
+        "book": "Doctrine and Covenants",
+        "chapter": 46,
+        "verse": 20
       },
       {
         "text": "And again, to some is given the working of miracles;",
@@ -325,7 +905,29 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 21,
+        "crossReferences": [
+          {
+            "raw": "TG Miracle.",
+            "prettyString": "TG Miracle",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Miracle",
+                "entryId": "tg-miracle",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 46:21",
+        "book": "Doctrine and Covenants",
+        "chapter": 46,
+        "verse": 21
       },
       {
         "text": "And to others it is given to prophesy;",
@@ -337,7 +939,29 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 22,
+        "crossReferences": [
+          {
+            "raw": "TG Prophecy.",
+            "prettyString": "TG Prophecy",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Prophecy",
+                "entryId": "tg-prophecy",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 46:22",
+        "book": "Doctrine and Covenants",
+        "chapter": 46,
+        "verse": 22
       },
       {
         "text": "And to others the discerning of spirits.",
@@ -349,7 +973,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 23,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 46:23",
+        "book": "Doctrine and Covenants",
+        "chapter": 46,
+        "verse": 23
       },
       {
         "text": "And again, it is given to some to speak with tongues;",
@@ -361,13 +992,42 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 24,
+        "crossReferences": [
+          {
+            "raw": "TG Language.",
+            "prettyString": "TG Language",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Language",
+                "entryId": "tg-language",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 46:24",
+        "book": "Doctrine and Covenants",
+        "chapter": 46,
+        "verse": 24
       },
       {
         "text": "And to another is given the interpretation of tongues.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 25,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 46:25",
+        "book": "Doctrine and Covenants",
+        "chapter": 46,
+        "verse": 25
       },
       {
         "text": "And all these gifts come from God, for the benefit of the children of God.",
@@ -384,7 +1044,51 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 26,
+        "crossReferences": [
+          {
+            "raw": "TG God, Gifts of.",
+            "prettyString": "TG God, Gifts of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "God, Gifts of",
+                "entryId": "tg-god-gifts-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Man, a Spirit Child of Heavenly Father; Sons and Daughters of God.",
+            "prettyString": "TG Man, a Spirit Child of Heavenly Father; TG Sons and Daughters of God",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Man, a Spirit Child of Heavenly Father",
+                "entryId": "tg-man-a-spirit-child-of-heavenly-father",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Sons and Daughters of God",
+                "entryId": "tg-sons-and-daughters-of-god",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 46:26",
+        "book": "Doctrine and Covenants",
+        "chapter": 46,
+        "verse": 26
       },
       {
         "text": "And unto the bishop of the church, and unto such as God shall appoint and ordain to watch over the church and to be elders unto the church, are to have it given unto them to discern all those gifts lest there shall be any among you professing and yet be not of God.",
@@ -401,7 +1105,43 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 27,
+        "crossReferences": [
+          {
+            "raw": "TG Bishop.",
+            "prettyString": "TG Bishop",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Bishop",
+                "entryId": "tg-bishop",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Discernment, Spiritual.",
+            "prettyString": "TG Discernment, Spiritual",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Discernment, Spiritual",
+                "entryId": "tg-discernment-spiritual",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 46:27",
+        "book": "Doctrine and Covenants",
+        "chapter": 46,
+        "verse": 27
       },
       {
         "text": "And it shall come to pass that he that asketh in Spirit shall receive in Spirit;",
@@ -413,13 +1153,27 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 28,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 46:28",
+        "book": "Doctrine and Covenants",
+        "chapter": 46,
+        "verse": 28
       },
       {
         "text": "That unto some it may be given to have all those gifts, that there may be a head, in order that every member may be profited thereby.",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 29,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 46:29",
+        "book": "Doctrine and Covenants",
+        "chapter": 46,
+        "verse": 29
       },
       {
         "text": "He that asketh in the Spirit asketh according to the will of God; wherefore it is done even as he asketh.",
@@ -441,13 +1195,64 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 30,
+        "crossReferences": [
+          {
+            "raw": "James 4:3.",
+            "prettyString": "James 4:3",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "james",
+                "chapters": [
+                  {
+                    "start": 4,
+                    "end": 4,
+                    "verses": [
+                      {
+                        "start": 3,
+                        "end": 3
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG God, Will of.",
+            "prettyString": "TG God, Will of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "God, Will of",
+                "entryId": "tg-god-will-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 46:30",
+        "book": "Doctrine and Covenants",
+        "chapter": 46,
+        "verse": 30
       },
       {
         "text": "And again, I say unto you, all things must be done in the name of Christ, whatsoever you do in the Spirit;",
         "footNotes": [],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 31,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 46:31",
+        "book": "Doctrine and Covenants",
+        "chapter": 46,
+        "verse": 31
       },
       {
         "text": "And ye must give thanks unto God in the Spirit for whatsoever blessing ye are blessed with.",
@@ -459,7 +1264,14 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 32,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 46:32",
+        "book": "Doctrine and Covenants",
+        "chapter": 46,
+        "verse": 32
       },
       {
         "text": "And ye must practice virtue and holiness before me continually. Even so. Amen.",
@@ -471,7 +1283,37 @@
           }
         ],
         "italics": [],
-        "associatedContent": []
+        "associatedContent": [],
+        "verseNumber": 33,
+        "crossReferences": [
+          {
+            "raw": "TG Holiness; Virtue.",
+            "prettyString": "TG Holiness; TG Virtue",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Holiness",
+                "entryId": "tg-holiness",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Virtue",
+                "entryId": "tg-virtue",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Doctrine and Covenants 46:33",
+        "book": "Doctrine and Covenants",
+        "chapter": 46,
+        "verse": 33
       }
     ]
   },
