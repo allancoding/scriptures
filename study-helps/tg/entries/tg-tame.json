@@ -1,0 +1,73 @@
+{
+  "_id": "tg-tame",
+  "content": [
+    {
+      "text": "fetters broken in pieces: neither could any man tame him, Mark 5:4. tongue can no man tame, James 3:8.",
+      "references": [
+        {
+          "text": "Mark 5:4",
+          "start": 58,
+          "end": 66,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 5,
+            "chapterId": "mark5",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "James 3:8",
+          "start": 92,
+          "end": 101,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "james",
+            "book": "james",
+            "chapter": 3,
+            "chapterId": "james3",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "I will liken thee … unto a tame olive tree, Jacob 5:3.",
+      "references": [
+        {
+          "text": "Jacob 5:3",
+          "start": 44,
+          "end": 53,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 5,
+            "chapterId": "jacob5",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "tame",
+  "title": "Tame",
+  "type": "tg"
+}

@@ -1,0 +1,961 @@
+{
+  "_id": "tg-rule",
+  "content": [
+    {
+      "text": "greater light to rule the day … lesser light to rule the night, Gen. 1:16 (Moses 2:16; Abr. 3:6). husband … rule over thee, Gen. 3:16 (Moses 4:22). Lord shall rule over you, Judg. 8:23. He that ruleth over men must be just, 2 Sam. 23:3. ruled over all countries beyond the river, Ezra 4:20. Thou rulest the raging of the sea, Ps. 89:9. By me princes rule, Prov. 8:16. hand of the diligent shall bear rule, Prov. 12:24. better … he that ruleth his spirit than he that taketh a city, Prov. 16:32. He that hath no rule over his own spirit, Prov. 25:28. when the wicked beareth rule, the people mourn, Prov. 29:2 (D&C 98:9). one man ruleth over another to his own hurt, Eccl. 8:9. babes shall rule over them, Isa. 3:4 (2 Ne. 13:4). they shall rule over their oppressors, Isa. 14:2 (2 Ne. 24:2). righteous man from the east … made him rule over kings, Isa. 41:2. kingdom of brass, which shall bear rule over all the earth, Dan. 2:39. most High ruleth in the kingdom of men, Dan. 4:17 (4:25, 32; 5:21). mighty king … shall rule with great dominion, Dan. 11:3. that the heathen should rule over them, Joel 2:17. sit and rule upon his throne, Zech. 6:13.",
+      "references": [
+        {
+          "text": "Gen. 1:16",
+          "start": 64,
+          "end": 73,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 1,
+            "chapterId": "genesis1",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 2:16",
+          "start": 75,
+          "end": 85,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 2,
+            "chapterId": "moses2",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Abr. 3:6",
+          "start": 87,
+          "end": 95,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 3,
+            "chapterId": "abraham3",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 3:16",
+          "start": 124,
+          "end": 133,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 3,
+            "chapterId": "genesis3",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 4:22",
+          "start": 135,
+          "end": 145,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 4,
+            "chapterId": "moses4",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Judg. 8:23",
+          "start": 174,
+          "end": 184,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "judg",
+            "book": "judges",
+            "chapter": 8,
+            "chapterId": "judges8",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Sam. 23:3",
+          "start": 224,
+          "end": 235,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-sam",
+            "book": "2samuel",
+            "chapter": 23,
+            "chapterId": "2samuel23",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezra 4:20",
+          "start": 280,
+          "end": 289,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezra",
+            "book": "ezra",
+            "chapter": 4,
+            "chapterId": "ezra4",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 89:9",
+          "start": 326,
+          "end": 334,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 89,
+            "chapterId": "psalms89",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 8:16",
+          "start": 356,
+          "end": 366,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 8,
+            "chapterId": "proverbs8",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 12:24",
+          "start": 406,
+          "end": 417,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 12,
+            "chapterId": "proverbs12",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 16:32",
+          "start": 482,
+          "end": 493,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 16,
+            "chapterId": "proverbs16",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 25:28",
+          "start": 537,
+          "end": 548,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 25,
+            "chapterId": "proverbs25",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 29:2",
+          "start": 598,
+          "end": 608,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 29,
+            "chapterId": "proverbs29",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 98:9",
+          "start": 610,
+          "end": 618,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 98,
+            "chapterId": "doctrineandcovenants98",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eccl. 8:9",
+          "start": 666,
+          "end": 675,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "eccl",
+            "book": "ecclesiastes",
+            "chapter": 8,
+            "chapterId": "ecclesiastes8",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 3:4",
+          "start": 705,
+          "end": 713,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 3,
+            "chapterId": "isaiah3",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 13:4",
+          "start": 715,
+          "end": 725,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 13,
+            "chapterId": "2nephi13",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 14:2",
+          "start": 767,
+          "end": 776,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 14,
+            "chapterId": "isaiah14",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 24:2",
+          "start": 778,
+          "end": 788,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 24,
+            "chapterId": "2nephi24",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 41:2",
+          "start": 847,
+          "end": 856,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 41,
+            "chapterId": "isaiah41",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 2:39",
+          "start": 918,
+          "end": 927,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 2,
+            "chapterId": "daniel2",
+            "verses": [
+              {
+                "start": 39,
+                "end": 39
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 4:17",
+          "start": 969,
+          "end": 978,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 4,
+            "chapterId": "daniel4",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "4:25, 32",
+          "start": 980,
+          "end": 988,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 4,
+            "chapterId": "daniel4",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              },
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "5:21",
+          "start": 990,
+          "end": 994,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 5,
+            "chapterId": "daniel5",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 11:3",
+          "start": 1043,
+          "end": 1052,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 11,
+            "chapterId": "daniel11",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Joel 2:17",
+          "start": 1094,
+          "end": 1103,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "joel",
+            "book": "joel",
+            "chapter": 2,
+            "chapterId": "joel2",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Zech. 6:13",
+          "start": 1135,
+          "end": 1145,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "zech",
+            "book": "zechariah",
+            "chapter": 6,
+            "chapterId": "zechariah6",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Governor, that shall rule my people Israel, Matt. 2:6. he that ruleth, with diligence, Rom. 12:8. he shall have put down all rule, 1 Cor. 15:24. let the peace of God rule in your hearts, Col. 3:15. ruleth well his own house, 1 Tim. 3:4. elders that rule well be counted worthy, 1 Tim. 5:17. Remember them which have the rule over you, Heb. 13:7. Obey them that have the rule over you, Heb. 13:17. he shall rule them with a rod of iron, Rev. 2:27 (19:15). child, who was to rule all nations with a rod of iron, Rev. 12:5.",
+      "references": [
+        {
+          "text": "Matt. 2:6",
+          "start": 44,
+          "end": 53,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 2,
+            "chapterId": "matthew2",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 12:8",
+          "start": 87,
+          "end": 96,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 12,
+            "chapterId": "romans12",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 15:24",
+          "start": 131,
+          "end": 143,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 15,
+            "chapterId": "1corinthians15",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Col. 3:15",
+          "start": 187,
+          "end": 196,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "col",
+            "book": "colossians",
+            "chapter": 3,
+            "chapterId": "colossians3",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Tim. 3:4",
+          "start": 225,
+          "end": 235,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 3,
+            "chapterId": "1timothy3",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Tim. 5:17",
+          "start": 278,
+          "end": 289,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 5,
+            "chapterId": "1timothy5",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 13:7",
+          "start": 335,
+          "end": 344,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 13,
+            "chapterId": "hebrews13",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 13:17",
+          "start": 385,
+          "end": 395,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 13,
+            "chapterId": "hebrews13",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 2:27",
+          "start": 436,
+          "end": 445,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 2,
+            "chapterId": "revelation2",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "19:15",
+          "start": 447,
+          "end": 452,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 19,
+            "chapterId": "revelation19",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 12:5",
+          "start": 510,
+          "end": 519,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 12,
+            "chapterId": "revelation12",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "He ruleth high in the heavens, 1 Ne. 17:39 (D&C 60:4; Abr. 3:21). younger brother thinks to rule over us, 2 Ne. 5:3. if this could always be the case … have kings to rule over you, Mosiah 29:13. should rule and reign over them, Hel. 12:6.",
+      "references": [
+        {
+          "text": "1 Ne. 17:39",
+          "start": 31,
+          "end": 42,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 17,
+            "chapterId": "1nephi17",
+            "verses": [
+              {
+                "start": 39,
+                "end": 39
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 60:4",
+          "start": 44,
+          "end": 52,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 60,
+            "chapterId": "doctrineandcovenants60",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Abr. 3:21",
+          "start": 54,
+          "end": 63,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 3,
+            "chapterId": "abraham3",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 5:3",
+          "start": 106,
+          "end": 115,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 5,
+            "chapterId": "2nephi5",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 29:13",
+          "start": 181,
+          "end": 193,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 29,
+            "chapterId": "mosiah29",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 12:6",
+          "start": 228,
+          "end": 237,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 12,
+            "chapterId": "helaman12",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Lord, who ruleth over all flesh, D&C 133:61. do not believe that human law has a right to interfere in prescribing rules of worship, D&C 134:4.",
+      "references": [
+        {
+          "text": "D&C 133:61",
+          "start": 33,
+          "end": 43,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 133,
+            "chapterId": "doctrineandcovenants133",
+            "verses": [
+              {
+                "start": 61,
+                "end": 61
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 134:4",
+          "start": 133,
+          "end": 142,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 134,
+            "chapterId": "doctrineandcovenants134",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Satan … thou shalt rule over him, Moses 5:23. I rule in the heavens above, Abr. 3:21.",
+      "references": [
+        {
+          "text": "Moses 5:23",
+          "start": 34,
+          "end": 44,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 5,
+            "chapterId": "moses5",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Abr. 3:21",
+          "start": 75,
+          "end": 84,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 3,
+            "chapterId": "abraham3",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-authority",
+      "slug": "authority",
+      "title": "Authority"
+    },
+    {
+      "entryId": "tg-citizenship",
+      "slug": "citizenship",
+      "title": "Citizenship"
+    },
+    {
+      "entryId": "tg-dominion",
+      "slug": "dominion",
+      "title": "Dominion"
+    },
+    {
+      "entryId": "tg-govern",
+      "slug": "govern",
+      "title": "Govern"
+    },
+    {
+      "entryId": "tg-governments",
+      "slug": "governments",
+      "title": "Governments"
+    },
+    {
+      "entryId": "tg-reign",
+      "slug": "reign",
+      "title": "Reign"
+    },
+    {
+      "entryId": "tg-ruler",
+      "slug": "ruler",
+      "title": "Ruler"
+    },
+    {
+      "entryId": "tg-tyranny",
+      "slug": "tyranny",
+      "title": "Tyranny"
+    }
+  ],
+  "slug": "rule",
+  "title": "Rule",
+  "type": "tg"
+}

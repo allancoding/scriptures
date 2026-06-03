@@ -1,0 +1,58 @@
+{
+  "_id": "bd-mammon",
+  "content": [
+    {
+      "text": "An Aramaic word meaning “riches,” personified in Matt. 6:24; Luke 16:9, 11, 13.",
+      "references": [
+        {
+          "text": "Matt. 6:24",
+          "start": 49,
+          "end": 59,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 6,
+            "chapterId": "matthew6",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 16:9, 11, 13",
+          "start": 61,
+          "end": 78,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 16,
+            "chapterId": "luke16",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              },
+              {
+                "start": 11,
+                "end": 11
+              },
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "mammon",
+  "title": "Mammon",
+  "type": "bd"
+}

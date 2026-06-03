@@ -1,0 +1,903 @@
+{
+  "_id": "tg-strife",
+  "content": [
+    {
+      "text": "Let there be no strife … between me and thee, Gen. 13:8. ye rebelled against my commandment … in the strife of the congregation, Num. 27:14. How can I … bear … your strife, Deut. 1:12. great strife with the children of Ammon, Judg. 12:2. strife throughout all the tribes, 2 Sam. 19:9. keep them … from the strife of tongues, Ps. 31:20. violence and strife in the city, Ps. 55:9. makest us a strife unto our neighbours, Ps. 80:6. angered him also at the waters of strife, Ps. 106:32. Hatred stirreth up strifes, Prov. 10:12. wrathful man stirreth up strife, Prov. 15:18. froward man soweth strife, Prov. 16:28. house full of sacrifices with strife, Prov. 17:1. He loveth transgression that loveth strife, Prov. 17:19. honour for a man to cease from strife, Prov. 20:3. strife and reproach shall cease, Prov. 22:10. where there is no talebearer, the strife ceaseth, Prov. 26:20. proud heart stirreth up strife, Prov. 28:25. angry man stirreth up strife, Prov. 29:22. forcing of wrath bringeth forth strife, Prov. 30:33. ye fast for strife and debate, Isa. 58:4. hast borne me a man of strife, Jer. 15:10. that raise up strife and contention, Hab. 1:3.",
+      "references": [
+        {
+          "text": "Gen. 13:8",
+          "start": 46,
+          "end": 55,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 13,
+            "chapterId": "genesis13",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 27:14",
+          "start": 129,
+          "end": 139,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 27,
+            "chapterId": "numbers27",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 1:12",
+          "start": 173,
+          "end": 183,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 1,
+            "chapterId": "deuteronomy1",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Judg. 12:2",
+          "start": 226,
+          "end": 236,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "judg",
+            "book": "judges",
+            "chapter": 12,
+            "chapterId": "judges12",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Sam. 19:9",
+          "start": 272,
+          "end": 283,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-sam",
+            "book": "2samuel",
+            "chapter": 19,
+            "chapterId": "2samuel19",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 31:20",
+          "start": 325,
+          "end": 334,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 31,
+            "chapterId": "psalms31",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 55:9",
+          "start": 369,
+          "end": 377,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 55,
+            "chapterId": "psalms55",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 80:6",
+          "start": 419,
+          "end": 427,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 80,
+            "chapterId": "psalms80",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 106:32",
+          "start": 471,
+          "end": 481,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 106,
+            "chapterId": "psalms106",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 10:12",
+          "start": 511,
+          "end": 522,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 10,
+            "chapterId": "proverbs10",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 15:18",
+          "start": 557,
+          "end": 568,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 15,
+            "chapterId": "proverbs15",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 16:28",
+          "start": 597,
+          "end": 608,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 16,
+            "chapterId": "proverbs16",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 17:1",
+          "start": 648,
+          "end": 658,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 17,
+            "chapterId": "proverbs17",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 17:19",
+          "start": 704,
+          "end": 715,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 17,
+            "chapterId": "proverbs17",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 20:3",
+          "start": 756,
+          "end": 766,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 20,
+            "chapterId": "proverbs20",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 22:10",
+          "start": 801,
+          "end": 812,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 22,
+            "chapterId": "proverbs22",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 26:20",
+          "start": 864,
+          "end": 875,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 26,
+            "chapterId": "proverbs26",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 28:25",
+          "start": 909,
+          "end": 920,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 28,
+            "chapterId": "proverbs28",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 29:22",
+          "start": 952,
+          "end": 963,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 29,
+            "chapterId": "proverbs29",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 30:33",
+          "start": 1005,
+          "end": 1016,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 30,
+            "chapterId": "proverbs30",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 58:4",
+          "start": 1049,
+          "end": 1058,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 58,
+            "chapterId": "isaiah58",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 15:10",
+          "start": 1091,
+          "end": 1101,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 15,
+            "chapterId": "jeremiah15",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hab. 1:3",
+          "start": 1140,
+          "end": 1148,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "hab",
+            "book": "habakkuk",
+            "chapter": 1,
+            "chapterId": "habakkuk1",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "strife among them, which of them should be accounted the greatest, Luke 22:24. walk honestly … not in strife, Rom. 13:13. ye are yet carnal … there is among you envying, and strife, 1 Cor. 3:3 (Alma 1:32; 4:9; 3 Ne. 21:19). Some indeed preach Christ even of envy and strife, Philip. 1:15. Let nothing be done through strife, Philip. 2:3. doting about … strifes of words, 1 Tim. 6:4. unlearned questions avoid … they do gender strifes, 2 Tim. 2:23. confirmation is to them an end of all strife, Heb. 6:16. if ye have … strife in your hearts, James 3:14.",
+      "references": [
+        {
+          "text": "Luke 22:24",
+          "start": 67,
+          "end": 77,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 22,
+            "chapterId": "luke22",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 13:13",
+          "start": 110,
+          "end": 120,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 13,
+            "chapterId": "romans13",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 3:3",
+          "start": 182,
+          "end": 192,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 3,
+            "chapterId": "1corinthians3",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 1:32",
+          "start": 194,
+          "end": 203,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 1,
+            "chapterId": "alma1",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "4:9",
+          "start": 205,
+          "end": 208,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 4,
+            "chapterId": "alma4",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 21:19",
+          "start": 210,
+          "end": 221,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 21,
+            "chapterId": "3nephi21",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Philip. 1:15",
+          "start": 275,
+          "end": 287,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "philip",
+            "book": "philippians",
+            "chapter": 1,
+            "chapterId": "philippians1",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Philip. 2:3",
+          "start": 325,
+          "end": 336,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "philip",
+            "book": "philippians",
+            "chapter": 2,
+            "chapterId": "philippians2",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Tim. 6:4",
+          "start": 371,
+          "end": 381,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 6,
+            "chapterId": "1timothy6",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Tim. 2:23",
+          "start": 435,
+          "end": 446,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-tim",
+            "book": "2timothy",
+            "chapter": 2,
+            "chapterId": "2timothy2",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 6:16",
+          "start": 494,
+          "end": 503,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 6,
+            "chapterId": "hebrews6",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "James 3:14",
+          "start": 541,
+          "end": 551,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "james",
+            "book": "james",
+            "chapter": 3,
+            "chapterId": "james3",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "churches built up which cause envyings, and strifes, 2 Ne. 26:21. preach against all … strifes, Alma 16:18. began to be much strife, Hel. 11:23. Gentiles … repent of your … strifes, 3 Ne. 30:2. no envyings, nor strifes, 4 Ne. 1:16. shall breathe out wrath and strifes, Morm. 8:21. not lift themselves up in … strifes, Morm. 8:36.",
+      "references": [
+        {
+          "text": "2 Ne. 26:21",
+          "start": 53,
+          "end": 64,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 26,
+            "chapterId": "2nephi26",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 16:18",
+          "start": 96,
+          "end": 106,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 16,
+            "chapterId": "alma16",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 11:23",
+          "start": 133,
+          "end": 143,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 11,
+            "chapterId": "helaman11",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 30:2",
+          "start": 182,
+          "end": 192,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 30,
+            "chapterId": "3nephi30",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "4 Ne. 1:16",
+          "start": 220,
+          "end": 230,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "4-ne",
+            "book": "4nephi",
+            "chapter": 1,
+            "chapterId": "4nephi1",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 8:21",
+          "start": 269,
+          "end": 279,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 8,
+            "chapterId": "mormon8",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 8:36",
+          "start": 318,
+          "end": 328,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 8,
+            "chapterId": "mormon8",
+            "verses": [
+              {
+                "start": 36,
+                "end": 36
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "proclaiming my word among … the wicked, not … with strife, D&C 60:14. envyings, and strifes … by these things they polluted their inheritances, D&C 101:6.",
+      "references": [
+        {
+          "text": "D&C 60:14",
+          "start": 59,
+          "end": 68,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 60,
+            "chapterId": "doctrineandcovenants60",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 101:6",
+          "start": 144,
+          "end": 153,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 101,
+            "chapterId": "doctrineandcovenants101",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "lost in a strife of words, JS—H 1:6. great were the confusion and strife, JS—H 1:8.",
+      "references": [
+        {
+          "text": "JS—H 1:6",
+          "start": 27,
+          "end": 35,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "JS—H 1:8",
+          "start": 74,
+          "end": 82,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-battle",
+      "slug": "battle",
+      "title": "Battle"
+    },
+    {
+      "entryId": "tg-contention",
+      "slug": "contention",
+      "title": "Contention"
+    },
+    {
+      "entryId": "tg-disputations",
+      "slug": "disputations",
+      "title": "Disputations"
+    },
+    {
+      "entryId": "tg-envy",
+      "slug": "envy",
+      "title": "Envy"
+    },
+    {
+      "entryId": "tg-fight",
+      "slug": "fight",
+      "title": "Fight"
+    },
+    {
+      "entryId": "tg-reviling",
+      "slug": "reviling",
+      "title": "Reviling"
+    },
+    {
+      "entryId": "tg-strive",
+      "slug": "strive",
+      "title": "Strive"
+    },
+    {
+      "entryId": "tg-war",
+      "slug": "war",
+      "title": "War"
+    }
+  ],
+  "slug": "strife",
+  "title": "Strife",
+  "type": "tg"
+}

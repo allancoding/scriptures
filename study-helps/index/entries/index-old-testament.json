@@ -1,0 +1,53 @@
+{
+  "_id": "index-old-testament",
+  "content": [
+    {
+      "text": "Old Testament prophecies quoted by Moroni2 to Joseph Smith, JS—H 1:36–41.",
+      "references": [
+        {
+          "text": "JS—H 1:36–41",
+          "start": 60,
+          "end": 72,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 36,
+                "end": 41
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-bible",
+      "slug": "bible",
+      "title": "Bible"
+    },
+    {
+      "entryId": "index-moses-books-of",
+      "slug": "moses-books-of",
+      "title": "Moses, Books of"
+    },
+    {
+      "entryId": "index-plates-brass",
+      "slug": "plates-brass",
+      "title": "Plates, Brass"
+    },
+    {
+      "entryId": "index-scriptures",
+      "slug": "scriptures",
+      "title": "Scriptures"
+    }
+  ],
+  "slug": "old-testament",
+  "title": "Old Testament",
+  "type": "index"
+}

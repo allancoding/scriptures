@@ -1,0 +1,73 @@
+{
+  "_id": "tg-doer",
+  "content": [
+    {
+      "text": "he was the doer of it, Gen. 39:22.",
+      "references": [
+        {
+          "text": "Gen. 39:22",
+          "start": 23,
+          "end": 33,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 39,
+            "chapterId": "genesis39",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "doers of the law shall be justified, Rom. 2:13. be ye doers of the word, James 1:22.",
+      "references": [
+        {
+          "text": "Rom. 2:13",
+          "start": 37,
+          "end": 46,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 2,
+            "chapterId": "romans2",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "James 1:22",
+          "start": 73,
+          "end": 83,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "james",
+            "book": "james",
+            "chapter": 1,
+            "chapterId": "james1",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "doer",
+  "title": "Doer",
+  "type": "tg"
+}

@@ -1,0 +1,94 @@
+{
+  "_id": "index-believer",
+  "content": [
+    {
+      "text": "true believers in Christ are called Christians, Alma 46:14–15. true believers in Christ are called Nephites, 4 Ne. 1:36–37.",
+      "references": [
+        {
+          "text": "Alma 46:14–15",
+          "start": 48,
+          "end": 61,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 46,
+            "chapterId": "alma46",
+            "verses": [
+              {
+                "start": 14,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "4 Ne. 1:36–37",
+          "start": 109,
+          "end": 122,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "4-ne",
+            "book": "4nephi",
+            "chapter": 1,
+            "chapterId": "4nephi1",
+            "verses": [
+              {
+                "start": 36,
+                "end": 37
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "believer should not be united to unbeliever, D&C 74:5.",
+      "references": [
+        {
+          "text": "D&C 74:5",
+          "start": 45,
+          "end": 53,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 74,
+            "chapterId": "doctrineandcovenants74",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-christian",
+      "slug": "christian",
+      "title": "Christian"
+    },
+    {
+      "entryId": "index-member",
+      "slug": "member",
+      "title": "Member"
+    },
+    {
+      "entryId": "index-saint",
+      "slug": "saint",
+      "title": "Saint"
+    },
+    {
+      "entryId": "index-worshiper",
+      "slug": "worshiper",
+      "title": "Worshiper"
+    }
+  ],
+  "slug": "believer",
+  "title": "Believer",
+  "type": "index"
+}

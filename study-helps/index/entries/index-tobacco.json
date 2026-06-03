@@ -1,0 +1,38 @@
+{
+  "_id": "index-tobacco",
+  "content": [
+    {
+      "text": "tobacco is not good for man, D&C 89:8.",
+      "references": [
+        {
+          "text": "D&C 89:8",
+          "start": 29,
+          "end": 37,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 89,
+            "chapterId": "doctrineandcovenants89",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-word-of-wisdom",
+      "slug": "word-of-wisdom",
+      "title": "Word of Wisdom"
+    }
+  ],
+  "slug": "tobacco",
+  "title": "Tobacco",
+  "type": "index"
+}

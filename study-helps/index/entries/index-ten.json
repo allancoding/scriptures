@@ -1,0 +1,125 @@
+{
+  "_id": "index-ten",
+  "content": [
+    {
+      "text": "Mormon2 is ten years old when Ammaron comes to him, Morm. 1:2.",
+      "references": [
+        {
+          "text": "Morm. 1:2",
+          "start": 52,
+          "end": 61,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 1,
+            "chapterId": "mormon1",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "parable of ten virgins, D&C 45:56 (Matt. 25:11–13). Noah1 was ten years old when he was ordained, D&C 107:52. captains of tens to be appointed, D&C 136:3.",
+      "references": [
+        {
+          "text": "D&C 45:56",
+          "start": 24,
+          "end": 33,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 45,
+            "chapterId": "doctrineandcovenants45",
+            "verses": [
+              {
+                "start": 56,
+                "end": 56
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 25:11–13",
+          "start": 35,
+          "end": 49,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 25,
+            "chapterId": "matthew25",
+            "verses": [
+              {
+                "start": 11,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 107:52",
+          "start": 98,
+          "end": 108,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 107,
+            "chapterId": "doctrineandcovenants107",
+            "verses": [
+              {
+                "start": 52,
+                "end": 52
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 136:3",
+          "start": 144,
+          "end": 153,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 136,
+            "chapterId": "doctrineandcovenants136",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-israel-ten-lost-tribes-of",
+      "slug": "israel-ten-lost-tribes-of",
+      "title": "Israel, Ten Lost Tribes of"
+    },
+    {
+      "entryId": "index-ten-commandments",
+      "slug": "ten-commandments",
+      "title": "Ten Commandments"
+    },
+    {
+      "entryId": "index-tithing",
+      "slug": "tithing",
+      "title": "Tithing"
+    }
+  ],
+  "slug": "ten",
+  "title": "Ten",
+  "type": "index"
+}

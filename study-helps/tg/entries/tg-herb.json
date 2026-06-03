@@ -1,0 +1,233 @@
+{
+  "_id": "tg-herb",
+  "content": [
+    {
+      "text": "bring forth grass, the herb yielding seed, Gen. 1:11 (Moses 2:11; Abr. 4:11). as a garden of herbs, Deut. 11:10.",
+      "references": [
+        {
+          "text": "Gen. 1:11",
+          "start": 43,
+          "end": 52,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 1,
+            "chapterId": "genesis1",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 2:11",
+          "start": 54,
+          "end": 64,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 2,
+            "chapterId": "moses2",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Abr. 4:11",
+          "start": 66,
+          "end": 75,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 4,
+            "chapterId": "abraham4",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 11:10",
+          "start": 100,
+          "end": 111,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 11,
+            "chapterId": "deuteronomy11",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "it is the greatest among herbs, Matt. 13:32 (Mark 4:32). another, who is weak, eateth herbs, Rom. 14:2. bringeth forth herbs meet for them, Heb. 6:7.",
+      "references": [
+        {
+          "text": "Matt. 13:32",
+          "start": 32,
+          "end": 43,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 13,
+            "chapterId": "matthew13",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 4:32",
+          "start": 45,
+          "end": 54,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 4,
+            "chapterId": "mark4",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 14:2",
+          "start": 93,
+          "end": 102,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 14,
+            "chapterId": "romans14",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 6:7",
+          "start": 140,
+          "end": 148,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 6,
+            "chapterId": "hebrews6",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "shall be nourished … with herbs, D&C 42:43. the herb, and the good things which come of the earth, D&C 59:17. all wholesome herbs God hath ordained, D&C 89:10.",
+      "references": [
+        {
+          "text": "D&C 42:43",
+          "start": 33,
+          "end": 42,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 42,
+            "chapterId": "doctrineandcovenants42",
+            "verses": [
+              {
+                "start": 43,
+                "end": 43
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 59:17",
+          "start": 99,
+          "end": 108,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 59,
+            "chapterId": "doctrineandcovenants59",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 89:10",
+          "start": 149,
+          "end": 158,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 89,
+            "chapterId": "doctrineandcovenants89",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-grass",
+      "slug": "grass",
+      "title": "Grass"
+    },
+    {
+      "entryId": "tg-plant",
+      "slug": "plant",
+      "title": "Plant"
+    }
+  ],
+  "slug": "herb",
+  "title": "Herb",
+  "type": "tg"
+}

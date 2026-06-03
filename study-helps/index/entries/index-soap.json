@@ -1,0 +1,73 @@
+{
+  "_id": "index-soap",
+  "content": [
+    {
+      "text": "the Lord is like fuller’s soap, 3 Ne. 24:2 (Mal. 3:2).",
+      "references": [
+        {
+          "text": "3 Ne. 24:2",
+          "start": 32,
+          "end": 42,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 24,
+            "chapterId": "3nephi24",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mal. 3:2",
+          "start": 44,
+          "end": 52,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "mal",
+            "book": "malachi",
+            "chapter": 3,
+            "chapterId": "malachi3",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "the Lord is like refiner’s fire, and fuller’s soap, D&C 128:24.",
+      "references": [
+        {
+          "text": "D&C 128:24",
+          "start": 52,
+          "end": 62,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 128,
+            "chapterId": "doctrineandcovenants128",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "soap",
+  "title": "Soap",
+  "type": "index"
+}

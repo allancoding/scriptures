@@ -1,0 +1,68 @@
+{
+  "_id": "tg-earring",
+  "content": [
+    {
+      "text": "I put the earring upon her face, Gen. 24:47. they gave unto Jacob … all their earrings, Gen. 35:4. Aaron said unto them, Break off the golden earrings, Ex. 32:2.",
+      "references": [
+        {
+          "text": "Gen. 24:47",
+          "start": 33,
+          "end": 43,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 24,
+            "chapterId": "genesis24",
+            "verses": [
+              {
+                "start": 47,
+                "end": 47
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 35:4",
+          "start": 88,
+          "end": 97,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 35,
+            "chapterId": "genesis35",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 32:2",
+          "start": 152,
+          "end": 160,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 32,
+            "chapterId": "exodus32",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "earring",
+  "title": "Earring",
+  "type": "tg"
+}

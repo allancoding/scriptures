@@ -1,0 +1,110 @@
+{
+  "_id": "index-art",
+  "content": [
+    {
+      "text": "lawyers are learned in all arts and cunning, Alma 10:15. the Lord prospers his people in precious things of every kind and art, Hel. 12:2. wicked Nephites fear prophets work some great mystery by arts of evil one, Hel. 16:21. no man could keep that which was his own, because of magic art in land, Morm. 2:10. Coriantumr2 studies all arts of war, Ether 13:16.",
+      "references": [
+        {
+          "text": "Alma 10:15",
+          "start": 45,
+          "end": 55,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 10,
+            "chapterId": "alma10",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 12:2",
+          "start": 128,
+          "end": 137,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 12,
+            "chapterId": "helaman12",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 16:21",
+          "start": 214,
+          "end": 224,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 16,
+            "chapterId": "helaman16",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 2:10",
+          "start": 298,
+          "end": 308,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 2,
+            "chapterId": "mormon2",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 13:16",
+          "start": 347,
+          "end": 358,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 13,
+            "chapterId": "ether13",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-skill",
+      "slug": "skill",
+      "title": "Skill"
+    }
+  ],
+  "slug": "art",
+  "title": "Art",
+  "type": "index"
+}

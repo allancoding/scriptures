@@ -1,0 +1,74 @@
+{
+  "_id": "index-unlawful",
+  "content": [
+    {
+      "text": "how long shall Saints suffer unlawful oppressions, D&C 121:3. all men justified in defending themselves from unlawful assaults, D&C 134:11. interference with bond-servants is unlawful, D&C 134:12.",
+      "references": [
+        {
+          "text": "D&C 121:3",
+          "start": 51,
+          "end": 60,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 134:11",
+          "start": 128,
+          "end": 138,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 134,
+            "chapterId": "doctrineandcovenants134",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 134:12",
+          "start": 185,
+          "end": 195,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 134,
+            "chapterId": "doctrineandcovenants134",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-injustice",
+      "slug": "injustice",
+      "title": "Injustice"
+    }
+  ],
+  "slug": "unlawful",
+  "title": "Unlawful",
+  "type": "index"
+}

@@ -1,0 +1,89 @@
+{
+  "_id": "index-vow",
+  "content": [
+    {
+      "text": "vows shall be offered up in righteousness, D&C 59:11. be more careful in observing vows, D&C 108:3. vows not sealed by the Holy Spirit of Promise will be of no force after Resurrection, D&C 132:7.",
+      "references": [
+        {
+          "text": "D&C 59:11",
+          "start": 43,
+          "end": 52,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 59,
+            "chapterId": "doctrineandcovenants59",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 108:3",
+          "start": 89,
+          "end": 98,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 108,
+            "chapterId": "doctrineandcovenants108",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 132:7",
+          "start": 186,
+          "end": 195,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 132,
+            "chapterId": "doctrineandcovenants132",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-covenant",
+      "slug": "covenant",
+      "title": "Covenant"
+    },
+    {
+      "entryId": "index-oath",
+      "slug": "oath",
+      "title": "Oath"
+    },
+    {
+      "entryId": "index-promise",
+      "slug": "promise",
+      "title": "Promise"
+    },
+    {
+      "entryId": "index-swear",
+      "slug": "swear",
+      "title": "Swear"
+    }
+  ],
+  "slug": "vow",
+  "title": "Vow",
+  "type": "index"
+}

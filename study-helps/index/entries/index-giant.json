@@ -1,0 +1,50 @@
+{
+  "_id": "index-giant",
+  "content": [
+    {
+      "text": "giants in days of Enoch2, Moses 7:15. giants in days of Noah1, Moses 8:18.",
+      "references": [
+        {
+          "text": "Moses 7:15",
+          "start": 26,
+          "end": 36,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 7,
+            "chapterId": "moses7",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 8:18",
+          "start": 63,
+          "end": 73,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 8,
+            "chapterId": "moses8",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "giant",
+  "title": "Giant",
+  "type": "index"
+}

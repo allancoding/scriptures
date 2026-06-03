@@ -1,0 +1,133 @@
+{
+  "_id": "index-divorce",
+  "content": [
+    {
+      "text": "where is bill of your mother’s divorcement, 2 Ne. 7:1 (Isa. 50:1). the Savior teaches concerning divorce, 3 Ne. 12:31–32 (Matt. 5:31–32).",
+      "references": [
+        {
+          "text": "2 Ne. 7:1",
+          "start": 44,
+          "end": 53,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 7,
+            "chapterId": "2nephi7",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 50:1",
+          "start": 55,
+          "end": 64,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 50,
+            "chapterId": "isaiah50",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 12:31–32",
+          "start": 106,
+          "end": 120,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 12,
+            "chapterId": "3nephi12",
+            "verses": [
+              {
+                "start": 31,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 5:31–32",
+          "start": 122,
+          "end": 135,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 5,
+            "chapterId": "matthew5",
+            "verses": [
+              {
+                "start": 31,
+                "end": 32
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "thou shalt love thy wife and cleave unto her, D&C 42:22. manner of dealing with persons who have left their companions, D&C 42:74–76.",
+      "references": [
+        {
+          "text": "D&C 42:22",
+          "start": 46,
+          "end": 55,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 42,
+            "chapterId": "doctrineandcovenants42",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 42:74–76",
+          "start": 120,
+          "end": 132,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 42,
+            "chapterId": "doctrineandcovenants42",
+            "verses": [
+              {
+                "start": 74,
+                "end": 76
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-marriage",
+      "slug": "marriage",
+      "title": "Marriage"
+    }
+  ],
+  "slug": "divorce",
+  "title": "Divorce, Divorcement",
+  "type": "index"
+}

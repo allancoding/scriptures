@@ -1,0 +1,222 @@
+{
+  "_id": "tg-here",
+  "content": [
+    {
+      "text": "Moses … said, Here am I, Ex. 3:4. Samuel … answered, Here am I, 1 Sam. 3:4. Here am I; send me, Isa. 6:8 (2 Ne. 16:8).",
+      "references": [
+        {
+          "text": "Ex. 3:4",
+          "start": 25,
+          "end": 32,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 3,
+            "chapterId": "exodus3",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Sam. 3:4",
+          "start": 64,
+          "end": 74,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 3,
+            "chapterId": "1samuel3",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 6:8",
+          "start": 96,
+          "end": 104,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 6,
+            "chapterId": "isaiah6",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 16:8",
+          "start": 106,
+          "end": 116,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 16,
+            "chapterId": "2nephi16",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "it is good for us to be here, Matt. 17:4 (Mark 9:5; Luke 9:33). He is not here: for he is risen, Matt. 28:6 (Mark 16:6; Luke 24:6).",
+      "references": [
+        {
+          "text": "Matt. 17:4",
+          "start": 30,
+          "end": 40,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 17,
+            "chapterId": "matthew17",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 9:5",
+          "start": 42,
+          "end": 50,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 9,
+            "chapterId": "mark9",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 9:33",
+          "start": 52,
+          "end": 61,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 9,
+            "chapterId": "luke9",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 28:6",
+          "start": 97,
+          "end": 107,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 28,
+            "chapterId": "matthew28",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 16:6",
+          "start": 109,
+          "end": 118,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 16,
+            "chapterId": "mark16",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 24:6",
+          "start": 120,
+          "end": 129,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 24,
+            "chapterId": "luke24",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Here am I, send me, Abr. 3:27.",
+      "references": [
+        {
+          "text": "Abr. 3:27",
+          "start": 20,
+          "end": 29,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 3,
+            "chapterId": "abraham3",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "here",
+  "title": "Here",
+  "type": "tg"
+}

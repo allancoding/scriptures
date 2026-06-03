@@ -1,0 +1,91 @@
+{
+  "_id": "tg-thirsty",
+  "content": [
+    {
+      "text": "my flesh longeth for thee in a dry and thirsty land, Ps. 63:1. As cold waters to a thirsty soul, so is good news, Prov. 25:25. thirsty land springs of water, Isa. 35:7.",
+      "references": [
+        {
+          "text": "Ps. 63:1",
+          "start": 53,
+          "end": 61,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 63,
+            "chapterId": "psalms63",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 25:25",
+          "start": 114,
+          "end": 125,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 25,
+            "chapterId": "proverbs25",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 35:7",
+          "start": 158,
+          "end": 167,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 35,
+            "chapterId": "isaiah35",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "I was thirsty, and ye gave me drink, Matt. 25:35.",
+      "references": [
+        {
+          "text": "Matt. 25:35",
+          "start": 37,
+          "end": 48,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 25,
+            "chapterId": "matthew25",
+            "verses": [
+              {
+                "start": 35,
+                "end": 35
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "thirsty",
+  "title": "Thirsty",
+  "type": "tg"
+}

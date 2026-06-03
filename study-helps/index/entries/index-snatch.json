@@ -1,0 +1,61 @@
+{
+  "_id": "index-snatch",
+  "content": [
+    {
+      "text": "the Lord has snatched Alma2 out of everlasting burning, Mosiah 27:28. God is merciful in snatching men from sinful state, Alma 26:17.",
+      "references": [
+        {
+          "text": "Mosiah 27:28",
+          "start": 56,
+          "end": 68,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 27,
+            "chapterId": "mosiah27",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 26:17",
+          "start": 122,
+          "end": 132,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 26,
+            "chapterId": "alma26",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-deliver",
+      "slug": "deliver",
+      "title": "Deliver"
+    },
+    {
+      "entryId": "index-redemption",
+      "slug": "redemption",
+      "title": "Redemption"
+    }
+  ],
+  "slug": "snatch",
+  "title": "Snatch",
+  "type": "index"
+}

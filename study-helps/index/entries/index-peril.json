@@ -1,0 +1,84 @@
+{
+  "_id": "index-peril",
+  "content": [
+    {
+      "text": "sin no more, lest perils shall come, D&C 29:3. if thou art in perils among false brethren, it shall be for thy good, D&C 122:5. perils seems but small thing, D&C 127:2.",
+      "references": [
+        {
+          "text": "D&C 29:3",
+          "start": 37,
+          "end": 45,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 29,
+            "chapterId": "doctrineandcovenants29",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 122:5",
+          "start": 117,
+          "end": 126,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 122,
+            "chapterId": "doctrineandcovenants122",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 127:2",
+          "start": 158,
+          "end": 167,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 127,
+            "chapterId": "doctrineandcovenants127",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-calamity",
+      "slug": "calamity",
+      "title": "Calamity"
+    },
+    {
+      "entryId": "index-danger",
+      "slug": "danger",
+      "title": "Danger"
+    },
+    {
+      "entryId": "index-threaten",
+      "slug": "threaten",
+      "title": "Threaten"
+    }
+  ],
+  "slug": "peril",
+  "title": "Peril",
+  "type": "index"
+}

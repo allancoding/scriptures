@@ -1,0 +1,50 @@
+{
+  "_id": "tg-dignity",
+  "content": [
+    {
+      "text": "not afraid to speak evil of dignities, 2 Pet. 2:10 (Jude 1:8).",
+      "references": [
+        {
+          "text": "2 Pet. 2:10",
+          "start": 39,
+          "end": 50,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-pet",
+            "book": "2peter",
+            "chapter": 2,
+            "chapterId": "2peter2",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jude 1:8",
+          "start": 52,
+          "end": 60,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "jude",
+            "book": "jude",
+            "chapter": 1,
+            "chapterId": "jude1",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "dignity",
+  "title": "Dignity",
+  "type": "tg"
+}

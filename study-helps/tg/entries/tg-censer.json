@@ -1,0 +1,109 @@
+{
+  "_id": "tg-censer",
+  "content": [
+    {
+      "text": "sons of Aaron, took either of them his censer, Lev. 10:1. he shall take a censer full of burning coals, Lev. 16:12 (Num. 16:17).",
+      "references": [
+        {
+          "text": "Lev. 10:1",
+          "start": 47,
+          "end": 56,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 10,
+            "chapterId": "leviticus10",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Lev. 16:12",
+          "start": 104,
+          "end": 114,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 16,
+            "chapterId": "leviticus16",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 16:17",
+          "start": 116,
+          "end": 126,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 16,
+            "chapterId": "numbers16",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Which had the golden censer, Heb. 9:4. another angel … stood at the altar, having a golden censer, Rev. 8:3.",
+      "references": [
+        {
+          "text": "Heb. 9:4",
+          "start": 29,
+          "end": 37,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 9,
+            "chapterId": "hebrews9",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 8:3",
+          "start": 99,
+          "end": 107,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 8,
+            "chapterId": "revelation8",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "censer",
+  "title": "Censer",
+  "type": "tg"
+}

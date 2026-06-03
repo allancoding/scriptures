@@ -1,0 +1,102 @@
+{
+  "_id": "index-beguile",
+  "content": [
+    {
+      "text": "devil beguiled our first parents, 2 Ne. 9:9 (Mosiah 16:3; Ether 8:25).",
+      "references": [
+        {
+          "text": "2 Ne. 9:9",
+          "start": 34,
+          "end": 43,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 9,
+            "chapterId": "2nephi9",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 16:3",
+          "start": 45,
+          "end": 56,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 16,
+            "chapterId": "mosiah16",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 8:25",
+          "start": 58,
+          "end": 68,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 8,
+            "chapterId": "ether8",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Satan sought to beguile Eve, Moses 4:6.",
+      "references": [
+        {
+          "text": "Moses 4:6",
+          "start": 29,
+          "end": 38,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 4,
+            "chapterId": "moses4",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-deceit",
+      "slug": "deceit",
+      "title": "Deceit"
+    },
+    {
+      "entryId": "index-lying",
+      "slug": "lying",
+      "title": "Lying"
+    }
+  ],
+  "slug": "beguile",
+  "title": "Beguile",
+  "type": "index"
+}

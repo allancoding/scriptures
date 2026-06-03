@@ -1,0 +1,54 @@
+{
+  "_id": "index-purse",
+  "content": [
+    {
+      "text": "elders should carry neither purse nor scrip, D&C 24:18 (84:78, 86).",
+      "references": [
+        {
+          "text": "D&C 24:18",
+          "start": 45,
+          "end": 54,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 24,
+            "chapterId": "doctrineandcovenants24",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "84:78, 86",
+          "start": 56,
+          "end": 65,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 84,
+            "chapterId": "doctrineandcovenants84",
+            "verses": [
+              {
+                "start": 78,
+                "end": 78
+              },
+              {
+                "start": 86,
+                "end": 86
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "purse",
+  "title": "Purse",
+  "type": "index"
+}

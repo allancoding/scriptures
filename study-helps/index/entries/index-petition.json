@@ -1,0 +1,102 @@
+{
+  "_id": "index-petition",
+  "content": [
+    {
+      "text": "ye will not suffer beggar to put up his petition in vain, Mosiah 4:16. if ye condemn man who puts his petition to you, how much more just will your condemnation be, Mosiah 4:22. Moroni1 sends petition to governor requesting power to compel dissenters to fight, Alma 51:15.",
+      "references": [
+        {
+          "text": "Mosiah 4:16",
+          "start": 58,
+          "end": 69,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 4,
+            "chapterId": "mosiah4",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 4:22",
+          "start": 165,
+          "end": 176,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 4,
+            "chapterId": "mosiah4",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 51:15",
+          "start": 261,
+          "end": 271,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 51,
+            "chapterId": "alma51",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "thy sins are forgiven, according to thy petition, D&C 90:1.",
+      "references": [
+        {
+          "text": "D&C 90:1",
+          "start": 50,
+          "end": 58,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 90,
+            "chapterId": "doctrineandcovenants90",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-beg",
+      "slug": "beg",
+      "title": "Beg"
+    },
+    {
+      "entryId": "index-plead",
+      "slug": "plead",
+      "title": "Plead"
+    }
+  ],
+  "slug": "petition",
+  "title": "Petition",
+  "type": "index"
+}

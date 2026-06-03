@@ -1,0 +1,50 @@
+{
+  "_id": "bd-mandrake",
+  "content": [
+    {
+      "text": "The Hebrew name denotes “love fruit.” The fruit had a pleasant taste and odor and was supposed to ensure conception (Gen. 30:14–16; Song 7:13).",
+      "references": [
+        {
+          "text": "Gen. 30:14–16",
+          "start": 117,
+          "end": 130,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 30,
+            "chapterId": "genesis30",
+            "verses": [
+              {
+                "start": 14,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Song 7:13",
+          "start": 132,
+          "end": 141,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "song",
+            "book": "songofsolomon",
+            "chapter": 7,
+            "chapterId": "songofsolomon7",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "mandrake",
+  "title": "Mandrake",
+  "type": "bd"
+}

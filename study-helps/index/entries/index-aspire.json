@@ -1,0 +1,56 @@
+{
+  "_id": "index-aspire",
+  "content": [
+    {
+      "text": "few are chosen, because they aspire to honors of men, D&C 121:35. Almon Babbitt aspires to establish his counsel instead of Presidency’s, D&C 124:84.",
+      "references": [
+        {
+          "text": "D&C 121:35",
+          "start": 54,
+          "end": 64,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 35,
+                "end": 35
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 124:84",
+          "start": 138,
+          "end": 148,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 124,
+            "chapterId": "doctrineandcovenants124",
+            "verses": [
+              {
+                "start": 84,
+                "end": 84
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-ambition",
+      "slug": "ambition",
+      "title": "Ambition"
+    }
+  ],
+  "slug": "aspire",
+  "title": "Aspire",
+  "type": "index"
+}

@@ -1,0 +1,73 @@
+{
+  "_id": "index-america",
+  "content": [
+    {
+      "text": "prophets blessed land in prayers, D&C 10:49–50. America to be free, D&C 10:51.",
+      "references": [
+        {
+          "text": "D&C 10:49–50",
+          "start": 34,
+          "end": 46,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 10,
+            "chapterId": "doctrineandcovenants10",
+            "verses": [
+              {
+                "start": 49,
+                "end": 50
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 10:51",
+          "start": 68,
+          "end": 77,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 10,
+            "chapterId": "doctrineandcovenants10",
+            "verses": [
+              {
+                "start": 51,
+                "end": 51
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Zion to be built upon American continent, A of F 1:10.",
+      "references": [
+        {
+          "text": "A of F 1:10",
+          "start": 42,
+          "end": 53,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "a-of-f",
+            "book": "articlesoffaith",
+            "chapter": 1,
+            "chapterId": "articlesoffaith1",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "america",
+  "title": "America, American",
+  "type": "index"
+}

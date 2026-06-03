@@ -1,0 +1,107 @@
+{
+  "_id": "tg-horror",
+  "content": [
+    {
+      "text": "horror of great darkness fell upon him, Gen. 15:12. Horror hath taken hold upon me, Ps. 119:53. with sackcloth, and horror shall cover them, Ezek. 7:18.",
+      "references": [
+        {
+          "text": "Gen. 15:12",
+          "start": 40,
+          "end": 50,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 15,
+            "chapterId": "genesis15",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 119:53",
+          "start": 84,
+          "end": 94,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 119,
+            "chapterId": "psalms119",
+            "verses": [
+              {
+                "start": 53,
+                "end": 53
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 7:18",
+          "start": 141,
+          "end": 151,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 7,
+            "chapterId": "ezekiel7",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "iniquities … rack my soul with inexpressible horror, Alma 36:14.",
+      "references": [
+        {
+          "text": "Alma 36:14",
+          "start": 53,
+          "end": 63,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 36,
+            "chapterId": "alma36",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-dread",
+      "slug": "dread",
+      "title": "Dread"
+    },
+    {
+      "entryId": "tg-fear",
+      "slug": "fear",
+      "title": "Fear"
+    },
+    {
+      "entryId": "tg-terror",
+      "slug": "terror",
+      "title": "Terror"
+    }
+  ],
+  "slug": "horror",
+  "title": "Horror",
+  "type": "tg"
+}

@@ -1,0 +1,84 @@
+{
+  "_id": "index-founded",
+  "content": [
+    {
+      "text": "great and abominable church founded by devil, 1 Ne. 14:3. house founded upon rock does not fall because of floods, winds, rain, 3 Ne. 14:25 (Matt. 7:25).",
+      "references": [
+        {
+          "text": "1 Ne. 14:3",
+          "start": 46,
+          "end": 56,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 14,
+            "chapterId": "1nephi14",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 14:25",
+          "start": 128,
+          "end": 139,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 14,
+            "chapterId": "3nephi14",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 7:25",
+          "start": 141,
+          "end": 151,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 7,
+            "chapterId": "matthew7",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-build",
+      "slug": "build",
+      "title": "Build"
+    },
+    {
+      "entryId": "index-foundation",
+      "slug": "foundation",
+      "title": "Foundation"
+    },
+    {
+      "entryId": "index-founder",
+      "slug": "founder",
+      "title": "Founder"
+    }
+  ],
+  "slug": "founded",
+  "title": "Founded",
+  "type": "index"
+}

@@ -1,0 +1,83 @@
+{
+  "_id": "index-violence",
+  "content": [
+    {
+      "text": "elders to command that any who lay hands upon them by violence shall be smitten, D&C 24:16.",
+      "references": [
+        {
+          "text": "D&C 24:16",
+          "start": 81,
+          "end": 90,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 24,
+            "chapterId": "doctrineandcovenants24",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "earth is corrupt and filled with violence, Moses 8:28, 30. priests lay violence upon Abraham, Abr. 1:12.",
+      "references": [
+        {
+          "text": "Moses 8:28, 30",
+          "start": 43,
+          "end": 57,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 8,
+            "chapterId": "moses8",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              },
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "Abr. 1:12",
+          "start": 94,
+          "end": 103,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 1,
+            "chapterId": "abraham1",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-persecution",
+      "slug": "persecution",
+      "title": "Persecution"
+    }
+  ],
+  "slug": "violence",
+  "title": "Violence",
+  "type": "index"
+}

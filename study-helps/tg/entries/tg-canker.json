@@ -1,0 +1,73 @@
+{
+  "_id": "tg-canker",
+  "content": [
+    {
+      "text": "their word will eat as doth a canker, 2 Tim. 2:17. Your gold and silver is cankered, James 5:3.",
+      "references": [
+        {
+          "text": "2 Tim. 2:17",
+          "start": 38,
+          "end": 49,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-tim",
+            "book": "2timothy",
+            "chapter": 2,
+            "chapterId": "2timothy2",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "James 5:3",
+          "start": 85,
+          "end": 94,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "james",
+            "book": "james",
+            "chapter": 5,
+            "chapterId": "james5",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "riches will canker your souls, D&C 56:16.",
+      "references": [
+        {
+          "text": "D&C 56:16",
+          "start": 31,
+          "end": 40,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 56,
+            "chapterId": "doctrineandcovenants56",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "canker",
+  "title": "Canker",
+  "type": "tg"
+}

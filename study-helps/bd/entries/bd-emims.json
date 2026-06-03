@@ -1,0 +1,50 @@
+{
+  "_id": "bd-emims",
+  "content": [
+    {
+      "text": "Terrible men. A race of giants, living east of the Jordan in the time of Abraham; afterwards driven out by Moabites (Gen. 14:5; Deut. 2:10–11).",
+      "references": [
+        {
+          "text": "Gen. 14:5",
+          "start": 117,
+          "end": 126,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 14,
+            "chapterId": "genesis14",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 2:10–11",
+          "start": 128,
+          "end": 141,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 2,
+            "chapterId": "deuteronomy2",
+            "verses": [
+              {
+                "start": 10,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "emims",
+  "title": "Emims",
+  "type": "bd"
+}

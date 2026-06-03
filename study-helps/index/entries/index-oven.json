@@ -1,0 +1,156 @@
+{
+  "_id": "index-oven",
+  "content": [
+    {
+      "text": "grass of field tomorrow is cast into oven, 3 Ne. 13:30 (Matt. 6:30). day cometh that shall burn as oven, 3 Ne. 25:1 (Mal. 4:1).",
+      "references": [
+        {
+          "text": "3 Ne. 13:30",
+          "start": 43,
+          "end": 54,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 13,
+            "chapterId": "3nephi13",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 6:30",
+          "start": 56,
+          "end": 66,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 6,
+            "chapterId": "matthew6",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 25:1",
+          "start": 105,
+          "end": 115,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 25,
+            "chapterId": "3nephi25",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mal. 4:1",
+          "start": 117,
+          "end": 125,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "mal",
+            "book": "malachi",
+            "chapter": 4,
+            "chapterId": "malachi4",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "day comes that shall burn as oven, D&C 133:64 (Mal. 4:1).",
+      "references": [
+        {
+          "text": "D&C 133:64",
+          "start": 35,
+          "end": 45,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 133,
+            "chapterId": "doctrineandcovenants133",
+            "verses": [
+              {
+                "start": 64,
+                "end": 64
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mal. 4:1",
+          "start": 47,
+          "end": 55,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "mal",
+            "book": "malachi",
+            "chapter": 4,
+            "chapterId": "malachi4",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "day comes that shall burn as oven, JS—H 1:37.",
+      "references": [
+        {
+          "text": "JS—H 1:37",
+          "start": 35,
+          "end": 44,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-furnace",
+      "slug": "furnace",
+      "title": "Furnace"
+    }
+  ],
+  "slug": "oven",
+  "title": "Oven",
+  "type": "index"
+}

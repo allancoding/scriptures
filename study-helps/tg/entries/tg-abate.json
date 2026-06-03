@@ -1,0 +1,43 @@
+{
+  "_id": "tg-abate",
+  "content": [
+    {
+      "text": "hundred and fifty days the waters were abated, Gen. 8:3.",
+      "references": [
+        {
+          "text": "Gen. 8:3",
+          "start": 47,
+          "end": 55,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 8,
+            "chapterId": "genesis8",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-decrease",
+      "slug": "decrease",
+      "title": "Decrease"
+    },
+    {
+      "entryId": "tg-diminish",
+      "slug": "diminish",
+      "title": "Diminish"
+    }
+  ],
+  "slug": "abate",
+  "title": "Abate",
+  "type": "tg"
+}

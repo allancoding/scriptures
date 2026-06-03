@@ -1,0 +1,74 @@
+{
+  "_id": "tg-dungeon",
+  "content": [
+    {
+      "text": "they brought him hastily out of the dungeon, Gen. 41:14. Jeremiah was entered into the dungeon, Jer. 37:16 (38:6).",
+      "references": [
+        {
+          "text": "Gen. 41:14",
+          "start": 45,
+          "end": 55,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 41,
+            "chapterId": "genesis41",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 37:16",
+          "start": 96,
+          "end": 106,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 37,
+            "chapterId": "jeremiah37",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "38:6",
+          "start": 108,
+          "end": 112,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 38,
+            "chapterId": "jeremiah38",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-prison",
+      "slug": "prison",
+      "title": "Prison"
+    }
+  ],
+  "slug": "dungeon",
+  "title": "Dungeon",
+  "type": "tg"
+}

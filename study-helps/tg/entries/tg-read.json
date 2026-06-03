@@ -1,0 +1,886 @@
+{
+  "_id": "tg-read",
+  "content": [
+    {
+      "text": "read in the audience of the people, Ex. 24:7. he shall read therein, Deut. 17:19. read this law before all Israel, Deut. 31:11. he read all the words of the law, Josh. 8:34. he read in their ears, 2 Kgs. 23:2 (2 Chr. 34:30). he read therein … from the morning until midday, Neh. 8:3. read in the book in the law of God, Neh. 8:8. Read this … and he saith, I cannot, Isa. 29:11 (JS—H 1:65). Seek ye out of the book of the Lord, and read, Isa. 34:16. read in the roll … the words of the Lord, Jer. 36:6. read this writing, and shew me the interpretation, Dan. 5:7.",
+      "references": [
+        {
+          "text": "Ex. 24:7",
+          "start": 36,
+          "end": 44,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 24,
+            "chapterId": "exodus24",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 17:19",
+          "start": 69,
+          "end": 80,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 17,
+            "chapterId": "deuteronomy17",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 31:11",
+          "start": 115,
+          "end": 126,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 31,
+            "chapterId": "deuteronomy31",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Josh. 8:34",
+          "start": 162,
+          "end": 172,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "josh",
+            "book": "joshua",
+            "chapter": 8,
+            "chapterId": "joshua8",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Kgs. 23:2",
+          "start": 197,
+          "end": 208,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 23,
+            "chapterId": "2kings23",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Chr. 34:30",
+          "start": 210,
+          "end": 222,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-chr",
+            "book": "2chronicles",
+            "chapter": 34,
+            "chapterId": "2chronicles34",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "Neh. 8:3",
+          "start": 274,
+          "end": 282,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "neh",
+            "book": "nehemiah",
+            "chapter": 8,
+            "chapterId": "nehemiah8",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Neh. 8:8",
+          "start": 320,
+          "end": 328,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "neh",
+            "book": "nehemiah",
+            "chapter": 8,
+            "chapterId": "nehemiah8",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 29:11",
+          "start": 366,
+          "end": 376,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 29,
+            "chapterId": "isaiah29",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "JS—H 1:65",
+          "start": 378,
+          "end": 387,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 65,
+                "end": 65
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 34:16",
+          "start": 437,
+          "end": 447,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 34,
+            "chapterId": "isaiah34",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 36:6",
+          "start": 491,
+          "end": 500,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 36,
+            "chapterId": "jeremiah36",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 5:7",
+          "start": 553,
+          "end": 561,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 5,
+            "chapterId": "daniel5",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Have ye not read what David did, Matt. 12:3 (Mark 2:25; Luke 6:3). whoso readeth, let him understand, Matt. 24:15 (Mark 13:14; 3 Ne. 10:14; D&C 57:9; 71:5; 91:4; JS—M 1:12). he … stood up for to read, Luke 4:16. in his chariot read Esaias the prophet, Acts 8:28. after the reading of the law and the prophets, Acts 13:15. being read in the synagogues every sabbath, Acts 15:21. Ye are our epistle … known and read of all men, 2 Cor. 3:2. veil untaken away in the reading of the old testament, 2 Cor. 3:14. Till I come, give attendance to reading, 1 Tim. 4:13. Blessed is he that readeth, Rev. 1:3. no man was found worthy to open and to read the book, Rev. 5:4.",
+      "references": [
+        {
+          "text": "Matt. 12:3",
+          "start": 33,
+          "end": 43,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 12,
+            "chapterId": "matthew12",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 2:25",
+          "start": 45,
+          "end": 54,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 2,
+            "chapterId": "mark2",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 6:3",
+          "start": 56,
+          "end": 64,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 6,
+            "chapterId": "luke6",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 24:15",
+          "start": 102,
+          "end": 113,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 24,
+            "chapterId": "matthew24",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 13:14",
+          "start": 115,
+          "end": 125,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 13,
+            "chapterId": "mark13",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 10:14",
+          "start": 127,
+          "end": 138,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 10,
+            "chapterId": "3nephi10",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 57:9",
+          "start": 140,
+          "end": 148,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 57,
+            "chapterId": "doctrineandcovenants57",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "71:5",
+          "start": 150,
+          "end": 154,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 71,
+            "chapterId": "doctrineandcovenants71",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "91:4",
+          "start": 156,
+          "end": 160,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 91,
+            "chapterId": "doctrineandcovenants91",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "JS—M 1:12",
+          "start": 162,
+          "end": 171,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-m",
+            "book": "josephsmithmatthew",
+            "chapter": 1,
+            "chapterId": "josephsmithmatthew1",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 4:16",
+          "start": 201,
+          "end": 210,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 4,
+            "chapterId": "luke4",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 8:28",
+          "start": 252,
+          "end": 261,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 8,
+            "chapterId": "acts8",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 13:15",
+          "start": 310,
+          "end": 320,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 13,
+            "chapterId": "acts13",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 15:21",
+          "start": 366,
+          "end": 376,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 15,
+            "chapterId": "acts15",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Cor. 3:2",
+          "start": 426,
+          "end": 436,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 3,
+            "chapterId": "2corinthians3",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Cor. 3:14",
+          "start": 493,
+          "end": 504,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 3,
+            "chapterId": "2corinthians3",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Tim. 4:13",
+          "start": 547,
+          "end": 558,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 4,
+            "chapterId": "1timothy4",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 1:3",
+          "start": 588,
+          "end": 596,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 1,
+            "chapterId": "revelation1",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 5:4",
+          "start": 652,
+          "end": 660,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 5,
+            "chapterId": "revelation5",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "my brethren … I did read many things to them, 1 Ne. 19:22 (22:1). I will read you the words of Isaiah, 2 Ne. 6:4. do ye not remember to have read the words of the prophet Zenos, Jacob 5:1. we might read and understand of his mysteries, Mosiah 1:5. Mosiah did read, and caused to be read, the records of Zeniff, Mosiah 25:5. began from the creation of Adam, reading the scriptures, Alma 22:12. ye have read the scriptures, Alma 33:14. Have they not read the scriptures, 3 Ne. 27:5. he that denieth these things … has not read the scriptures, Morm. 9:8. ye shall write them in a language that they cannot be read, Ether 3:22. I would exhort you that when ye shall read these things, Moro. 10:3.",
+      "references": [
+        {
+          "text": "1 Ne. 19:22",
+          "start": 46,
+          "end": 57,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 19,
+            "chapterId": "1nephi19",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "22:1",
+          "start": 59,
+          "end": 63,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 22,
+            "chapterId": "1nephi22",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 6:4",
+          "start": 103,
+          "end": 112,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 6,
+            "chapterId": "2nephi6",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jacob 5:1",
+          "start": 178,
+          "end": 187,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 5,
+            "chapterId": "jacob5",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 1:5",
+          "start": 236,
+          "end": 246,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 1,
+            "chapterId": "mosiah1",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 25:5",
+          "start": 311,
+          "end": 322,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 25,
+            "chapterId": "mosiah25",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 22:12",
+          "start": 381,
+          "end": 391,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 22,
+            "chapterId": "alma22",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 33:14",
+          "start": 422,
+          "end": 432,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 33,
+            "chapterId": "alma33",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 27:5",
+          "start": 469,
+          "end": 479,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 27,
+            "chapterId": "3nephi27",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 9:8",
+          "start": 541,
+          "end": 550,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 9,
+            "chapterId": "mormon9",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 3:22",
+          "start": 612,
+          "end": 622,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 3,
+            "chapterId": "ether3",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moro. 10:3",
+          "start": 681,
+          "end": 691,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "moro",
+            "book": "moroni",
+            "chapter": 10,
+            "chapterId": "moroni10",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "by my power you can read them one to another, D&C 18:35.",
+      "references": [
+        {
+          "text": "D&C 18:35",
+          "start": 46,
+          "end": 55,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 18,
+            "chapterId": "doctrineandcovenants18",
+            "verses": [
+              {
+                "start": 35,
+                "end": 35
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "their children were taught to read, Moses 6:6. I was one day reading the Epistle of James, JS—H 1:11.",
+      "references": [
+        {
+          "text": "Moses 6:6",
+          "start": 36,
+          "end": 45,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 6,
+            "chapterId": "moses6",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "JS—H 1:11",
+          "start": 91,
+          "end": 100,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-book",
+      "slug": "book",
+      "title": "Book"
+    }
+  ],
+  "slug": "read",
+  "title": "Read",
+  "type": "tg"
+}

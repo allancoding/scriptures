@@ -1,0 +1,68 @@
+{
+  "_id": "tg-hardly",
+  "content": [
+    {
+      "text": "rich man shall hardly enter, Matt. 19:23 (Mark 10:23; Luke 18:24).",
+      "references": [
+        {
+          "text": "Matt. 19:23",
+          "start": 29,
+          "end": 40,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 19,
+            "chapterId": "matthew19",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 10:23",
+          "start": 42,
+          "end": 52,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 10,
+            "chapterId": "mark10",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 18:24",
+          "start": 54,
+          "end": 64,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 18,
+            "chapterId": "luke18",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "hardly",
+  "title": "Hardly",
+  "type": "tg"
+}

@@ -1,0 +1,91 @@
+{
+  "_id": "tg-closet",
+  "content": [
+    {
+      "text": "when thou prayest, enter into thy closet, Matt. 6:6 (3 Ne. 13:6).",
+      "references": [
+        {
+          "text": "Matt. 6:6",
+          "start": 42,
+          "end": 51,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 6,
+            "chapterId": "matthew6",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 13:6",
+          "start": 53,
+          "end": 63,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 13,
+            "chapterId": "3nephi13",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "I did turn unto my closet, O Lord, and prayed, Alma 33:7. pour out your souls in your closets, Alma 34:26.",
+      "references": [
+        {
+          "text": "Alma 33:7",
+          "start": 47,
+          "end": 56,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 33,
+            "chapterId": "alma33",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 34:26",
+          "start": 95,
+          "end": 105,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 34,
+            "chapterId": "alma34",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "closet",
+  "title": "Closet",
+  "type": "tg"
+}

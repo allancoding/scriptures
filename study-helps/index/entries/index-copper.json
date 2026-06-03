@@ -1,0 +1,141 @@
+{
+  "_id": "index-copper",
+  "content": [
+    {
+      "text": "people of Lehi1 use copper, 1 Ne. 18:25 (2 Ne. 5:15; Jarom 1:8; Mosiah 11:3, 8, 10). Jaredites use copper, Mosiah 8:10 (Ether 10:23).",
+      "references": [
+        {
+          "text": "1 Ne. 18:25",
+          "start": 28,
+          "end": 39,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 18,
+            "chapterId": "1nephi18",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 5:15",
+          "start": 41,
+          "end": 51,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 5,
+            "chapterId": "2nephi5",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jarom 1:8",
+          "start": 53,
+          "end": 62,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jarom",
+            "book": "jarom",
+            "chapter": 1,
+            "chapterId": "jarom1",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 11:3, 8, 10",
+          "start": 64,
+          "end": 82,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 11,
+            "chapterId": "mosiah11",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              },
+              {
+                "start": 8,
+                "end": 8
+              },
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 8:10",
+          "start": 107,
+          "end": 118,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 8,
+            "chapterId": "mosiah8",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 10:23",
+          "start": 120,
+          "end": 131,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 10,
+            "chapterId": "ether10",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-metal",
+      "slug": "metal",
+      "title": "Metal"
+    },
+    {
+      "entryId": "index-ore",
+      "slug": "ore",
+      "title": "Ore"
+    }
+  ],
+  "slug": "copper",
+  "title": "Copper",
+  "type": "index"
+}

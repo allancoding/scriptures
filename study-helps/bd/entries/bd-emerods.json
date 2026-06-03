@@ -1,0 +1,80 @@
+{
+  "_id": "bd-emerods",
+  "content": [
+    {
+      "text": "A disease, probably some bad form of hemorrhoidal tumors (Deut. 28:27; 1 Sam. 5:6, 9, 12; 6:4–5, 11).",
+      "references": [
+        {
+          "text": "Deut. 28:27",
+          "start": 58,
+          "end": 69,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 28,
+            "chapterId": "deuteronomy28",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Sam. 5:6, 9, 12",
+          "start": 71,
+          "end": 88,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 5,
+            "chapterId": "1samuel5",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              },
+              {
+                "start": 9,
+                "end": 9
+              },
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "6:4–5, 11",
+          "start": 90,
+          "end": 99,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 6,
+            "chapterId": "1samuel6",
+            "verses": [
+              {
+                "start": 4,
+                "end": 5
+              },
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "emerods",
+  "title": "Emerods",
+  "type": "bd"
+}

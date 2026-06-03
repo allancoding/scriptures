@@ -1,0 +1,61 @@
+{
+  "_id": "index-fort",
+  "content": [
+    {
+      "text": "the Lord will fortify land against all other nations, 2 Ne. 10:12. the Lord shall raise forts against seed of Nephi1 and brethren, 2 Ne. 26:15.",
+      "references": [
+        {
+          "text": "2 Ne. 10:12",
+          "start": 54,
+          "end": 65,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 10,
+            "chapterId": "2nephi10",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 26:15",
+          "start": 131,
+          "end": 142,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 26,
+            "chapterId": "2nephi26",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-defence",
+      "slug": "defence",
+      "title": "Defence"
+    },
+    {
+      "entryId": "index-protect",
+      "slug": "protect",
+      "title": "Protect"
+    }
+  ],
+  "slug": "fort",
+  "title": "Fort, Fortify",
+  "type": "index"
+}

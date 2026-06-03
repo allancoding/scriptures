@@ -1,0 +1,91 @@
+{
+  "_id": "index-new-york",
+  "content": [
+    {
+      "text": "people of New York to be warned, D&C 84:114.",
+      "references": [
+        {
+          "text": "D&C 84:114",
+          "start": 33,
+          "end": 43,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 84,
+            "chapterId": "doctrineandcovenants84",
+            "verses": [
+              {
+                "start": 114,
+                "end": 114
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Joseph Smith’s family moves to Palmyra, New York, then to Manchester, New York, JS—H 1:3. Hill Cumorah near Manchester, New York, JS—H 1:51. Joseph Smith works in Chenango County, New York, JS—H 1:56.",
+      "references": [
+        {
+          "text": "JS—H 1:3",
+          "start": 80,
+          "end": 88,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "JS—H 1:51",
+          "start": 130,
+          "end": 139,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 51,
+                "end": 51
+              }
+            ]
+          }
+        },
+        {
+          "text": "JS—H 1:56",
+          "start": 190,
+          "end": 199,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 56,
+                "end": 56
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "new-york",
+  "title": "New York",
+  "type": "index"
+}

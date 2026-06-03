@@ -1,0 +1,55 @@
+{
+  "_id": "tg-reform",
+  "content": [
+    {
+      "text": "if ye will not be reformed by me, Lev. 26:23.",
+      "references": [
+        {
+          "text": "Lev. 26:23",
+          "start": 34,
+          "end": 44,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 26,
+            "chapterId": "leviticus26",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "written this record … in … reformed Egyptian, Morm. 9:32.",
+      "references": [
+        {
+          "text": "Morm. 9:32",
+          "start": 46,
+          "end": 56,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 9,
+            "chapterId": "mormon9",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "reform",
+  "title": "Reform",
+  "type": "tg"
+}

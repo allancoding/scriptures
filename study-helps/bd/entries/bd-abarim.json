@@ -1,0 +1,68 @@
+{
+  "_id": "bd-abarim",
+  "content": [
+    {
+      "text": "The mountains from which Moses viewed the Promised Land (Num. 27:12; 33:47; Deut. 32:49).",
+      "references": [
+        {
+          "text": "Num. 27:12",
+          "start": 57,
+          "end": 67,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 27,
+            "chapterId": "numbers27",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "33:47",
+          "start": 69,
+          "end": 74,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 33,
+            "chapterId": "numbers33",
+            "verses": [
+              {
+                "start": 47,
+                "end": 47
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 32:49",
+          "start": 76,
+          "end": 87,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 32,
+            "chapterId": "deuteronomy32",
+            "verses": [
+              {
+                "start": 49,
+                "end": 49
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "abarim",
+  "title": "Abarim",
+  "type": "bd"
+}

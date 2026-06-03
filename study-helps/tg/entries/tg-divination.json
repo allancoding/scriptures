@@ -1,0 +1,102 @@
+{
+  "_id": "tg-divination",
+  "content": [
+    {
+      "text": "not be found … any one … that useth divination, Deut. 18:10. shall be no more any vain vision nor flattering divination, Ezek. 12:24. They have seen vanity and lying divination, Ezek. 13:6.",
+      "references": [
+        {
+          "text": "Deut. 18:10",
+          "start": 48,
+          "end": 59,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 18,
+            "chapterId": "deuteronomy18",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 12:24",
+          "start": 121,
+          "end": 132,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 12,
+            "chapterId": "ezekiel12",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 13:6",
+          "start": 178,
+          "end": 188,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 13,
+            "chapterId": "ezekiel13",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "damsel possessed with a spirit of divination, Acts 16:16.",
+      "references": [
+        {
+          "text": "Acts 16:16",
+          "start": 46,
+          "end": 56,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 16,
+            "chapterId": "acts16",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-sorcery",
+      "slug": "sorcery",
+      "title": "Sorcery"
+    },
+    {
+      "entryId": "tg-superstitions",
+      "slug": "superstitions",
+      "title": "Superstitions"
+    }
+  ],
+  "slug": "divination",
+  "title": "Divination",
+  "type": "tg"
+}

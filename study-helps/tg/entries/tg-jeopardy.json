@@ -1,0 +1,61 @@
+{
+  "_id": "tg-jeopardy",
+  "content": [
+    {
+      "text": "they were filled with water, and were in jeopardy, Luke 8:23. why stand we in jeopardy every hour, 1 Cor. 15:30.",
+      "references": [
+        {
+          "text": "Luke 8:23",
+          "start": 51,
+          "end": 60,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 8,
+            "chapterId": "luke8",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 15:30",
+          "start": 99,
+          "end": 111,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 15,
+            "chapterId": "1corinthians15",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-danger",
+      "slug": "danger",
+      "title": "Danger"
+    },
+    {
+      "entryId": "tg-peril",
+      "slug": "peril",
+      "title": "Peril"
+    }
+  ],
+  "slug": "jeopardy",
+  "title": "Jeopardy",
+  "type": "tg"
+}

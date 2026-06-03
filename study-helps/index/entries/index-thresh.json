@@ -1,0 +1,94 @@
+{
+  "_id": "index-thresh",
+  "content": [
+    {
+      "text": "Jaredites make tools to thrash, Ether 10:25.",
+      "references": [
+        {
+          "text": "Ether 10:25",
+          "start": 32,
+          "end": 43,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 10,
+            "chapterId": "ether10",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "the Lord calls upon weak things of world to thresh nations, D&C 35:13 (133:59).",
+      "references": [
+        {
+          "text": "D&C 35:13",
+          "start": 60,
+          "end": 69,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 35,
+            "chapterId": "doctrineandcovenants35",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "133:59",
+          "start": 71,
+          "end": 77,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 133,
+            "chapterId": "doctrineandcovenants133",
+            "verses": [
+              {
+                "start": 59,
+                "end": 59
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-destruction",
+      "slug": "destruction",
+      "title": "Destruction"
+    },
+    {
+      "entryId": "index-harvest",
+      "slug": "harvest",
+      "title": "Harvest"
+    },
+    {
+      "entryId": "index-judgment",
+      "slug": "judgment",
+      "title": "Judgment"
+    },
+    {
+      "entryId": "index-reap",
+      "slug": "reap",
+      "title": "Reap"
+    }
+  ],
+  "slug": "thresh",
+  "title": "Thresh, Thrash",
+  "type": "index"
+}

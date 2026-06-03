@@ -1,0 +1,223 @@
+{
+  "_id": "tg-desert",
+  "content": [
+    {
+      "text": "come to the desert of Sinai … there Israel camped, Ex. 19:2. tempted God in the desert, Ps. 106:14. desert shall rejoice, and blossom, Isa. 35:1. make straight in the desert a highway for our God, Isa. 40:3. Eden, and her desert like the garden of the Lord, Isa. 51:3.",
+      "references": [
+        {
+          "text": "Ex. 19:2",
+          "start": 51,
+          "end": 59,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 19,
+            "chapterId": "exodus19",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 106:14",
+          "start": 88,
+          "end": 98,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 106,
+            "chapterId": "psalms106",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 35:1",
+          "start": 135,
+          "end": 144,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 35,
+            "chapterId": "isaiah35",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 40:3",
+          "start": 197,
+          "end": 206,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 40,
+            "chapterId": "isaiah40",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 51:3",
+          "start": 258,
+          "end": 267,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 51,
+            "chapterId": "isaiah51",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Jesus … departed thence by ship into a desert place, Matt. 14:13 (Mark 6:32; Luke 9:10). if they shall say … Behold, he is in the desert; go not forth, Matt. 24:26 (JS—M 1:25). was in the deserts till the day of his shewing, Luke 1:80.",
+      "references": [
+        {
+          "text": "Matt. 14:13",
+          "start": 53,
+          "end": 64,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 14,
+            "chapterId": "matthew14",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 6:32",
+          "start": 66,
+          "end": 75,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 6,
+            "chapterId": "mark6",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 9:10",
+          "start": 77,
+          "end": 86,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 9,
+            "chapterId": "luke9",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 24:26",
+          "start": 152,
+          "end": 163,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 24,
+            "chapterId": "matthew24",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "JS—M 1:25",
+          "start": 165,
+          "end": 174,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-m",
+            "book": "josephsmithmatthew",
+            "chapter": 1,
+            "chapterId": "josephsmithmatthew1",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 1:80",
+          "start": 225,
+          "end": 234,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 1,
+            "chapterId": "luke1",
+            "verses": [
+              {
+                "start": 80,
+                "end": 80
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-wilderness",
+      "slug": "wilderness",
+      "title": "Wilderness"
+    }
+  ],
+  "slug": "desert",
+  "title": "Desert",
+  "type": "tg"
+}

@@ -1,0 +1,61 @@
+{
+  "_id": "index-approve",
+  "content": [
+    {
+      "text": "he who shows himself not approved will not be counted worthy to stand, D&C 107:100. names to be approved at conference, D&C 124:144.",
+      "references": [
+        {
+          "text": "D&C 107:100",
+          "start": 71,
+          "end": 82,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 107,
+            "chapterId": "doctrineandcovenants107",
+            "verses": [
+              {
+                "start": 100,
+                "end": 100
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 124:144",
+          "start": 120,
+          "end": 131,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 124,
+            "chapterId": "doctrineandcovenants124",
+            "verses": [
+              {
+                "start": 144,
+                "end": 144
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-accept",
+      "slug": "accept",
+      "title": "Accept"
+    },
+    {
+      "entryId": "index-acceptable",
+      "slug": "acceptable",
+      "title": "Acceptable"
+    }
+  ],
+  "slug": "approve",
+  "title": "Approve",
+  "type": "index"
+}

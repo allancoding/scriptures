@@ -1,0 +1,50 @@
+{
+  "_id": "tg-uncertain",
+  "content": [
+    {
+      "text": "if the trumpet give an uncertain sound, 1 Cor. 14:8. nor trust in uncertain riches, 1 Tim. 6:17.",
+      "references": [
+        {
+          "text": "1 Cor. 14:8",
+          "start": 40,
+          "end": 51,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 14,
+            "chapterId": "1corinthians14",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Tim. 6:17",
+          "start": 84,
+          "end": 95,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 6,
+            "chapterId": "1timothy6",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "uncertain",
+  "title": "Uncertain",
+  "type": "tg"
+}

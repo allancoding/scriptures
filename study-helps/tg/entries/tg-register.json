@@ -1,0 +1,50 @@
+{
+  "_id": "tg-register",
+  "content": [
+    {
+      "text": "sought their register among those that were reckoned by genealogy, Ezra 2:62. I found a register of the genealogy of them which came, Neh. 7:5.",
+      "references": [
+        {
+          "text": "Ezra 2:62",
+          "start": 67,
+          "end": 76,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezra",
+            "book": "ezra",
+            "chapter": 2,
+            "chapterId": "ezra2",
+            "verses": [
+              {
+                "start": 62,
+                "end": 62
+              }
+            ]
+          }
+        },
+        {
+          "text": "Neh. 7:5",
+          "start": 134,
+          "end": 142,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "neh",
+            "book": "nehemiah",
+            "chapter": 7,
+            "chapterId": "nehemiah7",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "register",
+  "title": "Register",
+  "type": "tg"
+}

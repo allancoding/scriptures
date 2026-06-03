@@ -1,0 +1,115 @@
+{
+  "_id": "tg-morrow",
+  "content": [
+    {
+      "text": "Boast not thyself of to morrow, Prov. 27:1.",
+      "references": [
+        {
+          "text": "Prov. 27:1",
+          "start": 32,
+          "end": 42,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 27,
+            "chapterId": "proverbs27",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "no thought for the morrow: for the morrow shall, Matt. 6:34 (3 Ne. 13:34; D&C 84:81). ye know not what shall be on the morrow, James 4:14.",
+      "references": [
+        {
+          "text": "Matt. 6:34",
+          "start": 49,
+          "end": 59,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 6,
+            "chapterId": "matthew6",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 13:34",
+          "start": 61,
+          "end": 72,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 13,
+            "chapterId": "3nephi13",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 84:81",
+          "start": 74,
+          "end": 83,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 84,
+            "chapterId": "doctrineandcovenants84",
+            "verses": [
+              {
+                "start": 81,
+                "end": 81
+              }
+            ]
+          }
+        },
+        {
+          "text": "James 4:14",
+          "start": 127,
+          "end": 137,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "james",
+            "book": "james",
+            "chapter": 4,
+            "chapterId": "james4",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-tomorrow",
+      "slug": "tomorrow",
+      "title": "Tomorrow"
+    }
+  ],
+  "slug": "morrow",
+  "title": "Morrow",
+  "type": "tg"
+}

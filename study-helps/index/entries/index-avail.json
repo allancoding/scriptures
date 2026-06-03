@@ -1,0 +1,74 @@
+{
+  "_id": "index-avail",
+  "content": [
+    {
+      "text": "law of Moses avails nothing except through Christ’s Atonement, Mosiah 3:15. without charity toward the needy, prayer avails nothing, Alma 34:28. baptism avails nothing unto him who is under no condemnation, Moro. 8:22.",
+      "references": [
+        {
+          "text": "Mosiah 3:15",
+          "start": 63,
+          "end": 74,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 3,
+            "chapterId": "mosiah3",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 34:28",
+          "start": 133,
+          "end": 143,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 34,
+            "chapterId": "alma34",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moro. 8:22",
+          "start": 207,
+          "end": 217,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "moro",
+            "book": "moroni",
+            "chapter": 8,
+            "chapterId": "moroni8",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-profit",
+      "slug": "profit",
+      "title": "Profit"
+    }
+  ],
+  "slug": "avail",
+  "title": "Avail",
+  "type": "index"
+}

@@ -1,0 +1,115 @@
+{
+  "_id": "index-staff",
+  "content": [
+    {
+      "text": "the Lord takes from Judah whole staff of bread, 2 Ne. 13:1 (Isa. 3:1). the Lord has broken staff of wicked, 2 Ne. 24:5 (Isa. 14:5).",
+      "references": [
+        {
+          "text": "2 Ne. 13:1",
+          "start": 48,
+          "end": 58,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 13,
+            "chapterId": "2nephi13",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 3:1",
+          "start": 60,
+          "end": 68,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 3,
+            "chapterId": "isaiah3",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 24:5",
+          "start": 108,
+          "end": 118,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 24,
+            "chapterId": "2nephi24",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 14:5",
+          "start": 120,
+          "end": 129,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 14,
+            "chapterId": "isaiah14",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "all grain is ordained to be staff of life, D&C 89:14.",
+      "references": [
+        {
+          "text": "D&C 89:14",
+          "start": 43,
+          "end": 52,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 89,
+            "chapterId": "doctrineandcovenants89",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-stave",
+      "slug": "stave",
+      "title": "Stave"
+    }
+  ],
+  "slug": "staff",
+  "title": "Staff",
+  "type": "index"
+}

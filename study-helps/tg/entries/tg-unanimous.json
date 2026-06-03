@@ -1,0 +1,50 @@
+{
+  "_id": "tg-unanimous",
+  "content": [
+    {
+      "text": "chosen … by the unanimous voice of the council, D&C 102:3. every decision … must be by the unanimous voice, D&C 107:27.",
+      "references": [
+        {
+          "text": "D&C 102:3",
+          "start": 48,
+          "end": 57,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 102,
+            "chapterId": "doctrineandcovenants102",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 107:27",
+          "start": 108,
+          "end": 118,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 107,
+            "chapterId": "doctrineandcovenants107",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "unanimous",
+  "title": "Unanimous",
+  "type": "tg"
+}

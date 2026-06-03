@@ -1,0 +1,498 @@
+{
+  "_id": "tg-smoke",
+  "content": [
+    {
+      "text": "smoke … went up as the smoke of a furnace, Gen. 19:28. Sinai was altogether on a smoke, Ex. 19:18. flame … with a pillar of smoke, Judg. 20:40. he toucheth the hills, and they smoke, Ps. 104:32. as smoke to the eyes, so is the sluggard, Prov. 10:26. door moved … and the house was filled with smoke, Isa. 6:4 (2 Ne. 16:4). smoking flax shall he not quench, Isa. 42:3 (Matt. 12:20). as the smoke out of the chimney, Hosea 13:3. I will shew wonders in the heavens and in the earth … and pillars of smoke, Joel 2:30 (Acts 2:19; 1 Ne. 19:11; 22:18; Morm. 8:29; D&C 45:41).",
+      "references": [
+        {
+          "text": "Gen. 19:28",
+          "start": 43,
+          "end": 53,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 19,
+            "chapterId": "genesis19",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 19:18",
+          "start": 88,
+          "end": 97,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 19,
+            "chapterId": "exodus19",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Judg. 20:40",
+          "start": 131,
+          "end": 142,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "judg",
+            "book": "judges",
+            "chapter": 20,
+            "chapterId": "judges20",
+            "verses": [
+              {
+                "start": 40,
+                "end": 40
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 104:32",
+          "start": 183,
+          "end": 193,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 104,
+            "chapterId": "psalms104",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 10:26",
+          "start": 237,
+          "end": 248,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 10,
+            "chapterId": "proverbs10",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 6:4",
+          "start": 300,
+          "end": 308,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 6,
+            "chapterId": "isaiah6",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 16:4",
+          "start": 310,
+          "end": 320,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 16,
+            "chapterId": "2nephi16",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 42:3",
+          "start": 357,
+          "end": 366,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 42,
+            "chapterId": "isaiah42",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 12:20",
+          "start": 368,
+          "end": 379,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 12,
+            "chapterId": "matthew12",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hosea 13:3",
+          "start": 415,
+          "end": 425,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "hosea",
+            "book": "hosea",
+            "chapter": 13,
+            "chapterId": "hosea13",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Joel 2:30",
+          "start": 503,
+          "end": 512,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "joel",
+            "book": "joel",
+            "chapter": 2,
+            "chapterId": "joel2",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 2:19",
+          "start": 514,
+          "end": 523,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 2,
+            "chapterId": "acts2",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Ne. 19:11",
+          "start": 525,
+          "end": 536,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 19,
+            "chapterId": "1nephi19",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "22:18",
+          "start": 538,
+          "end": 543,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 22,
+            "chapterId": "1nephi22",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 8:29",
+          "start": 545,
+          "end": 555,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 8,
+            "chapterId": "mormon8",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 45:41",
+          "start": 557,
+          "end": 566,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 45,
+            "chapterId": "doctrineandcovenants45",
+            "verses": [
+              {
+                "start": 41,
+                "end": 41
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "smoke of the incense, which came with the prayers of the saints, Rev. 8:4. there arose a smoke out of the pit, Rev. 9:2. temple was filled with smoke, Rev. 15:8. they shall see the smoke of her burning, Rev. 18:9. her smoke rose up for ever, Rev. 19:3.",
+      "references": [
+        {
+          "text": "Rev. 8:4",
+          "start": 65,
+          "end": 73,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 8,
+            "chapterId": "revelation8",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 9:2",
+          "start": 111,
+          "end": 119,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 9,
+            "chapterId": "revelation9",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 15:8",
+          "start": 151,
+          "end": 160,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 15,
+            "chapterId": "revelation15",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 18:9",
+          "start": 203,
+          "end": 212,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 18,
+            "chapterId": "revelation18",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 19:3",
+          "start": 242,
+          "end": 251,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 19,
+            "chapterId": "revelation19",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "God surely shall visit … Israel … by smoke, 1 Ne. 19:11. heavens shall vanish away like smoke, 2 Ne. 8:6. lake of fire and brimstone … whose smoke ascendeth up forever, Jacob 6:10 (Mosiah 3:27). overpowered by the vapor of smoke and of darkness, 3 Ne. 10:13.",
+      "references": [
+        {
+          "text": "1 Ne. 19:11",
+          "start": 44,
+          "end": 55,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 19,
+            "chapterId": "1nephi19",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 8:6",
+          "start": 95,
+          "end": 104,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 8,
+            "chapterId": "2nephi8",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jacob 6:10",
+          "start": 169,
+          "end": 179,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 6,
+            "chapterId": "jacob6",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 3:27",
+          "start": 181,
+          "end": 192,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 3,
+            "chapterId": "mosiah3",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 10:13",
+          "start": 246,
+          "end": 257,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 10,
+            "chapterId": "3nephi10",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-word-of-wisdom",
+      "slug": "word-of-wisdom",
+      "title": "Word of Wisdom"
+    }
+  ],
+  "slug": "smoke",
+  "title": "Smoke",
+  "type": "tg"
+}

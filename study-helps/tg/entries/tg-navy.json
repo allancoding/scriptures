@@ -1,0 +1,50 @@
+{
+  "_id": "tg-navy",
+  "content": [
+    {
+      "text": "king Solomon made a navy of ships, 1 Kgs. 9:26. at sea a navy of Tharshish with the navy of Hiram, 1 Kgs. 10:22.",
+      "references": [
+        {
+          "text": "1 Kgs. 9:26",
+          "start": 35,
+          "end": 46,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 9,
+            "chapterId": "1kings9",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Kgs. 10:22",
+          "start": 99,
+          "end": 111,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 10,
+            "chapterId": "1kings10",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "navy",
+  "title": "Navy",
+  "type": "tg"
+}

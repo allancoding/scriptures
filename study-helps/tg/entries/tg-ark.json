@@ -1,0 +1,179 @@
+{
+  "_id": "tg-ark",
+  "content": [
+    {
+      "text": "Make thee an ark of gopher wood, Gen. 6:14.",
+      "references": [
+        {
+          "text": "Gen. 6:14",
+          "start": 33,
+          "end": 42,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 6,
+            "chapterId": "genesis6",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "day that Noe entered into the ark, Matt. 24:38 (Luke 17:27; JS—M 1:42). prepared an ark to the saving of his house, Heb. 11:7. while the ark was a preparing, 1 Pet. 3:20.",
+      "references": [
+        {
+          "text": "Matt. 24:38",
+          "start": 35,
+          "end": 46,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 24,
+            "chapterId": "matthew24",
+            "verses": [
+              {
+                "start": 38,
+                "end": 38
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 17:27",
+          "start": 48,
+          "end": 58,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 17,
+            "chapterId": "luke17",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "JS—M 1:42",
+          "start": 60,
+          "end": 69,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-m",
+            "book": "josephsmithmatthew",
+            "chapter": 1,
+            "chapterId": "josephsmithmatthew1",
+            "verses": [
+              {
+                "start": 42,
+                "end": 42
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 11:7",
+          "start": 116,
+          "end": 125,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 11,
+            "chapterId": "hebrews11",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Pet. 3:20",
+          "start": 158,
+          "end": 169,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-pet",
+            "book": "1peter",
+            "chapter": 3,
+            "chapterId": "1peter3",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "tight like unto the ark of Noah, Ether 6:7.",
+      "references": [
+        {
+          "text": "Ether 6:7",
+          "start": 33,
+          "end": 42,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 6,
+            "chapterId": "ether6",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Enoch saw that Noah built an ark, Moses 7:43.",
+      "references": [
+        {
+          "text": "Moses 7:43",
+          "start": 34,
+          "end": 44,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 7,
+            "chapterId": "moses7",
+            "verses": [
+              {
+                "start": 43,
+                "end": 43
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-ark-of-the-covenant",
+      "slug": "ark-of-the-covenant",
+      "title": "Ark of the Covenant"
+    }
+  ],
+  "slug": "ark",
+  "title": "Ark",
+  "type": "tg"
+}

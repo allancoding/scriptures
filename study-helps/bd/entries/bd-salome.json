@@ -1,0 +1,127 @@
+{
+  "_id": "bd-salome",
+  "content": [
+    {
+      "text": "(1) Wife of Zebedee (Matt. 20:20; 27:56; Mark 15:40; 16:1).",
+      "references": [
+        {
+          "text": "Matt. 20:20",
+          "start": 21,
+          "end": 32,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 20,
+            "chapterId": "matthew20",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "27:56",
+          "start": 34,
+          "end": 39,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 27,
+            "chapterId": "matthew27",
+            "verses": [
+              {
+                "start": 56,
+                "end": 56
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 15:40",
+          "start": 41,
+          "end": 51,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 15,
+            "chapterId": "mark15",
+            "verses": [
+              {
+                "start": 40,
+                "end": 40
+              }
+            ]
+          }
+        },
+        {
+          "text": "16:1",
+          "start": 53,
+          "end": 57,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 16,
+            "chapterId": "mark16",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "(2) The daughter of Herodias who danced before Herod Antipas, culminating in the death of John the Baptist (Matt. 14:3–11; Mark 6:17–28). Her name is not mentioned in scripture but is given in Josephus, Antiquities, 18.5.4.",
+      "references": [
+        {
+          "text": "Matt. 14:3–11",
+          "start": 108,
+          "end": 121,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 14,
+            "chapterId": "matthew14",
+            "verses": [
+              {
+                "start": 3,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 6:17–28",
+          "start": 123,
+          "end": 135,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 6,
+            "chapterId": "mark6",
+            "verses": [
+              {
+                "start": 17,
+                "end": 28
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "salome",
+  "title": "Salome",
+  "type": "bd"
+}

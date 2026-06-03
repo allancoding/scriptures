@@ -1,0 +1,32 @@
+{
+  "_id": "index-bethel",
+  "content": [
+    {
+      "text": "Abraham goes east of Bethel, Abr. 2:20.",
+      "references": [
+        {
+          "text": "Abr. 2:20",
+          "start": 29,
+          "end": 38,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 2,
+            "chapterId": "abraham2",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "bethel",
+  "title": "Bethel",
+  "type": "index"
+}

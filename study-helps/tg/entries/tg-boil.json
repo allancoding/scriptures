@@ -1,0 +1,50 @@
+{
+  "_id": "tg-boil",
+  "content": [
+    {
+      "text": "a boil breaking forth with blains, Ex. 9:9. Satan … smote Job with sore boils, Job 2:7.",
+      "references": [
+        {
+          "text": "Ex. 9:9",
+          "start": 35,
+          "end": 42,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 9,
+            "chapterId": "exodus9",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Job 2:7",
+          "start": 79,
+          "end": 86,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "job",
+            "book": "job",
+            "chapter": 2,
+            "chapterId": "job2",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "boil",
+  "title": "Boil",
+  "type": "tg"
+}

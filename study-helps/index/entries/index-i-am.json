@@ -1,0 +1,92 @@
+{
+  "_id": "index-i-am",
+  "content": [
+    {
+      "text": "Jesus Christ, the Great I Am, D&C 29:1 (38:1; 39:1). you shall see me and know that I am, D&C 67:10.",
+      "references": [
+        {
+          "text": "D&C 29:1",
+          "start": 30,
+          "end": 38,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 29,
+            "chapterId": "doctrineandcovenants29",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "38:1",
+          "start": 40,
+          "end": 44,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 38,
+            "chapterId": "doctrineandcovenants38",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "39:1",
+          "start": 46,
+          "end": 50,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 39,
+            "chapterId": "doctrineandcovenants39",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 67:10",
+          "start": 90,
+          "end": 99,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 67,
+            "chapterId": "doctrineandcovenants67",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-jesus-christ-jehovah",
+      "slug": "jesus-christ-jehovah",
+      "title": "Jesus Christ—Jehovah"
+    }
+  ],
+  "slug": "i-am",
+  "title": "I Am",
+  "type": "index"
+}

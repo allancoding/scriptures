@@ -1,0 +1,43 @@
+{
+  "_id": "index-sustain",
+  "content": [
+    {
+      "text": "men are bound to sustain their governments, D&C 134:5.",
+      "references": [
+        {
+          "text": "D&C 134:5",
+          "start": 44,
+          "end": 53,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 134,
+            "chapterId": "doctrineandcovenants134",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-support",
+      "slug": "support",
+      "title": "Support"
+    },
+    {
+      "entryId": "index-uphold",
+      "slug": "uphold",
+      "title": "Uphold"
+    }
+  ],
+  "slug": "sustain",
+  "title": "Sustain",
+  "type": "index"
+}

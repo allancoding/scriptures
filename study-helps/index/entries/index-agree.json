@@ -1,0 +1,115 @@
+{
+  "_id": "index-agree",
+  "content": [
+    {
+      "text": "agree with thine adversary quickly, 3 Ne. 12:25.",
+      "references": [
+        {
+          "text": "3 Ne. 12:25",
+          "start": 36,
+          "end": 47,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 12,
+            "chapterId": "3nephi12",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "be agreed as to what ye ask, D&C 27:18. knowledge was given because it was asked by those who were agreed, D&C 29:33. assemble yourselves to agree upon my word, D&C 41:2. each member of quorum must be agreed to its decision, D&C 107:27.",
+      "references": [
+        {
+          "text": "D&C 27:18",
+          "start": 29,
+          "end": 38,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 27,
+            "chapterId": "doctrineandcovenants27",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 29:33",
+          "start": 107,
+          "end": 116,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 29,
+            "chapterId": "doctrineandcovenants29",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 41:2",
+          "start": 161,
+          "end": 169,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 41,
+            "chapterId": "doctrineandcovenants41",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 107:27",
+          "start": 225,
+          "end": 235,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 107,
+            "chapterId": "doctrineandcovenants107",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-unite",
+      "slug": "unite",
+      "title": "Unite"
+    }
+  ],
+  "slug": "agree",
+  "title": "Agree",
+  "type": "index"
+}

@@ -1,0 +1,654 @@
+{
+  "_id": "tg-feed",
+  "content": [
+    {
+      "text": "Esau said to Jacob, Feed me, Gen. 25:30. God which fed me all my life long, Gen. 48:15. I have fed you in the wilderness, Ex. 16:32. fed thee with manna, Deut. 8:3 (8:16). feed my people Israel, 2 Sam. 5:2 (1 Chr. 11:2). commanded the ravens to feed thee, 1 Kgs. 17:4. Trust in the Lord … thou shalt be fed, Ps. 37:3. lips of the righteous feed many, Prov. 10:21. cow and the bear shall feed, Isa. 11:7 (2 Ne. 21:7; 30:13). wolf and the lamb shall feed together, Isa. 65:25. pastors … shall feed you with knowledge, Jer. 3:15. should not the shepherds feed the flocks, Ezek. 34:2. shepherds fed themselves, and fed not my flock, Ezek. 34:8. feed in the strength of the Lord, Micah 5:4.",
+      "references": [
+        {
+          "text": "Gen. 25:30",
+          "start": 29,
+          "end": 39,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 25,
+            "chapterId": "genesis25",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 48:15",
+          "start": 76,
+          "end": 86,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 48,
+            "chapterId": "genesis48",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 16:32",
+          "start": 122,
+          "end": 131,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 16,
+            "chapterId": "exodus16",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 8:3",
+          "start": 154,
+          "end": 163,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 8,
+            "chapterId": "deuteronomy8",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "8:16",
+          "start": 165,
+          "end": 169,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 8,
+            "chapterId": "deuteronomy8",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Sam. 5:2",
+          "start": 195,
+          "end": 205,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-sam",
+            "book": "2samuel",
+            "chapter": 5,
+            "chapterId": "2samuel5",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Chr. 11:2",
+          "start": 207,
+          "end": 218,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-chr",
+            "book": "1chronicles",
+            "chapter": 11,
+            "chapterId": "1chronicles11",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Kgs. 17:4",
+          "start": 256,
+          "end": 267,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 17,
+            "chapterId": "1kings17",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 37:3",
+          "start": 308,
+          "end": 316,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 37,
+            "chapterId": "psalms37",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 10:21",
+          "start": 351,
+          "end": 362,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 10,
+            "chapterId": "proverbs10",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 11:7",
+          "start": 393,
+          "end": 402,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 11,
+            "chapterId": "isaiah11",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 21:7",
+          "start": 404,
+          "end": 414,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 21,
+            "chapterId": "2nephi21",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "30:13",
+          "start": 416,
+          "end": 421,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 30,
+            "chapterId": "2nephi30",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 65:25",
+          "start": 463,
+          "end": 473,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 65,
+            "chapterId": "isaiah65",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 3:15",
+          "start": 516,
+          "end": 525,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 3,
+            "chapterId": "jeremiah3",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 34:2",
+          "start": 569,
+          "end": 579,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 34,
+            "chapterId": "ezekiel34",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 34:8",
+          "start": 629,
+          "end": 639,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 34,
+            "chapterId": "ezekiel34",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Micah 5:4",
+          "start": 675,
+          "end": 684,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "micah",
+            "book": "micah",
+            "chapter": 5,
+            "chapterId": "micah5",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "yet your heavenly Father feedeth them, Matt. 6:26 (Luke 12:24). when saw we thee an hungred, and fed thee, Matt. 25:37. sent him into his fields to feed swine, Luke 15:15. Feed my lambs, John 21:15. Feed my sheep, John 21:16 (D&C 112:14). Holy Ghost hath made you overseers, to feed the church, Acts 20:28. if thine enemy hunger, feed him, Rom. 12:20. I have fed you with milk, and not with meat, 1 Cor. 3:2. Feed the flock of God which is among you, 1 Pet. 5:2. feeding themselves without fear, Jude 1:12. Lamb … shall feed them, Rev. 7:17.",
+      "references": [
+        {
+          "text": "Matt. 6:26",
+          "start": 39,
+          "end": 49,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 6,
+            "chapterId": "matthew6",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 12:24",
+          "start": 51,
+          "end": 61,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 12,
+            "chapterId": "luke12",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 25:37",
+          "start": 107,
+          "end": 118,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 25,
+            "chapterId": "matthew25",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 15:15",
+          "start": 160,
+          "end": 170,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 15,
+            "chapterId": "luke15",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 21:15",
+          "start": 187,
+          "end": 197,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 21,
+            "chapterId": "john21",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 21:16",
+          "start": 214,
+          "end": 224,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 21,
+            "chapterId": "john21",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 112:14",
+          "start": 226,
+          "end": 236,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 112,
+            "chapterId": "doctrineandcovenants112",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 20:28",
+          "start": 295,
+          "end": 305,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 20,
+            "chapterId": "acts20",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 12:20",
+          "start": 340,
+          "end": 350,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 12,
+            "chapterId": "romans12",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 3:2",
+          "start": 397,
+          "end": 407,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 3,
+            "chapterId": "1corinthians3",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Pet. 5:2",
+          "start": 451,
+          "end": 461,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-pet",
+            "book": "1peter",
+            "chapter": 5,
+            "chapterId": "1peter5",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jude 1:12",
+          "start": 496,
+          "end": 505,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "jude",
+            "book": "jude",
+            "chapter": 1,
+            "chapterId": "jude1",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 7:17",
+          "start": 531,
+          "end": 540,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 7,
+            "chapterId": "revelation7",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "fed with manna, 1 Ne. 17:28. obtain riches … to feed the hungry, Jacob 2:19. impart of your substance to the poor … feeding the hungry, Mosiah 4:26. they feed the women upon the flesh of their husbands, Moro. 9:8.",
+      "references": [
+        {
+          "text": "1 Ne. 17:28",
+          "start": 16,
+          "end": 27,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 17,
+            "chapterId": "1nephi17",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jacob 2:19",
+          "start": 65,
+          "end": 75,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 2,
+            "chapterId": "jacob2",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 4:26",
+          "start": 136,
+          "end": 147,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 4,
+            "chapterId": "mosiah4",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moro. 9:8",
+          "start": 203,
+          "end": 212,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "moro",
+            "book": "moroni",
+            "chapter": 9,
+            "chapterId": "moroni9",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "feed",
+  "title": "Feed, Fed",
+  "type": "tg"
+}

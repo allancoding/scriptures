@@ -1,0 +1,475 @@
+{
+  "_id": "bd-genealogy",
+  "content": [
+    {
+      "text": "Concerned with tracing the line of descent in any given family. Where certain offices or blessings are restricted to particular families, genealogies become of great importance; for example, a priest must be able to show his descent from Aaron, the Messiah from David, while every Jew must be able to show his descent from Abraham. In the Old Testament the genealogies form an important part of the history, such as of the antediluvian patriarchs (Gen. 5; 1 Chr. 1:1–4); of Noah (Gen. 10); of Shem (Gen. 11:10–32; 1 Chr. 1:17–28); of Ham (1 Chr. 1:8–16); of Abraham’s children by Keturah (Gen. 25:1–4; 1 Chr. 1:32); of Ishmael (Gen. 25:12–16; 1 Chr. 1:29–31); of Esau (Gen. 36; 1 Chr. 1:35–54); of Jacob (Gen. 46; Ex. 6:14–25; Num. 26; 1 Chr. 2:2); various (1 Chr. 3–9; Ezra 2:62; Neh. 7:64).",
+      "references": [
+        {
+          "text": "Gen. 5",
+          "start": 448,
+          "end": 454,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 5,
+            "chapterId": "genesis5",
+            "verses": []
+          }
+        },
+        {
+          "text": "1 Chr. 1:1–4",
+          "start": 456,
+          "end": 468,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-chr",
+            "book": "1chronicles",
+            "chapter": 1,
+            "chapterId": "1chronicles1",
+            "verses": [
+              {
+                "start": 1,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 10",
+          "start": 480,
+          "end": 487,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 10,
+            "chapterId": "genesis10",
+            "verses": []
+          }
+        },
+        {
+          "text": "Gen. 11:10–32",
+          "start": 499,
+          "end": 512,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 11,
+            "chapterId": "genesis11",
+            "verses": [
+              {
+                "start": 10,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Chr. 1:17–28",
+          "start": 514,
+          "end": 528,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-chr",
+            "book": "1chronicles",
+            "chapter": 1,
+            "chapterId": "1chronicles1",
+            "verses": [
+              {
+                "start": 17,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Chr. 1:8–16",
+          "start": 539,
+          "end": 552,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-chr",
+            "book": "1chronicles",
+            "chapter": 1,
+            "chapterId": "1chronicles1",
+            "verses": [
+              {
+                "start": 8,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 25:1–4",
+          "start": 589,
+          "end": 600,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 25,
+            "chapterId": "genesis25",
+            "verses": [
+              {
+                "start": 1,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Chr. 1:32",
+          "start": 602,
+          "end": 613,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-chr",
+            "book": "1chronicles",
+            "chapter": 1,
+            "chapterId": "1chronicles1",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 25:12–16",
+          "start": 628,
+          "end": 641,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 25,
+            "chapterId": "genesis25",
+            "verses": [
+              {
+                "start": 12,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Chr. 1:29–31",
+          "start": 643,
+          "end": 657,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-chr",
+            "book": "1chronicles",
+            "chapter": 1,
+            "chapterId": "1chronicles1",
+            "verses": [
+              {
+                "start": 29,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 36",
+          "start": 669,
+          "end": 676,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 36,
+            "chapterId": "genesis36",
+            "verses": []
+          }
+        },
+        {
+          "text": "1 Chr. 1:35–54",
+          "start": 678,
+          "end": 692,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-chr",
+            "book": "1chronicles",
+            "chapter": 1,
+            "chapterId": "1chronicles1",
+            "verses": [
+              {
+                "start": 35,
+                "end": 54
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 46",
+          "start": 705,
+          "end": 712,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 46,
+            "chapterId": "genesis46",
+            "verses": []
+          }
+        },
+        {
+          "text": "Ex. 6:14–25",
+          "start": 714,
+          "end": 725,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 6,
+            "chapterId": "exodus6",
+            "verses": [
+              {
+                "start": 14,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 26",
+          "start": 727,
+          "end": 734,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 26,
+            "chapterId": "numbers26",
+            "verses": []
+          }
+        },
+        {
+          "text": "1 Chr. 2:2",
+          "start": 736,
+          "end": 746,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-chr",
+            "book": "1chronicles",
+            "chapter": 2,
+            "chapterId": "1chronicles2",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Chr. 3–9",
+          "start": 758,
+          "end": 768,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-chr",
+            "book": "1chronicles",
+            "chapter": 3,
+            "chapterId": "1chronicles3",
+            "verses": []
+          }
+        },
+        {
+          "text": "Ezra 2:62",
+          "start": 770,
+          "end": 779,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezra",
+            "book": "ezra",
+            "chapter": 2,
+            "chapterId": "ezra2",
+            "verses": [
+              {
+                "start": 62,
+                "end": 62
+              }
+            ]
+          }
+        },
+        {
+          "text": "Neh. 7:64",
+          "start": 781,
+          "end": 790,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "neh",
+            "book": "nehemiah",
+            "chapter": 7,
+            "chapterId": "nehemiah7",
+            "verses": [
+              {
+                "start": 64,
+                "end": 64
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "The New Testament contains two genealogies of Jesus Christ; that in Matt. 1:1–17 descends from Abraham to Jesus, being intended for Jewish readers; while that in Luke 3:23–38 ascends from Jesus to Adam, and to God, this Gospel being written for the world in general. We notice also that Luke gives 21 names between David and Zerubbabel, and Matthew gives only 15; Luke gives 17 generations between Zerubbabel and Joseph, and Matthew only 9; moreover, nearly all the names are different. The probable explanation is that the descent may be traced through two different lines. Matthew gives a legal descent and includes several adopted children, such adoption carrying with it legal rights, while Luke gives a natural descent through actual parentage.",
+      "references": [
+        {
+          "text": "Matt. 1:1–17",
+          "start": 68,
+          "end": 80,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 1,
+            "chapterId": "matthew1",
+            "verses": [
+              {
+                "start": 1,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 3:23–38",
+          "start": 162,
+          "end": 174,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 3,
+            "chapterId": "luke3",
+            "verses": [
+              {
+                "start": 23,
+                "end": 38
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Members of the Church are privileged to do vicarious ordinance work in the temple for their deceased ancestors, who, they believe, would have received the gospel if they had had the opportunity in this life. In order to do this, the dead must be properly identified. Thus genealogical research is a major activity of the Church (see D&C 127 and 128).",
+      "references": [
+        {
+          "text": "D&C 127",
+          "start": 333,
+          "end": 340,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 127,
+            "chapterId": "doctrineandcovenants127",
+            "verses": []
+          }
+        },
+        {
+          "text": "128",
+          "start": 345,
+          "end": 348,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 128,
+            "chapterId": "doctrineandcovenants128",
+            "verses": []
+          }
+        }
+      ]
+    },
+    {
+      "text": "In 1 Tim. 1:4 Timothy is urged to give no heed to “fables and endless genealogies.” The reference is probably to exaggerated stories of the heroes and patriarchs of early Hebrew history, such stories being at that time very popular among the Jews. Paul’s denunciation of “endless genealogies” was not of the scriptural and spiritually rewarding study of one’s ancestry but was a criticism of the self-deceptive practice of assuming that one can be saved by virtue of one’s lineage. See Matt. 3:9 and Luke 3:8, wherein John the Baptist rebuked those who put too much emphasis on ancestry and attempted to use lineage as a substitute for righteousness (see also 1 Ne. 17:34–35). See also Adoption.",
+      "references": [
+        {
+          "text": "1 Tim. 1:4",
+          "start": 3,
+          "end": 13,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 1,
+            "chapterId": "1timothy1",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 3:9",
+          "start": 486,
+          "end": 495,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 3,
+            "chapterId": "matthew3",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 3:8",
+          "start": 500,
+          "end": 508,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 3,
+            "chapterId": "luke3",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Ne. 17:34–35",
+          "start": 660,
+          "end": 674,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 17,
+            "chapterId": "1nephi17",
+            "verses": [
+              {
+                "start": 34,
+                "end": 35
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "genealogy",
+  "title": "Genealogy",
+  "type": "bd"
+}

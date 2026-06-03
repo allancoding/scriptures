@@ -1,0 +1,115 @@
+{
+  "_id": "tg-private",
+  "content": [
+    {
+      "text": "no prophecy of the scripture is of any private interpretation, 2 Pet. 1:20.",
+      "references": [
+        {
+          "text": "2 Pet. 1:20",
+          "start": 63,
+          "end": 74,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-pet",
+            "book": "2peter",
+            "chapter": 1,
+            "chapterId": "2peter1",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "pray … in public as well as in private, D&C 19:28 (71:7; 81:3). nor dictate forms for public or private devotion, D&C 134:4.",
+      "references": [
+        {
+          "text": "D&C 19:28",
+          "start": 40,
+          "end": 49,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 19,
+            "chapterId": "doctrineandcovenants19",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "71:7",
+          "start": 51,
+          "end": 55,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 71,
+            "chapterId": "doctrineandcovenants71",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "81:3",
+          "start": 57,
+          "end": 61,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 81,
+            "chapterId": "doctrineandcovenants81",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 134:4",
+          "start": 114,
+          "end": 123,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 134,
+            "chapterId": "doctrineandcovenants134",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-privately",
+      "slug": "privately",
+      "title": "Privately"
+    }
+  ],
+  "slug": "private",
+  "title": "Private",
+  "type": "tg"
+}

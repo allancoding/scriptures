@@ -1,0 +1,531 @@
+{
+  "_id": "tg-land",
+  "content": [
+    {
+      "text": "let the dry land appear, Gen. 1:9 (Moses 2:9). divided in their lands; every one after his tongue, Gen. 10:5. bring them up out of that land unto a good land … a land flowing with milk and honey, Ex. 3:8. east wind … made the sea dry land, Ex. 14:21. land is defiled … land itself vomiteth, Lev. 18:25. seventh year shall be a sabbath of rest unto the land, Lev. 25:4. men which Moses sent to spy out the land, Num. 13:16. blood it defileth the land … land cannot be cleansed, Num. 35:33. Israel came over this Jordan on dry land, Josh. 4:22. goodness of the Lord in the land of the living, Ps. 27:13. yet choose Israel, and set them in their own land, Isa. 14:1 (2 Ne. 24:1). shall thy land any more be termed Desolate, Isa. 62:4. I will bring them again into their land, Jer. 16:15. blessed: for ye shall be a delightsome land, Mal. 3:12 (3 Ne. 24:12).",
+      "references": [
+        {
+          "text": "Gen. 1:9",
+          "start": 25,
+          "end": 33,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 1,
+            "chapterId": "genesis1",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 2:9",
+          "start": 35,
+          "end": 44,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 2,
+            "chapterId": "moses2",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 10:5",
+          "start": 99,
+          "end": 108,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 10,
+            "chapterId": "genesis10",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 3:8",
+          "start": 196,
+          "end": 203,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 3,
+            "chapterId": "exodus3",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 14:21",
+          "start": 240,
+          "end": 249,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 14,
+            "chapterId": "exodus14",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Lev. 18:25",
+          "start": 291,
+          "end": 301,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 18,
+            "chapterId": "leviticus18",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Lev. 25:4",
+          "start": 358,
+          "end": 367,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 25,
+            "chapterId": "leviticus25",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 13:16",
+          "start": 411,
+          "end": 421,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 13,
+            "chapterId": "numbers13",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 35:33",
+          "start": 477,
+          "end": 487,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 35,
+            "chapterId": "numbers35",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "Josh. 4:22",
+          "start": 531,
+          "end": 541,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "josh",
+            "book": "joshua",
+            "chapter": 4,
+            "chapterId": "joshua4",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 27:13",
+          "start": 591,
+          "end": 600,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 27,
+            "chapterId": "psalms27",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 14:1",
+          "start": 653,
+          "end": 662,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 14,
+            "chapterId": "isaiah14",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 24:1",
+          "start": 664,
+          "end": 674,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 24,
+            "chapterId": "2nephi24",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 62:4",
+          "start": 721,
+          "end": 730,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 62,
+            "chapterId": "isaiah62",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 16:15",
+          "start": 773,
+          "end": 783,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 16,
+            "chapterId": "jeremiah16",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mal. 3:12",
+          "start": 830,
+          "end": 839,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "mal",
+            "book": "malachi",
+            "chapter": 3,
+            "chapterId": "malachi3",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 24:12",
+          "start": 841,
+          "end": 852,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 24,
+            "chapterId": "3nephi24",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "take the young child and his mother, and go into the land of Israel, Matt. 2:20. Having land, sold it, and brought the money, Acts 4:37.",
+      "references": [
+        {
+          "text": "Matt. 2:20",
+          "start": 69,
+          "end": 79,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 2,
+            "chapterId": "matthew2",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 4:37",
+          "start": 126,
+          "end": 135,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 4,
+            "chapterId": "acts4",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "leadeth away the righteous into precious lands, 1 Ne. 17:38.",
+      "references": [
+        {
+          "text": "1 Ne. 17:38",
+          "start": 48,
+          "end": 59,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 17,
+            "chapterId": "1nephi17",
+            "verses": [
+              {
+                "start": 38,
+                "end": 38
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "proved according to the laws of the land, D&C 42:79. ye shall hear of wars in your own lands, D&C 45:63. Satan is abroad in the land, D&C 52:14. Let no man break the laws of the land, D&C 58:21. proclaiming the gospel in the land of the living, D&C 81:3. certain nobleman had a spot of land, D&C 101:44. islands shall become one land, D&C 133:23.",
+      "references": [
+        {
+          "text": "D&C 42:79",
+          "start": 42,
+          "end": 51,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 42,
+            "chapterId": "doctrineandcovenants42",
+            "verses": [
+              {
+                "start": 79,
+                "end": 79
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 45:63",
+          "start": 94,
+          "end": 103,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 45,
+            "chapterId": "doctrineandcovenants45",
+            "verses": [
+              {
+                "start": 63,
+                "end": 63
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 52:14",
+          "start": 134,
+          "end": 143,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 52,
+            "chapterId": "doctrineandcovenants52",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 58:21",
+          "start": 184,
+          "end": 193,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 58,
+            "chapterId": "doctrineandcovenants58",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 81:3",
+          "start": 245,
+          "end": 253,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 81,
+            "chapterId": "doctrineandcovenants81",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 101:44",
+          "start": 292,
+          "end": 302,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 101,
+            "chapterId": "doctrineandcovenants101",
+            "verses": [
+              {
+                "start": 44,
+                "end": 44
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 133:23",
+          "start": 335,
+          "end": 345,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 133,
+            "chapterId": "doctrineandcovenants133",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-country",
+      "slug": "country",
+      "title": "Country"
+    },
+    {
+      "entryId": "tg-earth",
+      "slug": "earth",
+      "title": "Earth"
+    },
+    {
+      "entryId": "tg-ground",
+      "slug": "ground",
+      "title": "Ground"
+    }
+  ],
+  "slug": "land",
+  "title": "Land",
+  "type": "tg"
+}

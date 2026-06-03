@@ -1,0 +1,109 @@
+{
+  "_id": "tg-greedy",
+  "content": [
+    {
+      "text": "as a lion that is greedy of his prey, Ps. 17:12. that is greedy of gain troubleth his own house, Prov. 15:27. greedy dogs which can never have enough, Isa. 56:11.",
+      "references": [
+        {
+          "text": "Ps. 17:12",
+          "start": 38,
+          "end": 47,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 17,
+            "chapterId": "psalms17",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 15:27",
+          "start": 97,
+          "end": 108,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 15,
+            "chapterId": "proverbs15",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 56:11",
+          "start": 151,
+          "end": 161,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 56,
+            "chapterId": "isaiah56",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "not greedy of filthy lucre, 1 Tim. 3:3 (3:8).",
+      "references": [
+        {
+          "text": "1 Tim. 3:3",
+          "start": 28,
+          "end": 38,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 3,
+            "chapterId": "1timothy3",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "3:8",
+          "start": 40,
+          "end": 43,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 3,
+            "chapterId": "1timothy3",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "greedy",
+  "title": "Greedy",
+  "type": "tg"
+}

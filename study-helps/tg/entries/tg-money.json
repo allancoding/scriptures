@@ -1,0 +1,885 @@
+{
+  "_id": "tg-money",
+  "content": [
+    {
+      "text": "restore every man’s money into his sack, Gen. 42:25. Joseph gathered up all the money … in the land, Gen. 47:14. If thou lend money to any of my people that is poor, Ex. 22:25. thou shalt take the atonement money of the children of Israel, Ex. 30:16. shalt not give him thy money upon usury, Lev. 25:37. All the money of the dedicated things that is brought into the house of the Lord, 2 Kgs. 12:4. they saw that there was much money, 2 Chr. 24:11. money is a defence, Eccl. 7:12. money answereth all things, Eccl. 10:19. ye shall be redeemed without money, Isa. 52:3. he that hath no money; come ye, buy, and eat, Isa. 55:1–2 (2 Ne. 9:50–51). prophets thereof divine for money, Micah 3:11.",
+      "references": [
+        {
+          "text": "Gen. 42:25",
+          "start": 41,
+          "end": 51,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 42,
+            "chapterId": "genesis42",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 47:14",
+          "start": 101,
+          "end": 111,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 47,
+            "chapterId": "genesis47",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 22:25",
+          "start": 166,
+          "end": 175,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 22,
+            "chapterId": "exodus22",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 30:16",
+          "start": 240,
+          "end": 249,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 30,
+            "chapterId": "exodus30",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Lev. 25:37",
+          "start": 292,
+          "end": 302,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 25,
+            "chapterId": "leviticus25",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Kgs. 12:4",
+          "start": 386,
+          "end": 397,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 12,
+            "chapterId": "2kings12",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Chr. 24:11",
+          "start": 435,
+          "end": 447,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-chr",
+            "book": "2chronicles",
+            "chapter": 24,
+            "chapterId": "2chronicles24",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eccl. 7:12",
+          "start": 469,
+          "end": 479,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "eccl",
+            "book": "ecclesiastes",
+            "chapter": 7,
+            "chapterId": "ecclesiastes7",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eccl. 10:19",
+          "start": 509,
+          "end": 520,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "eccl",
+            "book": "ecclesiastes",
+            "chapter": 10,
+            "chapterId": "ecclesiastes10",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 52:3",
+          "start": 558,
+          "end": 567,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 52,
+            "chapterId": "isaiah52",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 55:1–2",
+          "start": 615,
+          "end": 626,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 55,
+            "chapterId": "isaiah55",
+            "verses": [
+              {
+                "start": 1,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 9:50–51",
+          "start": 628,
+          "end": 641,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 9,
+            "chapterId": "2nephi9",
+            "verses": [
+              {
+                "start": 50,
+                "end": 51
+              }
+            ]
+          }
+        },
+        {
+          "text": "Micah 3:11",
+          "start": 679,
+          "end": 689,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "micah",
+            "book": "micah",
+            "chapter": 3,
+            "chapterId": "micah3",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "thou shalt find a piece of money, Matt. 17:27. tables of the moneychangers, Matt. 21:12 (Mark 11:15). Shew me the tribute money, Matt. 22:19. digged in the earth, and hid his lord’s money, Matt. 25:18. take nothing for their journey … no scrip, no bread, no money, Mark 6:8. people cast money into the treasury, Mark 12:41. they were glad, and covenanted to give him money, Luke 22:5. found in the temple … the changers of money, John 2:14. Having land, sold it, and brought the money, Acts 4:37. Peter said unto him, Thy money perish with thee, Acts 8:20. love of money is the root of all evil, 1 Tim. 6:10.",
+      "references": [
+        {
+          "text": "Matt. 17:27",
+          "start": 34,
+          "end": 45,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 17,
+            "chapterId": "matthew17",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 21:12",
+          "start": 76,
+          "end": 87,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 21,
+            "chapterId": "matthew21",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 11:15",
+          "start": 89,
+          "end": 99,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 11,
+            "chapterId": "mark11",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 22:19",
+          "start": 129,
+          "end": 140,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 22,
+            "chapterId": "matthew22",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 25:18",
+          "start": 189,
+          "end": 200,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 25,
+            "chapterId": "matthew25",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 6:8",
+          "start": 265,
+          "end": 273,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 6,
+            "chapterId": "mark6",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 12:41",
+          "start": 312,
+          "end": 322,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 12,
+            "chapterId": "mark12",
+            "verses": [
+              {
+                "start": 41,
+                "end": 41
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 22:5",
+          "start": 374,
+          "end": 383,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 22,
+            "chapterId": "luke22",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 2:14",
+          "start": 430,
+          "end": 439,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 2,
+            "chapterId": "john2",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 4:37",
+          "start": 486,
+          "end": 495,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 4,
+            "chapterId": "acts4",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 8:20",
+          "start": 546,
+          "end": 555,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 8,
+            "chapterId": "acts8",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Tim. 6:10",
+          "start": 596,
+          "end": 607,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 6,
+            "chapterId": "1timothy6",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "buy milk and honey, without money, 2 Ne. 26:25 (Alma 1:20). if they labor for money they shall perish, 2 Ne. 26:31. that they might get money according to the suits which were brought before them, Alma 11:20. wicked go unpunished because of their money, Hel. 7:5. here is money … if thou wilt tell us, Hel. 9:20. ye shall be redeemed without money, 3 Ne. 20:38. churches built up that shall say … for your money you shall be forgiven, Morm. 8:32. ye do love money, Morm. 8:37.",
+      "references": [
+        {
+          "text": "2 Ne. 26:25",
+          "start": 35,
+          "end": 46,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 26,
+            "chapterId": "2nephi26",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 1:20",
+          "start": 48,
+          "end": 57,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 1,
+            "chapterId": "alma1",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 26:31",
+          "start": 103,
+          "end": 114,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 26,
+            "chapterId": "2nephi26",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 11:20",
+          "start": 197,
+          "end": 207,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 11,
+            "chapterId": "alma11",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 7:5",
+          "start": 254,
+          "end": 262,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 7,
+            "chapterId": "helaman7",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 9:20",
+          "start": 302,
+          "end": 311,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 9,
+            "chapterId": "helaman9",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 20:38",
+          "start": 349,
+          "end": 360,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 20,
+            "chapterId": "3nephi20",
+            "verses": [
+              {
+                "start": 38,
+                "end": 38
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 8:32",
+          "start": 435,
+          "end": 445,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 8,
+            "chapterId": "mormon8",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 8:37",
+          "start": 465,
+          "end": 475,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 8,
+            "chapterId": "mormon8",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "let all things both in money and in meat … be kept in the hands of the bishop, D&C 51:13 (51:8). epistle … unto all the churches to obtain moneys, D&C 58:51. receiveth you receiveth me … and give you money, D&C 84:89. vineyard … I have bought it with money, D&C 101:56 (103:22–23). purchase all the lands with money, D&C 101:70. let all the churches gather together all their moneys, D&C 101:72. taking possession of their own lands, which they have previously purchased with their moneys, D&C 105:30. overthrow the moneychangers, D&C 117:16.",
+      "references": [
+        {
+          "text": "D&C 51:13",
+          "start": 79,
+          "end": 88,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 51,
+            "chapterId": "doctrineandcovenants51",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "51:8",
+          "start": 90,
+          "end": 94,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 51,
+            "chapterId": "doctrineandcovenants51",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 58:51",
+          "start": 147,
+          "end": 156,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 58,
+            "chapterId": "doctrineandcovenants58",
+            "verses": [
+              {
+                "start": 51,
+                "end": 51
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 84:89",
+          "start": 207,
+          "end": 216,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 84,
+            "chapterId": "doctrineandcovenants84",
+            "verses": [
+              {
+                "start": 89,
+                "end": 89
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 101:56",
+          "start": 258,
+          "end": 268,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 101,
+            "chapterId": "doctrineandcovenants101",
+            "verses": [
+              {
+                "start": 56,
+                "end": 56
+              }
+            ]
+          }
+        },
+        {
+          "text": "103:22–23",
+          "start": 270,
+          "end": 279,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 103,
+            "chapterId": "doctrineandcovenants103",
+            "verses": [
+              {
+                "start": 22,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 101:70",
+          "start": 317,
+          "end": 327,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 101,
+            "chapterId": "doctrineandcovenants101",
+            "verses": [
+              {
+                "start": 70,
+                "end": 70
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 101:72",
+          "start": 384,
+          "end": 394,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 101,
+            "chapterId": "doctrineandcovenants101",
+            "verses": [
+              {
+                "start": 72,
+                "end": 72
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 105:30",
+          "start": 490,
+          "end": 500,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 105,
+            "chapterId": "doctrineandcovenants105",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 117:16",
+          "start": 531,
+          "end": 541,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 117,
+            "chapterId": "doctrineandcovenants117",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Hence arose the … story of my having been a money-digger, JS—H 1:56.",
+      "references": [
+        {
+          "text": "JS—H 1:56",
+          "start": 58,
+          "end": 67,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 56,
+                "end": 56
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-bribe",
+      "slug": "bribe",
+      "title": "Bribe"
+    },
+    {
+      "entryId": "tg-debt",
+      "slug": "debt",
+      "title": "Debt"
+    },
+    {
+      "entryId": "tg-family-managing-finances-in",
+      "slug": "family-managing-finances-in",
+      "title": "Family, Managing Finances in"
+    },
+    {
+      "entryId": "tg-mammon",
+      "slug": "mammon",
+      "title": "Mammon"
+    },
+    {
+      "entryId": "tg-priestcraft",
+      "slug": "priestcraft",
+      "title": "Priestcraft"
+    },
+    {
+      "entryId": "tg-riches",
+      "slug": "riches",
+      "title": "Riches"
+    },
+    {
+      "entryId": "tg-treasure",
+      "slug": "treasure",
+      "title": "Treasure"
+    },
+    {
+      "entryId": "tg-wealth",
+      "slug": "wealth",
+      "title": "Wealth"
+    }
+  ],
+  "slug": "money",
+  "title": "Money",
+  "type": "tg"
+}

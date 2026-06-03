@@ -1,0 +1,50 @@
+{
+  "_id": "index-abyss",
+  "content": [
+    {
+      "text": "Alma2 in darkest abyss, Mosiah 27:29. Lamanites in darkest abyss, Alma 26:3.",
+      "references": [
+        {
+          "text": "Mosiah 27:29",
+          "start": 24,
+          "end": 36,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 27,
+            "chapterId": "mosiah27",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 26:3",
+          "start": 66,
+          "end": 75,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 26,
+            "chapterId": "alma26",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "abyss",
+  "title": "Abyss",
+  "type": "index"
+}

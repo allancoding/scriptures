@@ -1,0 +1,72 @@
+{
+  "_id": "bd-ur",
+  "content": [
+    {
+      "text": "Light. Ur of the Chaldees was the original home of Abram (Gen. 11:28, 31; 15:7; Neh. 9:7). It is identified with modern Mugheir, now 150 miles from the Persian Gulf, but in those days it was a busy seaport town.",
+      "references": [
+        {
+          "text": "Gen. 11:28, 31",
+          "start": 58,
+          "end": 72,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 11,
+            "chapterId": "genesis11",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              },
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "15:7",
+          "start": 74,
+          "end": 78,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 15,
+            "chapterId": "genesis15",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Neh. 9:7",
+          "start": 80,
+          "end": 88,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "neh",
+            "book": "nehemiah",
+            "chapter": 9,
+            "chapterId": "nehemiah9",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "ur",
+  "title": "Ur",
+  "type": "bd"
+}

@@ -1,0 +1,43 @@
+{
+  "_id": "tg-equality",
+  "content": [
+    {
+      "text": "for your want: that there may be equality, 2 Cor. 8:14.",
+      "references": [
+        {
+          "text": "2 Cor. 8:14",
+          "start": 43,
+          "end": 54,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 8,
+            "chapterId": "2corinthians8",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-consecration",
+      "slug": "consecration",
+      "title": "Consecration"
+    },
+    {
+      "entryId": "tg-justice",
+      "slug": "justice",
+      "title": "Justice"
+    }
+  ],
+  "slug": "equality",
+  "title": "Equality",
+  "type": "tg"
+}

@@ -1,0 +1,50 @@
+{
+  "_id": "index-mahan",
+  "content": [
+    {
+      "text": "Cain is Mahan, master of great secret, Moses 5:30–31. Lamech1 becomes Master Mahan, Moses 5:49.",
+      "references": [
+        {
+          "text": "Moses 5:30–31",
+          "start": 39,
+          "end": 52,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 5,
+            "chapterId": "moses5",
+            "verses": [
+              {
+                "start": 30,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 5:49",
+          "start": 84,
+          "end": 94,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 5,
+            "chapterId": "moses5",
+            "verses": [
+              {
+                "start": 49,
+                "end": 49
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "mahan",
+  "title": "Mahan",
+  "type": "index"
+}

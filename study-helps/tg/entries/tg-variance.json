@@ -1,0 +1,38 @@
+{
+  "_id": "tg-variance",
+  "content": [
+    {
+      "text": "I am come to set a man at variance against his father, Matt. 10:35.",
+      "references": [
+        {
+          "text": "Matt. 10:35",
+          "start": 55,
+          "end": 66,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 10,
+            "chapterId": "matthew10",
+            "verses": [
+              {
+                "start": 35,
+                "end": 35
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-dissension",
+      "slug": "dissension",
+      "title": "Dissension"
+    }
+  ],
+  "slug": "variance",
+  "title": "Variance",
+  "type": "tg"
+}

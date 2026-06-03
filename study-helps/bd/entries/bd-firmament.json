@@ -1,0 +1,80 @@
+{
+  "_id": "bd-firmament",
+  "content": [
+    {
+      "text": "The expanse of the heavens. It is the KJV English translation of a Hebrew word meaning expanse, and is spoken of in Gen. 1; Ps. 19:1; Moses 2; Abr. 4; Abr., fac. 1, fig. 12; see esp. Abr. 4:7–8, 20.",
+      "references": [
+        {
+          "text": "Gen. 1",
+          "start": 116,
+          "end": 122,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 1,
+            "chapterId": "genesis1",
+            "verses": []
+          }
+        },
+        {
+          "text": "Ps. 19:1",
+          "start": 124,
+          "end": 132,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 19,
+            "chapterId": "psalms19",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 2",
+          "start": 134,
+          "end": 141,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 2,
+            "chapterId": "moses2",
+            "verses": []
+          }
+        },
+        {
+          "text": "Abr. 4:7–8, 20",
+          "start": 183,
+          "end": 197,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 4,
+            "chapterId": "abraham4",
+            "verses": [
+              {
+                "start": 7,
+                "end": 8
+              },
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "firmament",
+  "title": "Firmament",
+  "type": "bd"
+}

@@ -1,0 +1,104 @@
+{
+  "_id": "bd-bethany",
+  "content": [
+    {
+      "text": "House of the poor. Village two miles from Jerusalem, on the southeast slope of Olivet; the home of Lazarus, Mary, and Martha (John 11:1–46; 12:1) and of Simon (Mark 14:3); the village in which our Lord stayed during Holy Week (Matt. 21:17; Mark 11:11).",
+      "references": [
+        {
+          "text": "John 11:1–46",
+          "start": 126,
+          "end": 138,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 11,
+            "chapterId": "john11",
+            "verses": [
+              {
+                "start": 1,
+                "end": 46
+              }
+            ]
+          }
+        },
+        {
+          "text": "12:1",
+          "start": 140,
+          "end": 144,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 12,
+            "chapterId": "john12",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 14:3",
+          "start": 160,
+          "end": 169,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 14,
+            "chapterId": "mark14",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 21:17",
+          "start": 227,
+          "end": 238,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 21,
+            "chapterId": "matthew21",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 11:11",
+          "start": 240,
+          "end": 250,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 11,
+            "chapterId": "mark11",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "bethany",
+  "title": "Bethany",
+  "type": "bd"
+}

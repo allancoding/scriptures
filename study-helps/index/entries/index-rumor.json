@@ -1,0 +1,147 @@
+{
+  "_id": "index-rumor",
+  "content": [
+    {
+      "text": "wars and rumors of wars, 1 Ne. 12:2, 21 (14:15–16; 2 Ne. 25:12; Morm. 8:30). Satan spreads rumors and contentions upon land, Hel. 16:22.",
+      "references": [
+        {
+          "text": "1 Ne. 12:2, 21",
+          "start": 25,
+          "end": 39,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 12,
+            "chapterId": "1nephi12",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              },
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "14:15–16",
+          "start": 41,
+          "end": 49,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 14,
+            "chapterId": "1nephi14",
+            "verses": [
+              {
+                "start": 15,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 25:12",
+          "start": 51,
+          "end": 62,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 25,
+            "chapterId": "2nephi25",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 8:30",
+          "start": 64,
+          "end": 74,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 8,
+            "chapterId": "mormon8",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 16:22",
+          "start": 125,
+          "end": 135,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 16,
+            "chapterId": "helaman16",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Saints shall hear of wars and rumors of wars, D&C 45:26.",
+      "references": [
+        {
+          "text": "D&C 45:26",
+          "start": 46,
+          "end": 55,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 45,
+            "chapterId": "doctrineandcovenants45",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-backbiting",
+      "slug": "backbiting",
+      "title": "Backbiting"
+    },
+    {
+      "entryId": "index-report",
+      "slug": "report",
+      "title": "Report"
+    },
+    {
+      "entryId": "index-slander",
+      "slug": "slander",
+      "title": "Slander"
+    }
+  ],
+  "slug": "rumor",
+  "title": "Rumor",
+  "type": "index"
+}

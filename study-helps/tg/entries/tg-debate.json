@@ -1,0 +1,73 @@
+{
+  "_id": "tg-debate",
+  "content": [
+    {
+      "text": "Debate thy cause with thy neighbour, Prov. 25:9. ye fast for strife and debate, Isa. 58:4.",
+      "references": [
+        {
+          "text": "Prov. 25:9",
+          "start": 37,
+          "end": 47,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 25,
+            "chapterId": "proverbs25",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 58:4",
+          "start": 80,
+          "end": 89,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 58,
+            "chapterId": "isaiah58",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "lest there be debates, 2 Cor. 12:20.",
+      "references": [
+        {
+          "text": "2 Cor. 12:20",
+          "start": 23,
+          "end": 35,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 12,
+            "chapterId": "2corinthians12",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "debate",
+  "title": "Debate",
+  "type": "tg"
+}

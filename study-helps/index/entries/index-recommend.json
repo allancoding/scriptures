@@ -1,0 +1,79 @@
+{
+  "_id": "index-recommend",
+  "content": [
+    {
+      "text": "Church leaders to take recommend when they travel, D&C 52:41. elders who give account to bishop should be recommended by Church, D&C 72:19. those recommended and authorized by Twelve shall have power, D&C 112:21.",
+      "references": [
+        {
+          "text": "D&C 52:41",
+          "start": 51,
+          "end": 60,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 52,
+            "chapterId": "doctrineandcovenants52",
+            "verses": [
+              {
+                "start": 41,
+                "end": 41
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 72:19",
+          "start": 129,
+          "end": 138,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 72,
+            "chapterId": "doctrineandcovenants72",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 112:21",
+          "start": 201,
+          "end": 211,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 112,
+            "chapterId": "doctrineandcovenants112",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-certificate",
+      "slug": "certificate",
+      "title": "Certificate"
+    },
+    {
+      "entryId": "index-license",
+      "slug": "license",
+      "title": "License"
+    }
+  ],
+  "slug": "recommend",
+  "title": "Recommend",
+  "type": "index"
+}

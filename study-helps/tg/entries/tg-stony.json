@@ -1,0 +1,97 @@
+{
+  "_id": "tg-stony",
+  "content": [
+    {
+      "text": "I will take the stony heart out, Ezek. 11:19 (36:26).",
+      "references": [
+        {
+          "text": "Ezek. 11:19",
+          "start": 33,
+          "end": 44,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 11,
+            "chapterId": "ezekiel11",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "36:26",
+          "start": 46,
+          "end": 51,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 36,
+            "chapterId": "ezekiel36",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Some fell upon stony places, Matt. 13:5 (Mark 4:5).",
+      "references": [
+        {
+          "text": "Matt. 13:5",
+          "start": 29,
+          "end": 39,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 13,
+            "chapterId": "matthew13",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 4:5",
+          "start": 41,
+          "end": 49,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 4,
+            "chapterId": "mark4",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-stone",
+      "slug": "stone",
+      "title": "Stone"
+    }
+  ],
+  "slug": "stony",
+  "title": "Stony",
+  "type": "tg"
+}

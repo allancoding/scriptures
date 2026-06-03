@@ -1,0 +1,97 @@
+{
+  "_id": "tg-danger",
+  "content": [
+    {
+      "text": "shall kill shall be in danger of the judgment, Matt. 5:21 (3 Ne. 12:21). blaspheme against the Holy Ghost … is in danger of eternal damnation, Mark 3:29. our craft is in danger to be set at nought, Acts 19:27.",
+      "references": [
+        {
+          "text": "Matt. 5:21",
+          "start": 47,
+          "end": 57,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 5,
+            "chapterId": "matthew5",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 12:21",
+          "start": 59,
+          "end": 70,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 12,
+            "chapterId": "3nephi12",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 3:29",
+          "start": 143,
+          "end": 152,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 3,
+            "chapterId": "mark3",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 19:27",
+          "start": 198,
+          "end": 208,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 19,
+            "chapterId": "acts19",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-jeopardy",
+      "slug": "jeopardy",
+      "title": "Jeopardy"
+    },
+    {
+      "entryId": "tg-peril",
+      "slug": "peril",
+      "title": "Peril"
+    }
+  ],
+  "slug": "danger",
+  "title": "Danger",
+  "type": "tg"
+}

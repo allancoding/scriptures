@@ -1,0 +1,38 @@
+{
+  "_id": "index-wholesome",
+  "content": [
+    {
+      "text": "wholesome herbs for use of man, D&C 89:10.",
+      "references": [
+        {
+          "text": "D&C 89:10",
+          "start": 32,
+          "end": 41,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 89,
+            "chapterId": "doctrineandcovenants89",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-whole",
+      "slug": "whole",
+      "title": "Whole"
+    }
+  ],
+  "slug": "wholesome",
+  "title": "Wholesome",
+  "type": "index"
+}

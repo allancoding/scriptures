@@ -1,0 +1,86 @@
+{
+  "_id": "tg-earthly",
+  "content": [
+    {
+      "text": "told you earthly things, and ye believe not, John 3:12. he that is of the earth is earthly, John 3:31. our earthly house of this tabernacle, 2 Cor. 5:1. This wisdom descendeth not from above, but is earthly, James 3:15.",
+      "references": [
+        {
+          "text": "John 3:12",
+          "start": 45,
+          "end": 54,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 3,
+            "chapterId": "john3",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 3:31",
+          "start": 92,
+          "end": 101,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 3,
+            "chapterId": "john3",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Cor. 5:1",
+          "start": 141,
+          "end": 151,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 5,
+            "chapterId": "2corinthians5",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "James 3:15",
+          "start": 208,
+          "end": 218,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "james",
+            "book": "james",
+            "chapter": 3,
+            "chapterId": "james3",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "earthly",
+  "title": "Earthly",
+  "type": "tg"
+}

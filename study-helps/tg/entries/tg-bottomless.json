@@ -1,0 +1,50 @@
+{
+  "_id": "tg-bottomless",
+  "content": [
+    {
+      "text": "to him was given the key of the bottomless pit, Rev. 9:1. cast him into the bottomless pit, Rev. 20:3.",
+      "references": [
+        {
+          "text": "Rev. 9:1",
+          "start": 48,
+          "end": 56,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 9,
+            "chapterId": "revelation9",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 20:3",
+          "start": 92,
+          "end": 101,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 20,
+            "chapterId": "revelation20",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "bottomless",
+  "title": "Bottomless",
+  "type": "tg"
+}

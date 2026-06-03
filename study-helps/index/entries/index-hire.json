@@ -1,0 +1,97 @@
+{
+  "_id": "index-hire",
+  "content": [
+    {
+      "text": "laborer is worthy of his hire, D&C 31:5 (84:79; 106:3). he who is appointed to administer spiritual things is worthy of his hire, D&C 70:12.",
+      "references": [
+        {
+          "text": "D&C 31:5",
+          "start": 31,
+          "end": 39,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 31,
+            "chapterId": "doctrineandcovenants31",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "84:79",
+          "start": 41,
+          "end": 46,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 84,
+            "chapterId": "doctrineandcovenants84",
+            "verses": [
+              {
+                "start": 79,
+                "end": 79
+              }
+            ]
+          }
+        },
+        {
+          "text": "106:3",
+          "start": 48,
+          "end": 53,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 106,
+            "chapterId": "doctrineandcovenants106",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 70:12",
+          "start": 130,
+          "end": 139,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 70,
+            "chapterId": "doctrineandcovenants70",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-employ",
+      "slug": "employ",
+      "title": "Employ"
+    },
+    {
+      "entryId": "index-wages",
+      "slug": "wages",
+      "title": "Wages"
+    }
+  ],
+  "slug": "hire",
+  "title": "Hire",
+  "type": "index"
+}

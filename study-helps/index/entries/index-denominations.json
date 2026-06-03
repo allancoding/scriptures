@@ -1,0 +1,43 @@
+{
+  "_id": "index-denominations",
+  "content": [
+    {
+      "text": "many pure in heart among denominations, D&C 123:12.",
+      "references": [
+        {
+          "text": "D&C 123:12",
+          "start": 40,
+          "end": 50,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 123,
+            "chapterId": "doctrineandcovenants123",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-churches-false",
+      "slug": "churches-false",
+      "title": "Churches, False"
+    },
+    {
+      "entryId": "index-sect",
+      "slug": "sect",
+      "title": "Sect"
+    }
+  ],
+  "slug": "denominations",
+  "title": "Denominations",
+  "type": "index"
+}

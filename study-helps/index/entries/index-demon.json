@@ -1,0 +1,48 @@
+{
+  "_id": "index-demon",
+  "content": [
+    {
+      "text": "we are surrounded by demons, Hel. 13:37.",
+      "references": [
+        {
+          "text": "Hel. 13:37",
+          "start": 29,
+          "end": 39,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 13,
+            "chapterId": "helaman13",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-angels-of-the-devil",
+      "slug": "angels-of-the-devil",
+      "title": "Angels of the Devil"
+    },
+    {
+      "entryId": "index-devils",
+      "slug": "devils",
+      "title": "Devils"
+    },
+    {
+      "entryId": "index-spirit-evil",
+      "slug": "spirit-evil",
+      "title": "Spirit, Evil"
+    }
+  ],
+  "slug": "demon",
+  "title": "Demon",
+  "type": "index"
+}

@@ -1,0 +1,61 @@
+{
+  "_id": "index-valid",
+  "content": [
+    {
+      "text": "all members must be agreed to make quorums’ decisions same validity, D&C 107:27. marriages not sealed by the Holy Spirit of Promise are not valid when they are out of world, D&C 132:18.",
+      "references": [
+        {
+          "text": "D&C 107:27",
+          "start": 69,
+          "end": 79,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 107,
+            "chapterId": "doctrineandcovenants107",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 132:18",
+          "start": 174,
+          "end": 184,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 132,
+            "chapterId": "doctrineandcovenants132",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-effect",
+      "slug": "effect",
+      "title": "Effect"
+    },
+    {
+      "entryId": "index-void",
+      "slug": "void",
+      "title": "Void"
+    }
+  ],
+  "slug": "valid",
+  "title": "Valid, Validity",
+  "type": "index"
+}

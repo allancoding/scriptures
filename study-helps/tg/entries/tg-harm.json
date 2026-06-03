@@ -1,0 +1,184 @@
+{
+  "_id": "tg-harm",
+  "content": [
+    {
+      "text": "do my prophets no harm, 1 Chr. 16:22 (Ps. 105:15).",
+      "references": [
+        {
+          "text": "1 Chr. 16:22",
+          "start": 24,
+          "end": 36,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-chr",
+            "book": "1chronicles",
+            "chapter": 16,
+            "chapterId": "1chronicles16",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 105:15",
+          "start": 38,
+          "end": 48,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 105,
+            "chapterId": "psalms105",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "beast into the fire, and felt no harm, Acts 28:5. who is he that will harm you, 1 Pet. 3:13.",
+      "references": [
+        {
+          "text": "Acts 28:5",
+          "start": 39,
+          "end": 48,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 28,
+            "chapterId": "acts28",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Pet. 3:13",
+          "start": 80,
+          "end": 91,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-pet",
+            "book": "1peter",
+            "chapter": 3,
+            "chapterId": "1peter3",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "cast into a furnace and received no harm, 3 Ne. 28:21 (4 Ne. 1:32).",
+      "references": [
+        {
+          "text": "3 Ne. 28:21",
+          "start": 42,
+          "end": 53,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 28,
+            "chapterId": "3nephi28",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "4 Ne. 1:32",
+          "start": 55,
+          "end": 65,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "4-ne",
+            "book": "4nephi",
+            "chapter": 1,
+            "chapterId": "4nephi1",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Deceive and lie in wait … this is no harm, D&C 10:25. poison of a serpent shall not have power to harm them, D&C 84:72.",
+      "references": [
+        {
+          "text": "D&C 10:25",
+          "start": 43,
+          "end": 52,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 10,
+            "chapterId": "doctrineandcovenants10",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 84:72",
+          "start": 109,
+          "end": 118,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 84,
+            "chapterId": "doctrineandcovenants84",
+            "verses": [
+              {
+                "start": 72,
+                "end": 72
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-hurt",
+      "slug": "hurt",
+      "title": "Hurt"
+    },
+    {
+      "entryId": "tg-mischief",
+      "slug": "mischief",
+      "title": "Mischief"
+    }
+  ],
+  "slug": "harm",
+  "title": "Harm",
+  "type": "tg"
+}

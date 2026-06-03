@@ -1,0 +1,79 @@
+{
+  "_id": "index-sad",
+  "content": [
+    {
+      "text": "fast not as hypocrites, of sad countenance, 3 Ne. 13:16. Moroni2 alone left to write sad tale of Nephites’ destruction, Morm. 8:3.",
+      "references": [
+        {
+          "text": "3 Ne. 13:16",
+          "start": 44,
+          "end": 55,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 13,
+            "chapterId": "3nephi13",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 8:3",
+          "start": 120,
+          "end": 129,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 8,
+            "chapterId": "mormon8",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "we have learned by sad experience, D&C 121:39.",
+      "references": [
+        {
+          "text": "D&C 121:39",
+          "start": 35,
+          "end": 45,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 39,
+                "end": 39
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-sorrow",
+      "slug": "sorrow",
+      "title": "Sorrow"
+    }
+  ],
+  "slug": "sad",
+  "title": "Sad",
+  "type": "index"
+}

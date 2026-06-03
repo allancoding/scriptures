@@ -1,0 +1,78 @@
+{
+  "_id": "index-constitution",
+  "content": [
+    {
+      "text": "constitutional law should be befriended, D&C 98:5–6. the Lord caused Constitution to be established, D&C 101:77, 80. prayer that Constitution be maintained, D&C 109:54.",
+      "references": [
+        {
+          "text": "D&C 98:5–6",
+          "start": 41,
+          "end": 51,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 98,
+            "chapterId": "doctrineandcovenants98",
+            "verses": [
+              {
+                "start": 5,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 101:77, 80",
+          "start": 101,
+          "end": 115,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 101,
+            "chapterId": "doctrineandcovenants101",
+            "verses": [
+              {
+                "start": 77,
+                "end": 77
+              },
+              {
+                "start": 80,
+                "end": 80
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 109:54",
+          "start": 157,
+          "end": 167,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 109,
+            "chapterId": "doctrineandcovenants109",
+            "verses": [
+              {
+                "start": 54,
+                "end": 54
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-government-civil",
+      "slug": "government-civil",
+      "title": "Government, Civil"
+    }
+  ],
+  "slug": "constitution",
+  "title": "Constitution",
+  "type": "index"
+}

@@ -1,0 +1,43 @@
+{
+  "_id": "index-babblings",
+  "content": [
+    {
+      "text": "those who do not belong to Church indulge themselves in babblings, Alma 1:32.",
+      "references": [
+        {
+          "text": "Alma 1:32",
+          "start": 67,
+          "end": 76,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 1,
+            "chapterId": "alma1",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-gossip",
+      "slug": "gossip",
+      "title": "Gossip"
+    },
+    {
+      "entryId": "index-slander",
+      "slug": "slander",
+      "title": "Slander"
+    }
+  ],
+  "slug": "babblings",
+  "title": "Babblings",
+  "type": "index"
+}

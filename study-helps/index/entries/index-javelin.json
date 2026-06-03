@@ -1,0 +1,74 @@
+{
+  "_id": "index-javelin",
+  "content": [
+    {
+      "text": "Nephites make javelins, Jarom 1:8. Teancum puts javelin through Amalickiah’s heart, Alma 51:34. Teancum kills Ammoron with javelin, Alma 62:36.",
+      "references": [
+        {
+          "text": "Jarom 1:8",
+          "start": 24,
+          "end": 33,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jarom",
+            "book": "jarom",
+            "chapter": 1,
+            "chapterId": "jarom1",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 51:34",
+          "start": 84,
+          "end": 94,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 51,
+            "chapterId": "alma51",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 62:36",
+          "start": 132,
+          "end": 142,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 62,
+            "chapterId": "alma62",
+            "verses": [
+              {
+                "start": 36,
+                "end": 36
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-weapon",
+      "slug": "weapon",
+      "title": "Weapon"
+    }
+  ],
+  "slug": "javelin",
+  "title": "Javelin",
+  "type": "index"
+}

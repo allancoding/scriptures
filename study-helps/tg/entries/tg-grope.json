@@ -1,0 +1,50 @@
+{
+  "_id": "tg-grope",
+  "content": [
+    {
+      "text": "grope at noonday, as the blind gropeth in darkness, Deut. 28:29. grope for the wall like the blind, and we grope, Isa. 59:10.",
+      "references": [
+        {
+          "text": "Deut. 28:29",
+          "start": 52,
+          "end": 63,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 28,
+            "chapterId": "deuteronomy28",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 59:10",
+          "start": 114,
+          "end": 124,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 59,
+            "chapterId": "isaiah59",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "grope",
+  "title": "Grope",
+  "type": "tg"
+}

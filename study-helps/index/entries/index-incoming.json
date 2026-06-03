@@ -1,0 +1,54 @@
+{
+  "_id": "index-incoming",
+  "content": [
+    {
+      "text": "incomings and outgoings should be in the Lord’s name, D&C 88:120 (109:9, 17–18).",
+      "references": [
+        {
+          "text": "D&C 88:120",
+          "start": 54,
+          "end": 64,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 120,
+                "end": 120
+              }
+            ]
+          }
+        },
+        {
+          "text": "109:9, 17–18",
+          "start": 66,
+          "end": 78,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 109,
+            "chapterId": "doctrineandcovenants109",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              },
+              {
+                "start": 17,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "incoming",
+  "title": "Incoming",
+  "type": "index"
+}

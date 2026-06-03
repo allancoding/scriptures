@@ -1,0 +1,101 @@
+{
+  "_id": "index-whisper",
+  "content": [
+    {
+      "text": "their speech shall whisper out of dust, 2 Ne. 26:16. devil whispers in men’s ears until he grasps them in chains, 2 Ne. 28:22. voice from heaven is perfectly mild as whisper, Hel. 5:30, 46.",
+      "references": [
+        {
+          "text": "2 Ne. 26:16",
+          "start": 40,
+          "end": 51,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 26,
+            "chapterId": "2nephi26",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 28:22",
+          "start": 114,
+          "end": 125,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 28,
+            "chapterId": "2nephi28",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 5:30, 46",
+          "start": 175,
+          "end": 188,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 5,
+            "chapterId": "helaman5",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              },
+              {
+                "start": 46,
+                "end": 46
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "still small voice whispers through and pierces all things, D&C 85:6.",
+      "references": [
+        {
+          "text": "D&C 85:6",
+          "start": 59,
+          "end": 67,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 85,
+            "chapterId": "doctrineandcovenants85",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-speak",
+      "slug": "speak",
+      "title": "Speak"
+    }
+  ],
+  "slug": "whisper",
+  "title": "Whisper",
+  "type": "index"
+}

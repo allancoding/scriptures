@@ -1,0 +1,68 @@
+{
+  "_id": "tg-brick",
+  "content": [
+    {
+      "text": "let us make brick, Gen. 11:3. with hard bondage, in mortar, and in brick, Ex. 1:14. shall no more give the people straw to make brick, Ex. 5:7.",
+      "references": [
+        {
+          "text": "Gen. 11:3",
+          "start": 19,
+          "end": 28,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 11,
+            "chapterId": "genesis11",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 1:14",
+          "start": 74,
+          "end": 82,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 1,
+            "chapterId": "exodus1",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 5:7",
+          "start": 135,
+          "end": 142,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 5,
+            "chapterId": "exodus5",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "brick",
+  "title": "Brick",
+  "type": "tg"
+}

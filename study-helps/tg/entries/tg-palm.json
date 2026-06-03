@@ -1,0 +1,120 @@
+{
+  "_id": "tg-palm",
+  "content": [
+    {
+      "text": "Jericho, the city of palm trees, Deut. 34:3 (2 Chr. 28:15).",
+      "references": [
+        {
+          "text": "Deut. 34:3",
+          "start": 33,
+          "end": 43,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 34,
+            "chapterId": "deuteronomy34",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Chr. 28:15",
+          "start": 45,
+          "end": 57,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-chr",
+            "book": "2chronicles",
+            "chapter": 28,
+            "chapterId": "2chronicles28",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Took branches of palm trees, and went forth to meet him, John 12:13. clothed with white robes, and palms in their hands, Rev. 7:9.",
+      "references": [
+        {
+          "text": "John 12:13",
+          "start": 57,
+          "end": 67,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 12,
+            "chapterId": "john12",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 7:9",
+          "start": 121,
+          "end": 129,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 7,
+            "chapterId": "revelation7",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "clothed upon with robes of righteousness, with palms in our hands, D&C 109:76.",
+      "references": [
+        {
+          "text": "D&C 109:76",
+          "start": 67,
+          "end": 77,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 109,
+            "chapterId": "doctrineandcovenants109",
+            "verses": [
+              {
+                "start": 76,
+                "end": 76
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-tree",
+      "slug": "tree",
+      "title": "Tree"
+    }
+  ],
+  "slug": "palm",
+  "title": "Palm",
+  "type": "tg"
+}

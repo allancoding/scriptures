@@ -1,0 +1,50 @@
+{
+  "_id": "bd-dothan",
+  "content": [
+    {
+      "text": "A town 10 miles north of Samaria, well known for its good pastures (Gen. 37:17; 2 Kgs. 6:13).",
+      "references": [
+        {
+          "text": "Gen. 37:17",
+          "start": 68,
+          "end": 78,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 37,
+            "chapterId": "genesis37",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Kgs. 6:13",
+          "start": 80,
+          "end": 91,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 6,
+            "chapterId": "2kings6",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "dothan",
+  "title": "Dothan",
+  "type": "bd"
+}

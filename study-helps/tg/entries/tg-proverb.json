@@ -1,0 +1,228 @@
+{
+  "_id": "tg-proverb",
+  "content": [
+    {
+      "text": "they that speak in proverbs say, Come into Heshbon, Num. 21:27. thou shalt become an astonishment, a proverb, Deut. 28:37. it became a proverb, Is Saul also among the prophets, 1 Sam. 10:12. he spake three thousand proverbs, 1 Kgs. 4:32. Israel shall be a proverb and a byword, 1 Kgs. 9:7 (2 Chr. 7:20). understand a proverb, Prov. 1:6. to be a reproach and a proverb, Jer. 24:9.",
+      "references": [
+        {
+          "text": "Num. 21:27",
+          "start": 52,
+          "end": 62,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 21,
+            "chapterId": "numbers21",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 28:37",
+          "start": 110,
+          "end": 121,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 28,
+            "chapterId": "deuteronomy28",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Sam. 10:12",
+          "start": 177,
+          "end": 189,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 10,
+            "chapterId": "1samuel10",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Kgs. 4:32",
+          "start": 225,
+          "end": 236,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 4,
+            "chapterId": "1kings4",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Kgs. 9:7",
+          "start": 278,
+          "end": 288,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 9,
+            "chapterId": "1kings9",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Chr. 7:20",
+          "start": 290,
+          "end": 301,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-chr",
+            "book": "2chronicles",
+            "chapter": 7,
+            "chapterId": "2chronicles7",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 1:6",
+          "start": 326,
+          "end": 335,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 1,
+            "chapterId": "proverbs1",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 24:9",
+          "start": 369,
+          "end": 378,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 24,
+            "chapterId": "jeremiah24",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "say unto me this proverb, Physician, heal thyself, Luke 4:23. These things have I spoken unto you in proverbs, John 16:25. happened unto them according to the true proverb, 2 Pet. 2:22.",
+      "references": [
+        {
+          "text": "Luke 4:23",
+          "start": 51,
+          "end": 60,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 4,
+            "chapterId": "luke4",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 16:25",
+          "start": 111,
+          "end": 121,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 16,
+            "chapterId": "john16",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Pet. 2:22",
+          "start": 173,
+          "end": 184,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-pet",
+            "book": "2peter",
+            "chapter": 2,
+            "chapterId": "2peter2",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-byword",
+      "slug": "byword",
+      "title": "Byword"
+    },
+    {
+      "entryId": "tg-parable",
+      "slug": "parable",
+      "title": "Parable"
+    }
+  ],
+  "slug": "proverb",
+  "title": "Proverb",
+  "type": "tg"
+}

@@ -1,0 +1,74 @@
+{
+  "_id": "tg-pilgrim",
+  "content": [
+    {
+      "text": "they were strangers and pilgrims on the earth, Heb. 11:13 (D&C 45:13). I beseech you as strangers and pilgrims, 1 Pet. 2:11.",
+      "references": [
+        {
+          "text": "Heb. 11:13",
+          "start": 47,
+          "end": 57,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 11,
+            "chapterId": "hebrews11",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 45:13",
+          "start": 59,
+          "end": 68,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 45,
+            "chapterId": "doctrineandcovenants45",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Pet. 2:11",
+          "start": 112,
+          "end": 123,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-pet",
+            "book": "1peter",
+            "chapter": 2,
+            "chapterId": "1peter2",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-pilgrimage",
+      "slug": "pilgrimage",
+      "title": "Pilgrimage"
+    }
+  ],
+  "slug": "pilgrim",
+  "title": "Pilgrim",
+  "type": "tg"
+}

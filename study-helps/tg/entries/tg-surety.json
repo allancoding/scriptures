@@ -1,0 +1,233 @@
+{
+  "_id": "tg-surety",
+  "content": [
+    {
+      "text": "I will be surety for him, Gen. 43:9. if thou be surety for thy friend, Prov. 6:1. He that is surety for a stranger, Prov. 11:15.",
+      "references": [
+        {
+          "text": "Gen. 43:9",
+          "start": 26,
+          "end": 35,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 43,
+            "chapterId": "genesis43",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 6:1",
+          "start": 71,
+          "end": 80,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 6,
+            "chapterId": "proverbs6",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 11:15",
+          "start": 116,
+          "end": 127,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 11,
+            "chapterId": "proverbs11",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Jesus made a surety of a better testament, Heb. 7:22.",
+      "references": [
+        {
+          "text": "Heb. 7:22",
+          "start": 43,
+          "end": 52,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 7,
+            "chapterId": "hebrews7",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "know of a surety that the Lord hath protected my sons, 1 Ne. 5:8. prophecies of Isaiah shall be fulfilled men shall know of a surety, 2 Ne. 25:7. show unto us a sign … we shall know of a surety, Alma 32:17. Ye cannot know of their surety at first, Alma 32:26. believeth in God might with surety hope for a better world, Ether 12:4.",
+      "references": [
+        {
+          "text": "1 Ne. 5:8",
+          "start": 55,
+          "end": 64,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 5,
+            "chapterId": "1nephi5",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 25:7",
+          "start": 134,
+          "end": 144,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 25,
+            "chapterId": "2nephi25",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 32:17",
+          "start": 195,
+          "end": 205,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 32,
+            "chapterId": "alma32",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 32:26",
+          "start": 248,
+          "end": 258,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 32,
+            "chapterId": "alma32",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 12:4",
+          "start": 320,
+          "end": 330,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 12,
+            "chapterId": "ether12",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "shall know of a surety … from heaven will I declare it, D&C 5:12. you may know of a surety my doctrine, D&C 11:16.",
+      "references": [
+        {
+          "text": "D&C 5:12",
+          "start": 56,
+          "end": 64,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 5,
+            "chapterId": "doctrineandcovenants5",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 11:16",
+          "start": 104,
+          "end": 113,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 11,
+            "chapterId": "doctrineandcovenants11",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-sure",
+      "slug": "sure",
+      "title": "Sure"
+    }
+  ],
+  "slug": "surety",
+  "title": "Surety",
+  "type": "tg"
+}

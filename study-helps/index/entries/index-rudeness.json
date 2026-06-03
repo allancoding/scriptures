@@ -1,0 +1,61 @@
+{
+  "_id": "index-rudeness",
+  "content": [
+    {
+      "text": "elder sons of Lehi1 and Ishmael1 speak with rudeness, 1 Ne. 18:9. Jacob2 has suffered afflictions because of rudeness of brethren, 2 Ne. 2:1.",
+      "references": [
+        {
+          "text": "1 Ne. 18:9",
+          "start": 54,
+          "end": 64,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 18,
+            "chapterId": "1nephi18",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 2:1",
+          "start": 131,
+          "end": 140,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 2,
+            "chapterId": "2nephi2",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-malice",
+      "slug": "malice",
+      "title": "Malice"
+    },
+    {
+      "entryId": "index-revile",
+      "slug": "revile",
+      "title": "Revile"
+    }
+  ],
+  "slug": "rudeness",
+  "title": "Rudeness",
+  "type": "index"
+}

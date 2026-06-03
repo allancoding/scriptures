@@ -1,0 +1,130 @@
+{
+  "_id": "tg-excuse",
+  "content": [
+    {
+      "text": "all with one consent began to make excuse, Luke 14:18. they are without excuse, Rom. 1:20 (D&C 88:82).",
+      "references": [
+        {
+          "text": "Luke 14:18",
+          "start": 43,
+          "end": 53,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 14,
+            "chapterId": "luke14",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 1:20",
+          "start": 80,
+          "end": 89,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 1,
+            "chapterId": "romans1",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 88:82",
+          "start": 91,
+          "end": 100,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 82,
+                "end": 82
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "they seek to excuse themselves in committing whoredoms, Jacob 2:23.",
+      "references": [
+        {
+          "text": "Jacob 2:23",
+          "start": 56,
+          "end": 66,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 2,
+            "chapterId": "jacob2",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "all men may be left without excuse, D&C 101:93.",
+      "references": [
+        {
+          "text": "D&C 101:93",
+          "start": 36,
+          "end": 46,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 101,
+            "chapterId": "doctrineandcovenants101",
+            "verses": [
+              {
+                "start": 93,
+                "end": 93
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-apathy",
+      "slug": "apathy",
+      "title": "Apathy"
+    },
+    {
+      "entryId": "tg-laziness",
+      "slug": "laziness",
+      "title": "Laziness"
+    },
+    {
+      "entryId": "tg-procrastination",
+      "slug": "procrastination",
+      "title": "Procrastination"
+    }
+  ],
+  "slug": "excuse",
+  "title": "Excuse",
+  "type": "tg"
+}

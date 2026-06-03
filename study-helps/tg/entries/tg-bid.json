@@ -1,0 +1,109 @@
+{
+  "_id": "tg-bid",
+  "content": [
+    {
+      "text": "Joshua did unto them as the Lord bade him, Josh. 11:9.",
+      "references": [
+        {
+          "text": "Josh. 11:9",
+          "start": 43,
+          "end": 53,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "josh",
+            "book": "joshua",
+            "chapter": 11,
+            "chapterId": "joshua11",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "bid me come unto thee on the water, Matt. 14:28. as many as ye shall find, bid to the marriage, Matt. 22:9. man made a great supper, and bade many, Luke 14:16. Spirit bade me go … nothing doubting, Acts 11:12.",
+      "references": [
+        {
+          "text": "Matt. 14:28",
+          "start": 36,
+          "end": 47,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 14,
+            "chapterId": "matthew14",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 22:9",
+          "start": 96,
+          "end": 106,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 22,
+            "chapterId": "matthew22",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 14:16",
+          "start": 148,
+          "end": 158,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 14,
+            "chapterId": "luke14",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 11:12",
+          "start": 198,
+          "end": 208,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 11,
+            "chapterId": "acts11",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "bid",
+  "title": "Bid",
+  "type": "tg"
+}

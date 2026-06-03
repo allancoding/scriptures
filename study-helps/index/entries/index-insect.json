@@ -1,0 +1,43 @@
+{
+  "_id": "index-insect",
+  "content": [
+    {
+      "text": "insects shall pester land of people of Noah3, Mosiah 12:6.",
+      "references": [
+        {
+          "text": "Mosiah 12:6",
+          "start": 46,
+          "end": 57,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 12,
+            "chapterId": "mosiah12",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-curse",
+      "slug": "curse",
+      "title": "Curse"
+    },
+    {
+      "entryId": "index-judgment",
+      "slug": "judgment",
+      "title": "Judgment"
+    }
+  ],
+  "slug": "insect",
+  "title": "Insect",
+  "type": "index"
+}

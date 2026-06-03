@@ -1,0 +1,79 @@
+{
+  "_id": "index-closet",
+  "content": [
+    {
+      "text": "when I turned unto my closet, and prayed, the Lord did hear me, Alma 33:7. pour out your souls in your closets, Alma 34:26. when thou prayest, enter into thy closet, 3 Ne. 13:6.",
+      "references": [
+        {
+          "text": "Alma 33:7",
+          "start": 64,
+          "end": 73,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 33,
+            "chapterId": "alma33",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 34:26",
+          "start": 112,
+          "end": 122,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 34,
+            "chapterId": "alma34",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 13:6",
+          "start": 166,
+          "end": 176,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 13,
+            "chapterId": "3nephi13",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-private",
+      "slug": "private",
+      "title": "Private"
+    },
+    {
+      "entryId": "index-secret",
+      "slug": "secret",
+      "title": "Secret"
+    }
+  ],
+  "slug": "closet",
+  "title": "Closet",
+  "type": "index"
+}

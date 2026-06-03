@@ -1,0 +1,73 @@
+{
+  "_id": "bd-pul",
+  "content": [
+    {
+      "text": "(1) King of Assyria, most likely another name of Tiglath-pileser Ⅲ; received tribute from Menahem (2 Kgs. 15:19; 1 Chr. 5:26).",
+      "references": [
+        {
+          "text": "2 Kgs. 15:19",
+          "start": 99,
+          "end": 111,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 15,
+            "chapterId": "2kings15",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Chr. 5:26",
+          "start": 113,
+          "end": 124,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-chr",
+            "book": "1chronicles",
+            "chapter": 5,
+            "chapterId": "1chronicles5",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "(2) Probably for Put (Isa. 66:19).",
+      "references": [
+        {
+          "text": "Isa. 66:19",
+          "start": 22,
+          "end": 32,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 66,
+            "chapterId": "isaiah66",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "pul",
+  "title": "Pul",
+  "type": "bd"
+}

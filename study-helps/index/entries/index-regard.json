@@ -1,0 +1,52 @@
+{
+  "_id": "index-regard",
+  "content": [
+    {
+      "text": "judge feared not God, nor regarded man, D&C 101:82, 84.",
+      "references": [
+        {
+          "text": "D&C 101:82, 84",
+          "start": 40,
+          "end": 54,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 101,
+            "chapterId": "doctrineandcovenants101",
+            "verses": [
+              {
+                "start": 82,
+                "end": 82
+              },
+              {
+                "start": 84,
+                "end": 84
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-esteem",
+      "slug": "esteem",
+      "title": "Esteem"
+    },
+    {
+      "entryId": "index-heed",
+      "slug": "heed",
+      "title": "Heed"
+    },
+    {
+      "entryId": "index-respect",
+      "slug": "respect",
+      "title": "Respect"
+    }
+  ],
+  "slug": "regard",
+  "title": "Regard",
+  "type": "index"
+}

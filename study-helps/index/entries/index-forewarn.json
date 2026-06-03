@@ -1,0 +1,56 @@
+{
+  "_id": "index-forewarn",
+  "content": [
+    {
+      "text": "forewarn your brethren concerning these waters, D&C 61:18. the Lord forewarns men by giving Word of Wisdom by revelation, D&C 89:4.",
+      "references": [
+        {
+          "text": "D&C 61:18",
+          "start": 48,
+          "end": 57,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 61,
+            "chapterId": "doctrineandcovenants61",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 89:4",
+          "start": 122,
+          "end": 130,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 89,
+            "chapterId": "doctrineandcovenants89",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-warn",
+      "slug": "warn",
+      "title": "Warn"
+    }
+  ],
+  "slug": "forewarn",
+  "title": "Forewarn",
+  "type": "index"
+}

@@ -1,0 +1,86 @@
+{
+  "_id": "tg-hoof",
+  "content": [
+    {
+      "text": "Whatsoever parteth the hoof, Lev. 11:3 (Deut. 14:6). I will make thy hoofs brass, Micah 4:13 (3 Ne. 20:19).",
+      "references": [
+        {
+          "text": "Lev. 11:3",
+          "start": 29,
+          "end": 38,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 11,
+            "chapterId": "leviticus11",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 14:6",
+          "start": 40,
+          "end": 50,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 14,
+            "chapterId": "deuteronomy14",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Micah 4:13",
+          "start": 82,
+          "end": 92,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "micah",
+            "book": "micah",
+            "chapter": 4,
+            "chapterId": "micah4",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 20:19",
+          "start": 94,
+          "end": 105,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 20,
+            "chapterId": "3nephi20",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "hoof",
+  "title": "Hoof",
+  "type": "tg"
+}

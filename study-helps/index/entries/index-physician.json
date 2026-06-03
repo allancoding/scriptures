@@ -1,0 +1,73 @@
+{
+  "_id": "index-physician",
+  "content": [
+    {
+      "text": "whole need no physician, Moro. 8:8 (Matt. 9:12).",
+      "references": [
+        {
+          "text": "Moro. 8:8",
+          "start": 25,
+          "end": 34,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "moro",
+            "book": "moroni",
+            "chapter": 8,
+            "chapterId": "moroni8",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 9:12",
+          "start": 36,
+          "end": 46,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 9,
+            "chapterId": "matthew9",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Thomas Marsh physician unto Church, D&C 31:10.",
+      "references": [
+        {
+          "text": "D&C 31:10",
+          "start": 36,
+          "end": 45,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 31,
+            "chapterId": "doctrineandcovenants31",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "physician",
+  "title": "Physician",
+  "type": "index"
+}

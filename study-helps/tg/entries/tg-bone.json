@@ -1,0 +1,442 @@
+{
+  "_id": "tg-bone",
+  "content": [
+    {
+      "text": "Adam said, This is now bone of my bones, Gen. 2:23 (Moses 3:23; Abr. 5:17). ye shall carry up my bones from hence, Gen. 50:25 (Ex. 13:19). neither … break a bone, Ex. 12:46. Moses took the bones of Joseph with him, Ex. 13:19 (Josh. 24:32). touched the bones of Elisha, 2 Kgs. 13:21. My bone cleaveth to my skin, Job 19:20. all his bones: not one of them is broken, Ps. 34:20 (John 19:36). to thy navel, and marrow to thy bones, Prov. 3:8 (D&C 89:18). bring out the bones of the kings of Judah, Jer. 8:1. the midst of the valley which was full of bones, Ezek. 37:1.",
+      "references": [
+        {
+          "text": "Gen. 2:23",
+          "start": 41,
+          "end": 50,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 2,
+            "chapterId": "genesis2",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 3:23",
+          "start": 52,
+          "end": 62,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 3,
+            "chapterId": "moses3",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Abr. 5:17",
+          "start": 64,
+          "end": 73,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 5,
+            "chapterId": "abraham5",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 50:25",
+          "start": 115,
+          "end": 125,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 50,
+            "chapterId": "genesis50",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 13:19",
+          "start": 127,
+          "end": 136,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 13,
+            "chapterId": "exodus13",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 12:46",
+          "start": 163,
+          "end": 172,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 12,
+            "chapterId": "exodus12",
+            "verses": [
+              {
+                "start": 46,
+                "end": 46
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 13:19",
+          "start": 215,
+          "end": 224,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 13,
+            "chapterId": "exodus13",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Josh. 24:32",
+          "start": 226,
+          "end": 237,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "josh",
+            "book": "joshua",
+            "chapter": 24,
+            "chapterId": "joshua24",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Kgs. 13:21",
+          "start": 269,
+          "end": 281,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 13,
+            "chapterId": "2kings13",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Job 19:20",
+          "start": 312,
+          "end": 321,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "job",
+            "book": "job",
+            "chapter": 19,
+            "chapterId": "job19",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 34:20",
+          "start": 365,
+          "end": 374,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 34,
+            "chapterId": "psalms34",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 19:36",
+          "start": 376,
+          "end": 386,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 19,
+            "chapterId": "john19",
+            "verses": [
+              {
+                "start": 36,
+                "end": 36
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 3:8",
+          "start": 428,
+          "end": 437,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 3,
+            "chapterId": "proverbs3",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 89:18",
+          "start": 439,
+          "end": 448,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 89,
+            "chapterId": "doctrineandcovenants89",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 8:1",
+          "start": 494,
+          "end": 502,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 8,
+            "chapterId": "jeremiah8",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 37:1",
+          "start": 553,
+          "end": 563,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 37,
+            "chapterId": "ezekiel37",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "whited sepulchres … are within full of dead men’s bones, Matt. 23:27. spirit hath not flesh and bones, as ye see me have, Luke 24:39. gave commandment concerning his bones, Heb. 11:22.",
+      "references": [
+        {
+          "text": "Matt. 23:27",
+          "start": 57,
+          "end": 68,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 23,
+            "chapterId": "matthew23",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 24:39",
+          "start": 122,
+          "end": 132,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 24,
+            "chapterId": "luke24",
+            "verses": [
+              {
+                "start": 39,
+                "end": 39
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 11:22",
+          "start": 173,
+          "end": 183,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 11,
+            "chapterId": "hebrews11",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "flesh shall fall from off their bones, D&C 29:19. Father has a body of flesh and bones, D&C 130:22. perfect frame, bone to his bone, D&C 138:17 (138:11–17, 43).",
+      "references": [
+        {
+          "text": "D&C 29:19",
+          "start": 39,
+          "end": 48,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 29,
+            "chapterId": "doctrineandcovenants29",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 130:22",
+          "start": 88,
+          "end": 98,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 130,
+            "chapterId": "doctrineandcovenants130",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 138:17",
+          "start": 133,
+          "end": 143,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 138,
+            "chapterId": "doctrineandcovenants138",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "138:11–17, 43",
+          "start": 145,
+          "end": 158,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 138,
+            "chapterId": "doctrineandcovenants138",
+            "verses": [
+              {
+                "start": 11,
+                "end": 17
+              },
+              {
+                "start": 43,
+                "end": 43
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "bone",
+  "title": "Bone",
+  "type": "tg"
+}

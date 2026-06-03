@@ -1,0 +1,86 @@
+{
+  "_id": "bd-cush",
+  "content": [
+    {
+      "text": "The dark-skinned race of Eastern Africa (south of Egypt) and of South Arabia (Gen. 10:6–7; 1 Chr. 1:8–10). Also the name of a country (Ethiopia) (Isa. 11:11; Ezek. 38:5).",
+      "references": [
+        {
+          "text": "Gen. 10:6–7",
+          "start": 78,
+          "end": 89,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 10,
+            "chapterId": "genesis10",
+            "verses": [
+              {
+                "start": 6,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Chr. 1:8–10",
+          "start": 91,
+          "end": 104,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-chr",
+            "book": "1chronicles",
+            "chapter": 1,
+            "chapterId": "1chronicles1",
+            "verses": [
+              {
+                "start": 8,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 11:11",
+          "start": 146,
+          "end": 156,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 11,
+            "chapterId": "isaiah11",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 38:5",
+          "start": 158,
+          "end": 168,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 38,
+            "chapterId": "ezekiel38",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "cush",
+  "title": "Cush",
+  "type": "bd"
+}

@@ -1,0 +1,50 @@
+{
+  "_id": "index-quiver",
+  "content": [
+    {
+      "text": "in his quiver hath the Lord hid me, 1 Ne. 21:2 (Isa. 49:2).",
+      "references": [
+        {
+          "text": "1 Ne. 21:2",
+          "start": 36,
+          "end": 46,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 21,
+            "chapterId": "1nephi21",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 49:2",
+          "start": 48,
+          "end": 57,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 49,
+            "chapterId": "isaiah49",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "quiver",
+  "title": "Quiver",
+  "type": "index"
+}

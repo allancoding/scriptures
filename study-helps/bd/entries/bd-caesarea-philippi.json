@@ -1,0 +1,50 @@
+{
+  "_id": "bd-caesarea-philippi",
+  "content": [
+    {
+      "text": "A town near the source of the Jordan, at the foot of Mount Hermon, rebuilt and enlarged by Philip, tetrarch of Trachonitis. The northern most point of our Lord’s journeyings, it was the scene of Peter’s testimony of the Lord’s Messiahship and divine Sonship (Matt. 16:13; Mark 8:27).",
+      "references": [
+        {
+          "text": "Matt. 16:13",
+          "start": 259,
+          "end": 270,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 16,
+            "chapterId": "matthew16",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 8:27",
+          "start": 272,
+          "end": 281,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 8,
+            "chapterId": "mark8",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "caesarea-philippi",
+  "title": "Caesarea Philippi",
+  "type": "bd"
+}

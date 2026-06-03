@@ -1,0 +1,50 @@
+{
+  "_id": "tg-newness",
+  "content": [
+    {
+      "text": "we also should walk in newness of life, Rom. 6:4. we should serve in newness of spirit, Rom. 7:6.",
+      "references": [
+        {
+          "text": "Rom. 6:4",
+          "start": 40,
+          "end": 48,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 6,
+            "chapterId": "romans6",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 7:6",
+          "start": 88,
+          "end": 96,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 7,
+            "chapterId": "romans7",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "newness",
+  "title": "Newness",
+  "type": "tg"
+}

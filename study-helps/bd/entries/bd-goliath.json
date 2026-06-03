@@ -1,0 +1,45 @@
+{
+  "_id": "bd-goliath",
+  "content": [
+    {
+      "text": "The Philistine giant killed by David (1 Sam. 17). In 2 Sam. 21:19 the reference is probably to a different man of the same name, or some error may have crept into the text. See Giants.",
+      "references": [
+        {
+          "text": "1 Sam. 17",
+          "start": 38,
+          "end": 47,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 17,
+            "chapterId": "1samuel17",
+            "verses": []
+          }
+        },
+        {
+          "text": "2 Sam. 21:19",
+          "start": 53,
+          "end": 65,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-sam",
+            "book": "2samuel",
+            "chapter": 21,
+            "chapterId": "2samuel21",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "goliath",
+  "title": "Goliath of Gath",
+  "type": "bd"
+}

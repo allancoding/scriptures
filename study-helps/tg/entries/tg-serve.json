@@ -1,0 +1,1446 @@
+{
+  "_id": "tg-serve",
+  "content": [
+    {
+      "text": "thy seed shall be a stranger … and shall serve them, Gen. 15:13. elder shall serve the younger, Gen. 25:23 (Rom. 9:12). Let people serve thee, and nations bow down, Gen. 27:29. I will serve thee seven years for Rachel, Gen. 29:18. Egyptians made the children of Israel to serve with rigour, Ex. 1:13. ye shall serve God upon this mountain, Ex. 3:12. Let my son go, that he may serve me, Ex. 4:23. better for us to serve the Egyptians, than … die, Ex. 14:12. Thou shalt not bow down thyself to them, nor serve, Ex. 20:5 (Deut. 5:9). fear the Lord … and serve him, Deut. 6:13 (Matt. 4:10; Luke 4:8). neither shalt thou serve their gods, Deut. 7:16. serve the Lord thy God with all thy heart, Deut. 10:12 (11:13; Josh. 22:5; D&C 4:2). Therefore shalt thou serve thine enemies, Deut. 28:48. as for me and my house, we will serve the Lord, Josh. 24:15 (Alma 30:8; Moses 6:33). prepare your hearts … and serve him only, 1 Sam. 7:3. serve the Lord with all your heart, 1 Sam. 12:20. serve him with a perfect heart, 1 Chr. 28:9. all nations shall serve him, Ps. 72:11. Confounded be all they that serve graven images, Ps. 97:7. they served their idols, Ps. 106:36. join themselves to the Lord, to serve him, Isa. 56:6. kingdom that will not serve thee shall perish, Isa. 60:12. served strange gods … so shall ye serve strangers, Jer. 5:19. go not after other gods to serve them, Jer. 35:15. God whom we serve is able to deliver us, Dan. 3:17. we will not serve thy gods, Dan. 3:18. people, nations, and languages, should serve him, Dan. 7:14. Lord, to serve him with one consent, Zeph. 3:9.",
+      "references": [
+        {
+          "text": "Gen. 15:13",
+          "start": 53,
+          "end": 63,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 15,
+            "chapterId": "genesis15",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 25:23",
+          "start": 96,
+          "end": 106,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 25,
+            "chapterId": "genesis25",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 9:12",
+          "start": 108,
+          "end": 117,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 9,
+            "chapterId": "romans9",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 27:29",
+          "start": 165,
+          "end": 175,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 27,
+            "chapterId": "genesis27",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 29:18",
+          "start": 219,
+          "end": 229,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 29,
+            "chapterId": "genesis29",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 1:13",
+          "start": 291,
+          "end": 299,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 1,
+            "chapterId": "exodus1",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 3:12",
+          "start": 340,
+          "end": 348,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 3,
+            "chapterId": "exodus3",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 4:23",
+          "start": 387,
+          "end": 395,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 4,
+            "chapterId": "exodus4",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 14:12",
+          "start": 447,
+          "end": 456,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 14,
+            "chapterId": "exodus14",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 20:5",
+          "start": 510,
+          "end": 518,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 20,
+            "chapterId": "exodus20",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 5:9",
+          "start": 520,
+          "end": 529,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 5,
+            "chapterId": "deuteronomy5",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 6:13",
+          "start": 563,
+          "end": 573,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 6,
+            "chapterId": "deuteronomy6",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 4:10",
+          "start": 575,
+          "end": 585,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 4,
+            "chapterId": "matthew4",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 4:8",
+          "start": 587,
+          "end": 595,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 4,
+            "chapterId": "luke4",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 7:16",
+          "start": 635,
+          "end": 645,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 7,
+            "chapterId": "deuteronomy7",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 10:12",
+          "start": 690,
+          "end": 701,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 10,
+            "chapterId": "deuteronomy10",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "11:13",
+          "start": 703,
+          "end": 708,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 11,
+            "chapterId": "deuteronomy11",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Josh. 22:5",
+          "start": 710,
+          "end": 720,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "josh",
+            "book": "joshua",
+            "chapter": 22,
+            "chapterId": "joshua22",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 4:2",
+          "start": 722,
+          "end": 729,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 4,
+            "chapterId": "doctrineandcovenants4",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 28:48",
+          "start": 774,
+          "end": 785,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 28,
+            "chapterId": "deuteronomy28",
+            "verses": [
+              {
+                "start": 48,
+                "end": 48
+              }
+            ]
+          }
+        },
+        {
+          "text": "Josh. 24:15",
+          "start": 835,
+          "end": 846,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "josh",
+            "book": "joshua",
+            "chapter": 24,
+            "chapterId": "joshua24",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 30:8",
+          "start": 848,
+          "end": 857,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 30,
+            "chapterId": "alma30",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 6:33",
+          "start": 859,
+          "end": 869,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 6,
+            "chapterId": "moses6",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Sam. 7:3",
+          "start": 914,
+          "end": 924,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 7,
+            "chapterId": "1samuel7",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Sam. 12:20",
+          "start": 962,
+          "end": 974,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 12,
+            "chapterId": "1samuel12",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Chr. 28:9",
+          "start": 1008,
+          "end": 1019,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-chr",
+            "book": "1chronicles",
+            "chapter": 28,
+            "chapterId": "1chronicles28",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 72:11",
+          "start": 1050,
+          "end": 1059,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 72,
+            "chapterId": "psalms72",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 97:7",
+          "start": 1110,
+          "end": 1118,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 97,
+            "chapterId": "psalms97",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 106:36",
+          "start": 1145,
+          "end": 1155,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 106,
+            "chapterId": "psalms106",
+            "verses": [
+              {
+                "start": 36,
+                "end": 36
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 56:6",
+          "start": 1200,
+          "end": 1209,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 56,
+            "chapterId": "isaiah56",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 60:12",
+          "start": 1258,
+          "end": 1268,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 60,
+            "chapterId": "isaiah60",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 5:19",
+          "start": 1321,
+          "end": 1330,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 5,
+            "chapterId": "jeremiah5",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 35:15",
+          "start": 1371,
+          "end": 1381,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 35,
+            "chapterId": "jeremiah35",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 3:17",
+          "start": 1424,
+          "end": 1433,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 3,
+            "chapterId": "daniel3",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 3:18",
+          "start": 1463,
+          "end": 1472,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 3,
+            "chapterId": "daniel3",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 7:14",
+          "start": 1524,
+          "end": 1533,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 7,
+            "chapterId": "daniel7",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Zeph. 3:9",
+          "start": 1572,
+          "end": 1581,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "zeph",
+            "book": "zephaniah",
+            "chapter": 3,
+            "chapterId": "zephaniah3",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "No man can serve two masters, Matt. 6:24 (Luke 16:13; 3 Ne. 13:24). served God with fastings and prayers, Luke 2:37. worship the Lord thy God, and him only shalt thou serve, Luke 4:8. Lo, these many years do I serve thee, Luke 15:29. he that is chief, as he that doth serve, Luke 22:26. If any man serve me, let him follow me, John 12:26. not reason that we should … serve tables, Acts 6:2. Serving the Lord with all humility, Acts 20:19. angel of God, whose I am, and whom I serve, Acts 27:23. henceforth we should not serve sin, Rom. 6:6. we should serve in newness of spirit, Rom. 7:6. by love serve one another, Gal. 5:13. receive the reward of the inheritance: for ye serve the Lord, Col. 3:24. from dead works to serve the living God, Heb. 9:14. have grace, whereby we may serve God acceptably, Heb. 12:28. serve him day and night in his temple, Rev. 7:15. his servants shall serve him, Rev. 22:3.",
+      "references": [
+        {
+          "text": "Matt. 6:24",
+          "start": 30,
+          "end": 40,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 6,
+            "chapterId": "matthew6",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 16:13",
+          "start": 42,
+          "end": 52,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 16,
+            "chapterId": "luke16",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 13:24",
+          "start": 54,
+          "end": 65,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 13,
+            "chapterId": "3nephi13",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 2:37",
+          "start": 106,
+          "end": 115,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 2,
+            "chapterId": "luke2",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 4:8",
+          "start": 174,
+          "end": 182,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 4,
+            "chapterId": "luke4",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 15:29",
+          "start": 222,
+          "end": 232,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 15,
+            "chapterId": "luke15",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 22:26",
+          "start": 275,
+          "end": 285,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 22,
+            "chapterId": "luke22",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 12:26",
+          "start": 327,
+          "end": 337,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 12,
+            "chapterId": "john12",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 6:2",
+          "start": 381,
+          "end": 389,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 6,
+            "chapterId": "acts6",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 20:19",
+          "start": 427,
+          "end": 437,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 20,
+            "chapterId": "acts20",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 27:23",
+          "start": 483,
+          "end": 493,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 27,
+            "chapterId": "acts27",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 6:6",
+          "start": 531,
+          "end": 539,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 6,
+            "chapterId": "romans6",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 7:6",
+          "start": 579,
+          "end": 587,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 7,
+            "chapterId": "romans7",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gal. 5:13",
+          "start": 616,
+          "end": 625,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "gal",
+            "book": "galatians",
+            "chapter": 5,
+            "chapterId": "galatians5",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Col. 3:24",
+          "start": 689,
+          "end": 698,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "col",
+            "book": "colossians",
+            "chapter": 3,
+            "chapterId": "colossians3",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 9:14",
+          "start": 741,
+          "end": 750,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 9,
+            "chapterId": "hebrews9",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 12:28",
+          "start": 801,
+          "end": 811,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 12,
+            "chapterId": "hebrews12",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 7:15",
+          "start": 852,
+          "end": 861,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 7,
+            "chapterId": "revelation7",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 22:3",
+          "start": 893,
+          "end": 902,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 22,
+            "chapterId": "revelation22",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "to serve you with all the might, mind and strength, Mosiah 2:11 (D&C 20:31). I, whom ye call your king, do labor to serve you, Mosiah 2:18. if ye should serve him with all your whole souls yet ye would be unprofitable servants, Mosiah 2:21. not suffer your children that they … serve the devil, Mosiah 4:14. teach them to … serve one another, Mosiah 4:15. how knoweth a man the master whom he has not served, Mosiah 5:13. serve him with all diligence, Mosiah 7:33. ye have entered into a covenant with him, that ye will serve him, Mosiah 18:10. baptize … entered into a covenant to serve him, Mosiah 18:13. probationary time, a time to repent and serve God, Alma 42:4. serve the true and living God, Morm. 9:28. whatsoever nation shall possess it shall serve God, Ether 2:9. took upon them the name of Christ, having a determination to serve him, Moro. 6:3 (D&C 20:37). to love God, and to serve him, is inspired of God, Moro. 7:13.",
+      "references": [
+        {
+          "text": "Mosiah 2:11",
+          "start": 52,
+          "end": 63,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 2,
+            "chapterId": "mosiah2",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 20:31",
+          "start": 65,
+          "end": 74,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 20,
+            "chapterId": "doctrineandcovenants20",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 2:18",
+          "start": 127,
+          "end": 138,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 2,
+            "chapterId": "mosiah2",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 2:21",
+          "start": 228,
+          "end": 239,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 2,
+            "chapterId": "mosiah2",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 4:14",
+          "start": 295,
+          "end": 306,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 4,
+            "chapterId": "mosiah4",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 4:15",
+          "start": 343,
+          "end": 354,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 4,
+            "chapterId": "mosiah4",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 5:13",
+          "start": 409,
+          "end": 420,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 5,
+            "chapterId": "mosiah5",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 7:33",
+          "start": 452,
+          "end": 463,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 7,
+            "chapterId": "mosiah7",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 18:10",
+          "start": 531,
+          "end": 543,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 18,
+            "chapterId": "mosiah18",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 18:13",
+          "start": 593,
+          "end": 605,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 18,
+            "chapterId": "mosiah18",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 42:4",
+          "start": 658,
+          "end": 667,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 42,
+            "chapterId": "alma42",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 9:28",
+          "start": 700,
+          "end": 710,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 9,
+            "chapterId": "mormon9",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 2:9",
+          "start": 764,
+          "end": 773,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 2,
+            "chapterId": "ether2",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moro. 6:3",
+          "start": 847,
+          "end": 856,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "moro",
+            "book": "moroni",
+            "chapter": 6,
+            "chapterId": "moroni6",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 20:37",
+          "start": 858,
+          "end": 867,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 20,
+            "chapterId": "doctrineandcovenants20",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moro. 7:13",
+          "start": 921,
+          "end": 931,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "moro",
+            "book": "moroni",
+            "chapter": 7,
+            "chapterId": "moroni7",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "commandments that they should love and serve him, D&C 20:19. If thou lovest me thou shalt serve me, D&C 42:29. in the name of Jesus Christ thou shalt serve him, D&C 59:5. delight to honor those who serve me in righteousness, D&C 76:5.",
+      "references": [
+        {
+          "text": "D&C 20:19",
+          "start": 50,
+          "end": 59,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 20,
+            "chapterId": "doctrineandcovenants20",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 42:29",
+          "start": 100,
+          "end": 109,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 42,
+            "chapterId": "doctrineandcovenants42",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 59:5",
+          "start": 161,
+          "end": 169,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 59,
+            "chapterId": "doctrineandcovenants59",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 76:5",
+          "start": 225,
+          "end": 233,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 76,
+            "chapterId": "doctrineandcovenants76",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Worship God, for him only shalt thou serve, Moses 1:15.",
+      "references": [
+        {
+          "text": "Moses 1:15",
+          "start": 44,
+          "end": 54,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 1,
+            "chapterId": "moses1",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-minister",
+      "slug": "minister",
+      "title": "Minister"
+    },
+    {
+      "entryId": "tg-obedience",
+      "slug": "obedience",
+      "title": "Obedience"
+    },
+    {
+      "entryId": "tg-service",
+      "slug": "service",
+      "title": "Service"
+    },
+    {
+      "entryId": "tg-work",
+      "slug": "work",
+      "title": "Work"
+    },
+    {
+      "entryId": "tg-worship",
+      "slug": "worship",
+      "title": "Worship"
+    }
+  ],
+  "slug": "serve",
+  "title": "Serve",
+  "type": "tg"
+}

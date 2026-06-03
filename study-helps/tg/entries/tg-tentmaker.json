@@ -1,0 +1,38 @@
+{
+  "_id": "tg-tentmaker",
+  "content": [
+    {
+      "text": "by their occupation they were tentmakers, Acts 18:3.",
+      "references": [
+        {
+          "text": "Acts 18:3",
+          "start": 42,
+          "end": 51,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 18,
+            "chapterId": "acts18",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-tent",
+      "slug": "tent",
+      "title": "Tent"
+    }
+  ],
+  "slug": "tentmaker",
+  "title": "Tentmaker",
+  "type": "tg"
+}

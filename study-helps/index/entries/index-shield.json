@@ -1,0 +1,61 @@
+{
+  "_id": "index-shield",
+  "content": [
+    {
+      "text": "take shield of faith to quench fiery darts of wicked, D&C 27:17. the Lord will be shield of weak, D&C 35:14.",
+      "references": [
+        {
+          "text": "D&C 27:17",
+          "start": 54,
+          "end": 63,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 27,
+            "chapterId": "doctrineandcovenants27",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 35:14",
+          "start": 98,
+          "end": 107,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 35,
+            "chapterId": "doctrineandcovenants35",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-armor",
+      "slug": "armor",
+      "title": "Armor"
+    },
+    {
+      "entryId": "index-protect",
+      "slug": "protect",
+      "title": "Protect"
+    }
+  ],
+  "slug": "shield",
+  "title": "Shield",
+  "type": "index"
+}

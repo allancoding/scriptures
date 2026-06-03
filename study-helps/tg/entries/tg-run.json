@@ -1,0 +1,534 @@
+{
+  "_id": "tg-run",
+  "content": [
+    {
+      "text": "Joseph … whose branches run over the wall, Gen. 49:22. I have run through a troop, 2 Sam. 22:30 (Ps. 18:29). Elijah … ran before Ahab to the entrance, 1 Kgs. 18:46. my cup runneth over, Ps. 23:5. their feet run to evil, Prov. 1:16 (Isa. 59:7). when thou runnest, thou shalt not stumble, Prov. 4:12. they shall run, and not be weary, Isa. 40:31 (D&C 89:20). nations that knew not thee shall run unto thee, Isa. 55:5. Run ye … through the streets of Jerusalem, Jer. 5:1. many shall run to and fro, Dan. 12:4. they shall run to and fro to seek the word of the Lord, Amos 8:12.",
+      "references": [
+        {
+          "text": "Gen. 49:22",
+          "start": 43,
+          "end": 53,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 49,
+            "chapterId": "genesis49",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Sam. 22:30",
+          "start": 83,
+          "end": 95,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-sam",
+            "book": "2samuel",
+            "chapter": 22,
+            "chapterId": "2samuel22",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 18:29",
+          "start": 97,
+          "end": 106,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 18,
+            "chapterId": "psalms18",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Kgs. 18:46",
+          "start": 151,
+          "end": 163,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 18,
+            "chapterId": "1kings18",
+            "verses": [
+              {
+                "start": 46,
+                "end": 46
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 23:5",
+          "start": 186,
+          "end": 194,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 23,
+            "chapterId": "psalms23",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 1:16",
+          "start": 220,
+          "end": 230,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 1,
+            "chapterId": "proverbs1",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 59:7",
+          "start": 232,
+          "end": 241,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 59,
+            "chapterId": "isaiah59",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 4:12",
+          "start": 287,
+          "end": 297,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 4,
+            "chapterId": "proverbs4",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 40:31",
+          "start": 333,
+          "end": 343,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 40,
+            "chapterId": "isaiah40",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 89:20",
+          "start": 345,
+          "end": 354,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 89,
+            "chapterId": "doctrineandcovenants89",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 55:5",
+          "start": 405,
+          "end": 414,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 55,
+            "chapterId": "isaiah55",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 5:1",
+          "start": 459,
+          "end": 467,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 5,
+            "chapterId": "jeremiah5",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 12:4",
+          "start": 496,
+          "end": 505,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 12,
+            "chapterId": "daniel12",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Amos 8:12",
+          "start": 563,
+          "end": 572,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "amos",
+            "book": "amos",
+            "chapter": 8,
+            "chapterId": "amos8",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "bottles break, and the wine runneth out, Matt. 9:17. did run to bring his disciples word, Matt. 28:8. they ran both together, John 20:4. they which run in a race run all, 1 Cor. 9:24. lest … I should run, or had run, in vain, Gal. 2:2. Ye did run well, Gal. 5:7. let us run with patience, Heb. 12:1. ye run not with them to the same excess of riot, 1 Pet. 4:4.",
+      "references": [
+        {
+          "text": "Matt. 9:17",
+          "start": 41,
+          "end": 51,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 9,
+            "chapterId": "matthew9",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 28:8",
+          "start": 90,
+          "end": 100,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 28,
+            "chapterId": "matthew28",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 20:4",
+          "start": 126,
+          "end": 135,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 20,
+            "chapterId": "john20",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 9:24",
+          "start": 171,
+          "end": 182,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 9,
+            "chapterId": "1corinthians9",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gal. 2:2",
+          "start": 226,
+          "end": 234,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "gal",
+            "book": "galatians",
+            "chapter": 2,
+            "chapterId": "galatians2",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gal. 5:7",
+          "start": 253,
+          "end": 261,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "gal",
+            "book": "galatians",
+            "chapter": 5,
+            "chapterId": "galatians5",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 12:1",
+          "start": 289,
+          "end": 298,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 12,
+            "chapterId": "hebrews12",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Pet. 4:4",
+          "start": 349,
+          "end": 359,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-pet",
+            "book": "1peter",
+            "chapter": 4,
+            "chapterId": "1peter4",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "like unto this river, continually running into the fountain of all righteousness, 1 Ne. 2:9. testimony of the two nations shall run together, 2 Ne. 29:8. not requisite that a man should run faster than he has strength, Mosiah 4:27 (D&C 10:4). stalk … run over by the beasts, Mosiah 12:11. he was run upon and trodden down, Alma 30:59.",
+      "references": [
+        {
+          "text": "1 Ne. 2:9",
+          "start": 82,
+          "end": 91,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 2,
+            "chapterId": "1nephi2",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 29:8",
+          "start": 142,
+          "end": 152,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 29,
+            "chapterId": "2nephi29",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 4:27",
+          "start": 219,
+          "end": 230,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 4,
+            "chapterId": "mosiah4",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 10:4",
+          "start": 232,
+          "end": 240,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 10,
+            "chapterId": "doctrineandcovenants10",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 12:11",
+          "start": 275,
+          "end": 287,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 12,
+            "chapterId": "mosiah12",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 30:59",
+          "start": 323,
+          "end": 333,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 30,
+            "chapterId": "alma30",
+            "verses": [
+              {
+                "start": 59,
+                "end": 59
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-race",
+      "slug": "race",
+      "title": "Race"
+    }
+  ],
+  "slug": "run",
+  "title": "Run, Ran",
+  "type": "tg"
+}

@@ -1,0 +1,189 @@
+{
+  "_id": "tg-beg",
+  "content": [
+    {
+      "text": "his seed begging bread, Ps. 37:25. therefore shall he beg in harvest, Prov. 20:4.",
+      "references": [
+        {
+          "text": "Ps. 37:25",
+          "start": 24,
+          "end": 33,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 37,
+            "chapterId": "psalms37",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 20:4",
+          "start": 70,
+          "end": 80,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 20,
+            "chapterId": "proverbs20",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "He … begged the body of Jesus, Matt. 27:58 (Luke 23:52). sat by the highway side begging, Mark 10:46 (Luke 18:35). What shall I do? … to beg I am ashamed, Luke 16:3. Is not this he that sat and begged, John 9:8.",
+      "references": [
+        {
+          "text": "Matt. 27:58",
+          "start": 31,
+          "end": 42,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 27,
+            "chapterId": "matthew27",
+            "verses": [
+              {
+                "start": 58,
+                "end": 58
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 23:52",
+          "start": 44,
+          "end": 54,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 23,
+            "chapterId": "luke23",
+            "verses": [
+              {
+                "start": 52,
+                "end": 52
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 10:46",
+          "start": 90,
+          "end": 100,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 10,
+            "chapterId": "mark10",
+            "verses": [
+              {
+                "start": 46,
+                "end": 46
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 18:35",
+          "start": 102,
+          "end": 112,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 18,
+            "chapterId": "luke18",
+            "verses": [
+              {
+                "start": 35,
+                "end": 35
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 16:3",
+          "start": 155,
+          "end": 164,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 16,
+            "chapterId": "luke16",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 9:8",
+          "start": 202,
+          "end": 210,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 9,
+            "chapterId": "john9",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-ask",
+      "slug": "ask",
+      "title": "Ask"
+    },
+    {
+      "entryId": "tg-beseech",
+      "slug": "beseech",
+      "title": "Beseech"
+    },
+    {
+      "entryId": "tg-entreat",
+      "slug": "entreat",
+      "title": "Entreat"
+    },
+    {
+      "entryId": "tg-petition",
+      "slug": "petition",
+      "title": "Petition"
+    },
+    {
+      "entryId": "tg-request",
+      "slug": "request",
+      "title": "Request"
+    }
+  ],
+  "slug": "beg",
+  "title": "Beg",
+  "type": "tg"
+}

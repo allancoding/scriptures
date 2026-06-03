@@ -1,0 +1,132 @@
+{
+  "_id": "tg-mention",
+  "content": [
+    {
+      "text": "make no mention of the name of other gods, Ex. 23:13. by thee only will we make mention of thy name, Isa. 26:13. All his transgressions … shall not be mentioned, Ezek. 18:22.",
+      "references": [
+        {
+          "text": "Ex. 23:13",
+          "start": 43,
+          "end": 52,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 23,
+            "chapterId": "exodus23",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 26:13",
+          "start": 101,
+          "end": 111,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 26,
+            "chapterId": "isaiah26",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 18:22",
+          "start": 162,
+          "end": 173,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 18,
+            "chapterId": "ezekiel18",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "By faith Joseph … made mention of … children of Israel, Heb. 11:22.",
+      "references": [
+        {
+          "text": "Heb. 11:22",
+          "start": 56,
+          "end": 66,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 11,
+            "chapterId": "hebrews11",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "make mention that his name is exalted, 2 Ne. 22:4. of him they have more particularly made mention, Alma 13:19.",
+      "references": [
+        {
+          "text": "2 Ne. 22:4",
+          "start": 39,
+          "end": 49,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 22,
+            "chapterId": "2nephi22",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 13:19",
+          "start": 100,
+          "end": 110,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 13,
+            "chapterId": "alma13",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "mention",
+  "title": "Mention",
+  "type": "tg"
+}

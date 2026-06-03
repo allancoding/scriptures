@@ -1,0 +1,150 @@
+{
+  "_id": "tg-fast-adverb",
+  "content": [
+    {
+      "text": "Job … holdeth fast his integrity, Job 2:3.",
+      "references": [
+        {
+          "text": "Job 2:3",
+          "start": 34,
+          "end": 41,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "job",
+            "book": "job",
+            "chapter": 2,
+            "chapterId": "job2",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Whomsoever I shall kiss … hold him fast, Matt. 26:48. stand fast in the faith, 1 Cor. 16:13. I come quickly: hold that fast which thou hast, Rev. 3:11.",
+      "references": [
+        {
+          "text": "Matt. 26:48",
+          "start": 41,
+          "end": 52,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 26,
+            "chapterId": "matthew26",
+            "verses": [
+              {
+                "start": 48,
+                "end": 48
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 16:13",
+          "start": 79,
+          "end": 91,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 16,
+            "chapterId": "1corinthians16",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 3:11",
+          "start": 141,
+          "end": 150,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 3,
+            "chapterId": "revelation3",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "branches … grew faster than the strength of the roots, Jacob 5:48. run faster than he has strength, Mosiah 4:27 (D&C 10:4).",
+      "references": [
+        {
+          "text": "Jacob 5:48",
+          "start": 55,
+          "end": 65,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 5,
+            "chapterId": "jacob5",
+            "verses": [
+              {
+                "start": 48,
+                "end": 48
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 4:27",
+          "start": 100,
+          "end": 111,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 4,
+            "chapterId": "mosiah4",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 10:4",
+          "start": 113,
+          "end": 121,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 10,
+            "chapterId": "doctrineandcovenants10",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "fast-adverb",
+  "title": "Fast [adverb], Faster",
+  "type": "tg"
+}

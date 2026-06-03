@@ -1,0 +1,50 @@
+{
+  "_id": "tg-mile",
+  "content": [
+    {
+      "text": "compel thee to go a mile, go with him twain, Matt. 5:41 (3 Ne. 12:41).",
+      "references": [
+        {
+          "text": "Matt. 5:41",
+          "start": 45,
+          "end": 55,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 5,
+            "chapterId": "matthew5",
+            "verses": [
+              {
+                "start": 41,
+                "end": 41
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 12:41",
+          "start": 57,
+          "end": 68,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 12,
+            "chapterId": "3nephi12",
+            "verses": [
+              {
+                "start": 41,
+                "end": 41
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "mile",
+  "title": "Mile",
+  "type": "tg"
+}

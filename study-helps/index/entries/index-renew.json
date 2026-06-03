@@ -1,0 +1,107 @@
+{
+  "_id": "index-renew",
+  "content": [
+    {
+      "text": "sunken cities could not be renewed, 4 Ne. 1:9.",
+      "references": [
+        {
+          "text": "4 Ne. 1:9",
+          "start": 36,
+          "end": 45,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "4-ne",
+            "book": "4nephi",
+            "chapter": 1,
+            "chapterId": "4nephi1",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "those who magnify callings are sanctified unto renewing of bodies, D&C 84:33. the Father has renewed and confirmed covenant upon Saints, D&C 84:48.",
+      "references": [
+        {
+          "text": "D&C 84:33",
+          "start": 67,
+          "end": 76,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 84,
+            "chapterId": "doctrineandcovenants84",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 84:48",
+          "start": 137,
+          "end": 146,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 84,
+            "chapterId": "doctrineandcovenants84",
+            "verses": [
+              {
+                "start": 48,
+                "end": 48
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "earth will be renewed, A of F 1:10.",
+      "references": [
+        {
+          "text": "A of F 1:10",
+          "start": 23,
+          "end": 34,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "a-of-f",
+            "book": "articlesoffaith",
+            "chapter": 1,
+            "chapterId": "articlesoffaith1",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-new",
+      "slug": "new",
+      "title": "New"
+    },
+    {
+      "entryId": "index-repair",
+      "slug": "repair",
+      "title": "Repair"
+    }
+  ],
+  "slug": "renew",
+  "title": "Renew",
+  "type": "index"
+}

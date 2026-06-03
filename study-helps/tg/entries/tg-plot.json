@@ -1,0 +1,73 @@
+{
+  "_id": "tg-plot",
+  "content": [
+    {
+      "text": "wicked plotteth against the just, Ps. 37:12.",
+      "references": [
+        {
+          "text": "Ps. 37:12",
+          "start": 34,
+          "end": 43,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 37,
+            "chapterId": "psalms37",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "that same being who did plot with Cain, Hel. 6:27 (6:30).",
+      "references": [
+        {
+          "text": "Hel. 6:27",
+          "start": 40,
+          "end": 49,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 6,
+            "chapterId": "helaman6",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "6:30",
+          "start": 51,
+          "end": 55,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 6,
+            "chapterId": "helaman6",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "plot",
+  "title": "Plot",
+  "type": "tg"
+}

@@ -1,0 +1,97 @@
+{
+  "_id": "tg-rail",
+  "content": [
+    {
+      "text": "he railed on them, 1 Sam. 25:14. He wrote also letters to rail on the Lord, 2 Chr. 32:17.",
+      "references": [
+        {
+          "text": "1 Sam. 25:14",
+          "start": 19,
+          "end": 31,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 25,
+            "chapterId": "1samuel25",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Chr. 32:17",
+          "start": 76,
+          "end": 88,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-chr",
+            "book": "2chronicles",
+            "chapter": 32,
+            "chapterId": "2chronicles32",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "they that passed by railed on him, Mark 15:29. one of the malefactors … railed on him, Luke 23:39.",
+      "references": [
+        {
+          "text": "Mark 15:29",
+          "start": 35,
+          "end": 45,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 15,
+            "chapterId": "mark15",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 23:39",
+          "start": 87,
+          "end": 97,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 23,
+            "chapterId": "luke23",
+            "verses": [
+              {
+                "start": 39,
+                "end": 39
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-railing",
+      "slug": "railing",
+      "title": "Railing"
+    }
+  ],
+  "slug": "rail",
+  "title": "Rail",
+  "type": "tg"
+}

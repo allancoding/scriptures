@@ -1,0 +1,114 @@
+{
+  "_id": "tg-estate",
+  "content": [
+    {
+      "text": "concerning the estate of the sons of men, Eccl. 3:18. shall return to your former estate, Ezek. 16:55.",
+      "references": [
+        {
+          "text": "Eccl. 3:18",
+          "start": 42,
+          "end": 52,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "eccl",
+            "book": "ecclesiastes",
+            "chapter": 3,
+            "chapterId": "ecclesiastes3",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 16:55",
+          "start": 90,
+          "end": 101,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 16,
+            "chapterId": "ezekiel16",
+            "verses": [
+              {
+                "start": 55,
+                "end": 55
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "angels which kept not their first estate, Jude 1:6.",
+      "references": [
+        {
+          "text": "Jude 1:6",
+          "start": 42,
+          "end": 50,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "jude",
+            "book": "jude",
+            "chapter": 1,
+            "chapterId": "jude1",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "keep their first estate shall be added upon, Abr. 3:26. angry, and kept not his first estate, Abr. 3:28.",
+      "references": [
+        {
+          "text": "Abr. 3:26",
+          "start": 45,
+          "end": 54,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 3,
+            "chapterId": "abraham3",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Abr. 3:28",
+          "start": 94,
+          "end": 103,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 3,
+            "chapterId": "abraham3",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "estate",
+  "title": "Estate",
+  "type": "tg"
+}

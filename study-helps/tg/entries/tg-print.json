@@ -1,0 +1,91 @@
+{
+  "_id": "tg-print",
+  "content": [
+    {
+      "text": "nor print any marks upon you, Lev. 19:28.",
+      "references": [
+        {
+          "text": "Lev. 19:28",
+          "start": 30,
+          "end": 40,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 19,
+            "chapterId": "leviticus19",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "see in his hands the print of the nails, John 20:25 (3 Ne. 11:14–15; D&C 6:37).",
+      "references": [
+        {
+          "text": "John 20:25",
+          "start": 41,
+          "end": 51,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 20,
+            "chapterId": "john20",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 11:14–15",
+          "start": 53,
+          "end": 67,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 11,
+            "chapterId": "3nephi11",
+            "verses": [
+              {
+                "start": 14,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 6:37",
+          "start": 69,
+          "end": 77,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 6,
+            "chapterId": "doctrineandcovenants6",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "print",
+  "title": "Print",
+  "type": "tg"
+}

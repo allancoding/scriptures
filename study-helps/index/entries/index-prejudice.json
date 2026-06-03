@@ -1,0 +1,93 @@
+{
+  "_id": "index-prejudice",
+  "content": [
+    {
+      "text": "remember kings, that prejudices may give way before truth, D&C 109:55–56. have mercy, that prejudices may be broken up, D&C 109:70.",
+      "references": [
+        {
+          "text": "D&C 109:55–56",
+          "start": 59,
+          "end": 72,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 109,
+            "chapterId": "doctrineandcovenants109",
+            "verses": [
+              {
+                "start": 55,
+                "end": 56
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 109:70",
+          "start": 120,
+          "end": 130,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 109,
+            "chapterId": "doctrineandcovenants109",
+            "verses": [
+              {
+                "start": 70,
+                "end": 70
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "prejudice against Joseph Smith, JS—H 1:22–25, 27.",
+      "references": [
+        {
+          "text": "JS—H 1:22–25, 27",
+          "start": 32,
+          "end": 48,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 22,
+                "end": 25
+              },
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-hate",
+      "slug": "hate",
+      "title": "Hate"
+    },
+    {
+      "entryId": "index-malice",
+      "slug": "malice",
+      "title": "Malice"
+    },
+    {
+      "entryId": "index-persecution",
+      "slug": "persecution",
+      "title": "Persecution"
+    }
+  ],
+  "slug": "prejudice",
+  "title": "Prejudice",
+  "type": "index"
+}

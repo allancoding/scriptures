@@ -1,0 +1,132 @@
+{
+  "_id": "tg-much",
+  "content": [
+    {
+      "text": "he that gathered much had nothing over, Ex. 16:18 (2 Cor. 8:15).",
+      "references": [
+        {
+          "text": "Ex. 16:18",
+          "start": 40,
+          "end": 49,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 16,
+            "chapterId": "exodus16",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Cor. 8:15",
+          "start": 51,
+          "end": 62,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 8,
+            "chapterId": "2corinthians8",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "much is given, of him shall be much required, Luke 12:48 (D&C 82:3). faithful in … least is faithful also in much, Luke 16:10.",
+      "references": [
+        {
+          "text": "Luke 12:48",
+          "start": 46,
+          "end": 56,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 12,
+            "chapterId": "luke12",
+            "verses": [
+              {
+                "start": 48,
+                "end": 48
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 82:3",
+          "start": 58,
+          "end": 66,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 82,
+            "chapterId": "doctrineandcovenants82",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 16:10",
+          "start": 115,
+          "end": 125,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 16,
+            "chapterId": "luke16",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "a steward over his own property … as much as is sufficient, D&C 42:32.",
+      "references": [
+        {
+          "text": "D&C 42:32",
+          "start": 60,
+          "end": 69,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 42,
+            "chapterId": "doctrineandcovenants42",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "much",
+  "title": "Much",
+  "type": "tg"
+}

@@ -1,0 +1,109 @@
+{
+  "_id": "tg-unloose",
+  "content": [
+    {
+      "text": "not worthy to stoop down and unloose, Mark 1:7 (Luke 3:16; John 1:27; 1 Ne. 10:8).",
+      "references": [
+        {
+          "text": "Mark 1:7",
+          "start": 38,
+          "end": 46,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 1,
+            "chapterId": "mark1",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 3:16",
+          "start": 48,
+          "end": 57,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 3,
+            "chapterId": "luke3",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 1:27",
+          "start": 59,
+          "end": 68,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 1,
+            "chapterId": "john1",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Ne. 10:8",
+          "start": 70,
+          "end": 80,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 10,
+            "chapterId": "1nephi10",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "angel … unloosed my bands, Abr. 1:15.",
+      "references": [
+        {
+          "text": "Abr. 1:15",
+          "start": 27,
+          "end": 36,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 1,
+            "chapterId": "abraham1",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "unloose",
+  "title": "Unloose",
+  "type": "tg"
+}

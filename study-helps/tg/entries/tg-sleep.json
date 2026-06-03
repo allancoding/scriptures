@@ -1,0 +1,829 @@
+{
+  "_id": "tg-sleep",
+  "content": [
+    {
+      "text": "God caused a deep sleep to fall upon Adam, Gen. 2:21 (Moses 3:21; Abr. 5:15). deep sleep fell upon Abram, Gen. 15:12. Samuel was laid down to sleep, 1 Sam. 3:3. he that keepeth Israel shall neither slumber nor sleep, Ps. 121:4. to sit up late … for so he giveth his beloved sleep, Ps. 127:2. How long wilt thou sleep, O sluggard, Prov. 6:9. Love not sleep, lest thou come to poverty, Prov. 20:13. Yet a little sleep, a little slumber, Prov. 24:33. sleep of a labouring man is sweet, Eccl. 5:12. poured out upon you the spirit of deep sleep, Isa. 29:10 (2 Ne. 27:5). sleep a perpetual sleep, and not wake, Jer. 51:39 (51:57). them that sleep in the dust of the earth shall awake, Dan. 12:2.",
+      "references": [
+        {
+          "text": "Gen. 2:21",
+          "start": 43,
+          "end": 52,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 2,
+            "chapterId": "genesis2",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 3:21",
+          "start": 54,
+          "end": 64,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 3,
+            "chapterId": "moses3",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Abr. 5:15",
+          "start": 66,
+          "end": 75,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 5,
+            "chapterId": "abraham5",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 15:12",
+          "start": 106,
+          "end": 116,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 15,
+            "chapterId": "genesis15",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Sam. 3:3",
+          "start": 149,
+          "end": 159,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 3,
+            "chapterId": "1samuel3",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 121:4",
+          "start": 217,
+          "end": 226,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 121,
+            "chapterId": "psalms121",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 127:2",
+          "start": 281,
+          "end": 290,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 127,
+            "chapterId": "psalms127",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 6:9",
+          "start": 330,
+          "end": 339,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 6,
+            "chapterId": "proverbs6",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 20:13",
+          "start": 384,
+          "end": 395,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 20,
+            "chapterId": "proverbs20",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 24:33",
+          "start": 435,
+          "end": 446,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 24,
+            "chapterId": "proverbs24",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eccl. 5:12",
+          "start": 483,
+          "end": 493,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "eccl",
+            "book": "ecclesiastes",
+            "chapter": 5,
+            "chapterId": "ecclesiastes5",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 29:10",
+          "start": 541,
+          "end": 551,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 29,
+            "chapterId": "isaiah29",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 27:5",
+          "start": 553,
+          "end": 563,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 27,
+            "chapterId": "2nephi27",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 51:39",
+          "start": 605,
+          "end": 615,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 51,
+            "chapterId": "jeremiah51",
+            "verses": [
+              {
+                "start": 39,
+                "end": 39
+              }
+            ]
+          }
+        },
+        {
+          "text": "51:57",
+          "start": 617,
+          "end": 622,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 51,
+            "chapterId": "jeremiah51",
+            "verses": [
+              {
+                "start": 57,
+                "end": 57
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 12:2",
+          "start": 679,
+          "end": 688,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 12,
+            "chapterId": "daniel12",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "maid is not dead, but sleepeth, Matt. 9:24 (Mark 5:39; Luke 8:52). While the bridegroom tarried, they all … slept, Matt. 25:5 (25:1–13). cometh unto the disciples, and findeth them asleep, Matt. 26:40. many bodies of the saints which slept arose, Matt. 27:52. Lest coming suddenly he find you sleeping, Mark 13:36. Why sleep ye? rise and pray, Luke 22:46. Lazarus sleepeth, John 11:11. it is high time to awake out of sleep, Rom. 13:11. weak and sickly among you, and many sleep, 1 Cor. 11:30. Christ … become the firstfruits of them that slept, 1 Cor. 15:20. We shall not all sleep, but we shall all be changed, 1 Cor. 15:51. which sleep in Jesus will God bring with him, 1 Thes. 4:14. let us not sleep, as do others, 1 Thes. 5:6.",
+      "references": [
+        {
+          "text": "Matt. 9:24",
+          "start": 32,
+          "end": 42,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 9,
+            "chapterId": "matthew9",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 5:39",
+          "start": 44,
+          "end": 53,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 5,
+            "chapterId": "mark5",
+            "verses": [
+              {
+                "start": 39,
+                "end": 39
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 8:52",
+          "start": 55,
+          "end": 64,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 8,
+            "chapterId": "luke8",
+            "verses": [
+              {
+                "start": 52,
+                "end": 52
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 25:5",
+          "start": 115,
+          "end": 125,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 25,
+            "chapterId": "matthew25",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "25:1–13",
+          "start": 127,
+          "end": 134,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 25,
+            "chapterId": "matthew25",
+            "verses": [
+              {
+                "start": 1,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 26:40",
+          "start": 189,
+          "end": 200,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 26,
+            "chapterId": "matthew26",
+            "verses": [
+              {
+                "start": 40,
+                "end": 40
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 27:52",
+          "start": 247,
+          "end": 258,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 27,
+            "chapterId": "matthew27",
+            "verses": [
+              {
+                "start": 52,
+                "end": 52
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 13:36",
+          "start": 303,
+          "end": 313,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 13,
+            "chapterId": "mark13",
+            "verses": [
+              {
+                "start": 36,
+                "end": 36
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 22:46",
+          "start": 344,
+          "end": 354,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 22,
+            "chapterId": "luke22",
+            "verses": [
+              {
+                "start": 46,
+                "end": 46
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 11:11",
+          "start": 374,
+          "end": 384,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 11,
+            "chapterId": "john11",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 13:11",
+          "start": 425,
+          "end": 435,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 13,
+            "chapterId": "romans13",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 11:30",
+          "start": 480,
+          "end": 492,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 11,
+            "chapterId": "1corinthians11",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 15:20",
+          "start": 546,
+          "end": 558,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 15,
+            "chapterId": "1corinthians15",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 15:51",
+          "start": 613,
+          "end": 625,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 15,
+            "chapterId": "1corinthians15",
+            "verses": [
+              {
+                "start": 51,
+                "end": 51
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Thes. 4:14",
+          "start": 673,
+          "end": 685,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-thes",
+            "book": "1thessalonians",
+            "chapter": 4,
+            "chapterId": "1thessalonians4",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Thes. 5:6",
+          "start": 719,
+          "end": 730,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-thes",
+            "book": "1thessalonians",
+            "chapter": 5,
+            "chapterId": "1thessalonians5",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "awake … even from the sleep of hell, 2 Ne. 1:13. he awakened them out of a deep sleep, Alma 5:7. not dead, but he sleepeth in God, Alma 19:8. Lord … watch over you in your sleep, Alma 37:37. redemption from an endless sleep, Morm. 9:13.",
+      "references": [
+        {
+          "text": "2 Ne. 1:13",
+          "start": 37,
+          "end": 47,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 1,
+            "chapterId": "2nephi1",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 5:7",
+          "start": 87,
+          "end": 95,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 5,
+            "chapterId": "alma5",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 19:8",
+          "start": 131,
+          "end": 140,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 19,
+            "chapterId": "alma19",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 37:37",
+          "start": 179,
+          "end": 189,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 37,
+            "chapterId": "alma37",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 9:13",
+          "start": 225,
+          "end": 235,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 9,
+            "chapterId": "mormon9",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "sinners stay and sleep until I shall call, D&C 43:18. saints that have slept shall come forth, D&C 45:45. they shall not sleep in the dust, D&C 63:51. they who have slept in their graves shall come forth, D&C 88:97. cease to sleep longer than is needful, D&C 88:124. when he dies he shall not sleep, D&C 101:31.",
+      "references": [
+        {
+          "text": "D&C 43:18",
+          "start": 43,
+          "end": 52,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 43,
+            "chapterId": "doctrineandcovenants43",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 45:45",
+          "start": 95,
+          "end": 104,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 45,
+            "chapterId": "doctrineandcovenants45",
+            "verses": [
+              {
+                "start": 45,
+                "end": 45
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 63:51",
+          "start": 140,
+          "end": 149,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 63,
+            "chapterId": "doctrineandcovenants63",
+            "verses": [
+              {
+                "start": 51,
+                "end": 51
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 88:97",
+          "start": 205,
+          "end": 214,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 97,
+                "end": 97
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 88:124",
+          "start": 255,
+          "end": 265,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 124,
+                "end": 124
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 101:31",
+          "start": 300,
+          "end": 310,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 101,
+            "chapterId": "doctrineandcovenants101",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-death",
+      "slug": "death",
+      "title": "Death"
+    },
+    {
+      "entryId": "tg-health",
+      "slug": "health",
+      "title": "Health"
+    },
+    {
+      "entryId": "tg-idleness",
+      "slug": "idleness",
+      "title": "Idleness"
+    },
+    {
+      "entryId": "tg-laziness",
+      "slug": "laziness",
+      "title": "Laziness"
+    },
+    {
+      "entryId": "tg-slumber",
+      "slug": "slumber",
+      "title": "Slumber"
+    }
+  ],
+  "slug": "sleep",
+  "title": "Sleep, Slept",
+  "type": "tg"
+}

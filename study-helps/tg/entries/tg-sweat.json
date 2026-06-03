@@ -1,0 +1,73 @@
+{
+  "_id": "tg-sweat",
+  "content": [
+    {
+      "text": "In the sweat of thy face shalt thou eat bread, Gen. 3:19 (Moses 4:25).",
+      "references": [
+        {
+          "text": "Gen. 3:19",
+          "start": 47,
+          "end": 56,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 3,
+            "chapterId": "genesis3",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 4:25",
+          "start": 58,
+          "end": 68,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 4,
+            "chapterId": "moses4",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "his sweat was as it were great drops of blood, Luke 22:44.",
+      "references": [
+        {
+          "text": "Luke 22:44",
+          "start": 47,
+          "end": 57,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 22,
+            "chapterId": "luke22",
+            "verses": [
+              {
+                "start": 44,
+                "end": 44
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "sweat",
+  "title": "Sweat",
+  "type": "tg"
+}

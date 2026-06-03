@@ -1,0 +1,102 @@
+{
+  "_id": "tg-passion",
+  "content": [
+    {
+      "text": "We also are men of like passions, Acts 14:15. Elias was a man subject to like passions as we, James 5:17.",
+      "references": [
+        {
+          "text": "Acts 14:15",
+          "start": 34,
+          "end": 44,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 14,
+            "chapterId": "acts14",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "James 5:17",
+          "start": 94,
+          "end": 104,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "james",
+            "book": "james",
+            "chapter": 5,
+            "chapterId": "james5",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "see that ye bridle all your passions, Alma 38:12. Morianton being a man of much passion, Alma 50:30.",
+      "references": [
+        {
+          "text": "Alma 38:12",
+          "start": 38,
+          "end": 48,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 38,
+            "chapterId": "alma38",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 50:30",
+          "start": 89,
+          "end": 99,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 50,
+            "chapterId": "alma50",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-lust",
+      "slug": "lust",
+      "title": "Lust"
+    },
+    {
+      "entryId": "tg-passion-of-jesus-christ",
+      "slug": "passion-of-jesus-christ",
+      "title": "Passion of Jesus Christ"
+    }
+  ],
+  "slug": "passion",
+  "title": "Passion",
+  "type": "tg"
+}

@@ -1,0 +1,546 @@
+{
+  "_id": "tg-ready",
+  "content": [
+    {
+      "text": "be ready in the morning, Ex. 34:2. be more ready to hear, Eccl. 5:1.",
+      "references": [
+        {
+          "text": "Ex. 34:2",
+          "start": 25,
+          "end": 33,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 34,
+            "chapterId": "exodus34",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eccl. 5:1",
+          "start": 58,
+          "end": 67,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "eccl",
+            "book": "ecclesiastes",
+            "chapter": 5,
+            "chapterId": "ecclesiastes5",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "all things are ready: come unto the marriage, Matt. 22:4. be ye also ready: for … the Son of man cometh, Matt. 24:44 (Luke 12:40; JS—M 1:48). ready went in with him to the marriage, Matt. 25:10. disciples … made ready the passover, Matt. 26:19 (Mark 14:16; Luke 22:13). spirit truly is ready, but the flesh is weak, Mark 14:38. make ready a people prepared for the Lord, Luke 1:17. Lord, I am ready to go with thee, Luke 22:33. your time is alway ready, John 7:6. I am ready not to be bound only, Acts 21:13. I am ready to preach the gospel to you, Rom. 1:15. declaration of your ready mind, 2 Cor. 8:19. be rich in good works, ready to distribute, 1 Tim. 6:18. be ready to every good work, Titus 3:1. faith unto salvation ready to be revealed, 1 Pet. 1:5. be ready always to give an answer, 1 Pet. 3:15. ready to judge the quick and the dead, 1 Pet. 4:5. his wife hath made herself ready, Rev. 19:7.",
+      "references": [
+        {
+          "text": "Matt. 22:4",
+          "start": 46,
+          "end": 56,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 22,
+            "chapterId": "matthew22",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 24:44",
+          "start": 105,
+          "end": 116,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 24,
+            "chapterId": "matthew24",
+            "verses": [
+              {
+                "start": 44,
+                "end": 44
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 12:40",
+          "start": 118,
+          "end": 128,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 12,
+            "chapterId": "luke12",
+            "verses": [
+              {
+                "start": 40,
+                "end": 40
+              }
+            ]
+          }
+        },
+        {
+          "text": "JS—M 1:48",
+          "start": 130,
+          "end": 139,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-m",
+            "book": "josephsmithmatthew",
+            "chapter": 1,
+            "chapterId": "josephsmithmatthew1",
+            "verses": [
+              {
+                "start": 48,
+                "end": 48
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 25:10",
+          "start": 182,
+          "end": 193,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 25,
+            "chapterId": "matthew25",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 26:19",
+          "start": 232,
+          "end": 243,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 26,
+            "chapterId": "matthew26",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 14:16",
+          "start": 245,
+          "end": 255,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 14,
+            "chapterId": "mark14",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 22:13",
+          "start": 257,
+          "end": 267,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 22,
+            "chapterId": "luke22",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 14:38",
+          "start": 316,
+          "end": 326,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 14,
+            "chapterId": "mark14",
+            "verses": [
+              {
+                "start": 38,
+                "end": 38
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 1:17",
+          "start": 371,
+          "end": 380,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 1,
+            "chapterId": "luke1",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 22:33",
+          "start": 416,
+          "end": 426,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 22,
+            "chapterId": "luke22",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 7:6",
+          "start": 454,
+          "end": 462,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 7,
+            "chapterId": "john7",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 21:13",
+          "start": 497,
+          "end": 507,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 21,
+            "chapterId": "acts21",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 1:15",
+          "start": 549,
+          "end": 558,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 1,
+            "chapterId": "romans1",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Cor. 8:19",
+          "start": 592,
+          "end": 603,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 8,
+            "chapterId": "2corinthians8",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Tim. 6:18",
+          "start": 649,
+          "end": 660,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 6,
+            "chapterId": "1timothy6",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Titus 3:1",
+          "start": 691,
+          "end": 700,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "titus",
+            "book": "titus",
+            "chapter": 3,
+            "chapterId": "titus3",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Pet. 1:5",
+          "start": 745,
+          "end": 755,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-pet",
+            "book": "1peter",
+            "chapter": 1,
+            "chapterId": "1peter1",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Pet. 3:15",
+          "start": 792,
+          "end": 803,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-pet",
+            "book": "1peter",
+            "chapter": 3,
+            "chapterId": "1peter3",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Pet. 4:5",
+          "start": 844,
+          "end": 854,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-pet",
+            "book": "1peter",
+            "chapter": 4,
+            "chapterId": "1peter4",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 19:7",
+          "start": 890,
+          "end": 899,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 19,
+            "chapterId": "revelation19",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "that you may be ready at the coming of the Bridegroom, D&C 33:17 (65:3). doeth good … ready to receive the fulness of my gospel, D&C 35:12. Watch, therefore, that ye may be ready, D&C 50:46. angels … ready and waiting to be sent forth, D&C 86:5. she is ready to be burned, D&C 88:94.",
+      "references": [
+        {
+          "text": "D&C 33:17",
+          "start": 55,
+          "end": 64,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 33,
+            "chapterId": "doctrineandcovenants33",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "65:3",
+          "start": 66,
+          "end": 70,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 65,
+            "chapterId": "doctrineandcovenants65",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 35:12",
+          "start": 129,
+          "end": 138,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 35,
+            "chapterId": "doctrineandcovenants35",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 50:46",
+          "start": 180,
+          "end": 189,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 50,
+            "chapterId": "doctrineandcovenants50",
+            "verses": [
+              {
+                "start": 46,
+                "end": 46
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 86:5",
+          "start": 236,
+          "end": 244,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 86,
+            "chapterId": "doctrineandcovenants86",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 88:94",
+          "start": 273,
+          "end": 282,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 94,
+                "end": 94
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "ready",
+  "title": "Ready",
+  "type": "tg"
+}

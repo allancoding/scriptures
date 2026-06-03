@@ -1,0 +1,61 @@
+{
+  "_id": "index-stream",
+  "content": [
+    {
+      "text": "fruitful tree planted in goodly land by pure stream, D&C 97:9. as well might man turn Missouri river up stream, D&C 121:33.",
+      "references": [
+        {
+          "text": "D&C 97:9",
+          "start": 53,
+          "end": 61,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 97,
+            "chapterId": "doctrineandcovenants97",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 121:33",
+          "start": 112,
+          "end": 122,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-river",
+      "slug": "river",
+      "title": "River"
+    },
+    {
+      "entryId": "index-spring",
+      "slug": "spring",
+      "title": "Spring"
+    }
+  ],
+  "slug": "stream",
+  "title": "Stream",
+  "type": "index"
+}

@@ -1,0 +1,97 @@
+{
+  "_id": "tg-advantage",
+  "content": [
+    {
+      "text": "What advantage then hath the Jew, Rom. 3:1. what advantageth it me, if the dead rise not, 1 Cor. 15:32. Lest Satan should get an advantage of us, 2 Cor. 2:11. having men’s persons in admiration because of advantage, Jude 1:16.",
+      "references": [
+        {
+          "text": "Rom. 3:1",
+          "start": 34,
+          "end": 42,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 3,
+            "chapterId": "romans3",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 15:32",
+          "start": 90,
+          "end": 102,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 15,
+            "chapterId": "1corinthians15",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Cor. 2:11",
+          "start": 146,
+          "end": 157,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 2,
+            "chapterId": "2corinthians2",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jude 1:16",
+          "start": 216,
+          "end": 225,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "jude",
+            "book": "jude",
+            "chapter": 1,
+            "chapterId": "jude1",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-gain",
+      "slug": "gain",
+      "title": "Gain"
+    },
+    {
+      "entryId": "tg-profit",
+      "slug": "profit",
+      "title": "Profit"
+    }
+  ],
+  "slug": "advantage",
+  "title": "Advantage",
+  "type": "tg"
+}

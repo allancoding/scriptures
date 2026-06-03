@@ -1,0 +1,50 @@
+{
+  "_id": "tg-pilgrimage",
+  "content": [
+    {
+      "text": "years of my pilgrimage are an hundred and thirty, Gen. 47:9. land of their pilgrimage, Ex. 6:4.",
+      "references": [
+        {
+          "text": "Gen. 47:9",
+          "start": 50,
+          "end": 59,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 47,
+            "chapterId": "genesis47",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 6:4",
+          "start": 87,
+          "end": 94,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 6,
+            "chapterId": "exodus6",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "pilgrimage",
+  "title": "Pilgrimage",
+  "type": "tg"
+}

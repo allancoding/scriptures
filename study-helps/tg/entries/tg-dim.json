@@ -1,0 +1,104 @@
+{
+  "_id": "tg-dim",
+  "content": [
+    {
+      "text": "Isaac … eyes were dim, Gen. 27:1. eyes of Israel were dim for age, Gen. 48:10. Moses … eye was not dim, Deut. 34:7. Eli … eyes began to wax dim, 1 Sam. 3:2 (4:15).",
+      "references": [
+        {
+          "text": "Gen. 27:1",
+          "start": 23,
+          "end": 32,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 27,
+            "chapterId": "genesis27",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 48:10",
+          "start": 67,
+          "end": 77,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 48,
+            "chapterId": "genesis48",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 34:7",
+          "start": 104,
+          "end": 114,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 34,
+            "chapterId": "deuteronomy34",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Sam. 3:2",
+          "start": 145,
+          "end": 155,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 3,
+            "chapterId": "1samuel3",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "4:15",
+          "start": 157,
+          "end": 161,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 4,
+            "chapterId": "1samuel4",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "dim",
+  "title": "Dim",
+  "type": "tg"
+}

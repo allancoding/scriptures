@@ -1,0 +1,127 @@
+{
+  "_id": "tg-blow",
+  "content": [
+    {
+      "text": "Thou didst blow with thy wind, Ex. 15:10. priests that blew with the trumpets, Josh. 6:9. great trumpet shall be blown, Isa. 27:13. spirit of the Lord bloweth upon it, Isa. 40:7.",
+      "references": [
+        {
+          "text": "Ex. 15:10",
+          "start": 31,
+          "end": 40,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 15,
+            "chapterId": "exodus15",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Josh. 6:9",
+          "start": 79,
+          "end": 88,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "josh",
+            "book": "joshua",
+            "chapter": 6,
+            "chapterId": "joshua6",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 27:13",
+          "start": 120,
+          "end": 130,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 27,
+            "chapterId": "isaiah27",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 40:7",
+          "start": 168,
+          "end": 177,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 40,
+            "chapterId": "isaiah40",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "wind bloweth where it listeth, John 3:8. wind should not blow on the earth, Rev. 7:1.",
+      "references": [
+        {
+          "text": "John 3:8",
+          "start": 31,
+          "end": 39,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 3,
+            "chapterId": "john3",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 7:1",
+          "start": 76,
+          "end": 84,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 7,
+            "chapterId": "revelation7",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "blow",
+  "title": "Blow",
+  "type": "tg"
+}

@@ -1,0 +1,562 @@
+{
+  "_id": "tg-river",
+  "content": [
+    {
+      "text": "river went out of Eden, Gen. 2:10 (Moses 3:10; Abr. 5:10). given this land, from the river of Egypt unto the great river, Gen. 15:18. Pharaoh dreamed: and, behold, he stood by the river, Gen. 41:1. river shall stink, Ex. 7:18. I dried up all the rivers of besieged places, 2 Kgs. 19:24 (Isa. 37:25). He turneth rivers into a wilderness, Ps. 107:33. river shall be wasted and dried up, Isa. 19:5. man shall be … as rivers of water in a dry place, Isa. 32:2. I will open rivers in high places, Isa. 41:18. I will even make … rivers in the desert, Isa. 43:19. I will extend peace to her like a river, Isa. 66:12.",
+      "references": [
+        {
+          "text": "Gen. 2:10",
+          "start": 24,
+          "end": 33,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 2,
+            "chapterId": "genesis2",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 3:10",
+          "start": 35,
+          "end": 45,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 3,
+            "chapterId": "moses3",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Abr. 5:10",
+          "start": 47,
+          "end": 56,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 5,
+            "chapterId": "abraham5",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 15:18",
+          "start": 122,
+          "end": 132,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 15,
+            "chapterId": "genesis15",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 41:1",
+          "start": 187,
+          "end": 196,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 41,
+            "chapterId": "genesis41",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 7:18",
+          "start": 217,
+          "end": 225,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 7,
+            "chapterId": "exodus7",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Kgs. 19:24",
+          "start": 273,
+          "end": 285,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 19,
+            "chapterId": "2kings19",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 37:25",
+          "start": 287,
+          "end": 297,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 37,
+            "chapterId": "isaiah37",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 107:33",
+          "start": 337,
+          "end": 347,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 107,
+            "chapterId": "psalms107",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 19:5",
+          "start": 385,
+          "end": 394,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 19,
+            "chapterId": "isaiah19",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 32:2",
+          "start": 446,
+          "end": 455,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 32,
+            "chapterId": "isaiah32",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 41:18",
+          "start": 492,
+          "end": 502,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 41,
+            "chapterId": "isaiah41",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 43:19",
+          "start": 545,
+          "end": 555,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 43,
+            "chapterId": "isaiah43",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 66:12",
+          "start": 598,
+          "end": 608,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 66,
+            "chapterId": "isaiah66",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "out of his belly shall flow rivers of living water, John 7:38. third angel poured out his vial upon the rivers, Rev. 16:4. he shewed me a pure river of water of life, Rev. 22:1.",
+      "references": [
+        {
+          "text": "John 7:38",
+          "start": 52,
+          "end": 61,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 7,
+            "chapterId": "john7",
+            "verses": [
+              {
+                "start": 38,
+                "end": 38
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 16:4",
+          "start": 112,
+          "end": 121,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 16,
+            "chapterId": "revelation16",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 22:1",
+          "start": 167,
+          "end": 176,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 22,
+            "chapterId": "revelation22",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "he called the name of the river, Laman, 1 Ne. 2:8. I beheld a river of water, 1 Ne. 8:13. What meaneth the river of water, 1 Ne. 15:26. had crossed the river Jordan he did make them mighty, 1 Ne. 17:32. hill … east of the river Sidon, Alma 2:15. they came to … many rivers, Hel. 3:4. Cumorah … in a land of many waters, rivers, Morm. 6:4.",
+      "references": [
+        {
+          "text": "1 Ne. 2:8",
+          "start": 40,
+          "end": 49,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 2,
+            "chapterId": "1nephi2",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Ne. 8:13",
+          "start": 78,
+          "end": 88,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 8,
+            "chapterId": "1nephi8",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Ne. 15:26",
+          "start": 123,
+          "end": 134,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 15,
+            "chapterId": "1nephi15",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Ne. 17:32",
+          "start": 190,
+          "end": 201,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 17,
+            "chapterId": "1nephi17",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 2:15",
+          "start": 235,
+          "end": 244,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 2,
+            "chapterId": "alma2",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 3:4",
+          "start": 274,
+          "end": 282,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 3,
+            "chapterId": "helaman3",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 6:4",
+          "start": 328,
+          "end": 337,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 6,
+            "chapterId": "mormon6",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "stretch forth his puny arm to stop the Missouri river, D&C 121:33. Peter, James, and John … on the Susquehanna river, D&C 128:20. at my rebuke … I make the rivers a wilderness, D&C 133:68.",
+      "references": [
+        {
+          "text": "D&C 121:33",
+          "start": 55,
+          "end": 65,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 128:20",
+          "start": 118,
+          "end": 128,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 128,
+            "chapterId": "doctrineandcovenants128",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 133:68",
+          "start": 177,
+          "end": 187,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 133,
+            "chapterId": "doctrineandcovenants133",
+            "verses": [
+              {
+                "start": 68,
+                "end": 68
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "rivers shall turn from their course, Moses 6:34 (7:13).",
+      "references": [
+        {
+          "text": "Moses 6:34",
+          "start": 37,
+          "end": 47,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 6,
+            "chapterId": "moses6",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        },
+        {
+          "text": "7:13",
+          "start": 49,
+          "end": 53,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 7,
+            "chapterId": "moses7",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-stream",
+      "slug": "stream",
+      "title": "Stream"
+    }
+  ],
+  "slug": "river",
+  "title": "River",
+  "type": "tg"
+}

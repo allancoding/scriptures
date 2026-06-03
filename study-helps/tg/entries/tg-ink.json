@@ -1,0 +1,91 @@
+{
+  "_id": "tg-ink",
+  "content": [
+    {
+      "text": "I wrote them with ink in the book, Jer. 36:18.",
+      "references": [
+        {
+          "text": "Jer. 36:18",
+          "start": 35,
+          "end": 45,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 36,
+            "chapterId": "jeremiah36",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "written not with ink, but with the Spirit, 2 Cor. 3:3. I would not write with paper and ink, 2 Jn. 1:12. I will not with ink and pen write unto thee, 3 Jn. 1:13.",
+      "references": [
+        {
+          "text": "2 Cor. 3:3",
+          "start": 43,
+          "end": 53,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 3,
+            "chapterId": "2corinthians3",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Jn. 1:12",
+          "start": 93,
+          "end": 103,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-jn",
+            "book": "2john",
+            "chapter": 1,
+            "chapterId": "2john1",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Jn. 1:13",
+          "start": 150,
+          "end": 160,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "3-jn",
+            "book": "3john",
+            "chapter": 1,
+            "chapterId": "3john1",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "ink",
+  "title": "Ink",
+  "type": "tg"
+}

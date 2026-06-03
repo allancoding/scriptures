@@ -1,0 +1,55 @@
+{
+  "_id": "tg-collection",
+  "content": [
+    {
+      "text": "out of Jerusalem the collection, 2 Chr. 24:6.",
+      "references": [
+        {
+          "text": "2 Chr. 24:6",
+          "start": 33,
+          "end": 44,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-chr",
+            "book": "2chronicles",
+            "chapter": 24,
+            "chapterId": "2chronicles24",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Now concerning the collection for the saints, 1 Cor. 16:1.",
+      "references": [
+        {
+          "text": "1 Cor. 16:1",
+          "start": 46,
+          "end": 57,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 16,
+            "chapterId": "1corinthians16",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "collection",
+  "title": "Collection",
+  "type": "tg"
+}

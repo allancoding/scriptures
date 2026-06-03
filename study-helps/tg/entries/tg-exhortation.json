@@ -1,0 +1,73 @@
+{
+  "_id": "tg-exhortation",
+  "content": [
+    {
+      "text": "give attendance to reading, to exhortation, 1 Tim. 4:13.",
+      "references": [
+        {
+          "text": "1 Tim. 4:13",
+          "start": 44,
+          "end": 55,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 4,
+            "chapterId": "1timothy4",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "thy calling is to exhortation, D&C 23:3. strengthen your brethren … in all your exhortations, D&C 108:7.",
+      "references": [
+        {
+          "text": "D&C 23:3",
+          "start": 31,
+          "end": 39,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 23,
+            "chapterId": "doctrineandcovenants23",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 108:7",
+          "start": 94,
+          "end": 103,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 108,
+            "chapterId": "doctrineandcovenants108",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "exhortation",
+  "title": "Exhortation",
+  "type": "tg"
+}

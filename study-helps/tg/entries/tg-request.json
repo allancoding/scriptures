@@ -1,0 +1,127 @@
+{
+  "_id": "tg-request",
+  "content": [
+    {
+      "text": "Daniel requested of the king, Dan. 2:49.",
+      "references": [
+        {
+          "text": "Dan. 2:49",
+          "start": 30,
+          "end": 39,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 2,
+            "chapterId": "daniel2",
+            "verses": [
+              {
+                "start": 49,
+                "end": 49
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "let your requests be made known unto God, Philip. 4:6.",
+      "references": [
+        {
+          "text": "Philip. 4:6",
+          "start": 42,
+          "end": 53,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "philip",
+            "book": "philippians",
+            "chapter": 4,
+            "chapterId": "philippians4",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "this thing was pleasing unto me, Jacob, for I had requested it, Jacob 7:22.",
+      "references": [
+        {
+          "text": "Jacob 7:22",
+          "start": 64,
+          "end": 74,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 7,
+            "chapterId": "jacob7",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "request him to shake hands with you, D&C 129:4.",
+      "references": [
+        {
+          "text": "D&C 129:4",
+          "start": 37,
+          "end": 46,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 129,
+            "chapterId": "doctrineandcovenants129",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-ask",
+      "slug": "ask",
+      "title": "Ask"
+    },
+    {
+      "entryId": "tg-beg",
+      "slug": "beg",
+      "title": "Beg"
+    },
+    {
+      "entryId": "tg-beseech",
+      "slug": "beseech",
+      "title": "Beseech"
+    },
+    {
+      "entryId": "tg-entreat",
+      "slug": "entreat",
+      "title": "Entreat"
+    },
+    {
+      "entryId": "tg-petition",
+      "slug": "petition",
+      "title": "Petition"
+    }
+  ],
+  "slug": "request",
+  "title": "Request",
+  "type": "tg"
+}

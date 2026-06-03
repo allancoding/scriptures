@@ -1,0 +1,151 @@
+{
+  "_id": "tg-examine",
+  "content": [
+    {
+      "text": "Examine me, O Lord, and prove me, Ps. 26:2.",
+      "references": [
+        {
+          "text": "Ps. 26:2",
+          "start": 34,
+          "end": 42,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 26,
+            "chapterId": "psalms26",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "having examined him before you, Luke 23:14. If we this day be examined of the good deed done, Acts 4:9. he should be examined by scourging, Acts 22:24. Mine answer to them that do examine me, 1 Cor. 9:3. let a man examine himself, 1 Cor. 11:28. Examine yourselves, whether ye be in the faith, 2 Cor. 13:5.",
+      "references": [
+        {
+          "text": "Luke 23:14",
+          "start": 32,
+          "end": 42,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 23,
+            "chapterId": "luke23",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 4:9",
+          "start": 94,
+          "end": 102,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 4,
+            "chapterId": "acts4",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 22:24",
+          "start": 140,
+          "end": 150,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 22,
+            "chapterId": "acts22",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 9:3",
+          "start": 192,
+          "end": 202,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 9,
+            "chapterId": "1corinthians9",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 11:28",
+          "start": 231,
+          "end": 243,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 11,
+            "chapterId": "1corinthians11",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Cor. 13:5",
+          "start": 293,
+          "end": 304,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 13,
+            "chapterId": "2corinthians13",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-test",
+      "slug": "test",
+      "title": "Test"
+    }
+  ],
+  "slug": "examine",
+  "title": "Examine",
+  "type": "tg"
+}

@@ -1,0 +1,120 @@
+{
+  "_id": "tg-occasion",
+  "content": [
+    {
+      "text": "princes sought to find occasion against Daniel, Dan. 6:4.",
+      "references": [
+        {
+          "text": "Dan. 6:4",
+          "start": 48,
+          "end": 56,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 6,
+            "chapterId": "daniel6",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "sin, taking occasion by the commandment, wrought … concupiscence, Rom. 7:8. no man put a stumblingblock or an occasion to fall, Rom. 14:13. give none occasion to the adversary to speak, 1 Tim. 5:14.",
+      "references": [
+        {
+          "text": "Rom. 7:8",
+          "start": 66,
+          "end": 74,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 7,
+            "chapterId": "romans7",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 14:13",
+          "start": 128,
+          "end": 138,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 14,
+            "chapterId": "romans14",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Tim. 5:14",
+          "start": 186,
+          "end": 197,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 5,
+            "chapterId": "1timothy5",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "sought occasion against one another and forgave not, D&C 64:8.",
+      "references": [
+        {
+          "text": "D&C 64:8",
+          "start": 53,
+          "end": 61,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 64,
+            "chapterId": "doctrineandcovenants64",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-cause",
+      "slug": "cause",
+      "title": "Cause"
+    }
+  ],
+  "slug": "occasion",
+  "title": "Occasion",
+  "type": "tg"
+}

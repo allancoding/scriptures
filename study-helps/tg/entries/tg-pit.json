@@ -1,0 +1,662 @@
+{
+  "_id": "tg-pit",
+  "content": [
+    {
+      "text": "let us slay him, and cast him into some pit, Gen. 37:20. if a man shall open a pit, or if a man shall dig a pit, Ex. 21:33. they go down quick into the pit, Num. 16:30. They … went down alive into the pit, Num. 16:33. ye dig a pit for your friend, Job 6:27. He keepeth back his soul from the pit, Job 33:18. heathen are sunk down in the pit that they made, Ps. 9:15. I become like them that go down into the pit, Ps. 28:1. He brought me up also out of an horrible pit, Ps. 40:2. they have digged a pit before me, Ps. 57:6. I am counted with them that go down into the pit, Ps. 88:4. The proud have digged pits for me, Ps. 119:85. lest I be like unto them that go down into the pit, Ps. 143:7. Whoso diggeth a pit shall fall therein, Prov. 26:27 (Eccl. 10:8). they have digged a pit for my soul, Jer. 18:20. I have sent forth thy prisoners out of the pit, Zech. 9:11.",
+      "references": [
+        {
+          "text": "Gen. 37:20",
+          "start": 45,
+          "end": 55,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 37,
+            "chapterId": "genesis37",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 21:33",
+          "start": 113,
+          "end": 122,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 21,
+            "chapterId": "exodus21",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 16:30",
+          "start": 157,
+          "end": 167,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 16,
+            "chapterId": "numbers16",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 16:33",
+          "start": 206,
+          "end": 216,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 16,
+            "chapterId": "numbers16",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "Job 6:27",
+          "start": 248,
+          "end": 256,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "job",
+            "book": "job",
+            "chapter": 6,
+            "chapterId": "job6",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Job 33:18",
+          "start": 297,
+          "end": 306,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "job",
+            "book": "job",
+            "chapter": 33,
+            "chapterId": "job33",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 9:15",
+          "start": 357,
+          "end": 365,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 9,
+            "chapterId": "psalms9",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 28:1",
+          "start": 413,
+          "end": 421,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 28,
+            "chapterId": "psalms28",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 40:2",
+          "start": 469,
+          "end": 477,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 40,
+            "chapterId": "psalms40",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 57:6",
+          "start": 513,
+          "end": 521,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 57,
+            "chapterId": "psalms57",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 88:4",
+          "start": 573,
+          "end": 581,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 88,
+            "chapterId": "psalms88",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 119:85",
+          "start": 618,
+          "end": 628,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 119,
+            "chapterId": "psalms119",
+            "verses": [
+              {
+                "start": 85,
+                "end": 85
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 143:7",
+          "start": 682,
+          "end": 691,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 143,
+            "chapterId": "psalms143",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 26:27",
+          "start": 733,
+          "end": 744,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 26,
+            "chapterId": "proverbs26",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eccl. 10:8",
+          "start": 746,
+          "end": 756,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "eccl",
+            "book": "ecclesiastes",
+            "chapter": 10,
+            "chapterId": "ecclesiastes10",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 18:20",
+          "start": 795,
+          "end": 805,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 18,
+            "chapterId": "jeremiah18",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Zech. 9:11",
+          "start": 855,
+          "end": 865,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "zech",
+            "book": "zechariah",
+            "chapter": 9,
+            "chapterId": "zechariah9",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "one sheep, and if it fall into a pit on the sabbath, Matt. 12:11 (Luke 14:5). to him was given the key of the bottomless pit, Rev. 9:1. he opened the bottomless pit, Rev. 9:2. beast that ascendeth out of the bottomless pit, Rev. 11:7 (17:8). having the key of the bottomless pit, Rev. 20:1. cast him into the bottomless pit, Rev. 20:3.",
+      "references": [
+        {
+          "text": "Matt. 12:11",
+          "start": 53,
+          "end": 64,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 12,
+            "chapterId": "matthew12",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 14:5",
+          "start": 66,
+          "end": 75,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 14,
+            "chapterId": "luke14",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 9:1",
+          "start": 126,
+          "end": 134,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 9,
+            "chapterId": "revelation9",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 9:2",
+          "start": 166,
+          "end": 174,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 9,
+            "chapterId": "revelation9",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 11:7",
+          "start": 224,
+          "end": 233,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 11,
+            "chapterId": "revelation11",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "17:8",
+          "start": 235,
+          "end": 239,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 17,
+            "chapterId": "revelation17",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 20:1",
+          "start": 280,
+          "end": 289,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 20,
+            "chapterId": "revelation20",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 20:3",
+          "start": 325,
+          "end": 334,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 20,
+            "chapterId": "revelation20",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "that great pit … digged for them by that great and abominable church, 1 Ne. 14:3. shall fall into the pit which they digged to ensnare, 1 Ne. 22:14. Look … to the hole of the pit, 2 Ne. 8:1. brought down to hell, to the sides of the pit, 2 Ne. 24:15. dig a pit for thy neighbor, 2 Ne. 28:8. they could not dig pits sufficient to hold them, 3 Ne. 28:20. some of them they cast into pits, Ether 9:29.",
+      "references": [
+        {
+          "text": "1 Ne. 14:3",
+          "start": 70,
+          "end": 80,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 14,
+            "chapterId": "1nephi14",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Ne. 22:14",
+          "start": 136,
+          "end": 147,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 22,
+            "chapterId": "1nephi22",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 8:1",
+          "start": 180,
+          "end": 189,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 8,
+            "chapterId": "2nephi8",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 24:15",
+          "start": 238,
+          "end": 249,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 24,
+            "chapterId": "2nephi24",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 28:8",
+          "start": 279,
+          "end": 289,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 28,
+            "chapterId": "2nephi28",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 28:20",
+          "start": 340,
+          "end": 351,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 28,
+            "chapterId": "3nephi28",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 9:29",
+          "start": 387,
+          "end": 397,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 9,
+            "chapterId": "ether9",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "diggeth a pit for them shall fall into the same himself, D&C 109:25. if thou shouldst be cast into the pit, D&C 122:7.",
+      "references": [
+        {
+          "text": "D&C 109:25",
+          "start": 57,
+          "end": 67,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 109,
+            "chapterId": "doctrineandcovenants109",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 122:7",
+          "start": 108,
+          "end": 117,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 122,
+            "chapterId": "doctrineandcovenants122",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-death",
+      "slug": "death",
+      "title": "Death"
+    },
+    {
+      "entryId": "tg-grave-noun",
+      "slug": "grave-noun",
+      "title": "Grave [noun]"
+    },
+    {
+      "entryId": "tg-hell",
+      "slug": "hell",
+      "title": "Hell"
+    },
+    {
+      "entryId": "tg-spirits-in-prison",
+      "slug": "spirits-in-prison",
+      "title": "Spirits in Prison"
+    }
+  ],
+  "slug": "pit",
+  "title": "Pit",
+  "type": "tg"
+}

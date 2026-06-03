@@ -1,0 +1,50 @@
+{
+  "_id": "tg-comeliness",
+  "content": [
+    {
+      "text": "he hath no form nor comeliness, Isa. 53:2 (Mosiah 14:2).",
+      "references": [
+        {
+          "text": "Isa. 53:2",
+          "start": 32,
+          "end": 41,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 53,
+            "chapterId": "isaiah53",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 14:2",
+          "start": 43,
+          "end": 54,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 14,
+            "chapterId": "mosiah14",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "comeliness",
+  "title": "Comeliness",
+  "type": "tg"
+}

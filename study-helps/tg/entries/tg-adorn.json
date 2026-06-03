@@ -1,0 +1,68 @@
+{
+  "_id": "tg-adorn",
+  "content": [
+    {
+      "text": "women adorn themselves in modest apparel, 1 Tim. 2:9. that they may adorn the doctrine of God, Titus 2:10. Whose adorning let it not be that outward adorning, 1 Pet. 3:3.",
+      "references": [
+        {
+          "text": "1 Tim. 2:9",
+          "start": 42,
+          "end": 52,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 2,
+            "chapterId": "1timothy2",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Titus 2:10",
+          "start": 95,
+          "end": 105,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "titus",
+            "book": "titus",
+            "chapter": 2,
+            "chapterId": "titus2",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Pet. 3:3",
+          "start": 159,
+          "end": 169,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-pet",
+            "book": "1peter",
+            "chapter": 3,
+            "chapterId": "1peter3",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "adorn",
+  "title": "Adorn, Adorning",
+  "type": "tg"
+}

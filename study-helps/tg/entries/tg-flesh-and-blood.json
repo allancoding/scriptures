@@ -1,0 +1,202 @@
+{
+  "_id": "tg-flesh-and-blood",
+  "content": [
+    {
+      "text": "burnt offerings, the flesh and the blood, Deut. 12:27.",
+      "references": [
+        {
+          "text": "Deut. 12:27",
+          "start": 42,
+          "end": 53,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 12,
+            "chapterId": "deuteronomy12",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "flesh and blood hath not revealed it unto thee, Matt. 16:17. flesh and blood cannot inherit the kingdom of God, 1 Cor. 15:50. I conferred not with flesh and blood, Gal. 1:16. we wrestle not against flesh and blood, Eph. 6:12. children are partakers of flesh and blood, Heb. 2:14.",
+      "references": [
+        {
+          "text": "Matt. 16:17",
+          "start": 48,
+          "end": 59,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 16,
+            "chapterId": "matthew16",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 15:50",
+          "start": 112,
+          "end": 124,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 15,
+            "chapterId": "1corinthians15",
+            "verses": [
+              {
+                "start": 50,
+                "end": 50
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gal. 1:16",
+          "start": 164,
+          "end": 173,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "gal",
+            "book": "galatians",
+            "chapter": 1,
+            "chapterId": "galatians1",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eph. 6:12",
+          "start": 215,
+          "end": 224,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "eph",
+            "book": "ephesians",
+            "chapter": 6,
+            "chapterId": "ephesians6",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 2:14",
+          "start": 269,
+          "end": 278,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 2,
+            "chapterId": "hebrews2",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "take upon him flesh and blood, Mosiah 7:27. eateth and drinketh my flesh and blood, 3 Ne. 18:29. I shall take upon me flesh and blood, Ether 3:9.",
+      "references": [
+        {
+          "text": "Mosiah 7:27",
+          "start": 31,
+          "end": 42,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 7,
+            "chapterId": "mosiah7",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 18:29",
+          "start": 84,
+          "end": 95,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 18,
+            "chapterId": "3nephi18",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 3:9",
+          "start": 135,
+          "end": 144,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 3,
+            "chapterId": "ether3",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-blood",
+      "slug": "blood",
+      "title": "Blood"
+    },
+    {
+      "entryId": "tg-flesh",
+      "slug": "flesh",
+      "title": "Flesh"
+    },
+    {
+      "entryId": "tg-mortality",
+      "slug": "mortality",
+      "title": "Mortality"
+    }
+  ],
+  "slug": "flesh-and-blood",
+  "title": "Flesh and Blood",
+  "type": "tg"
+}

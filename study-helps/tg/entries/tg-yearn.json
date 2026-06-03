@@ -1,0 +1,55 @@
+{
+  "_id": "tg-yearn",
+  "content": [
+    {
+      "text": "his bowels did yearn upon his brother, Gen. 43:30.",
+      "references": [
+        {
+          "text": "Gen. 43:30",
+          "start": 39,
+          "end": 49,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 43,
+            "chapterId": "genesis43",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "heart swelled wide … and his bowels yearned, Moses 7:41.",
+      "references": [
+        {
+          "text": "Moses 7:41",
+          "start": 45,
+          "end": 55,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 7,
+            "chapterId": "moses7",
+            "verses": [
+              {
+                "start": 41,
+                "end": 41
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "yearn",
+  "title": "Yearn",
+  "type": "tg"
+}

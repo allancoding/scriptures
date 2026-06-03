@@ -1,0 +1,50 @@
+{
+  "_id": "bd-bat",
+  "content": [
+    {
+      "text": "Included in the list of unclean birds (Lev. 11:19; Deut. 14:18).",
+      "references": [
+        {
+          "text": "Lev. 11:19",
+          "start": 39,
+          "end": 49,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 11,
+            "chapterId": "leviticus11",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 14:18",
+          "start": 51,
+          "end": 62,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 14,
+            "chapterId": "deuteronomy14",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "bat",
+  "title": "Bat",
+  "type": "bd"
+}

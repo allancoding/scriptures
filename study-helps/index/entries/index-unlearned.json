@@ -1,0 +1,53 @@
+{
+  "_id": "index-unlearned",
+  "content": [
+    {
+      "text": "those who are unlearned shall thresh nations, D&C 35:13.",
+      "references": [
+        {
+          "text": "D&C 35:13",
+          "start": 46,
+          "end": 55,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 35,
+            "chapterId": "doctrineandcovenants35",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-humble",
+      "slug": "humble",
+      "title": "Humble"
+    },
+    {
+      "entryId": "index-ignorance",
+      "slug": "ignorance",
+      "title": "Ignorance"
+    },
+    {
+      "entryId": "index-small",
+      "slug": "small",
+      "title": "Small"
+    },
+    {
+      "entryId": "index-weak",
+      "slug": "weak",
+      "title": "Weak"
+    }
+  ],
+  "slug": "unlearned",
+  "title": "Unlearned",
+  "type": "index"
+}

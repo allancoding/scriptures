@@ -1,0 +1,50 @@
+{
+  "_id": "bd-agabus",
+  "content": [
+    {
+      "text": "A prophet who foretold a famine (Acts 11:28) and Paul’s imprisonment (21:10).",
+      "references": [
+        {
+          "text": "Acts 11:28",
+          "start": 33,
+          "end": 43,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 11,
+            "chapterId": "acts11",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "21:10",
+          "start": 70,
+          "end": 75,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 21,
+            "chapterId": "acts21",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "agabus",
+  "title": "Agabus",
+  "type": "bd"
+}

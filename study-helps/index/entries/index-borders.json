@@ -1,0 +1,74 @@
+{
+  "_id": "index-borders",
+  "content": [
+    {
+      "text": "Zion’s borders must be enlarged, D&C 82:14 (107:74; 133:9).",
+      "references": [
+        {
+          "text": "D&C 82:14",
+          "start": 33,
+          "end": 42,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 82,
+            "chapterId": "doctrineandcovenants82",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "107:74",
+          "start": 44,
+          "end": 50,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 107,
+            "chapterId": "doctrineandcovenants107",
+            "verses": [
+              {
+                "start": 74,
+                "end": 74
+              }
+            ]
+          }
+        },
+        {
+          "text": "133:9",
+          "start": 52,
+          "end": 57,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 133,
+            "chapterId": "doctrineandcovenants133",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-boundaries",
+      "slug": "boundaries",
+      "title": "Boundaries"
+    }
+  ],
+  "slug": "borders",
+  "title": "Borders",
+  "type": "index"
+}

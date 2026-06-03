@@ -1,0 +1,61 @@
+{
+  "_id": "index-earthly",
+  "content": [
+    {
+      "text": "Saints to be equal in earthly things, D&C 78:5. every man is accountable as steward over earthly things, D&C 104:13.",
+      "references": [
+        {
+          "text": "D&C 78:5",
+          "start": 38,
+          "end": 46,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 78,
+            "chapterId": "doctrineandcovenants78",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 104:13",
+          "start": 105,
+          "end": 115,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 104,
+            "chapterId": "doctrineandcovenants104",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-earth",
+      "slug": "earth",
+      "title": "Earth"
+    },
+    {
+      "entryId": "index-world",
+      "slug": "world",
+      "title": "World"
+    }
+  ],
+  "slug": "earthly",
+  "title": "Earthly",
+  "type": "index"
+}

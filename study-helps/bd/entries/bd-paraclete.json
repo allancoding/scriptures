@@ -1,0 +1,90 @@
+{
+  "_id": "bd-paraclete",
+  "content": [
+    {
+      "text": "The word does not occur in the KJV. It is an English form of the Greek parakletos, a name applied by the Lord (John 14:16, 26; 15:26; 16:7) to the Holy Spirit and that may be translated Comforter, Advocate, or Helper. The same name is applied by John (1 Jn. 2:1) to the Lord Himself. Advocate is probably the English word that most nearly represents the meaning of the Greek.",
+      "references": [
+        {
+          "text": "John 14:16, 26",
+          "start": 111,
+          "end": 125,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 14,
+            "chapterId": "john14",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              },
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "15:26",
+          "start": 127,
+          "end": 132,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 15,
+            "chapterId": "john15",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "16:7",
+          "start": 134,
+          "end": 138,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 16,
+            "chapterId": "john16",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Jn. 2:1",
+          "start": 252,
+          "end": 261,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-jn",
+            "book": "1john",
+            "chapter": 2,
+            "chapterId": "1john2",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "paraclete",
+  "title": "Paraclete",
+  "type": "bd"
+}

@@ -1,0 +1,156 @@
+{
+  "_id": "tg-tax",
+  "content": [
+    {
+      "text": "he taxed the land to give the money, 2 Kgs. 23:35. raiser of taxes in the glory of the kingdom, Dan. 11:20.",
+      "references": [
+        {
+          "text": "2 Kgs. 23:35",
+          "start": 37,
+          "end": 49,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 23,
+            "chapterId": "2kings23",
+            "verses": [
+              {
+                "start": 35,
+                "end": 35
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 11:20",
+          "start": 96,
+          "end": 106,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 11,
+            "chapterId": "daniel11",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "decree … that all the world should be taxed, Luke 2:1. rose up Judas of Galilee in the days of the taxing, Acts 5:37.",
+      "references": [
+        {
+          "text": "Luke 2:1",
+          "start": 45,
+          "end": 53,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 2,
+            "chapterId": "luke2",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 5:37",
+          "start": 107,
+          "end": 116,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 5,
+            "chapterId": "acts5",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "taxed with a tax which is grievous to be borne, Mosiah 7:15 (Ether 10:5). laid a tax of one fifth part of all they possessed, Mosiah 11:3.",
+      "references": [
+        {
+          "text": "Mosiah 7:15",
+          "start": 48,
+          "end": 59,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 7,
+            "chapterId": "mosiah7",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 10:5",
+          "start": 61,
+          "end": 71,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 10,
+            "chapterId": "ether10",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 11:3",
+          "start": 126,
+          "end": 137,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 11,
+            "chapterId": "mosiah11",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-tribute",
+      "slug": "tribute",
+      "title": "Tribute"
+    }
+  ],
+  "slug": "tax",
+  "title": "Tax",
+  "type": "tg"
+}

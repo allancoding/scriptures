@@ -1,0 +1,120 @@
+{
+  "_id": "tg-evangelist",
+  "content": [
+    {
+      "text": "Philip the evangelist, Acts 21:8. he gave … some, evangelists, Eph. 4:11. do the work of an evangelist, 2 Tim. 4:5.",
+      "references": [
+        {
+          "text": "Acts 21:8",
+          "start": 23,
+          "end": 32,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 21,
+            "chapterId": "acts21",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eph. 4:11",
+          "start": 63,
+          "end": 72,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "eph",
+            "book": "ephesians",
+            "chapter": 4,
+            "chapterId": "ephesians4",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Tim. 4:5",
+          "start": 104,
+          "end": 114,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-tim",
+            "book": "2timothy",
+            "chapter": 4,
+            "chapterId": "2timothy4",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "duty of the Twelve … to ordain evangelical ministers, D&C 107:39.",
+      "references": [
+        {
+          "text": "D&C 107:39",
+          "start": 54,
+          "end": 64,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 107,
+            "chapterId": "doctrineandcovenants107",
+            "verses": [
+              {
+                "start": 39,
+                "end": 39
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "We believe in the same organization … evangelists, A of F 1:6.",
+      "references": [
+        {
+          "text": "A of F 1:6",
+          "start": 51,
+          "end": 61,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "a-of-f",
+            "book": "articlesoffaith",
+            "chapter": 1,
+            "chapterId": "articlesoffaith1",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-patriarch",
+      "slug": "patriarch",
+      "title": "Patriarch"
+    }
+  ],
+  "slug": "evangelist",
+  "title": "Evangelist",
+  "type": "tg"
+}

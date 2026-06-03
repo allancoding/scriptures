@@ -1,0 +1,50 @@
+{
+  "_id": "tg-lintel",
+  "content": [
+    {
+      "text": "strike the lintel and the two side posts with the blood, Ex. 12:22. Lord … said, Smite the lintel of the door, Amos 9:1.",
+      "references": [
+        {
+          "text": "Ex. 12:22",
+          "start": 57,
+          "end": 66,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 12,
+            "chapterId": "exodus12",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Amos 9:1",
+          "start": 111,
+          "end": 119,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "amos",
+            "book": "amos",
+            "chapter": 9,
+            "chapterId": "amos9",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "lintel",
+  "title": "Lintel",
+  "type": "tg"
+}

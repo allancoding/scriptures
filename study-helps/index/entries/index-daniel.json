@@ -1,0 +1,91 @@
+{
+  "_id": "index-daniel",
+  "content": [
+    {
+      "text": "spoke of Adam’s visit to Adam-ondi-Ahman, D&C 116 (Dan. 7:9–14). foresaw establishing of God’s kingdom, D&C 138:44 (Dan. 2:34–35, 44–45).",
+      "references": [
+        {
+          "text": "D&C 116",
+          "start": 42,
+          "end": 49,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 116,
+            "chapterId": "doctrineandcovenants116",
+            "verses": []
+          }
+        },
+        {
+          "text": "Dan. 7:9–14",
+          "start": 51,
+          "end": 62,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 7,
+            "chapterId": "daniel7",
+            "verses": [
+              {
+                "start": 9,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 138:44",
+          "start": 104,
+          "end": 114,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 138,
+            "chapterId": "doctrineandcovenants138",
+            "verses": [
+              {
+                "start": 44,
+                "end": 44
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 2:34–35, 44–45",
+          "start": 116,
+          "end": 135,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 2,
+            "chapterId": "daniel2",
+            "verses": [
+              {
+                "start": 34,
+                "end": 35
+              },
+              {
+                "start": 44,
+                "end": 45
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-stone-noun",
+      "slug": "stone-noun",
+      "title": "Stone [noun]"
+    }
+  ],
+  "slug": "daniel",
+  "title": "Daniel",
+  "type": "index"
+}

@@ -1,0 +1,73 @@
+{
+  "_id": "tg-vagabond",
+  "content": [
+    {
+      "text": "fugitive and a vagabond shalt thou be in the earth, Gen. 4:12 (Moses 5:37).",
+      "references": [
+        {
+          "text": "Gen. 4:12",
+          "start": 52,
+          "end": 61,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 4,
+            "chapterId": "genesis4",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 5:37",
+          "start": 63,
+          "end": 73,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 5,
+            "chapterId": "moses5",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "certain of the vagabond Jews, exorcists, Acts 19:13.",
+      "references": [
+        {
+          "text": "Acts 19:13",
+          "start": 41,
+          "end": 51,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 19,
+            "chapterId": "acts19",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "vagabond",
+  "title": "Vagabond",
+  "type": "tg"
+}

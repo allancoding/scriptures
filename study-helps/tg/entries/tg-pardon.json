@@ -1,0 +1,210 @@
+{
+  "_id": "tg-pardon",
+  "content": [
+    {
+      "text": "he will not pardon your transgressions, Ex. 23:21. pardon our iniquity and our sin, Ex. 34:9. I pray thee, pardon my sin, 1 Sam. 15:25. filled Jerusalem with innocent blood; which the Lord would not pardon, 2 Kgs. 24:4. thou art a God ready to pardon, Neh. 9:17. cry unto her … that her iniquity is pardoned, Isa. 40:2. return … to our God, for he will abundantly pardon, Isa. 55:7. I will pardon them whom I reserve, Jer. 50:20. Who is a God like unto thee, that pardoneth iniquity, Micah 7:18.",
+      "references": [
+        {
+          "text": "Ex. 23:21",
+          "start": 40,
+          "end": 49,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 23,
+            "chapterId": "exodus23",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 34:9",
+          "start": 84,
+          "end": 92,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 34,
+            "chapterId": "exodus34",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Sam. 15:25",
+          "start": 122,
+          "end": 134,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 15,
+            "chapterId": "1samuel15",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Kgs. 24:4",
+          "start": 207,
+          "end": 218,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 24,
+            "chapterId": "2kings24",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Neh. 9:17",
+          "start": 252,
+          "end": 261,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "neh",
+            "book": "nehemiah",
+            "chapter": 9,
+            "chapterId": "nehemiah9",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 40:2",
+          "start": 309,
+          "end": 318,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 40,
+            "chapterId": "isaiah40",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 55:7",
+          "start": 372,
+          "end": 381,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 55,
+            "chapterId": "isaiah55",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 50:20",
+          "start": 418,
+          "end": 428,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 50,
+            "chapterId": "jeremiah50",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Micah 7:18",
+          "start": 484,
+          "end": 494,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "micah",
+            "book": "micah",
+            "chapter": 7,
+            "chapterId": "micah7",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "your sins have come up unto me, and are not pardoned, D&C 56:14.",
+      "references": [
+        {
+          "text": "D&C 56:14",
+          "start": 54,
+          "end": 63,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 56,
+            "chapterId": "doctrineandcovenants56",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-forgive",
+      "slug": "forgive",
+      "title": "Forgive"
+    },
+    {
+      "entryId": "tg-remission-of-sins",
+      "slug": "remission-of-sins",
+      "title": "Remission of Sins"
+    }
+  ],
+  "slug": "pardon",
+  "title": "Pardon",
+  "type": "tg"
+}

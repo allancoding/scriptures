@@ -1,0 +1,187 @@
+{
+  "_id": "tg-psalm",
+  "content": [
+    {
+      "text": "David delivered first this psalm to thank the Lord, 1 Chr. 16:7. sing psalms unto him, 1 Chr. 16:9 (Ps. 105:2). make a joyful noise unto him with psalms, Ps. 95:2. Sing … with the harp, and the voice of a psalm, Ps. 98:5.",
+      "references": [
+        {
+          "text": "1 Chr. 16:7",
+          "start": 52,
+          "end": 63,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-chr",
+            "book": "1chronicles",
+            "chapter": 16,
+            "chapterId": "1chronicles16",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Chr. 16:9",
+          "start": 87,
+          "end": 98,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-chr",
+            "book": "1chronicles",
+            "chapter": 16,
+            "chapterId": "1chronicles16",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 105:2",
+          "start": 100,
+          "end": 109,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 105,
+            "chapterId": "psalms105",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 95:2",
+          "start": 154,
+          "end": 162,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 95,
+            "chapterId": "psalms95",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 98:5",
+          "start": 212,
+          "end": 220,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 98,
+            "chapterId": "psalms98",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "written … in the psalms, concerning me, Luke 24:44. Speaking to yourselves in psalms and hymns, Eph. 5:19 (Col. 3:16). Is any merry? let him sing psalms, James 5:13.",
+      "references": [
+        {
+          "text": "Luke 24:44",
+          "start": 40,
+          "end": 50,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 24,
+            "chapterId": "luke24",
+            "verses": [
+              {
+                "start": 44,
+                "end": 44
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eph. 5:19",
+          "start": 96,
+          "end": 105,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "eph",
+            "book": "ephesians",
+            "chapter": 5,
+            "chapterId": "ephesians5",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Col. 3:16",
+          "start": 107,
+          "end": 116,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "col",
+            "book": "colossians",
+            "chapter": 3,
+            "chapterId": "colossians3",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "James 5:13",
+          "start": 154,
+          "end": 164,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "james",
+            "book": "james",
+            "chapter": 5,
+            "chapterId": "james5",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-singing",
+      "slug": "singing",
+      "title": "Singing"
+    }
+  ],
+  "slug": "psalm",
+  "title": "Psalm",
+  "type": "tg"
+}

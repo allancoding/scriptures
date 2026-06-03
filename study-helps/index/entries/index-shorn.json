@@ -1,0 +1,56 @@
+{
+  "_id": "index-shorn",
+  "content": [
+    {
+      "text": "heads of Lamanites are shorn, Alma 3:4–5. heads of robbers are shorn, 3 Ne. 4:7.",
+      "references": [
+        {
+          "text": "Alma 3:4–5",
+          "start": 30,
+          "end": 40,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 3,
+            "chapterId": "alma3",
+            "verses": [
+              {
+                "start": 4,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 4:7",
+          "start": 70,
+          "end": 79,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 4,
+            "chapterId": "3nephi4",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-shave",
+      "slug": "shave",
+      "title": "Shave"
+    }
+  ],
+  "slug": "shorn",
+  "title": "Shorn",
+  "type": "index"
+}

@@ -1,0 +1,56 @@
+{
+  "_id": "tg-insurrection",
+  "content": [
+    {
+      "text": "Barabbas … committed murder in the insurrection, Mark 15:7. Jews made insurrection with one accord against Paul, Acts 18:12.",
+      "references": [
+        {
+          "text": "Mark 15:7",
+          "start": 49,
+          "end": 58,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 15,
+            "chapterId": "mark15",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 18:12",
+          "start": 113,
+          "end": 123,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 18,
+            "chapterId": "acts18",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-rebellion",
+      "slug": "rebellion",
+      "title": "Rebellion"
+    }
+  ],
+  "slug": "insurrection",
+  "title": "Insurrection",
+  "type": "tg"
+}

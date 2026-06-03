@@ -1,0 +1,86 @@
+{
+  "_id": "bd-thaddaeus",
+  "content": [
+    {
+      "text": "Lebbaeus, whose surname was Thaddaeus (Matt. 10:3; Mark 3:18; Luke 6:16; Acts 1:13).",
+      "references": [
+        {
+          "text": "Matt. 10:3",
+          "start": 39,
+          "end": 49,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 10,
+            "chapterId": "matthew10",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 3:18",
+          "start": 51,
+          "end": 60,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 3,
+            "chapterId": "mark3",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 6:16",
+          "start": 62,
+          "end": 71,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 6,
+            "chapterId": "luke6",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 1:13",
+          "start": 73,
+          "end": 82,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 1,
+            "chapterId": "acts1",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "thaddaeus",
+  "title": "Thaddaeus",
+  "type": "bd"
+}

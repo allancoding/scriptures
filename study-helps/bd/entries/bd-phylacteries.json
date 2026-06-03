@@ -1,0 +1,90 @@
+{
+  "_id": "bd-phylacteries",
+  "content": [
+    {
+      "text": "(See Frontlets.) Amulets fastened on the forehead or on the left arm. They were small strips of parchment inscribed with texts (see Ex. 13:1–10, 11–16; Deut. 6:4–9; 11:13–21) and enclosed in leather cases (see Matt. 23:5).",
+      "references": [
+        {
+          "text": "Ex. 13:1–10, 11–16",
+          "start": 132,
+          "end": 150,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 13,
+            "chapterId": "exodus13",
+            "verses": [
+              {
+                "start": 1,
+                "end": 10
+              },
+              {
+                "start": 11,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 6:4–9",
+          "start": 152,
+          "end": 163,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 6,
+            "chapterId": "deuteronomy6",
+            "verses": [
+              {
+                "start": 4,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "11:13–21",
+          "start": 165,
+          "end": 173,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 11,
+            "chapterId": "deuteronomy11",
+            "verses": [
+              {
+                "start": 13,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 23:5",
+          "start": 210,
+          "end": 220,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 23,
+            "chapterId": "matthew23",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "phylacteries",
+  "title": "Phylacteries",
+  "type": "bd"
+}

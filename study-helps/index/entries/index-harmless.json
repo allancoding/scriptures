@@ -1,0 +1,32 @@
+{
+  "_id": "index-harmless",
+  "content": [
+    {
+      "text": "Ammon2 is wise, yet harmless, Alma 18:22.",
+      "references": [
+        {
+          "text": "Alma 18:22",
+          "start": 30,
+          "end": 40,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 18,
+            "chapterId": "alma18",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "harmless",
+  "title": "Harmless",
+  "type": "index"
+}

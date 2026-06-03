@@ -1,0 +1,169 @@
+{
+  "_id": "tg-timber",
+  "content": [
+    {
+      "text": "they prepared timber … to build, 1 Kgs. 5:18 (2 Chr. 2:9). house of the great God, which is builded with … timber, Ezra 5:8.",
+      "references": [
+        {
+          "text": "1 Kgs. 5:18",
+          "start": 33,
+          "end": 44,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 5,
+            "chapterId": "1kings5",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Chr. 2:9",
+          "start": 46,
+          "end": 56,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-chr",
+            "book": "2chronicles",
+            "chapter": 2,
+            "chapterId": "2chronicles2",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezra 5:8",
+          "start": 115,
+          "end": 123,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezra",
+            "book": "ezra",
+            "chapter": 5,
+            "chapterId": "ezra5",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "we did work timbers of curious workmanship, 1 Ne. 18:1. upon the top of these ridges of earth he caused that there should be timbers, Alma 50:2 (53:4). all parts of the land … had not been rendered desolate and without timber, Hel. 3:5. no part of the land was desolate, save it were for timber, Hel. 3:6.",
+      "references": [
+        {
+          "text": "1 Ne. 18:1",
+          "start": 44,
+          "end": 54,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 18,
+            "chapterId": "1nephi18",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 50:2",
+          "start": 134,
+          "end": 143,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 50,
+            "chapterId": "alma50",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "53:4",
+          "start": 145,
+          "end": 149,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 53,
+            "chapterId": "alma53",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 3:5",
+          "start": 227,
+          "end": 235,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 3,
+            "chapterId": "helaman3",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 3:6",
+          "start": 296,
+          "end": 304,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 3,
+            "chapterId": "helaman3",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-wood",
+      "slug": "wood",
+      "title": "Wood"
+    }
+  ],
+  "slug": "timber",
+  "title": "Timber",
+  "type": "tg"
+}

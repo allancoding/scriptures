@@ -1,0 +1,706 @@
+{
+  "_id": "tg-plague",
+  "content": [
+    {
+      "text": "Lord plagued Pharaoh and his house with great plagues, Gen. 12:17. waters … shall be turned to blood, Ex. 7:17. will smite all thy borders with frogs, Ex. 8:2. dust … may become lice, Ex. 8:16. I will send swarms of flies, Ex. 8:21. thy cattle … there shall be a very grievous murrain, Ex. 9:3. boil breaking forth with blains, Ex. 9:9. cause it to rain a very grievous hail, Ex. 9:18. I bring the locusts, Ex. 10:4. thick darkness in … Egypt, Ex. 10:22. firstborn in … Egypt shall die, Ex. 11:5. Lord smote all the firstborn, Ex. 12:29. plagued the people, because they made the calf, Ex. 32:35. seven times more plagues upon you, Lev. 26:21. smote the people with a very great plague, Num. 11:33. those men … died by the plague, Num. 14:37. wrath gone out from the Lord; the plague is begun, Num. 16:46. not hearken … all these curses shall come, Deut. 28:15. Lord will make thy plagues wonderful, Deut. 28:59. I sent Moses … and I plagued Egypt, Josh. 24:5. with a great plague will the Lord smite thy people, 2 Chr. 21:14. hiss because of all the plagues, Jer. 19:8. death, I will be thy plagues, Hosea 13:14. will smite all the people that have fought against Jerusalem, Zech. 14:12.",
+      "references": [
+        {
+          "text": "Gen. 12:17",
+          "start": 55,
+          "end": 65,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 12,
+            "chapterId": "genesis12",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 7:17",
+          "start": 102,
+          "end": 110,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 7,
+            "chapterId": "exodus7",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 8:2",
+          "start": 151,
+          "end": 158,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 8,
+            "chapterId": "exodus8",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 8:16",
+          "start": 184,
+          "end": 192,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 8,
+            "chapterId": "exodus8",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 8:21",
+          "start": 223,
+          "end": 231,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 8,
+            "chapterId": "exodus8",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 9:3",
+          "start": 286,
+          "end": 293,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 9,
+            "chapterId": "exodus9",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 9:9",
+          "start": 328,
+          "end": 335,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 9,
+            "chapterId": "exodus9",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 9:18",
+          "start": 376,
+          "end": 384,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 9,
+            "chapterId": "exodus9",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 10:4",
+          "start": 407,
+          "end": 415,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 10,
+            "chapterId": "exodus10",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 10:22",
+          "start": 444,
+          "end": 453,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 10,
+            "chapterId": "exodus10",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 11:5",
+          "start": 487,
+          "end": 495,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 11,
+            "chapterId": "exodus11",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 12:29",
+          "start": 527,
+          "end": 536,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 12,
+            "chapterId": "exodus12",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 32:35",
+          "start": 586,
+          "end": 595,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 32,
+            "chapterId": "exodus32",
+            "verses": [
+              {
+                "start": 35,
+                "end": 35
+              }
+            ]
+          }
+        },
+        {
+          "text": "Lev. 26:21",
+          "start": 632,
+          "end": 642,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 26,
+            "chapterId": "leviticus26",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 11:33",
+          "start": 687,
+          "end": 697,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 11,
+            "chapterId": "numbers11",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 14:37",
+          "start": 731,
+          "end": 741,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 14,
+            "chapterId": "numbers14",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 16:46",
+          "start": 794,
+          "end": 804,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 16,
+            "chapterId": "numbers16",
+            "verses": [
+              {
+                "start": 46,
+                "end": 46
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 28:15",
+          "start": 849,
+          "end": 860,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 28,
+            "chapterId": "deuteronomy28",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 28:59",
+          "start": 900,
+          "end": 911,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 28,
+            "chapterId": "deuteronomy28",
+            "verses": [
+              {
+                "start": 59,
+                "end": 59
+              }
+            ]
+          }
+        },
+        {
+          "text": "Josh. 24:5",
+          "start": 949,
+          "end": 959,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "josh",
+            "book": "joshua",
+            "chapter": 24,
+            "chapterId": "joshua24",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Chr. 21:14",
+          "start": 1013,
+          "end": 1025,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-chr",
+            "book": "2chronicles",
+            "chapter": 21,
+            "chapterId": "2chronicles21",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 19:8",
+          "start": 1060,
+          "end": 1069,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 19,
+            "chapterId": "jeremiah19",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hosea 13:14",
+          "start": 1101,
+          "end": 1112,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "hosea",
+            "book": "hosea",
+            "chapter": 13,
+            "chapterId": "hosea13",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Zech. 14:12",
+          "start": 1176,
+          "end": 1187,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "zech",
+            "book": "zechariah",
+            "chapter": 14,
+            "chapterId": "zechariah14",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "pressed … to touch him, as many as had plagues, Mark 3:10. she felt … that she was healed of that plague, Mark 5:29. These have power … to smite the earth with all plagues, Rev. 11:6. angels having the seven last plagues, Rev. 15:1. her plagues come in one day, Rev. 18:8. vials full of the seven last plagues, Rev. 21:9. add unto him the plagues that are written, Rev. 22:18.",
+      "references": [
+        {
+          "text": "Mark 3:10",
+          "start": 48,
+          "end": 57,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 3,
+            "chapterId": "mark3",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 5:29",
+          "start": 106,
+          "end": 115,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 5,
+            "chapterId": "mark5",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 11:6",
+          "start": 173,
+          "end": 182,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 11,
+            "chapterId": "revelation11",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 15:1",
+          "start": 222,
+          "end": 231,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 15,
+            "chapterId": "revelation15",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 18:8",
+          "start": 262,
+          "end": 271,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 18,
+            "chapterId": "revelation18",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 21:9",
+          "start": 311,
+          "end": 320,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 21,
+            "chapterId": "revelation21",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 22:18",
+          "start": 365,
+          "end": 375,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 22,
+            "chapterId": "revelation22",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "they that believe not in him shall be destroyed … by pestilence, 2 Ne. 6:15. because of their iniquities … pestilences, and bloodshed shall come upon them, 2 Ne. 10:6. there came forth poisonous serpents, Ether 9:31.",
+      "references": [
+        {
+          "text": "2 Ne. 6:15",
+          "start": 65,
+          "end": 75,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 6,
+            "chapterId": "2nephi6",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 10:6",
+          "start": 156,
+          "end": 166,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 10,
+            "chapterId": "2nephi10",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 9:31",
+          "start": 205,
+          "end": 215,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 9,
+            "chapterId": "ether9",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "plagues shall go forth, D&C 84:97. with famine, and plague … shall the inhabitants … be made to feel the wrath, D&C 87:6. visit her according to all her works … with plague, D&C 97:26.",
+      "references": [
+        {
+          "text": "D&C 84:97",
+          "start": 24,
+          "end": 33,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 84,
+            "chapterId": "doctrineandcovenants84",
+            "verses": [
+              {
+                "start": 97,
+                "end": 97
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 87:6",
+          "start": 112,
+          "end": 120,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 87,
+            "chapterId": "doctrineandcovenants87",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 97:26",
+          "start": 174,
+          "end": 183,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 97,
+            "chapterId": "doctrineandcovenants97",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-drought",
+      "slug": "drought",
+      "title": "Drought"
+    },
+    {
+      "entryId": "tg-pestilence",
+      "slug": "pestilence",
+      "title": "Pestilence"
+    }
+  ],
+  "slug": "plague",
+  "title": "Plague",
+  "type": "tg"
+}

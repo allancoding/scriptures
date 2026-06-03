@@ -1,0 +1,56 @@
+{
+  "_id": "index-amnor-money",
+  "content": [
+    {
+      "text": "amnor of silver, Alma 11:6. equal to two senums, Alma 11:11.",
+      "references": [
+        {
+          "text": "Alma 11:6",
+          "start": 17,
+          "end": 26,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 11,
+            "chapterId": "alma11",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 11:11",
+          "start": 49,
+          "end": 59,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 11,
+            "chapterId": "alma11",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-money-nephite",
+      "slug": "money-nephite",
+      "title": "Money, Nephite"
+    }
+  ],
+  "slug": "amnor-money",
+  "title": "Amnor—Nephite money",
+  "type": "index"
+}

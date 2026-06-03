@@ -1,0 +1,38 @@
+{
+  "_id": "index-seat",
+  "content": [
+    {
+      "text": "Zion shall be seat to receive and do all these things, D&C 69:6.",
+      "references": [
+        {
+          "text": "D&C 69:6",
+          "start": 55,
+          "end": 63,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 69,
+            "chapterId": "doctrineandcovenants69",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-judgment-seat",
+      "slug": "judgment-seat",
+      "title": "Judgment-Seat"
+    }
+  ],
+  "slug": "seat",
+  "title": "Seat",
+  "type": "index"
+}

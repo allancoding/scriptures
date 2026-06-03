@@ -1,0 +1,50 @@
+{
+  "_id": "tg-finisher",
+  "content": [
+    {
+      "text": "Jesus the author and finisher of our faith, Heb. 12:2 (Moro. 6:4).",
+      "references": [
+        {
+          "text": "Heb. 12:2",
+          "start": 44,
+          "end": 53,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 12,
+            "chapterId": "hebrews12",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moro. 6:4",
+          "start": 55,
+          "end": 64,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "moro",
+            "book": "moroni",
+            "chapter": 6,
+            "chapterId": "moroni6",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "finisher",
+  "title": "Finisher",
+  "type": "tg"
+}

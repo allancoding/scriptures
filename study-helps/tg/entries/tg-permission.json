@@ -1,0 +1,38 @@
+{
+  "_id": "tg-permission",
+  "content": [
+    {
+      "text": "I speak this by permission, and not of commandment, 1 Cor. 7:6.",
+      "references": [
+        {
+          "text": "1 Cor. 7:6",
+          "start": 52,
+          "end": 62,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 7,
+            "chapterId": "1corinthians7",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-permit",
+      "slug": "permit",
+      "title": "Permit"
+    }
+  ],
+  "slug": "permission",
+  "title": "Permission",
+  "type": "tg"
+}

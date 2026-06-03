@@ -1,0 +1,150 @@
+{
+  "_id": "tg-magician",
+  "content": [
+    {
+      "text": "called for all the magicians of Egypt, Gen. 41:8. Pharaoh also called … magicians of Egypt, Ex. 7:11 (7:22; 8:7, 18). magicians could not stand before Moses, Ex. 9:11. he found them ten times better than all the magicians, Dan. 1:20. king commanded to call the magicians, Dan. 2:2.",
+      "references": [
+        {
+          "text": "Gen. 41:8",
+          "start": 39,
+          "end": 48,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 41,
+            "chapterId": "genesis41",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 7:11",
+          "start": 92,
+          "end": 100,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 7,
+            "chapterId": "exodus7",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "7:22",
+          "start": 102,
+          "end": 106,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 7,
+            "chapterId": "exodus7",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "8:7, 18",
+          "start": 108,
+          "end": 115,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 8,
+            "chapterId": "exodus8",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              },
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 9:11",
+          "start": 158,
+          "end": 166,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 9,
+            "chapterId": "exodus9",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 1:20",
+          "start": 223,
+          "end": 232,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 1,
+            "chapterId": "daniel1",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 2:2",
+          "start": 272,
+          "end": 280,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 2,
+            "chapterId": "daniel2",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-sorcery",
+      "slug": "sorcery",
+      "title": "Sorcery"
+    }
+  ],
+  "slug": "magician",
+  "title": "Magician",
+  "type": "tg"
+}

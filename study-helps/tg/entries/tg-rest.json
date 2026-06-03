@@ -1,0 +1,1469 @@
+{
+  "_id": "tg-rest",
+  "content": [
+    {
+      "text": "he rested on the seventh day, Gen. 2:2 (Ex. 20:11; 31:17; Heb. 4:4; Moses 3:2; Abr. 5:2). seventh day thou shalt rest, Ex. 23:12 (34:21). seventh is the sabbath of rest, Ex. 31:15. presence shall go with thee, and I will give thee rest, Ex. 33:14. it is a year of rest unto the land, Lev. 25:5. Lord have given rest unto your brethren, Deut. 3:20. giveth you rest from all your enemies, Deut. 12:10. God hath given you rest, Josh. 1:13. land rested from war, Josh. 11:23 (14:15; Judg. 3:11, 30; 5:31). spirit of Elijah doth rest on Elisha, 2 Kgs. 2:15. in mine heart to build an house of rest, 1 Chr. 28:2. my flesh also shall rest in hope, Ps. 16:9 (Acts 2:26). Rest in the Lord, and wait patiently for him, Ps. 37:7. sware in my wrath that they should not enter into my rest, Ps. 95:11 (Heb. 3:11, 18). Correct thy son, and he shall give thee rest, Prov. 29:17. spirit of the Lord shall rest upon him, Isa. 11:2 (2 Ne. 21:2). root of Jesse … his rest shall be glorious, Isa. 11:10 (2 Ne. 21:10). rest wherewith ye may cause the weary to rest, Isa. 28:12. Spirit of the Lord caused him to rest, Isa. 63:14. where is the place of my rest, Isa. 66:1 (Acts 7:49). ye shall find rest for your souls, Jer. 6:16 (Matt. 11:29; Alma 37:34). thou shalt rest, Dan. 12:13.",
+      "references": [
+        {
+          "text": "Gen. 2:2",
+          "start": 30,
+          "end": 38,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 2,
+            "chapterId": "genesis2",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 20:11",
+          "start": 40,
+          "end": 49,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 20,
+            "chapterId": "exodus20",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "31:17",
+          "start": 51,
+          "end": 56,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 31,
+            "chapterId": "exodus31",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 4:4",
+          "start": 58,
+          "end": 66,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 4,
+            "chapterId": "hebrews4",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 3:2",
+          "start": 68,
+          "end": 77,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 3,
+            "chapterId": "moses3",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Abr. 5:2",
+          "start": 79,
+          "end": 87,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 5,
+            "chapterId": "abraham5",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 23:12",
+          "start": 119,
+          "end": 128,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 23,
+            "chapterId": "exodus23",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "34:21",
+          "start": 130,
+          "end": 135,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 34,
+            "chapterId": "exodus34",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 31:15",
+          "start": 170,
+          "end": 179,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 31,
+            "chapterId": "exodus31",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 33:14",
+          "start": 237,
+          "end": 246,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 33,
+            "chapterId": "exodus33",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Lev. 25:5",
+          "start": 284,
+          "end": 293,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 25,
+            "chapterId": "leviticus25",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 3:20",
+          "start": 336,
+          "end": 346,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 3,
+            "chapterId": "deuteronomy3",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 12:10",
+          "start": 387,
+          "end": 398,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 12,
+            "chapterId": "deuteronomy12",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Josh. 1:13",
+          "start": 425,
+          "end": 435,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "josh",
+            "book": "joshua",
+            "chapter": 1,
+            "chapterId": "joshua1",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Josh. 11:23",
+          "start": 459,
+          "end": 470,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "josh",
+            "book": "joshua",
+            "chapter": 11,
+            "chapterId": "joshua11",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "14:15",
+          "start": 472,
+          "end": 477,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "josh",
+            "book": "joshua",
+            "chapter": 14,
+            "chapterId": "joshua14",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Judg. 3:11, 30",
+          "start": 479,
+          "end": 493,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "judg",
+            "book": "judges",
+            "chapter": 3,
+            "chapterId": "judges3",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              },
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "5:31",
+          "start": 495,
+          "end": 499,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "judg",
+            "book": "judges",
+            "chapter": 5,
+            "chapterId": "judges5",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Kgs. 2:15",
+          "start": 540,
+          "end": 551,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 2,
+            "chapterId": "2kings2",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Chr. 28:2",
+          "start": 594,
+          "end": 605,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-chr",
+            "book": "1chronicles",
+            "chapter": 28,
+            "chapterId": "1chronicles28",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 16:9",
+          "start": 641,
+          "end": 649,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 16,
+            "chapterId": "psalms16",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 2:26",
+          "start": 651,
+          "end": 660,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 2,
+            "chapterId": "acts2",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 37:7",
+          "start": 709,
+          "end": 717,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 37,
+            "chapterId": "psalms37",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 95:11",
+          "start": 778,
+          "end": 787,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 95,
+            "chapterId": "psalms95",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 3:11, 18",
+          "start": 789,
+          "end": 802,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 3,
+            "chapterId": "hebrews3",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              },
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 29:17",
+          "start": 851,
+          "end": 862,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 29,
+            "chapterId": "proverbs29",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 11:2",
+          "start": 904,
+          "end": 913,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 11,
+            "chapterId": "isaiah11",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 21:2",
+          "start": 915,
+          "end": 925,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 21,
+            "chapterId": "2nephi21",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 11:10",
+          "start": 972,
+          "end": 982,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 11,
+            "chapterId": "isaiah11",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 21:10",
+          "start": 984,
+          "end": 995,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 21,
+            "chapterId": "2nephi21",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 28:12",
+          "start": 1045,
+          "end": 1055,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 28,
+            "chapterId": "isaiah28",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 63:14",
+          "start": 1096,
+          "end": 1106,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 63,
+            "chapterId": "isaiah63",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 66:1",
+          "start": 1139,
+          "end": 1148,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 66,
+            "chapterId": "isaiah66",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 7:49",
+          "start": 1150,
+          "end": 1159,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 7,
+            "chapterId": "acts7",
+            "verses": [
+              {
+                "start": 49,
+                "end": 49
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 6:16",
+          "start": 1197,
+          "end": 1206,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 6,
+            "chapterId": "jeremiah6",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 11:29",
+          "start": 1208,
+          "end": 1219,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 11,
+            "chapterId": "matthew11",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 37:34",
+          "start": 1221,
+          "end": 1231,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 37,
+            "chapterId": "alma37",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 12:13",
+          "start": 1251,
+          "end": 1261,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 12,
+            "chapterId": "daniel12",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Come unto me … heavy laden, and I will give you rest, Matt. 11:28 (Rev. 14:13). rested the sabbath day according to the commandment, Luke 23:56. power of Christ may rest upon me, 2 Cor. 12:9. you who are troubled rest with us, 2 Thes. 1:7. promise being left us of entering into his rest, Heb. 4:1. we which have believed do enter into rest, Heb. 4:3. Let us labour therefore to enter into that rest, Heb. 4:11. spirit of glory and of God resteth upon you, 1 Pet. 4:14. that they should rest yet for a little season, Rev. 6:11.",
+      "references": [
+        {
+          "text": "Matt. 11:28",
+          "start": 54,
+          "end": 65,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 11,
+            "chapterId": "matthew11",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 14:13",
+          "start": 67,
+          "end": 77,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 14,
+            "chapterId": "revelation14",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 23:56",
+          "start": 133,
+          "end": 143,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 23,
+            "chapterId": "luke23",
+            "verses": [
+              {
+                "start": 56,
+                "end": 56
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Cor. 12:9",
+          "start": 179,
+          "end": 190,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 12,
+            "chapterId": "2corinthians12",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Thes. 1:7",
+          "start": 227,
+          "end": 238,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-thes",
+            "book": "2thessalonians",
+            "chapter": 1,
+            "chapterId": "2thessalonians1",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 4:1",
+          "start": 289,
+          "end": 297,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 4,
+            "chapterId": "hebrews4",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 4:3",
+          "start": 342,
+          "end": 350,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 4,
+            "chapterId": "hebrews4",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 4:11",
+          "start": 401,
+          "end": 410,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 4,
+            "chapterId": "hebrews4",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Pet. 4:14",
+          "start": 457,
+          "end": 468,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-pet",
+            "book": "1peter",
+            "chapter": 4,
+            "chapterId": "1peter4",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 6:11",
+          "start": 517,
+          "end": 526,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 6,
+            "chapterId": "revelation6",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "we labored … that they might enter into his rest, Jacob 1:7. place of my rest … with my Redeemer, Enos 1:27. blessing of the Lord hath rested upon us, Alma 10:11. whosoever repenteth … shall enter into my rest, Alma 12:34. teach his commandments … that they also might enter into his rest, Alma 13:6. lifted up … and enter into his rest, Alma 13:29. paradise, a state of rest, Alma 40:12. nothing entereth into his rest save it be those who have washed their garments, 3 Ne. 27:19. come unto me in my kingdom; and with me ye shall find rest, 3 Ne. 28:3. pass away, even like unto the rest of the earth, Ether 10:17. enter into the rest of the Lord, Moro. 7:3. rest our souls in the kingdom of God, Moro. 9:6. soon go to rest in the paradise of God, Moro. 10:34.",
+      "references": [
+        {
+          "text": "Jacob 1:7",
+          "start": 50,
+          "end": 59,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 1,
+            "chapterId": "jacob1",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Enos 1:27",
+          "start": 98,
+          "end": 107,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "enos",
+            "book": "enos",
+            "chapter": 1,
+            "chapterId": "enos1",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 10:11",
+          "start": 151,
+          "end": 161,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 10,
+            "chapterId": "alma10",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 12:34",
+          "start": 211,
+          "end": 221,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 12,
+            "chapterId": "alma12",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 13:6",
+          "start": 290,
+          "end": 299,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 13,
+            "chapterId": "alma13",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 13:29",
+          "start": 338,
+          "end": 348,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 13,
+            "chapterId": "alma13",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 40:12",
+          "start": 377,
+          "end": 387,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 40,
+            "chapterId": "alma40",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 27:19",
+          "start": 469,
+          "end": 480,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 27,
+            "chapterId": "3nephi27",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 28:3",
+          "start": 542,
+          "end": 552,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 28,
+            "chapterId": "3nephi28",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 10:17",
+          "start": 603,
+          "end": 614,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 10,
+            "chapterId": "ether10",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moro. 7:3",
+          "start": 649,
+          "end": 658,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "moro",
+            "book": "moroni",
+            "chapter": 7,
+            "chapterId": "moroni7",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moro. 9:6",
+          "start": 698,
+          "end": 707,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "moro",
+            "book": "moroni",
+            "chapter": 9,
+            "chapterId": "moroni9",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moro. 10:34",
+          "start": 749,
+          "end": 760,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "moro",
+            "book": "moroni",
+            "chapter": 10,
+            "chapterId": "moroni10",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "rest with them in the kingdom of my Father, D&C 15:6. that you may enter into my rest, D&C 19:9. that power shall rest upon thee, D&C 39:12. let the solemnities of eternity rest upon your minds, D&C 43:34. sought me early shall find rest, D&C 54:10. those that die shall rest from all their labors, D&C 59:2. rest from your labors, D&C 59:10. which rest is the fulness of his glory, D&C 84:24. shall be caught up, and his rest shall be glorious, D&C 101:31. when every man shall enter into his … immortal rest, D&C 121:32. die unto me; for they shall rest from all their labors, D&C 124:86.",
+      "references": [
+        {
+          "text": "D&C 15:6",
+          "start": 44,
+          "end": 52,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 15,
+            "chapterId": "doctrineandcovenants15",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 19:9",
+          "start": 87,
+          "end": 95,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 19,
+            "chapterId": "doctrineandcovenants19",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 39:12",
+          "start": 130,
+          "end": 139,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 39,
+            "chapterId": "doctrineandcovenants39",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 43:34",
+          "start": 195,
+          "end": 204,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 43,
+            "chapterId": "doctrineandcovenants43",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 54:10",
+          "start": 239,
+          "end": 248,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 54,
+            "chapterId": "doctrineandcovenants54",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 59:2",
+          "start": 299,
+          "end": 307,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 59,
+            "chapterId": "doctrineandcovenants59",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 59:10",
+          "start": 332,
+          "end": 341,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 59,
+            "chapterId": "doctrineandcovenants59",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 84:24",
+          "start": 383,
+          "end": 392,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 84,
+            "chapterId": "doctrineandcovenants84",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 101:31",
+          "start": 446,
+          "end": 456,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 101,
+            "chapterId": "doctrineandcovenants101",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 121:32",
+          "start": 511,
+          "end": 521,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 124:86",
+          "start": 579,
+          "end": 589,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 124,
+            "chapterId": "doctrineandcovenants124",
+            "verses": [
+              {
+                "start": 86,
+                "end": 86
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "shall the earth rest, Moses 7:54 (7:61). thousand years the earth shall rest, Moses 7:64. greater happiness and peace and rest for me, Abr. 1:2. we will rest on the seventh time, Abr. 5:2.",
+      "references": [
+        {
+          "text": "Moses 7:54",
+          "start": 22,
+          "end": 32,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 7,
+            "chapterId": "moses7",
+            "verses": [
+              {
+                "start": 54,
+                "end": 54
+              }
+            ]
+          }
+        },
+        {
+          "text": "7:61",
+          "start": 34,
+          "end": 38,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 7,
+            "chapterId": "moses7",
+            "verses": [
+              {
+                "start": 61,
+                "end": 61
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 7:64",
+          "start": 78,
+          "end": 88,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 7,
+            "chapterId": "moses7",
+            "verses": [
+              {
+                "start": 64,
+                "end": 64
+              }
+            ]
+          }
+        },
+        {
+          "text": "Abr. 1:2",
+          "start": 135,
+          "end": 143,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 1,
+            "chapterId": "abraham1",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Abr. 5:2",
+          "start": 179,
+          "end": 187,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 5,
+            "chapterId": "abraham5",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-comfort",
+      "slug": "comfort",
+      "title": "Comfort"
+    },
+    {
+      "entryId": "tg-earth-purpose-of",
+      "slug": "earth-purpose-of",
+      "title": "Earth, Purpose of"
+    },
+    {
+      "entryId": "tg-earth-renewal-of",
+      "slug": "earth-renewal-of",
+      "title": "Earth, Renewal of"
+    },
+    {
+      "entryId": "tg-god-glory-of",
+      "slug": "god-glory-of",
+      "title": "God, Glory of"
+    },
+    {
+      "entryId": "tg-paradise",
+      "slug": "paradise",
+      "title": "Paradise"
+    },
+    {
+      "entryId": "tg-peace",
+      "slug": "peace",
+      "title": "Peace"
+    },
+    {
+      "entryId": "tg-quietness",
+      "slug": "quietness",
+      "title": "Quietness"
+    },
+    {
+      "entryId": "tg-sabbath",
+      "slug": "sabbath",
+      "title": "Sabbath"
+    }
+  ],
+  "slug": "rest",
+  "title": "Rest",
+  "type": "tg"
+}

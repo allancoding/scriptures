@@ -1,0 +1,53 @@
+{
+  "_id": "tg-revenge",
+  "content": [
+    {
+      "text": "revile not against them, neither seek revenge, D&C 98:23.",
+      "references": [
+        {
+          "text": "D&C 98:23",
+          "start": 47,
+          "end": 56,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 98,
+            "chapterId": "doctrineandcovenants98",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-avenge",
+      "slug": "avenge",
+      "title": "Avenge"
+    },
+    {
+      "entryId": "tg-recompence",
+      "slug": "recompence",
+      "title": "Recompence"
+    },
+    {
+      "entryId": "tg-revenger",
+      "slug": "revenger",
+      "title": "Revenger"
+    },
+    {
+      "entryId": "tg-vengeance",
+      "slug": "vengeance",
+      "title": "Vengeance"
+    }
+  ],
+  "slug": "revenge",
+  "title": "Revenge",
+  "type": "tg"
+}

@@ -1,0 +1,110 @@
+{
+  "_id": "tg-commend",
+  "content": [
+    {
+      "text": "the lord commended the unjust steward, Luke 16:8. Father, into thy hands I commend my spirit, Luke 23:46. they commended them to the Lord, Acts 14:23. our unrighteousness commend the righteousness, Rom. 3:5. meat commendeth us not to God, 1 Cor. 8:8.",
+      "references": [
+        {
+          "text": "Luke 16:8",
+          "start": 39,
+          "end": 48,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 16,
+            "chapterId": "luke16",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 23:46",
+          "start": 94,
+          "end": 104,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 23,
+            "chapterId": "luke23",
+            "verses": [
+              {
+                "start": 46,
+                "end": 46
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 14:23",
+          "start": 139,
+          "end": 149,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 14,
+            "chapterId": "acts14",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 3:5",
+          "start": 198,
+          "end": 206,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 3,
+            "chapterId": "romans3",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 8:8",
+          "start": 239,
+          "end": 249,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 8,
+            "chapterId": "1corinthians8",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-commit",
+      "slug": "commit",
+      "title": "Commit"
+    }
+  ],
+  "slug": "commend",
+  "title": "Commend",
+  "type": "tg"
+}

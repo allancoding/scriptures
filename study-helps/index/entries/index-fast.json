@@ -1,0 +1,112 @@
+{
+  "_id": "index-fast",
+  "content": [
+    {
+      "text": "many hold fast to rod of iron, 1 Ne. 8:30. withdrawal of some is great trial to those that stand fast in faith, Alma 1:24–25.",
+      "references": [
+        {
+          "text": "1 Ne. 8:30",
+          "start": 31,
+          "end": 41,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 8,
+            "chapterId": "1nephi8",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 1:24–25",
+          "start": 112,
+          "end": 124,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 1,
+            "chapterId": "alma1",
+            "verses": [
+              {
+                "start": 24,
+                "end": 25
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "stand fast in calling, D&C 9:14 (54:2).",
+      "references": [
+        {
+          "text": "D&C 9:14",
+          "start": 23,
+          "end": 31,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 9,
+            "chapterId": "doctrineandcovenants9",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "54:2",
+          "start": 33,
+          "end": 37,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 54,
+            "chapterId": "doctrineandcovenants54",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-faster",
+      "slug": "faster",
+      "title": "Faster"
+    },
+    {
+      "entryId": "index-fasting",
+      "slug": "fasting",
+      "title": "Fasting"
+    },
+    {
+      "entryId": "index-firmness",
+      "slug": "firmness",
+      "title": "Firmness"
+    },
+    {
+      "entryId": "index-steadfast",
+      "slug": "steadfast",
+      "title": "Steadfast"
+    }
+  ],
+  "slug": "fast",
+  "title": "Fast",
+  "type": "index"
+}

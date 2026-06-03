@@ -1,0 +1,79 @@
+{
+  "_id": "tg-levitical",
+  "content": [
+    {
+      "text": "If therefore perfection were by the Levitical priesthood, Heb. 7:11.",
+      "references": [
+        {
+          "text": "Heb. 7:11",
+          "start": 58,
+          "end": 67,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 7,
+            "chapterId": "hebrews7",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "other is the Aaronic or Levitical Priesthood, D&C 107:6 (107:10).",
+      "references": [
+        {
+          "text": "D&C 107:6",
+          "start": 46,
+          "end": 55,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 107,
+            "chapterId": "doctrineandcovenants107",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "107:10",
+          "start": 57,
+          "end": 63,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 107,
+            "chapterId": "doctrineandcovenants107",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-priesthood-aaronic",
+      "slug": "priesthood-aaronic",
+      "title": "Priesthood, Aaronic"
+    }
+  ],
+  "slug": "levitical",
+  "title": "Levitical",
+  "type": "tg"
+}

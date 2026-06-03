@@ -1,0 +1,50 @@
+{
+  "_id": "index-purifier",
+  "content": [
+    {
+      "text": "he shall sit as refiner and purifier of silver, 3 Ne. 24:3 (Mal. 3:3).",
+      "references": [
+        {
+          "text": "3 Ne. 24:3",
+          "start": 48,
+          "end": 58,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 24,
+            "chapterId": "3nephi24",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mal. 3:3",
+          "start": 60,
+          "end": 68,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "mal",
+            "book": "malachi",
+            "chapter": 3,
+            "chapterId": "malachi3",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "purifier",
+  "title": "Purifier",
+  "type": "index"
+}

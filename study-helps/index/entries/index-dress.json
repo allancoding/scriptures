@@ -1,0 +1,43 @@
+{
+  "_id": "index-dress",
+  "content": [
+    {
+      "text": "dress of those in spacious building is exceeding fine, 1 Ne. 8:27.",
+      "references": [
+        {
+          "text": "1 Ne. 8:27",
+          "start": 55,
+          "end": 65,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 8,
+            "chapterId": "1nephi8",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-apparel",
+      "slug": "apparel",
+      "title": "Apparel"
+    },
+    {
+      "entryId": "index-clothing",
+      "slug": "clothing",
+      "title": "Clothing"
+    }
+  ],
+  "slug": "dress",
+  "title": "Dress",
+  "type": "index"
+}

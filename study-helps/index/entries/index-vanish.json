@@ -1,0 +1,92 @@
+{
+  "_id": "index-vanish",
+  "content": [
+    {
+      "text": "if there is no God, all things must have vanished away, 2 Ne. 2:13. heavens shall vanish away like smoke, 2 Ne. 8:6 (Isa. 51:6). whatever is written upon anything other than plates will vanish, Jacob 4:2.",
+      "references": [
+        {
+          "text": "2 Ne. 2:13",
+          "start": 56,
+          "end": 66,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 2,
+            "chapterId": "2nephi2",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 8:6",
+          "start": 106,
+          "end": 115,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 8,
+            "chapterId": "2nephi8",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 51:6",
+          "start": 117,
+          "end": 126,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 51,
+            "chapterId": "isaiah51",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jacob 4:2",
+          "start": 194,
+          "end": 203,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 4,
+            "chapterId": "jacob4",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-pass",
+      "slug": "pass",
+      "title": "Pass"
+    }
+  ],
+  "slug": "vanish",
+  "title": "Vanish",
+  "type": "index"
+}

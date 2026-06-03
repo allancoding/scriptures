@@ -1,0 +1,132 @@
+{
+  "_id": "tg-side",
+  "content": [
+    {
+      "text": "Who is on the Lord’s side, Ex. 32:26. Lord is on my side, Ps. 118:6.",
+      "references": [
+        {
+          "text": "Ex. 32:26",
+          "start": 27,
+          "end": 36,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 32,
+            "chapterId": "exodus32",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 118:6",
+          "start": 58,
+          "end": 67,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 118,
+            "chapterId": "psalms118",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "soldiers with a spear pierced his side, John 19:34. reach hither thy hand, and thrust it into my side, John 20:27 (3 Ne. 11:14).",
+      "references": [
+        {
+          "text": "John 19:34",
+          "start": 40,
+          "end": 50,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 19,
+            "chapterId": "john19",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 20:27",
+          "start": 103,
+          "end": 113,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 20,
+            "chapterId": "john20",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 11:14",
+          "start": 115,
+          "end": 126,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 11,
+            "chapterId": "3nephi11",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Behold the wounds which pierced my side, D&C 6:37.",
+      "references": [
+        {
+          "text": "D&C 6:37",
+          "start": 41,
+          "end": 49,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 6,
+            "chapterId": "doctrineandcovenants6",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "side",
+  "title": "Side",
+  "type": "tg"
+}

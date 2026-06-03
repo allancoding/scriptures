@@ -1,0 +1,952 @@
+{
+  "_id": "tg-mortality",
+  "content": [
+    {
+      "text": "thou shalt surely die, Gen. 2:17 (Moses 3:17). dust thou art, and unto dust shalt thou return, Gen. 3:19 (Moses 4:25). life of the flesh is in the blood, Lev. 17:11. mayest prolong thy days upon the earth, Deut. 4:40. all that a man hath will he give for his life, Job 2:4. after my skin worms destroy this body, Job 19:26. shall lie down alike in the dust, Job 21:26. What is man, that thou art mindful of him, Ps. 8:4. he remembered that they were but flesh, Ps. 78:39. he remembereth that we are dust, Ps. 103:14. dust return to the earth, Eccl. 12:7. All flesh is grass, Isa. 40:6 (James 1:10; 1 Pet. 1:24).",
+      "references": [
+        {
+          "text": "Gen. 2:17",
+          "start": 23,
+          "end": 32,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 2,
+            "chapterId": "genesis2",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 3:17",
+          "start": 34,
+          "end": 44,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 3,
+            "chapterId": "moses3",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 3:19",
+          "start": 95,
+          "end": 104,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 3,
+            "chapterId": "genesis3",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 4:25",
+          "start": 106,
+          "end": 116,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 4,
+            "chapterId": "moses4",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Lev. 17:11",
+          "start": 154,
+          "end": 164,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 17,
+            "chapterId": "leviticus17",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 4:40",
+          "start": 206,
+          "end": 216,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 4,
+            "chapterId": "deuteronomy4",
+            "verses": [
+              {
+                "start": 40,
+                "end": 40
+              }
+            ]
+          }
+        },
+        {
+          "text": "Job 2:4",
+          "start": 265,
+          "end": 272,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "job",
+            "book": "job",
+            "chapter": 2,
+            "chapterId": "job2",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Job 19:26",
+          "start": 313,
+          "end": 322,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "job",
+            "book": "job",
+            "chapter": 19,
+            "chapterId": "job19",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Job 21:26",
+          "start": 358,
+          "end": 367,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "job",
+            "book": "job",
+            "chapter": 21,
+            "chapterId": "job21",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 8:4",
+          "start": 412,
+          "end": 419,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 8,
+            "chapterId": "psalms8",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 78:39",
+          "start": 461,
+          "end": 470,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 78,
+            "chapterId": "psalms78",
+            "verses": [
+              {
+                "start": 39,
+                "end": 39
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 103:14",
+          "start": 505,
+          "end": 515,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 103,
+            "chapterId": "psalms103",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eccl. 12:7",
+          "start": 543,
+          "end": 553,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "eccl",
+            "book": "ecclesiastes",
+            "chapter": 12,
+            "chapterId": "ecclesiastes12",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 40:6",
+          "start": 575,
+          "end": 584,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 40,
+            "chapterId": "isaiah40",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "James 1:10",
+          "start": 586,
+          "end": 596,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "james",
+            "book": "james",
+            "chapter": 1,
+            "chapterId": "james1",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Pet. 1:24",
+          "start": 598,
+          "end": 609,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-pet",
+            "book": "1peter",
+            "chapter": 1,
+            "chapterId": "1peter1",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "not come to destroy men’s lives, Luke 9:56. Let not sin therefore reign in your mortal body, Rom. 6:12. quicken your mortal bodies by his Spirit, Rom. 8:11. this mortal must put on immortality, 1 Cor. 15:53 (Enos 1:27; Mosiah 16:10; Alma 5:15; Morm. 6:21). life … might be made manifest in our mortal flesh, 2 Cor. 4:11. mortality might be swallowed up of life, 2 Cor. 5:4.",
+      "references": [
+        {
+          "text": "Luke 9:56",
+          "start": 33,
+          "end": 42,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 9,
+            "chapterId": "luke9",
+            "verses": [
+              {
+                "start": 56,
+                "end": 56
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 6:12",
+          "start": 93,
+          "end": 102,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 6,
+            "chapterId": "romans6",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 8:11",
+          "start": 146,
+          "end": 155,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 8,
+            "chapterId": "romans8",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 15:53",
+          "start": 194,
+          "end": 206,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 15,
+            "chapterId": "1corinthians15",
+            "verses": [
+              {
+                "start": 53,
+                "end": 53
+              }
+            ]
+          }
+        },
+        {
+          "text": "Enos 1:27",
+          "start": 208,
+          "end": 217,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "enos",
+            "book": "enos",
+            "chapter": 1,
+            "chapterId": "enos1",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 16:10",
+          "start": 219,
+          "end": 231,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 16,
+            "chapterId": "mosiah16",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 5:15",
+          "start": 233,
+          "end": 242,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 5,
+            "chapterId": "alma5",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 6:21",
+          "start": 244,
+          "end": 254,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 6,
+            "chapterId": "mormon6",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Cor. 4:11",
+          "start": 308,
+          "end": 319,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 4,
+            "chapterId": "2corinthians4",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Cor. 5:4",
+          "start": 362,
+          "end": 372,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 5,
+            "chapterId": "2corinthians5",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "their state became a state of probation, 2 Ne. 2:21 (Alma 12:24; 42:10; D&C 29:43). Adam fell that men might be, 2 Ne. 2:25. men are free according to the flesh, 2 Ne. 2:27. serve him until you are dead as to the mortal body, Mosiah 18:13. I have spoken unto you concerning the death of the mortal body, Alma 11:45. raised from this mortality to a state of immortality, Alma 12:12. this life is the time … to prepare to meet God, Alma 34:32. mortality raised to immortality, Alma 41:4. changed … from mortality to immortality, 3 Ne. 28:8. cleansed from mortality to immortality, 3 Ne. 28:36. Spirit of Christ is given to every man, Moro. 7:16.",
+      "references": [
+        {
+          "text": "2 Ne. 2:21",
+          "start": 41,
+          "end": 51,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 2,
+            "chapterId": "2nephi2",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 12:24",
+          "start": 53,
+          "end": 63,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 12,
+            "chapterId": "alma12",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "42:10",
+          "start": 65,
+          "end": 70,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 42,
+            "chapterId": "alma42",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 29:43",
+          "start": 72,
+          "end": 81,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 29,
+            "chapterId": "doctrineandcovenants29",
+            "verses": [
+              {
+                "start": 43,
+                "end": 43
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 2:25",
+          "start": 113,
+          "end": 123,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 2,
+            "chapterId": "2nephi2",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 2:27",
+          "start": 162,
+          "end": 172,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 2,
+            "chapterId": "2nephi2",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 18:13",
+          "start": 226,
+          "end": 238,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 18,
+            "chapterId": "mosiah18",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 11:45",
+          "start": 304,
+          "end": 314,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 11,
+            "chapterId": "alma11",
+            "verses": [
+              {
+                "start": 45,
+                "end": 45
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 12:12",
+          "start": 370,
+          "end": 380,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 12,
+            "chapterId": "alma12",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 34:32",
+          "start": 430,
+          "end": 440,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 34,
+            "chapterId": "alma34",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 41:4",
+          "start": 475,
+          "end": 484,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 41,
+            "chapterId": "alma41",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 28:8",
+          "start": 527,
+          "end": 537,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 28,
+            "chapterId": "3nephi28",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 28:36",
+          "start": 579,
+          "end": 590,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 28,
+            "chapterId": "3nephi28",
+            "verses": [
+              {
+                "start": 36,
+                "end": 36
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moro. 7:16",
+          "start": 632,
+          "end": 642,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "moro",
+            "book": "moroni",
+            "chapter": 7,
+            "chapterId": "moroni7",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "whether in life or in death, D&C 50:5. old men shall die; but … not sleep in the dust, D&C 63:51. Neither can any natural man abide the presence of God, D&C 67:12. fear not … death; for in this world your joy is not full, D&C 101:36.",
+      "references": [
+        {
+          "text": "D&C 50:5",
+          "start": 29,
+          "end": 37,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 50,
+            "chapterId": "doctrineandcovenants50",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 63:51",
+          "start": 87,
+          "end": 96,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 63,
+            "chapterId": "doctrineandcovenants63",
+            "verses": [
+              {
+                "start": 51,
+                "end": 51
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 67:12",
+          "start": 153,
+          "end": 162,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 67,
+            "chapterId": "doctrineandcovenants67",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 101:36",
+          "start": 222,
+          "end": 232,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 101,
+            "chapterId": "doctrineandcovenants101",
+            "verses": [
+              {
+                "start": 36,
+                "end": 36
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "for this cause I know that man is nothing, Moses 1:10. Were it not for our transgression we never should have had seed, Moses 5:11. by his fall came death; and we are made partakers, Moses 6:48. keep their second estate shall have glory, Abr. 3:26. all mankind may be saved, by obedience, A of F 1:3.",
+      "references": [
+        {
+          "text": "Moses 1:10",
+          "start": 43,
+          "end": 53,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 1,
+            "chapterId": "moses1",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 5:11",
+          "start": 120,
+          "end": 130,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 5,
+            "chapterId": "moses5",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 6:48",
+          "start": 183,
+          "end": 193,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 6,
+            "chapterId": "moses6",
+            "verses": [
+              {
+                "start": 48,
+                "end": 48
+              }
+            ]
+          }
+        },
+        {
+          "text": "Abr. 3:26",
+          "start": 238,
+          "end": 247,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 3,
+            "chapterId": "abraham3",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "A of F 1:3",
+          "start": 289,
+          "end": 299,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "a-of-f",
+            "book": "articlesoffaith",
+            "chapter": 1,
+            "chapterId": "articlesoffaith1",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-flesh-and-blood",
+      "slug": "flesh-and-blood",
+      "title": "Flesh and Blood"
+    },
+    {
+      "entryId": "tg-man-natural-not-spiritually-reborn",
+      "slug": "man-natural-not-spiritually-reborn",
+      "title": "Man, Natural, Not Spiritually Reborn"
+    },
+    {
+      "entryId": "tg-man-new-spiritually-reborn",
+      "slug": "man-new-spiritually-reborn",
+      "title": "Man, New, Spiritually Reborn"
+    },
+    {
+      "entryId": "tg-man-physical-creation-of",
+      "slug": "man-physical-creation-of",
+      "title": "Man, Physical Creation of"
+    },
+    {
+      "entryId": "tg-man-potential-to-become-like-heavenly-father",
+      "slug": "man-potential-to-become-like-heavenly-father",
+      "title": "Man, Potential to Become like Heavenly Father"
+    },
+    {
+      "entryId": "tg-probation",
+      "slug": "probation",
+      "title": "Probation"
+    },
+    {
+      "entryId": "tg-world",
+      "slug": "world",
+      "title": "World"
+    }
+  ],
+  "slug": "mortality",
+  "title": "Mortality",
+  "type": "tg"
+}

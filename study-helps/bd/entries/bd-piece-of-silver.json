@@ -1,0 +1,50 @@
+{
+  "_id": "bd-piece-of-silver",
+  "content": [
+    {
+      "text": "In Matt. 26:15, a silver shekel, or stater (see Money). Thirty shekels was the price of a slave (Ex. 21:32).",
+      "references": [
+        {
+          "text": "Matt. 26:15",
+          "start": 3,
+          "end": 14,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 26,
+            "chapterId": "matthew26",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 21:32",
+          "start": 97,
+          "end": 106,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 21,
+            "chapterId": "exodus21",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "piece-of-silver",
+  "title": "Piece of silver",
+  "type": "bd"
+}

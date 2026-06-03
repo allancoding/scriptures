@@ -1,0 +1,61 @@
+{
+  "_id": "index-magic",
+  "content": [
+    {
+      "text": "witchcraft and magics in land, Morm. 1:19 (2:10).",
+      "references": [
+        {
+          "text": "Morm. 1:19",
+          "start": 31,
+          "end": 41,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 1,
+            "chapterId": "mormon1",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "2:10",
+          "start": 43,
+          "end": 47,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 2,
+            "chapterId": "mormon2",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-sorceries",
+      "slug": "sorceries",
+      "title": "Sorceries"
+    },
+    {
+      "entryId": "index-witchcraft",
+      "slug": "witchcraft",
+      "title": "Witchcraft"
+    }
+  ],
+  "slug": "magic",
+  "title": "Magic",
+  "type": "index"
+}

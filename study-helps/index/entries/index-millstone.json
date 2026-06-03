@@ -1,0 +1,43 @@
+{
+  "_id": "index-millstone",
+  "content": [
+    {
+      "text": "better that millstone had been hanged about necks of wicked, D&C 121:22.",
+      "references": [
+        {
+          "text": "D&C 121:22",
+          "start": 61,
+          "end": 71,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-mill",
+      "slug": "mill",
+      "title": "Mill"
+    },
+    {
+      "entryId": "index-stone-noun",
+      "slug": "stone-noun",
+      "title": "Stone [noun]"
+    }
+  ],
+  "slug": "millstone",
+  "title": "Millstone",
+  "type": "index"
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "index-liberty-jail",
+  "content": [
+    {
+      "text": "revelations received at, D&C 121–23. prayer by Joseph Smith in, D&C 121.",
+      "references": [
+        {
+          "text": "D&C 121–23",
+          "start": 25,
+          "end": 35,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": []
+          }
+        },
+        {
+          "text": "D&C 121",
+          "start": 64,
+          "end": 71,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": []
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "liberty-jail",
+  "title": "Liberty Jail",
+  "type": "index"
+}

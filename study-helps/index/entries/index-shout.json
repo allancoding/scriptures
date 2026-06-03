@@ -1,0 +1,84 @@
+{
+  "_id": "index-shout",
+  "content": [
+    {
+      "text": "those who receive the Holy Ghost shall shout praises to the Holy One, 2 Ne. 31:13.",
+      "references": [
+        {
+          "text": "2 Ne. 31:13",
+          "start": 70,
+          "end": 81,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 31,
+            "chapterId": "2nephi31",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Saints shout aloud for joy, D&C 109:80. let mountains shout for joy, D&C 128:23.",
+      "references": [
+        {
+          "text": "D&C 109:80",
+          "start": 28,
+          "end": 38,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 109,
+            "chapterId": "doctrineandcovenants109",
+            "verses": [
+              {
+                "start": 80,
+                "end": 80
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 128:23",
+          "start": 69,
+          "end": 79,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 128,
+            "chapterId": "doctrineandcovenants128",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-praise",
+      "slug": "praise",
+      "title": "Praise"
+    },
+    {
+      "entryId": "index-rejoice",
+      "slug": "rejoice",
+      "title": "Rejoice"
+    }
+  ],
+  "slug": "shout",
+  "title": "Shout",
+  "type": "index"
+}

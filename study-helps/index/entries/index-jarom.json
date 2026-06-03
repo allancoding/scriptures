@@ -1,0 +1,72 @@
+{
+  "_id": "index-jarom",
+  "content": [
+    {
+      "text": "son of Enos2, writes that genealogy may be kept, Jarom 1:1. writes a little because plates are small, Jarom 1:2, 14. commands son, Omni, to write, Omni 1:1.",
+      "references": [
+        {
+          "text": "Jarom 1:1",
+          "start": 49,
+          "end": 58,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jarom",
+            "book": "jarom",
+            "chapter": 1,
+            "chapterId": "jarom1",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jarom 1:2, 14",
+          "start": 102,
+          "end": 115,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jarom",
+            "book": "jarom",
+            "chapter": 1,
+            "chapterId": "jarom1",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              },
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Omni 1:1",
+          "start": 147,
+          "end": 155,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "omni",
+            "book": "omni",
+            "chapter": 1,
+            "chapterId": "omni1",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "jarom",
+  "title": "Jarom—Nephite prophet [c. 420 B.C.]",
+  "type": "index"
+}

@@ -1,0 +1,38 @@
+{
+  "_id": "index-havoc",
+  "content": [
+    {
+      "text": "robbers make great havoc, Hel. 11:27.",
+      "references": [
+        {
+          "text": "Hel. 11:27",
+          "start": 26,
+          "end": 36,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 11,
+            "chapterId": "helaman11",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-confusion",
+      "slug": "confusion",
+      "title": "Confusion"
+    }
+  ],
+  "slug": "havoc",
+  "title": "Havoc",
+  "type": "index"
+}

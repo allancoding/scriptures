@@ -1,0 +1,76 @@
+{
+  "_id": "bd-kine",
+  "content": [
+    {
+      "text": "Cows, cattle (Gen. 32:15; 41:2, 18, 26; Amos 4:1).",
+      "references": [
+        {
+          "text": "Gen. 32:15",
+          "start": 14,
+          "end": 24,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 32,
+            "chapterId": "genesis32",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "41:2, 18, 26",
+          "start": 26,
+          "end": 38,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 41,
+            "chapterId": "genesis41",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              },
+              {
+                "start": 18,
+                "end": 18
+              },
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Amos 4:1",
+          "start": 40,
+          "end": 48,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "amos",
+            "book": "amos",
+            "chapter": 4,
+            "chapterId": "amos4",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "kine",
+  "title": "Kine",
+  "type": "bd"
+}

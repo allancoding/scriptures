@@ -1,0 +1,670 @@
+{
+  "_id": "tg-passover",
+  "content": [
+    {
+      "text": "lamb shall be without blemish, a male, Ex. 12:5 (Lev. 23:12). observe the feast of unleavened bread, Ex. 12:17 (23:15; 2 Chr. 30:13). take you a lamb … and kill the passover, Ex. 12:21. Lord will pass over the door, Ex. 12:23. This is the ordinance of the passover, Ex. 12:43. neither shall ye break a bone thereof, Ex. 12:46 (John 19:33). fourteenth day of the first month … the Lord’s passover, Lev. 23:5 (Num. 28:16; Josh. 5:10). keep the passover unto the Lord, Num. 9:14 (2 Kgs. 23:21–23). Thou shalt therefore sacrifice the passover, Deut. 16:2. children of the captivity kept the passover, Ezra 6:19.",
+      "references": [
+        {
+          "text": "Ex. 12:5",
+          "start": 39,
+          "end": 47,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 12,
+            "chapterId": "exodus12",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Lev. 23:12",
+          "start": 49,
+          "end": 59,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 23,
+            "chapterId": "leviticus23",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 12:17",
+          "start": 101,
+          "end": 110,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 12,
+            "chapterId": "exodus12",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "23:15",
+          "start": 112,
+          "end": 117,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 23,
+            "chapterId": "exodus23",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Chr. 30:13",
+          "start": 119,
+          "end": 131,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-chr",
+            "book": "2chronicles",
+            "chapter": 30,
+            "chapterId": "2chronicles30",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 12:21",
+          "start": 175,
+          "end": 184,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 12,
+            "chapterId": "exodus12",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 12:23",
+          "start": 216,
+          "end": 225,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 12,
+            "chapterId": "exodus12",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 12:43",
+          "start": 266,
+          "end": 275,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 12,
+            "chapterId": "exodus12",
+            "verses": [
+              {
+                "start": 43,
+                "end": 43
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 12:46",
+          "start": 316,
+          "end": 325,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 12,
+            "chapterId": "exodus12",
+            "verses": [
+              {
+                "start": 46,
+                "end": 46
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 19:33",
+          "start": 327,
+          "end": 337,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 19,
+            "chapterId": "john19",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "Lev. 23:5",
+          "start": 397,
+          "end": 406,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 23,
+            "chapterId": "leviticus23",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 28:16",
+          "start": 408,
+          "end": 418,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 28,
+            "chapterId": "numbers28",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Josh. 5:10",
+          "start": 420,
+          "end": 430,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "josh",
+            "book": "joshua",
+            "chapter": 5,
+            "chapterId": "joshua5",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 9:14",
+          "start": 466,
+          "end": 475,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 9,
+            "chapterId": "numbers9",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Kgs. 23:21–23",
+          "start": 477,
+          "end": 492,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 23,
+            "chapterId": "2kings23",
+            "verses": [
+              {
+                "start": 21,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 16:2",
+          "start": 540,
+          "end": 550,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 16,
+            "chapterId": "deuteronomy16",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezra 6:19",
+          "start": 597,
+          "end": 606,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezra",
+            "book": "ezra",
+            "chapter": 6,
+            "chapterId": "ezra6",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "after two days is the feast of the passover, Matt. 26:2 (Mark 14:1; Luke 22:1). we prepare for thee to eat the passover, Matt. 26:17. prepare that thou mayest eat the passover, Mark 14:12. feast of unleavened bread … called the Passover, Luke 22:1. day of unleavened bread, when the passover must be, Luke 22:7. Behold the Lamb of God, which taketh away the sin, John 1:29. looking upon Jesus … he saith, Behold the Lamb of God, John 1:36. in Jerusalem at the passover, John 2:23. passover, a feast of the Jews, was nigh, John 6:4. I should release unto you one at the passover, John 18:39. it was the preparation of the passover, John 19:14. Christ our passover is sacrificed for us, 1 Cor. 5:7. Through faith he kept the passover, Heb. 11:28. blood of Christ, as of a lamb without blemish, 1 Pet. 1:19.",
+      "references": [
+        {
+          "text": "Matt. 26:2",
+          "start": 45,
+          "end": 55,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 26,
+            "chapterId": "matthew26",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 14:1",
+          "start": 57,
+          "end": 66,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 14,
+            "chapterId": "mark14",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 22:1",
+          "start": 68,
+          "end": 77,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 22,
+            "chapterId": "luke22",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 26:17",
+          "start": 121,
+          "end": 132,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 26,
+            "chapterId": "matthew26",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 14:12",
+          "start": 177,
+          "end": 187,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 14,
+            "chapterId": "mark14",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 22:1",
+          "start": 238,
+          "end": 247,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 22,
+            "chapterId": "luke22",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 22:7",
+          "start": 301,
+          "end": 310,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 22,
+            "chapterId": "luke22",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 1:29",
+          "start": 363,
+          "end": 372,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 1,
+            "chapterId": "john1",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 1:36",
+          "start": 429,
+          "end": 438,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 1,
+            "chapterId": "john1",
+            "verses": [
+              {
+                "start": 36,
+                "end": 36
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 2:23",
+          "start": 470,
+          "end": 479,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 2,
+            "chapterId": "john2",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 6:4",
+          "start": 522,
+          "end": 530,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 6,
+            "chapterId": "john6",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 18:39",
+          "start": 579,
+          "end": 589,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 18,
+            "chapterId": "john18",
+            "verses": [
+              {
+                "start": 39,
+                "end": 39
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 19:14",
+          "start": 631,
+          "end": 641,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 19,
+            "chapterId": "john19",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 5:7",
+          "start": 685,
+          "end": 695,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 5,
+            "chapterId": "1corinthians5",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 11:28",
+          "start": 733,
+          "end": 743,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 11,
+            "chapterId": "hebrews11",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Pet. 1:19",
+          "start": 792,
+          "end": 803,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-pet",
+            "book": "1peter",
+            "chapter": 1,
+            "chapterId": "1peter1",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "given of God … unto man, are the typifying of him, 2 Ne. 11:4.",
+      "references": [
+        {
+          "text": "2 Ne. 11:4",
+          "start": 51,
+          "end": 61,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 11,
+            "chapterId": "2nephi11",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Lamb is slain from the foundation of the world, Moses 7:47.",
+      "references": [
+        {
+          "text": "Moses 7:47",
+          "start": 48,
+          "end": 58,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 7,
+            "chapterId": "moses7",
+            "verses": [
+              {
+                "start": 47,
+                "end": 47
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-bread-unleavened",
+      "slug": "bread-unleavened",
+      "title": "Bread, Unleavened"
+    },
+    {
+      "entryId": "tg-jesus-christ-types-of-in-anticipation",
+      "slug": "jesus-christ-types-of-in-anticipation",
+      "title": "Jesus Christ, Types of, in Anticipation"
+    }
+  ],
+  "slug": "passover",
+  "title": "Passover",
+  "type": "tg"
+}

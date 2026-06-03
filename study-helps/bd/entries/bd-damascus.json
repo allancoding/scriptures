@@ -1,0 +1,476 @@
+{
+  "_id": "bd-damascus",
+  "content": [
+    {
+      "text": "An ancient city of Syria, standing on a rich plain on the edge of the desert, well watered by the river Barada, of which the Abana and Pharpar (2 Kgs. 5:12) are tributaries. It is first mentioned in the Bible as the birthplace of Eliezer, Abraham’s steward (Gen. 15:2). It was taken by David (2 Sam. 8:6; 1 Chr. 18:5–6) (for Syria-damascus read “Syria of Damascus”) and is frequently mentioned in the subsequent history (1 Kgs. 11:24; 15:18; 20:34; 2 Kgs. 8:7, 9; 14:28; 16:9–16; 2 Chr. 16:2; 28:5, 23; Isa. 7:8; Ezek. 27:18; 47:16–18). It was conquered by Tiglath-pileser and its inhabitants carried captive about 733 B.C. (2 Kgs. 16:9; Isa. 8:4; 17:1–3; Jer. 49:23–27; Amos 1:3–5). It was rebuilt and became an important place during the Persian supremacy. Later on it was conquered by the Greeks and afterwards by the Romans. In New Testament times it was connected with the history of Paul (Acts 9:1–27; 22:5–16; 26:12, 20; 2 Cor. 11:32; Gal. 1:17). It was then part of the dominions of Aretas, an Arabian prince subject to the Roman emperor. It eventually passed, A.D. 634, into the hands of Moslem (Muslim) Arabs, and is still a city of many thousands of inhabitants.",
+      "references": [
+        {
+          "text": "2 Kgs. 5:12",
+          "start": 144,
+          "end": 155,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 5,
+            "chapterId": "2kings5",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 15:2",
+          "start": 258,
+          "end": 267,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 15,
+            "chapterId": "genesis15",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Sam. 8:6",
+          "start": 293,
+          "end": 303,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-sam",
+            "book": "2samuel",
+            "chapter": 8,
+            "chapterId": "2samuel8",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Chr. 18:5–6",
+          "start": 305,
+          "end": 318,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-chr",
+            "book": "1chronicles",
+            "chapter": 18,
+            "chapterId": "1chronicles18",
+            "verses": [
+              {
+                "start": 5,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Kgs. 11:24",
+          "start": 421,
+          "end": 433,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 11,
+            "chapterId": "1kings11",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "15:18",
+          "start": 435,
+          "end": 440,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 15,
+            "chapterId": "1kings15",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "20:34",
+          "start": 442,
+          "end": 447,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 20,
+            "chapterId": "1kings20",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Kgs. 8:7, 9",
+          "start": 449,
+          "end": 462,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 8,
+            "chapterId": "2kings8",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              },
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "14:28",
+          "start": 464,
+          "end": 469,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 14,
+            "chapterId": "2kings14",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "16:9–16",
+          "start": 471,
+          "end": 478,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 16,
+            "chapterId": "2kings16",
+            "verses": [
+              {
+                "start": 9,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Chr. 16:2",
+          "start": 480,
+          "end": 491,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-chr",
+            "book": "2chronicles",
+            "chapter": 16,
+            "chapterId": "2chronicles16",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "28:5, 23",
+          "start": 493,
+          "end": 501,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-chr",
+            "book": "2chronicles",
+            "chapter": 28,
+            "chapterId": "2chronicles28",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              },
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 7:8",
+          "start": 503,
+          "end": 511,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 7,
+            "chapterId": "isaiah7",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 27:18",
+          "start": 513,
+          "end": 524,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 27,
+            "chapterId": "ezekiel27",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "47:16–18",
+          "start": 526,
+          "end": 534,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 47,
+            "chapterId": "ezekiel47",
+            "verses": [
+              {
+                "start": 16,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Kgs. 16:9",
+          "start": 625,
+          "end": 636,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 16,
+            "chapterId": "2kings16",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 8:4",
+          "start": 638,
+          "end": 646,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 8,
+            "chapterId": "isaiah8",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "17:1–3",
+          "start": 648,
+          "end": 654,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 17,
+            "chapterId": "isaiah17",
+            "verses": [
+              {
+                "start": 1,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 49:23–27",
+          "start": 656,
+          "end": 669,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 49,
+            "chapterId": "jeremiah49",
+            "verses": [
+              {
+                "start": 23,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Amos 1:3–5",
+          "start": 671,
+          "end": 681,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "amos",
+            "book": "amos",
+            "chapter": 1,
+            "chapterId": "amos1",
+            "verses": [
+              {
+                "start": 3,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 9:1–27",
+          "start": 895,
+          "end": 906,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 9,
+            "chapterId": "acts9",
+            "verses": [
+              {
+                "start": 1,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "22:5–16",
+          "start": 908,
+          "end": 915,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 22,
+            "chapterId": "acts22",
+            "verses": [
+              {
+                "start": 5,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "26:12, 20",
+          "start": 917,
+          "end": 926,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 26,
+            "chapterId": "acts26",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              },
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Cor. 11:32",
+          "start": 928,
+          "end": 940,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 11,
+            "chapterId": "2corinthians11",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gal. 1:17",
+          "start": 942,
+          "end": 951,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "gal",
+            "book": "galatians",
+            "chapter": 1,
+            "chapterId": "galatians1",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "damascus",
+  "title": "Damascus",
+  "type": "bd"
+}

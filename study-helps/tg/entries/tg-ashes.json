@@ -1,0 +1,210 @@
+{
+  "_id": "tg-ashes",
+  "content": [
+    {
+      "text": "speak unto the Lord, which am but dust and ashes, Gen. 18:27. shall gather up the ashes of the heifer, Num. 19:9. Tamar put ashes on her head, 2 Sam. 13:19. prophet … disguised himself with ashes upon his face, 1 Kgs. 20:38. I have eaten ashes like bread, Ps. 102:9. He feedeth on ashes, Isa. 44:20.",
+      "references": [
+        {
+          "text": "Gen. 18:27",
+          "start": 50,
+          "end": 60,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 18,
+            "chapterId": "genesis18",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 19:9",
+          "start": 103,
+          "end": 112,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 19,
+            "chapterId": "numbers19",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Sam. 13:19",
+          "start": 143,
+          "end": 155,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-sam",
+            "book": "2samuel",
+            "chapter": 13,
+            "chapterId": "2samuel13",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Kgs. 20:38",
+          "start": 211,
+          "end": 223,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 20,
+            "chapterId": "1kings20",
+            "verses": [
+              {
+                "start": 38,
+                "end": 38
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 102:9",
+          "start": 256,
+          "end": 265,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 102,
+            "chapterId": "psalms102",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 44:20",
+          "start": 288,
+          "end": 298,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 44,
+            "chapterId": "isaiah44",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "repented long ago in sackcloth and ashes, Matt. 11:21. ashes of an heifer sprinkling the unclean, Heb. 9:13. turning … Sodom and Gomorrha into ashes, 2 Pet. 2:6.",
+      "references": [
+        {
+          "text": "Matt. 11:21",
+          "start": 42,
+          "end": 53,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 11,
+            "chapterId": "matthew11",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 9:13",
+          "start": 98,
+          "end": 107,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 9,
+            "chapterId": "hebrews9",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Pet. 2:6",
+          "start": 150,
+          "end": 160,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-pet",
+            "book": "2peter",
+            "chapter": 2,
+            "chapterId": "2peter2",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "except they repent in sackcloth and ashes, Mosiah 11:25.",
+      "references": [
+        {
+          "text": "Mosiah 11:25",
+          "start": 43,
+          "end": 55,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 11,
+            "chapterId": "mosiah11",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-dust",
+      "slug": "dust",
+      "title": "Dust"
+    }
+  ],
+  "slug": "ashes",
+  "title": "Ashes",
+  "type": "tg"
+}

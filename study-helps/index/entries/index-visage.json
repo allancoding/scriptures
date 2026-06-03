@@ -1,0 +1,43 @@
+{
+  "_id": "index-visage",
+  "content": [
+    {
+      "text": "his visage was so marred, 3 Ne. 20:44.",
+      "references": [
+        {
+          "text": "3 Ne. 20:44",
+          "start": 26,
+          "end": 37,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 20,
+            "chapterId": "3nephi20",
+            "verses": [
+              {
+                "start": 44,
+                "end": 44
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-countenance",
+      "slug": "countenance",
+      "title": "Countenance"
+    },
+    {
+      "entryId": "index-face",
+      "slug": "face",
+      "title": "Face"
+    }
+  ],
+  "slug": "visage",
+  "title": "Visage",
+  "type": "index"
+}

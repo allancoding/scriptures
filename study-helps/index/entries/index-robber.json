@@ -1,0 +1,56 @@
+{
+  "_id": "index-robber",
+  "content": [
+    {
+      "text": "man is compelled to pay what he owed or be cast out as thief and robber, Alma 11:2. no robbers or murderers in land, 4 Ne. 1:17.",
+      "references": [
+        {
+          "text": "Alma 11:2",
+          "start": 73,
+          "end": 82,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 11,
+            "chapterId": "alma11",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "4 Ne. 1:17",
+          "start": 117,
+          "end": 127,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "4-ne",
+            "book": "4nephi",
+            "chapter": 1,
+            "chapterId": "4nephi1",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-gadianton-robbers",
+      "slug": "gadianton-robbers",
+      "title": "Gadianton Robbers"
+    }
+  ],
+  "slug": "robber",
+  "title": "Robber",
+  "type": "index"
+}

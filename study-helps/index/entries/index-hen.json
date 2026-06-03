@@ -1,0 +1,138 @@
+{
+  "_id": "index-hen",
+  "content": [
+    {
+      "text": "the Lord would gather Israel as hen gathers her chickens, 3 Ne. 10:4–6 (Matt. 23:37; Luke 13:34).",
+      "references": [
+        {
+          "text": "3 Ne. 10:4–6",
+          "start": 58,
+          "end": 70,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 10,
+            "chapterId": "3nephi10",
+            "verses": [
+              {
+                "start": 4,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 23:37",
+          "start": 72,
+          "end": 83,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 23,
+            "chapterId": "matthew23",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 13:34",
+          "start": 85,
+          "end": 95,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 13,
+            "chapterId": "luke13",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "the Lord would gather his people as hen gathers her chickens, D&C 10:65 (29:2; 43:24).",
+      "references": [
+        {
+          "text": "D&C 10:65",
+          "start": 62,
+          "end": 71,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 10,
+            "chapterId": "doctrineandcovenants10",
+            "verses": [
+              {
+                "start": 65,
+                "end": 65
+              }
+            ]
+          }
+        },
+        {
+          "text": "29:2",
+          "start": 73,
+          "end": 77,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 29,
+            "chapterId": "doctrineandcovenants29",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "43:24",
+          "start": 79,
+          "end": 84,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 43,
+            "chapterId": "doctrineandcovenants43",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-animal",
+      "slug": "animal",
+      "title": "Animal"
+    },
+    {
+      "entryId": "index-chickens",
+      "slug": "chickens",
+      "title": "Chickens"
+    }
+  ],
+  "slug": "hen",
+  "title": "Hen",
+  "type": "index"
+}

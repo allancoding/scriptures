@@ -1,0 +1,102 @@
+{
+  "_id": "tg-solitary",
+  "content": [
+    {
+      "text": "They wandered in the wilderness in a solitary way, Ps. 107:4. wilderness and the solitary place shall be glad, Isa. 35:1.",
+      "references": [
+        {
+          "text": "Ps. 107:4",
+          "start": 51,
+          "end": 60,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 107,
+            "chapterId": "psalms107",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 35:1",
+          "start": 111,
+          "end": 120,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 35,
+            "chapterId": "isaiah35",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "departed into a solitary place, Mark 1:35.",
+      "references": [
+        {
+          "text": "Mark 1:35",
+          "start": 32,
+          "end": 41,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 1,
+            "chapterId": "mark1",
+            "verses": [
+              {
+                "start": 35,
+                "end": 35
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "will I not make solitary places to bud, D&C 117:7.",
+      "references": [
+        {
+          "text": "D&C 117:7",
+          "start": 40,
+          "end": 49,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 117,
+            "chapterId": "doctrineandcovenants117",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-desolate",
+      "slug": "desolate",
+      "title": "Desolate"
+    }
+  ],
+  "slug": "solitary",
+  "title": "Solitary",
+  "type": "tg"
+}

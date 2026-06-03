@@ -1,0 +1,787 @@
+{
+  "_id": "tg-shepherd",
+  "content": [
+    {
+      "text": "Thy servants are shepherds, Gen. 47:3. from thence is the shepherd, the stone of Israel, Gen. 49:24. be not as sheep which have no shepherd, Num. 27:17 (1 Kgs. 22:17; 2 Chr. 18:16). Lord is my shepherd, Ps. 23:1. Shepherd of Israel, Ps. 80:1. He shall feed his flock like a shepherd, Isa. 40:11. saith of Cyrus, He is my shepherd, Isa. 44:28. pastors also transgressed against me, Jer. 2:8. Woe be to the shepherds of Israel, Ezek. 34:2. As a shepherd seeketh out his flock, Ezek. 34:12. set up one shepherd over them, Ezek. 34:23 (37:24; Jer. 23:4). shepherd taketh out of the mouth of the lion, Amos 3:12. troubled, because there was no shepherd, Zech. 10:2. smite the shepherd, and the sheep shall be scattered, Zech. 13:7 (Matt. 26:31; Mark 14:27).",
+      "references": [
+        {
+          "text": "Gen. 47:3",
+          "start": 28,
+          "end": 37,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 47,
+            "chapterId": "genesis47",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 49:24",
+          "start": 89,
+          "end": 99,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 49,
+            "chapterId": "genesis49",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 27:17",
+          "start": 141,
+          "end": 151,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 27,
+            "chapterId": "numbers27",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Kgs. 22:17",
+          "start": 153,
+          "end": 165,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 22,
+            "chapterId": "1kings22",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Chr. 18:16",
+          "start": 167,
+          "end": 179,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-chr",
+            "book": "2chronicles",
+            "chapter": 18,
+            "chapterId": "2chronicles18",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 23:1",
+          "start": 203,
+          "end": 211,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 23,
+            "chapterId": "psalms23",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 80:1",
+          "start": 233,
+          "end": 241,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 80,
+            "chapterId": "psalms80",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 40:11",
+          "start": 284,
+          "end": 294,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 40,
+            "chapterId": "isaiah40",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 44:28",
+          "start": 331,
+          "end": 341,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 44,
+            "chapterId": "isaiah44",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 2:8",
+          "start": 381,
+          "end": 389,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 2,
+            "chapterId": "jeremiah2",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 34:2",
+          "start": 426,
+          "end": 436,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 34,
+            "chapterId": "ezekiel34",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 34:12",
+          "start": 475,
+          "end": 486,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 34,
+            "chapterId": "ezekiel34",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 34:23",
+          "start": 519,
+          "end": 530,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 34,
+            "chapterId": "ezekiel34",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "37:24",
+          "start": 532,
+          "end": 537,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 37,
+            "chapterId": "ezekiel37",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 23:4",
+          "start": 539,
+          "end": 548,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 23,
+            "chapterId": "jeremiah23",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Amos 3:12",
+          "start": 597,
+          "end": 606,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "amos",
+            "book": "amos",
+            "chapter": 3,
+            "chapterId": "amos3",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Zech. 10:2",
+          "start": 649,
+          "end": 659,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "zech",
+            "book": "zechariah",
+            "chapter": 10,
+            "chapterId": "zechariah10",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Zech. 13:7",
+          "start": 715,
+          "end": 725,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "zech",
+            "book": "zechariah",
+            "chapter": 13,
+            "chapterId": "zechariah13",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 26:31",
+          "start": 727,
+          "end": 738,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 26,
+            "chapterId": "matthew26",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 14:27",
+          "start": 740,
+          "end": 750,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 14,
+            "chapterId": "mark14",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "scattered abroad, as sheep having no shepherd, Matt. 9:36 (Mark 6:34; Alma 25:12). shepherd divideth his sheep from the goats, Matt. 25:32. shepherds abiding in the field, Luke 2:8. he that entereth in by the door is the shepherd, John 10:2. I am the good shepherd, John 10:11 (D&C 50:44). one fold, and one shepherd, John 10:16 (1 Ne. 22:25; 3 Ne. 15:17). Lord Jesus, that great shepherd, Heb. 13:20. ye … returned unto the Shepherd and Bishop of your souls, 1 Pet. 2:25. chief Shepherd shall appear, 1 Pet. 5:4.",
+      "references": [
+        {
+          "text": "Matt. 9:36",
+          "start": 47,
+          "end": 57,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 9,
+            "chapterId": "matthew9",
+            "verses": [
+              {
+                "start": 36,
+                "end": 36
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 6:34",
+          "start": 59,
+          "end": 68,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 6,
+            "chapterId": "mark6",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 25:12",
+          "start": 70,
+          "end": 80,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 25,
+            "chapterId": "alma25",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 25:32",
+          "start": 127,
+          "end": 138,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 25,
+            "chapterId": "matthew25",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 2:8",
+          "start": 172,
+          "end": 180,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 2,
+            "chapterId": "luke2",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 10:2",
+          "start": 231,
+          "end": 240,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 10,
+            "chapterId": "john10",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 10:11",
+          "start": 266,
+          "end": 276,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 10,
+            "chapterId": "john10",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 50:44",
+          "start": 278,
+          "end": 287,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 50,
+            "chapterId": "doctrineandcovenants50",
+            "verses": [
+              {
+                "start": 44,
+                "end": 44
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 10:16",
+          "start": 318,
+          "end": 328,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 10,
+            "chapterId": "john10",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Ne. 22:25",
+          "start": 330,
+          "end": 341,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 22,
+            "chapterId": "1nephi22",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 15:17",
+          "start": 343,
+          "end": 354,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 15,
+            "chapterId": "3nephi15",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 13:20",
+          "start": 390,
+          "end": 400,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 13,
+            "chapterId": "hebrews13",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Pet. 2:25",
+          "start": 460,
+          "end": 471,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-pet",
+            "book": "1peter",
+            "chapter": 2,
+            "chapterId": "1peter2",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Pet. 5:4",
+          "start": 502,
+          "end": 512,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-pet",
+            "book": "1peter",
+            "chapter": 5,
+            "chapterId": "1peter5",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "one God and one Shepherd over all the earth, 1 Ne. 13:41. wild flock which fleeth from the shepherd, Mosiah 8:21. shepherd hath called after you, Alma 5:37 (5:37–42, 55–60). not hearken unto the voice of the good shepherd, Hel. 7:18. Redeemer, and their great and true shepherd, Hel. 15:13. they had Christ for their shepherd, Morm. 5:17.",
+      "references": [
+        {
+          "text": "1 Ne. 13:41",
+          "start": 45,
+          "end": 56,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 13,
+            "chapterId": "1nephi13",
+            "verses": [
+              {
+                "start": 41,
+                "end": 41
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 8:21",
+          "start": 101,
+          "end": 112,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 8,
+            "chapterId": "mosiah8",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 5:37",
+          "start": 146,
+          "end": 155,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 5,
+            "chapterId": "alma5",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        },
+        {
+          "text": "5:37–42, 55–60",
+          "start": 157,
+          "end": 171,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 5,
+            "chapterId": "alma5",
+            "verses": [
+              {
+                "start": 37,
+                "end": 42
+              },
+              {
+                "start": 55,
+                "end": 60
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 7:18",
+          "start": 223,
+          "end": 232,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 7,
+            "chapterId": "helaman7",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 15:13",
+          "start": 279,
+          "end": 289,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 15,
+            "chapterId": "helaman15",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 5:17",
+          "start": 327,
+          "end": 337,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 5,
+            "chapterId": "mormon5",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-flock",
+      "slug": "flock",
+      "title": "Flock"
+    },
+    {
+      "entryId": "tg-jesus-christ-good-shepherd",
+      "slug": "jesus-christ-good-shepherd",
+      "title": "Jesus Christ, Good Shepherd"
+    },
+    {
+      "entryId": "tg-pastor",
+      "slug": "pastor",
+      "title": "Pastor"
+    },
+    {
+      "entryId": "tg-sheep",
+      "slug": "sheep",
+      "title": "Sheep"
+    }
+  ],
+  "slug": "shepherd",
+  "title": "Shepherd",
+  "type": "tg"
+}

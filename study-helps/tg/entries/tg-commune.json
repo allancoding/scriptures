@@ -1,0 +1,114 @@
+{
+  "_id": "tg-commune",
+  "content": [
+    {
+      "text": "I will commune with thee, Ex. 25:22. commune with your own heart upon your bed, Ps. 4:4. the angel that communed with me, Zech. 1:14.",
+      "references": [
+        {
+          "text": "Ex. 25:22",
+          "start": 26,
+          "end": 35,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 25,
+            "chapterId": "exodus25",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 4:4",
+          "start": 80,
+          "end": 87,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 4,
+            "chapterId": "psalms4",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Zech. 1:14",
+          "start": 122,
+          "end": 132,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "zech",
+            "book": "zechariah",
+            "chapter": 1,
+            "chapterId": "zechariah1",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "while they communed together and reasoned, Luke 24:15.",
+      "references": [
+        {
+          "text": "Luke 24:15",
+          "start": 43,
+          "end": 53,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 24,
+            "chapterId": "luke24",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "commune with the general assembly, D&C 107:19.",
+      "references": [
+        {
+          "text": "D&C 107:19",
+          "start": 35,
+          "end": 45,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 107,
+            "chapterId": "doctrineandcovenants107",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "commune",
+  "title": "Commune",
+  "type": "tg"
+}

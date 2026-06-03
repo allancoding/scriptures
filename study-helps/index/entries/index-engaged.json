@@ -1,0 +1,38 @@
+{
+  "_id": "index-engaged",
+  "content": [
+    {
+      "text": "men should be anxiously engaged in good cause, D&C 58:27.",
+      "references": [
+        {
+          "text": "D&C 58:27",
+          "start": 47,
+          "end": 56,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 58,
+            "chapterId": "doctrineandcovenants58",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-idleness",
+      "slug": "idleness",
+      "title": "Idleness"
+    }
+  ],
+  "slug": "engaged",
+  "title": "Engaged",
+  "type": "index"
+}

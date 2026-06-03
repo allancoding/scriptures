@@ -1,0 +1,120 @@
+{
+  "_id": "tg-ancient",
+  "content": [
+    {
+      "text": "ancient men, that had seen the first house, Ezra 3:12. With the ancient is wisdom, Job 12:12. the child shall behave himself proudly against the ancient, Isa. 3:5 (2 Ne. 13:5).",
+      "references": [
+        {
+          "text": "Ezra 3:12",
+          "start": 44,
+          "end": 53,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezra",
+            "book": "ezra",
+            "chapter": 3,
+            "chapterId": "ezra3",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Job 12:12",
+          "start": 83,
+          "end": 92,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "job",
+            "book": "job",
+            "chapter": 12,
+            "chapterId": "job12",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 3:5",
+          "start": 154,
+          "end": 162,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 3,
+            "chapterId": "isaiah3",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 13:5",
+          "start": 164,
+          "end": 174,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 13,
+            "chapterId": "2nephi13",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "The ancient, he is the head, 2 Ne. 19:15.",
+      "references": [
+        {
+          "text": "2 Ne. 19:15",
+          "start": 29,
+          "end": 40,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 19,
+            "chapterId": "2nephi19",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-old",
+      "slug": "old",
+      "title": "Old"
+    },
+    {
+      "entryId": "tg-old-age",
+      "slug": "old-age",
+      "title": "Old Age"
+    }
+  ],
+  "slug": "ancient",
+  "title": "Ancient",
+  "type": "tg"
+}

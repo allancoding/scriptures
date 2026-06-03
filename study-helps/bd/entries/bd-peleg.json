@@ -1,0 +1,90 @@
+{
+  "_id": "bd-peleg",
+  "content": [
+    {
+      "text": "Division. Son of Eber. In his day the earth was divided (Gen. 10:25; 11:16–19; 1 Chr. 1:19, 25; D&C 133:24).",
+      "references": [
+        {
+          "text": "Gen. 10:25",
+          "start": 57,
+          "end": 67,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 10,
+            "chapterId": "genesis10",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "11:16–19",
+          "start": 69,
+          "end": 77,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 11,
+            "chapterId": "genesis11",
+            "verses": [
+              {
+                "start": 16,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Chr. 1:19, 25",
+          "start": 79,
+          "end": 94,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-chr",
+            "book": "1chronicles",
+            "chapter": 1,
+            "chapterId": "1chronicles1",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              },
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 133:24",
+          "start": 96,
+          "end": 106,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 133,
+            "chapterId": "doctrineandcovenants133",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "peleg",
+  "title": "Peleg",
+  "type": "bd"
+}

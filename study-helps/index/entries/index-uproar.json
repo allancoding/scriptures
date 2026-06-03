@@ -1,0 +1,53 @@
+{
+  "_id": "index-uproar",
+  "content": [
+    {
+      "text": "great uproar throughout land, 3 Ne. 1:7.",
+      "references": [
+        {
+          "text": "3 Ne. 1:7",
+          "start": 30,
+          "end": 39,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 1,
+            "chapterId": "3nephi1",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-commotion",
+      "slug": "commotion",
+      "title": "Commotion"
+    },
+    {
+      "entryId": "index-noise",
+      "slug": "noise",
+      "title": "Noise"
+    },
+    {
+      "entryId": "index-riotings",
+      "slug": "riotings",
+      "title": "Riotings"
+    },
+    {
+      "entryId": "index-tumult",
+      "slug": "tumult",
+      "title": "Tumult"
+    }
+  ],
+  "slug": "uproar",
+  "title": "Uproar",
+  "type": "index"
+}

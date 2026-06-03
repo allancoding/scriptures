@@ -1,0 +1,32 @@
+{
+  "_id": "tg-weather",
+  "content": [
+    {
+      "text": "fair weather: for the sky is red, Matt. 16:2.",
+      "references": [
+        {
+          "text": "Matt. 16:2",
+          "start": 34,
+          "end": 44,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 16,
+            "chapterId": "matthew16",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "weather",
+  "title": "Weather",
+  "type": "tg"
+}

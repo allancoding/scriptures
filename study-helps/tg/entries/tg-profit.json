@@ -1,0 +1,765 @@
+{
+  "_id": "tg-profit",
+  "content": [
+    {
+      "text": "what profit shall this birthright do to me, Gen. 25:32. What profit is it if we slay our brother, Gen. 37:26. vain things, which cannot profit nor deliver, 1 Sam. 12:21. Treasures of wickedness profit nothing, Prov. 10:2. Riches profit not in the day of wrath, Prov. 11:4. What profit hath a man of all his labour, Eccl. 1:3 (5:16). Lord thy God which teacheth thee to profit, Isa. 48:17 (1 Ne. 20:17). walked after things that do not profit, Jer. 2:8. What profiteth the graven image, Hab. 2:18. what profit is it that we have kept his ordinance, Mal. 3:14 (3 Ne. 24:14).",
+      "references": [
+        {
+          "text": "Gen. 25:32",
+          "start": 44,
+          "end": 54,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 25,
+            "chapterId": "genesis25",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 37:26",
+          "start": 98,
+          "end": 108,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 37,
+            "chapterId": "genesis37",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Sam. 12:21",
+          "start": 156,
+          "end": 168,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 12,
+            "chapterId": "1samuel12",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 10:2",
+          "start": 210,
+          "end": 220,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 10,
+            "chapterId": "proverbs10",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 11:4",
+          "start": 261,
+          "end": 271,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 11,
+            "chapterId": "proverbs11",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eccl. 1:3",
+          "start": 315,
+          "end": 324,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "eccl",
+            "book": "ecclesiastes",
+            "chapter": 1,
+            "chapterId": "ecclesiastes1",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "5:16",
+          "start": 326,
+          "end": 330,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "eccl",
+            "book": "ecclesiastes",
+            "chapter": 5,
+            "chapterId": "ecclesiastes5",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 48:17",
+          "start": 377,
+          "end": 387,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 48,
+            "chapterId": "isaiah48",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Ne. 20:17",
+          "start": 389,
+          "end": 400,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 20,
+            "chapterId": "1nephi20",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 2:8",
+          "start": 443,
+          "end": 451,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 2,
+            "chapterId": "jeremiah2",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hab. 2:18",
+          "start": 486,
+          "end": 495,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "hab",
+            "book": "habakkuk",
+            "chapter": 2,
+            "chapterId": "habakkuk2",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mal. 3:14",
+          "start": 548,
+          "end": 557,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "mal",
+            "book": "malachi",
+            "chapter": 3,
+            "chapterId": "malachi3",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 24:14",
+          "start": 559,
+          "end": 570,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 24,
+            "chapterId": "3nephi24",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "whatsoever thou mightest be profited, Matt. 15:5 (Mark 7:11). what is a man profited, if he shall gain the whole world, Matt. 16:26 (Mark 8:36; D&C 88:33). the flesh profiteth nothing, John 6:63. circumcision … profiteth, if thou keep the law, Rom. 2:25. what profit is there of circumcision, Rom. 3:1. this I speak for your own profit, 1 Cor. 7:35. not seeking mine own profit, but the profit of many, 1 Cor. 10:33. Spirit is given to every man to profit, 1 Cor. 12:7. profited in the Jews’ religion above many, Gal. 1:14. if ye be circumcised, Christ shall profit you nothing, Gal. 5:2. bodily exercise profiteth little, 1 Tim. 4:8. thy profiting may appear to all, 1 Tim. 4:15. they strive not about words to no profit, 2 Tim. 2:14. word preached did not profit them, Heb. 4:2. What doth it profit … though a man say he hath faith, and have not works, James 2:14.",
+      "references": [
+        {
+          "text": "Matt. 15:5",
+          "start": 38,
+          "end": 48,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 15,
+            "chapterId": "matthew15",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 7:11",
+          "start": 50,
+          "end": 59,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 7,
+            "chapterId": "mark7",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 16:26",
+          "start": 120,
+          "end": 131,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 16,
+            "chapterId": "matthew16",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 8:36",
+          "start": 133,
+          "end": 142,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 8,
+            "chapterId": "mark8",
+            "verses": [
+              {
+                "start": 36,
+                "end": 36
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 88:33",
+          "start": 144,
+          "end": 153,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 6:63",
+          "start": 185,
+          "end": 194,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 6,
+            "chapterId": "john6",
+            "verses": [
+              {
+                "start": 63,
+                "end": 63
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 2:25",
+          "start": 244,
+          "end": 253,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 2,
+            "chapterId": "romans2",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 3:1",
+          "start": 293,
+          "end": 301,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 3,
+            "chapterId": "romans3",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 7:35",
+          "start": 337,
+          "end": 348,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 7,
+            "chapterId": "1corinthians7",
+            "verses": [
+              {
+                "start": 35,
+                "end": 35
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 10:33",
+          "start": 403,
+          "end": 415,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 10,
+            "chapterId": "1corinthians10",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 12:7",
+          "start": 457,
+          "end": 468,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 12,
+            "chapterId": "1corinthians12",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gal. 1:14",
+          "start": 513,
+          "end": 522,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "gal",
+            "book": "galatians",
+            "chapter": 1,
+            "chapterId": "galatians1",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gal. 5:2",
+          "start": 579,
+          "end": 587,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "gal",
+            "book": "galatians",
+            "chapter": 5,
+            "chapterId": "galatians5",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Tim. 4:8",
+          "start": 623,
+          "end": 633,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 4,
+            "chapterId": "1timothy4",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Tim. 4:15",
+          "start": 668,
+          "end": 679,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 4,
+            "chapterId": "1timothy4",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Tim. 2:14",
+          "start": 723,
+          "end": 734,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-tim",
+            "book": "2timothy",
+            "chapter": 2,
+            "chapterId": "2timothy2",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 4:2",
+          "start": 771,
+          "end": 779,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 4,
+            "chapterId": "hebrews4",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "James 2:14",
+          "start": 855,
+          "end": 865,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "james",
+            "book": "james",
+            "chapter": 2,
+            "chapterId": "james2",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "that it might be for our profit and learning, 1 Ne. 19:23 (2 Ne. 2:14; 4:15; D&C 46:16). what doth it profit us to labor in the church, Alma 30:34. except … with real intent it profiteth him nothing, Moro. 7:6 (7:9). given … of God unto men, to profit them, Moro. 10:8.",
+      "references": [
+        {
+          "text": "1 Ne. 19:23",
+          "start": 46,
+          "end": 57,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 19,
+            "chapterId": "1nephi19",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 2:14",
+          "start": 59,
+          "end": 69,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 2,
+            "chapterId": "2nephi2",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "4:15",
+          "start": 71,
+          "end": 75,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 4,
+            "chapterId": "2nephi4",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 46:16",
+          "start": 77,
+          "end": 86,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 46,
+            "chapterId": "doctrineandcovenants46",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 30:34",
+          "start": 136,
+          "end": 146,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 30,
+            "chapterId": "alma30",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moro. 7:6",
+          "start": 200,
+          "end": 209,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "moro",
+            "book": "moroni",
+            "chapter": 7,
+            "chapterId": "moroni7",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "7:9",
+          "start": 211,
+          "end": 214,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "moro",
+            "book": "moroni",
+            "chapter": 7,
+            "chapterId": "moroni7",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moro. 10:8",
+          "start": 258,
+          "end": 268,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "moro",
+            "book": "moroni",
+            "chapter": 10,
+            "chapterId": "moroni10",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "in order that every member may be profited, D&C 46:29.",
+      "references": [
+        {
+          "text": "D&C 46:29",
+          "start": 44,
+          "end": 53,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 46,
+            "chapterId": "doctrineandcovenants46",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-advantage",
+      "slug": "advantage",
+      "title": "Advantage"
+    },
+    {
+      "entryId": "tg-gain",
+      "slug": "gain",
+      "title": "Gain"
+    },
+    {
+      "entryId": "tg-profitable",
+      "slug": "profitable",
+      "title": "Profitable"
+    }
+  ],
+  "slug": "profit",
+  "title": "Profit",
+  "type": "tg"
+}

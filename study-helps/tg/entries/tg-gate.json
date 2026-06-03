@@ -1,0 +1,670 @@
+{
+  "_id": "tg-gate",
+  "content": [
+    {
+      "text": "seed shall possess the gate of his enemies, Gen. 22:17. this is the gate of heaven, Gen. 28:17. write them … on thy gates, Deut. 6:9 (11:20). Samson … took the doors of the gate of the city, Judg. 16:3. at the gate of the foundation, 2 Chr. 23:5 (Neh. 2:14; 3:15). entering in at the fish gate, 2 Chr. 33:14 (Zeph. 1:10). went out … by the gate of the valley, Neh. 2:13. Lift up your heads, O ye gates, Ps. 24:7. Open ye the gates, Isa. 26:2. snare for him that reproveth in the gate, Isa. 29:21 (2 Ne. 27:32). break in pieces the gates of brass, Isa. 45:2. thy gates shall be open continually, Isa. 60:11. gates of the city shall be after the names of the tribes, Ezek. 48:31.",
+      "references": [
+        {
+          "text": "Gen. 22:17",
+          "start": 44,
+          "end": 54,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 22,
+            "chapterId": "genesis22",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 28:17",
+          "start": 84,
+          "end": 94,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 28,
+            "chapterId": "genesis28",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 6:9",
+          "start": 123,
+          "end": 132,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 6,
+            "chapterId": "deuteronomy6",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "11:20",
+          "start": 134,
+          "end": 139,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 11,
+            "chapterId": "deuteronomy11",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Judg. 16:3",
+          "start": 191,
+          "end": 201,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "judg",
+            "book": "judges",
+            "chapter": 16,
+            "chapterId": "judges16",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Chr. 23:5",
+          "start": 234,
+          "end": 245,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-chr",
+            "book": "2chronicles",
+            "chapter": 23,
+            "chapterId": "2chronicles23",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Neh. 2:14",
+          "start": 247,
+          "end": 256,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "neh",
+            "book": "nehemiah",
+            "chapter": 2,
+            "chapterId": "nehemiah2",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "3:15",
+          "start": 258,
+          "end": 262,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "neh",
+            "book": "nehemiah",
+            "chapter": 3,
+            "chapterId": "nehemiah3",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Chr. 33:14",
+          "start": 295,
+          "end": 307,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-chr",
+            "book": "2chronicles",
+            "chapter": 33,
+            "chapterId": "2chronicles33",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Zeph. 1:10",
+          "start": 309,
+          "end": 319,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "zeph",
+            "book": "zephaniah",
+            "chapter": 1,
+            "chapterId": "zephaniah1",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Neh. 2:13",
+          "start": 360,
+          "end": 369,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "neh",
+            "book": "nehemiah",
+            "chapter": 2,
+            "chapterId": "nehemiah2",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 24:7",
+          "start": 403,
+          "end": 411,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 24,
+            "chapterId": "psalms24",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 26:2",
+          "start": 432,
+          "end": 441,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 26,
+            "chapterId": "isaiah26",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 29:21",
+          "start": 485,
+          "end": 495,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 29,
+            "chapterId": "isaiah29",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 27:32",
+          "start": 497,
+          "end": 508,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 27,
+            "chapterId": "2nephi27",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 45:2",
+          "start": 547,
+          "end": 556,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 45,
+            "chapterId": "isaiah45",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 60:11",
+          "start": 595,
+          "end": 605,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 60,
+            "chapterId": "isaiah60",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 48:31",
+          "start": 665,
+          "end": 676,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 48,
+            "chapterId": "ezekiel48",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Enter ye in at the strait gate, Matt. 7:13 (Luke 13:24; 3 Ne. 14:13; 27:33; D&C 22:4). gates of hell shall not prevail, Matt. 16:18 (3 Ne. 11:39; D&C 10:69; 18:5). Jesus also … suffered without the gate, Heb. 13:12. twelve gates, and at the gates twelve angels, Rev. 21:12. gates of it shall not be shut at all by day, Rev. 21:25.",
+      "references": [
+        {
+          "text": "Matt. 7:13",
+          "start": 32,
+          "end": 42,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 7,
+            "chapterId": "matthew7",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 13:24",
+          "start": 44,
+          "end": 54,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 13,
+            "chapterId": "luke13",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 14:13",
+          "start": 56,
+          "end": 67,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 14,
+            "chapterId": "3nephi14",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "27:33",
+          "start": 69,
+          "end": 74,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 27,
+            "chapterId": "3nephi27",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 22:4",
+          "start": 76,
+          "end": 84,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 22,
+            "chapterId": "doctrineandcovenants22",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 16:18",
+          "start": 120,
+          "end": 131,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 16,
+            "chapterId": "matthew16",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 11:39",
+          "start": 133,
+          "end": 144,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 11,
+            "chapterId": "3nephi11",
+            "verses": [
+              {
+                "start": 39,
+                "end": 39
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 10:69",
+          "start": 146,
+          "end": 155,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 10,
+            "chapterId": "doctrineandcovenants10",
+            "verses": [
+              {
+                "start": 69,
+                "end": 69
+              }
+            ]
+          }
+        },
+        {
+          "text": "18:5",
+          "start": 157,
+          "end": 161,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 18,
+            "chapterId": "doctrineandcovenants18",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 13:12",
+          "start": 204,
+          "end": 214,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 13,
+            "chapterId": "hebrews13",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 21:12",
+          "start": 262,
+          "end": 272,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 21,
+            "chapterId": "revelation21",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 21:25",
+          "start": 319,
+          "end": 329,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 21,
+            "chapterId": "revelation21",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "May the gates of hell be shut continually, 2 Ne. 4:32. keeper of the gate is the Holy One of Israel, 2 Ne. 9:41. enter into the narrow gate, 2 Ne. 33:9. gate of heaven is open, Hel. 3:28.",
+      "references": [
+        {
+          "text": "2 Ne. 4:32",
+          "start": 43,
+          "end": 53,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 4,
+            "chapterId": "2nephi4",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 9:41",
+          "start": 101,
+          "end": 111,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 9,
+            "chapterId": "2nephi9",
+            "verses": [
+              {
+                "start": 41,
+                "end": 41
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 33:9",
+          "start": 141,
+          "end": 151,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 33,
+            "chapterId": "2nephi33",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 3:28",
+          "start": 177,
+          "end": 186,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 3,
+            "chapterId": "helaman3",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "ordained of me shall come in at the gate, D&C 43:7.",
+      "references": [
+        {
+          "text": "D&C 43:7",
+          "start": 42,
+          "end": 50,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 43,
+            "chapterId": "doctrineandcovenants43",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-door",
+      "slug": "door",
+      "title": "Door"
+    },
+    {
+      "entryId": "tg-way",
+      "slug": "way",
+      "title": "Way"
+    }
+  ],
+  "slug": "gate",
+  "title": "Gate",
+  "type": "tg"
+}

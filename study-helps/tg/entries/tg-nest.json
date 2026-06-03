@@ -1,0 +1,73 @@
+{
+  "_id": "tg-nest",
+  "content": [
+    {
+      "text": "bird that wandereth from her nest, Prov. 27:8. make thy nest as high as the eagle, Jer. 49:16.",
+      "references": [
+        {
+          "text": "Prov. 27:8",
+          "start": 35,
+          "end": 45,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 27,
+            "chapterId": "proverbs27",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 49:16",
+          "start": 83,
+          "end": 93,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 49,
+            "chapterId": "jeremiah49",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "foxes have holes, and the birds of the air have nests, Matt. 8:20.",
+      "references": [
+        {
+          "text": "Matt. 8:20",
+          "start": 55,
+          "end": 65,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 8,
+            "chapterId": "matthew8",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "nest",
+  "title": "Nest",
+  "type": "tg"
+}

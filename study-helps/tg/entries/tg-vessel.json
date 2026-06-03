@@ -1,0 +1,587 @@
+{
+  "_id": "tg-vessel",
+  "content": [
+    {
+      "text": "he made the vessels which were upon the table, Ex. 37:16. brass of all these vessels was without weight, 2 Kgs. 25:16. carried of the vessels of the house of the Lord to Babylon, 2 Chr. 36:7. I am like a broken vessel, Ps. 31:12. be ye clean, that bear the vessels of the Lord, Isa. 52:11 (3 Ne. 20:41; D&C 38:42; 133:5). vessel that he made of clay was marred, Jer. 18:4. will I break this people … as one breaketh a potter’s vessel, Jer. 19:11. with part of the vessels of the house of God, Dan. 1:2. to bring the golden and silver vessels, Dan. 5:2. among the Gentiles as a vessel wherein is no pleasure, Hosea 8:8.",
+      "references": [
+        {
+          "text": "Ex. 37:16",
+          "start": 47,
+          "end": 56,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 37,
+            "chapterId": "exodus37",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Kgs. 25:16",
+          "start": 105,
+          "end": 117,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 25,
+            "chapterId": "2kings25",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Chr. 36:7",
+          "start": 179,
+          "end": 190,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-chr",
+            "book": "2chronicles",
+            "chapter": 36,
+            "chapterId": "2chronicles36",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 31:12",
+          "start": 219,
+          "end": 228,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 31,
+            "chapterId": "psalms31",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 52:11",
+          "start": 278,
+          "end": 288,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 52,
+            "chapterId": "isaiah52",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 20:41",
+          "start": 290,
+          "end": 301,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 20,
+            "chapterId": "3nephi20",
+            "verses": [
+              {
+                "start": 41,
+                "end": 41
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 38:42",
+          "start": 303,
+          "end": 312,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 38,
+            "chapterId": "doctrineandcovenants38",
+            "verses": [
+              {
+                "start": 42,
+                "end": 42
+              }
+            ]
+          }
+        },
+        {
+          "text": "133:5",
+          "start": 314,
+          "end": 319,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 133,
+            "chapterId": "doctrineandcovenants133",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 18:4",
+          "start": 362,
+          "end": 371,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 18,
+            "chapterId": "jeremiah18",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 19:11",
+          "start": 435,
+          "end": 445,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 19,
+            "chapterId": "jeremiah19",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 1:2",
+          "start": 493,
+          "end": 501,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 1,
+            "chapterId": "daniel1",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 5:2",
+          "start": 543,
+          "end": 551,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 5,
+            "chapterId": "daniel5",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hosea 8:8",
+          "start": 608,
+          "end": 617,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "hosea",
+            "book": "hosea",
+            "chapter": 8,
+            "chapterId": "hosea8",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "gathered the good into vessels, but cast the bad away, Matt. 13:48. wise took oil in their vessels, Matt. 25:4. not suffer that any man should carry any vessel through the temple, Mark 11:16. set a vessel full of vinegar, John 19:29. he is a chosen vessel unto me, Acts 9:15. endured with much longsuffering the vessels of wrath, Rom. 9:22. we have this treasure in earthen vessels, 2 Cor. 4:7. know how to possess his vessel, 1 Thes. 4:4. he shall be a vessel unto honour, 2 Tim. 2:21. giving honour unto the wife, as unto the weaker vessel, 1 Pet. 3:7. as the vessels of a potter shall they be broken, Rev. 2:27.",
+      "references": [
+        {
+          "text": "Matt. 13:48",
+          "start": 55,
+          "end": 66,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 13,
+            "chapterId": "matthew13",
+            "verses": [
+              {
+                "start": 48,
+                "end": 48
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 25:4",
+          "start": 100,
+          "end": 110,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 25,
+            "chapterId": "matthew25",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 11:16",
+          "start": 180,
+          "end": 190,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 11,
+            "chapterId": "mark11",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 19:29",
+          "start": 222,
+          "end": 232,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 19,
+            "chapterId": "john19",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 9:15",
+          "start": 265,
+          "end": 274,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 9,
+            "chapterId": "acts9",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 9:22",
+          "start": 330,
+          "end": 339,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 9,
+            "chapterId": "romans9",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Cor. 4:7",
+          "start": 383,
+          "end": 393,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 4,
+            "chapterId": "2corinthians4",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Thes. 4:4",
+          "start": 427,
+          "end": 438,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-thes",
+            "book": "1thessalonians",
+            "chapter": 4,
+            "chapterId": "1thessalonians4",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Tim. 2:21",
+          "start": 474,
+          "end": 485,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-tim",
+            "book": "2timothy",
+            "chapter": 2,
+            "chapterId": "2timothy2",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Pet. 3:7",
+          "start": 543,
+          "end": 553,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-pet",
+            "book": "1peter",
+            "chapter": 3,
+            "chapterId": "1peter3",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 2:27",
+          "start": 604,
+          "end": 613,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 2,
+            "chapterId": "revelation2",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "she being a virgin, a precious and chosen vessel, Alma 7:10. inward vessel shall be cleansed first, Alma 60:23. as a vessel is tossed about upon the waves, Morm. 5:18. vessel, in which they did carry with them the fish, Ether 2:2 (2:22). declaring the word of Christ unto the chosen vessels of the Lord, Moro. 7:31.",
+      "references": [
+        {
+          "text": "Alma 7:10",
+          "start": 50,
+          "end": 59,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 7,
+            "chapterId": "alma7",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 60:23",
+          "start": 100,
+          "end": 110,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 60,
+            "chapterId": "alma60",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 5:18",
+          "start": 156,
+          "end": 166,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 5,
+            "chapterId": "mormon5",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 2:2",
+          "start": 220,
+          "end": 229,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 2,
+            "chapterId": "ether2",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "2:22",
+          "start": 231,
+          "end": 235,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 2,
+            "chapterId": "ether2",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moro. 7:31",
+          "start": 304,
+          "end": 314,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "moro",
+            "book": "moroni",
+            "chapter": 7,
+            "chapterId": "moroni7",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "they are vessels of wrath, doomed to suffer the wrath of God, D&C 76:33.",
+      "references": [
+        {
+          "text": "D&C 76:33",
+          "start": 62,
+          "end": 71,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 76,
+            "chapterId": "doctrineandcovenants76",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "vessel",
+  "title": "Vessel",
+  "type": "tg"
+}

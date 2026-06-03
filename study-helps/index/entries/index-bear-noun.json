@@ -1,0 +1,74 @@
+{
+  "_id": "index-bear-noun",
+  "content": [
+    {
+      "text": "cow and bear shall feed, 2 Ne. 21:7 (30:13; Isa. 11:7).",
+      "references": [
+        {
+          "text": "2 Ne. 21:7",
+          "start": 25,
+          "end": 35,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 21,
+            "chapterId": "2nephi21",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "30:13",
+          "start": 37,
+          "end": 42,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 30,
+            "chapterId": "2nephi30",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 11:7",
+          "start": 44,
+          "end": 53,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 11,
+            "chapterId": "isaiah11",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-animal",
+      "slug": "animal",
+      "title": "Animal"
+    }
+  ],
+  "slug": "bear-noun",
+  "title": "Bear [noun]",
+  "type": "index"
+}

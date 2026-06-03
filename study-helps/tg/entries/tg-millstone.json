@@ -1,0 +1,109 @@
+{
+  "_id": "tg-millstone",
+  "content": [
+    {
+      "text": "No man shall take the nether or the upper millstone, Deut. 24:6. cast a piece of a millstone upon Abimelech’s head, Judg. 9:53.",
+      "references": [
+        {
+          "text": "Deut. 24:6",
+          "start": 53,
+          "end": 63,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 24,
+            "chapterId": "deuteronomy24",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Judg. 9:53",
+          "start": 116,
+          "end": 126,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "judg",
+            "book": "judges",
+            "chapter": 9,
+            "chapterId": "judges9",
+            "verses": [
+              {
+                "start": 53,
+                "end": 53
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "better … a millstone were hanged about his neck, Matt. 18:6 (D&C 121:22). sound of a millstone shall be heard no more, Rev. 18:22.",
+      "references": [
+        {
+          "text": "Matt. 18:6",
+          "start": 49,
+          "end": 59,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 18,
+            "chapterId": "matthew18",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 121:22",
+          "start": 61,
+          "end": 71,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 18:22",
+          "start": 119,
+          "end": 129,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 18,
+            "chapterId": "revelation18",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "millstone",
+  "title": "Millstone",
+  "type": "tg"
+}

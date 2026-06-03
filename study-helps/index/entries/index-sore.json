@@ -1,0 +1,107 @@
+{
+  "_id": "index-sore",
+  "content": [
+    {
+      "text": "Zeezrom’s mind exceedingly sore because of iniquities, Alma 15:5. work of destruction becomes sore by famine, Hel. 11:5.",
+      "references": [
+        {
+          "text": "Alma 15:5",
+          "start": 55,
+          "end": 64,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 15,
+            "chapterId": "alma15",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 11:5",
+          "start": 110,
+          "end": 119,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 11,
+            "chapterId": "helaman11",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "sufferings of those who do not repent will be sore, D&C 19:15.",
+      "references": [
+        {
+          "text": "D&C 19:15",
+          "start": 52,
+          "end": 61,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 19,
+            "chapterId": "doctrineandcovenants19",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "famine waxes sore in Ur, Abr. 2:1.",
+      "references": [
+        {
+          "text": "Abr. 2:1",
+          "start": 25,
+          "end": 33,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 2,
+            "chapterId": "abraham2",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-curse",
+      "slug": "curse",
+      "title": "Curse"
+    },
+    {
+      "entryId": "index-repentance",
+      "slug": "repentance",
+      "title": "Repentance"
+    }
+  ],
+  "slug": "sore",
+  "title": "Sore",
+  "type": "index"
+}

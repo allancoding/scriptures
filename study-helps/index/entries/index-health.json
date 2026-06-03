@@ -1,0 +1,81 @@
+{
+  "_id": "index-health",
+  "content": [
+    {
+      "text": "Saints who obey Word of Wisdom receive health in navels, D&C 89:18. boarding house to be established that weary traveler may find health and safety, D&C 124:23.",
+      "references": [
+        {
+          "text": "D&C 89:18",
+          "start": 57,
+          "end": 66,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 89,
+            "chapterId": "doctrineandcovenants89",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 124:23",
+          "start": 149,
+          "end": 159,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 124,
+            "chapterId": "doctrineandcovenants124",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-body",
+      "slug": "body",
+      "title": "Body"
+    },
+    {
+      "entryId": "index-disease",
+      "slug": "disease",
+      "title": "Disease"
+    },
+    {
+      "entryId": "index-heal",
+      "slug": "heal",
+      "title": "Heal"
+    },
+    {
+      "entryId": "index-sick",
+      "slug": "sick",
+      "title": "Sick"
+    },
+    {
+      "entryId": "index-strength",
+      "slug": "strength",
+      "title": "Strength"
+    },
+    {
+      "entryId": "index-word-of-wisdom",
+      "slug": "word-of-wisdom",
+      "title": "Word of Wisdom"
+    }
+  ],
+  "slug": "health",
+  "title": "Health",
+  "type": "index"
+}

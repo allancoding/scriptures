@@ -1,0 +1,115 @@
+{
+  "_id": "index-paul-the-apostle",
+  "content": [
+    {
+      "text": "Oliver Cowdery and David Whitmer are called with same calling as Paul, D&C 18:9. these are they who are of Paul, D&C 76:99. teachings of Paul explained, D&C 128:13–16.",
+      "references": [
+        {
+          "text": "D&C 18:9",
+          "start": 71,
+          "end": 79,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 18,
+            "chapterId": "doctrineandcovenants18",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 76:99",
+          "start": 113,
+          "end": 122,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 76,
+            "chapterId": "doctrineandcovenants76",
+            "verses": [
+              {
+                "start": 99,
+                "end": 99
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 128:13–16",
+          "start": 153,
+          "end": 166,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 128,
+            "chapterId": "doctrineandcovenants128",
+            "verses": [
+              {
+                "start": 13,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Joseph Smith feels much like Paul, JS—H 1:24. we follow admonition of Paul, A of F 1:13.",
+      "references": [
+        {
+          "text": "JS—H 1:24",
+          "start": 35,
+          "end": 44,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "A of F 1:13",
+          "start": 76,
+          "end": 87,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "a-of-f",
+            "book": "articlesoffaith",
+            "chapter": 1,
+            "chapterId": "articlesoffaith1",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-corinthians-first",
+      "slug": "corinthians-first",
+      "title": "Corinthians, First"
+    }
+  ],
+  "slug": "paul-the-apostle",
+  "title": "Paul the Apostle",
+  "type": "index"
+}

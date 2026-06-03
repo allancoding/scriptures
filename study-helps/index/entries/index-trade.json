@@ -1,0 +1,48 @@
+{
+  "_id": "index-trade",
+  "content": [
+    {
+      "text": "Lamanites begin to trade one with another, Mosiah 24:7.",
+      "references": [
+        {
+          "text": "Mosiah 24:7",
+          "start": 43,
+          "end": 54,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 24,
+            "chapterId": "mosiah24",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-business",
+      "slug": "business",
+      "title": "Business"
+    },
+    {
+      "entryId": "index-merchants",
+      "slug": "merchants",
+      "title": "Merchants"
+    },
+    {
+      "entryId": "index-traffic",
+      "slug": "traffic",
+      "title": "Traffic"
+    }
+  ],
+  "slug": "trade",
+  "title": "Trade",
+  "type": "index"
+}

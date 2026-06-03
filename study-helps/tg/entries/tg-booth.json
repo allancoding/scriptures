@@ -1,0 +1,86 @@
+{
+  "_id": "tg-booth",
+  "content": [
+    {
+      "text": "Jacob … made booths for his cattle, Gen. 33:17. Ye shall dwell in booths seven days, Lev. 23:42. the children of Israel should dwell in booths, Neh. 8:14. Jonah … made him a booth, Jonah 4:5.",
+      "references": [
+        {
+          "text": "Gen. 33:17",
+          "start": 36,
+          "end": 46,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 33,
+            "chapterId": "genesis33",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Lev. 23:42",
+          "start": 85,
+          "end": 95,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 23,
+            "chapterId": "leviticus23",
+            "verses": [
+              {
+                "start": 42,
+                "end": 42
+              }
+            ]
+          }
+        },
+        {
+          "text": "Neh. 8:14",
+          "start": 144,
+          "end": 153,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "neh",
+            "book": "nehemiah",
+            "chapter": 8,
+            "chapterId": "nehemiah8",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jonah 4:5",
+          "start": 181,
+          "end": 190,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jonah",
+            "book": "jonah",
+            "chapter": 4,
+            "chapterId": "jonah4",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "booth",
+  "title": "Booth",
+  "type": "tg"
+}

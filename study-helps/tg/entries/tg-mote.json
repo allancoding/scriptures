@@ -1,0 +1,91 @@
+{
+  "_id": "tg-mote",
+  "content": [
+    {
+      "text": "beholdest thou the mote that is in thy brother’s eye, Matt. 7:3 (Luke 6:41; 3 Ne. 14:3).",
+      "references": [
+        {
+          "text": "Matt. 7:3",
+          "start": 54,
+          "end": 63,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 7,
+            "chapterId": "matthew7",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 6:41",
+          "start": 65,
+          "end": 74,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 6,
+            "chapterId": "luke6",
+            "verses": [
+              {
+                "start": 41,
+                "end": 41
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 14:3",
+          "start": 76,
+          "end": 86,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 14,
+            "chapterId": "3nephi14",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "not one hair, neither mote, shall be lost, D&C 29:25.",
+      "references": [
+        {
+          "text": "D&C 29:25",
+          "start": 43,
+          "end": 52,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 29,
+            "chapterId": "doctrineandcovenants29",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "mote",
+  "title": "Mote",
+  "type": "tg"
+}

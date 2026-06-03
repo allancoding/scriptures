@@ -1,0 +1,50 @@
+{
+  "_id": "index-elihu",
+  "content": [
+    {
+      "text": "gave priesthood to Caleb, D&C 84:8. received priesthood from Jeremy, D&C 84:9.",
+      "references": [
+        {
+          "text": "D&C 84:8",
+          "start": 26,
+          "end": 34,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 84,
+            "chapterId": "doctrineandcovenants84",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 84:9",
+          "start": 69,
+          "end": 77,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 84,
+            "chapterId": "doctrineandcovenants84",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "elihu",
+  "title": "Elihu",
+  "type": "index"
+}

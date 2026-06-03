@@ -1,0 +1,192 @@
+{
+  "_id": "tg-bow-noun",
+  "content": [
+    {
+      "text": "The bows of the mighty men are broken, 1 Sam. 2:4. he bade them teach … the use of the bow, 2 Sam. 1:18. bow of steel is broken by mine arms, 2 Sam. 22:35 (Ps. 18:24). Elisha said … Take bow and arrows, 2 Kgs. 13:15. I will not trust in my bow, Ps. 44:6. I will break the bow of Israel in the valley of Jezreel, Hosea 1:5.",
+      "references": [
+        {
+          "text": "1 Sam. 2:4",
+          "start": 39,
+          "end": 49,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 2,
+            "chapterId": "1samuel2",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Sam. 1:18",
+          "start": 92,
+          "end": 103,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-sam",
+            "book": "2samuel",
+            "chapter": 1,
+            "chapterId": "2samuel1",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Sam. 22:35",
+          "start": 142,
+          "end": 154,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-sam",
+            "book": "2samuel",
+            "chapter": 22,
+            "chapterId": "2samuel22",
+            "verses": [
+              {
+                "start": 35,
+                "end": 35
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 18:24",
+          "start": 156,
+          "end": 165,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 18,
+            "chapterId": "psalms18",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Kgs. 13:15",
+          "start": 203,
+          "end": 215,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 13,
+            "chapterId": "2kings13",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 44:6",
+          "start": 245,
+          "end": 253,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 44,
+            "chapterId": "psalms44",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hosea 1:5",
+          "start": 312,
+          "end": 321,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "hosea",
+            "book": "hosea",
+            "chapter": 1,
+            "chapterId": "hosea1",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "white horse: and he that sat on him had a bow, Rev. 6:2.",
+      "references": [
+        {
+          "text": "Rev. 6:2",
+          "start": 47,
+          "end": 55,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 6,
+            "chapterId": "revelation6",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "break my bow … of fine steel, 1 Ne. 16:18.",
+      "references": [
+        {
+          "text": "1 Ne. 16:18",
+          "start": 30,
+          "end": 41,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 16,
+            "chapterId": "1nephi16",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-rainbow",
+      "slug": "rainbow",
+      "title": "Rainbow"
+    }
+  ],
+  "slug": "bow-noun",
+  "title": "Bow [noun]",
+  "type": "tg"
+}

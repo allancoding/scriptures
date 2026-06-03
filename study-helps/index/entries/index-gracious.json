@@ -1,0 +1,56 @@
+{
+  "_id": "index-gracious",
+  "content": [
+    {
+      "text": "the Lord is gracious to those who fear him, D&C 76:5. the Lord is gracious and merciful to those who repent, D&C 109:53.",
+      "references": [
+        {
+          "text": "D&C 76:5",
+          "start": 44,
+          "end": 52,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 76,
+            "chapterId": "doctrineandcovenants76",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 109:53",
+          "start": 109,
+          "end": 119,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 109,
+            "chapterId": "doctrineandcovenants109",
+            "verses": [
+              {
+                "start": 53,
+                "end": 53
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-grace",
+      "slug": "grace",
+      "title": "Grace"
+    }
+  ],
+  "slug": "gracious",
+  "title": "Gracious",
+  "type": "index"
+}

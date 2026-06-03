@@ -1,0 +1,68 @@
+{
+  "_id": "bd-lawyer",
+  "content": [
+    {
+      "text": "In the New Testament, equivalent to scribe, one who was by profession a student and teacher of the law, including the written law of the Pentateuch, and also “the traditions of the elders” (Matt. 22:35; Mark 12:28; Luke 10:25).",
+      "references": [
+        {
+          "text": "Matt. 22:35",
+          "start": 190,
+          "end": 201,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 22,
+            "chapterId": "matthew22",
+            "verses": [
+              {
+                "start": 35,
+                "end": 35
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 12:28",
+          "start": 203,
+          "end": 213,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 12,
+            "chapterId": "mark12",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 10:25",
+          "start": 215,
+          "end": 225,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 10,
+            "chapterId": "luke10",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "lawyer",
+  "title": "Lawyer",
+  "type": "bd"
+}

@@ -1,0 +1,151 @@
+{
+  "_id": "tg-bird",
+  "content": [
+    {
+      "text": "every fowl after his kind, every bird of every sort, Gen. 7:14. Of all clean birds ye shall eat, Deut. 14:11. soul is escaped as a bird out of the snare, Ps. 124:7. Deliver thyself … as a bird from the hand of the fowler, Prov. 6:5.",
+      "references": [
+        {
+          "text": "Gen. 7:14",
+          "start": 53,
+          "end": 62,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 7,
+            "chapterId": "genesis7",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 14:11",
+          "start": 97,
+          "end": 108,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 14,
+            "chapterId": "deuteronomy14",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 124:7",
+          "start": 154,
+          "end": 163,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 124,
+            "chapterId": "psalms124",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 6:5",
+          "start": 222,
+          "end": 231,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 6,
+            "chapterId": "proverbs6",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "birds of the air have nests, Matt. 8:20 (Luke 9:58). that the birds of the air come and lodge, Matt. 13:32.",
+      "references": [
+        {
+          "text": "Matt. 8:20",
+          "start": 29,
+          "end": 39,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 8,
+            "chapterId": "matthew8",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 9:58",
+          "start": 41,
+          "end": 50,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 9,
+            "chapterId": "luke9",
+            "verses": [
+              {
+                "start": 58,
+                "end": 58
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 13:32",
+          "start": 95,
+          "end": 106,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 13,
+            "chapterId": "matthew13",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-fowl",
+      "slug": "fowl",
+      "title": "Fowl"
+    }
+  ],
+  "slug": "bird",
+  "title": "Bird",
+  "type": "tg"
+}

@@ -1,0 +1,56 @@
+{
+  "_id": "tg-regeneration",
+  "content": [
+    {
+      "text": "regeneration when the Son … shall sit in the throne of his glory, Matt. 19:28. he saved us, by the washing of regeneration, Titus 3:5.",
+      "references": [
+        {
+          "text": "Matt. 19:28",
+          "start": 66,
+          "end": 77,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 19,
+            "chapterId": "matthew19",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Titus 3:5",
+          "start": 124,
+          "end": 133,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "titus",
+            "book": "titus",
+            "chapter": 3,
+            "chapterId": "titus3",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-earth-renewal-of",
+      "slug": "earth-renewal-of",
+      "title": "Earth, Renewal of"
+    }
+  ],
+  "slug": "regeneration",
+  "title": "Regeneration",
+  "type": "tg"
+}

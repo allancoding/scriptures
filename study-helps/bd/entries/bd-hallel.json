@@ -1,0 +1,76 @@
+{
+  "_id": "bd-hallel",
+  "content": [
+    {
+      "text": "A name given to the group of Psalms (113–18) recited by Jews at the great feasts (Matt. 26:30; Mark 14:26). Ps. 136 was generally known as the “Great Hallel.”",
+      "references": [
+        {
+          "text": "113–18",
+          "start": 37,
+          "end": 43,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 113,
+            "chapterId": "psalms113",
+            "verses": []
+          }
+        },
+        {
+          "text": "Matt. 26:30",
+          "start": 82,
+          "end": 93,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 26,
+            "chapterId": "matthew26",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 14:26",
+          "start": 95,
+          "end": 105,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 14,
+            "chapterId": "mark14",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 136",
+          "start": 108,
+          "end": 115,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 136,
+            "chapterId": "psalms136",
+            "verses": []
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "hallel",
+  "title": "Hallel",
+  "type": "bd"
+}

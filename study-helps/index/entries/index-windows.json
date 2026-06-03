@@ -1,0 +1,68 @@
+{
+  "_id": "index-windows",
+  "content": [
+    {
+      "text": "the Lord will open windows of heaven, 3 Ne. 24:10 (Mal. 3:10). no windows in Jaredite barges, Ether 2:23.",
+      "references": [
+        {
+          "text": "3 Ne. 24:10",
+          "start": 38,
+          "end": 49,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 24,
+            "chapterId": "3nephi24",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mal. 3:10",
+          "start": 51,
+          "end": 60,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "mal",
+            "book": "malachi",
+            "chapter": 3,
+            "chapterId": "malachi3",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 2:23",
+          "start": 94,
+          "end": 104,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 2,
+            "chapterId": "ether2",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "windows",
+  "title": "Windows",
+  "type": "index"
+}

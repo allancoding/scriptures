@@ -1,0 +1,63 @@
+{
+  "_id": "bd-alleluia",
+  "content": [
+    {
+      "text": "Praise ye the Lord (Rev. 19:1–6; see also Ps. 105:45; 106–50).",
+      "references": [
+        {
+          "text": "Rev. 19:1–6",
+          "start": 20,
+          "end": 31,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 19,
+            "chapterId": "revelation19",
+            "verses": [
+              {
+                "start": 1,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 105:45",
+          "start": 42,
+          "end": 52,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 105,
+            "chapterId": "psalms105",
+            "verses": [
+              {
+                "start": 45,
+                "end": 45
+              }
+            ]
+          }
+        },
+        {
+          "text": "106–50",
+          "start": 54,
+          "end": 60,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 106,
+            "chapterId": "psalms106",
+            "verses": []
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "alleluia",
+  "title": "Alleluia, hallelujah",
+  "type": "bd"
+}

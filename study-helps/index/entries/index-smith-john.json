@@ -1,0 +1,32 @@
+{
+  "_id": "index-smith-john",
+  "content": [
+    {
+      "text": "member of high council, D&C 102:3.",
+      "references": [
+        {
+          "text": "D&C 102:3",
+          "start": 24,
+          "end": 33,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 102,
+            "chapterId": "doctrineandcovenants102",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "smith-john",
+  "title": "Smith, John",
+  "type": "index"
+}

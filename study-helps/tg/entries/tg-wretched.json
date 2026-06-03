@@ -1,0 +1,68 @@
+{
+  "_id": "tg-wretched",
+  "content": [
+    {
+      "text": "O wretched man that I am, Rom. 7:24 (2 Ne. 4:17). knowest not that thou art wretched, Rev. 3:17.",
+      "references": [
+        {
+          "text": "Rom. 7:24",
+          "start": 26,
+          "end": 35,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 7,
+            "chapterId": "romans7",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 4:17",
+          "start": 37,
+          "end": 47,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 4,
+            "chapterId": "2nephi4",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 3:17",
+          "start": 86,
+          "end": 95,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 3,
+            "chapterId": "revelation3",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "wretched",
+  "title": "Wretched",
+  "type": "tg"
+}

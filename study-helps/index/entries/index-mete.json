@@ -1,0 +1,120 @@
+{
+  "_id": "index-mete",
+  "content": [
+    {
+      "text": "with what measure ye mete it shall be measured to you, 3 Ne. 14:2 (Matt. 7:2).",
+      "references": [
+        {
+          "text": "3 Ne. 14:2",
+          "start": 55,
+          "end": 65,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 14,
+            "chapterId": "3nephi14",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 7:2",
+          "start": 67,
+          "end": 76,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 7,
+            "chapterId": "matthew7",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "it shall be given that portion that shall be meted to every man, D&C 84:85. persecution meted out as just measure to those who bear it not patiently, D&C 98:24. God will mete out just recompense, D&C 127:3.",
+      "references": [
+        {
+          "text": "D&C 84:85",
+          "start": 65,
+          "end": 74,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 84,
+            "chapterId": "doctrineandcovenants84",
+            "verses": [
+              {
+                "start": 85,
+                "end": 85
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 98:24",
+          "start": 150,
+          "end": 159,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 98,
+            "chapterId": "doctrineandcovenants98",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 127:3",
+          "start": 196,
+          "end": 205,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 127,
+            "chapterId": "doctrineandcovenants127",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-give",
+      "slug": "give",
+      "title": "Give"
+    },
+    {
+      "entryId": "index-measure",
+      "slug": "measure",
+      "title": "Measure"
+    }
+  ],
+  "slug": "mete",
+  "title": "Mete",
+  "type": "index"
+}

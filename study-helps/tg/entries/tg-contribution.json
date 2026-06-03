@@ -1,0 +1,53 @@
+{
+  "_id": "tg-contribution",
+  "content": [
+    {
+      "text": "make a certain contribution for the poor saints, Rom. 15:26.",
+      "references": [
+        {
+          "text": "Rom. 15:26",
+          "start": 49,
+          "end": 59,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 15,
+            "chapterId": "romans15",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-almsgiving",
+      "slug": "almsgiving",
+      "title": "Almsgiving"
+    },
+    {
+      "entryId": "tg-gift",
+      "slug": "gift",
+      "title": "Gift"
+    },
+    {
+      "entryId": "tg-present-noun",
+      "slug": "present-noun",
+      "title": "Present [noun]"
+    },
+    {
+      "entryId": "tg-welfare",
+      "slug": "welfare",
+      "title": "Welfare"
+    }
+  ],
+  "slug": "contribution",
+  "title": "Contribution",
+  "type": "tg"
+}

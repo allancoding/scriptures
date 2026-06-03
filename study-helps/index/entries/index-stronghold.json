@@ -1,0 +1,92 @@
+{
+  "_id": "index-stronghold",
+  "content": [
+    {
+      "text": "Moroni1 prepares strongholds, Alma 50:6. Moroni1 plans to decoy Lamanites out of strongholds, Alma 52:21. Nephites dare not attack Lamanite strongholds, Alma 58:2. Lamanites capture many Nephite strongholds, Hel. 1:27.",
+      "references": [
+        {
+          "text": "Alma 50:6",
+          "start": 30,
+          "end": 39,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 50,
+            "chapterId": "alma50",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 52:21",
+          "start": 94,
+          "end": 104,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 52,
+            "chapterId": "alma52",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 58:2",
+          "start": 153,
+          "end": 162,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 58,
+            "chapterId": "alma58",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 1:27",
+          "start": 208,
+          "end": 217,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 1,
+            "chapterId": "helaman1",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-fort",
+      "slug": "fort",
+      "title": "Fort"
+    }
+  ],
+  "slug": "stronghold",
+  "title": "Stronghold",
+  "type": "index"
+}

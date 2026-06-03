@@ -1,0 +1,210 @@
+{
+  "_id": "tg-spring-noun",
+  "content": [
+    {
+      "text": "he gave her the upper springs, and the nether springs, Josh. 15:19 (Judg. 1:15). He sendeth the springs into the valleys, Ps. 104:10. man falling down before the wicked is as … a corrupt spring, Prov. 25:26. thirsty land springs of water, Isa. 35:7. I will make … the dry land springs of water, Isa. 41:18. thou shalt be … like a spring of water, Isa. 58:11. his spring shall become dry, Hosea 13:15.",
+      "references": [
+        {
+          "text": "Josh. 15:19",
+          "start": 55,
+          "end": 66,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "josh",
+            "book": "joshua",
+            "chapter": 15,
+            "chapterId": "joshua15",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Judg. 1:15",
+          "start": 68,
+          "end": 78,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "judg",
+            "book": "judges",
+            "chapter": 1,
+            "chapterId": "judges1",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 104:10",
+          "start": 122,
+          "end": 132,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 104,
+            "chapterId": "psalms104",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 25:26",
+          "start": 195,
+          "end": 206,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 25,
+            "chapterId": "proverbs25",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 35:7",
+          "start": 239,
+          "end": 248,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 35,
+            "chapterId": "isaiah35",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 41:18",
+          "start": 295,
+          "end": 305,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 41,
+            "chapterId": "isaiah41",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 58:11",
+          "start": 347,
+          "end": 357,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 58,
+            "chapterId": "isaiah58",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hosea 13:15",
+          "start": 388,
+          "end": 399,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "hosea",
+            "book": "hosea",
+            "chapter": 13,
+            "chapterId": "hosea13",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "their bows having lost their springs, 1 Ne. 16:21. he that hath mercy on them shall lead them, even by the springs, 1 Ne. 21:10.",
+      "references": [
+        {
+          "text": "1 Ne. 16:21",
+          "start": 38,
+          "end": 49,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 16,
+            "chapterId": "1nephi16",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Ne. 21:10",
+          "start": 116,
+          "end": 127,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 21,
+            "chapterId": "1nephi21",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-fountain",
+      "slug": "fountain",
+      "title": "Fountain"
+    },
+    {
+      "entryId": "tg-well-noun",
+      "slug": "well-noun",
+      "title": "Well [noun]"
+    }
+  ],
+  "slug": "spring-noun",
+  "title": "Spring [noun]",
+  "type": "tg"
+}

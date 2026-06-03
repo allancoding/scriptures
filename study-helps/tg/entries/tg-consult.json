@@ -1,0 +1,133 @@
+{
+  "_id": "tg-consult",
+  "content": [
+    {
+      "text": "Rehoboam consulted with the old men, 1 Kgs. 12:6. David consulted with the captains of thousands, 1 Chr. 13:1. king of Babylon … consulted with images, Ezek. 21:21.",
+      "references": [
+        {
+          "text": "1 Kgs. 12:6",
+          "start": 37,
+          "end": 48,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 12,
+            "chapterId": "1kings12",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Chr. 13:1",
+          "start": 98,
+          "end": 109,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-chr",
+            "book": "1chronicles",
+            "chapter": 13,
+            "chapterId": "1chronicles13",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 21:21",
+          "start": 152,
+          "end": 163,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 21,
+            "chapterId": "ezekiel21",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "consulted that they might take Jesus by subtilty, Matt. 26:4. king … consulteth whether he be able with ten thousand to meet him, Luke 14:31. priests consulted that they might put Lazarus also to death, John 12:10.",
+      "references": [
+        {
+          "text": "Matt. 26:4",
+          "start": 50,
+          "end": 60,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 26,
+            "chapterId": "matthew26",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 14:31",
+          "start": 130,
+          "end": 140,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 14,
+            "chapterId": "luke14",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 12:10",
+          "start": 203,
+          "end": 213,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 12,
+            "chapterId": "john12",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-counsel",
+      "slug": "counsel",
+      "title": "Counsel"
+    }
+  ],
+  "slug": "consult",
+  "title": "Consult",
+  "type": "tg"
+}

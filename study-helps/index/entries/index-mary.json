@@ -1,0 +1,56 @@
+{
+  "_id": "index-mary",
+  "content": [
+    {
+      "text": "Christ’s mother shall be called Mary, Mosiah 3:8. the Son of God shall be born of Mary, Alma 7:10.",
+      "references": [
+        {
+          "text": "Mosiah 3:8",
+          "start": 38,
+          "end": 48,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 3,
+            "chapterId": "mosiah3",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 7:10",
+          "start": 88,
+          "end": 97,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 7,
+            "chapterId": "alma7",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-virgin",
+      "slug": "virgin",
+      "title": "Virgin"
+    }
+  ],
+  "slug": "mary",
+  "title": "Mary—mother of Jesus",
+  "type": "index"
+}

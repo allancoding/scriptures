@@ -1,0 +1,59 @@
+{
+  "_id": "index-smith-alvin",
+  "content": [
+    {
+      "text": "Joseph Smith saw Alvin Smith in vision, D&C 137:5.",
+      "references": [
+        {
+          "text": "D&C 137:5",
+          "start": 40,
+          "end": 49,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 137,
+            "chapterId": "doctrineandcovenants137",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Joseph Smith’s brother Alvin dies, JS—H 1:4, 56.",
+      "references": [
+        {
+          "text": "JS—H 1:4, 56",
+          "start": 35,
+          "end": 47,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              },
+              {
+                "start": 56,
+                "end": 56
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "smith-alvin",
+  "title": "Smith, Alvin",
+  "type": "index"
+}

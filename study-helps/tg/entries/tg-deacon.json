@@ -1,0 +1,169 @@
+{
+  "_id": "tg-deacon",
+  "content": [
+    {
+      "text": "to all the saints … the bishops and deacons, Philip. 1:1. deacons be grave, not doubletongued, 1 Tim. 3:8.",
+      "references": [
+        {
+          "text": "Philip. 1:1",
+          "start": 45,
+          "end": 56,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "philip",
+            "book": "philippians",
+            "chapter": 1,
+            "chapterId": "philippians1",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Tim. 3:8",
+          "start": 95,
+          "end": 105,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 3,
+            "chapterId": "1timothy3",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "assisted always … by the deacons, D&C 20:57. deacons and teachers should be appointed to watch over the church, D&C 84:111. in like manner, and also the deacons, D&C 107:62 (107:60–63). duty of a president over the office of a deacon, D&C 107:85. president of the deacons and his counselors, D&C 124:142.",
+      "references": [
+        {
+          "text": "D&C 20:57",
+          "start": 34,
+          "end": 43,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 20,
+            "chapterId": "doctrineandcovenants20",
+            "verses": [
+              {
+                "start": 57,
+                "end": 57
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 84:111",
+          "start": 112,
+          "end": 122,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 84,
+            "chapterId": "doctrineandcovenants84",
+            "verses": [
+              {
+                "start": 111,
+                "end": 111
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 107:62",
+          "start": 162,
+          "end": 172,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 107,
+            "chapterId": "doctrineandcovenants107",
+            "verses": [
+              {
+                "start": 62,
+                "end": 62
+              }
+            ]
+          }
+        },
+        {
+          "text": "107:60–63",
+          "start": 174,
+          "end": 183,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 107,
+            "chapterId": "doctrineandcovenants107",
+            "verses": [
+              {
+                "start": 60,
+                "end": 63
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 107:85",
+          "start": 235,
+          "end": 245,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 107,
+            "chapterId": "doctrineandcovenants107",
+            "verses": [
+              {
+                "start": 85,
+                "end": 85
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 124:142",
+          "start": 292,
+          "end": 303,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 124,
+            "chapterId": "doctrineandcovenants124",
+            "verses": [
+              {
+                "start": 142,
+                "end": 142
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-priesthood-aaronic",
+      "slug": "priesthood-aaronic",
+      "title": "Priesthood, Aaronic"
+    }
+  ],
+  "slug": "deacon",
+  "title": "Deacon",
+  "type": "tg"
+}

@@ -1,0 +1,79 @@
+{
+  "_id": "index-recorder",
+  "content": [
+    {
+      "text": "duty of recorder, D&C 85:1–2. recorder to be appointed to record baptisms for dead, D&C 127:6 (128:2–8).",
+      "references": [
+        {
+          "text": "D&C 85:1–2",
+          "start": 18,
+          "end": 28,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 85,
+            "chapterId": "doctrineandcovenants85",
+            "verses": [
+              {
+                "start": 1,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 127:6",
+          "start": 84,
+          "end": 93,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 127,
+            "chapterId": "doctrineandcovenants127",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "128:2–8",
+          "start": 95,
+          "end": 102,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 128,
+            "chapterId": "doctrineandcovenants128",
+            "verses": [
+              {
+                "start": 2,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-clerk",
+      "slug": "clerk",
+      "title": "Clerk"
+    },
+    {
+      "entryId": "index-record",
+      "slug": "record",
+      "title": "Record"
+    }
+  ],
+  "slug": "recorder",
+  "title": "Recorder",
+  "type": "index"
+}

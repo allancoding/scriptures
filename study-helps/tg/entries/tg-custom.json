@@ -1,0 +1,151 @@
+{
+  "_id": "tg-custom",
+  "content": [
+    {
+      "text": "the customs of the people are vain, Jer. 10:3.",
+      "references": [
+        {
+          "text": "Jer. 10:3",
+          "start": 36,
+          "end": 45,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 10,
+            "chapterId": "jeremiah10",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Matthew, sitting at the receipt of custom, Matt. 9:9 (Mark 2:14; Luke 5:27). Jesus … shall change the customs which Moses delivered us, Acts 6:14. teach customs, which are not lawful for us, Acts 16:21. neither to walk after the customs, Acts 21:21.",
+      "references": [
+        {
+          "text": "Matt. 9:9",
+          "start": 43,
+          "end": 52,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 9,
+            "chapterId": "matthew9",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 2:14",
+          "start": 54,
+          "end": 63,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 2,
+            "chapterId": "mark2",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 5:27",
+          "start": 65,
+          "end": 74,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 5,
+            "chapterId": "luke5",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 6:14",
+          "start": 136,
+          "end": 145,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 6,
+            "chapterId": "acts6",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 16:21",
+          "start": 191,
+          "end": 201,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 16,
+            "chapterId": "acts16",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 21:21",
+          "start": 238,
+          "end": 248,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 21,
+            "chapterId": "acts21",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-traditions-of-men",
+      "slug": "traditions-of-men",
+      "title": "Traditions of Men"
+    }
+  ],
+  "slug": "custom",
+  "title": "Custom",
+  "type": "tg"
+}

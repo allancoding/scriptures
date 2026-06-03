@@ -1,0 +1,55 @@
+{
+  "_id": "tg-cymbal",
+  "content": [
+    {
+      "text": "Praise him upon the loud cymbals, Ps. 150:5.",
+      "references": [
+        {
+          "text": "Ps. 150:5",
+          "start": 34,
+          "end": 43,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 150,
+            "chapterId": "psalms150",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "as sounding brass, or a tinkling cymbal, 1 Cor. 13:1.",
+      "references": [
+        {
+          "text": "1 Cor. 13:1",
+          "start": 41,
+          "end": 52,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 13,
+            "chapterId": "1corinthians13",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "cymbal",
+  "title": "Cymbal",
+  "type": "tg"
+}

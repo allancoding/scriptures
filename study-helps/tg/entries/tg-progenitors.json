@@ -1,0 +1,43 @@
+{
+  "_id": "tg-progenitors",
+  "content": [
+    {
+      "text": "blessings of thy father have prevailed above the blessings of my progenitors, Gen. 49:26.",
+      "references": [
+        {
+          "text": "Gen. 49:26",
+          "start": 78,
+          "end": 88,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 49,
+            "chapterId": "genesis49",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-family-children-duties-of",
+      "slug": "family-children-duties-of",
+      "title": "Family, Children, Duties of"
+    },
+    {
+      "entryId": "tg-genealogy-and-temple-work",
+      "slug": "genealogy-and-temple-work",
+      "title": "Genealogy and Temple Work"
+    }
+  ],
+  "slug": "progenitors",
+  "title": "Progenitors",
+  "type": "tg"
+}

@@ -1,0 +1,127 @@
+{
+  "_id": "tg-candlestick",
+  "content": [
+    {
+      "text": "shalt make a candlestick of pure gold, Ex. 25:31 (37:17). lamps shall give light over against the candlestick, Num. 8:2. I have looked, and behold a candlestick all of gold, Zech. 4:2.",
+      "references": [
+        {
+          "text": "Ex. 25:31",
+          "start": 39,
+          "end": 48,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 25,
+            "chapterId": "exodus25",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "37:17",
+          "start": 50,
+          "end": 55,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 37,
+            "chapterId": "exodus37",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 8:2",
+          "start": 111,
+          "end": 119,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 8,
+            "chapterId": "numbers8",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Zech. 4:2",
+          "start": 174,
+          "end": 183,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "zech",
+            "book": "zechariah",
+            "chapter": 4,
+            "chapterId": "zechariah4",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "I saw seven golden candlesticks, Rev. 1:12. I … will remove thy candlestick out of his place, Rev. 2:5.",
+      "references": [
+        {
+          "text": "Rev. 1:12",
+          "start": 33,
+          "end": 42,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 1,
+            "chapterId": "revelation1",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 2:5",
+          "start": 94,
+          "end": 102,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 2,
+            "chapterId": "revelation2",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "candlestick",
+  "title": "Candlestick",
+  "type": "tg"
+}

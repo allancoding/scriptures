@@ -1,0 +1,38 @@
+{
+  "_id": "index-gnolaum",
+  "content": [
+    {
+      "text": "spirits are gnolaum, or eternal, Abr. 3:18.",
+      "references": [
+        {
+          "text": "Abr. 3:18",
+          "start": 33,
+          "end": 42,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 3,
+            "chapterId": "abraham3",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-eternal",
+      "slug": "eternal",
+      "title": "Eternal"
+    }
+  ],
+  "slug": "gnolaum",
+  "title": "Gnolaum",
+  "type": "index"
+}

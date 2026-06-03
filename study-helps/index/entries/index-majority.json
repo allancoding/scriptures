@@ -1,0 +1,50 @@
+{
+  "_id": "index-majority",
+  "content": [
+    {
+      "text": "majority of council has power to determine decision, D&C 102:22. majority may form quorum, D&C 107:28.",
+      "references": [
+        {
+          "text": "D&C 102:22",
+          "start": 53,
+          "end": 63,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 102,
+            "chapterId": "doctrineandcovenants102",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 107:28",
+          "start": 91,
+          "end": 101,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 107,
+            "chapterId": "doctrineandcovenants107",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "majority",
+  "title": "Majority",
+  "type": "index"
+}

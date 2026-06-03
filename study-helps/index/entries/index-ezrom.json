@@ -1,0 +1,42 @@
+{
+  "_id": "index-ezrom",
+  "content": [
+    {
+      "text": "as great as four senums, Alma 11:6, 12.",
+      "references": [
+        {
+          "text": "Alma 11:6, 12",
+          "start": 25,
+          "end": 38,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 11,
+            "chapterId": "alma11",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              },
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-money-nephite",
+      "slug": "money-nephite",
+      "title": "Money, Nephite"
+    }
+  ],
+  "slug": "ezrom",
+  "title": "Ezrom—Nephite money",
+  "type": "index"
+}

@@ -1,0 +1,151 @@
+{
+  "_id": "tg-buckler",
+  "content": [
+    {
+      "text": "he is a buckler to all them that trust, 2 Sam. 22:31 (Ps. 18:30). my buckler, and the horn of my salvation, Ps. 18:2. truth shall be thy shield and buckler, Ps. 91:4. he is a buckler to them that walk uprightly, Prov. 2:7. lift up the buckler against thee, Ezek. 26:8.",
+      "references": [
+        {
+          "text": "2 Sam. 22:31",
+          "start": 40,
+          "end": 52,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-sam",
+            "book": "2samuel",
+            "chapter": 22,
+            "chapterId": "2samuel22",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 18:30",
+          "start": 54,
+          "end": 63,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 18,
+            "chapterId": "psalms18",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 18:2",
+          "start": 108,
+          "end": 116,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 18,
+            "chapterId": "psalms18",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 91:4",
+          "start": 157,
+          "end": 165,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 91,
+            "chapterId": "psalms91",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 2:7",
+          "start": 212,
+          "end": 221,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 2,
+            "chapterId": "proverbs2",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 26:8",
+          "start": 257,
+          "end": 267,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 26,
+            "chapterId": "ezekiel26",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "I will be their shield and their buckler, D&C 35:14.",
+      "references": [
+        {
+          "text": "D&C 35:14",
+          "start": 42,
+          "end": 51,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 35,
+            "chapterId": "doctrineandcovenants35",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-shield",
+      "slug": "shield",
+      "title": "Shield"
+    }
+  ],
+  "slug": "buckler",
+  "title": "Buckler",
+  "type": "tg"
+}

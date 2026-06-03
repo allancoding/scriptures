@@ -1,0 +1,79 @@
+{
+  "_id": "tg-madness",
+  "content": [
+    {
+      "text": "smite every horse … and his rider with madness, Zech. 12:4.",
+      "references": [
+        {
+          "text": "Zech. 12:4",
+          "start": 48,
+          "end": 58,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "zech",
+            "book": "zechariah",
+            "chapter": 12,
+            "chapterId": "zechariah12",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "they were filled with madness, Luke 6:11. dumb ass … forbad the madness of the prophet, 2 Pet. 2:16.",
+      "references": [
+        {
+          "text": "Luke 6:11",
+          "start": 31,
+          "end": 40,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 6,
+            "chapterId": "luke6",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Pet. 2:16",
+          "start": 88,
+          "end": 99,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-pet",
+            "book": "2peter",
+            "chapter": 2,
+            "chapterId": "2peter2",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-mad",
+      "slug": "mad",
+      "title": "Mad"
+    }
+  ],
+  "slug": "madness",
+  "title": "Madness",
+  "type": "tg"
+}

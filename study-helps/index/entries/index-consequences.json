@@ -1,0 +1,61 @@
+{
+  "_id": "index-consequences",
+  "content": [
+    {
+      "text": "because people are unholy, Jacob2 must teach consequences of sin, 2 Ne. 9:48 (Jacob 3:12).",
+      "references": [
+        {
+          "text": "2 Ne. 9:48",
+          "start": 66,
+          "end": 76,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 9,
+            "chapterId": "2nephi9",
+            "verses": [
+              {
+                "start": 48,
+                "end": 48
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jacob 3:12",
+          "start": 78,
+          "end": 88,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 3,
+            "chapterId": "jacob3",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-reward",
+      "slug": "reward",
+      "title": "Reward"
+    },
+    {
+      "entryId": "index-wages",
+      "slug": "wages",
+      "title": "Wages"
+    }
+  ],
+  "slug": "consequences",
+  "title": "Consequences",
+  "type": "index"
+}

@@ -1,0 +1,156 @@
+{
+  "_id": "tg-marriage-temporal",
+  "content": [
+    {
+      "text": "took them wives of all which they chose, Gen. 6:2.",
+      "references": [
+        {
+          "text": "Gen. 6:2",
+          "start": 41,
+          "end": 49,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 6,
+            "chapterId": "genesis6",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "in the resurrection they neither marry, nor are given, Matt. 22:30 (Luke 20:34). wife is bound by the law as long as her husband liveth, 1 Cor. 7:39. Forbidding to marry, 1 Tim. 4:3. Marriage is honourable in all, Heb. 13:4.",
+      "references": [
+        {
+          "text": "Matt. 22:30",
+          "start": 55,
+          "end": 66,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 22,
+            "chapterId": "matthew22",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 20:34",
+          "start": 68,
+          "end": 78,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 20,
+            "chapterId": "luke20",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 7:39",
+          "start": 137,
+          "end": 148,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 7,
+            "chapterId": "1corinthians7",
+            "verses": [
+              {
+                "start": 39,
+                "end": 39
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Tim. 4:3",
+          "start": 171,
+          "end": 181,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 4,
+            "chapterId": "1timothy4",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 13:4",
+          "start": 214,
+          "end": 223,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 13,
+            "chapterId": "hebrews13",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "covenant and marriage are not of force when they are dead, D&C 132:15.",
+      "references": [
+        {
+          "text": "D&C 132:15",
+          "start": 59,
+          "end": 69,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 132,
+            "chapterId": "doctrineandcovenants132",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-marriage-interfaith",
+      "slug": "marriage-interfaith",
+      "title": "Marriage, Interfaith"
+    }
+  ],
+  "slug": "marriage-temporal",
+  "title": "Marriage, Temporal",
+  "type": "tg"
+}

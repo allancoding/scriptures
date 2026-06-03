@@ -1,0 +1,61 @@
+{
+  "_id": "tg-evidence",
+  "content": [
+    {
+      "text": "faith … the evidence of things not seen, Heb. 11:1.",
+      "references": [
+        {
+          "text": "Heb. 11:1",
+          "start": 41,
+          "end": 50,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 11,
+            "chapterId": "hebrews11",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "notwithstanding so many evidences, Hel. 8:24.",
+      "references": [
+        {
+          "text": "Hel. 8:24",
+          "start": 35,
+          "end": 44,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 8,
+            "chapterId": "helaman8",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-witness",
+      "slug": "witness",
+      "title": "Witness"
+    }
+  ],
+  "slug": "evidence",
+  "title": "Evidence",
+  "type": "tg"
+}

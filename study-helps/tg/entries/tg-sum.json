@@ -1,0 +1,109 @@
+{
+  "_id": "tg-sum",
+  "content": [
+    {
+      "text": "When thou takest the sum of the children of Israel, Ex. 30:12. Take ye the sum of all the congregation, Num. 1:2 (26:2).",
+      "references": [
+        {
+          "text": "Ex. 30:12",
+          "start": 52,
+          "end": 61,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 30,
+            "chapterId": "exodus30",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 1:2",
+          "start": 104,
+          "end": 112,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 1,
+            "chapterId": "numbers1",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "26:2",
+          "start": 114,
+          "end": 118,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 26,
+            "chapterId": "numbers26",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "With a great sum obtained I this freedom, Acts 22:28. of the things … spoken this is the sum, Heb. 8:1.",
+      "references": [
+        {
+          "text": "Acts 22:28",
+          "start": 42,
+          "end": 52,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 22,
+            "chapterId": "acts22",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 8:1",
+          "start": 94,
+          "end": 102,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 8,
+            "chapterId": "hebrews8",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "sum",
+  "title": "Sum",
+  "type": "tg"
+}

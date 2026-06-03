@@ -1,0 +1,68 @@
+{
+  "_id": "bd-thyatira",
+  "content": [
+    {
+      "text": "On the Lycus, the district being celebrated for its purple dyeing; the abode of Lydia (Acts 16:14); church in Thyatira (Rev. 1:11; 2:18).",
+      "references": [
+        {
+          "text": "Acts 16:14",
+          "start": 87,
+          "end": 97,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 16,
+            "chapterId": "acts16",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 1:11",
+          "start": 120,
+          "end": 129,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 1,
+            "chapterId": "revelation1",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "2:18",
+          "start": 131,
+          "end": 135,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 2,
+            "chapterId": "revelation2",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "thyatira",
+  "title": "Thyatira",
+  "type": "bd"
+}

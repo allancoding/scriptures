@@ -1,0 +1,60 @@
+{
+  "_id": "index-seon",
+  "content": [
+    {
+      "text": "twice value of senine, Alma 11:5, 8. shum of gold equals two seons, Alma 11:9.",
+      "references": [
+        {
+          "text": "Alma 11:5, 8",
+          "start": 23,
+          "end": 35,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 11,
+            "chapterId": "alma11",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              },
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 11:9",
+          "start": 68,
+          "end": 77,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 11,
+            "chapterId": "alma11",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-money-nephite",
+      "slug": "money-nephite",
+      "title": "Money, Nephite"
+    }
+  ],
+  "slug": "seon",
+  "title": "Seon—Nephite money",
+  "type": "index"
+}

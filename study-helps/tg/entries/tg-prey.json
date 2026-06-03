@@ -1,0 +1,156 @@
+{
+  "_id": "tg-prey",
+  "content": [
+    {
+      "text": "from the prey, my son, thou art gone up, Gen. 49:9. that our wives and our children should be a prey, Num. 14:3. have they not divided the prey, Judg. 5:30. all that prey upon thee will I give for a prey, Jer. 30:16. they shall no more be a prey, Ezek. 34:22.",
+      "references": [
+        {
+          "text": "Gen. 49:9",
+          "start": 41,
+          "end": 50,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 49,
+            "chapterId": "genesis49",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 14:3",
+          "start": 102,
+          "end": 111,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 14,
+            "chapterId": "numbers14",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Judg. 5:30",
+          "start": 145,
+          "end": 155,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "judg",
+            "book": "judges",
+            "chapter": 5,
+            "chapterId": "judges5",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 30:16",
+          "start": 205,
+          "end": 215,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 30,
+            "chapterId": "jeremiah30",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 34:22",
+          "start": 247,
+          "end": 258,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 34,
+            "chapterId": "ezekiel34",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "shall the prey be taken from the mighty, 1 Ne. 21:24.",
+      "references": [
+        {
+          "text": "1 Ne. 21:24",
+          "start": 41,
+          "end": 52,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 21,
+            "chapterId": "1nephi21",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "enemies shall become a prey unto them, D&C 133:28.",
+      "references": [
+        {
+          "text": "D&C 133:28",
+          "start": 39,
+          "end": 49,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 133,
+            "chapterId": "doctrineandcovenants133",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-spoil",
+      "slug": "spoil",
+      "title": "Spoil"
+    }
+  ],
+  "slug": "prey",
+  "title": "Prey",
+  "type": "tg"
+}

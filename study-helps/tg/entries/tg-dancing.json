@@ -1,0 +1,78 @@
+{
+  "_id": "tg-dancing",
+  "content": [
+    {
+      "text": "saw the calf, and the dancing, Ex. 32:19.",
+      "references": [
+        {
+          "text": "Ex. 32:19",
+          "start": 31,
+          "end": 40,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 32,
+            "chapterId": "exodus32",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "heard musick and dancing, Luke 15:25.",
+      "references": [
+        {
+          "text": "Luke 15:25",
+          "start": 26,
+          "end": 36,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 15,
+            "chapterId": "luke15",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "with dancing, and with a prayer of praise, D&C 136:28.",
+      "references": [
+        {
+          "text": "D&C 136:28",
+          "start": 43,
+          "end": 53,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 136,
+            "chapterId": "doctrineandcovenants136",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "dancing",
+  "title": "Dancing",
+  "type": "tg"
+}

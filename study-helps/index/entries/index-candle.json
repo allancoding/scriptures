@@ -1,0 +1,84 @@
+{
+  "_id": "index-candle",
+  "content": [
+    {
+      "text": "because of vapor of darkness there could be no candles, 3 Ne. 8:21. do men light candle and put it under bushel, 3 Ne. 12:15 (Matt. 5:15).",
+      "references": [
+        {
+          "text": "3 Ne. 8:21",
+          "start": 56,
+          "end": 66,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 8,
+            "chapterId": "3nephi8",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 12:15",
+          "start": 113,
+          "end": 124,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 12,
+            "chapterId": "3nephi12",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 5:15",
+          "start": 126,
+          "end": 136,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 5,
+            "chapterId": "matthew5",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-candlestick",
+      "slug": "candlestick",
+      "title": "Candlestick"
+    },
+    {
+      "entryId": "index-lamp",
+      "slug": "lamp",
+      "title": "Lamp"
+    },
+    {
+      "entryId": "index-light",
+      "slug": "light",
+      "title": "Light"
+    }
+  ],
+  "slug": "candle",
+  "title": "Candle",
+  "type": "index"
+}

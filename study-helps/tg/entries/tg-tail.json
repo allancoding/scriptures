@@ -1,0 +1,91 @@
+{
+  "_id": "tg-tail",
+  "content": [
+    {
+      "text": "Put forth thine hand, and take it by the tail, Ex. 4:4. Samson went and caught three hundred foxes … and turned tail to tail, Judg. 15:4.",
+      "references": [
+        {
+          "text": "Ex. 4:4",
+          "start": 47,
+          "end": 54,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 4,
+            "chapterId": "exodus4",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Judg. 15:4",
+          "start": 126,
+          "end": 136,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "judg",
+            "book": "judges",
+            "chapter": 15,
+            "chapterId": "judges15",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "they had tails like unto scorpions, Rev. 9:10. his tail drew the third part of the stars, Rev. 12:4.",
+      "references": [
+        {
+          "text": "Rev. 9:10",
+          "start": 36,
+          "end": 45,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 9,
+            "chapterId": "revelation9",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 12:4",
+          "start": 90,
+          "end": 99,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 12,
+            "chapterId": "revelation12",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "tail",
+  "title": "Tail",
+  "type": "tg"
+}

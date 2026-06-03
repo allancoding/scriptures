@@ -1,0 +1,209 @@
+{
+  "_id": "tg-statute",
+  "content": [
+    {
+      "text": "it shall be a statute for ever, Ex. 27:21. perpetual statute … that ye eat neither fat nor blood, Lev. 3:17. teach the children of Israel all the statutes, Lev. 10:11. what nation … hath statutes and judgments so righteous, Deut. 4:8. What mean the testimonies, and the statutes, Deut. 6:20. walk in my ways, to keep my statutes, 1 Kgs. 3:14.",
+      "references": [
+        {
+          "text": "Ex. 27:21",
+          "start": 32,
+          "end": 41,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 27,
+            "chapterId": "exodus27",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Lev. 3:17",
+          "start": 98,
+          "end": 107,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 3,
+            "chapterId": "leviticus3",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Lev. 10:11",
+          "start": 156,
+          "end": 166,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 10,
+            "chapterId": "leviticus10",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 4:8",
+          "start": 224,
+          "end": 233,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 4,
+            "chapterId": "deuteronomy4",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 6:20",
+          "start": 280,
+          "end": 290,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 6,
+            "chapterId": "deuteronomy6",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Kgs. 3:14",
+          "start": 330,
+          "end": 341,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 3,
+            "chapterId": "1kings3",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "remember to observe the statutes and the judgments, 2 Ne. 1:16.",
+      "references": [
+        {
+          "text": "2 Ne. 1:16",
+          "start": 52,
+          "end": 62,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 1,
+            "chapterId": "2nephi1",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "that my statutes and my judgments may be kept, D&C 119:6.",
+      "references": [
+        {
+          "text": "D&C 119:6",
+          "start": 47,
+          "end": 56,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 119,
+            "chapterId": "doctrineandcovenants119",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-command",
+      "slug": "command",
+      "title": "Command"
+    },
+    {
+      "entryId": "tg-commandments-of-god",
+      "slug": "commandments-of-god",
+      "title": "Commandments of God"
+    },
+    {
+      "entryId": "tg-decree",
+      "slug": "decree",
+      "title": "Decree"
+    },
+    {
+      "entryId": "tg-law",
+      "slug": "law",
+      "title": "Law"
+    },
+    {
+      "entryId": "tg-law-of-moses",
+      "slug": "law-of-moses",
+      "title": "Law of Moses"
+    },
+    {
+      "entryId": "tg-order",
+      "slug": "order",
+      "title": "Order"
+    },
+    {
+      "entryId": "tg-ordinance",
+      "slug": "ordinance",
+      "title": "Ordinance"
+    },
+    {
+      "entryId": "tg-precept",
+      "slug": "precept",
+      "title": "Precept"
+    }
+  ],
+  "slug": "statute",
+  "title": "Statute",
+  "type": "tg"
+}

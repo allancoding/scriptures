@@ -1,0 +1,50 @@
+{
+  "_id": "tg-event",
+  "content": [
+    {
+      "text": "one event happeneth to them all, Eccl. 2:14. one event to the righteous, and to the wicked, Eccl. 9:2.",
+      "references": [
+        {
+          "text": "Eccl. 2:14",
+          "start": 33,
+          "end": 43,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "eccl",
+            "book": "ecclesiastes",
+            "chapter": 2,
+            "chapterId": "ecclesiastes2",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eccl. 9:2",
+          "start": 92,
+          "end": 101,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "eccl",
+            "book": "ecclesiastes",
+            "chapter": 9,
+            "chapterId": "ecclesiastes9",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "event",
+  "title": "Event",
+  "type": "tg"
+}

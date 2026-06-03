@@ -1,0 +1,50 @@
+{
+  "_id": "bd-habergeon",
+  "content": [
+    {
+      "text": "A smaller kind of hauberk, a coat of mail covering the neck and breast (Ex. 28:32; 39:23).",
+      "references": [
+        {
+          "text": "Ex. 28:32",
+          "start": 72,
+          "end": 81,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 28,
+            "chapterId": "exodus28",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "39:23",
+          "start": 83,
+          "end": 88,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 39,
+            "chapterId": "exodus39",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "habergeon",
+  "title": "Habergeon",
+  "type": "bd"
+}

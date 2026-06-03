@@ -1,0 +1,70 @@
+{
+  "_id": "index-barge",
+  "content": [
+    {
+      "text": "Jaredites build barges, Ether 2:6, 16–18. Jaredites aboard barges, Ether 6:4.",
+      "references": [
+        {
+          "text": "Ether 2:6, 16–18",
+          "start": 24,
+          "end": 40,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 2,
+            "chapterId": "ether2",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              },
+              {
+                "start": 16,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 6:4",
+          "start": 67,
+          "end": 76,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 6,
+            "chapterId": "ether6",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-dish",
+      "slug": "dish",
+      "title": "Dish"
+    },
+    {
+      "entryId": "index-ship",
+      "slug": "ship",
+      "title": "Ship"
+    },
+    {
+      "entryId": "index-vessel",
+      "slug": "vessel",
+      "title": "Vessel"
+    }
+  ],
+  "slug": "barge",
+  "title": "Barge",
+  "type": "index"
+}

@@ -1,0 +1,102 @@
+{
+  "_id": "index-babe",
+  "content": [
+    {
+      "text": "babes shall rule over Judah, 2 Ne. 13:4 (Isa. 3:4). during Christ’s visit babes utter marvelous things, 3 Ne. 26:16.",
+      "references": [
+        {
+          "text": "2 Ne. 13:4",
+          "start": 29,
+          "end": 39,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 13,
+            "chapterId": "2nephi13",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 3:4",
+          "start": 41,
+          "end": 49,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 3,
+            "chapterId": "isaiah3",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 26:16",
+          "start": 104,
+          "end": 115,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 26,
+            "chapterId": "3nephi26",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "that which has never been revealed will be revealed to babes and sucklings, D&C 128:18.",
+      "references": [
+        {
+          "text": "D&C 128:18",
+          "start": 76,
+          "end": 86,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 128,
+            "chapterId": "doctrineandcovenants128",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-child",
+      "slug": "child",
+      "title": "Child"
+    },
+    {
+      "entryId": "index-infant",
+      "slug": "infant",
+      "title": "Infant"
+    }
+  ],
+  "slug": "babe",
+  "title": "Babe",
+  "type": "index"
+}

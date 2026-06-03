@@ -1,0 +1,55 @@
+{
+  "_id": "tg-occupation",
+  "content": [
+    {
+      "text": "when Pharaoh … shall say, What is your occupation, Gen. 46:33.",
+      "references": [
+        {
+          "text": "Gen. 46:33",
+          "start": 51,
+          "end": 61,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 46,
+            "chapterId": "genesis46",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "by their occupation they were tentmakers, Acts 18:3.",
+      "references": [
+        {
+          "text": "Acts 18:3",
+          "start": 42,
+          "end": 51,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 18,
+            "chapterId": "acts18",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "occupation",
+  "title": "Occupation",
+  "type": "tg"
+}

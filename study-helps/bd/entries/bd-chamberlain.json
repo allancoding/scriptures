@@ -1,0 +1,50 @@
+{
+  "_id": "bd-chamberlain",
+  "content": [
+    {
+      "text": "A private and confidential servant of an eastern king (2 Kgs. 23:11; Acts 12:20). The name is also translated “eunuch.”",
+      "references": [
+        {
+          "text": "2 Kgs. 23:11",
+          "start": 55,
+          "end": 67,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 23,
+            "chapterId": "2kings23",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 12:20",
+          "start": 69,
+          "end": 79,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 12,
+            "chapterId": "acts12",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "chamberlain",
+  "title": "Chamberlain",
+  "type": "bd"
+}

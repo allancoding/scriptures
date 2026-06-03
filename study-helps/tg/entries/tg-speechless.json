@@ -1,0 +1,56 @@
+{
+  "_id": "tg-speechless",
+  "content": [
+    {
+      "text": "he beckoned unto them, and remained speechless, Luke 1:22. men which journeyed with him stood speechless, Acts 9:7.",
+      "references": [
+        {
+          "text": "Luke 1:22",
+          "start": 48,
+          "end": 57,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 1,
+            "chapterId": "luke1",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 9:7",
+          "start": 106,
+          "end": 114,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 9,
+            "chapterId": "acts9",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-dumb",
+      "slug": "dumb",
+      "title": "Dumb"
+    }
+  ],
+  "slug": "speechless",
+  "title": "Speechless",
+  "type": "tg"
+}

@@ -1,0 +1,97 @@
+{
+  "_id": "tg-espouse",
+  "content": [
+    {
+      "text": "Mary was espoused to Joseph, Matt. 1:18. virgin espoused to a man whose name was Joseph, Luke 1:27. To be taxed with Mary his espoused wife, Luke 2:5. for I have espoused you to one husband, 2 Cor. 11:2.",
+      "references": [
+        {
+          "text": "Matt. 1:18",
+          "start": 29,
+          "end": 39,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 1,
+            "chapterId": "matthew1",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 1:27",
+          "start": 89,
+          "end": 98,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 1,
+            "chapterId": "luke1",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 2:5",
+          "start": 141,
+          "end": 149,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 2,
+            "chapterId": "luke2",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Cor. 11:2",
+          "start": 191,
+          "end": 202,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 11,
+            "chapterId": "2corinthians11",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-betroth",
+      "slug": "betroth",
+      "title": "Betroth"
+    },
+    {
+      "entryId": "tg-marriage-marry",
+      "slug": "marriage-marry",
+      "title": "Marriage, Marry"
+    }
+  ],
+  "slug": "espouse",
+  "title": "Espouse",
+  "type": "tg"
+}

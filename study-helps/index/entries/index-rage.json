@@ -1,0 +1,99 @@
+{
+  "_id": "index-rage",
+  "content": [
+    {
+      "text": "devil shall rage in men’s hearts, 2 Ne. 28:20.",
+      "references": [
+        {
+          "text": "2 Ne. 28:20",
+          "start": 34,
+          "end": 45,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 28,
+            "chapterId": "2nephi28",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "hell shall rage, D&C 122:1.",
+      "references": [
+        {
+          "text": "D&C 122:1",
+          "start": 17,
+          "end": 26,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 122,
+            "chapterId": "doctrineandcovenants122",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Satan raged in men’s hearts, Moses 6:15.",
+      "references": [
+        {
+          "text": "Moses 6:15",
+          "start": 29,
+          "end": 39,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 6,
+            "chapterId": "moses6",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-anger",
+      "slug": "anger",
+      "title": "Anger"
+    },
+    {
+      "entryId": "index-fury",
+      "slug": "fury",
+      "title": "Fury"
+    },
+    {
+      "entryId": "index-passion",
+      "slug": "passion",
+      "title": "Passion"
+    },
+    {
+      "entryId": "index-wrath",
+      "slug": "wrath",
+      "title": "Wrath"
+    }
+  ],
+  "slug": "rage",
+  "title": "Rage",
+  "type": "index"
+}

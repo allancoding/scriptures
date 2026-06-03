@@ -1,0 +1,89 @@
+{
+  "_id": "index-infant",
+  "content": [
+    {
+      "text": "infant perisheth not that dieth in infancy, Mosiah 3:18.",
+      "references": [
+        {
+          "text": "Mosiah 3:18",
+          "start": 44,
+          "end": 55,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 3,
+            "chapterId": "mosiah3",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "men became again innocent in their infant state, D&C 93:38. in that day infant will not die until old, D&C 101:30.",
+      "references": [
+        {
+          "text": "D&C 93:38",
+          "start": 49,
+          "end": 58,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 93,
+            "chapterId": "doctrineandcovenants93",
+            "verses": [
+              {
+                "start": 38,
+                "end": 38
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 101:30",
+          "start": 103,
+          "end": 113,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 101,
+            "chapterId": "doctrineandcovenants101",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-accountability-age-of",
+      "slug": "accountability-age-of",
+      "title": "Accountability, Age of"
+    },
+    {
+      "entryId": "index-babe",
+      "slug": "babe",
+      "title": "Babe"
+    },
+    {
+      "entryId": "index-child",
+      "slug": "child",
+      "title": "Child"
+    }
+  ],
+  "slug": "infant",
+  "title": "Infant",
+  "type": "index"
+}

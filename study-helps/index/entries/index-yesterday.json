@@ -1,0 +1,43 @@
+{
+  "_id": "index-yesterday",
+  "content": [
+    {
+      "text": "I was angry with you yesterday, D&C 61:20.",
+      "references": [
+        {
+          "text": "D&C 61:20",
+          "start": 32,
+          "end": 41,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 61,
+            "chapterId": "doctrineandcovenants61",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-time",
+      "slug": "time",
+      "title": "Time"
+    },
+    {
+      "entryId": "index-today",
+      "slug": "today",
+      "title": "Today"
+    }
+  ],
+  "slug": "yesterday",
+  "title": "Yesterday",
+  "type": "index"
+}

@@ -1,0 +1,132 @@
+{
+  "_id": "tg-laden",
+  "content": [
+    {
+      "text": "all ye that labour and are heavy laden, Matt. 11:28. ye lade men with burdens, Luke 11:46.",
+      "references": [
+        {
+          "text": "Matt. 11:28",
+          "start": 40,
+          "end": 51,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 11,
+            "chapterId": "matthew11",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 11:46",
+          "start": 79,
+          "end": 89,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 11,
+            "chapterId": "luke11",
+            "verses": [
+              {
+                "start": 46,
+                "end": 46
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "that ye should not be laden with taxes, Mosiah 2:14.",
+      "references": [
+        {
+          "text": "Mosiah 2:14",
+          "start": 40,
+          "end": 51,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 2,
+            "chapterId": "mosiah2",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "you shall be laden with sheaves, D&C 31:5 (33:9; 75:5).",
+      "references": [
+        {
+          "text": "D&C 31:5",
+          "start": 33,
+          "end": 41,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 31,
+            "chapterId": "doctrineandcovenants31",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "33:9",
+          "start": 43,
+          "end": 47,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 33,
+            "chapterId": "doctrineandcovenants33",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "75:5",
+          "start": 49,
+          "end": 53,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 75,
+            "chapterId": "doctrineandcovenants75",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "laden",
+  "title": "Laden",
+  "type": "tg"
+}

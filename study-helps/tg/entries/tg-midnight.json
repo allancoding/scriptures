@@ -1,0 +1,145 @@
+{
+  "_id": "tg-midnight",
+  "content": [
+    {
+      "text": "About midnight will I go out into the midst of Egypt, Ex. 11:4. At midnight I will rise to give thanks, Ps. 119:62.",
+      "references": [
+        {
+          "text": "Ex. 11:4",
+          "start": 54,
+          "end": 62,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 11,
+            "chapterId": "exodus11",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 119:62",
+          "start": 104,
+          "end": 114,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 119,
+            "chapterId": "psalms119",
+            "verses": [
+              {
+                "start": 62,
+                "end": 62
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "at midnight there was a cry … bridegroom cometh, Matt. 25:6. master … cometh, at even, or at midnight, Mark 13:35. a friend, and shall go unto him at midnight, Luke 11:5. at midnight Paul and Silas prayed, Acts 16:25. Paul … continued his speech until midnight, Acts 20:7.",
+      "references": [
+        {
+          "text": "Matt. 25:6",
+          "start": 49,
+          "end": 59,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 25,
+            "chapterId": "matthew25",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 13:35",
+          "start": 103,
+          "end": 113,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 13,
+            "chapterId": "mark13",
+            "verses": [
+              {
+                "start": 35,
+                "end": 35
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 11:5",
+          "start": 160,
+          "end": 169,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 11,
+            "chapterId": "luke11",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 16:25",
+          "start": 206,
+          "end": 216,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 16,
+            "chapterId": "acts16",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 20:7",
+          "start": 262,
+          "end": 271,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 20,
+            "chapterId": "acts20",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "midnight",
+  "title": "Midnight",
+  "type": "tg"
+}

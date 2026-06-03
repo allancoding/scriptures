@@ -1,0 +1,56 @@
+{
+  "_id": "index-theory",
+  "content": [
+    {
+      "text": "Saints to be instructed more perfectly in theory, D&C 88:78. Saints to be perfected in theory, D&C 97:14.",
+      "references": [
+        {
+          "text": "D&C 88:78",
+          "start": 50,
+          "end": 59,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 78,
+                "end": 78
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 97:14",
+          "start": 95,
+          "end": 104,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 97,
+            "chapterId": "doctrineandcovenants97",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-doctrine",
+      "slug": "doctrine",
+      "title": "Doctrine"
+    }
+  ],
+  "slug": "theory",
+  "title": "Theory",
+  "type": "index"
+}

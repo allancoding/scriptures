@@ -1,0 +1,91 @@
+{
+  "_id": "tg-rust",
+  "content": [
+    {
+      "text": "earth, where moth and rust doth corrupt, Matt. 6:19 (3 Ne. 13:19). rust of them shall be a witness against you, James 5:3.",
+      "references": [
+        {
+          "text": "Matt. 6:19",
+          "start": 41,
+          "end": 51,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 6,
+            "chapterId": "matthew6",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 13:19",
+          "start": 53,
+          "end": 64,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 13,
+            "chapterId": "3nephi13",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "James 5:3",
+          "start": 112,
+          "end": 121,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "james",
+            "book": "james",
+            "chapter": 5,
+            "chapterId": "james5",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "swords … blades thereof were cankered with rust, Mosiah 8:11.",
+      "references": [
+        {
+          "text": "Mosiah 8:11",
+          "start": 49,
+          "end": 60,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 8,
+            "chapterId": "mosiah8",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "rust",
+  "title": "Rust",
+  "type": "tg"
+}

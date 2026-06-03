@@ -1,0 +1,43 @@
+{
+  "_id": "index-present-verb",
+  "content": [
+    {
+      "text": "Saints to present in temple a book containing records of dead, D&C 128:24.",
+      "references": [
+        {
+          "text": "D&C 128:24",
+          "start": 63,
+          "end": 73,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 128,
+            "chapterId": "doctrineandcovenants128",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-give",
+      "slug": "give",
+      "title": "Give"
+    },
+    {
+      "entryId": "index-offering",
+      "slug": "offering",
+      "title": "Offering"
+    }
+  ],
+  "slug": "present-verb",
+  "title": "Present [verb]",
+  "type": "index"
+}

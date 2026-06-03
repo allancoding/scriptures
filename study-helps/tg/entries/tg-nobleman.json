@@ -1,0 +1,73 @@
+{
+  "_id": "tg-nobleman",
+  "content": [
+    {
+      "text": "certain nobleman went into a far country, Luke 19:12. certain nobleman, whose son was sick at Capernaum, John 4:46.",
+      "references": [
+        {
+          "text": "Luke 19:12",
+          "start": 42,
+          "end": 52,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 19,
+            "chapterId": "luke19",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 4:46",
+          "start": 105,
+          "end": 114,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 4,
+            "chapterId": "john4",
+            "verses": [
+              {
+                "start": 46,
+                "end": 46
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "certain nobleman had a spot of land, D&C 101:44.",
+      "references": [
+        {
+          "text": "D&C 101:44",
+          "start": 37,
+          "end": 47,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 101,
+            "chapterId": "doctrineandcovenants101",
+            "verses": [
+              {
+                "start": 44,
+                "end": 44
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "nobleman",
+  "title": "Nobleman",
+  "type": "tg"
+}

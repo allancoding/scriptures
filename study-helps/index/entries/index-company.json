@@ -1,0 +1,74 @@
+{
+  "_id": "index-company",
+  "content": [
+    {
+      "text": "celestial inhabitants come to innumerable company of angels, D&C 76:67. companies to go to land of Zion, D&C 103:30. companies to cross plains, D&C 136:2–3.",
+      "references": [
+        {
+          "text": "D&C 76:67",
+          "start": 61,
+          "end": 70,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 76,
+            "chapterId": "doctrineandcovenants76",
+            "verses": [
+              {
+                "start": 67,
+                "end": 67
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 103:30",
+          "start": 105,
+          "end": 115,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 103,
+            "chapterId": "doctrineandcovenants103",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 136:2–3",
+          "start": 144,
+          "end": 155,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 136,
+            "chapterId": "doctrineandcovenants136",
+            "verses": [
+              {
+                "start": 2,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-host",
+      "slug": "host",
+      "title": "Host"
+    }
+  ],
+  "slug": "company",
+  "title": "Company, Companies",
+  "type": "index"
+}

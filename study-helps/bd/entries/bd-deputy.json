@@ -1,0 +1,54 @@
+{
+  "_id": "bd-deputy",
+  "content": [
+    {
+      "text": "In the New Testament, equals proconsul, an official of the Roman government (Acts 13:7–8, 12; 19:38).",
+      "references": [
+        {
+          "text": "Acts 13:7–8, 12",
+          "start": 77,
+          "end": 92,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 13,
+            "chapterId": "acts13",
+            "verses": [
+              {
+                "start": 7,
+                "end": 8
+              },
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "19:38",
+          "start": 94,
+          "end": 99,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 19,
+            "chapterId": "acts19",
+            "verses": [
+              {
+                "start": 38,
+                "end": 38
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "deputy",
+  "title": "Deputy",
+  "type": "bd"
+}

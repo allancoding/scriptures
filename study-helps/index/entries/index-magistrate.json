@@ -1,0 +1,61 @@
+{
+  "_id": "index-magistrate",
+  "content": [
+    {
+      "text": "must enforce laws, protect innocent, D&C 134:3.",
+      "references": [
+        {
+          "text": "D&C 134:3",
+          "start": 37,
+          "end": 46,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 134,
+            "chapterId": "doctrineandcovenants134",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "we believe in being subject to magistrates, A of F 1:12.",
+      "references": [
+        {
+          "text": "A of F 1:12",
+          "start": 44,
+          "end": 55,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "a-of-f",
+            "book": "articlesoffaith",
+            "chapter": 1,
+            "chapterId": "articlesoffaith1",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-government-civil",
+      "slug": "government-civil",
+      "title": "Government, Civil"
+    }
+  ],
+  "slug": "magistrate",
+  "title": "Magistrate",
+  "type": "index"
+}

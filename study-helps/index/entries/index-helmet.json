@@ -1,0 +1,38 @@
+{
+  "_id": "index-helmet",
+  "content": [
+    {
+      "text": "take helmet of salvation, D&C 27:18.",
+      "references": [
+        {
+          "text": "D&C 27:18",
+          "start": 26,
+          "end": 35,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 27,
+            "chapterId": "doctrineandcovenants27",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-armor",
+      "slug": "armor",
+      "title": "Armor"
+    }
+  ],
+  "slug": "helmet",
+  "title": "Helmet",
+  "type": "index"
+}

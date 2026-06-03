@@ -1,0 +1,128 @@
+{
+  "_id": "tg-dread",
+  "content": [
+    {
+      "text": "dread of you shall be upon every beast, Gen. 9:2. Fear and dread shall fall upon them, Ex. 15:16. Dread not, neither be afraid of them, Deut. 1:29. This day will I begin to put the dread of thee, Deut. 2:25. Lord … let him be your dread, Isa. 8:13 (2 Ne. 18:13).",
+      "references": [
+        {
+          "text": "Gen. 9:2",
+          "start": 40,
+          "end": 48,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 9,
+            "chapterId": "genesis9",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 15:16",
+          "start": 87,
+          "end": 96,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 15,
+            "chapterId": "exodus15",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 1:29",
+          "start": 136,
+          "end": 146,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 1,
+            "chapterId": "deuteronomy1",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 2:25",
+          "start": 196,
+          "end": 206,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 2,
+            "chapterId": "deuteronomy2",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 8:13",
+          "start": 238,
+          "end": 247,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 8,
+            "chapterId": "isaiah8",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 18:13",
+          "start": 249,
+          "end": 260,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 18,
+            "chapterId": "2nephi18",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-fear",
+      "slug": "fear",
+      "title": "Fear"
+    }
+  ],
+  "slug": "dread",
+  "title": "Dread",
+  "type": "tg"
+}

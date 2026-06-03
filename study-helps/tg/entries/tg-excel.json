@@ -1,0 +1,61 @@
+{
+  "_id": "tg-excel",
+  "content": [
+    {
+      "text": "Unstable as water, thou shalt not excel, Gen. 49:4.",
+      "references": [
+        {
+          "text": "Gen. 49:4",
+          "start": 41,
+          "end": 50,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 49,
+            "chapterId": "genesis49",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "may excel to the edifying of the church, 1 Cor. 14:12.",
+      "references": [
+        {
+          "text": "1 Cor. 14:12",
+          "start": 41,
+          "end": 53,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 14,
+            "chapterId": "1corinthians14",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-excellent",
+      "slug": "excellent",
+      "title": "Excellent"
+    }
+  ],
+  "slug": "excel",
+  "title": "Excel",
+  "type": "tg"
+}

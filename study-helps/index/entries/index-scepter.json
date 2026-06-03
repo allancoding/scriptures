@@ -1,0 +1,107 @@
+{
+  "_id": "index-scepter",
+  "content": [
+    {
+      "text": "the Lord has broken scepters of rulers, 2 Ne. 24:5 (Isa. 14:5).",
+      "references": [
+        {
+          "text": "2 Ne. 24:5",
+          "start": 40,
+          "end": 50,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 24,
+            "chapterId": "2nephi24",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 14:5",
+          "start": 52,
+          "end": 61,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 14,
+            "chapterId": "isaiah14",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "the Lord will send one mighty and strong, holding scepter of power, D&C 85:7. thy scepter shall be unchanging scepter, D&C 121:46.",
+      "references": [
+        {
+          "text": "D&C 85:7",
+          "start": 68,
+          "end": 76,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 85,
+            "chapterId": "doctrineandcovenants85",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 121:46",
+          "start": 119,
+          "end": 129,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 46,
+                "end": 46
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-authority",
+      "slug": "authority",
+      "title": "Authority"
+    },
+    {
+      "entryId": "index-dominion",
+      "slug": "dominion",
+      "title": "Dominion"
+    },
+    {
+      "entryId": "index-rule",
+      "slug": "rule",
+      "title": "Rule"
+    }
+  ],
+  "slug": "scepter",
+  "title": "Scepter",
+  "type": "index"
+}

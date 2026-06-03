@@ -1,0 +1,79 @@
+{
+  "_id": "index-dove",
+  "content": [
+    {
+      "text": "the Holy Ghost abides upon the Lamb in form of dove, 1 Ne. 11:27 (2 Ne. 31:8).",
+      "references": [
+        {
+          "text": "1 Ne. 11:27",
+          "start": 53,
+          "end": 64,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 11,
+            "chapterId": "1nephi11",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 31:8",
+          "start": 66,
+          "end": 76,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 31,
+            "chapterId": "2nephi31",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "the Holy Ghost descends upon the Savior in form of dove, D&C 93:15.",
+      "references": [
+        {
+          "text": "D&C 93:15",
+          "start": 57,
+          "end": 66,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 93,
+            "chapterId": "doctrineandcovenants93",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-holy-ghost",
+      "slug": "holy-ghost",
+      "title": "Holy Ghost"
+    }
+  ],
+  "slug": "dove",
+  "title": "Dove",
+  "type": "index"
+}

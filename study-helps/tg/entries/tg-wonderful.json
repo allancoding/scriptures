@@ -1,0 +1,138 @@
+{
+  "_id": "tg-wonderful",
+  "content": [
+    {
+      "text": "his name shall be called Wonderful, Isa. 9:6 (2 Ne. 19:6).",
+      "references": [
+        {
+          "text": "Isa. 9:6",
+          "start": 36,
+          "end": 44,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 9,
+            "chapterId": "isaiah9",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 19:6",
+          "start": 46,
+          "end": 56,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 19,
+            "chapterId": "2nephi19",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "in thy name done many wonderful works, Matt. 7:22 (3 Ne. 14:22).",
+      "references": [
+        {
+          "text": "Matt. 7:22",
+          "start": 39,
+          "end": 49,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 7,
+            "chapterId": "matthew7",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 14:22",
+          "start": 51,
+          "end": 62,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 14,
+            "chapterId": "3nephi14",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "make known his wonderful works among the people, D&C 65:4. In my name they shall do many wonderful works, D&C 84:66.",
+      "references": [
+        {
+          "text": "D&C 65:4",
+          "start": 49,
+          "end": 57,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 65,
+            "chapterId": "doctrineandcovenants65",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 84:66",
+          "start": 106,
+          "end": 115,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 84,
+            "chapterId": "doctrineandcovenants84",
+            "verses": [
+              {
+                "start": 66,
+                "end": 66
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-marvelous",
+      "slug": "marvelous",
+      "title": "Marvelous"
+    }
+  ],
+  "slug": "wonderful",
+  "title": "Wonderful",
+  "type": "tg"
+}

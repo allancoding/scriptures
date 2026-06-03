@@ -1,0 +1,50 @@
+{
+  "_id": "tg-unwashen",
+  "content": [
+    {
+      "text": "to eat with unwashen hands defileth not a man, Matt. 15:20 (Mark 7:2).",
+      "references": [
+        {
+          "text": "Matt. 15:20",
+          "start": 47,
+          "end": 58,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 15,
+            "chapterId": "matthew15",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 7:2",
+          "start": 60,
+          "end": 68,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 7,
+            "chapterId": "mark7",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "unwashen",
+  "title": "Unwashen",
+  "type": "tg"
+}

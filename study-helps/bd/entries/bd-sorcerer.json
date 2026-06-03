@@ -1,0 +1,86 @@
+{
+  "_id": "bd-sorcerer",
+  "content": [
+    {
+      "text": "One who foretells events by casting lots (Ex. 7:11; Jer. 27:9; Acts 13:6; Rev. 21:8).",
+      "references": [
+        {
+          "text": "Ex. 7:11",
+          "start": 42,
+          "end": 50,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 7,
+            "chapterId": "exodus7",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 27:9",
+          "start": 52,
+          "end": 61,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 27,
+            "chapterId": "jeremiah27",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 13:6",
+          "start": 63,
+          "end": 72,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 13,
+            "chapterId": "acts13",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 21:8",
+          "start": 74,
+          "end": 83,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 21,
+            "chapterId": "revelation21",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "sorcerer",
+  "title": "Sorcerer",
+  "type": "bd"
+}

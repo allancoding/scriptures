@@ -1,0 +1,50 @@
+{
+  "_id": "index-carthage-illinois",
+  "content": [
+    {
+      "text": "gospel proclaimed in Carthage, D&C 124:88. Joseph and Hyrum Smith martyred at Carthage, D&C 135:1.",
+      "references": [
+        {
+          "text": "D&C 124:88",
+          "start": 31,
+          "end": 41,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 124,
+            "chapterId": "doctrineandcovenants124",
+            "verses": [
+              {
+                "start": 88,
+                "end": 88
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 135:1",
+          "start": 88,
+          "end": 97,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 135,
+            "chapterId": "doctrineandcovenants135",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "carthage-illinois",
+  "title": "Carthage, Illinois",
+  "type": "index"
+}

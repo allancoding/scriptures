@@ -1,0 +1,102 @@
+{
+  "_id": "tg-subtle",
+  "content": [
+    {
+      "text": "serpent was more subtil than any beast, Gen. 3:1 (Moses 4:5).",
+      "references": [
+        {
+          "text": "Gen. 3:1",
+          "start": 40,
+          "end": 48,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 3,
+            "chapterId": "genesis3",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 4:5",
+          "start": 50,
+          "end": 59,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 4,
+            "chapterId": "moses4",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "thy plan was a very subtle plan, Alma 12:4.",
+      "references": [
+        {
+          "text": "Alma 12:4",
+          "start": 33,
+          "end": 42,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 12,
+            "chapterId": "alma12",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "blinded by the subtle craftiness of men, D&C 123:12.",
+      "references": [
+        {
+          "text": "D&C 123:12",
+          "start": 41,
+          "end": 51,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 123,
+            "chapterId": "doctrineandcovenants123",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-subtlety",
+      "slug": "subtlety",
+      "title": "Subtlety"
+    }
+  ],
+  "slug": "subtle",
+  "title": "Subtle, Subtile",
+  "type": "tg"
+}

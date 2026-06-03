@@ -1,0 +1,38 @@
+{
+  "_id": "index-adhere",
+  "content": [
+    {
+      "text": "adhere to word of God, Alma 60:34.",
+      "references": [
+        {
+          "text": "Alma 60:34",
+          "start": 23,
+          "end": 33,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 60,
+            "chapterId": "alma60",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-keep",
+      "slug": "keep",
+      "title": "Keep"
+    }
+  ],
+  "slug": "adhere",
+  "title": "Adhere",
+  "type": "index"
+}

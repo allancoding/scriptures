@@ -1,0 +1,813 @@
+{
+  "_id": "tg-oath",
+  "content": [
+    {
+      "text": "I will perform the oath which I sware, Gen. 26:3. Joseph took an oath of the children of Israel, Gen. 50:25. an oath of the Lord be between them, Ex. 22:11. If a man … swear an oath to bind his soul, Num. 30:2. Lord … would keep the oath which he had sworn, Deut. 7:8. enter into covenant with the Lord thy God, and into his oath, Deut. 29:12. hast thou not kept the oath of the Lord, 1 Kgs. 2:43. took an oath of them in the house of the Lord, 2 Kgs. 11:4. of his oath unto Isaac, 1 Chr. 16:16 (Ps. 105:9). entered … into an oath, to walk in God’s law, Neh. 10:29. I may perform the oath which I have sworn, Jer. 11:5. despised the oath in breaking the covenant, Ezek. 16:59 (17:18).",
+      "references": [
+        {
+          "text": "Gen. 26:3",
+          "start": 39,
+          "end": 48,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 26,
+            "chapterId": "genesis26",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 50:25",
+          "start": 97,
+          "end": 107,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 50,
+            "chapterId": "genesis50",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 22:11",
+          "start": 146,
+          "end": 155,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 22,
+            "chapterId": "exodus22",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 30:2",
+          "start": 200,
+          "end": 209,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 30,
+            "chapterId": "numbers30",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 7:8",
+          "start": 258,
+          "end": 267,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 7,
+            "chapterId": "deuteronomy7",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 29:12",
+          "start": 331,
+          "end": 342,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 29,
+            "chapterId": "deuteronomy29",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Kgs. 2:43",
+          "start": 385,
+          "end": 396,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 2,
+            "chapterId": "1kings2",
+            "verses": [
+              {
+                "start": 43,
+                "end": 43
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Kgs. 11:4",
+          "start": 445,
+          "end": 456,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 11,
+            "chapterId": "2kings11",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Chr. 16:16",
+          "start": 482,
+          "end": 494,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-chr",
+            "book": "1chronicles",
+            "chapter": 16,
+            "chapterId": "1chronicles16",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 105:9",
+          "start": 496,
+          "end": 505,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 105,
+            "chapterId": "psalms105",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Neh. 10:29",
+          "start": 554,
+          "end": 564,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "neh",
+            "book": "nehemiah",
+            "chapter": 10,
+            "chapterId": "nehemiah10",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 11:5",
+          "start": 609,
+          "end": 618,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 11,
+            "chapterId": "jeremiah11",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 16:59",
+          "start": 664,
+          "end": 675,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 16,
+            "chapterId": "ezekiel16",
+            "verses": [
+              {
+                "start": 59,
+                "end": 59
+              }
+            ]
+          }
+        },
+        {
+          "text": "17:18",
+          "start": 677,
+          "end": 682,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 17,
+            "chapterId": "ezekiel17",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "shalt perform unto the Lord thine oaths, Matt. 5:33 (3 Ne. 12:33). king was sorry: nevertheless for the oath’s sake, Matt. 14:9 (Mark 6:26). oath which he sware to our father Abraham, Luke 1:73. God had sworn with an oath to him … raise up Christ, Acts 2:30. forty men, which have bound themselves with an oath, Acts 23:21. an oath for confirmation is to them an end of all strife, Heb. 6:16. God … confirmed it by an oath, Heb. 6:17. not without an oath he was made priest, Heb. 7:20. word of the oath, which was since the law, Heb. 7:28. swear not … by any other oath: but let your yea be yea, James 5:12.",
+      "references": [
+        {
+          "text": "Matt. 5:33",
+          "start": 41,
+          "end": 51,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 5,
+            "chapterId": "matthew5",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 12:33",
+          "start": 53,
+          "end": 64,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 12,
+            "chapterId": "3nephi12",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 14:9",
+          "start": 117,
+          "end": 127,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 14,
+            "chapterId": "matthew14",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 6:26",
+          "start": 129,
+          "end": 138,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 6,
+            "chapterId": "mark6",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 1:73",
+          "start": 184,
+          "end": 193,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 1,
+            "chapterId": "luke1",
+            "verses": [
+              {
+                "start": 73,
+                "end": 73
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 2:30",
+          "start": 248,
+          "end": 257,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 2,
+            "chapterId": "acts2",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 23:21",
+          "start": 312,
+          "end": 322,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 23,
+            "chapterId": "acts23",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 6:16",
+          "start": 382,
+          "end": 391,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 6,
+            "chapterId": "hebrews6",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 6:17",
+          "start": 424,
+          "end": 433,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 6,
+            "chapterId": "hebrews6",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 7:20",
+          "start": 475,
+          "end": 484,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 7,
+            "chapterId": "hebrews7",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 7:28",
+          "start": 529,
+          "end": 538,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 7,
+            "chapterId": "hebrews7",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "James 5:12",
+          "start": 596,
+          "end": 606,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "james",
+            "book": "james",
+            "chapter": 5,
+            "chapterId": "james5",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "when Zoram had made an oath … fears did cease, 1 Ne. 4:37. we will not suffer ourselves to take an oath, Alma 44:8. swearing with an oath that he would drink his blood, Alma 49:27. with an oath and sacred ordinance to judge righteously, Alma 50:39. oath that they never would shed blood, Alma 53:11. they were about to break the oath, Alma 53:14. secret oaths and covenants which Alma commanded, Hel. 6:25. their oaths … of awful wickedness, Hel. 6:30. sworn by the oath of the ancients, Ether 9:5.",
+      "references": [
+        {
+          "text": "1 Ne. 4:37",
+          "start": 47,
+          "end": 57,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 4,
+            "chapterId": "1nephi4",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 44:8",
+          "start": 105,
+          "end": 114,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 44,
+            "chapterId": "alma44",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 49:27",
+          "start": 169,
+          "end": 179,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 49,
+            "chapterId": "alma49",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 50:39",
+          "start": 237,
+          "end": 247,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 50,
+            "chapterId": "alma50",
+            "verses": [
+              {
+                "start": 39,
+                "end": 39
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 53:11",
+          "start": 288,
+          "end": 298,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 53,
+            "chapterId": "alma53",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 53:14",
+          "start": 335,
+          "end": 345,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 53,
+            "chapterId": "alma53",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 6:25",
+          "start": 396,
+          "end": 405,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 6,
+            "chapterId": "helaman6",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 6:30",
+          "start": 442,
+          "end": 451,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 6,
+            "chapterId": "helaman6",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 9:5",
+          "start": 488,
+          "end": 497,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 9,
+            "chapterId": "ether9",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "according to the oath and covenant which belongeth to the priesthood, D&C 84:39 (84:33–41). I will not perform the oath which I make, D&C 124:47. All covenants, contracts, bonds, obligations, oaths … sealed by the Holy Spirit of promise, D&C 132:7.",
+      "references": [
+        {
+          "text": "D&C 84:39",
+          "start": 70,
+          "end": 79,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 84,
+            "chapterId": "doctrineandcovenants84",
+            "verses": [
+              {
+                "start": 39,
+                "end": 39
+              }
+            ]
+          }
+        },
+        {
+          "text": "84:33–41",
+          "start": 81,
+          "end": 89,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 84,
+            "chapterId": "doctrineandcovenants84",
+            "verses": [
+              {
+                "start": 33,
+                "end": 41
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 124:47",
+          "start": 134,
+          "end": 144,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 124,
+            "chapterId": "doctrineandcovenants124",
+            "verses": [
+              {
+                "start": 47,
+                "end": 47
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 132:7",
+          "start": 238,
+          "end": 247,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 132,
+            "chapterId": "doctrineandcovenants132",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "he slew him for the oath’s sake, Moses 5:50. Lord … covenanted with Enoch … that he would stay the floods, Moses 7:51.",
+      "references": [
+        {
+          "text": "Moses 5:50",
+          "start": 33,
+          "end": 43,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 5,
+            "chapterId": "moses5",
+            "verses": [
+              {
+                "start": 50,
+                "end": 50
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 7:51",
+          "start": 107,
+          "end": 117,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 7,
+            "chapterId": "moses7",
+            "verses": [
+              {
+                "start": 51,
+                "end": 51
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-conspiracy",
+      "slug": "conspiracy",
+      "title": "Conspiracy"
+    },
+    {
+      "entryId": "tg-covenants",
+      "slug": "covenants",
+      "title": "Covenants"
+    },
+    {
+      "entryId": "tg-pledge",
+      "slug": "pledge",
+      "title": "Pledge"
+    },
+    {
+      "entryId": "tg-priesthood-oath-and-covenant",
+      "slug": "priesthood-oath-and-covenant",
+      "title": "Priesthood, Oath and Covenant"
+    },
+    {
+      "entryId": "tg-promise",
+      "slug": "promise",
+      "title": "Promise"
+    },
+    {
+      "entryId": "tg-secret-combinations",
+      "slug": "secret-combinations",
+      "title": "Secret Combinations"
+    },
+    {
+      "entryId": "tg-swearing",
+      "slug": "swearing",
+      "title": "Swearing"
+    },
+    {
+      "entryId": "tg-vow",
+      "slug": "vow",
+      "title": "Vow"
+    }
+  ],
+  "slug": "oath",
+  "title": "Oath",
+  "type": "tg"
+}

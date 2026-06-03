@@ -1,0 +1,192 @@
+{
+  "_id": "tg-throw",
+  "content": [
+    {
+      "text": "I have this day set thee over the nations … to throw down, Jer. 1:10.",
+      "references": [
+        {
+          "text": "Jer. 1:10",
+          "start": 59,
+          "end": 68,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 1,
+            "chapterId": "jeremiah1",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "one stone upon another, that shall not be thrown down, Matt. 24:2 (Mark 13:2; Luke 21:6). with violence shall that great city Babylon be thrown down, Rev. 18:21.",
+      "references": [
+        {
+          "text": "Matt. 24:2",
+          "start": 55,
+          "end": 65,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 24,
+            "chapterId": "matthew24",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 13:2",
+          "start": 67,
+          "end": 76,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 13,
+            "chapterId": "mark13",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 21:6",
+          "start": 78,
+          "end": 87,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 21,
+            "chapterId": "luke21",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 18:21",
+          "start": 150,
+          "end": 160,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 18,
+            "chapterId": "revelation18",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "this temple … shall be thrown down, D&C 45:20. throw down their tower, D&C 101:57 (105:16). Zion, to be established, no more to be thrown down, D&C 103:13.",
+      "references": [
+        {
+          "text": "D&C 45:20",
+          "start": 36,
+          "end": 45,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 45,
+            "chapterId": "doctrineandcovenants45",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 101:57",
+          "start": 71,
+          "end": 81,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 101,
+            "chapterId": "doctrineandcovenants101",
+            "verses": [
+              {
+                "start": 57,
+                "end": 57
+              }
+            ]
+          }
+        },
+        {
+          "text": "105:16",
+          "start": 83,
+          "end": 89,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 105,
+            "chapterId": "doctrineandcovenants105",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 103:13",
+          "start": 144,
+          "end": 154,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 103,
+            "chapterId": "doctrineandcovenants103",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-cast",
+      "slug": "cast",
+      "title": "Cast"
+    }
+  ],
+  "slug": "throw",
+  "title": "Throw, Thrown",
+  "type": "tg"
+}

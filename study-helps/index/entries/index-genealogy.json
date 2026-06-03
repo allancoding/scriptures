@@ -1,0 +1,233 @@
+{
+  "_id": "index-genealogy",
+  "content": [
+    {
+      "text": "brass plates contain genealogy of forefathers, 1 Ne. 3:3, 12 (5:14, 16; Alma 37:3). Jarom writes, that genealogy may be kept, Jarom 1:1 (Omni 1:1). Zarahemla gives genealogy of fathers, Omni 1:18.",
+      "references": [
+        {
+          "text": "1 Ne. 3:3, 12",
+          "start": 47,
+          "end": 60,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 3,
+            "chapterId": "1nephi3",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              },
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "5:14, 16",
+          "start": 62,
+          "end": 70,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 5,
+            "chapterId": "1nephi5",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              },
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 37:3",
+          "start": 72,
+          "end": 81,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 37,
+            "chapterId": "alma37",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jarom 1:1",
+          "start": 126,
+          "end": 135,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jarom",
+            "book": "jarom",
+            "chapter": 1,
+            "chapterId": "jarom1",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Omni 1:1",
+          "start": 137,
+          "end": 145,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "omni",
+            "book": "omni",
+            "chapter": 1,
+            "chapterId": "omni1",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Omni 1:18",
+          "start": 186,
+          "end": 195,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "omni",
+            "book": "omni",
+            "chapter": 1,
+            "chapterId": "omni1",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "genealogy not kept for those who receive not inheritance by consecration, D&C 85:4.",
+      "references": [
+        {
+          "text": "D&C 85:4",
+          "start": 74,
+          "end": 82,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 85,
+            "chapterId": "doctrineandcovenants85",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "genealogy kept of children of God, Moses 6:8. genealogy from Adam to Enoch2, Moses 6:10–22. genealogy from Enoch2 to sons of Noah1, Moses 8:2–12.",
+      "references": [
+        {
+          "text": "Moses 6:8",
+          "start": 35,
+          "end": 44,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 6,
+            "chapterId": "moses6",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 6:10–22",
+          "start": 77,
+          "end": 90,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 6,
+            "chapterId": "moses6",
+            "verses": [
+              {
+                "start": 10,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 8:2–12",
+          "start": 132,
+          "end": 144,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 8,
+            "chapterId": "moses8",
+            "verses": [
+              {
+                "start": 2,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-descendant",
+      "slug": "descendant",
+      "title": "Descendant"
+    },
+    {
+      "entryId": "index-father",
+      "slug": "father",
+      "title": "Father"
+    },
+    {
+      "entryId": "index-forefathers",
+      "slug": "forefathers",
+      "title": "Forefathers"
+    },
+    {
+      "entryId": "index-lineage",
+      "slug": "lineage",
+      "title": "Lineage"
+    }
+  ],
+  "slug": "genealogy",
+  "title": "Genealogy",
+  "type": "index"
+}

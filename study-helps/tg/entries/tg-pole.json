@@ -1,0 +1,50 @@
+{
+  "_id": "tg-pole",
+  "content": [
+    {
+      "text": "fiery serpent, and set it upon a pole, Num. 21:8 (Alma 46:12).",
+      "references": [
+        {
+          "text": "Num. 21:8",
+          "start": 39,
+          "end": 48,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 21,
+            "chapterId": "numbers21",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 46:12",
+          "start": 50,
+          "end": 60,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 46,
+            "chapterId": "alma46",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "pole",
+  "title": "Pole",
+  "type": "tg"
+}

@@ -1,0 +1,138 @@
+{
+  "_id": "tg-plenty",
+  "content": [
+    {
+      "text": "God give thee … plenty of corn and wine, Gen. 27:28. there come seven years of great plenty, Gen. 41:29. So shall thy barns be filled with plenty, Prov. 3:10. He that tilleth his land shall have plenty of bread, Prov. 28:19. ye shall eat in plenty, Joel 2:26.",
+      "references": [
+        {
+          "text": "Gen. 27:28",
+          "start": 41,
+          "end": 51,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 27,
+            "chapterId": "genesis27",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 41:29",
+          "start": 93,
+          "end": 103,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 41,
+            "chapterId": "genesis41",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 3:10",
+          "start": 147,
+          "end": 157,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 3,
+            "chapterId": "proverbs3",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 28:19",
+          "start": 212,
+          "end": 223,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 28,
+            "chapterId": "proverbs28",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Joel 2:26",
+          "start": 249,
+          "end": 258,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "joel",
+            "book": "joel",
+            "chapter": 2,
+            "chapterId": "joel2",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "women did give plenty of suck, 1 Ne. 17:2.",
+      "references": [
+        {
+          "text": "1 Ne. 17:2",
+          "start": 31,
+          "end": 41,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 17,
+            "chapterId": "1nephi17",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-abundance",
+      "slug": "abundance",
+      "title": "Abundance"
+    },
+    {
+      "entryId": "tg-fulness",
+      "slug": "fulness",
+      "title": "Fulness"
+    }
+  ],
+  "slug": "plenty",
+  "title": "Plenty",
+  "type": "tg"
+}

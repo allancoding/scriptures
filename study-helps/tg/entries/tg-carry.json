@@ -1,0 +1,646 @@
+{
+  "_id": "tg-carry",
+  "content": [
+    {
+      "text": "he carried away all his cattle, Gen. 31:18. children of Israel … shall carry up my bones from hence, Gen. 50:25 (Ex. 13:19; 2 Ne. 4:1). Spirit of the Lord shall carry thee, 1 Kgs. 18:12. carried them captive to Assyria, 2 Kgs. 15:29 (17:6, 23). shall be carried into Babylon, 2 Kgs. 20:17 (Isa. 39:6). he carried out thence all the treasures, 2 Kgs. 24:13. he carried away all Jerusalem, 2 Kgs. 24:14. carried him to Babylon, 2 Kgs. 25:7 (Jer. 39:7; 52:11). None ought to carry the ark of God but the Levites, 1 Chr. 15:2. had been carried away from Jerusalem, Esth. 2:6. he hath … carried our sorrows, Isa. 53:4 (Mosiah 14:4). hand of the Lord … carried me out in the spirit, Ezek. 37:1.",
+      "references": [
+        {
+          "text": "Gen. 31:18",
+          "start": 32,
+          "end": 42,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 31,
+            "chapterId": "genesis31",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 50:25",
+          "start": 101,
+          "end": 111,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 50,
+            "chapterId": "genesis50",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 13:19",
+          "start": 113,
+          "end": 122,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 13,
+            "chapterId": "exodus13",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 4:1",
+          "start": 124,
+          "end": 133,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 4,
+            "chapterId": "2nephi4",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Kgs. 18:12",
+          "start": 173,
+          "end": 185,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 18,
+            "chapterId": "1kings18",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Kgs. 15:29",
+          "start": 220,
+          "end": 232,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 15,
+            "chapterId": "2kings15",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "17:6, 23",
+          "start": 234,
+          "end": 242,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 17,
+            "chapterId": "2kings17",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              },
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Kgs. 20:17",
+          "start": 276,
+          "end": 288,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 20,
+            "chapterId": "2kings20",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 39:6",
+          "start": 290,
+          "end": 299,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 39,
+            "chapterId": "isaiah39",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Kgs. 24:13",
+          "start": 343,
+          "end": 355,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 24,
+            "chapterId": "2kings24",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Kgs. 24:14",
+          "start": 388,
+          "end": 400,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 24,
+            "chapterId": "2kings24",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Kgs. 25:7",
+          "start": 426,
+          "end": 437,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 25,
+            "chapterId": "2kings25",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 39:7",
+          "start": 439,
+          "end": 448,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 39,
+            "chapterId": "jeremiah39",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "52:11",
+          "start": 450,
+          "end": 455,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 52,
+            "chapterId": "jeremiah52",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Chr. 15:2",
+          "start": 510,
+          "end": 521,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-chr",
+            "book": "1chronicles",
+            "chapter": 15,
+            "chapterId": "1chronicles15",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Esth. 2:6",
+          "start": 561,
+          "end": 570,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "esth",
+            "book": "esther",
+            "chapter": 2,
+            "chapterId": "esther2",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 53:4",
+          "start": 603,
+          "end": 612,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 53,
+            "chapterId": "isaiah53",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 14:4",
+          "start": 614,
+          "end": 625,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 14,
+            "chapterId": "mosiah14",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 37:1",
+          "start": 677,
+          "end": 687,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 37,
+            "chapterId": "ezekiel37",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "suffer that any man should carry any vessel, Mark 11:16. bound Jesus, and carried him away, Mark 15:1. Carry neither purse, nor scrip, Luke 10:4. he was … carried up into heaven, Luke 24:51. it is not lawful for thee to carry thy bed, John 5:10. Gentiles, carried away unto these dumb idols, 1 Cor. 12:2. carried about with every wind of doctrine, Eph. 4:14. carried about with divers and strange doctrines, Heb. 13:9.",
+      "references": [
+        {
+          "text": "Mark 11:16",
+          "start": 45,
+          "end": 55,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 11,
+            "chapterId": "mark11",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 15:1",
+          "start": 92,
+          "end": 101,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 15,
+            "chapterId": "mark15",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 10:4",
+          "start": 135,
+          "end": 144,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 10,
+            "chapterId": "luke10",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 24:51",
+          "start": 179,
+          "end": 189,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 24,
+            "chapterId": "luke24",
+            "verses": [
+              {
+                "start": 51,
+                "end": 51
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 5:10",
+          "start": 235,
+          "end": 244,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 5,
+            "chapterId": "john5",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 12:2",
+          "start": 292,
+          "end": 303,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 12,
+            "chapterId": "1corinthians12",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eph. 4:14",
+          "start": 348,
+          "end": 357,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "eph",
+            "book": "ephesians",
+            "chapter": 4,
+            "chapterId": "ephesians4",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 13:9",
+          "start": 408,
+          "end": 417,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 13,
+            "chapterId": "hebrews13",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "he was carried away in a vision, 1 Ne. 1:8. should be carried away captive into Babylon, 1 Ne. 1:13. they were carried away in the Spirit, 1 Ne. 11:29 (14:30). slain and carried away captive, 2 Ne. 6:8 (25:10; Omni 1:15).",
+      "references": [
+        {
+          "text": "1 Ne. 1:8",
+          "start": 33,
+          "end": 42,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 1,
+            "chapterId": "1nephi1",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Ne. 1:13",
+          "start": 89,
+          "end": 99,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 1,
+            "chapterId": "1nephi1",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Ne. 11:29",
+          "start": 139,
+          "end": 150,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 11,
+            "chapterId": "1nephi11",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "14:30",
+          "start": 152,
+          "end": 157,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 14,
+            "chapterId": "1nephi14",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 6:8",
+          "start": 192,
+          "end": 201,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 6,
+            "chapterId": "2nephi6",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "25:10",
+          "start": 203,
+          "end": 208,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 25,
+            "chapterId": "2nephi25",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Omni 1:15",
+          "start": 210,
+          "end": 219,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "omni",
+            "book": "omni",
+            "chapter": 1,
+            "chapterId": "omni1",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-bear-verb",
+      "slug": "bear-verb",
+      "title": "Bear [verb]"
+    }
+  ],
+  "slug": "carry",
+  "title": "Carry, Carried",
+  "type": "tg"
+}

@@ -1,0 +1,97 @@
+{
+  "_id": "tg-jot",
+  "content": [
+    {
+      "text": "one jot or one tittle shall in no wise pass, Matt. 5:18 (3 Ne. 1:25; 12:18).",
+      "references": [
+        {
+          "text": "Matt. 5:18",
+          "start": 45,
+          "end": 55,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 5,
+            "chapterId": "matthew5",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 1:25",
+          "start": 57,
+          "end": 67,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 1,
+            "chapterId": "3nephi1",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "12:18",
+          "start": 69,
+          "end": 74,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 12,
+            "chapterId": "3nephi12",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "law of Moses be fulfilled … every jot and tittle, Alma 34:13.",
+      "references": [
+        {
+          "text": "Alma 34:13",
+          "start": 50,
+          "end": 60,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 34,
+            "chapterId": "alma34",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-tittle",
+      "slug": "tittle",
+      "title": "Tittle"
+    }
+  ],
+  "slug": "jot",
+  "title": "Jot",
+  "type": "tg"
+}

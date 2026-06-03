@@ -1,0 +1,79 @@
+{
+  "_id": "tg-influence",
+  "content": [
+    {
+      "text": "No power or influence can or ought to be maintained, D&C 121:41. to mingle religious influence with civil government, D&C 134:9. every man use all his influence … to remove this people, D&C 136:10.",
+      "references": [
+        {
+          "text": "D&C 121:41",
+          "start": 53,
+          "end": 63,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 41,
+                "end": 41
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 134:9",
+          "start": 118,
+          "end": 127,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 134,
+            "chapterId": "doctrineandcovenants134",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 136:10",
+          "start": 186,
+          "end": 196,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 136,
+            "chapterId": "doctrineandcovenants136",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-example",
+      "slug": "example",
+      "title": "Example"
+    },
+    {
+      "entryId": "tg-peer-influence",
+      "slug": "peer-influence",
+      "title": "Peer Influence"
+    }
+  ],
+  "slug": "influence",
+  "title": "Influence",
+  "type": "tg"
+}

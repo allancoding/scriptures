@@ -1,0 +1,115 @@
+{
+  "_id": "index-charge",
+  "content": [
+    {
+      "text": "Benjamin gives Mosiah2 charge concerning affairs of kingdom, records, Mosiah 1:15–16. Alma1 gives Alma2 charge concerning affairs of Church, Mosiah 29:42. Alma2 gathers sons to give them his charge, Alma 35:16.",
+      "references": [
+        {
+          "text": "Mosiah 1:15–16",
+          "start": 70,
+          "end": 84,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 1,
+            "chapterId": "mosiah1",
+            "verses": [
+              {
+                "start": 15,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 29:42",
+          "start": 141,
+          "end": 153,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 29,
+            "chapterId": "mosiah29",
+            "verses": [
+              {
+                "start": 42,
+                "end": 42
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 35:16",
+          "start": 199,
+          "end": 209,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 35,
+            "chapterId": "alma35",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "the Lord gives angels charge concerning elders, D&C 84:42 (109:22).",
+      "references": [
+        {
+          "text": "D&C 84:42",
+          "start": 48,
+          "end": 57,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 84,
+            "chapterId": "doctrineandcovenants84",
+            "verses": [
+              {
+                "start": 42,
+                "end": 42
+              }
+            ]
+          }
+        },
+        {
+          "text": "109:22",
+          "start": 59,
+          "end": 65,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 109,
+            "chapterId": "doctrineandcovenants109",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-instruction",
+      "slug": "instruction",
+      "title": "Instruction"
+    }
+  ],
+  "slug": "charge",
+  "title": "Charge",
+  "type": "index"
+}

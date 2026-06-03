@@ -1,0 +1,50 @@
+{
+  "_id": "index-firstling",
+  "content": [
+    {
+      "text": "Adam and Eve commanded to offer firstlings of flock, Moses 5:5. firstlings of flock offered by Abel, Moses 5:20.",
+      "references": [
+        {
+          "text": "Moses 5:5",
+          "start": 53,
+          "end": 62,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 5,
+            "chapterId": "moses5",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 5:20",
+          "start": 101,
+          "end": 111,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 5,
+            "chapterId": "moses5",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "firstling",
+  "title": "Firstling",
+  "type": "index"
+}

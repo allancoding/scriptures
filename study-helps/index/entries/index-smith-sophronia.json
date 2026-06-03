@@ -1,0 +1,50 @@
+{
+  "_id": "index-smith-sophronia",
+  "content": [
+    {
+      "text": "sister of Joseph Smith, JS—H 1:4. joins Presbyterian faith, JS—H 1:7.",
+      "references": [
+        {
+          "text": "JS—H 1:4",
+          "start": 24,
+          "end": 32,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "JS—H 1:7",
+          "start": 60,
+          "end": 68,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "smith-sophronia",
+  "title": "Smith, Sophronia",
+  "type": "index"
+}

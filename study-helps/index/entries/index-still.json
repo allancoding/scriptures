@@ -1,0 +1,61 @@
+{
+  "_id": "index-still",
+  "content": [
+    {
+      "text": "it appears to man that sun stands still, Hel. 12:15.",
+      "references": [
+        {
+          "text": "Hel. 12:15",
+          "start": 41,
+          "end": 51,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 12,
+            "chapterId": "helaman12",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "be still and know that I am God, D&C 101:16.",
+      "references": [
+        {
+          "text": "D&C 101:16",
+          "start": 33,
+          "end": 43,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 101,
+            "chapterId": "doctrineandcovenants101",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-voice",
+      "slug": "voice",
+      "title": "Voice"
+    }
+  ],
+  "slug": "still",
+  "title": "Still",
+  "type": "index"
+}

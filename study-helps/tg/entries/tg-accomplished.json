@@ -1,0 +1,107 @@
+{
+  "_id": "tg-accomplished",
+  "content": [
+    {
+      "text": "desire accomplished is sweet to the soul, Prov. 13:19.",
+      "references": [
+        {
+          "text": "Prov. 13:19",
+          "start": 42,
+          "end": 53,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 13,
+            "chapterId": "proverbs13",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "all … concerning the Son of man shall be accomplished, Luke 18:31. that is written must yet be accomplished in me, Luke 22:37. knowing that all things were now accomplished, John 19:28.",
+      "references": [
+        {
+          "text": "Luke 18:31",
+          "start": 55,
+          "end": 65,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 18,
+            "chapterId": "luke18",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 22:37",
+          "start": 115,
+          "end": 125,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 22,
+            "chapterId": "luke22",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 19:28",
+          "start": 174,
+          "end": 184,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 19,
+            "chapterId": "john19",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-do",
+      "slug": "do",
+      "title": "Do"
+    },
+    {
+      "entryId": "tg-fulfill",
+      "slug": "fulfill",
+      "title": "Fulfill"
+    },
+    {
+      "entryId": "tg-perform",
+      "slug": "perform",
+      "title": "Perform"
+    }
+  ],
+  "slug": "accomplished",
+  "title": "Accomplished",
+  "type": "tg"
+}

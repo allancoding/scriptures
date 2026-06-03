@@ -1,0 +1,50 @@
+{
+  "_id": "tg-nurture",
+  "content": [
+    {
+      "text": "bring them up in the nurture and admonition of the Lord, Eph. 6:4 (Enos 1:1).",
+      "references": [
+        {
+          "text": "Eph. 6:4",
+          "start": 57,
+          "end": 65,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "eph",
+            "book": "ephesians",
+            "chapter": 6,
+            "chapterId": "ephesians6",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Enos 1:1",
+          "start": 67,
+          "end": 75,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "enos",
+            "book": "enos",
+            "chapter": 1,
+            "chapterId": "enos1",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "nurture",
+  "title": "Nurture",
+  "type": "tg"
+}

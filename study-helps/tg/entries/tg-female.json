@@ -1,0 +1,151 @@
+{
+  "_id": "tg-female",
+  "content": [
+    {
+      "text": "male and female created he them, Gen. 1:27 (5:2; D&C 20:18; Moses 2:27; 6:9; Abr. 4:27).",
+      "references": [
+        {
+          "text": "Gen. 1:27",
+          "start": 33,
+          "end": 42,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 1,
+            "chapterId": "genesis1",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "5:2",
+          "start": 44,
+          "end": 47,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 5,
+            "chapterId": "genesis5",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 20:18",
+          "start": 49,
+          "end": 58,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 20,
+            "chapterId": "doctrineandcovenants20",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 2:27",
+          "start": 60,
+          "end": 70,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 2,
+            "chapterId": "moses2",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "6:9",
+          "start": 72,
+          "end": 75,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 6,
+            "chapterId": "moses6",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Abr. 4:27",
+          "start": 77,
+          "end": 86,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 4,
+            "chapterId": "abraham4",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "neither male nor female … all one in Christ, Gal. 3:28.",
+      "references": [
+        {
+          "text": "Gal. 3:28",
+          "start": 45,
+          "end": 54,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "gal",
+            "book": "galatians",
+            "chapter": 3,
+            "chapterId": "galatians3",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-woman",
+      "slug": "woman",
+      "title": "Woman"
+    }
+  ],
+  "slug": "female",
+  "title": "Female",
+  "type": "tg"
+}

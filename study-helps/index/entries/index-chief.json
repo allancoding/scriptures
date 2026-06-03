@@ -1,0 +1,47 @@
+{
+  "_id": "index-chief",
+  "content": [
+    {
+      "text": "every tribe appoints chief, 3 Ne. 7:3, 14.",
+      "references": [
+        {
+          "text": "3 Ne. 7:3, 14",
+          "start": 28,
+          "end": 41,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 7,
+            "chapterId": "3nephi7",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              },
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-captain",
+      "slug": "captain",
+      "title": "Captain"
+    },
+    {
+      "entryId": "index-judge-chief",
+      "slug": "judge-chief",
+      "title": "Judge, Chief"
+    }
+  ],
+  "slug": "chief",
+  "title": "Chief",
+  "type": "index"
+}

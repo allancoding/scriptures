@@ -1,0 +1,68 @@
+{
+  "_id": "bd-daystar",
+  "content": [
+    {
+      "text": "Morning star (2 Pet. 1:19; Rev. 2:28; 22:16).",
+      "references": [
+        {
+          "text": "2 Pet. 1:19",
+          "start": 14,
+          "end": 25,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-pet",
+            "book": "2peter",
+            "chapter": 1,
+            "chapterId": "2peter1",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 2:28",
+          "start": 27,
+          "end": 36,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 2,
+            "chapterId": "revelation2",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "22:16",
+          "start": 38,
+          "end": 43,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 22,
+            "chapterId": "revelation22",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "daystar",
+  "title": "Daystar",
+  "type": "bd"
+}

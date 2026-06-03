@@ -1,0 +1,181 @@
+{
+  "_id": "tg-male",
+  "content": [
+    {
+      "text": "male and female created he them, Gen. 1:27 (D&C 20:18; Moses 2:27; 6:9; Abr. 4:27).",
+      "references": [
+        {
+          "text": "Gen. 1:27",
+          "start": 33,
+          "end": 42,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 1,
+            "chapterId": "genesis1",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 20:18",
+          "start": 44,
+          "end": 53,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 20,
+            "chapterId": "doctrineandcovenants20",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 2:27",
+          "start": 55,
+          "end": 65,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 2,
+            "chapterId": "moses2",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "6:9",
+          "start": 67,
+          "end": 70,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 6,
+            "chapterId": "moses6",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Abr. 4:27",
+          "start": 72,
+          "end": 81,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 4,
+            "chapterId": "abraham4",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "filled with people … both male and female, 1 Ne. 8:27 (2 Ne. 10:16; 26:33; Alma 1:30).",
+      "references": [
+        {
+          "text": "1 Ne. 8:27",
+          "start": 43,
+          "end": 53,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 8,
+            "chapterId": "1nephi8",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 10:16",
+          "start": 55,
+          "end": 66,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 10,
+            "chapterId": "2nephi10",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "26:33",
+          "start": 68,
+          "end": 73,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 26,
+            "chapterId": "2nephi26",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 1:30",
+          "start": 75,
+          "end": 84,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 1,
+            "chapterId": "alma1",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "male",
+  "title": "Male",
+  "type": "tg"
+}

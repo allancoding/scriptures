@@ -1,0 +1,38 @@
+{
+  "_id": "index-cumoms",
+  "content": [
+    {
+      "text": "useful to man, existed in days of Emer, Ether 9:19.",
+      "references": [
+        {
+          "text": "Ether 9:19",
+          "start": 40,
+          "end": 50,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 9,
+            "chapterId": "ether9",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-animal",
+      "slug": "animal",
+      "title": "Animal"
+    }
+  ],
+  "slug": "cumoms",
+  "title": "Cumoms—unidentified animals",
+  "type": "index"
+}

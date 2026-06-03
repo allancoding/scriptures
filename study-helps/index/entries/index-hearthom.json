@@ -1,0 +1,68 @@
+{
+  "_id": "index-hearthom",
+  "content": [
+    {
+      "text": "father of Heth2, son of Lib1, Ether 1:16–17 (10:29–31). reigns 24 years, taken into captivity, Ether 10:30.",
+      "references": [
+        {
+          "text": "Ether 1:16–17",
+          "start": 30,
+          "end": 43,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 1,
+            "chapterId": "ether1",
+            "verses": [
+              {
+                "start": 16,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "10:29–31",
+          "start": 45,
+          "end": 53,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 10,
+            "chapterId": "ether10",
+            "verses": [
+              {
+                "start": 29,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 10:30",
+          "start": 95,
+          "end": 106,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 10,
+            "chapterId": "ether10",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "hearthom",
+  "title": "Hearthom—early Jaredite king",
+  "type": "index"
+}

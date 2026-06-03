@@ -1,0 +1,68 @@
+{
+  "_id": "bd-cana-of-galilee",
+  "content": [
+    {
+      "text": "A town within a few miles of Nazareth, exact site of which is uncertain; the scene of Christ’s first miracle (John 2:1–11), as well as of a subsequent one (John 4:46–54), and the birthplace of Nathanael (John 21:2).",
+      "references": [
+        {
+          "text": "John 2:1–11",
+          "start": 110,
+          "end": 121,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 2,
+            "chapterId": "john2",
+            "verses": [
+              {
+                "start": 1,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 4:46–54",
+          "start": 156,
+          "end": 168,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 4,
+            "chapterId": "john4",
+            "verses": [
+              {
+                "start": 46,
+                "end": 54
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 21:2",
+          "start": 204,
+          "end": 213,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 21,
+            "chapterId": "john21",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "cana-of-galilee",
+  "title": "Cana of Galilee",
+  "type": "bd"
+}

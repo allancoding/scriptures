@@ -1,0 +1,50 @@
+{
+  "_id": "index-potiphars-hill",
+  "content": [
+    {
+      "text": "place of human sacrifices to idols, Abr. 1:10. in land of Ur, of Chaldea, Abr. 1:20.",
+      "references": [
+        {
+          "text": "Abr. 1:10",
+          "start": 36,
+          "end": 45,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 1,
+            "chapterId": "abraham1",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Abr. 1:20",
+          "start": 74,
+          "end": 83,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 1,
+            "chapterId": "abraham1",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "potiphars-hill",
+  "title": "Potiphar’s Hill",
+  "type": "index"
+}

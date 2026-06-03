@@ -1,0 +1,55 @@
+{
+  "_id": "tg-rose",
+  "content": [
+    {
+      "text": "desert … blossom as the rose, Isa. 35:1.",
+      "references": [
+        {
+          "text": "Isa. 35:1",
+          "start": 30,
+          "end": 39,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 35,
+            "chapterId": "isaiah35",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Lamanites shall blossom as the rose, D&C 49:24.",
+      "references": [
+        {
+          "text": "D&C 49:24",
+          "start": 37,
+          "end": 46,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 49,
+            "chapterId": "doctrineandcovenants49",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "rose",
+  "title": "Rose",
+  "type": "tg"
+}

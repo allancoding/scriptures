@@ -1,0 +1,71 @@
+{
+  "_id": "index-tomorrow",
+  "content": [
+    {
+      "text": "eat, drink, and be merry, for tomorrow we die, 2 Ne. 28:7–8.",
+      "references": [
+        {
+          "text": "2 Ne. 28:7–8",
+          "start": 47,
+          "end": 59,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 28,
+            "chapterId": "2nephi28",
+            "verses": [
+              {
+                "start": 7,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "tomorrow proud shall be as stubble, D&C 64:24.",
+      "references": [
+        {
+          "text": "D&C 64:24",
+          "start": 36,
+          "end": 45,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 64,
+            "chapterId": "doctrineandcovenants64",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-morrow",
+      "slug": "morrow",
+      "title": "Morrow"
+    },
+    {
+      "entryId": "index-time",
+      "slug": "time",
+      "title": "Time"
+    },
+    {
+      "entryId": "index-today",
+      "slug": "today",
+      "title": "Today"
+    }
+  ],
+  "slug": "tomorrow",
+  "title": "Tomorrow",
+  "type": "index"
+}

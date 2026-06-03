@@ -1,0 +1,50 @@
+{
+  "_id": "bd-hemlock",
+  "content": [
+    {
+      "text": "A bitter and poisonous herb growing in the furrows of fields (Hosea 10:4; Amos 6:12).",
+      "references": [
+        {
+          "text": "Hosea 10:4",
+          "start": 62,
+          "end": 72,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "hosea",
+            "book": "hosea",
+            "chapter": 10,
+            "chapterId": "hosea10",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Amos 6:12",
+          "start": 74,
+          "end": 83,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "amos",
+            "book": "amos",
+            "chapter": 6,
+            "chapterId": "amos6",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "hemlock",
+  "title": "Hemlock",
+  "type": "bd"
+}

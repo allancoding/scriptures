@@ -1,0 +1,79 @@
+{
+  "_id": "index-garden",
+  "content": [
+    {
+      "text": "the Lord will make Zion’s desert like garden of the Lord, 2 Ne. 8:3. Nephi2 prays upon tower in garden, Hel. 7:10.",
+      "references": [
+        {
+          "text": "2 Ne. 8:3",
+          "start": 58,
+          "end": 67,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 8,
+            "chapterId": "2nephi8",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 7:10",
+          "start": 104,
+          "end": 113,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 7,
+            "chapterId": "helaman7",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "good things of earth for gardens made for benefit of man, D&C 59:17–18.",
+      "references": [
+        {
+          "text": "D&C 59:17–18",
+          "start": 58,
+          "end": 70,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 59,
+            "chapterId": "doctrineandcovenants59",
+            "verses": [
+              {
+                "start": 17,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-eden-garden-of",
+      "slug": "eden-garden-of",
+      "title": "Eden, Garden of"
+    }
+  ],
+  "slug": "garden",
+  "title": "Garden",
+  "type": "index"
+}

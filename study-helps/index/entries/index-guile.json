@@ -1,0 +1,102 @@
+{
+  "_id": "index-guile",
+  "content": [
+    {
+      "text": "Ammon2 catches king with guile, Alma 18:23.",
+      "references": [
+        {
+          "text": "Alma 18:23",
+          "start": 32,
+          "end": 42,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 18,
+            "chapterId": "alma18",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Edward Partridge is without guile, D&C 41:11. pure knowledge shall greatly enlarge soul without guile, D&C 121:42. William Law admonished to be humble and without guile, D&C 124:97.",
+      "references": [
+        {
+          "text": "D&C 41:11",
+          "start": 35,
+          "end": 44,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 41,
+            "chapterId": "doctrineandcovenants41",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 121:42",
+          "start": 103,
+          "end": 113,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 42,
+                "end": 42
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 124:97",
+          "start": 170,
+          "end": 180,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 124,
+            "chapterId": "doctrineandcovenants124",
+            "verses": [
+              {
+                "start": 97,
+                "end": 97
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-deceit",
+      "slug": "deceit",
+      "title": "Deceit"
+    },
+    {
+      "entryId": "index-hypocrisy",
+      "slug": "hypocrisy",
+      "title": "Hypocrisy"
+    }
+  ],
+  "slug": "guile",
+  "title": "Guile",
+  "type": "index"
+}

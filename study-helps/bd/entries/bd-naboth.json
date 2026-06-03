@@ -1,0 +1,49 @@
+{
+  "_id": "bd-naboth",
+  "content": [
+    {
+      "text": "The Jezreelite, murdered by Ahab for his vineyard (1 Kgs. 21); avenged (2 Kgs. 9:21, 25–26).",
+      "references": [
+        {
+          "text": "1 Kgs. 21",
+          "start": 51,
+          "end": 60,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 21,
+            "chapterId": "1kings21",
+            "verses": []
+          }
+        },
+        {
+          "text": "2 Kgs. 9:21, 25–26",
+          "start": 72,
+          "end": 90,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 9,
+            "chapterId": "2kings9",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              },
+              {
+                "start": 25,
+                "end": 26
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "naboth",
+  "title": "Naboth",
+  "type": "bd"
+}

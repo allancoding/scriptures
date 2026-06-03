@@ -1,0 +1,89 @@
+{
+  "_id": "tg-weariness",
+  "content": [
+    {
+      "text": "much study is a weariness of the flesh, Eccl. 12:12.",
+      "references": [
+        {
+          "text": "Eccl. 12:12",
+          "start": 40,
+          "end": 51,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "eccl",
+            "book": "ecclesiastes",
+            "chapter": 12,
+            "chapterId": "ecclesiastes12",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "In weariness and painfulness, in watchings often, 2 Cor. 11:27.",
+      "references": [
+        {
+          "text": "2 Cor. 11:27",
+          "start": 50,
+          "end": 62,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 11,
+            "chapterId": "2corinthians11",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "fallen by the sword … because of their weariness, Alma 56:51.",
+      "references": [
+        {
+          "text": "Alma 56:51",
+          "start": 50,
+          "end": 60,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 56,
+            "chapterId": "alma56",
+            "verses": [
+              {
+                "start": 51,
+                "end": 51
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-unwearyingness",
+      "slug": "unwearyingness",
+      "title": "Unwearyingness"
+    },
+    {
+      "entryId": "tg-weary",
+      "slug": "weary",
+      "title": "Weary"
+    }
+  ],
+  "slug": "weariness",
+  "title": "Weariness",
+  "type": "tg"
+}

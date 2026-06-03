@@ -1,0 +1,56 @@
+{
+  "_id": "index-gad",
+  "content": [
+    {
+      "text": "gave priesthood to Jeremy, D&C 84:10. received priesthood from Esaias, D&C 84:11.",
+      "references": [
+        {
+          "text": "D&C 84:10",
+          "start": 27,
+          "end": 36,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 84,
+            "chapterId": "doctrineandcovenants84",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 84:11",
+          "start": 71,
+          "end": 80,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 84,
+            "chapterId": "doctrineandcovenants84",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-gad-city-of",
+      "slug": "gad-city-of",
+      "title": "Gad, City of"
+    }
+  ],
+  "slug": "gad",
+  "title": "Gad",
+  "type": "index"
+}

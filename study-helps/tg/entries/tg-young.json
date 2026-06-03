@@ -1,0 +1,515 @@
+{
+  "_id": "tg-young",
+  "content": [
+    {
+      "text": "firstborn said unto the younger, Our father is old, Gen. 19:31. elder shall serve the younger, Gen. 25:23 (Rom. 9:12). if our youngest brother be with us, then will we go down, Gen. 44:26. his younger brother shall be greater than he, Gen. 48:19. David was the youngest, 1 Sam. 17:14. he … consulted with the young men, 1 Kgs. 12:8 (2 Chr. 10:8). their young ones shall lie down together, Isa. 11:7 (2 Ne. 21:7). gently lead those that are with young, Isa. 40:11. your young men shall see visions, Joel 2:28 (Acts 2:17). your young men have I slain, Amos 4:10.",
+      "references": [
+        {
+          "text": "Gen. 19:31",
+          "start": 52,
+          "end": 62,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 19,
+            "chapterId": "genesis19",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 25:23",
+          "start": 95,
+          "end": 105,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 25,
+            "chapterId": "genesis25",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 9:12",
+          "start": 107,
+          "end": 116,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 9,
+            "chapterId": "romans9",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 44:26",
+          "start": 177,
+          "end": 187,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 44,
+            "chapterId": "genesis44",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 48:19",
+          "start": 235,
+          "end": 245,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 48,
+            "chapterId": "genesis48",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Sam. 17:14",
+          "start": 271,
+          "end": 283,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 17,
+            "chapterId": "1samuel17",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Kgs. 12:8",
+          "start": 320,
+          "end": 331,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 12,
+            "chapterId": "1kings12",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Chr. 10:8",
+          "start": 333,
+          "end": 344,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-chr",
+            "book": "2chronicles",
+            "chapter": 10,
+            "chapterId": "2chronicles10",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 11:7",
+          "start": 389,
+          "end": 398,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 11,
+            "chapterId": "isaiah11",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 21:7",
+          "start": 400,
+          "end": 410,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 21,
+            "chapterId": "2nephi21",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 40:11",
+          "start": 452,
+          "end": 462,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 40,
+            "chapterId": "isaiah40",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Joel 2:28",
+          "start": 498,
+          "end": 507,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "joel",
+            "book": "joel",
+            "chapter": 2,
+            "chapterId": "joel2",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 2:17",
+          "start": 509,
+          "end": 518,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 2,
+            "chapterId": "acts2",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Amos 4:10",
+          "start": 550,
+          "end": 559,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "amos",
+            "book": "amos",
+            "chapter": 4,
+            "chapterId": "amos4",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "followed him a certain young man, Mark 14:51. they saw a young man sitting on the right side, Mark 16:5. younger of them said to his father, Luke 15:12. entreat … the younger men as brethren, 1 Tim. 5:1. younger widows refuse, 1 Tim. 5:11. teach the young women to be sober, Titus 2:4. ye younger, submit yourselves unto the elder, 1 Pet. 5:5.",
+      "references": [
+        {
+          "text": "Mark 14:51",
+          "start": 34,
+          "end": 44,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 14,
+            "chapterId": "mark14",
+            "verses": [
+              {
+                "start": 51,
+                "end": 51
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 16:5",
+          "start": 94,
+          "end": 103,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 16,
+            "chapterId": "mark16",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 15:12",
+          "start": 141,
+          "end": 151,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 15,
+            "chapterId": "luke15",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Tim. 5:1",
+          "start": 192,
+          "end": 202,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 5,
+            "chapterId": "1timothy5",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Tim. 5:11",
+          "start": 227,
+          "end": 238,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 5,
+            "chapterId": "1timothy5",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Titus 2:4",
+          "start": 275,
+          "end": 284,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "titus",
+            "book": "titus",
+            "chapter": 2,
+            "chapterId": "titus2",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Pet. 5:5",
+          "start": 332,
+          "end": 342,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-pet",
+            "book": "1peter",
+            "chapter": 5,
+            "chapterId": "1peter5",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "ye have need that I, your younger brother, should speak unto you, 1 Ne. 7:8. pitched their tents … from the eldest down to the youngest, Mosiah 2:5. two thousand of those young men, Alma 53:18. were all of them very young, Alma 56:46.",
+      "references": [
+        {
+          "text": "1 Ne. 7:8",
+          "start": 66,
+          "end": 75,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 7,
+            "chapterId": "1nephi7",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 2:5",
+          "start": 137,
+          "end": 147,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 2,
+            "chapterId": "mosiah2",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 53:18",
+          "start": 182,
+          "end": 192,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 53,
+            "chapterId": "alma53",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 56:46",
+          "start": 223,
+          "end": 233,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 56,
+            "chapterId": "alma56",
+            "verses": [
+              {
+                "start": 46,
+                "end": 46
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Call upon the nations to repent, both old and young, D&C 43:20. strength of my house, even my warriors, my young men, D&C 105:16.",
+      "references": [
+        {
+          "text": "D&C 43:20",
+          "start": 53,
+          "end": 62,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 43,
+            "chapterId": "doctrineandcovenants43",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 105:16",
+          "start": 118,
+          "end": 128,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 105,
+            "chapterId": "doctrineandcovenants105",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "young",
+  "title": "Young, Younger, Youngest",
+  "type": "tg"
+}

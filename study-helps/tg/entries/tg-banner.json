@@ -1,0 +1,68 @@
+{
+  "_id": "tg-banner",
+  "content": [
+    {
+      "text": "in the name of our God we will set up our banners, Ps. 20:5. Thou hast given a banner to them that fear thee, Ps. 60:4. Lift ye up a banner upon the high mountain, Isa. 13:2.",
+      "references": [
+        {
+          "text": "Ps. 20:5",
+          "start": 51,
+          "end": 59,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 20,
+            "chapterId": "psalms20",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 60:4",
+          "start": 110,
+          "end": 118,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 60,
+            "chapterId": "psalms60",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 13:2",
+          "start": 164,
+          "end": 173,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 13,
+            "chapterId": "isaiah13",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "banner",
+  "title": "Banner",
+  "type": "tg"
+}

@@ -1,0 +1,79 @@
+{
+  "_id": "index-dry",
+  "content": [
+    {
+      "text": "at his rebuke the Lord dries up sea, D&C 133:68.",
+      "references": [
+        {
+          "text": "D&C 133:68",
+          "start": 37,
+          "end": 47,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 133,
+            "chapterId": "doctrineandcovenants133",
+            "verses": [
+              {
+                "start": 68,
+                "end": 68
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "creation of dry land, Moses 2:9–10 (Abr. 4:9–10).",
+      "references": [
+        {
+          "text": "Moses 2:9–10",
+          "start": 22,
+          "end": 34,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 2,
+            "chapterId": "moses2",
+            "verses": [
+              {
+                "start": 9,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Abr. 4:9–10",
+          "start": 36,
+          "end": 47,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 4,
+            "chapterId": "abraham4",
+            "verses": [
+              {
+                "start": 9,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-ground",
+      "slug": "ground",
+      "title": "Ground"
+    }
+  ],
+  "slug": "dry",
+  "title": "Dry",
+  "type": "index"
+}

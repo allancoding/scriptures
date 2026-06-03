@@ -1,0 +1,192 @@
+{
+  "_id": "index-lion",
+  "content": [
+    {
+      "text": "lion shall eat straw like ox, 2 Ne. 21:7 (30:13; Isa. 11:7). they fought like lions for their prey, Mosiah 20:10. house of Jacob shall be among Gentiles as lion among beasts of forest, 3 Ne. 20:16 (21:12; Morm. 5:24; Micah 5:8).",
+      "references": [
+        {
+          "text": "2 Ne. 21:7",
+          "start": 30,
+          "end": 40,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 21,
+            "chapterId": "2nephi21",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "30:13",
+          "start": 42,
+          "end": 47,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 30,
+            "chapterId": "2nephi30",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 11:7",
+          "start": 49,
+          "end": 58,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 11,
+            "chapterId": "isaiah11",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 20:10",
+          "start": 100,
+          "end": 112,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 20,
+            "chapterId": "mosiah20",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 20:16",
+          "start": 185,
+          "end": 196,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 20,
+            "chapterId": "3nephi20",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "21:12",
+          "start": 198,
+          "end": 203,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 21,
+            "chapterId": "3nephi21",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 5:24",
+          "start": 205,
+          "end": 215,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 5,
+            "chapterId": "mormon5",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Micah 5:8",
+          "start": 217,
+          "end": 226,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "micah",
+            "book": "micah",
+            "chapter": 5,
+            "chapterId": "micah5",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "roar of lions is heard out of wilderness, Moses 7:13.",
+      "references": [
+        {
+          "text": "Moses 7:13",
+          "start": 42,
+          "end": 52,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 7,
+            "chapterId": "moses7",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-animal",
+      "slug": "animal",
+      "title": "Animal"
+    },
+    {
+      "entryId": "index-beast",
+      "slug": "beast",
+      "title": "Beast"
+    }
+  ],
+  "slug": "lion",
+  "title": "Lion",
+  "type": "index"
+}

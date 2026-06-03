@@ -1,0 +1,68 @@
+{
+  "_id": "bd-tabret",
+  "content": [
+    {
+      "text": "A kind of tambourine (Gen. 31:27; Job 17:6; Isa. 5:12).",
+      "references": [
+        {
+          "text": "Gen. 31:27",
+          "start": 22,
+          "end": 32,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 31,
+            "chapterId": "genesis31",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Job 17:6",
+          "start": 34,
+          "end": 42,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "job",
+            "book": "job",
+            "chapter": 17,
+            "chapterId": "job17",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 5:12",
+          "start": 44,
+          "end": 53,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 5,
+            "chapterId": "isaiah5",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "tabret",
+  "title": "Tabret",
+  "type": "bd"
+}

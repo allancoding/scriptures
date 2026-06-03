@@ -1,0 +1,130 @@
+{
+  "_id": "index-devour",
+  "content": [
+    {
+      "text": "shepherd watches flocks, that wolf does not devour, Alma 5:59. Nephites devour human flesh like wild beasts, Moro. 9:10.",
+      "references": [
+        {
+          "text": "Alma 5:59",
+          "start": 52,
+          "end": 61,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 5,
+            "chapterId": "alma5",
+            "verses": [
+              {
+                "start": 59,
+                "end": 59
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moro. 9:10",
+          "start": 109,
+          "end": 119,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "moro",
+            "book": "moroni",
+            "chapter": 9,
+            "chapterId": "moroni9",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "beasts shall devour wicked, D&C 29:20. great and abominable church to be cast down by devouring fire, D&C 29:21. if Zion disobeys, the Lord will visit her with devouring fire, D&C 97:26.",
+      "references": [
+        {
+          "text": "D&C 29:20",
+          "start": 28,
+          "end": 37,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 29,
+            "chapterId": "doctrineandcovenants29",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 29:21",
+          "start": 102,
+          "end": 111,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 29,
+            "chapterId": "doctrineandcovenants29",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 97:26",
+          "start": 176,
+          "end": 185,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 97,
+            "chapterId": "doctrineandcovenants97",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-burn",
+      "slug": "burn",
+      "title": "Burn"
+    },
+    {
+      "entryId": "index-consume",
+      "slug": "consume",
+      "title": "Consume"
+    },
+    {
+      "entryId": "index-eat",
+      "slug": "eat",
+      "title": "Eat"
+    },
+    {
+      "entryId": "index-fire",
+      "slug": "fire",
+      "title": "Fire"
+    }
+  ],
+  "slug": "devour",
+  "title": "Devour",
+  "type": "index"
+}

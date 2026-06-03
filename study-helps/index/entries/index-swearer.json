@@ -1,0 +1,50 @@
+{
+  "_id": "index-swearer",
+  "content": [
+    {
+      "text": "the Lord will be swift witness against false swearers, 3 Ne. 24:5 (Mal. 3:5).",
+      "references": [
+        {
+          "text": "3 Ne. 24:5",
+          "start": 55,
+          "end": 65,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 24,
+            "chapterId": "3nephi24",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mal. 3:5",
+          "start": 67,
+          "end": 75,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "mal",
+            "book": "malachi",
+            "chapter": 3,
+            "chapterId": "malachi3",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "swearer",
+  "title": "Swearer",
+  "type": "index"
+}

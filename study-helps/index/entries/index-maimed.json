@@ -1,0 +1,43 @@
+{
+  "_id": "index-maimed",
+  "content": [
+    {
+      "text": "Christ asks that maimed be brought to him, 3 Ne. 17:7.",
+      "references": [
+        {
+          "text": "3 Ne. 17:7",
+          "start": 43,
+          "end": 53,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 17,
+            "chapterId": "3nephi17",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-heal",
+      "slug": "heal",
+      "title": "Heal"
+    },
+    {
+      "entryId": "index-hurt",
+      "slug": "hurt",
+      "title": "Hurt"
+    }
+  ],
+  "slug": "maimed",
+  "title": "Maimed",
+  "type": "index"
+}

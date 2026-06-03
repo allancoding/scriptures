@@ -1,0 +1,50 @@
+{
+  "_id": "index-excellent",
+  "content": [
+    {
+      "text": "God prepared more excellent way, Ether 12:11. in the Father’s mansions, man may have more excellent hope, Ether 12:32.",
+      "references": [
+        {
+          "text": "Ether 12:11",
+          "start": 33,
+          "end": 44,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 12,
+            "chapterId": "ether12",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 12:32",
+          "start": 106,
+          "end": 117,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 12,
+            "chapterId": "ether12",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "excellent",
+  "title": "Excellent",
+  "type": "index"
+}

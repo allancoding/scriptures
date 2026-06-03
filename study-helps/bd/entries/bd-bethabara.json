@@ -1,0 +1,50 @@
+{
+  "_id": "bd-bethabara",
+  "content": [
+    {
+      "text": "Place of fording. A place where John baptized in the Jordan River, the exact site of which is unknown today, although traditionally it is near Jericho. It was at this location that John baptized Jesus, beheld the Holy Ghost descend in the sign of a dove, and was interviewed by a delegation of priests and Levites from Jerusalem (John 1:19–34; 1 Ne. 10:7–10). Compare JST John 1:34 (Appendix), which indicates that all of the above events were done at Bethabara, whereas the KJV leaves the matter in question.",
+      "references": [
+        {
+          "text": "John 1:19–34",
+          "start": 330,
+          "end": 342,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 1,
+            "chapterId": "john1",
+            "verses": [
+              {
+                "start": 19,
+                "end": 34
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Ne. 10:7–10",
+          "start": 344,
+          "end": 357,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 10,
+            "chapterId": "1nephi10",
+            "verses": [
+              {
+                "start": 7,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "bethabara",
+  "title": "Bethabara",
+  "type": "bd"
+}

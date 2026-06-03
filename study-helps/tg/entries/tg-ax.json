@@ -1,0 +1,91 @@
+{
+  "_id": "tg-ax",
+  "content": [
+    {
+      "text": "axe head fell into the water, 2 Kgs. 6:5. axe boast itself against him that heweth, Isa. 10:15.",
+      "references": [
+        {
+          "text": "2 Kgs. 6:5",
+          "start": 30,
+          "end": 40,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 6,
+            "chapterId": "2kings6",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 10:15",
+          "start": 84,
+          "end": 94,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 10,
+            "chapterId": "isaiah10",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "axe is laid unto the root of the trees, Matt. 3:10 (Luke 3:9).",
+      "references": [
+        {
+          "text": "Matt. 3:10",
+          "start": 40,
+          "end": 50,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 3,
+            "chapterId": "matthew3",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 3:9",
+          "start": 52,
+          "end": 60,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 3,
+            "chapterId": "luke3",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "ax",
+  "title": "Ax, Axe",
+  "type": "tg"
+}

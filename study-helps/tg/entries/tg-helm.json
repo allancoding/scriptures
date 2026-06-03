@@ -1,0 +1,55 @@
+{
+  "_id": "tg-helm",
+  "content": [
+    {
+      "text": "are they turned about with a very small helm, James 3:4.",
+      "references": [
+        {
+          "text": "James 3:4",
+          "start": 46,
+          "end": 55,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "james",
+            "book": "james",
+            "chapter": 3,
+            "chapterId": "james3",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "large ship is benefited … by a very small helm, D&C 123:16.",
+      "references": [
+        {
+          "text": "D&C 123:16",
+          "start": 48,
+          "end": 58,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 123,
+            "chapterId": "doctrineandcovenants123",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "helm",
+  "title": "Helm",
+  "type": "tg"
+}

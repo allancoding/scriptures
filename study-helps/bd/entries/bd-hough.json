@@ -1,0 +1,50 @@
+{
+  "_id": "bd-hough",
+  "content": [
+    {
+      "text": "To cut the houghs or hamstrings of animals so as to disable them (Josh. 11:6; 2 Sam. 8:4).",
+      "references": [
+        {
+          "text": "Josh. 11:6",
+          "start": 66,
+          "end": 76,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "josh",
+            "book": "joshua",
+            "chapter": 11,
+            "chapterId": "joshua11",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Sam. 8:4",
+          "start": 78,
+          "end": 88,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-sam",
+            "book": "2samuel",
+            "chapter": 8,
+            "chapterId": "2samuel8",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "hough",
+  "title": "Hough",
+  "type": "bd"
+}

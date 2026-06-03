@@ -1,0 +1,36 @@
+{
+  "_id": "index-lot",
+  "content": [
+    {
+      "text": "son of Abraham’s brother, travels to Canaan with Abraham, Abr. 2:4, 6.",
+      "references": [
+        {
+          "text": "Abr. 2:4, 6",
+          "start": 58,
+          "end": 69,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 2,
+            "chapterId": "abraham2",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              },
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "lot",
+  "title": "Lot—Abraham’s nephew",
+  "type": "index"
+}

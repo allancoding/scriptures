@@ -1,0 +1,91 @@
+{
+  "_id": "tg-wayside",
+  "content": [
+    {
+      "text": "some seeds fell by the way side, Matt. 13:4 (Mark 4:4; Luke 8:5).",
+      "references": [
+        {
+          "text": "Matt. 13:4",
+          "start": 33,
+          "end": 43,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 13,
+            "chapterId": "matthew13",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 4:4",
+          "start": 45,
+          "end": 53,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 4,
+            "chapterId": "mark4",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 8:5",
+          "start": 55,
+          "end": 63,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 8,
+            "chapterId": "luke8",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "cleansing your feet by the wayside, D&C 24:15.",
+      "references": [
+        {
+          "text": "D&C 24:15",
+          "start": 36,
+          "end": 45,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 24,
+            "chapterId": "doctrineandcovenants24",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "wayside",
+  "title": "Wayside",
+  "type": "tg"
+}

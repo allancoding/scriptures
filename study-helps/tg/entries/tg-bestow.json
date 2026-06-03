@@ -1,0 +1,96 @@
+{
+  "_id": "tg-bestow",
+  "content": [
+    {
+      "text": "he may bestow upon you a blessing this day, Ex. 32:29.",
+      "references": [
+        {
+          "text": "Ex. 32:29",
+          "start": 44,
+          "end": 53,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 32,
+            "chapterId": "exodus32",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "though I bestow all my goods to feed the poor, 1 Cor. 13:3. what manner of love the Father hath bestowed, 1 Jn. 3:1.",
+      "references": [
+        {
+          "text": "1 Cor. 13:3",
+          "start": 47,
+          "end": 58,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 13,
+            "chapterId": "1corinthians13",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Jn. 3:1",
+          "start": 106,
+          "end": 115,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-jn",
+            "book": "1john",
+            "chapter": 3,
+            "chapterId": "1john3",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "I will bestow the gift of the Holy Ghost, D&C 33:15.",
+      "references": [
+        {
+          "text": "D&C 33:15",
+          "start": 42,
+          "end": 51,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 33,
+            "chapterId": "doctrineandcovenants33",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "bestow",
+  "title": "Bestow",
+  "type": "tg"
+}

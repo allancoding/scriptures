@@ -1,0 +1,50 @@
+{
+  "_id": "index-handmaid",
+  "content": [
+    {
+      "text": "Vienna Jaques is addressed as handmaid, D&C 90:28. Emma Smith is addressed as handmaid, D&C 132:51.",
+      "references": [
+        {
+          "text": "D&C 90:28",
+          "start": 40,
+          "end": 49,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 90,
+            "chapterId": "doctrineandcovenants90",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 132:51",
+          "start": 88,
+          "end": 98,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 132,
+            "chapterId": "doctrineandcovenants132",
+            "verses": [
+              {
+                "start": 51,
+                "end": 51
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "handmaid",
+  "title": "Handmaid",
+  "type": "index"
+}

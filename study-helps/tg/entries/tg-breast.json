@@ -1,0 +1,86 @@
+{
+  "_id": "tg-breast",
+  "content": [
+    {
+      "text": "the publican … smote upon his breast, Luke 18:13. the people … smote their breasts, Luke 23:48. He then lying on Jesus’ breast, John 13:25 (21:20).",
+      "references": [
+        {
+          "text": "Luke 18:13",
+          "start": 38,
+          "end": 48,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 18,
+            "chapterId": "luke18",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 23:48",
+          "start": 84,
+          "end": 94,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 23,
+            "chapterId": "luke23",
+            "verses": [
+              {
+                "start": 48,
+                "end": 48
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 13:25",
+          "start": 128,
+          "end": 138,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 13,
+            "chapterId": "john13",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "21:20",
+          "start": 140,
+          "end": 145,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 21,
+            "chapterId": "john21",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "breast",
+  "title": "Breast",
+  "type": "tg"
+}

@@ -1,0 +1,225 @@
+{
+  "_id": "tg-book-of-remembrance",
+  "content": [
+    {
+      "text": "sought their register among those that were reckoned by genealogy, Ezra 2:62 (Neh. 7:5). book of remembrance was written, Mal. 3:16 (3 Ne. 24:16).",
+      "references": [
+        {
+          "text": "Ezra 2:62",
+          "start": 67,
+          "end": 76,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezra",
+            "book": "ezra",
+            "chapter": 2,
+            "chapterId": "ezra2",
+            "verses": [
+              {
+                "start": 62,
+                "end": 62
+              }
+            ]
+          }
+        },
+        {
+          "text": "Neh. 7:5",
+          "start": 78,
+          "end": 86,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "neh",
+            "book": "nehemiah",
+            "chapter": 7,
+            "chapterId": "nehemiah7",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mal. 3:16",
+          "start": 122,
+          "end": 131,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "mal",
+            "book": "malachi",
+            "chapter": 3,
+            "chapterId": "malachi3",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 24:16",
+          "start": 133,
+          "end": 144,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 24,
+            "chapterId": "3nephi24",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "plates of brass a genealogy of his fathers, 1 Ne. 5:14.",
+      "references": [
+        {
+          "text": "1 Ne. 5:14",
+          "start": 44,
+          "end": 54,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 5,
+            "chapterId": "1nephi5",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "who are not found written in the book of remembrance, D&C 85:9. book containing the records of our dead, D&C 128:24.",
+      "references": [
+        {
+          "text": "D&C 85:9",
+          "start": 54,
+          "end": 62,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 85,
+            "chapterId": "doctrineandcovenants85",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 128:24",
+          "start": 105,
+          "end": 115,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 128,
+            "chapterId": "doctrineandcovenants128",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "book of remembrance was kept, Moses 6:5. book of remembrance we have written, Moses 6:46. I shall endeavor to write … this record, for … my posterity, Abr. 1:31.",
+      "references": [
+        {
+          "text": "Moses 6:5",
+          "start": 30,
+          "end": 39,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 6,
+            "chapterId": "moses6",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 6:46",
+          "start": 78,
+          "end": 88,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 6,
+            "chapterId": "moses6",
+            "verses": [
+              {
+                "start": 46,
+                "end": 46
+              }
+            ]
+          }
+        },
+        {
+          "text": "Abr. 1:31",
+          "start": 151,
+          "end": 160,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 1,
+            "chapterId": "abraham1",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-book-of-life",
+      "slug": "book-of-life",
+      "title": "Book of Life"
+    },
+    {
+      "entryId": "tg-genealogy-and-temple-work",
+      "slug": "genealogy-and-temple-work",
+      "title": "Genealogy and Temple Work"
+    },
+    {
+      "entryId": "tg-record-keeping",
+      "slug": "record-keeping",
+      "title": "Record Keeping"
+    }
+  ],
+  "slug": "book-of-remembrance",
+  "title": "Book of Remembrance",
+  "type": "tg"
+}

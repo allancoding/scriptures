@@ -1,0 +1,55 @@
+{
+  "_id": "tg-visible",
+  "content": [
+    {
+      "text": "by him were all things created … visible and invisible, Col. 1:16.",
+      "references": [
+        {
+          "text": "Col. 1:16",
+          "start": 56,
+          "end": 65,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "col",
+            "book": "colossians",
+            "chapter": 1,
+            "chapterId": "colossians1",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "he beheld also things which were not visible to the natural eye, Moses 6:36.",
+      "references": [
+        {
+          "text": "Moses 6:36",
+          "start": 65,
+          "end": 75,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 6,
+            "chapterId": "moses6",
+            "verses": [
+              {
+                "start": 36,
+                "end": 36
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "visible",
+  "title": "Visible",
+  "type": "tg"
+}

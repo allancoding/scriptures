@@ -1,0 +1,174 @@
+{
+  "_id": "tg-courtesy",
+  "content": [
+    {
+      "text": "he ran to meet them … and bowed himself, Gen. 18:2. bowed himself to the ground, Gen. 33:3. honour the face of the old, Lev. 19:32.",
+      "references": [
+        {
+          "text": "Gen. 18:2",
+          "start": 41,
+          "end": 50,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 18,
+            "chapterId": "genesis18",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 33:3",
+          "start": 81,
+          "end": 90,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 33,
+            "chapterId": "genesis33",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Lev. 19:32",
+          "start": 120,
+          "end": 130,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 19,
+            "chapterId": "leviticus19",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "whatsoever ye would that men should do to you, do ye … to them, Matt. 7:12 (3 Ne. 14:12). I … have washed your feet; ye also ought to wash one, John 13:14. lodged us three days courteously, Acts 28:7. be courteous, 1 Pet. 3:8.",
+      "references": [
+        {
+          "text": "Matt. 7:12",
+          "start": 64,
+          "end": 74,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 7,
+            "chapterId": "matthew7",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 14:12",
+          "start": 76,
+          "end": 87,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 14,
+            "chapterId": "3nephi14",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 13:14",
+          "start": 144,
+          "end": 154,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 13,
+            "chapterId": "john13",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 28:7",
+          "start": 190,
+          "end": 199,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 28,
+            "chapterId": "acts28",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Pet. 3:8",
+          "start": 215,
+          "end": 225,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-pet",
+            "book": "1peter",
+            "chapter": 3,
+            "chapterId": "1peter3",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-kindness",
+      "slug": "kindness",
+      "title": "Kindness"
+    },
+    {
+      "entryId": "tg-reverence",
+      "slug": "reverence",
+      "title": "Reverence"
+    }
+  ],
+  "slug": "courtesy",
+  "title": "Courtesy",
+  "type": "tg"
+}

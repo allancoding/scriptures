@@ -1,0 +1,192 @@
+{
+  "_id": "tg-storehouse",
+  "content": [
+    {
+      "text": "Joseph opened all the storehouses, Gen. 41:56. Bring ye all the tithes into the storehouse, Mal. 3:10 (3 Ne. 24:10).",
+      "references": [
+        {
+          "text": "Gen. 41:56",
+          "start": 35,
+          "end": 45,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 41,
+            "chapterId": "genesis41",
+            "verses": [
+              {
+                "start": 56,
+                "end": 56
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mal. 3:10",
+          "start": 92,
+          "end": 101,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "mal",
+            "book": "malachi",
+            "chapter": 3,
+            "chapterId": "malachi3",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 24:10",
+          "start": 103,
+          "end": 114,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 24,
+            "chapterId": "3nephi24",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "neither have storehouse nor barn; and God feedeth them, Luke 12:24.",
+      "references": [
+        {
+          "text": "Luke 12:24",
+          "start": 56,
+          "end": 66,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 12,
+            "chapterId": "luke12",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "residue shall be kept in my storehouse, D&C 42:34. let the bishop appoint a storehouse, D&C 51:13. agent who keepeth the Lord’s storehouse, D&C 70:11. keep the Lord’s storehouse; to receive the funds, D&C 72:10. they have claim upon … Lord’s storehouse, D&C 83:5.",
+      "references": [
+        {
+          "text": "D&C 42:34",
+          "start": 40,
+          "end": 49,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 42,
+            "chapterId": "doctrineandcovenants42",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 51:13",
+          "start": 88,
+          "end": 97,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 51,
+            "chapterId": "doctrineandcovenants51",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 70:11",
+          "start": 140,
+          "end": 149,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 70,
+            "chapterId": "doctrineandcovenants70",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 72:10",
+          "start": 201,
+          "end": 210,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 72,
+            "chapterId": "doctrineandcovenants72",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 83:5",
+          "start": 254,
+          "end": 262,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 83,
+            "chapterId": "doctrineandcovenants83",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-store",
+      "slug": "store",
+      "title": "Store"
+    }
+  ],
+  "slug": "storehouse",
+  "title": "Storehouse",
+  "type": "tg"
+}

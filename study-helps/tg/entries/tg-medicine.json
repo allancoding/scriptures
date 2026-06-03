@@ -1,0 +1,50 @@
+{
+  "_id": "tg-medicine",
+  "content": [
+    {
+      "text": "merry heart doeth good like a medicine, Prov. 17:22. leaf thereof for medicine, Ezek. 47:12.",
+      "references": [
+        {
+          "text": "Prov. 17:22",
+          "start": 40,
+          "end": 51,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 17,
+            "chapterId": "proverbs17",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 47:12",
+          "start": 80,
+          "end": 91,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 47,
+            "chapterId": "ezekiel47",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "medicine",
+  "title": "Medicine",
+  "type": "tg"
+}

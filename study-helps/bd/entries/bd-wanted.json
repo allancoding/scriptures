@@ -1,0 +1,68 @@
+{
+  "_id": "bd-wanted",
+  "content": [
+    {
+      "text": "Lacked or a state of being absent (Prov. 10:19; Jer. 33:17; John 2:3).",
+      "references": [
+        {
+          "text": "Prov. 10:19",
+          "start": 35,
+          "end": 46,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 10,
+            "chapterId": "proverbs10",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 33:17",
+          "start": 48,
+          "end": 58,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 33,
+            "chapterId": "jeremiah33",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 2:3",
+          "start": 60,
+          "end": 68,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 2,
+            "chapterId": "john2",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "wanted",
+  "title": "Wanted",
+  "type": "bd"
+}

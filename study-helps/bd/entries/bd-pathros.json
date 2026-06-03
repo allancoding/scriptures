@@ -1,0 +1,90 @@
+{
+  "_id": "bd-pathros",
+  "content": [
+    {
+      "text": "Upper Egypt. (Isa. 11:11; Jer. 44:1, 15; Ezek. 29:14; 30:14.)",
+      "references": [
+        {
+          "text": "Isa. 11:11",
+          "start": 14,
+          "end": 24,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 11,
+            "chapterId": "isaiah11",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 44:1, 15",
+          "start": 26,
+          "end": 39,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 44,
+            "chapterId": "jeremiah44",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              },
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 29:14",
+          "start": 41,
+          "end": 52,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 29,
+            "chapterId": "ezekiel29",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "30:14",
+          "start": 54,
+          "end": 59,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 30,
+            "chapterId": "ezekiel30",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "pathros",
+  "title": "Pathros",
+  "type": "bd"
+}

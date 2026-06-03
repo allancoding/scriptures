@@ -1,0 +1,73 @@
+{
+  "_id": "tg-retire",
+  "content": [
+    {
+      "text": "retire to thy bed early, D&C 88:124.",
+      "references": [
+        {
+          "text": "D&C 88:124",
+          "start": 25,
+          "end": 35,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 124,
+                "end": 124
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "I retired to the woods, JS—H 1:14. after I had retired to my bed for the night, JS—H 1:29.",
+      "references": [
+        {
+          "text": "JS—H 1:14",
+          "start": 24,
+          "end": 33,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "JS—H 1:29",
+          "start": 80,
+          "end": 89,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "retire",
+  "title": "Retire",
+  "type": "tg"
+}

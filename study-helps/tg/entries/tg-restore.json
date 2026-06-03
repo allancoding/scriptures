@@ -1,0 +1,711 @@
+{
+  "_id": "tg-restore",
+  "content": [
+    {
+      "text": "restore the man his wife, Gen. 20:7. to restore every man’s money into his sack, Gen. 42:25. he shall restore five oxen for an ox, Ex. 22:1. If the theft be certainly found … he shall restore double, Ex. 22:4. he shall restore that which he took violently, Lev. 6:4. killeth a beast, he shall restore it, Lev. 24:21. if he be not able to restore it to him, Lev. 25:28. thy brother seek after it, and thou shalt restore it to him, Deut. 22:2. Restore all that was hers, 2 Kgs. 8:6. He restoreth my soul, Ps. 23:3. if he be found, he shall restore sevenfold, Prov. 6:31. I will restore thy judges as at the first, Isa. 1:26. I will restore health unto thee, Jer. 30:17. If the wicked restore the pledge, Ezek. 33:15. commandment to restore and to build Jerusalem, Dan. 9:25. I will restore to you the years that the locust hath eaten, Joel 2:25.",
+      "references": [
+        {
+          "text": "Gen. 20:7",
+          "start": 26,
+          "end": 35,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 20,
+            "chapterId": "genesis20",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 42:25",
+          "start": 81,
+          "end": 91,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 42,
+            "chapterId": "genesis42",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 22:1",
+          "start": 131,
+          "end": 139,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 22,
+            "chapterId": "exodus22",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 22:4",
+          "start": 200,
+          "end": 208,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 22,
+            "chapterId": "exodus22",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Lev. 6:4",
+          "start": 257,
+          "end": 265,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 6,
+            "chapterId": "leviticus6",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Lev. 24:21",
+          "start": 305,
+          "end": 315,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 24,
+            "chapterId": "leviticus24",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Lev. 25:28",
+          "start": 357,
+          "end": 367,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 25,
+            "chapterId": "leviticus25",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 22:2",
+          "start": 430,
+          "end": 440,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 22,
+            "chapterId": "deuteronomy22",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Kgs. 8:6",
+          "start": 469,
+          "end": 479,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 8,
+            "chapterId": "2kings8",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 23:3",
+          "start": 503,
+          "end": 511,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 23,
+            "chapterId": "psalms23",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 6:31",
+          "start": 557,
+          "end": 567,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 6,
+            "chapterId": "proverbs6",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 1:26",
+          "start": 612,
+          "end": 621,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 1,
+            "chapterId": "isaiah1",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 30:17",
+          "start": 656,
+          "end": 666,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 30,
+            "chapterId": "jeremiah30",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 33:15",
+          "start": 702,
+          "end": 713,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 33,
+            "chapterId": "ezekiel33",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 9:25",
+          "start": 762,
+          "end": 771,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 9,
+            "chapterId": "daniel9",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Joel 2:25",
+          "start": 833,
+          "end": 842,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "joel",
+            "book": "joel",
+            "chapter": 2,
+            "chapterId": "joel2",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "hand … was restored whole, Matt. 12:13 (Mark 3:5; Luke 6:10). if I have taken any thing … I restore him fourfold, Luke 19:8. wilt thou at this time restore again the kingdom, Acts 1:6. restore such an one in the spirit of meekness, Gal. 6:1.",
+      "references": [
+        {
+          "text": "Matt. 12:13",
+          "start": 27,
+          "end": 38,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 12,
+            "chapterId": "matthew12",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 3:5",
+          "start": 40,
+          "end": 48,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 3,
+            "chapterId": "mark3",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 6:10",
+          "start": 50,
+          "end": 59,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 6,
+            "chapterId": "luke6",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 19:8",
+          "start": 114,
+          "end": 123,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 19,
+            "chapterId": "luke19",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 1:6",
+          "start": 175,
+          "end": 183,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 1,
+            "chapterId": "acts1",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gal. 6:1",
+          "start": 232,
+          "end": 240,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "gal",
+            "book": "galatians",
+            "chapter": 6,
+            "chapterId": "galatians6",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "to restore the preserved of Israel, 1 Ne. 21:6. bodies and the spirits of men will be restored, 2 Ne. 9:12. peace and the love of God was restored, Jacob 7:23. strugglings were vain in restoring them to the true faith, Enos 1:14. every thing shall be restored to its perfect frame, Alma 11:44. soul shall be restored to the body, Alma 40:23. all things shall be restored to their proper order, Alma 41:4. Do not suppose … that ye shall be restored from sin to happiness, Alma 41:10. ye shall have mercy restored unto you, Alma 41:14. they are restored into his presence, Alma 42:23. men … might be restored unto grace for grace, Hel. 12:24. ye can do good and be restored unto that which is good, Hel. 14:31.",
+      "references": [
+        {
+          "text": "1 Ne. 21:6",
+          "start": 36,
+          "end": 46,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 21,
+            "chapterId": "1nephi21",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 9:12",
+          "start": 96,
+          "end": 106,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 9,
+            "chapterId": "2nephi9",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jacob 7:23",
+          "start": 148,
+          "end": 158,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 7,
+            "chapterId": "jacob7",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Enos 1:14",
+          "start": 219,
+          "end": 228,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "enos",
+            "book": "enos",
+            "chapter": 1,
+            "chapterId": "enos1",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 11:44",
+          "start": 282,
+          "end": 292,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 11,
+            "chapterId": "alma11",
+            "verses": [
+              {
+                "start": 44,
+                "end": 44
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 40:23",
+          "start": 330,
+          "end": 340,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 40,
+            "chapterId": "alma40",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 41:4",
+          "start": 394,
+          "end": 403,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 41,
+            "chapterId": "alma41",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 41:10",
+          "start": 471,
+          "end": 481,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 41,
+            "chapterId": "alma41",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 41:14",
+          "start": 522,
+          "end": 532,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 41,
+            "chapterId": "alma41",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 42:23",
+          "start": 571,
+          "end": 581,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 42,
+            "chapterId": "alma42",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 12:24",
+          "start": 629,
+          "end": 639,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 12,
+            "chapterId": "helaman12",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 14:31",
+          "start": 697,
+          "end": 707,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 14,
+            "chapterId": "helaman14",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "restore four-fold for all their trespasses, D&C 98:47. restored to the blessings which thou hast ordained, D&C 109:21. thou shalt restore that which thou hast borrowed, D&C 136:25.",
+      "references": [
+        {
+          "text": "D&C 98:47",
+          "start": 44,
+          "end": 53,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 98,
+            "chapterId": "doctrineandcovenants98",
+            "verses": [
+              {
+                "start": 47,
+                "end": 47
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 109:21",
+          "start": 107,
+          "end": 117,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 109,
+            "chapterId": "doctrineandcovenants109",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 136:25",
+          "start": 169,
+          "end": 179,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 136,
+            "chapterId": "doctrineandcovenants136",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-israel-restoration-of",
+      "slug": "israel-restoration-of",
+      "title": "Israel, Restoration of"
+    },
+    {
+      "entryId": "tg-restoration",
+      "slug": "restoration",
+      "title": "Restoration"
+    },
+    {
+      "entryId": "tg-restoration-of-the-gospel",
+      "slug": "restoration-of-the-gospel",
+      "title": "Restoration of the Gospel"
+    }
+  ],
+  "slug": "restore",
+  "title": "Restore",
+  "type": "tg"
+}

@@ -1,0 +1,109 @@
+{
+  "_id": "tg-defraud",
+  "content": [
+    {
+      "text": "Thou shalt not defraud thy neighbour, Lev. 19:13. whom have I defrauded, 1 Sam. 12:3.",
+      "references": [
+        {
+          "text": "Lev. 19:13",
+          "start": 38,
+          "end": 48,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 19,
+            "chapterId": "leviticus19",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Sam. 12:3",
+          "start": 73,
+          "end": 84,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 12,
+            "chapterId": "1samuel12",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Do not bear false witness, Defraud not, Mark 10:19. rather suffer yourselves to be defrauded, 1 Cor. 6:7. Defraud ye not one the other, 1 Cor. 7:5.",
+      "references": [
+        {
+          "text": "Mark 10:19",
+          "start": 40,
+          "end": 50,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 10,
+            "chapterId": "mark10",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 6:7",
+          "start": 94,
+          "end": 104,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 6,
+            "chapterId": "1corinthians6",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 7:5",
+          "start": 136,
+          "end": 146,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 7,
+            "chapterId": "1corinthians7",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "defraud",
+  "title": "Defraud",
+  "type": "tg"
+}

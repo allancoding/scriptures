@@ -1,0 +1,38 @@
+{
+  "_id": "tg-demand",
+  "content": [
+    {
+      "text": "he demanded of them where Christ should be born, Matt. 2:4.",
+      "references": [
+        {
+          "text": "Matt. 2:4",
+          "start": 49,
+          "end": 58,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 2,
+            "chapterId": "matthew2",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-require",
+      "slug": "require",
+      "title": "Require"
+    }
+  ],
+  "slug": "demand",
+  "title": "Demand",
+  "type": "tg"
+}

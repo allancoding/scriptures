@@ -1,0 +1,84 @@
+{
+  "_id": "tg-quarrel",
+  "content": [
+    {
+      "text": "Herodias had a quarrel against him, Mark 6:19. if any man have a quarrel against any, Col. 3:13.",
+      "references": [
+        {
+          "text": "Mark 6:19",
+          "start": 36,
+          "end": 45,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 6,
+            "chapterId": "mark6",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Col. 3:13",
+          "start": 86,
+          "end": 95,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "col",
+            "book": "colossians",
+            "chapter": 3,
+            "chapterId": "colossians3",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "not suffer your children that they … fight and quarrel one with another, Mosiah 4:14.",
+      "references": [
+        {
+          "text": "Mosiah 4:14",
+          "start": 73,
+          "end": 84,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 4,
+            "chapterId": "mosiah4",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-contention",
+      "slug": "contention",
+      "title": "Contention"
+    },
+    {
+      "entryId": "tg-strife",
+      "slug": "strife",
+      "title": "Strife"
+    }
+  ],
+  "slug": "quarrel",
+  "title": "Quarrel",
+  "type": "tg"
+}

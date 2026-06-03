@@ -1,0 +1,74 @@
+{
+  "_id": "index-harsh",
+  "content": [
+    {
+      "text": "record speaks harshly against sin, 2 Ne. 33:5. prophets preach and prophesy in harshness, Enos 1:23. voice from heaven is not harsh, 3 Ne. 11:3.",
+      "references": [
+        {
+          "text": "2 Ne. 33:5",
+          "start": 35,
+          "end": 45,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 33,
+            "chapterId": "2nephi33",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Enos 1:23",
+          "start": 90,
+          "end": 99,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "enos",
+            "book": "enos",
+            "chapter": 1,
+            "chapterId": "enos1",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 11:3",
+          "start": 133,
+          "end": 143,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 11,
+            "chapterId": "3nephi11",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-hard",
+      "slug": "hard",
+      "title": "Hard"
+    }
+  ],
+  "slug": "harsh",
+  "title": "Harsh, Harshly, Harshness",
+  "type": "index"
+}

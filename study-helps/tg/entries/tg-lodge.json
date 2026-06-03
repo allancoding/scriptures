@@ -1,0 +1,120 @@
+{
+  "_id": "tg-lodge",
+  "content": [
+    {
+      "text": "where thou lodgest, I will lodge, Ruth 1:16. as a lodge in a garden of cucumbers, Isa. 1:8.",
+      "references": [
+        {
+          "text": "Ruth 1:16",
+          "start": 34,
+          "end": 43,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ruth",
+            "book": "ruth",
+            "chapter": 1,
+            "chapterId": "ruth1",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 1:8",
+          "start": 82,
+          "end": 90,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 1,
+            "chapterId": "isaiah1",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "birds of the air … lodge in the branches, Matt. 13:32 (Mark 4:32; Luke 13:19).",
+      "references": [
+        {
+          "text": "Matt. 13:32",
+          "start": 42,
+          "end": 53,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 13,
+            "chapterId": "matthew13",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 4:32",
+          "start": 55,
+          "end": 64,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 4,
+            "chapterId": "mark4",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 13:19",
+          "start": 66,
+          "end": 76,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 13,
+            "chapterId": "luke13",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-abide",
+      "slug": "abide",
+      "title": "Abide"
+    },
+    {
+      "entryId": "tg-dwell",
+      "slug": "dwell",
+      "title": "Dwell"
+    }
+  ],
+  "slug": "lodge",
+  "title": "Lodge",
+  "type": "tg"
+}

@@ -1,0 +1,205 @@
+{
+  "_id": "tg-supper",
+  "content": [
+    {
+      "text": "certain man made a great supper, Luke 14:16. cup after supper, saying, This cup is the new testament, Luke 22:20. they made him a supper, John 12:2. supper being ended … Judas … to betray him, John 13:2. this is not to eat the Lord’s supper, 1 Cor. 11:20. Blessed are they which are called unto the marriage supper, Rev. 19:9. gather yourselves together unto the supper of the great God, Rev. 19:17.",
+      "references": [
+        {
+          "text": "Luke 14:16",
+          "start": 33,
+          "end": 43,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 14,
+            "chapterId": "luke14",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 22:20",
+          "start": 102,
+          "end": 112,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 22,
+            "chapterId": "luke22",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 12:2",
+          "start": 138,
+          "end": 147,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 12,
+            "chapterId": "john12",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 13:2",
+          "start": 193,
+          "end": 202,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 13,
+            "chapterId": "john13",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 11:20",
+          "start": 242,
+          "end": 254,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 11,
+            "chapterId": "1corinthians11",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 19:9",
+          "start": 316,
+          "end": 325,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 19,
+            "chapterId": "revelation19",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 19:17",
+          "start": 388,
+          "end": 398,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 19,
+            "chapterId": "revelation19",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "supper of the house of the Lord, D&C 58:9. partake of the supper of the Lord, D&C 58:11. prepare ye the supper of the Lamb, D&C 65:3.",
+      "references": [
+        {
+          "text": "D&C 58:9",
+          "start": 33,
+          "end": 41,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 58,
+            "chapterId": "doctrineandcovenants58",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 58:11",
+          "start": 78,
+          "end": 87,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 58,
+            "chapterId": "doctrineandcovenants58",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 65:3",
+          "start": 124,
+          "end": 132,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 65,
+            "chapterId": "doctrineandcovenants65",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-sacrament",
+      "slug": "sacrament",
+      "title": "Sacrament"
+    }
+  ],
+  "slug": "supper",
+  "title": "Supper",
+  "type": "tg"
+}

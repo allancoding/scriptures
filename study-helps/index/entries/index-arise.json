@@ -1,0 +1,97 @@
+{
+  "_id": "index-arise",
+  "content": [
+    {
+      "text": "many Saints did arise, 3 Ne. 23:11.",
+      "references": [
+        {
+          "text": "3 Ne. 23:11",
+          "start": 23,
+          "end": 34,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 23,
+            "chapterId": "3nephi23",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Zion must arise, D&C 82:14. arise early, D&C 88:124. arise and shine forth, D&C 115:5.",
+      "references": [
+        {
+          "text": "D&C 82:14",
+          "start": 17,
+          "end": 26,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 82,
+            "chapterId": "doctrineandcovenants82",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 88:124",
+          "start": 41,
+          "end": 51,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 124,
+                "end": 124
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 115:5",
+          "start": 76,
+          "end": 85,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 115,
+            "chapterId": "doctrineandcovenants115",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-rise",
+      "slug": "rise",
+      "title": "Rise"
+    }
+  ],
+  "slug": "arise",
+  "title": "Arise",
+  "type": "index"
+}

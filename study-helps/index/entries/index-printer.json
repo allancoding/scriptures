@@ -1,0 +1,56 @@
+{
+  "_id": "index-printer",
+  "content": [
+    {
+      "text": "Martin Harris commanded to pay debt to printer, D&C 19:35. William Phelps to be established as printer for Church, D&C 57:11.",
+      "references": [
+        {
+          "text": "D&C 19:35",
+          "start": 48,
+          "end": 57,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 19,
+            "chapterId": "doctrineandcovenants19",
+            "verses": [
+              {
+                "start": 35,
+                "end": 35
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 57:11",
+          "start": 115,
+          "end": 124,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 57,
+            "chapterId": "doctrineandcovenants57",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-printing",
+      "slug": "printing",
+      "title": "Printing"
+    }
+  ],
+  "slug": "printer",
+  "title": "Printer",
+  "type": "index"
+}

@@ -1,0 +1,73 @@
+{
+  "_id": "tg-entrusted",
+  "content": [
+    {
+      "text": "God has entrusted you with these things, Alma 37:14.",
+      "references": [
+        {
+          "text": "Alma 37:14",
+          "start": 41,
+          "end": 51,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 37,
+            "chapterId": "alma37",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "you have been entrusted with these things, D&C 3:5. whatsoever shall be entrusted to his care, D&C 12:8.",
+      "references": [
+        {
+          "text": "D&C 3:5",
+          "start": 43,
+          "end": 50,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 3,
+            "chapterId": "doctrineandcovenants3",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 12:8",
+          "start": 95,
+          "end": 103,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 12,
+            "chapterId": "doctrineandcovenants12",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "entrusted",
+  "title": "Entrusted",
+  "type": "tg"
+}

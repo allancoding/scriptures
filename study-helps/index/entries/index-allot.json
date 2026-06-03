@@ -1,0 +1,38 @@
+{
+  "_id": "index-allot",
+  "content": [
+    {
+      "text": "the Lord allots unto men according to their wills, Alma 29:3–4.",
+      "references": [
+        {
+          "text": "Alma 29:3–4",
+          "start": 51,
+          "end": 62,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 29,
+            "chapterId": "alma29",
+            "verses": [
+              {
+                "start": 3,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-give",
+      "slug": "give",
+      "title": "Give"
+    }
+  ],
+  "slug": "allot",
+  "title": "Allot",
+  "type": "index"
+}

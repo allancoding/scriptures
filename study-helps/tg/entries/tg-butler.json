@@ -1,0 +1,32 @@
+{
+  "_id": "tg-butler",
+  "content": [
+    {
+      "text": "chief butler told his dream to Joseph, Gen. 40:9.",
+      "references": [
+        {
+          "text": "Gen. 40:9",
+          "start": 39,
+          "end": 48,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 40,
+            "chapterId": "genesis40",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "butler",
+  "title": "Butler",
+  "type": "tg"
+}

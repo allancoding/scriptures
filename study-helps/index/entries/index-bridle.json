@@ -1,0 +1,38 @@
+{
+  "_id": "index-bridle",
+  "content": [
+    {
+      "text": "bridle all your passions, Alma 38:12.",
+      "references": [
+        {
+          "text": "Alma 38:12",
+          "start": 26,
+          "end": 36,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 38,
+            "chapterId": "alma38",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-control",
+      "slug": "control",
+      "title": "Control"
+    }
+  ],
+  "slug": "bridle",
+  "title": "Bridle",
+  "type": "index"
+}

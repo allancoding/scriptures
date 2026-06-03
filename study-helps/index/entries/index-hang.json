@@ -1,0 +1,84 @@
+{
+  "_id": "index-hang",
+  "content": [
+    {
+      "text": "Zemnarihah is hanged upon tree until dead, 3 Ne. 4:28.",
+      "references": [
+        {
+          "text": "3 Ne. 4:28",
+          "start": 43,
+          "end": 53,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 4,
+            "chapterId": "3nephi4",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "lift up hands that hang down, D&C 81:5 (Heb. 12:12).",
+      "references": [
+        {
+          "text": "D&C 81:5",
+          "start": 30,
+          "end": 38,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 81,
+            "chapterId": "doctrineandcovenants81",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 12:12",
+          "start": 40,
+          "end": 50,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 12,
+            "chapterId": "hebrews12",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-capital-punishment",
+      "slug": "capital-punishment",
+      "title": "Capital Punishment"
+    },
+    {
+      "entryId": "index-sword",
+      "slug": "sword",
+      "title": "Sword"
+    }
+  ],
+  "slug": "hang",
+  "title": "Hang",
+  "type": "index"
+}

@@ -1,0 +1,133 @@
+{
+  "_id": "tg-stream",
+  "content": [
+    {
+      "text": "break out, and streams in the desert, Isa. 35:6. glory of the Gentiles like a flowing stream, Isa. 66:12. fiery stream issued, Dan. 7:10. righteousness as a mighty stream, Amos 5:24.",
+      "references": [
+        {
+          "text": "Isa. 35:6",
+          "start": 38,
+          "end": 47,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 35,
+            "chapterId": "isaiah35",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 66:12",
+          "start": 94,
+          "end": 104,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 66,
+            "chapterId": "isaiah66",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 7:10",
+          "start": 127,
+          "end": 136,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 7,
+            "chapterId": "daniel7",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Amos 5:24",
+          "start": 172,
+          "end": 181,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "amos",
+            "book": "amos",
+            "chapter": 5,
+            "chapterId": "amos5",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "bring forth as a very fruitful tree … by a pure stream, D&C 97:9. stop the Missouri river … or to turn it up stream, D&C 121:33.",
+      "references": [
+        {
+          "text": "D&C 97:9",
+          "start": 56,
+          "end": 64,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 97,
+            "chapterId": "doctrineandcovenants97",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 121:33",
+          "start": 117,
+          "end": 127,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-river",
+      "slug": "river",
+      "title": "River"
+    }
+  ],
+  "slug": "stream",
+  "title": "Stream",
+  "type": "tg"
+}

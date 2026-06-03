@@ -1,0 +1,38 @@
+{
+  "_id": "tg-outer",
+  "content": [
+    {
+      "text": "then shall the outer vessel be cleansed, Alma 60:23.",
+      "references": [
+        {
+          "text": "Alma 60:23",
+          "start": 41,
+          "end": 51,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 60,
+            "chapterId": "alma60",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-outer-darkness",
+      "slug": "outer-darkness",
+      "title": "Outer Darkness"
+    }
+  ],
+  "slug": "outer",
+  "title": "Outer",
+  "type": "tg"
+}

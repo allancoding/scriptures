@@ -1,0 +1,50 @@
+{
+  "_id": "tg-likewise",
+  "content": [
+    {
+      "text": "should do to you, do ye also to them likewise, Luke 6:31. Go, and do thou likewise, Luke 10:37.",
+      "references": [
+        {
+          "text": "Luke 6:31",
+          "start": 47,
+          "end": 56,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 6,
+            "chapterId": "luke6",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 10:37",
+          "start": 84,
+          "end": 94,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 10,
+            "chapterId": "luke10",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "likewise",
+  "title": "Likewise",
+  "type": "tg"
+}

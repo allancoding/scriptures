@@ -1,0 +1,510 @@
+{
+  "_id": "tg-strive",
+  "content": [
+    {
+      "text": "My spirit shall not always strive with man, Gen. 6:3 (1 Ne. 7:14; 2 Ne. 26:11; Morm. 5:16; Ether 2:15; D&C 1:33; Moses 8:17). herdmen of Gerar did strive with Isaac’s, Gen. 26:20. if men strive together, Ex. 21:18. children of Israel strove with the Lord, Num. 20:13. When men strive together, Deut. 25:11. Strive not with a man without cause, Prov. 3:30. Go not forth hastily to strive, Prov. 25:8. Woe unto him that striveth with his Maker, Isa. 45:9. let no man strive, nor reprove another, Hosea 4:4.",
+      "references": [
+        {
+          "text": "Gen. 6:3",
+          "start": 44,
+          "end": 52,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 6,
+            "chapterId": "genesis6",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Ne. 7:14",
+          "start": 54,
+          "end": 64,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 7,
+            "chapterId": "1nephi7",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 26:11",
+          "start": 66,
+          "end": 77,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 26,
+            "chapterId": "2nephi26",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 5:16",
+          "start": 79,
+          "end": 89,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 5,
+            "chapterId": "mormon5",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 2:15",
+          "start": 91,
+          "end": 101,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 2,
+            "chapterId": "ether2",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 1:33",
+          "start": 103,
+          "end": 111,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 1,
+            "chapterId": "doctrineandcovenants1",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 8:17",
+          "start": 113,
+          "end": 123,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 8,
+            "chapterId": "moses8",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 26:20",
+          "start": 168,
+          "end": 178,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 26,
+            "chapterId": "genesis26",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 21:18",
+          "start": 204,
+          "end": 213,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 21,
+            "chapterId": "exodus21",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 20:13",
+          "start": 256,
+          "end": 266,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 20,
+            "chapterId": "numbers20",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 25:11",
+          "start": 294,
+          "end": 305,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 25,
+            "chapterId": "deuteronomy25",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 3:30",
+          "start": 344,
+          "end": 354,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 3,
+            "chapterId": "proverbs3",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 25:8",
+          "start": 388,
+          "end": 398,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 25,
+            "chapterId": "proverbs25",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 45:9",
+          "start": 443,
+          "end": 452,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 45,
+            "chapterId": "isaiah45",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hosea 4:4",
+          "start": 494,
+          "end": 503,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "hosea",
+            "book": "hosea",
+            "chapter": 4,
+            "chapterId": "hosea4",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "He shall not strive, nor cry, Matt. 12:19. Strive to enter in at the strait gate, Luke 13:24. Jews therefore strove among themselves, John 6:52. scribes that were of the Pharisees’ part arose, and strove, Acts 23:9. man that striveth for the mastery is temperate, 1 Cor. 9:25. striving together for the faith, Philip. 1:27. if a man also strive for masteries, 2 Tim. 2:5. that they strive not about words, 2 Tim. 2:14. servant of the Lord must not strive, 2 Tim. 2:24. not yet resisted unto blood, striving against sin, Heb. 12:4.",
+      "references": [
+        {
+          "text": "Matt. 12:19",
+          "start": 30,
+          "end": 41,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 12,
+            "chapterId": "matthew12",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 13:24",
+          "start": 82,
+          "end": 92,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 13,
+            "chapterId": "luke13",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 6:52",
+          "start": 134,
+          "end": 143,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 6,
+            "chapterId": "john6",
+            "verses": [
+              {
+                "start": 52,
+                "end": 52
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 23:9",
+          "start": 205,
+          "end": 214,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 23,
+            "chapterId": "acts23",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 9:25",
+          "start": 264,
+          "end": 275,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 9,
+            "chapterId": "1corinthians9",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Philip. 1:27",
+          "start": 310,
+          "end": 322,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "philip",
+            "book": "philippians",
+            "chapter": 1,
+            "chapterId": "philippians1",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Tim. 2:5",
+          "start": 360,
+          "end": 370,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-tim",
+            "book": "2timothy",
+            "chapter": 2,
+            "chapterId": "2timothy2",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Tim. 2:14",
+          "start": 406,
+          "end": 417,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-tim",
+            "book": "2timothy",
+            "chapter": 2,
+            "chapterId": "2timothy2",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Tim. 2:24",
+          "start": 456,
+          "end": 467,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-tim",
+            "book": "2timothy",
+            "chapter": 2,
+            "chapterId": "2timothy2",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 12:4",
+          "start": 520,
+          "end": 529,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 12,
+            "chapterId": "hebrews12",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Nephi, did strive to keep the commandments, 1 Ne. 17:15. they are striving with unwearied diligence, Hel. 15:6.",
+      "references": [
+        {
+          "text": "1 Ne. 17:15",
+          "start": 44,
+          "end": 55,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 17,
+            "chapterId": "1nephi17",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 15:6",
+          "start": 101,
+          "end": 110,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 15,
+            "chapterId": "helaman15",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "strive",
+  "title": "Strive, Strove, Striven",
+  "type": "tg"
+}

@@ -1,0 +1,66 @@
+{
+  "_id": "tg-girl",
+  "content": [
+    {
+      "text": "sold a girl for wine, Joel 3:3. boys and girls playing in the streets, Zech. 8:5.",
+      "references": [
+        {
+          "text": "Joel 3:3",
+          "start": 22,
+          "end": 30,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "joel",
+            "book": "joel",
+            "chapter": 3,
+            "chapterId": "joel3",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Zech. 8:5",
+          "start": 71,
+          "end": 80,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "zech",
+            "book": "zechariah",
+            "chapter": 8,
+            "chapterId": "zechariah8",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-damsel",
+      "slug": "damsel",
+      "title": "Damsel"
+    },
+    {
+      "entryId": "tg-handmaid",
+      "slug": "handmaid",
+      "title": "Handmaid"
+    },
+    {
+      "entryId": "tg-maid",
+      "slug": "maid",
+      "title": "Maid"
+    }
+  ],
+  "slug": "girl",
+  "title": "Girl",
+  "type": "tg"
+}

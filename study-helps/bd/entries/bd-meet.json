@@ -1,0 +1,50 @@
+{
+  "_id": "bd-meet",
+  "content": [
+    {
+      "text": "Fitting, proper, qualified, suitable. Deut. 3:18; Matt. 3:8.",
+      "references": [
+        {
+          "text": "Deut. 3:18",
+          "start": 38,
+          "end": 48,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 3,
+            "chapterId": "deuteronomy3",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 3:8",
+          "start": 50,
+          "end": 59,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 3,
+            "chapterId": "matthew3",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "meet",
+  "title": "Meet",
+  "type": "bd"
+}

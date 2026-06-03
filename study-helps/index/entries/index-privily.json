@@ -1,0 +1,61 @@
+{
+  "_id": "index-privily",
+  "content": [
+    {
+      "text": "people desire to put away Alma2 and Amulek privily, Alma 14:3. rulers of Zoramites2 find out privily minds of people, Alma 35:5.",
+      "references": [
+        {
+          "text": "Alma 14:3",
+          "start": 52,
+          "end": 61,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 14,
+            "chapterId": "alma14",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 35:5",
+          "start": 118,
+          "end": 127,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 35,
+            "chapterId": "alma35",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-private",
+      "slug": "private",
+      "title": "Private"
+    },
+    {
+      "entryId": "index-secret",
+      "slug": "secret",
+      "title": "Secret"
+    }
+  ],
+  "slug": "privily",
+  "title": "Privily",
+  "type": "index"
+}

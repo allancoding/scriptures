@@ -1,0 +1,33 @@
+{
+  "_id": "index-rebaptism",
+  "content": [
+    {
+      "text": "revelation on, D&C 22.",
+      "references": [
+        {
+          "text": "D&C 22",
+          "start": 15,
+          "end": 21,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 22,
+            "chapterId": "doctrineandcovenants22",
+            "verses": []
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-baptism",
+      "slug": "baptism",
+      "title": "Baptism"
+    }
+  ],
+  "slug": "rebaptism",
+  "title": "Rebaptism",
+  "type": "index"
+}

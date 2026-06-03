@@ -1,0 +1,32 @@
+{
+  "_id": "index-enoch-1",
+  "content": [
+    {
+      "text": "Cain names city after his son, Enoch, Moses 5:42.",
+      "references": [
+        {
+          "text": "Moses 5:42",
+          "start": 38,
+          "end": 48,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 5,
+            "chapterId": "moses5",
+            "verses": [
+              {
+                "start": 42,
+                "end": 42
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "enoch-1",
+  "title": "Enoch1—son of Cain",
+  "type": "index"
+}

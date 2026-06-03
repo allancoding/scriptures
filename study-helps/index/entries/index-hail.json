@@ -1,0 +1,120 @@
+{
+  "_id": "index-hail",
+  "content": [
+    {
+      "text": "the Lord will smite people of Noah3 with hail, Mosiah 12:6. devil shall send forth hail, Hel. 5:12.",
+      "references": [
+        {
+          "text": "Mosiah 12:6",
+          "start": 47,
+          "end": 58,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 12,
+            "chapterId": "mosiah12",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 5:12",
+          "start": 89,
+          "end": 98,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 5,
+            "chapterId": "helaman5",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "great hailstorm sent to destroy crops, D&C 29:16. the Lord calls nations by voice of great hailstorms, D&C 43:25. works of those who lie against the Lord’s servants to be swept away by hail, D&C 109:30.",
+      "references": [
+        {
+          "text": "D&C 29:16",
+          "start": 39,
+          "end": 48,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 29,
+            "chapterId": "doctrineandcovenants29",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 43:25",
+          "start": 103,
+          "end": 112,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 43,
+            "chapterId": "doctrineandcovenants43",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 109:30",
+          "start": 191,
+          "end": 201,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 109,
+            "chapterId": "doctrineandcovenants109",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-destruction",
+      "slug": "destruction",
+      "title": "Destruction"
+    },
+    {
+      "entryId": "index-storm",
+      "slug": "storm",
+      "title": "Storm"
+    }
+  ],
+  "slug": "hail",
+  "title": "Hail",
+  "type": "index"
+}

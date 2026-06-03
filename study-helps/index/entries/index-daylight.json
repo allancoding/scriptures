@@ -1,0 +1,38 @@
+{
+  "_id": "index-daylight",
+  "content": [
+    {
+      "text": "way to judge is as plain as daylight is from dark night, Moro. 7:15.",
+      "references": [
+        {
+          "text": "Moro. 7:15",
+          "start": 57,
+          "end": 67,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "moro",
+            "book": "moroni",
+            "chapter": 7,
+            "chapterId": "moroni7",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-light",
+      "slug": "light",
+      "title": "Light"
+    }
+  ],
+  "slug": "daylight",
+  "title": "Daylight",
+  "type": "index"
+}

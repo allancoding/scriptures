@@ -1,0 +1,102 @@
+{
+  "_id": "tg-terrify",
+  "content": [
+    {
+      "text": "neither be ye terrified because of them, Deut. 20:3.",
+      "references": [
+        {
+          "text": "Deut. 20:3",
+          "start": 41,
+          "end": 51,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 20,
+            "chapterId": "deuteronomy20",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "when ye shall hear of wars and commotions, be not terrified, Luke 21:9. they were terrified and affrighted, Luke 24:37. in nothing terrified by your adversaries, Philip. 1:28.",
+      "references": [
+        {
+          "text": "Luke 21:9",
+          "start": 61,
+          "end": 70,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 21,
+            "chapterId": "luke21",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 24:37",
+          "start": 108,
+          "end": 118,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 24,
+            "chapterId": "luke24",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        },
+        {
+          "text": "Philip. 1:28",
+          "start": 162,
+          "end": 174,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "philip",
+            "book": "philippians",
+            "chapter": 1,
+            "chapterId": "philippians1",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-afraid",
+      "slug": "afraid",
+      "title": "Afraid"
+    },
+    {
+      "entryId": "tg-terror",
+      "slug": "terror",
+      "title": "Terror"
+    }
+  ],
+  "slug": "terrify",
+  "title": "Terrify",
+  "type": "tg"
+}

@@ -1,0 +1,91 @@
+{
+  "_id": "index-cold",
+  "content": [
+    {
+      "text": "love of men shall wax cold, D&C 45:27. flesh not to be used, only in times of cold or famine, D&C 89:13.",
+      "references": [
+        {
+          "text": "D&C 45:27",
+          "start": 28,
+          "end": 37,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 45,
+            "chapterId": "doctrineandcovenants45",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 89:13",
+          "start": 94,
+          "end": 103,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 89,
+            "chapterId": "doctrineandcovenants89",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "love of many shall wax cold, JS—M 1:10. love of men shall wax cold, JS—M 1:30.",
+      "references": [
+        {
+          "text": "JS—M 1:10",
+          "start": 29,
+          "end": 38,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-m",
+            "book": "josephsmithmatthew",
+            "chapter": 1,
+            "chapterId": "josephsmithmatthew1",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "JS—M 1:30",
+          "start": 68,
+          "end": 77,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-m",
+            "book": "josephsmithmatthew",
+            "chapter": 1,
+            "chapterId": "josephsmithmatthew1",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "cold",
+  "title": "Cold",
+  "type": "index"
+}

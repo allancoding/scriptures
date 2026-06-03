@@ -1,0 +1,61 @@
+{
+  "_id": "index-treasury",
+  "content": [
+    {
+      "text": "Nephi1 commands Zoram1 to go to treasury with him, 1 Ne. 4:20.",
+      "references": [
+        {
+          "text": "1 Ne. 4:20",
+          "start": 51,
+          "end": 61,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 4,
+            "chapterId": "1nephi4",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "treasury to be established, D&C 104:60–77.",
+      "references": [
+        {
+          "text": "D&C 104:60–77",
+          "start": 28,
+          "end": 41,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 104,
+            "chapterId": "doctrineandcovenants104",
+            "verses": [
+              {
+                "start": 60,
+                "end": 77
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-agent-financial",
+      "slug": "agent-financial",
+      "title": "Agent, Financial"
+    }
+  ],
+  "slug": "treasury",
+  "title": "Treasury",
+  "type": "index"
+}

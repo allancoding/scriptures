@@ -1,0 +1,73 @@
+{
+  "_id": "tg-stripling",
+  "content": [
+    {
+      "text": "Inquire thou whose son the stripling is, 1 Sam. 17:56.",
+      "references": [
+        {
+          "text": "1 Sam. 17:56",
+          "start": 41,
+          "end": 53,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 17,
+            "chapterId": "1samuel17",
+            "verses": [
+              {
+                "start": 56,
+                "end": 56
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Helaman did march at the head of his two thousand stripling soldiers, Alma 53:22 (56:57).",
+      "references": [
+        {
+          "text": "Alma 53:22",
+          "start": 70,
+          "end": 80,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 53,
+            "chapterId": "alma53",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "56:57",
+          "start": 82,
+          "end": 87,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 56,
+            "chapterId": "alma56",
+            "verses": [
+              {
+                "start": 57,
+                "end": 57
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "stripling",
+  "title": "Stripling",
+  "type": "tg"
+}

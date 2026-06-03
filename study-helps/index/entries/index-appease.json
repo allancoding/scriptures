@@ -1,0 +1,56 @@
+{
+  "_id": "index-appease",
+  "content": [
+    {
+      "text": "Atonement appeases demands of justice, Alma 42:15. may the Lord’s anger be appeased in destruction of wicked already destroyed, Hel. 11:11.",
+      "references": [
+        {
+          "text": "Alma 42:15",
+          "start": 39,
+          "end": 49,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 42,
+            "chapterId": "alma42",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 11:11",
+          "start": 128,
+          "end": 138,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 11,
+            "chapterId": "helaman11",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-satisfy",
+      "slug": "satisfy",
+      "title": "Satisfy"
+    }
+  ],
+  "slug": "appease",
+  "title": "Appease",
+  "type": "index"
+}

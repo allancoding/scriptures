@@ -1,0 +1,50 @@
+{
+  "_id": "tg-variableness",
+  "content": [
+    {
+      "text": "Father of lights, with whom is no variableness, James 1:17 (Morm. 9:9).",
+      "references": [
+        {
+          "text": "James 1:17",
+          "start": 48,
+          "end": 58,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "james",
+            "book": "james",
+            "chapter": 1,
+            "chapterId": "james1",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 9:9",
+          "start": 60,
+          "end": 69,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 9,
+            "chapterId": "mormon9",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "variableness",
+  "title": "Variableness",
+  "type": "tg"
+}

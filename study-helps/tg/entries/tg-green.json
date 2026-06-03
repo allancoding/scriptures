@@ -1,0 +1,132 @@
+{
+  "_id": "tg-green",
+  "content": [
+    {
+      "text": "I have given every green herb for meat, Gen. 1:30 (Abr. 4:30). He maketh me to lie down in green pastures, Ps. 23:2.",
+      "references": [
+        {
+          "text": "Gen. 1:30",
+          "start": 40,
+          "end": 49,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 1,
+            "chapterId": "genesis1",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "Abr. 4:30",
+          "start": 51,
+          "end": 60,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 4,
+            "chapterId": "abraham4",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 23:2",
+          "start": 107,
+          "end": 115,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 23,
+            "chapterId": "psalms23",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "all green grass was burnt up, Rev. 8:7. not hurt the grass … neither any green thing, Rev. 9:4.",
+      "references": [
+        {
+          "text": "Rev. 8:7",
+          "start": 30,
+          "end": 38,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 8,
+            "chapterId": "revelation8",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 9:4",
+          "start": 86,
+          "end": 94,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 9,
+            "chapterId": "revelation9",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "fire can scathe a green tree, D&C 135:6.",
+      "references": [
+        {
+          "text": "D&C 135:6",
+          "start": 30,
+          "end": 39,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 135,
+            "chapterId": "doctrineandcovenants135",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "green",
+  "title": "Green",
+  "type": "tg"
+}

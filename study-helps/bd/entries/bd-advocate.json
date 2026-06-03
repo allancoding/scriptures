@@ -1,0 +1,86 @@
+{
+  "_id": "bd-advocate",
+  "content": [
+    {
+      "text": "One who pleads another’s cause. Jesus Christ is the Advocate with the Father, on behalf of the righteous (1 Jn. 2:1; Moro. 7:28; D&C 45:3–5; 110:4). See also Atonement; Christ.",
+      "references": [
+        {
+          "text": "1 Jn. 2:1",
+          "start": 106,
+          "end": 115,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-jn",
+            "book": "1john",
+            "chapter": 2,
+            "chapterId": "1john2",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moro. 7:28",
+          "start": 117,
+          "end": 127,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "moro",
+            "book": "moroni",
+            "chapter": 7,
+            "chapterId": "moroni7",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 45:3–5",
+          "start": 129,
+          "end": 139,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 45,
+            "chapterId": "doctrineandcovenants45",
+            "verses": [
+              {
+                "start": 3,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "110:4",
+          "start": 141,
+          "end": 146,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 110,
+            "chapterId": "doctrineandcovenants110",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "advocate",
+  "title": "Advocate",
+  "type": "bd"
+}

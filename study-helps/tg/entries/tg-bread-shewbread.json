@@ -1,0 +1,32 @@
+{
+  "_id": "tg-bread-shewbread",
+  "content": [
+    {
+      "text": "thou shalt set upon the table shewbread before me, Ex. 25:30.",
+      "references": [
+        {
+          "text": "Ex. 25:30",
+          "start": 51,
+          "end": 60,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 25,
+            "chapterId": "exodus25",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "bread-shewbread",
+  "title": "Bread, Shewbread",
+  "type": "tg"
+}

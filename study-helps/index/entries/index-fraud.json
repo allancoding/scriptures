@@ -1,0 +1,111 @@
+{
+  "_id": "index-fraud",
+  "content": [
+    {
+      "text": "Amalickiah obtains power by fraud, Alma 47:30, 35 (48:7). Ammoron has perfect knowledge of his fraud, Alma 55:1.",
+      "references": [
+        {
+          "text": "Alma 47:30, 35",
+          "start": 35,
+          "end": 49,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 47,
+            "chapterId": "alma47",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              },
+              {
+                "start": 35,
+                "end": 35
+              }
+            ]
+          }
+        },
+        {
+          "text": "48:7",
+          "start": 51,
+          "end": 55,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 48,
+            "chapterId": "alma48",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 55:1",
+          "start": 102,
+          "end": 111,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 55,
+            "chapterId": "alma55",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "sell goods without fraud, D&C 57:8.",
+      "references": [
+        {
+          "text": "D&C 57:8",
+          "start": 26,
+          "end": 34,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 57,
+            "chapterId": "doctrineandcovenants57",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-conspiracy",
+      "slug": "conspiracy",
+      "title": "Conspiracy"
+    },
+    {
+      "entryId": "index-deceit",
+      "slug": "deceit",
+      "title": "Deceit"
+    },
+    {
+      "entryId": "index-lying",
+      "slug": "lying",
+      "title": "Lying"
+    }
+  ],
+  "slug": "fraud",
+  "title": "Fraud",
+  "type": "index"
+}

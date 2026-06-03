@@ -1,0 +1,102 @@
+{
+  "_id": "index-sorceries",
+  "content": [
+    {
+      "text": "those who do not belong to Church indulge in sorceries, Alma 1:32. there are sorceries in land, Morm. 1:19.",
+      "references": [
+        {
+          "text": "Alma 1:32",
+          "start": 56,
+          "end": 65,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 1,
+            "chapterId": "alma1",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 1:19",
+          "start": 96,
+          "end": 106,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 1,
+            "chapterId": "mormon1",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "sorcerer to have part in lake of fire and brimstone, D&C 63:17. sorcerers inherit telestial glory, D&C 76:103.",
+      "references": [
+        {
+          "text": "D&C 63:17",
+          "start": 53,
+          "end": 62,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 63,
+            "chapterId": "doctrineandcovenants63",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 76:103",
+          "start": 99,
+          "end": 109,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 76,
+            "chapterId": "doctrineandcovenants76",
+            "verses": [
+              {
+                "start": 103,
+                "end": 103
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-magic",
+      "slug": "magic",
+      "title": "Magic"
+    },
+    {
+      "entryId": "index-soothsayer",
+      "slug": "soothsayer",
+      "title": "Soothsayer"
+    }
+  ],
+  "slug": "sorceries",
+  "title": "Sorceries, Sorcerer",
+  "type": "index"
+}

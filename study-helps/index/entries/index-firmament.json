@@ -1,0 +1,71 @@
+{
+  "_id": "index-firmament",
+  "content": [
+    {
+      "text": "creation of firmament, Moses 2:6–8 (Abr. 4:6).",
+      "references": [
+        {
+          "text": "Moses 2:6–8",
+          "start": 23,
+          "end": 34,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 2,
+            "chapterId": "moses2",
+            "verses": [
+              {
+                "start": 6,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Abr. 4:6",
+          "start": 36,
+          "end": 44,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 4,
+            "chapterId": "abraham4",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-expanse",
+      "slug": "expanse",
+      "title": "Expanse"
+    },
+    {
+      "entryId": "index-heaven",
+      "slug": "heaven",
+      "title": "Heaven"
+    },
+    {
+      "entryId": "index-star",
+      "slug": "star",
+      "title": "Star"
+    },
+    {
+      "entryId": "index-sun",
+      "slug": "sun",
+      "title": "Sun"
+    }
+  ],
+  "slug": "firmament",
+  "title": "Firmament",
+  "type": "index"
+}

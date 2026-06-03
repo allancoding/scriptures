@@ -1,0 +1,38 @@
+{
+  "_id": "index-corruptness",
+  "content": [
+    {
+      "text": "Nephi2 speaks of corruptness of laws, Hel. 8:3.",
+      "references": [
+        {
+          "text": "Hel. 8:3",
+          "start": 38,
+          "end": 46,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 8,
+            "chapterId": "helaman8",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-corrupt",
+      "slug": "corrupt",
+      "title": "Corrupt"
+    }
+  ],
+  "slug": "corruptness",
+  "title": "Corruptness",
+  "type": "index"
+}

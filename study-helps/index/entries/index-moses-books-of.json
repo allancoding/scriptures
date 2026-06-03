@@ -1,0 +1,50 @@
+{
+  "_id": "index-moses-books-of",
+  "content": [
+    {
+      "text": "brass plates contain books of Moses, 1 Ne. 5:11. Nephi1 reads many things written in books of Moses, 1 Ne. 19:23.",
+      "references": [
+        {
+          "text": "1 Ne. 5:11",
+          "start": 37,
+          "end": 47,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 5,
+            "chapterId": "1nephi5",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Ne. 19:23",
+          "start": 101,
+          "end": 112,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 19,
+            "chapterId": "1nephi19",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "moses-books-of",
+  "title": "Moses, Books of",
+  "type": "index"
+}

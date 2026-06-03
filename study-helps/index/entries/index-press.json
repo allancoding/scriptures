@@ -1,0 +1,61 @@
+{
+  "_id": "index-press",
+  "content": [
+    {
+      "text": "Lehi1 beholds others press forward through mist, 1 Ne. 8:24. press forward with steadfastness in Christ, 2 Ne. 31:20.",
+      "references": [
+        {
+          "text": "1 Ne. 8:24",
+          "start": 49,
+          "end": 59,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 8,
+            "chapterId": "1nephi8",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 31:20",
+          "start": 105,
+          "end": 116,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 31,
+            "chapterId": "2nephi31",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-push",
+      "slug": "push",
+      "title": "Push"
+    },
+    {
+      "entryId": "index-wine-press",
+      "slug": "wine-press",
+      "title": "Wine-Press"
+    }
+  ],
+  "slug": "press",
+  "title": "Press",
+  "type": "index"
+}

@@ -1,0 +1,91 @@
+{
+  "_id": "tg-frankincense",
+  "content": [
+    {
+      "text": "Moses, Take … sweet spices with pure frankincense, Ex. 30:34. offer a meat offering … put frankincense thereon, Lev. 2:1.",
+      "references": [
+        {
+          "text": "Ex. 30:34",
+          "start": 51,
+          "end": 60,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 30,
+            "chapterId": "exodus30",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        },
+        {
+          "text": "Lev. 2:1",
+          "start": 112,
+          "end": 120,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 2,
+            "chapterId": "leviticus2",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "presented unto him gifts; gold, and frankincense, and myrrh, Matt. 2:11. odours, and ointments, and frankincense, Rev. 18:13.",
+      "references": [
+        {
+          "text": "Matt. 2:11",
+          "start": 61,
+          "end": 71,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 2,
+            "chapterId": "matthew2",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 18:13",
+          "start": 114,
+          "end": 124,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 18,
+            "chapterId": "revelation18",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "frankincense",
+  "title": "Frankincense",
+  "type": "tg"
+}

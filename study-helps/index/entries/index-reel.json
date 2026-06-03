@@ -1,0 +1,68 @@
+{
+  "_id": "index-reel",
+  "content": [
+    {
+      "text": "earth shall reel to and fro like drunkard, D&C 45:48 (49:23; 88:87).",
+      "references": [
+        {
+          "text": "D&C 45:48",
+          "start": 43,
+          "end": 52,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 45,
+            "chapterId": "doctrineandcovenants45",
+            "verses": [
+              {
+                "start": 48,
+                "end": 48
+              }
+            ]
+          }
+        },
+        {
+          "text": "49:23",
+          "start": 54,
+          "end": 59,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 49,
+            "chapterId": "doctrineandcovenants49",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "88:87",
+          "start": 61,
+          "end": 66,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 87,
+                "end": 87
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "reel",
+  "title": "Reel",
+  "type": "index"
+}

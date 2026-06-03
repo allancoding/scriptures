@@ -1,0 +1,120 @@
+{
+  "_id": "tg-enchantment",
+  "content": [
+    {
+      "text": "they also did in like manner with their enchantments, Ex. 7:11. neither shall ye use enchantment, Lev. 19:26. no enchantment against Jacob, Num. 23:23. observed times, and used enchantments, 2 Kgs. 21:6 (2 Chr. 33:6).",
+      "references": [
+        {
+          "text": "Ex. 7:11",
+          "start": 54,
+          "end": 62,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 7,
+            "chapterId": "exodus7",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Lev. 19:26",
+          "start": 98,
+          "end": 108,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 19,
+            "chapterId": "leviticus19",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 23:23",
+          "start": 140,
+          "end": 150,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 23,
+            "chapterId": "numbers23",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Kgs. 21:6",
+          "start": 191,
+          "end": 202,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 21,
+            "chapterId": "2kings21",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Chr. 33:6",
+          "start": 204,
+          "end": 215,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-chr",
+            "book": "2chronicles",
+            "chapter": 33,
+            "chapterId": "2chronicles33",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-sorcery",
+      "slug": "sorcery",
+      "title": "Sorcery"
+    },
+    {
+      "entryId": "tg-superstitions",
+      "slug": "superstitions",
+      "title": "Superstitions"
+    },
+    {
+      "entryId": "tg-witch",
+      "slug": "witch",
+      "title": "Witch"
+    }
+  ],
+  "slug": "enchantment",
+  "title": "Enchantment",
+  "type": "tg"
+}

@@ -1,0 +1,68 @@
+{
+  "_id": "tg-money-changer",
+  "content": [
+    {
+      "text": "tables of the moneychangers, Matt. 21:12 (Mark 11:15; John 2:14).",
+      "references": [
+        {
+          "text": "Matt. 21:12",
+          "start": 29,
+          "end": 40,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 21,
+            "chapterId": "matthew21",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 11:15",
+          "start": 42,
+          "end": 52,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 11,
+            "chapterId": "mark11",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 2:14",
+          "start": 54,
+          "end": 63,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 2,
+            "chapterId": "john2",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "money-changer",
+  "title": "Money Changer",
+  "type": "tg"
+}

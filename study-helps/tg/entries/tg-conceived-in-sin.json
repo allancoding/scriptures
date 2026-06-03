@@ -1,0 +1,104 @@
+{
+  "_id": "tg-conceived-in-sin",
+  "content": [
+    {
+      "text": "in sin did my mother conceive me, Ps. 51:5.",
+      "references": [
+        {
+          "text": "Ps. 51:5",
+          "start": 34,
+          "end": 42,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 51,
+            "chapterId": "psalms51",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "man was innocent in the beginning, D&C 93:38.",
+      "references": [
+        {
+          "text": "D&C 93:38",
+          "start": 35,
+          "end": 44,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 93,
+            "chapterId": "doctrineandcovenants93",
+            "verses": [
+              {
+                "start": 38,
+                "end": 38
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "children are conceived in sin … sin conceiveth in their hearts, Moses 6:55.",
+      "references": [
+        {
+          "text": "Moses 6:55",
+          "start": 64,
+          "end": 74,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 6,
+            "chapterId": "moses6",
+            "verses": [
+              {
+                "start": 55,
+                "end": 55
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-carnal-mind",
+      "slug": "carnal-mind",
+      "title": "Carnal Mind"
+    },
+    {
+      "entryId": "tg-children",
+      "slug": "children",
+      "title": "Children"
+    },
+    {
+      "entryId": "tg-fall-of-man",
+      "slug": "fall-of-man",
+      "title": "Fall of Man"
+    },
+    {
+      "entryId": "tg-man-natural-not-spiritually-reborn",
+      "slug": "man-natural-not-spiritually-reborn",
+      "title": "Man, Natural, Not Spiritually Reborn"
+    },
+    {
+      "entryId": "tg-salvation-of-little-children",
+      "slug": "salvation-of-little-children",
+      "title": "Salvation of Little Children"
+    }
+  ],
+  "slug": "conceived-in-sin",
+  "title": "Conceived in Sin",
+  "type": "tg"
+}

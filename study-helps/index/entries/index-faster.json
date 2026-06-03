@@ -1,0 +1,61 @@
+{
+  "_id": "index-faster",
+  "content": [
+    {
+      "text": "not requisite that man run faster than he has strength, Mosiah 4:27.",
+      "references": [
+        {
+          "text": "Mosiah 4:27",
+          "start": 56,
+          "end": 67,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 4,
+            "chapterId": "mosiah4",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "do not run faster than you have strength, D&C 10:4.",
+      "references": [
+        {
+          "text": "D&C 10:4",
+          "start": 42,
+          "end": 50,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 10,
+            "chapterId": "doctrineandcovenants10",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-swift",
+      "slug": "swift",
+      "title": "Swift"
+    }
+  ],
+  "slug": "faster",
+  "title": "Faster",
+  "type": "index"
+}

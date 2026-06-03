@@ -1,0 +1,927 @@
+{
+  "_id": "tg-friendship",
+  "content": [
+    {
+      "text": "Lord spake unto Moses … as a man speaketh unto his friend, Ex. 33:11. thou hast spoken friendly unto thine handmaid, Ruth 2:13. the soul of Jonathan was knit with the soul of David, 1 Sam. 18:1. when Job’s three friends heard of all this evil, Job 2:11. have pity upon me, O ye my friends, Job 19:21. when he prayed for his friends, Job 42:10. mine own familiar friend … lifted up his heel, Ps. 41:9. rich hath many friends, Prov. 14:20. A friend loveth at all times, Prov. 17:17. a friend that sticketh closer than a brother, Prov. 18:24. Wealth maketh many friends, Prov. 19:4. Make no friendship with an angry man, Prov. 22:24. Faithful are the wounds of a friend, Prov. 27:6. a man sharpeneth the countenance of his friend, Prov. 27:17. I have chosen, the seed of Abraham my friend, Isa. 41:8.",
+      "references": [
+        {
+          "text": "Ex. 33:11",
+          "start": 59,
+          "end": 68,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 33,
+            "chapterId": "exodus33",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ruth 2:13",
+          "start": 117,
+          "end": 126,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ruth",
+            "book": "ruth",
+            "chapter": 2,
+            "chapterId": "ruth2",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Sam. 18:1",
+          "start": 182,
+          "end": 193,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 18,
+            "chapterId": "1samuel18",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Job 2:11",
+          "start": 244,
+          "end": 252,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "job",
+            "book": "job",
+            "chapter": 2,
+            "chapterId": "job2",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Job 19:21",
+          "start": 290,
+          "end": 299,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "job",
+            "book": "job",
+            "chapter": 19,
+            "chapterId": "job19",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Job 42:10",
+          "start": 333,
+          "end": 342,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "job",
+            "book": "job",
+            "chapter": 42,
+            "chapterId": "job42",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 41:9",
+          "start": 391,
+          "end": 399,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 41,
+            "chapterId": "psalms41",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 14:20",
+          "start": 425,
+          "end": 436,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 14,
+            "chapterId": "proverbs14",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 17:17",
+          "start": 468,
+          "end": 479,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 17,
+            "chapterId": "proverbs17",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 18:24",
+          "start": 527,
+          "end": 538,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 18,
+            "chapterId": "proverbs18",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 19:4",
+          "start": 568,
+          "end": 578,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 19,
+            "chapterId": "proverbs19",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 22:24",
+          "start": 618,
+          "end": 629,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 22,
+            "chapterId": "proverbs22",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 27:6",
+          "start": 668,
+          "end": 678,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 27,
+            "chapterId": "proverbs27",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 27:17",
+          "start": 728,
+          "end": 739,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 27,
+            "chapterId": "proverbs27",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 41:8",
+          "start": 787,
+          "end": 796,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 41,
+            "chapterId": "isaiah41",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "a friend of publicans and sinners, Matt. 11:19 (Luke 7:34). he answered … Friend, I do thee no wrong, Matt. 20:13. Jesus said … Friend, wherefore art thou come, Matt. 26:50. Jesus … saith unto him, Go home to thy friends, Mark 5:19. because he is his friend, Luke 11:8. When thou makest a dinner … call not thy friends, Luke 14:12. Make to yourselves friends of the mammon of unrighteousness, Luke 16:9. betrayed both by parents … and friends, Luke 21:16. the same day Pilate and Herod were made friends, Luke 23:12. friend of the bridegroom … rejoiceth, John 3:29. Our friend Lazarus sleepeth, John 11:11. that a man lay down his life for his friends, John 15:13. If thou let this man go, thou art not Cæsar’s friend, John 19:12. gave him liberty to go unto his friends, Acts 27:3. Abraham … was called the Friend of God, James 2:23. friend of the world is the enemy of God, James 4:4.",
+      "references": [
+        {
+          "text": "Matt. 11:19",
+          "start": 35,
+          "end": 46,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 11,
+            "chapterId": "matthew11",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 7:34",
+          "start": 48,
+          "end": 57,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 7,
+            "chapterId": "luke7",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 20:13",
+          "start": 102,
+          "end": 113,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 20,
+            "chapterId": "matthew20",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 26:50",
+          "start": 161,
+          "end": 172,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 26,
+            "chapterId": "matthew26",
+            "verses": [
+              {
+                "start": 50,
+                "end": 50
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 5:19",
+          "start": 222,
+          "end": 231,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 5,
+            "chapterId": "mark5",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 11:8",
+          "start": 259,
+          "end": 268,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 11,
+            "chapterId": "luke11",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 14:12",
+          "start": 320,
+          "end": 330,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 14,
+            "chapterId": "luke14",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 16:9",
+          "start": 393,
+          "end": 402,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 16,
+            "chapterId": "luke16",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 21:16",
+          "start": 444,
+          "end": 454,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 21,
+            "chapterId": "luke21",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 23:12",
+          "start": 505,
+          "end": 515,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 23,
+            "chapterId": "luke23",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 3:29",
+          "start": 555,
+          "end": 564,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 3,
+            "chapterId": "john3",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 11:11",
+          "start": 595,
+          "end": 605,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 11,
+            "chapterId": "john11",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 15:13",
+          "start": 653,
+          "end": 663,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 15,
+            "chapterId": "john15",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 19:12",
+          "start": 719,
+          "end": 729,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 19,
+            "chapterId": "john19",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 27:3",
+          "start": 772,
+          "end": 781,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 27,
+            "chapterId": "acts27",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "James 2:23",
+          "start": 823,
+          "end": 833,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "james",
+            "book": "james",
+            "chapter": 2,
+            "chapterId": "james2",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "James 4:4",
+          "start": 876,
+          "end": 885,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "james",
+            "book": "james",
+            "chapter": 4,
+            "chapterId": "james4",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "thou art a true friend unto my son, 2 Ne. 1:30. rejected by those who were once his friends, Alma 15:16. Alma did rejoice … to see his brethren, Alma 17:2. Teancum … a true friend to liberty, Alma 62:37. I have not friends nor whither to go, Morm. 8:5. he will turn away his anger from … our friends, Ether 1:36. friends of Jared and his brother, Ether 2:1 (6:16).",
+      "references": [
+        {
+          "text": "2 Ne. 1:30",
+          "start": 36,
+          "end": 46,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 1,
+            "chapterId": "2nephi1",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 15:16",
+          "start": 93,
+          "end": 103,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 15,
+            "chapterId": "alma15",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 17:2",
+          "start": 145,
+          "end": 154,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 17,
+            "chapterId": "alma17",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 62:37",
+          "start": 192,
+          "end": 202,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 62,
+            "chapterId": "alma62",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 8:5",
+          "start": 242,
+          "end": 251,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 8,
+            "chapterId": "mormon8",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 1:36",
+          "start": 301,
+          "end": 311,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 1,
+            "chapterId": "ether1",
+            "verses": [
+              {
+                "start": 36,
+                "end": 36
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 2:1",
+          "start": 347,
+          "end": 356,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 2,
+            "chapterId": "ether2",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "6:16",
+          "start": 358,
+          "end": 362,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 6,
+            "chapterId": "ether6",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "I was wounded in the house of my friends, D&C 45:52. mine apostles … are my friends, D&C 84:63. that ye become even as my friends, D&C 84:77. your friend and brother through the grace, D&C 88:133. I will call you friends, for you are my friends, D&C 93:45. Thy friends do stand by thee, D&C 121:9. all men are justified in defending … their friends, D&C 134:11.",
+      "references": [
+        {
+          "text": "D&C 45:52",
+          "start": 42,
+          "end": 51,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 45,
+            "chapterId": "doctrineandcovenants45",
+            "verses": [
+              {
+                "start": 52,
+                "end": 52
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 84:63",
+          "start": 85,
+          "end": 94,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 84,
+            "chapterId": "doctrineandcovenants84",
+            "verses": [
+              {
+                "start": 63,
+                "end": 63
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 84:77",
+          "start": 131,
+          "end": 140,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 84,
+            "chapterId": "doctrineandcovenants84",
+            "verses": [
+              {
+                "start": 77,
+                "end": 77
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 88:133",
+          "start": 185,
+          "end": 195,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 133,
+                "end": 133
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 93:45",
+          "start": 246,
+          "end": 255,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 93,
+            "chapterId": "doctrineandcovenants93",
+            "verses": [
+              {
+                "start": 45,
+                "end": 45
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 121:9",
+          "start": 287,
+          "end": 296,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 134:11",
+          "start": 350,
+          "end": 360,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 134,
+            "chapterId": "doctrineandcovenants134",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "persecuted by those who ought to have been my friends, JS—H 1:28. father’s family … had become very friendly, JS—H 1:75.",
+      "references": [
+        {
+          "text": "JS—H 1:28",
+          "start": 55,
+          "end": 64,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "JS—H 1:75",
+          "start": 110,
+          "end": 119,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 75,
+                "end": 75
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-brotherhood-and-sisterhood",
+      "slug": "brotherhood-and-sisterhood",
+      "title": "Brotherhood and Sisterhood"
+    },
+    {
+      "entryId": "tg-fellowshipping",
+      "slug": "fellowshipping",
+      "title": "Fellowshipping"
+    }
+  ],
+  "slug": "friendship",
+  "title": "Friendship, Friend",
+  "type": "tg"
+}

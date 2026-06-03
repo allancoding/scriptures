@@ -1,0 +1,76 @@
+{
+  "_id": "tg-dissension",
+  "content": [
+    {
+      "text": "Paul and Barnabas had no small dissension and disputation with them, Acts 15:2. a dissension between the Pharisees and the Sadducees, Acts 23:7.",
+      "references": [
+        {
+          "text": "Acts 15:2",
+          "start": 69,
+          "end": 78,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 15,
+            "chapterId": "acts15",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 23:7",
+          "start": 134,
+          "end": 143,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 23,
+            "chapterId": "acts23",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-contention",
+      "slug": "contention",
+      "title": "Contention"
+    },
+    {
+      "entryId": "tg-disputations",
+      "slug": "disputations",
+      "title": "Disputations"
+    },
+    {
+      "entryId": "tg-false-doctrine",
+      "slug": "false-doctrine",
+      "title": "False Doctrine"
+    },
+    {
+      "entryId": "tg-holy-ghost-loss-of",
+      "slug": "holy-ghost-loss-of",
+      "title": "Holy Ghost, Loss of"
+    },
+    {
+      "entryId": "tg-variance",
+      "slug": "variance",
+      "title": "Variance"
+    }
+  ],
+  "slug": "dissension",
+  "title": "Dissension",
+  "type": "tg"
+}

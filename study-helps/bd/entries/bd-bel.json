@@ -1,0 +1,68 @@
+{
+  "_id": "bd-bel",
+  "content": [
+    {
+      "text": "A Babylonian god, same as Baal (Isa. 46:1; Jer. 50:2; 51:44).",
+      "references": [
+        {
+          "text": "Isa. 46:1",
+          "start": 32,
+          "end": 41,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 46,
+            "chapterId": "isaiah46",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 50:2",
+          "start": 43,
+          "end": 52,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 50,
+            "chapterId": "jeremiah50",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "51:44",
+          "start": 54,
+          "end": 59,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 51,
+            "chapterId": "jeremiah51",
+            "verses": [
+              {
+                "start": 44,
+                "end": 44
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "bel",
+  "title": "Bel",
+  "type": "bd"
+}

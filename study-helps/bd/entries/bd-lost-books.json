@@ -1,0 +1,622 @@
+{
+  "_id": "bd-lost-books",
+  "content": [
+    {
+      "text": "The so-called lost books of the Bible are those documents that are mentioned in the Bible in such a way that it is evident they were considered authentic and valuable but that are not found in the Bible today. Sometimes called missing scripture, they consist of at least the following: book of the Wars of the Lord (Num. 21:14); book of Jasher (Josh. 10:13; 2 Sam. 1:18); book of the acts of Solomon (1 Kgs. 11:41); book of Samuel the seer (1 Chr. 29:29); book of Gad the seer (1 Chr. 29:29); book of Nathan the prophet (1 Chr. 29:29; 2 Chr. 9:29); prophecy of Ahijah (2 Chr. 9:29); visions of Iddo the seer (2 Chr. 9:29; 12:15; 13:22); book of Shemaiah (2 Chr. 12:15); book of Jehu (2 Chr. 20:34); sayings of the seers (2 Chr. 33:19); an epistle of Paul to the Corinthians, earlier than our present 1 Corinthians (1 Cor. 5:9); possibly an earlier epistle to the Ephesians (Eph. 3:3); an epistle to the Church at Laodicea (Col. 4:16); and some prophecies of Enoch, known to Jude (Jude 1:14). To these rather clear references to inspired writings other than our current Bible may be added another list that has allusions to writings that may or may not be contained within our present text but may perhaps be known by a different title; for example, the book of the covenant (Ex. 24:7), which may or may not be included in the current book of Exodus; the manner of the kingdom, written by Samuel (1 Sam. 10:25); the rest of the acts of Uzziah written by Isaiah (2 Chr. 26:22).",
+      "references": [
+        {
+          "text": "Num. 21:14",
+          "start": 316,
+          "end": 326,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 21,
+            "chapterId": "numbers21",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Josh. 10:13",
+          "start": 345,
+          "end": 356,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "josh",
+            "book": "joshua",
+            "chapter": 10,
+            "chapterId": "joshua10",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Sam. 1:18",
+          "start": 358,
+          "end": 369,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-sam",
+            "book": "2samuel",
+            "chapter": 1,
+            "chapterId": "2samuel1",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Kgs. 11:41",
+          "start": 401,
+          "end": 413,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 11,
+            "chapterId": "1kings11",
+            "verses": [
+              {
+                "start": 41,
+                "end": 41
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Chr. 29:29",
+          "start": 441,
+          "end": 453,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-chr",
+            "book": "1chronicles",
+            "chapter": 29,
+            "chapterId": "1chronicles29",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Chr. 29:29",
+          "start": 478,
+          "end": 490,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-chr",
+            "book": "1chronicles",
+            "chapter": 29,
+            "chapterId": "1chronicles29",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Chr. 29:29",
+          "start": 521,
+          "end": 533,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-chr",
+            "book": "1chronicles",
+            "chapter": 29,
+            "chapterId": "1chronicles29",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Chr. 9:29",
+          "start": 535,
+          "end": 546,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-chr",
+            "book": "2chronicles",
+            "chapter": 9,
+            "chapterId": "2chronicles9",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Chr. 9:29",
+          "start": 569,
+          "end": 580,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-chr",
+            "book": "2chronicles",
+            "chapter": 9,
+            "chapterId": "2chronicles9",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Chr. 9:29",
+          "start": 609,
+          "end": 620,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-chr",
+            "book": "2chronicles",
+            "chapter": 9,
+            "chapterId": "2chronicles9",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "12:15",
+          "start": 622,
+          "end": 627,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-chr",
+            "book": "2chronicles",
+            "chapter": 12,
+            "chapterId": "2chronicles12",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "13:22",
+          "start": 629,
+          "end": 634,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-chr",
+            "book": "2chronicles",
+            "chapter": 13,
+            "chapterId": "2chronicles13",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Chr. 12:15",
+          "start": 655,
+          "end": 667,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-chr",
+            "book": "2chronicles",
+            "chapter": 12,
+            "chapterId": "2chronicles12",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Chr. 20:34",
+          "start": 684,
+          "end": 696,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-chr",
+            "book": "2chronicles",
+            "chapter": 20,
+            "chapterId": "2chronicles20",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Chr. 33:19",
+          "start": 721,
+          "end": 733,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-chr",
+            "book": "2chronicles",
+            "chapter": 33,
+            "chapterId": "2chronicles33",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 5:9",
+          "start": 815,
+          "end": 825,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 5,
+            "chapterId": "1corinthians5",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eph. 3:3",
+          "start": 874,
+          "end": 882,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "eph",
+            "book": "ephesians",
+            "chapter": 3,
+            "chapterId": "ephesians3",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Col. 4:16",
+          "start": 923,
+          "end": 932,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "col",
+            "book": "colossians",
+            "chapter": 4,
+            "chapterId": "colossians4",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jude 1:14",
+          "start": 980,
+          "end": 989,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "jude",
+            "book": "jude",
+            "chapter": 1,
+            "chapterId": "jude1",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 24:7",
+          "start": 1275,
+          "end": 1283,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 24,
+            "chapterId": "exodus24",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Sam. 10:25",
+          "start": 1396,
+          "end": 1408,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 10,
+            "chapterId": "1samuel10",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Chr. 26:22",
+          "start": 1461,
+          "end": 1473,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-chr",
+            "book": "2chronicles",
+            "chapter": 26,
+            "chapterId": "2chronicles26",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "The foregoing items attest to the fact that our present Bible does not contain all of the word of the Lord that He gave to His people in former times and remind us that the Bible, in its present form, is rather incomplete.",
+      "references": []
+    },
+    {
+      "text": "Matthew’s reference to a prophecy that Jesus would be a Nazarene (2:23) is interesting when it is considered that our present Old Testament seems to have no statement as such. There is a possibility, however, that Matthew alluded to Isa. 11:1, which prophesies of the Messiah as a Branch from the root of Jesse, the father of David. The Hebrew word for branch in this case is netzer, the source word of Nazarene and Nazareth. Additional references to the Branch as the Savior and Messiah are found in Jer. 23:5; 33:15; Zech. 3:8; 6:12; these use a synonymous Hebrew word for branch, tzemakh.",
+      "references": [
+        {
+          "text": "2:23",
+          "start": 66,
+          "end": 70,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 2,
+            "chapterId": "matthew2",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 11:1",
+          "start": 233,
+          "end": 242,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 11,
+            "chapterId": "isaiah11",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 23:5",
+          "start": 501,
+          "end": 510,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 23,
+            "chapterId": "jeremiah23",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "33:15",
+          "start": 512,
+          "end": 517,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 33,
+            "chapterId": "jeremiah33",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Zech. 3:8",
+          "start": 519,
+          "end": 528,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "zech",
+            "book": "zechariah",
+            "chapter": 3,
+            "chapterId": "zechariah3",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "6:12",
+          "start": 530,
+          "end": 534,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "zech",
+            "book": "zechariah",
+            "chapter": 6,
+            "chapterId": "zechariah6",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "The Book of Mormon makes reference to writings of Old Testament times and connection that are not found in the Bible, the Book of Mormon, or in any other known source. These writings are of Zenock, Zenos, and Neum (1 Ne. 19:10; Alma 33:3–17). An extensive prophecy by Joseph in Egypt (which is not in the Bible) is also apparent from 2 Ne. 3:4–22, and a prophecy of Jacob (not found in the Bible) is given in Alma 46:24–26. These writings were evidently contained on the plates of brass spoken of in the Book of Mormon (1 Ne. 5:10–13).",
+      "references": [
+        {
+          "text": "1 Ne. 19:10",
+          "start": 215,
+          "end": 226,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 19,
+            "chapterId": "1nephi19",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 33:3–17",
+          "start": 228,
+          "end": 240,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 33,
+            "chapterId": "alma33",
+            "verses": [
+              {
+                "start": 3,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 3:4–22",
+          "start": 334,
+          "end": 346,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 3,
+            "chapterId": "2nephi3",
+            "verses": [
+              {
+                "start": 4,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 46:24–26",
+          "start": 409,
+          "end": 422,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 46,
+            "chapterId": "alma46",
+            "verses": [
+              {
+                "start": 24,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Ne. 5:10–13",
+          "start": 520,
+          "end": 533,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 5,
+            "chapterId": "1nephi5",
+            "verses": [
+              {
+                "start": 10,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "lost-books",
+  "title": "Lost books",
+  "type": "bd"
+}

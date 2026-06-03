@@ -1,0 +1,73 @@
+{
+  "_id": "tg-weighty",
+  "content": [
+    {
+      "text": "sand weighty; but a fool’s wrath is heavier, Prov. 27:3.",
+      "references": [
+        {
+          "text": "Prov. 27:3",
+          "start": 45,
+          "end": 55,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 27,
+            "chapterId": "proverbs27",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "omitted the weightier matters of the law, Matt. 23:23 (D&C 117:8).",
+      "references": [
+        {
+          "text": "Matt. 23:23",
+          "start": 42,
+          "end": 53,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 23,
+            "chapterId": "matthew23",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 117:8",
+          "start": 55,
+          "end": 64,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 117,
+            "chapterId": "doctrineandcovenants117",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "weighty",
+  "title": "Weighty, Weightier",
+  "type": "tg"
+}

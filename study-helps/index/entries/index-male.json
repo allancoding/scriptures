@@ -1,0 +1,210 @@
+{
+  "_id": "index-male",
+  "content": [
+    {
+      "text": "spacious building filled with people, both male and female, 1 Ne. 8:27. he who fights against Zion, both male and female, shall perish, 2 Ne. 10:16. the Lord denies none who come to him, male and female, 2 Ne. 26:33. Church members are liberal to all, both male and female, Alma 1:30. restoration shall come to all, both male and female, Alma 11:44. gather thy flocks, both male and female, Ether 1:41.",
+      "references": [
+        {
+          "text": "1 Ne. 8:27",
+          "start": 60,
+          "end": 70,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 8,
+            "chapterId": "1nephi8",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 10:16",
+          "start": 136,
+          "end": 147,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 10,
+            "chapterId": "2nephi10",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 26:33",
+          "start": 204,
+          "end": 215,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 26,
+            "chapterId": "2nephi26",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 1:30",
+          "start": 274,
+          "end": 283,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 1,
+            "chapterId": "alma1",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 11:44",
+          "start": 338,
+          "end": 348,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 11,
+            "chapterId": "alma11",
+            "verses": [
+              {
+                "start": 44,
+                "end": 44
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 1:41",
+          "start": 391,
+          "end": 401,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 1,
+            "chapterId": "ether1",
+            "verses": [
+              {
+                "start": 41,
+                "end": 41
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "God created man, male and female, D&C 20:18.",
+      "references": [
+        {
+          "text": "D&C 20:18",
+          "start": 34,
+          "end": 43,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 20,
+            "chapterId": "doctrineandcovenants20",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "male and female created in image of the Son, Moses 2:27 (6:9; Abr. 4:27).",
+      "references": [
+        {
+          "text": "Moses 2:27",
+          "start": 45,
+          "end": 55,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 2,
+            "chapterId": "moses2",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "6:9",
+          "start": 57,
+          "end": 60,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 6,
+            "chapterId": "moses6",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Abr. 4:27",
+          "start": 62,
+          "end": 71,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 4,
+            "chapterId": "abraham4",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-man",
+      "slug": "man",
+      "title": "Man"
+    }
+  ],
+  "slug": "male",
+  "title": "Male",
+  "type": "index"
+}

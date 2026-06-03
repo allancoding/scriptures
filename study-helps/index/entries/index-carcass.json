@@ -1,0 +1,97 @@
+{
+  "_id": "index-carcass",
+  "content": [
+    {
+      "text": "carcasses of inhabitants of Ammonihah mangled by dogs and wild beasts, Alma 16:10. people devour carcasses of them which fell by the way, Ether 9:34.",
+      "references": [
+        {
+          "text": "Alma 16:10",
+          "start": 71,
+          "end": 81,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 16,
+            "chapterId": "alma16",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 9:34",
+          "start": 138,
+          "end": 148,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 9,
+            "chapterId": "ether9",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "where carcass is, there will eagles be gathered, JS—M 1:27 (Matt. 24:28).",
+      "references": [
+        {
+          "text": "JS—M 1:27",
+          "start": 49,
+          "end": 58,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-m",
+            "book": "josephsmithmatthew",
+            "chapter": 1,
+            "chapterId": "josephsmithmatthew1",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 24:28",
+          "start": 60,
+          "end": 71,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 24,
+            "chapterId": "matthew24",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-body",
+      "slug": "body",
+      "title": "Body"
+    }
+  ],
+  "slug": "carcass",
+  "title": "Carcass",
+  "type": "index"
+}

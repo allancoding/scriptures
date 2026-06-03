@@ -1,0 +1,816 @@
+{
+  "_id": "tg-declare",
+  "content": [
+    {
+      "text": "my name may be declared throughout all the earth, Ex. 9:16 (Rom. 9:17). began Moses to declare this law, Deut. 1:5. Declare his glory among the heathen, 1 Chr. 16:24 (Ps. 96:3). declare among the people his doings, Ps. 9:11. heavens declare the glory of God, Ps. 19:1. declare thy name unto my brethren, Ps. 22:22 (Heb. 2:12). declare his righteousness unto a people, Ps. 22:31. I will declare mine iniquity, Ps. 38:18. have declared thy faithfulness and thy salvation, Ps. 40:10. heavens shall declare his righteousness, Ps. 50:6 (97:6; Isa. 57:12). watchman, let him declare what he seeth, Isa. 21:6. Who hath declared from the beginning, Isa. 41:26. I declare things that are right, Isa. 45:19. Declaring the end from the beginning, Isa. 46:10. have declared the former things from the beginning, Isa. 48:3. who shall declare his generation, Isa. 53:8 (Acts 8:33). they shall declare my glory among the Gentiles, Isa. 66:19. declareth unto man what is his thought, Amos 4:13.",
+      "references": [
+        {
+          "text": "Ex. 9:16",
+          "start": 50,
+          "end": 58,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 9,
+            "chapterId": "exodus9",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 9:17",
+          "start": 60,
+          "end": 69,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 9,
+            "chapterId": "romans9",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 1:5",
+          "start": 105,
+          "end": 114,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 1,
+            "chapterId": "deuteronomy1",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Chr. 16:24",
+          "start": 153,
+          "end": 165,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-chr",
+            "book": "1chronicles",
+            "chapter": 16,
+            "chapterId": "1chronicles16",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 96:3",
+          "start": 167,
+          "end": 175,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 96,
+            "chapterId": "psalms96",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 9:11",
+          "start": 215,
+          "end": 223,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 9,
+            "chapterId": "psalms9",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 19:1",
+          "start": 259,
+          "end": 267,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 19,
+            "chapterId": "psalms19",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 22:22",
+          "start": 304,
+          "end": 313,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 22,
+            "chapterId": "psalms22",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 2:12",
+          "start": 315,
+          "end": 324,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 2,
+            "chapterId": "hebrews2",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 22:31",
+          "start": 368,
+          "end": 377,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 22,
+            "chapterId": "psalms22",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 38:18",
+          "start": 409,
+          "end": 418,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 38,
+            "chapterId": "psalms38",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 40:10",
+          "start": 470,
+          "end": 479,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 40,
+            "chapterId": "psalms40",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 50:6",
+          "start": 522,
+          "end": 530,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 50,
+            "chapterId": "psalms50",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "97:6",
+          "start": 532,
+          "end": 536,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 97,
+            "chapterId": "psalms97",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 57:12",
+          "start": 538,
+          "end": 548,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 57,
+            "chapterId": "isaiah57",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 21:6",
+          "start": 592,
+          "end": 601,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 21,
+            "chapterId": "isaiah21",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 41:26",
+          "start": 641,
+          "end": 651,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 41,
+            "chapterId": "isaiah41",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 45:19",
+          "start": 686,
+          "end": 696,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 45,
+            "chapterId": "isaiah45",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 46:10",
+          "start": 736,
+          "end": 746,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 46,
+            "chapterId": "isaiah46",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 48:3",
+          "start": 800,
+          "end": 809,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 48,
+            "chapterId": "isaiah48",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 53:8",
+          "start": 845,
+          "end": 854,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 53,
+            "chapterId": "isaiah53",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 8:33",
+          "start": 856,
+          "end": 865,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 8,
+            "chapterId": "acts8",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 66:19",
+          "start": 916,
+          "end": 926,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 66,
+            "chapterId": "isaiah66",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Amos 4:13",
+          "start": 968,
+          "end": 977,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "amos",
+            "book": "amos",
+            "chapter": 4,
+            "chapterId": "amos4",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Declare unto us the parable of the tares, Matt. 13:36. the only begotten Son … hath declared him, John 1:18. I have declared unto them thy name, John 17:26. we declare unto you glad tidings, Acts 13:32. declared all things that God had done, Acts 15:4. ye ignorantly worship, him declare I unto you, Acts 17:23. declared to be the Son of God, Rom. 1:4. declaring unto you the testimony of God, 1 Cor. 2:1. I declare unto you the gospel, 1 Cor. 15:1. That which we have seen and heard declare we unto you, 1 Jn. 1:3.",
+      "references": [
+        {
+          "text": "Matt. 13:36",
+          "start": 42,
+          "end": 53,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 13,
+            "chapterId": "matthew13",
+            "verses": [
+              {
+                "start": 36,
+                "end": 36
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 1:18",
+          "start": 98,
+          "end": 107,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 1,
+            "chapterId": "john1",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 17:26",
+          "start": 145,
+          "end": 155,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 17,
+            "chapterId": "john17",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 13:32",
+          "start": 191,
+          "end": 201,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 13,
+            "chapterId": "acts13",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 15:4",
+          "start": 242,
+          "end": 251,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 15,
+            "chapterId": "acts15",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 17:23",
+          "start": 300,
+          "end": 310,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 17,
+            "chapterId": "acts17",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 1:4",
+          "start": 343,
+          "end": 351,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 1,
+            "chapterId": "romans1",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 2:1",
+          "start": 394,
+          "end": 404,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 2,
+            "chapterId": "1corinthians2",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 15:1",
+          "start": 437,
+          "end": 448,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 15,
+            "chapterId": "1corinthians15",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Jn. 1:3",
+          "start": 505,
+          "end": 514,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-jn",
+            "book": "1john",
+            "chapter": 1,
+            "chapterId": "1john1",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "whoso shall declare more or less than this, 3 Ne. 11:40 (D&C 10:68).",
+      "references": [
+        {
+          "text": "3 Ne. 11:40",
+          "start": 44,
+          "end": 55,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 11,
+            "chapterId": "3nephi11",
+            "verses": [
+              {
+                "start": 40,
+                "end": 40
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 10:68",
+          "start": 57,
+          "end": 66,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 10,
+            "chapterId": "doctrineandcovenants10",
+            "verses": [
+              {
+                "start": 68,
+                "end": 68
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "declare my word, but first seek to obtain my word, D&C 11:21. thou shalt declare glad tidings, D&C 19:29 (62:5). declare faithfully the commandments, D&C 28:3. all declaring their dispensation, D&C 128:21.",
+      "references": [
+        {
+          "text": "D&C 11:21",
+          "start": 51,
+          "end": 60,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 11,
+            "chapterId": "doctrineandcovenants11",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 19:29",
+          "start": 95,
+          "end": 104,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 19,
+            "chapterId": "doctrineandcovenants19",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "62:5",
+          "start": 106,
+          "end": 110,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 62,
+            "chapterId": "doctrineandcovenants62",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 28:3",
+          "start": 150,
+          "end": 158,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 28,
+            "chapterId": "doctrineandcovenants28",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 128:21",
+          "start": 194,
+          "end": 204,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 128,
+            "chapterId": "doctrineandcovenants128",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "go forth and declare his Gospel, Moses 8:19.",
+      "references": [
+        {
+          "text": "Moses 8:19",
+          "start": 33,
+          "end": 43,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 8,
+            "chapterId": "moses8",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-preaching",
+      "slug": "preaching",
+      "title": "Preaching"
+    },
+    {
+      "entryId": "tg-proclaim",
+      "slug": "proclaim",
+      "title": "Proclaim"
+    },
+    {
+      "entryId": "tg-prophecy",
+      "slug": "prophecy",
+      "title": "Prophecy"
+    },
+    {
+      "entryId": "tg-publish",
+      "slug": "publish",
+      "title": "Publish"
+    },
+    {
+      "entryId": "tg-tell",
+      "slug": "tell",
+      "title": "Tell"
+    }
+  ],
+  "slug": "declare",
+  "title": "Declare",
+  "type": "tg"
+}

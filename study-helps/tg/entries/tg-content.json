@@ -1,0 +1,102 @@
+{
+  "_id": "tg-content",
+  "content": [
+    {
+      "text": "be content with your wages, Luke 3:14. food and raiment let us be therewith content, 1 Tim. 6:8. be content with such things as ye have, Heb. 13:5.",
+      "references": [
+        {
+          "text": "Luke 3:14",
+          "start": 28,
+          "end": 37,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 3,
+            "chapterId": "luke3",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Tim. 6:8",
+          "start": 85,
+          "end": 95,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 6,
+            "chapterId": "1timothy6",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 13:5",
+          "start": 137,
+          "end": 146,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 13,
+            "chapterId": "hebrews13",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "be content with the things which the Lord hath allotted unto me, Alma 29:3.",
+      "references": [
+        {
+          "text": "Alma 29:3",
+          "start": 65,
+          "end": 74,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 29,
+            "chapterId": "alma29",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-contentment",
+      "slug": "contentment",
+      "title": "Contentment"
+    },
+    {
+      "entryId": "tg-satisfy",
+      "slug": "satisfy",
+      "title": "Satisfy"
+    }
+  ],
+  "slug": "content",
+  "title": "Content",
+  "type": "tg"
+}

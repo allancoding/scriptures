@@ -1,0 +1,120 @@
+{
+  "_id": "index-bruise",
+  "content": [
+    {
+      "text": "the Lord was bruised for our iniquities, Mosiah 14:5 (Isa. 53:5). it pleased the Lord to bruise the Messiah, Mosiah 14:10 (Isa. 53:10).",
+      "references": [
+        {
+          "text": "Mosiah 14:5",
+          "start": 41,
+          "end": 52,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 14,
+            "chapterId": "mosiah14",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 53:5",
+          "start": 54,
+          "end": 63,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 53,
+            "chapterId": "isaiah53",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 14:10",
+          "start": 109,
+          "end": 121,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 14,
+            "chapterId": "mosiah14",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 53:10",
+          "start": 123,
+          "end": 133,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 53,
+            "chapterId": "isaiah53",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "tobacco an herb for bruises and all sick cattle, D&C 89:8.",
+      "references": [
+        {
+          "text": "D&C 89:8",
+          "start": 49,
+          "end": 57,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 89,
+            "chapterId": "doctrineandcovenants89",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-hurt",
+      "slug": "hurt",
+      "title": "Hurt"
+    },
+    {
+      "entryId": "index-wound",
+      "slug": "wound",
+      "title": "Wound"
+    }
+  ],
+  "slug": "bruise",
+  "title": "Bruise",
+  "type": "index"
+}

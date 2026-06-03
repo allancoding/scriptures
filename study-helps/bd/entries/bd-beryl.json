@@ -1,0 +1,50 @@
+{
+  "_id": "bd-beryl",
+  "content": [
+    {
+      "text": "A precious stone, pale green in color. It was the first stone of the fourth row of the high priest’s breastplate (Ex. 28:20) and the eighth stone in the foundation of the wall of the heavenly Jerusalem (Rev. 21:20).",
+      "references": [
+        {
+          "text": "Ex. 28:20",
+          "start": 114,
+          "end": 123,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 28,
+            "chapterId": "exodus28",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 21:20",
+          "start": 203,
+          "end": 213,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 21,
+            "chapterId": "revelation21",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "beryl",
+  "title": "Beryl",
+  "type": "bd"
+}

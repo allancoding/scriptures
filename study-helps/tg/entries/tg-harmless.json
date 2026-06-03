@@ -1,0 +1,61 @@
+{
+  "_id": "tg-harmless",
+  "content": [
+    {
+      "text": "be ye therefore wise as serpents, and harmless as doves, Matt. 10:16.",
+      "references": [
+        {
+          "text": "Matt. 10:16",
+          "start": 57,
+          "end": 68,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 10,
+            "chapterId": "matthew10",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Ammon being wise, yet harmless, Alma 18:22.",
+      "references": [
+        {
+          "text": "Alma 18:22",
+          "start": 32,
+          "end": 42,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 18,
+            "chapterId": "alma18",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-innocence",
+      "slug": "innocence",
+      "title": "Innocence"
+    }
+  ],
+  "slug": "harmless",
+  "title": "Harmless",
+  "type": "tg"
+}

@@ -1,0 +1,590 @@
+{
+  "_id": "tg-portion",
+  "content": [
+    {
+      "text": "priests had a portion assigned them of Pharaoh, Gen. 47:22. I have given to thee one portion above thy brethren, Gen. 48:22. Lord’s portion is his people, Deut. 32:9. What portion have we in David, 1 Kgs. 12:16 (2 Chr. 10:16). let a double portion of thy spirit be upon me, 2 Kgs. 2:9. Lord is the portion of mine inheritance, Ps. 16:5. Thou art my portion, O Lord, Ps. 119:57. will I divide him a portion with the great, Isa. 53:12 (Mosiah 14:12). portion of Jacob is not like them, Jer. 10:16. not defile himself with the portion of the king’s meat, Dan. 1:8. Lord shall inherit Judah his portion, Zech. 2:12.",
+      "references": [
+        {
+          "text": "Gen. 47:22",
+          "start": 48,
+          "end": 58,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 47,
+            "chapterId": "genesis47",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 48:22",
+          "start": 113,
+          "end": 123,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 48,
+            "chapterId": "genesis48",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 32:9",
+          "start": 155,
+          "end": 165,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 32,
+            "chapterId": "deuteronomy32",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Kgs. 12:16",
+          "start": 198,
+          "end": 210,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 12,
+            "chapterId": "1kings12",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Chr. 10:16",
+          "start": 212,
+          "end": 224,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-chr",
+            "book": "2chronicles",
+            "chapter": 10,
+            "chapterId": "2chronicles10",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Kgs. 2:9",
+          "start": 274,
+          "end": 284,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 2,
+            "chapterId": "2kings2",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 16:5",
+          "start": 327,
+          "end": 335,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 16,
+            "chapterId": "psalms16",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 119:57",
+          "start": 366,
+          "end": 376,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 119,
+            "chapterId": "psalms119",
+            "verses": [
+              {
+                "start": 57,
+                "end": 57
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 53:12",
+          "start": 422,
+          "end": 432,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 53,
+            "chapterId": "isaiah53",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 14:12",
+          "start": 434,
+          "end": 446,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 14,
+            "chapterId": "mosiah14",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 10:16",
+          "start": 484,
+          "end": 494,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 10,
+            "chapterId": "jeremiah10",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 1:8",
+          "start": 552,
+          "end": 560,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 1,
+            "chapterId": "daniel1",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Zech. 2:12",
+          "start": 600,
+          "end": 610,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "zech",
+            "book": "zechariah",
+            "chapter": 2,
+            "chapterId": "zechariah2",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "give them their portion of meat in due season, Luke 12:42. lord of that servant … will appoint him his portion, Luke 12:46.",
+      "references": [
+        {
+          "text": "Luke 12:42",
+          "start": 47,
+          "end": 57,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 12,
+            "chapterId": "luke12",
+            "verses": [
+              {
+                "start": 42,
+                "end": 42
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 12:46",
+          "start": 112,
+          "end": 122,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 12,
+            "chapterId": "luke12",
+            "verses": [
+              {
+                "start": 46,
+                "end": 46
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "harden their hearts, to them is given the lesser portion of the word, Alma 12:11. prayed … the Lord would grant unto them a portion of his Spirit, Alma 17:9 (18:35). they will give us a portion of their substance, Alma 27:24. give place for a portion of my words, Alma 32:27.",
+      "references": [
+        {
+          "text": "Alma 12:11",
+          "start": 70,
+          "end": 80,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 12,
+            "chapterId": "alma12",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 17:9",
+          "start": 147,
+          "end": 156,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 17,
+            "chapterId": "alma17",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "18:35",
+          "start": 158,
+          "end": 163,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 18,
+            "chapterId": "alma18",
+            "verses": [
+              {
+                "start": 35,
+                "end": 35
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 27:24",
+          "start": 214,
+          "end": 224,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 27,
+            "chapterId": "alma27",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 32:27",
+          "start": 264,
+          "end": 274,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 32,
+            "chapterId": "alma32",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Impart a portion of thy property, D&C 19:34. appoint unto this people their portions, every man equal according to his family, D&C 51:3. he will … appoint every man his portion, D&C 78:21. treasure … words of life, and it shall be given you … that portion that shall be meted unto every man, D&C 84:85. quickened by a portion of the celestial glory, D&C 88:29. will cut off those wicked … and appoint them their portion, D&C 101:90 (124:8; JS—M 1:54). any man … impart not his portion … lift up his eyes in hell, D&C 104:18. he hath fallen from his exaltation, and received his portion, D&C 132:39.",
+      "references": [
+        {
+          "text": "D&C 19:34",
+          "start": 34,
+          "end": 43,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 19,
+            "chapterId": "doctrineandcovenants19",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 51:3",
+          "start": 127,
+          "end": 135,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 51,
+            "chapterId": "doctrineandcovenants51",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 78:21",
+          "start": 178,
+          "end": 187,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 78,
+            "chapterId": "doctrineandcovenants78",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 84:85",
+          "start": 292,
+          "end": 301,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 84,
+            "chapterId": "doctrineandcovenants84",
+            "verses": [
+              {
+                "start": 85,
+                "end": 85
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 88:29",
+          "start": 350,
+          "end": 359,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 101:90",
+          "start": 421,
+          "end": 431,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 101,
+            "chapterId": "doctrineandcovenants101",
+            "verses": [
+              {
+                "start": 90,
+                "end": 90
+              }
+            ]
+          }
+        },
+        {
+          "text": "124:8",
+          "start": 433,
+          "end": 438,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 124,
+            "chapterId": "doctrineandcovenants124",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "JS—M 1:54",
+          "start": 440,
+          "end": 449,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-m",
+            "book": "josephsmithmatthew",
+            "chapter": 1,
+            "chapterId": "josephsmithmatthew1",
+            "verses": [
+              {
+                "start": 54,
+                "end": 54
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 104:18",
+          "start": 513,
+          "end": 523,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 104,
+            "chapterId": "doctrineandcovenants104",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 132:39",
+          "start": 587,
+          "end": 597,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 132,
+            "chapterId": "doctrineandcovenants132",
+            "verses": [
+              {
+                "start": 39,
+                "end": 39
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-divide",
+      "slug": "divide",
+      "title": "Divide"
+    },
+    {
+      "entryId": "tg-lot",
+      "slug": "lot",
+      "title": "Lot"
+    },
+    {
+      "entryId": "tg-part",
+      "slug": "part",
+      "title": "Part"
+    },
+    {
+      "entryId": "tg-piece",
+      "slug": "piece",
+      "title": "Piece"
+    }
+  ],
+  "slug": "portion",
+  "title": "Portion",
+  "type": "tg"
+}

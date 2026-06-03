@@ -1,0 +1,84 @@
+{
+  "_id": "tg-pitch",
+  "content": [
+    {
+      "text": "Moses took the tabernacle, and pitched it without the camp, Ex. 33:7.",
+      "references": [
+        {
+          "text": "Ex. 33:7",
+          "start": 60,
+          "end": 68,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 33,
+            "chapterId": "exodus33",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "the true tabernacle, which the Lord pitched, Heb. 8:2.",
+      "references": [
+        {
+          "text": "Heb. 8:2",
+          "start": 45,
+          "end": 53,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 8,
+            "chapterId": "hebrews8",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "like unto the children of Israel, pitching their tents by the way, D&C 61:25.",
+      "references": [
+        {
+          "text": "D&C 61:25",
+          "start": 67,
+          "end": 76,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 61,
+            "chapterId": "doctrineandcovenants61",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-set",
+      "slug": "set",
+      "title": "Set"
+    }
+  ],
+  "slug": "pitch",
+  "title": "Pitch",
+  "type": "tg"
+}

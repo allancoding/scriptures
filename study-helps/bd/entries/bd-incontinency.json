@@ -1,0 +1,50 @@
+{
+  "_id": "bd-incontinency",
+  "content": [
+    {
+      "text": "Lack of self-control (1 Cor. 7:5; 2 Tim. 3:3).",
+      "references": [
+        {
+          "text": "1 Cor. 7:5",
+          "start": 22,
+          "end": 32,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 7,
+            "chapterId": "1corinthians7",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Tim. 3:3",
+          "start": 34,
+          "end": 44,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-tim",
+            "book": "2timothy",
+            "chapter": 3,
+            "chapterId": "2timothy3",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "incontinency",
+  "title": "Incontinency",
+  "type": "bd"
+}

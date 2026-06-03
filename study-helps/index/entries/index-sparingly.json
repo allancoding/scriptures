@@ -1,0 +1,38 @@
+{
+  "_id": "index-sparingly",
+  "content": [
+    {
+      "text": "flesh should be used sparingly, D&C 89:12.",
+      "references": [
+        {
+          "text": "D&C 89:12",
+          "start": 32,
+          "end": 41,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 89,
+            "chapterId": "doctrineandcovenants89",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-spare",
+      "slug": "spare",
+      "title": "Spare"
+    }
+  ],
+  "slug": "sparingly",
+  "title": "Sparingly",
+  "type": "index"
+}

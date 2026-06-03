@@ -1,0 +1,91 @@
+{
+  "_id": "tg-porch",
+  "content": [
+    {
+      "text": "he made a porch of pillars, 1 Kgs. 7:6.",
+      "references": [
+        {
+          "text": "1 Kgs. 7:6",
+          "start": 28,
+          "end": 38,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 7,
+            "chapterId": "1kings7",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "pool … called … Bethesda, having five porches, John 5:2. Jesus walked in the temple in Solomon’s porch, John 10:23. unto them in the porch that is called Solomon’s, Acts 3:11.",
+      "references": [
+        {
+          "text": "John 5:2",
+          "start": 47,
+          "end": 55,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 5,
+            "chapterId": "john5",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 10:23",
+          "start": 104,
+          "end": 114,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 10,
+            "chapterId": "john10",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 3:11",
+          "start": 165,
+          "end": 174,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 3,
+            "chapterId": "acts3",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "porch",
+  "title": "Porch",
+  "type": "tg"
+}

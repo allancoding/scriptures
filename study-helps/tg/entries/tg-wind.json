@@ -1,0 +1,828 @@
+{
+  "_id": "tg-wind",
+  "content": [
+    {
+      "text": "God made a wind to pass over the earth, Gen. 8:1. Thou didst blow with thy wind, Ex. 15:10. strong wind rent the mountains, 1 Kgs. 19:11. he causeth his wind to blow, Ps. 147:18. stormy wind fulfilling his word, Ps. 148:8. He … shall inherit the wind, Prov. 11:29. north wind driveth away rain, Prov. 25:23. He that observeth the wind shall not sow, Eccl. 11:4. dry wind … not to fan, Jer. 4:11. prophets shall become wind, Jer. 5:13. I will raise up against Babylon … a destroying wind, Jer. 51:1. Prophesy unto the wind, Ezek. 37:9. they have sown the wind, Hosea 8:7. he that … createth the wind, Amos 4:13. Lord sent out a great wind into the sea, Jonah 1:4.",
+      "references": [
+        {
+          "text": "Gen. 8:1",
+          "start": 40,
+          "end": 48,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 8,
+            "chapterId": "genesis8",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 15:10",
+          "start": 81,
+          "end": 90,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 15,
+            "chapterId": "exodus15",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Kgs. 19:11",
+          "start": 124,
+          "end": 136,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 19,
+            "chapterId": "1kings19",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 147:18",
+          "start": 167,
+          "end": 177,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 147,
+            "chapterId": "psalms147",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 148:8",
+          "start": 212,
+          "end": 221,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 148,
+            "chapterId": "psalms148",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 11:29",
+          "start": 252,
+          "end": 263,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 11,
+            "chapterId": "proverbs11",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 25:23",
+          "start": 295,
+          "end": 306,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 25,
+            "chapterId": "proverbs25",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eccl. 11:4",
+          "start": 350,
+          "end": 360,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "eccl",
+            "book": "ecclesiastes",
+            "chapter": 11,
+            "chapterId": "ecclesiastes11",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 4:11",
+          "start": 385,
+          "end": 394,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 4,
+            "chapterId": "jeremiah4",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 5:13",
+          "start": 424,
+          "end": 433,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 5,
+            "chapterId": "jeremiah5",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 51:1",
+          "start": 488,
+          "end": 497,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 51,
+            "chapterId": "jeremiah51",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 37:9",
+          "start": 523,
+          "end": 533,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 37,
+            "chapterId": "ezekiel37",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hosea 8:7",
+          "start": 560,
+          "end": 569,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "hosea",
+            "book": "hosea",
+            "chapter": 8,
+            "chapterId": "hosea8",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Amos 4:13",
+          "start": 600,
+          "end": 609,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "amos",
+            "book": "amos",
+            "chapter": 4,
+            "chapterId": "amos4",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jonah 1:4",
+          "start": 652,
+          "end": 661,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jonah",
+            "book": "jonah",
+            "chapter": 1,
+            "chapterId": "jonah1",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "floods came, and the winds blew, Matt. 7:25 (3 Ne. 11:40; 14:25; 18:13). he … rebuked the winds and the sea, Matt. 8:26 (Mark 4:39; Luke 8:24). waves: for the wind was contrary, Matt. 14:24 (Mark 6:48). gather together his elect from the four winds, Matt. 24:31 (JS—M 1:37). wind bloweth where it listeth, John 3:8. sound … as of a rushing mighty wind, Acts 2:2. carried about with every wind of doctrine, Eph. 4:14. wavereth is like a wave of the sea driven with the wind, James 1:6. ships … are driven of fierce winds, James 3:4. four angels … holding the four winds of the earth, that the wind should not blow, Rev. 7:1.",
+      "references": [
+        {
+          "text": "Matt. 7:25",
+          "start": 33,
+          "end": 43,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 7,
+            "chapterId": "matthew7",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 11:40",
+          "start": 45,
+          "end": 56,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 11,
+            "chapterId": "3nephi11",
+            "verses": [
+              {
+                "start": 40,
+                "end": 40
+              }
+            ]
+          }
+        },
+        {
+          "text": "14:25",
+          "start": 58,
+          "end": 63,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 14,
+            "chapterId": "3nephi14",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "18:13",
+          "start": 65,
+          "end": 70,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 18,
+            "chapterId": "3nephi18",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 8:26",
+          "start": 109,
+          "end": 119,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 8,
+            "chapterId": "matthew8",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 4:39",
+          "start": 121,
+          "end": 130,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 4,
+            "chapterId": "mark4",
+            "verses": [
+              {
+                "start": 39,
+                "end": 39
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 8:24",
+          "start": 132,
+          "end": 141,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 8,
+            "chapterId": "luke8",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 14:24",
+          "start": 178,
+          "end": 189,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 14,
+            "chapterId": "matthew14",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 6:48",
+          "start": 191,
+          "end": 200,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 6,
+            "chapterId": "mark6",
+            "verses": [
+              {
+                "start": 48,
+                "end": 48
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 24:31",
+          "start": 250,
+          "end": 261,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 24,
+            "chapterId": "matthew24",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "JS—M 1:37",
+          "start": 263,
+          "end": 272,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-m",
+            "book": "josephsmithmatthew",
+            "chapter": 1,
+            "chapterId": "josephsmithmatthew1",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 3:8",
+          "start": 306,
+          "end": 314,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 3,
+            "chapterId": "john3",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 2:2",
+          "start": 353,
+          "end": 361,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 2,
+            "chapterId": "acts2",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eph. 4:14",
+          "start": 406,
+          "end": 415,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "eph",
+            "book": "ephesians",
+            "chapter": 4,
+            "chapterId": "ephesians4",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "James 1:6",
+          "start": 474,
+          "end": 483,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "james",
+            "book": "james",
+            "chapter": 1,
+            "chapterId": "james1",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "James 3:4",
+          "start": 521,
+          "end": 530,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "james",
+            "book": "james",
+            "chapter": 3,
+            "chapterId": "james3",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 7:1",
+          "start": 614,
+          "end": 622,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 7,
+            "chapterId": "revelation7",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "were driven forth before the wind, 1 Ne. 18:8. neither shall they be driven with fierce winds, Alma 26:6. Satan, that he may sift you as chaff before the wind, Alma 37:15 (Morm. 5:16, 18). devil shall send forth his mighty winds, Hel. 5:12. winds have gone forth out of my mouth, Ether 2:24. God caused that there should be a furious wind, Ether 6:5.",
+      "references": [
+        {
+          "text": "1 Ne. 18:8",
+          "start": 35,
+          "end": 45,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 18,
+            "chapterId": "1nephi18",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 26:6",
+          "start": 95,
+          "end": 104,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 26,
+            "chapterId": "alma26",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 37:15",
+          "start": 160,
+          "end": 170,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 37,
+            "chapterId": "alma37",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 5:16, 18",
+          "start": 172,
+          "end": 186,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 5,
+            "chapterId": "mormon5",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              },
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 5:12",
+          "start": 230,
+          "end": 239,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 5,
+            "chapterId": "helaman5",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 2:24",
+          "start": 280,
+          "end": 290,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 2,
+            "chapterId": "ether2",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 6:5",
+          "start": 340,
+          "end": 349,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 6,
+            "chapterId": "ether6",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "stumble and fall when the storms descend, and the winds blow, D&C 90:5. let thy house be filled, as with a rushing mighty wind, D&C 109:37. gather ye out … from the four winds, D&C 133:7.",
+      "references": [
+        {
+          "text": "D&C 90:5",
+          "start": 62,
+          "end": 70,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 90,
+            "chapterId": "doctrineandcovenants90",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 109:37",
+          "start": 128,
+          "end": 138,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 109,
+            "chapterId": "doctrineandcovenants109",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 133:7",
+          "start": 177,
+          "end": 186,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 133,
+            "chapterId": "doctrineandcovenants133",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "I cause the wind and the fire to be my chariot, Abr. 2:7.",
+      "references": [
+        {
+          "text": "Abr. 2:7",
+          "start": 48,
+          "end": 56,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 2,
+            "chapterId": "abraham2",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-storm",
+      "slug": "storm",
+      "title": "Storm"
+    },
+    {
+      "entryId": "tg-tempest",
+      "slug": "tempest",
+      "title": "Tempest"
+    },
+    {
+      "entryId": "tg-whirlwind",
+      "slug": "whirlwind",
+      "title": "Whirlwind"
+    }
+  ],
+  "slug": "wind",
+  "title": "Wind",
+  "type": "tg"
+}

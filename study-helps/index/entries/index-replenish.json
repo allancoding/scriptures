@@ -1,0 +1,91 @@
+{
+  "_id": "index-replenish",
+  "content": [
+    {
+      "text": "man is given wives to multiply and replenish earth, D&C 132:63.",
+      "references": [
+        {
+          "text": "D&C 132:63",
+          "start": 52,
+          "end": 62,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 132,
+            "chapterId": "doctrineandcovenants132",
+            "verses": [
+              {
+                "start": 63,
+                "end": 63
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Adam and Eve commanded to replenish earth, Moses 2:28 (5:2; Abr. 4:28).",
+      "references": [
+        {
+          "text": "Moses 2:28",
+          "start": 43,
+          "end": 53,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 2,
+            "chapterId": "moses2",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "5:2",
+          "start": 55,
+          "end": 58,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 5,
+            "chapterId": "moses5",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Abr. 4:28",
+          "start": 60,
+          "end": 69,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 4,
+            "chapterId": "abraham4",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "replenish",
+  "title": "Replenish",
+  "type": "index"
+}

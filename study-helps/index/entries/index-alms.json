@@ -1,0 +1,117 @@
+{
+  "_id": "index-alms",
+  "content": [
+    {
+      "text": "ye should do alms unto poor, 3 Ne. 13:1. alms should be in secret, 3 Ne. 13:2–4.",
+      "references": [
+        {
+          "text": "3 Ne. 13:1",
+          "start": 29,
+          "end": 39,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 13,
+            "chapterId": "3nephi13",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 13:2–4",
+          "start": 67,
+          "end": 79,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 13,
+            "chapterId": "3nephi13",
+            "verses": [
+              {
+                "start": 2,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "alms of prayers have come up to the Lord, D&C 88:2. alms have come up as memorial before the Lord, D&C 112:1.",
+      "references": [
+        {
+          "text": "D&C 88:2",
+          "start": 42,
+          "end": 50,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 112:1",
+          "start": 99,
+          "end": 108,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 112,
+            "chapterId": "doctrineandcovenants112",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-charity",
+      "slug": "charity",
+      "title": "Charity"
+    },
+    {
+      "entryId": "index-impart",
+      "slug": "impart",
+      "title": "Impart"
+    },
+    {
+      "entryId": "index-needy",
+      "slug": "needy",
+      "title": "Needy"
+    },
+    {
+      "entryId": "index-poor",
+      "slug": "poor",
+      "title": "Poor"
+    },
+    {
+      "entryId": "index-relief",
+      "slug": "relief",
+      "title": "Relief"
+    }
+  ],
+  "slug": "alms",
+  "title": "Alms",
+  "type": "index"
+}

@@ -1,0 +1,50 @@
+{
+  "_id": "tg-access",
+  "content": [
+    {
+      "text": "we have access by faith into this grace, Rom. 5:2. both have access by one Spirit unto the Father, Eph. 2:18.",
+      "references": [
+        {
+          "text": "Rom. 5:2",
+          "start": 41,
+          "end": 49,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 5,
+            "chapterId": "romans5",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eph. 2:18",
+          "start": 99,
+          "end": 108,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "eph",
+            "book": "ephesians",
+            "chapter": 2,
+            "chapterId": "ephesians2",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "access",
+  "title": "Access",
+  "type": "tg"
+}

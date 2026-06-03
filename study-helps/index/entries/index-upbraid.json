@@ -1,0 +1,110 @@
+{
+  "_id": "index-upbraid",
+  "content": [
+    {
+      "text": "the Lord will give liberally and upbraid not, D&C 42:68 (James 1:5). those who have not received gospel should be upbraided for evil hearts of unbelief, D&C 84:76.",
+      "references": [
+        {
+          "text": "D&C 42:68",
+          "start": 46,
+          "end": 55,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 42,
+            "chapterId": "doctrineandcovenants42",
+            "verses": [
+              {
+                "start": 68,
+                "end": 68
+              }
+            ]
+          }
+        },
+        {
+          "text": "James 1:5",
+          "start": 57,
+          "end": 66,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "james",
+            "book": "james",
+            "chapter": 1,
+            "chapterId": "james1",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 84:76",
+          "start": 153,
+          "end": 162,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 84,
+            "chapterId": "doctrineandcovenants84",
+            "verses": [
+              {
+                "start": 76,
+                "end": 76
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Joseph Smith reads promise of James2 that God gives liberally and upbraids not, JS—H 1:11, 13, 26.",
+      "references": [
+        {
+          "text": "JS—H 1:11, 13, 26",
+          "start": 80,
+          "end": 97,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              },
+              {
+                "start": 13,
+                "end": 13
+              },
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-reproach",
+      "slug": "reproach",
+      "title": "Reproach"
+    },
+    {
+      "entryId": "index-reprove",
+      "slug": "reprove",
+      "title": "Reprove"
+    }
+  ],
+  "slug": "upbraid",
+  "title": "Upbraid",
+  "type": "index"
+}

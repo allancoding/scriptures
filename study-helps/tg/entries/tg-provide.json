@@ -1,0 +1,184 @@
+{
+  "_id": "tg-provide",
+  "content": [
+    {
+      "text": "My son, God will provide himself a lamb for a burnt offering, Gen. 22:8.",
+      "references": [
+        {
+          "text": "Gen. 22:8",
+          "start": 62,
+          "end": 71,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 22,
+            "chapterId": "genesis22",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Provide neither gold, nor silver, nor brass, Matt. 10:9. Provide things honest in the sight of all men, Rom. 12:17. if any provide not for his own … he hath denied the faith, 1 Tim. 5:8. God having provided some better thing for us, Heb. 11:40.",
+      "references": [
+        {
+          "text": "Matt. 10:9",
+          "start": 45,
+          "end": 55,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 10,
+            "chapterId": "matthew10",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 12:17",
+          "start": 104,
+          "end": 114,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 12,
+            "chapterId": "romans12",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Tim. 5:8",
+          "start": 175,
+          "end": 185,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 5,
+            "chapterId": "1timothy5",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 11:40",
+          "start": 233,
+          "end": 243,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 11,
+            "chapterId": "hebrews11",
+            "verses": [
+              {
+                "start": 40,
+                "end": 40
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "God has provided a means that man, through faith, might work mighty miracles, Mosiah 8:18.",
+      "references": [
+        {
+          "text": "Mosiah 8:18",
+          "start": 78,
+          "end": 89,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 8,
+            "chapterId": "mosiah8",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "I will provide means whereby thou mayest accomplish, D&C 5:34. every man who is obliged to provide for his own family, D&C 75:28.",
+      "references": [
+        {
+          "text": "D&C 5:34",
+          "start": 53,
+          "end": 61,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 5,
+            "chapterId": "doctrineandcovenants5",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 75:28",
+          "start": 119,
+          "end": 128,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 75,
+            "chapterId": "doctrineandcovenants75",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-furnish",
+      "slug": "furnish",
+      "title": "Furnish"
+    },
+    {
+      "entryId": "tg-provision",
+      "slug": "provision",
+      "title": "Provision"
+    }
+  ],
+  "slug": "provide",
+  "title": "Provide",
+  "type": "tg"
+}

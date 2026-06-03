@@ -1,0 +1,102 @@
+{
+  "_id": "tg-suckling",
+  "content": [
+    {
+      "text": "Out of the mouth of babes and sucklings, Ps. 8:2 (Matt. 21:16).",
+      "references": [
+        {
+          "text": "Ps. 8:2",
+          "start": 41,
+          "end": 48,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 8,
+            "chapterId": "psalms8",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 21:16",
+          "start": 50,
+          "end": 61,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 21,
+            "chapterId": "matthew21",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "play with the beasts as a child with a suckling lamb, 3 Ne. 28:22.",
+      "references": [
+        {
+          "text": "3 Ne. 28:22",
+          "start": 54,
+          "end": 65,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 28,
+            "chapterId": "3nephi28",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "things … shall be revealed unto babes and sucklings, D&C 128:18.",
+      "references": [
+        {
+          "text": "D&C 128:18",
+          "start": 53,
+          "end": 63,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 128,
+            "chapterId": "doctrineandcovenants128",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-babe",
+      "slug": "babe",
+      "title": "Babe"
+    }
+  ],
+  "slug": "suckling",
+  "title": "Suckling",
+  "type": "tg"
+}

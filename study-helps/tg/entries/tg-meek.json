@@ -1,0 +1,662 @@
+{
+  "_id": "tg-meek",
+  "content": [
+    {
+      "text": "Moses was very meek, Num. 12:3. meek will he guide in judgment, Ps. 25:9. meek shall inherit the earth, Ps. 37:11 (Matt. 5:5; 3 Ne. 12:5; D&C 88:17). God arose … to save all the meek, Ps. 76:9. reprove with equity for the meek, Isa. 11:4 (2 Ne. 21:4; 30:9). meek also shall increase their joy in the Lord, Isa. 29:19. preach good tidings unto the meek, Isa. 61:1. Seek ye the Lord, all ye meek, Zeph. 2:3.",
+      "references": [
+        {
+          "text": "Num. 12:3",
+          "start": 21,
+          "end": 30,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 12,
+            "chapterId": "numbers12",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 25:9",
+          "start": 64,
+          "end": 72,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 25,
+            "chapterId": "psalms25",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 37:11",
+          "start": 104,
+          "end": 113,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 37,
+            "chapterId": "psalms37",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 5:5",
+          "start": 115,
+          "end": 124,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 5,
+            "chapterId": "matthew5",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 12:5",
+          "start": 126,
+          "end": 136,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 12,
+            "chapterId": "3nephi12",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 88:17",
+          "start": 138,
+          "end": 147,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 76:9",
+          "start": 184,
+          "end": 192,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 76,
+            "chapterId": "psalms76",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 11:4",
+          "start": 228,
+          "end": 237,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 11,
+            "chapterId": "isaiah11",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 21:4",
+          "start": 239,
+          "end": 249,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 21,
+            "chapterId": "2nephi21",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "30:9",
+          "start": 251,
+          "end": 255,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 30,
+            "chapterId": "2nephi30",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 29:19",
+          "start": 306,
+          "end": 316,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 29,
+            "chapterId": "isaiah29",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 61:1",
+          "start": 353,
+          "end": 362,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 61,
+            "chapterId": "isaiah61",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Zeph. 2:3",
+          "start": 395,
+          "end": 404,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "zeph",
+            "book": "zephaniah",
+            "chapter": 2,
+            "chapterId": "zephaniah2",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "learn of me; for I am meek, Matt. 11:29. thy King cometh unto thee, meek, Matt. 21:5. by the meekness and gentleness of Christ, 2 Cor. 10:1. Meekness … against such there is no law, Gal. 5:23. Put on therefore … meekness, Col. 3:12. follow after … patience, meekness, 1 Tim. 6:11. In meekness instructing those that oppose, 2 Tim. 2:25. receive with meekness the engrafted word, James 1:21. let him shew … his works with meekness of wisdom, James 3:13. ornament of a meek and quiet spirit, 1 Pet. 3:4. reason of the hope that is in you with meekness, 1 Pet. 3:15.",
+      "references": [
+        {
+          "text": "Matt. 11:29",
+          "start": 28,
+          "end": 39,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 11,
+            "chapterId": "matthew11",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 21:5",
+          "start": 74,
+          "end": 84,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 21,
+            "chapterId": "matthew21",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Cor. 10:1",
+          "start": 128,
+          "end": 139,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 10,
+            "chapterId": "2corinthians10",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gal. 5:23",
+          "start": 182,
+          "end": 191,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "gal",
+            "book": "galatians",
+            "chapter": 5,
+            "chapterId": "galatians5",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Col. 3:12",
+          "start": 222,
+          "end": 231,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "col",
+            "book": "colossians",
+            "chapter": 3,
+            "chapterId": "colossians3",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Tim. 6:11",
+          "start": 268,
+          "end": 279,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 6,
+            "chapterId": "1timothy6",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Tim. 2:25",
+          "start": 324,
+          "end": 335,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-tim",
+            "book": "2timothy",
+            "chapter": 2,
+            "chapterId": "2timothy2",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "James 1:21",
+          "start": 379,
+          "end": 389,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "james",
+            "book": "james",
+            "chapter": 1,
+            "chapterId": "james1",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "James 3:13",
+          "start": 441,
+          "end": 451,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "james",
+            "book": "james",
+            "chapter": 3,
+            "chapterId": "james3",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Pet. 3:4",
+          "start": 490,
+          "end": 500,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-pet",
+            "book": "1peter",
+            "chapter": 3,
+            "chapterId": "1peter3",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Pet. 3:15",
+          "start": 551,
+          "end": 562,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-pet",
+            "book": "1peter",
+            "chapter": 3,
+            "chapterId": "1peter3",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "meek also shall increase, 2 Ne. 27:30. becometh as a child … meek, Mosiah 3:19 (Alma 13:28). teach them … to be meek, Alma 37:33. none is acceptable before God, save the meek, Moro. 7:44. remission of sins bringeth meekness, Moro. 8:26.",
+      "references": [
+        {
+          "text": "2 Ne. 27:30",
+          "start": 26,
+          "end": 37,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 27,
+            "chapterId": "2nephi27",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 3:19",
+          "start": 67,
+          "end": 78,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 3,
+            "chapterId": "mosiah3",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 13:28",
+          "start": 80,
+          "end": 90,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 13,
+            "chapterId": "alma13",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 37:33",
+          "start": 118,
+          "end": 128,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 37,
+            "chapterId": "alma37",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moro. 7:44",
+          "start": 176,
+          "end": 186,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "moro",
+            "book": "moroni",
+            "chapter": 7,
+            "chapterId": "moroni7",
+            "verses": [
+              {
+                "start": 44,
+                "end": 44
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moro. 8:26",
+          "start": 225,
+          "end": 235,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "moro",
+            "book": "moroni",
+            "chapter": 8,
+            "chapterId": "moroni8",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "walk in the meekness of my Spirit, D&C 19:23. poor and the meek shall have the gospel, D&C 35:15. may be edified in all meekness, D&C 84:106. power … by gentleness and meekness, D&C 121:41.",
+      "references": [
+        {
+          "text": "D&C 19:23",
+          "start": 35,
+          "end": 44,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 19,
+            "chapterId": "doctrineandcovenants19",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 35:15",
+          "start": 87,
+          "end": 96,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 35,
+            "chapterId": "doctrineandcovenants35",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 84:106",
+          "start": 130,
+          "end": 140,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 84,
+            "chapterId": "doctrineandcovenants84",
+            "verses": [
+              {
+                "start": 106,
+                "end": 106
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 121:41",
+          "start": 178,
+          "end": 188,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 41,
+                "end": 41
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-contrite-heart",
+      "slug": "contrite-heart",
+      "title": "Contrite Heart"
+    },
+    {
+      "entryId": "tg-humility",
+      "slug": "humility",
+      "title": "Humility"
+    },
+    {
+      "entryId": "tg-poor-in-spirit",
+      "slug": "poor-in-spirit",
+      "title": "Poor in Spirit"
+    },
+    {
+      "entryId": "tg-teachable",
+      "slug": "teachable",
+      "title": "Teachable"
+    }
+  ],
+  "slug": "meek",
+  "title": "Meek, Meekness",
+  "type": "tg"
+}

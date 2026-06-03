@@ -1,0 +1,845 @@
+{
+  "_id": "tg-visit",
+  "content": [
+    {
+      "text": "Lord visited Sarah as he had said, Gen. 21:1. visiting the iniquity of the fathers upon the children, Ex. 20:5 (34:7; Num. 14:18; Deut. 5:9; Mosiah 13:13). Lord visited Hannah, so that she conceived, 1 Sam. 2:21. What is … the son of man, that thou visitest him, Ps. 8:4 (Heb. 2:6). God of Israel, awake to visit all the heathen, Ps. 59:5. Shall I not visit for these things, Jer. 5:9 (5:29; 9:9). I will visit upon you the evil of your doings, Jer. 23:2. after seventy years be accomplished at Babylon I will visit you, Jer. 29:10. After many days thou shalt be visited, Ezek. 38:8. I will visit upon her the days of Baalim, Hosea 2:13. I shall visit the transgressions of Israel upon him, Amos 3:14.",
+      "references": [
+        {
+          "text": "Gen. 21:1",
+          "start": 35,
+          "end": 44,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 21,
+            "chapterId": "genesis21",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 20:5",
+          "start": 102,
+          "end": 110,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 20,
+            "chapterId": "exodus20",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "34:7",
+          "start": 112,
+          "end": 116,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 34,
+            "chapterId": "exodus34",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 14:18",
+          "start": 118,
+          "end": 128,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 14,
+            "chapterId": "numbers14",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 5:9",
+          "start": 130,
+          "end": 139,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 5,
+            "chapterId": "deuteronomy5",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 13:13",
+          "start": 141,
+          "end": 153,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 13,
+            "chapterId": "mosiah13",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Sam. 2:21",
+          "start": 200,
+          "end": 211,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 2,
+            "chapterId": "1samuel2",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 8:4",
+          "start": 263,
+          "end": 270,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 8,
+            "chapterId": "psalms8",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 2:6",
+          "start": 272,
+          "end": 280,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 2,
+            "chapterId": "hebrews2",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 59:5",
+          "start": 330,
+          "end": 338,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 59,
+            "chapterId": "psalms59",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 5:9",
+          "start": 376,
+          "end": 384,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 5,
+            "chapterId": "jeremiah5",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "5:29",
+          "start": 386,
+          "end": 390,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 5,
+            "chapterId": "jeremiah5",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "9:9",
+          "start": 392,
+          "end": 395,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 9,
+            "chapterId": "jeremiah9",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 23:2",
+          "start": 445,
+          "end": 454,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 23,
+            "chapterId": "jeremiah23",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 29:10",
+          "start": 521,
+          "end": 531,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 29,
+            "chapterId": "jeremiah29",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 38:8",
+          "start": 572,
+          "end": 582,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 38,
+            "chapterId": "ezekiel38",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hosea 2:13",
+          "start": 626,
+          "end": 636,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "hosea",
+            "book": "hosea",
+            "chapter": 2,
+            "chapterId": "hosea2",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Amos 3:14",
+          "start": 691,
+          "end": 700,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "amos",
+            "book": "amos",
+            "chapter": 3,
+            "chapterId": "amos3",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "I was sick, and ye visited me, Matt. 25:36. God … hath visited and redeemed his people, Luke 1:68 (7:16). Pure religion … is this, To visit the fatherless, James 1:27.",
+      "references": [
+        {
+          "text": "Matt. 25:36",
+          "start": 31,
+          "end": 42,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 25,
+            "chapterId": "matthew25",
+            "verses": [
+              {
+                "start": 36,
+                "end": 36
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 1:68",
+          "start": 88,
+          "end": 97,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 1,
+            "chapterId": "luke1",
+            "verses": [
+              {
+                "start": 68,
+                "end": 68
+              }
+            ]
+          }
+        },
+        {
+          "text": "7:16",
+          "start": 99,
+          "end": 103,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 7,
+            "chapterId": "luke7",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "James 1:27",
+          "start": 156,
+          "end": 166,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "james",
+            "book": "james",
+            "chapter": 1,
+            "chapterId": "james1",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "I did cry unto the Lord; and behold he did visit me, 1 Ne. 2:16. have visited the remnant of the house of Israel, 1 Ne. 13:34. God surely shall visit all the house of Israel, 1 Ne. 19:11. if the Lord … hath visited men in so much mercy, 2 Ne. 4:26. visiting the sick, Mosiah 4:26. except they repent I will visit them in mine anger, Mosiah 11:20 (Alma 9:12). jealous God, visiting the iniquities of my people, Mosiah 11:22. Lord did visit them and prosper them, Mosiah 27:7. Lord did visit them with his Spirit, Alma 17:10. visit not the sick … your prayer is vain, Alma 34:28. had been visited by the power and Spirit of God, 3 Ne. 7:21. I was visited of the Lord, Morm. 1:15.",
+      "references": [
+        {
+          "text": "1 Ne. 2:16",
+          "start": 53,
+          "end": 63,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 2,
+            "chapterId": "1nephi2",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Ne. 13:34",
+          "start": 114,
+          "end": 125,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 13,
+            "chapterId": "1nephi13",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Ne. 19:11",
+          "start": 175,
+          "end": 186,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 19,
+            "chapterId": "1nephi19",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 4:26",
+          "start": 237,
+          "end": 247,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 4,
+            "chapterId": "2nephi4",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 4:26",
+          "start": 268,
+          "end": 279,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 4,
+            "chapterId": "mosiah4",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 11:20",
+          "start": 333,
+          "end": 345,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 11,
+            "chapterId": "mosiah11",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 9:12",
+          "start": 347,
+          "end": 356,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 9,
+            "chapterId": "alma9",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 11:22",
+          "start": 410,
+          "end": 422,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 11,
+            "chapterId": "mosiah11",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 27:7",
+          "start": 462,
+          "end": 473,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 27,
+            "chapterId": "mosiah27",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 17:10",
+          "start": 512,
+          "end": 522,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 17,
+            "chapterId": "alma17",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 34:28",
+          "start": 566,
+          "end": 576,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 34,
+            "chapterId": "alma34",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 7:21",
+          "start": 627,
+          "end": 637,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 7,
+            "chapterId": "3nephi7",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 1:15",
+          "start": 666,
+          "end": 676,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 1,
+            "chapterId": "mormon1",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "them will I visit with … my Spirit, D&C 5:16. visit the house of each member, D&C 20:47. Zacharias he (Elias) visited and gave promise that he should have a son, D&C 27:7. visit the poor and the needy, D&C 44:6. spirits of men kept in prison, whom the Son visited, D&C 76:73. I will visit you with the joy of my countenance, D&C 88:53. visit her according to all her works, D&C 97:26. Adam-ondi-Ahman … where Adam shall come to visit his people, D&C 116. will visit upon the heads of those who hindered my work, D&C 124:50.",
+      "references": [
+        {
+          "text": "D&C 5:16",
+          "start": 36,
+          "end": 44,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 5,
+            "chapterId": "doctrineandcovenants5",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 20:47",
+          "start": 78,
+          "end": 87,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 20,
+            "chapterId": "doctrineandcovenants20",
+            "verses": [
+              {
+                "start": 47,
+                "end": 47
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 27:7",
+          "start": 162,
+          "end": 170,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 27,
+            "chapterId": "doctrineandcovenants27",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 44:6",
+          "start": 202,
+          "end": 210,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 44,
+            "chapterId": "doctrineandcovenants44",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 76:73",
+          "start": 265,
+          "end": 274,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 76,
+            "chapterId": "doctrineandcovenants76",
+            "verses": [
+              {
+                "start": 73,
+                "end": 73
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 88:53",
+          "start": 325,
+          "end": 334,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 53,
+                "end": 53
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 97:26",
+          "start": 374,
+          "end": 383,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 97,
+            "chapterId": "doctrineandcovenants97",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 116",
+          "start": 446,
+          "end": 453,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 116,
+            "chapterId": "doctrineandcovenants116",
+            "verses": []
+          }
+        },
+        {
+          "text": "D&C 124:50",
+          "start": 512,
+          "end": 522,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 124,
+            "chapterId": "doctrineandcovenants124",
+            "verses": [
+              {
+                "start": 50,
+                "end": 50
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "I have come down to visit them, Abr. 1:17.",
+      "references": [
+        {
+          "text": "Abr. 1:17",
+          "start": 32,
+          "end": 41,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 1,
+            "chapterId": "abraham1",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-visitation",
+      "slug": "visitation",
+      "title": "Visitation"
+    }
+  ],
+  "slug": "visit",
+  "title": "Visit",
+  "type": "tg"
+}

@@ -1,0 +1,86 @@
+{
+  "_id": "tg-drink-offering",
+  "content": [
+    {
+      "text": "he poured a drink offering, Gen. 35:14. fourth part of an hin of wine for a drink offering, Ex. 29:40. drink offering thereof shall be of wine, Lev. 23:13. wine for a drink offering shalt thou prepare, Num. 15:5.",
+      "references": [
+        {
+          "text": "Gen. 35:14",
+          "start": 28,
+          "end": 38,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 35,
+            "chapterId": "genesis35",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 29:40",
+          "start": 92,
+          "end": 101,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 29,
+            "chapterId": "exodus29",
+            "verses": [
+              {
+                "start": 40,
+                "end": 40
+              }
+            ]
+          }
+        },
+        {
+          "text": "Lev. 23:13",
+          "start": 144,
+          "end": 154,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 23,
+            "chapterId": "leviticus23",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 15:5",
+          "start": 202,
+          "end": 211,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 15,
+            "chapterId": "numbers15",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "drink-offering",
+  "title": "Drink Offering",
+  "type": "tg"
+}

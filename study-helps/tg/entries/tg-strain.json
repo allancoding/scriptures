@@ -1,0 +1,32 @@
+{
+  "_id": "tg-strain",
+  "content": [
+    {
+      "text": "which strain at a gnat, and swallow a camel, Matt. 23:24.",
+      "references": [
+        {
+          "text": "Matt. 23:24",
+          "start": 45,
+          "end": 56,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 23,
+            "chapterId": "matthew23",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "strain",
+  "title": "Strain",
+  "type": "tg"
+}

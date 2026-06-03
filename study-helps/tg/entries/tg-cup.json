@@ -1,0 +1,605 @@
+{
+  "_id": "tg-cup",
+  "content": [
+    {
+      "text": "put my cup, the silver cup, in the sack’s mouth, Gen. 44:2. my cup runneth over, Ps. 23:5. in the hand of the Lord there is a cup, Ps. 75:8. at the hand of the Lord the cup of his fury, Isa. 51:17. Take the wine cup of this fury at my hand, Jer. 25:15. cup of the Lord’s right hand, Hab. 2:16. I will make Jerusalem a cup of trembling, Zech. 12:2.",
+      "references": [
+        {
+          "text": "Gen. 44:2",
+          "start": 49,
+          "end": 58,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 44,
+            "chapterId": "genesis44",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 23:5",
+          "start": 81,
+          "end": 89,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 23,
+            "chapterId": "psalms23",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 75:8",
+          "start": 131,
+          "end": 139,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 75,
+            "chapterId": "psalms75",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 51:17",
+          "start": 186,
+          "end": 196,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 51,
+            "chapterId": "isaiah51",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 25:15",
+          "start": 241,
+          "end": 251,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 25,
+            "chapterId": "jeremiah25",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hab. 2:16",
+          "start": 283,
+          "end": 292,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "hab",
+            "book": "habakkuk",
+            "chapter": 2,
+            "chapterId": "habakkuk2",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Zech. 12:2",
+          "start": 336,
+          "end": 346,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "zech",
+            "book": "zechariah",
+            "chapter": 12,
+            "chapterId": "zechariah12",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "give to drink unto one of these little ones a cup of cold water, Matt. 10:42 (Mark 9:41). Are ye able to drink of the cup, Matt. 20:22 (Mark 10:38). make clean the outside of the cup, Matt. 23:25 (Luke 11:39). he took the cup, Matt. 26:27 (Mark 14:23; Luke 22:17). let this cup pass, Matt. 26:39 (Mark 14:36; Luke 22:42). This cup is the new testament, Luke 22:20 (1 Cor. 11:25). cup which my Father hath given me, John 18:11. cup of the Lord, and the cup of devils, 1 Cor. 10:21. cup of the wine of the fierceness, Rev. 16:19.",
+      "references": [
+        {
+          "text": "Matt. 10:42",
+          "start": 65,
+          "end": 76,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 10,
+            "chapterId": "matthew10",
+            "verses": [
+              {
+                "start": 42,
+                "end": 42
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 9:41",
+          "start": 78,
+          "end": 87,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 9,
+            "chapterId": "mark9",
+            "verses": [
+              {
+                "start": 41,
+                "end": 41
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 20:22",
+          "start": 123,
+          "end": 134,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 20,
+            "chapterId": "matthew20",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 10:38",
+          "start": 136,
+          "end": 146,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 10,
+            "chapterId": "mark10",
+            "verses": [
+              {
+                "start": 38,
+                "end": 38
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 23:25",
+          "start": 184,
+          "end": 195,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 23,
+            "chapterId": "matthew23",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 11:39",
+          "start": 197,
+          "end": 207,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 11,
+            "chapterId": "luke11",
+            "verses": [
+              {
+                "start": 39,
+                "end": 39
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 26:27",
+          "start": 227,
+          "end": 238,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 26,
+            "chapterId": "matthew26",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 14:23",
+          "start": 240,
+          "end": 250,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 14,
+            "chapterId": "mark14",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 22:17",
+          "start": 252,
+          "end": 262,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 22,
+            "chapterId": "luke22",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 26:39",
+          "start": 284,
+          "end": 295,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 26,
+            "chapterId": "matthew26",
+            "verses": [
+              {
+                "start": 39,
+                "end": 39
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 14:36",
+          "start": 297,
+          "end": 307,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 14,
+            "chapterId": "mark14",
+            "verses": [
+              {
+                "start": 36,
+                "end": 36
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 22:42",
+          "start": 309,
+          "end": 319,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 22,
+            "chapterId": "luke22",
+            "verses": [
+              {
+                "start": 42,
+                "end": 42
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 22:20",
+          "start": 353,
+          "end": 363,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 22,
+            "chapterId": "luke22",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 11:25",
+          "start": 365,
+          "end": 377,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 11,
+            "chapterId": "1corinthians11",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 18:11",
+          "start": 415,
+          "end": 425,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 18,
+            "chapterId": "john18",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 10:21",
+          "start": 467,
+          "end": 479,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 10,
+            "chapterId": "1corinthians10",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 16:19",
+          "start": 516,
+          "end": 526,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 16,
+            "chapterId": "revelation16",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Jerusalem, which hast drunk … the cup of his fury, 2 Ne. 8:17. drunk out of the cup of the wrath of God, Mosiah 3:26. drink the dregs of a bitter cup, Alma 40:26. drunk out of that bitter cup which the Father, 3 Ne. 11:11.",
+      "references": [
+        {
+          "text": "2 Ne. 8:17",
+          "start": 51,
+          "end": 61,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 8,
+            "chapterId": "2nephi8",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 3:26",
+          "start": 105,
+          "end": 116,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 3,
+            "chapterId": "mosiah3",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 40:26",
+          "start": 151,
+          "end": 161,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 40,
+            "chapterId": "alma40",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 11:11",
+          "start": 210,
+          "end": 221,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 11,
+            "chapterId": "3nephi11",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "would that I might not drink the bitter cup, D&C 19:18. the wine—he shall take the cup also, D&C 20:78. the cup of mine indignation is full, D&C 29:17. the cup of the wrath of mine indignation is full, D&C 43:26.",
+      "references": [
+        {
+          "text": "D&C 19:18",
+          "start": 45,
+          "end": 54,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 19,
+            "chapterId": "doctrineandcovenants19",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 20:78",
+          "start": 93,
+          "end": 102,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 20,
+            "chapterId": "doctrineandcovenants20",
+            "verses": [
+              {
+                "start": 78,
+                "end": 78
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 29:17",
+          "start": 141,
+          "end": 150,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 29,
+            "chapterId": "doctrineandcovenants29",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 43:26",
+          "start": 202,
+          "end": 211,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 43,
+            "chapterId": "doctrineandcovenants43",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "cup",
+  "title": "Cup",
+  "type": "tg"
+}

@@ -1,0 +1,32 @@
+{
+  "_id": "tg-baker",
+  "content": [
+    {
+      "text": "butler … and his baker had offended, Gen. 40:1.",
+      "references": [
+        {
+          "text": "Gen. 40:1",
+          "start": 37,
+          "end": 46,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 40,
+            "chapterId": "genesis40",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "baker",
+  "title": "Baker",
+  "type": "tg"
+}

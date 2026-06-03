@@ -1,0 +1,975 @@
+{
+  "_id": "tg-prophecy",
+  "content": [
+    {
+      "text": "he shall be thy spokesman … instead of God, Ex. 4:16. Aaron thy brother shall be thy prophet, Ex. 7:1. would God that all the Lord’s people were prophets, Num. 11:29. Spirit of God came upon him, and he prophesied, 1 Sam. 10:10. Spirit of the Lord spake by me, 2 Sam. 23:2. they prospered through the prophesying of Haggai, Ezra 6:14. I have put my words in thy mouth, Jer. 1:9. I will open thy mouth, and thou shalt say, Ezek. 3:27. sons and your daughters shall prophesy, Joel 2:28 (Acts 2:17). commanded the prophets, saying, Prophesy not, Amos 2:12. he revealeth his secret unto his servants the prophets, Amos 3:7. Lord said unto me, Go, prophesy, Amos 7:15. Prophesy ye not, say they to them that prophesy, Micah 2:6. shall thrust him through when he prophesieth, Zech. 13:3.",
+      "references": [
+        {
+          "text": "Ex. 4:16",
+          "start": 44,
+          "end": 52,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 4,
+            "chapterId": "exodus4",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 7:1",
+          "start": 94,
+          "end": 101,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 7,
+            "chapterId": "exodus7",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 11:29",
+          "start": 155,
+          "end": 165,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 11,
+            "chapterId": "numbers11",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Sam. 10:10",
+          "start": 215,
+          "end": 227,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 10,
+            "chapterId": "1samuel10",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Sam. 23:2",
+          "start": 261,
+          "end": 272,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-sam",
+            "book": "2samuel",
+            "chapter": 23,
+            "chapterId": "2samuel23",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezra 6:14",
+          "start": 324,
+          "end": 333,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezra",
+            "book": "ezra",
+            "chapter": 6,
+            "chapterId": "ezra6",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 1:9",
+          "start": 369,
+          "end": 377,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 1,
+            "chapterId": "jeremiah1",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 3:27",
+          "start": 422,
+          "end": 432,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 3,
+            "chapterId": "ezekiel3",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Joel 2:28",
+          "start": 474,
+          "end": 483,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "joel",
+            "book": "joel",
+            "chapter": 2,
+            "chapterId": "joel2",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 2:17",
+          "start": 485,
+          "end": 494,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 2,
+            "chapterId": "acts2",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Amos 2:12",
+          "start": 543,
+          "end": 552,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "amos",
+            "book": "amos",
+            "chapter": 2,
+            "chapterId": "amos2",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Amos 3:7",
+          "start": 610,
+          "end": 618,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "amos",
+            "book": "amos",
+            "chapter": 3,
+            "chapterId": "amos3",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Amos 7:15",
+          "start": 653,
+          "end": 662,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "amos",
+            "book": "amos",
+            "chapter": 7,
+            "chapterId": "amos7",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Micah 2:6",
+          "start": 713,
+          "end": 722,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "micah",
+            "book": "micah",
+            "chapter": 2,
+            "chapterId": "micah2",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Zech. 13:3",
+          "start": 770,
+          "end": 780,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "zech",
+            "book": "zechariah",
+            "chapter": 13,
+            "chapterId": "zechariah13",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Lord, have we not prophesied in thy name, Matt. 7:22. prophets and the law prophesied until John, Matt. 11:13. Prophesy unto us, thou Christ, Matt. 26:68 (Mark 14:65; Luke 22:64). filled with the Holy Ghost, and prophesied, Luke 1:67. prophesy according to the proportion of faith, Rom. 12:6. Every man praying or prophesying, 1 Cor. 11:4. working of miracles; to another prophecy, 1 Cor. 12:10. though I have the gift of prophecy, 1 Cor. 13:2. whether there be prophecies, they shall fail, 1 Cor. 13:8. he that prophesieth speaketh unto men to edification, 1 Cor. 14:3. I would … rather that ye prophesied, 1 Cor. 14:5. prophesying serveth … for them which believe, 1 Cor. 14:22. Despise not prophesyings, 1 Thes. 5:20. gift … given thee by prophecy, 1 Tim. 4:14. a more sure word of prophecy, 2 Pet. 1:19 (D&C 131:5). no prophecy of the scripture is of any private interpretation, 2 Pet. 1:20. prophecy came not in old time by the will of man, 2 Pet. 1:21. my two witnesses, and they shall prophesy, Rev. 11:3. testimony of Jesus is the spirit of prophecy, Rev. 19:10. heareth the words of the prophecy of this book, Rev. 22:18.",
+      "references": [
+        {
+          "text": "Matt. 7:22",
+          "start": 42,
+          "end": 52,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 7,
+            "chapterId": "matthew7",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 11:13",
+          "start": 98,
+          "end": 109,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 11,
+            "chapterId": "matthew11",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 26:68",
+          "start": 142,
+          "end": 153,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 26,
+            "chapterId": "matthew26",
+            "verses": [
+              {
+                "start": 68,
+                "end": 68
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 14:65",
+          "start": 155,
+          "end": 165,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 14,
+            "chapterId": "mark14",
+            "verses": [
+              {
+                "start": 65,
+                "end": 65
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 22:64",
+          "start": 167,
+          "end": 177,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 22,
+            "chapterId": "luke22",
+            "verses": [
+              {
+                "start": 64,
+                "end": 64
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 1:67",
+          "start": 224,
+          "end": 233,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 1,
+            "chapterId": "luke1",
+            "verses": [
+              {
+                "start": 67,
+                "end": 67
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 12:6",
+          "start": 282,
+          "end": 291,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 12,
+            "chapterId": "romans12",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 11:4",
+          "start": 327,
+          "end": 338,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 11,
+            "chapterId": "1corinthians11",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 12:10",
+          "start": 382,
+          "end": 394,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 12,
+            "chapterId": "1corinthians12",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 13:2",
+          "start": 432,
+          "end": 443,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 13,
+            "chapterId": "1corinthians13",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 13:8",
+          "start": 491,
+          "end": 502,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 13,
+            "chapterId": "1corinthians13",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 14:3",
+          "start": 558,
+          "end": 569,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 14,
+            "chapterId": "1corinthians14",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 14:5",
+          "start": 608,
+          "end": 619,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 14,
+            "chapterId": "1corinthians14",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 14:22",
+          "start": 667,
+          "end": 679,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 14,
+            "chapterId": "1corinthians14",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Thes. 5:20",
+          "start": 707,
+          "end": 719,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-thes",
+            "book": "1thessalonians",
+            "chapter": 5,
+            "chapterId": "1thessalonians5",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Tim. 4:14",
+          "start": 752,
+          "end": 763,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 4,
+            "chapterId": "1timothy4",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Pet. 1:19",
+          "start": 795,
+          "end": 806,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-pet",
+            "book": "2peter",
+            "chapter": 1,
+            "chapterId": "2peter1",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 131:5",
+          "start": 808,
+          "end": 817,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 131,
+            "chapterId": "doctrineandcovenants131",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Pet. 1:20",
+          "start": 883,
+          "end": 894,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-pet",
+            "book": "2peter",
+            "chapter": 1,
+            "chapterId": "2peter1",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Pet. 1:21",
+          "start": 946,
+          "end": 957,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-pet",
+            "book": "2peter",
+            "chapter": 1,
+            "chapterId": "2peter1",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 11:3",
+          "start": 1002,
+          "end": 1011,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 11,
+            "chapterId": "revelation11",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 19:10",
+          "start": 1059,
+          "end": 1069,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 19,
+            "chapterId": "revelation19",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 22:18",
+          "start": 1119,
+          "end": 1129,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 22,
+            "chapterId": "revelation22",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "by the Spirit are all things made known unto the prophets, 1 Ne. 22:2. words of Isaiah … plain … with the spirit of prophecy, 2 Ne. 25:4. we have many revelations and the spirit of prophecy, Jacob 4:6. what I prophesy unto thee shall not be made known, even until the prophecy is fulfilled, Alma 45:9. Search the prophecies of Isaiah, Morm. 8:23.",
+      "references": [
+        {
+          "text": "1 Ne. 22:2",
+          "start": 59,
+          "end": 69,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 22,
+            "chapterId": "1nephi22",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 25:4",
+          "start": 126,
+          "end": 136,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 25,
+            "chapterId": "2nephi25",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jacob 4:6",
+          "start": 191,
+          "end": 200,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 4,
+            "chapterId": "jacob4",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 45:9",
+          "start": 291,
+          "end": 300,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 45,
+            "chapterId": "alma45",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 8:23",
+          "start": 335,
+          "end": 345,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 8,
+            "chapterId": "mormon8",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "whether by mine own voice or by the voice of my servants, D&C 1:38. Deny not the spirit … of prophecy, D&C 11:25. prophets, who spake as they were inspired by the … Holy Ghost, D&C 20:26. his word ye shall receive, as if from mine own mouth, D&C 21:5. to others it is given to prophesy, D&C 46:22.",
+      "references": [
+        {
+          "text": "D&C 1:38",
+          "start": 58,
+          "end": 66,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 1,
+            "chapterId": "doctrineandcovenants1",
+            "verses": [
+              {
+                "start": 38,
+                "end": 38
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 11:25",
+          "start": 103,
+          "end": 112,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 11,
+            "chapterId": "doctrineandcovenants11",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 20:26",
+          "start": 177,
+          "end": 186,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 20,
+            "chapterId": "doctrineandcovenants20",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 21:5",
+          "start": 242,
+          "end": 250,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 21,
+            "chapterId": "doctrineandcovenants21",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 46:22",
+          "start": 287,
+          "end": 296,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 46,
+            "chapterId": "doctrineandcovenants46",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "a man must be called of God, by prophecy, A of F 1:5. We believe in the gift of tongues, prophecy, A of F 1:7.",
+      "references": [
+        {
+          "text": "A of F 1:5",
+          "start": 42,
+          "end": 52,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "a-of-f",
+            "book": "articlesoffaith",
+            "chapter": 1,
+            "chapterId": "articlesoffaith1",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "A of F 1:7",
+          "start": 99,
+          "end": 109,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "a-of-f",
+            "book": "articlesoffaith",
+            "chapter": 1,
+            "chapterId": "articlesoffaith1",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-declare",
+      "slug": "declare",
+      "title": "Declare"
+    },
+    {
+      "entryId": "tg-holy-ghost-gifts-of",
+      "slug": "holy-ghost-gifts-of",
+      "title": "Holy Ghost, Gifts of"
+    },
+    {
+      "entryId": "tg-inspiration",
+      "slug": "inspiration",
+      "title": "Inspiration"
+    },
+    {
+      "entryId": "tg-jesus-christ-prophecies-about",
+      "slug": "jesus-christ-prophecies-about",
+      "title": "Jesus Christ, Prophecies about"
+    },
+    {
+      "entryId": "tg-preaching",
+      "slug": "preaching",
+      "title": "Preaching"
+    },
+    {
+      "entryId": "tg-proclaim",
+      "slug": "proclaim",
+      "title": "Proclaim"
+    },
+    {
+      "entryId": "tg-prophets-mission-of",
+      "slug": "prophets-mission-of",
+      "title": "Prophets, Mission of"
+    },
+    {
+      "entryId": "tg-revelation",
+      "slug": "revelation",
+      "title": "Revelation"
+    }
+  ],
+  "slug": "prophecy",
+  "title": "Prophecy",
+  "type": "tg"
+}

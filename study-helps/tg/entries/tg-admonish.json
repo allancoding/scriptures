@@ -1,0 +1,156 @@
+{
+  "_id": "tg-admonish",
+  "content": [
+    {
+      "text": "able also to admonish one another, Rom. 15:14. teaching and admonishing one another, Col. 3:16. are over you in the Lord, and admonish you, 1 Thes. 5:12. as an enemy, but admonish him as a brother, 2 Thes. 3:15.",
+      "references": [
+        {
+          "text": "Rom. 15:14",
+          "start": 35,
+          "end": 45,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 15,
+            "chapterId": "romans15",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Col. 3:16",
+          "start": 85,
+          "end": 94,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "col",
+            "book": "colossians",
+            "chapter": 3,
+            "chapterId": "colossians3",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Thes. 5:12",
+          "start": 140,
+          "end": 152,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-thes",
+            "book": "1thessalonians",
+            "chapter": 5,
+            "chapterId": "1thessalonians5",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Thes. 3:15",
+          "start": 198,
+          "end": 210,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-thes",
+            "book": "2thessalonians",
+            "chapter": 3,
+            "chapterId": "2thessalonians3",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "strict commandment … to admonish you, Jacob 2:9. who committed sin … should be admonished by the church, Mosiah 26:6 (26:39).",
+      "references": [
+        {
+          "text": "Jacob 2:9",
+          "start": 38,
+          "end": 47,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 2,
+            "chapterId": "jacob2",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 26:6",
+          "start": 105,
+          "end": 116,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 26,
+            "chapterId": "mosiah26",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "26:39",
+          "start": 118,
+          "end": 123,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 26,
+            "chapterId": "mosiah26",
+            "verses": [
+              {
+                "start": 39,
+                "end": 39
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-rebuke",
+      "slug": "rebuke",
+      "title": "Rebuke"
+    },
+    {
+      "entryId": "tg-warn",
+      "slug": "warn",
+      "title": "Warn"
+    }
+  ],
+  "slug": "admonish",
+  "title": "Admonish",
+  "type": "tg"
+}

@@ -1,0 +1,115 @@
+{
+  "_id": "tg-vocally",
+  "content": [
+    {
+      "text": "pray vocally as well as in thy heart, D&C 19:28 (81:3). exhort them to pray vocally, D&C 20:47. pray vocally before the world, D&C 23:6.",
+      "references": [
+        {
+          "text": "D&C 19:28",
+          "start": 38,
+          "end": 47,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 19,
+            "chapterId": "doctrineandcovenants19",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "81:3",
+          "start": 49,
+          "end": 53,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 81,
+            "chapterId": "doctrineandcovenants81",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 20:47",
+          "start": 85,
+          "end": 94,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 20,
+            "chapterId": "doctrineandcovenants20",
+            "verses": [
+              {
+                "start": 47,
+                "end": 47
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 23:6",
+          "start": 127,
+          "end": 135,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 23,
+            "chapterId": "doctrineandcovenants23",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "never as yet made the attempt to pray vocally, JS—H 1:14.",
+      "references": [
+        {
+          "text": "JS—H 1:14",
+          "start": 47,
+          "end": 56,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-voice",
+      "slug": "voice",
+      "title": "Voice"
+    }
+  ],
+  "slug": "vocally",
+  "title": "Vocally",
+  "type": "tg"
+}

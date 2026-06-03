@@ -1,0 +1,204 @@
+{
+  "_id": "tg-compass",
+  "content": [
+    {
+      "text": "compassed this mountain long enough, Deut. 2:3. seventh day ye shall compass the city, Josh. 6:4. The sorrows of hell compassed me about, 2 Sam. 22:6 (Ps. 18:5).",
+      "references": [
+        {
+          "text": "Deut. 2:3",
+          "start": 37,
+          "end": 46,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 2,
+            "chapterId": "deuteronomy2",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Josh. 6:4",
+          "start": 87,
+          "end": 96,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "josh",
+            "book": "joshua",
+            "chapter": 6,
+            "chapterId": "joshua6",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Sam. 22:6",
+          "start": 138,
+          "end": 149,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-sam",
+            "book": "2samuel",
+            "chapter": 22,
+            "chapterId": "2samuel22",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 18:5",
+          "start": 151,
+          "end": 159,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 18,
+            "chapterId": "psalms18",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "ye compass sea and land to make one proselyte, Matt. 23:15. we fetched a compass, and came, Acts 28:13. compassed about with so great a cloud of witnesses, Heb. 12:1.",
+      "references": [
+        {
+          "text": "Matt. 23:15",
+          "start": 47,
+          "end": 58,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 23,
+            "chapterId": "matthew23",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 28:13",
+          "start": 92,
+          "end": 102,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 28,
+            "chapterId": "acts28",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 12:1",
+          "start": 156,
+          "end": 165,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 12,
+            "chapterId": "hebrews12",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "the compass, which had been prepared, 1 Ne. 18:12 (2 Ne. 5:12; Alma 37:38).",
+      "references": [
+        {
+          "text": "1 Ne. 18:12",
+          "start": 38,
+          "end": 49,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 18,
+            "chapterId": "1nephi18",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 5:12",
+          "start": 51,
+          "end": 61,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 5,
+            "chapterId": "2nephi5",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 37:38",
+          "start": 63,
+          "end": 73,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 37,
+            "chapterId": "alma37",
+            "verses": [
+              {
+                "start": 38,
+                "end": 38
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "compass",
+  "title": "Compass",
+  "type": "tg"
+}

@@ -1,0 +1,56 @@
+{
+  "_id": "index-rehearse",
+  "content": [
+    {
+      "text": "Nephi1 rehearses words of Isaiah1, 1 Ne. 15:20. Ammon1 rehearsed words of Benjamin, Mosiah 8:3.",
+      "references": [
+        {
+          "text": "1 Ne. 15:20",
+          "start": 35,
+          "end": 46,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 15,
+            "chapterId": "1nephi15",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 8:3",
+          "start": 84,
+          "end": 94,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 8,
+            "chapterId": "mosiah8",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-read",
+      "slug": "read",
+      "title": "Read"
+    }
+  ],
+  "slug": "rehearse",
+  "title": "Rehearse",
+  "type": "index"
+}

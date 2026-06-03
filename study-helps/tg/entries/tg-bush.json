@@ -1,0 +1,127 @@
+{
+  "_id": "tg-bush",
+  "content": [
+    {
+      "text": "bush burned with fire, and … was not consumed, Ex. 3:2 (Moses 1:17). good will of him that dwelt in the bush, Deut. 33:16.",
+      "references": [
+        {
+          "text": "Ex. 3:2",
+          "start": 47,
+          "end": 54,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 3,
+            "chapterId": "exodus3",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 1:17",
+          "start": 56,
+          "end": 66,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 1,
+            "chapterId": "moses1",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 33:16",
+          "start": 110,
+          "end": 121,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 33,
+            "chapterId": "deuteronomy33",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "in the bush God spake, Mark 12:26 (Luke 20:37). an angel of the Lord in a flame of fire in a bush, Acts 7:30.",
+      "references": [
+        {
+          "text": "Mark 12:26",
+          "start": 23,
+          "end": 33,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 12,
+            "chapterId": "mark12",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 20:37",
+          "start": 35,
+          "end": 45,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 20,
+            "chapterId": "luke20",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 7:30",
+          "start": 99,
+          "end": 108,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 7,
+            "chapterId": "acts7",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "bush",
+  "title": "Bush",
+  "type": "tg"
+}

@@ -1,0 +1,73 @@
+{
+  "_id": "tg-grudge",
+  "content": [
+    {
+      "text": "Thou shalt not avenge, nor bear any grudge, Lev. 19:18.",
+      "references": [
+        {
+          "text": "Lev. 19:18",
+          "start": 44,
+          "end": 54,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 19,
+            "chapterId": "leviticus19",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Grudge not one against another, James 5:9. hospitality one to another without grudging, 1 Pet. 4:9.",
+      "references": [
+        {
+          "text": "James 5:9",
+          "start": 32,
+          "end": 41,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "james",
+            "book": "james",
+            "chapter": 5,
+            "chapterId": "james5",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Pet. 4:9",
+          "start": 88,
+          "end": 98,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-pet",
+            "book": "1peter",
+            "chapter": 4,
+            "chapterId": "1peter4",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "grudge",
+  "title": "Grudge",
+  "type": "tg"
+}

@@ -1,0 +1,84 @@
+{
+  "_id": "index-verified",
+  "content": [
+    {
+      "text": "word of the Lord is verified, Jarom 1:9 (Alma 9:14).",
+      "references": [
+        {
+          "text": "Jarom 1:9",
+          "start": 30,
+          "end": 39,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jarom",
+            "book": "jarom",
+            "chapter": 1,
+            "chapterId": "jarom1",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 9:14",
+          "start": 41,
+          "end": 50,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 9,
+            "chapterId": "alma9",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "the Lord’s word shall be verified, D&C 5:20.",
+      "references": [
+        {
+          "text": "D&C 5:20",
+          "start": 35,
+          "end": 43,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 5,
+            "chapterId": "doctrineandcovenants5",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-testify",
+      "slug": "testify",
+      "title": "Testify"
+    },
+    {
+      "entryId": "index-witness",
+      "slug": "witness",
+      "title": "Witness"
+    }
+  ],
+  "slug": "verified",
+  "title": "Verified",
+  "type": "index"
+}

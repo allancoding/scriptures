@@ -1,0 +1,94 @@
+{
+  "_id": "tg-loathsome",
+  "content": [
+    {
+      "text": "a wicked man is loathsome, Prov. 13:5.",
+      "references": [
+        {
+          "text": "Prov. 13:5",
+          "start": 27,
+          "end": 37,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 13,
+            "chapterId": "proverbs13",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "dark, and loathsome, and a filthy people, 1 Ne. 12:23. cause that they shall be loathsome, 2 Ne. 5:22.",
+      "references": [
+        {
+          "text": "1 Ne. 12:23",
+          "start": 42,
+          "end": 53,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 12,
+            "chapterId": "1nephi12",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 5:22",
+          "start": 91,
+          "end": 101,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 5,
+            "chapterId": "2nephi5",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-abominable",
+      "slug": "abominable",
+      "title": "Abominable"
+    },
+    {
+      "entryId": "tg-base",
+      "slug": "base",
+      "title": "Base"
+    },
+    {
+      "entryId": "tg-vile",
+      "slug": "vile",
+      "title": "Vile"
+    },
+    {
+      "entryId": "tg-wickedness",
+      "slug": "wickedness",
+      "title": "Wickedness"
+    }
+  ],
+  "slug": "loathsome",
+  "title": "Loathsome",
+  "type": "tg"
+}

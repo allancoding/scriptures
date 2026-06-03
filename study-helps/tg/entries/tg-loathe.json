@@ -1,0 +1,76 @@
+{
+  "_id": "tg-loathe",
+  "content": [
+    {
+      "text": "our soul loatheth this light bread, Num. 21:5. they shall lothe themselves for the evils, Ezek. 6:9.",
+      "references": [
+        {
+          "text": "Num. 21:5",
+          "start": 36,
+          "end": 45,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 21,
+            "chapterId": "numbers21",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 6:9",
+          "start": 90,
+          "end": 99,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 6,
+            "chapterId": "ezekiel6",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-abhor",
+      "slug": "abhor",
+      "title": "Abhor"
+    },
+    {
+      "entryId": "tg-despise",
+      "slug": "despise",
+      "title": "Despise"
+    },
+    {
+      "entryId": "tg-hate",
+      "slug": "hate",
+      "title": "Hate"
+    },
+    {
+      "entryId": "tg-loathsome",
+      "slug": "loathsome",
+      "title": "Loathsome"
+    },
+    {
+      "entryId": "tg-scorn",
+      "slug": "scorn",
+      "title": "Scorn"
+    }
+  ],
+  "slug": "loathe",
+  "title": "Loathe",
+  "type": "tg"
+}

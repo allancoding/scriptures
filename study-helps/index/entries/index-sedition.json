@@ -1,0 +1,52 @@
+{
+  "_id": "index-sedition",
+  "content": [
+    {
+      "text": "sedition is unbecoming every citizen, D&C 134:5, 7.",
+      "references": [
+        {
+          "text": "D&C 134:5, 7",
+          "start": 38,
+          "end": 50,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 134,
+            "chapterId": "doctrineandcovenants134",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              },
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-conspiracy",
+      "slug": "conspiracy",
+      "title": "Conspiracy"
+    },
+    {
+      "entryId": "index-rebel",
+      "slug": "rebel",
+      "title": "Rebel"
+    },
+    {
+      "entryId": "index-secret-combination",
+      "slug": "secret-combination",
+      "title": "Secret Combination"
+    }
+  ],
+  "slug": "sedition",
+  "title": "Sedition",
+  "type": "index"
+}

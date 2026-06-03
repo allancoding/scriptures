@@ -1,0 +1,184 @@
+{
+  "_id": "tg-simple",
+  "content": [
+    {
+      "text": "testimony of the Lord is sure, making wise the simple, Ps. 19:7. Lord preserveth the simple, Ps. 116:6. give subtilty to the simple, Prov. 1:4. ye simple, understand wisdom, Prov. 8:5.",
+      "references": [
+        {
+          "text": "Ps. 19:7",
+          "start": 55,
+          "end": 63,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 19,
+            "chapterId": "psalms19",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 116:6",
+          "start": 93,
+          "end": 102,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 116,
+            "chapterId": "psalms116",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 1:4",
+          "start": 133,
+          "end": 142,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 1,
+            "chapterId": "proverbs1",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 8:5",
+          "start": 174,
+          "end": 183,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 8,
+            "chapterId": "proverbs8",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "by good words and fair speeches deceive … the simple, Rom. 16:18. I would have you … simple concerning evil, Rom. 16:19.",
+      "references": [
+        {
+          "text": "Rom. 16:18",
+          "start": 54,
+          "end": 64,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 16,
+            "chapterId": "romans16",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 16:19",
+          "start": 109,
+          "end": 119,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 16,
+            "chapterId": "romans16",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "by small and simple things are great things brought to pass, Alma 37:6.",
+      "references": [
+        {
+          "text": "Alma 37:6",
+          "start": 61,
+          "end": 70,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 37,
+            "chapterId": "alma37",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "gospel might be proclaimed by the weak and the simple, D&C 1:23.",
+      "references": [
+        {
+          "text": "D&C 1:23",
+          "start": 55,
+          "end": 63,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 1,
+            "chapterId": "doctrineandcovenants1",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-simpleness",
+      "slug": "simpleness",
+      "title": "Simpleness"
+    },
+    {
+      "entryId": "tg-simplicity",
+      "slug": "simplicity",
+      "title": "Simplicity"
+    }
+  ],
+  "slug": "simple",
+  "title": "Simple",
+  "type": "tg"
+}

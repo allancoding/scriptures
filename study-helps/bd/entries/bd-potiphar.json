@@ -1,0 +1,50 @@
+{
+  "_id": "bd-potiphar",
+  "content": [
+    {
+      "text": "Captain of Pharaoh’s bodyguard and Joseph’s master in Egypt (Gen. 37:36; 39:1).",
+      "references": [
+        {
+          "text": "Gen. 37:36",
+          "start": 61,
+          "end": 71,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 37,
+            "chapterId": "genesis37",
+            "verses": [
+              {
+                "start": 36,
+                "end": 36
+              }
+            ]
+          }
+        },
+        {
+          "text": "39:1",
+          "start": 73,
+          "end": 77,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 39,
+            "chapterId": "genesis39",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "potiphar",
+  "title": "Potiphar",
+  "type": "bd"
+}

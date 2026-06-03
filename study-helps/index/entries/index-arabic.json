@@ -1,0 +1,38 @@
+{
+  "_id": "index-arabic",
+  "content": [
+    {
+      "text": "characters on plates resemble Arabic, JS—H 1:64.",
+      "references": [
+        {
+          "text": "JS—H 1:64",
+          "start": 38,
+          "end": 47,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 64,
+                "end": 64
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-language",
+      "slug": "language",
+      "title": "Language"
+    }
+  ],
+  "slug": "arabic",
+  "title": "Arabic",
+  "type": "index"
+}

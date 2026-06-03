@@ -1,0 +1,91 @@
+{
+  "_id": "tg-crystal",
+  "content": [
+    {
+      "text": "a sea of glass like unto crystal, Rev. 4:6. like a jasper stone, clear as crystal, Rev. 21:11. a pure river of water of life, clear as crystal, Rev. 22:1.",
+      "references": [
+        {
+          "text": "Rev. 4:6",
+          "start": 34,
+          "end": 42,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 4,
+            "chapterId": "revelation4",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 21:11",
+          "start": 83,
+          "end": 93,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 21,
+            "chapterId": "revelation21",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 22:1",
+          "start": 144,
+          "end": 153,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 22,
+            "chapterId": "revelation22",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "earth … will be made like unto crystal, D&C 130:9.",
+      "references": [
+        {
+          "text": "D&C 130:9",
+          "start": 40,
+          "end": 49,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 130,
+            "chapterId": "doctrineandcovenants130",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "crystal",
+  "title": "Crystal",
+  "type": "tg"
+}

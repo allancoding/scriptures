@@ -1,0 +1,626 @@
+{
+  "_id": "tg-waste",
+  "content": [
+    {
+      "text": "your strength shall be spent in vain, Lev. 26:20. barrel of meal shall not waste, 1 Kgs. 17:14. Ye see … how Jerusalem lieth waste, Neh. 2:17. boar out of the wood doth waste it, Ps. 80:13. slothful … to him that is a great waster, Prov. 18:9. treasure … a foolish man spendeth it, Prov. 21:20. Until the cities be wasted without inhabitant, Isa. 6:11 (2 Ne. 16:11). Lord maketh the earth … waste, Isa. 24:1. generation to generation it shall lie waste, Isa. 34:10. I will make waste mountains, Isa. 42:15. created the waster to destroy, Isa. 54:16. do ye spend money for that which is not bread, Isa. 55:2. they shall build the old wastes, Isa. 61:4. our pleasant things are laid waste, Isa. 64:11. cities that are inhabited shall be laid waste, Ezek. 12:20. field is wasted, the land mourneth, Joel 1:10.",
+      "references": [
+        {
+          "text": "Lev. 26:20",
+          "start": 38,
+          "end": 48,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 26,
+            "chapterId": "leviticus26",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Kgs. 17:14",
+          "start": 82,
+          "end": 94,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 17,
+            "chapterId": "1kings17",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Neh. 2:17",
+          "start": 132,
+          "end": 141,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "neh",
+            "book": "nehemiah",
+            "chapter": 2,
+            "chapterId": "nehemiah2",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 80:13",
+          "start": 179,
+          "end": 188,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 80,
+            "chapterId": "psalms80",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 18:9",
+          "start": 232,
+          "end": 242,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 18,
+            "chapterId": "proverbs18",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 21:20",
+          "start": 282,
+          "end": 293,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 21,
+            "chapterId": "proverbs21",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 6:11",
+          "start": 342,
+          "end": 351,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 6,
+            "chapterId": "isaiah6",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 16:11",
+          "start": 353,
+          "end": 364,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 16,
+            "chapterId": "2nephi16",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 24:1",
+          "start": 398,
+          "end": 407,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 24,
+            "chapterId": "isaiah24",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 34:10",
+          "start": 454,
+          "end": 464,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 34,
+            "chapterId": "isaiah34",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 42:15",
+          "start": 495,
+          "end": 505,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 42,
+            "chapterId": "isaiah42",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 54:16",
+          "start": 538,
+          "end": 548,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 54,
+            "chapterId": "isaiah54",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 55:2",
+          "start": 597,
+          "end": 606,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 55,
+            "chapterId": "isaiah55",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 61:4",
+          "start": 641,
+          "end": 650,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 61,
+            "chapterId": "isaiah61",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 64:11",
+          "start": 688,
+          "end": 698,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 64,
+            "chapterId": "isaiah64",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 12:20",
+          "start": 747,
+          "end": 758,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 12,
+            "chapterId": "ezekiel12",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Joel 1:10",
+          "start": 796,
+          "end": 805,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "joel",
+            "book": "joel",
+            "chapter": 1,
+            "chapterId": "joel1",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "To what purpose is this waste, Matt. 26:8. wasted his substance with riotous living, Luke 15:13. accused unto him that he had wasted his goods, Luke 16:1. spent their time in nothing else, Acts 17:21.",
+      "references": [
+        {
+          "text": "Matt. 26:8",
+          "start": 31,
+          "end": 41,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 26,
+            "chapterId": "matthew26",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 15:13",
+          "start": 85,
+          "end": 95,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 15,
+            "chapterId": "luke15",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 16:1",
+          "start": 144,
+          "end": 153,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 16,
+            "chapterId": "luke16",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 17:21",
+          "start": 189,
+          "end": 199,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 17,
+            "chapterId": "acts17",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "I was in a dark and dreary waste, 1 Ne. 8:7. wo unto him … that wasteth the days of his probation, 2 Ne. 9:27. spend your strength with harlots, Mosiah 12:29. rather than spend their days in idleness, Alma 24:18. if we do not improve our time while in this life, Alma 34:33.",
+      "references": [
+        {
+          "text": "1 Ne. 8:7",
+          "start": 34,
+          "end": 43,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 8,
+            "chapterId": "1nephi8",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 9:27",
+          "start": 99,
+          "end": 109,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 9,
+            "chapterId": "2nephi9",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 12:29",
+          "start": 145,
+          "end": 157,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 12,
+            "chapterId": "mosiah12",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 24:18",
+          "start": 201,
+          "end": 211,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 24,
+            "chapterId": "alma24",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 34:33",
+          "start": 263,
+          "end": 273,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 34,
+            "chapterId": "alma34",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "whole earth would be utterly wasted at his coming, D&C 2:3 (JS—H 1:39). wo be unto man … that wasteth flesh, D&C 49:21. return … to build up the waste places of Zion, D&C 101:18 (103:11). that we should waste and wear out our lives, D&C 123:13.",
+      "references": [
+        {
+          "text": "D&C 2:3",
+          "start": 51,
+          "end": 58,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 2,
+            "chapterId": "doctrineandcovenants2",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "JS—H 1:39",
+          "start": 60,
+          "end": 69,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 39,
+                "end": 39
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 49:21",
+          "start": 109,
+          "end": 118,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 49,
+            "chapterId": "doctrineandcovenants49",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 101:18",
+          "start": 167,
+          "end": 177,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 101,
+            "chapterId": "doctrineandcovenants101",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "103:11",
+          "start": 179,
+          "end": 185,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 103,
+            "chapterId": "doctrineandcovenants103",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 123:13",
+          "start": 233,
+          "end": 243,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 123,
+            "chapterId": "doctrineandcovenants123",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-desolate",
+      "slug": "desolate",
+      "title": "Desolate"
+    },
+    {
+      "entryId": "tg-desolation",
+      "slug": "desolation",
+      "title": "Desolation"
+    },
+    {
+      "entryId": "tg-idleness",
+      "slug": "idleness",
+      "title": "Idleness"
+    },
+    {
+      "entryId": "tg-ruin",
+      "slug": "ruin",
+      "title": "Ruin"
+    }
+  ],
+  "slug": "waste",
+  "title": "Waste",
+  "type": "tg"
+}

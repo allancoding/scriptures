@@ -1,0 +1,56 @@
+{
+  "_id": "index-scribe",
+  "content": [
+    {
+      "text": "Emma Smith to be scribe for husband, D&C 25:6. Frederick G. Williams, counselor and scribe to Joseph Smith, D&C 90:19.",
+      "references": [
+        {
+          "text": "D&C 25:6",
+          "start": 37,
+          "end": 45,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 25,
+            "chapterId": "doctrineandcovenants25",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 90:19",
+          "start": 108,
+          "end": 117,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 90,
+            "chapterId": "doctrineandcovenants90",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-recorder",
+      "slug": "recorder",
+      "title": "Recorder"
+    }
+  ],
+  "slug": "scribe",
+  "title": "Scribe",
+  "type": "index"
+}

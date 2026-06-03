@@ -1,0 +1,68 @@
+{
+  "_id": "tg-sponge",
+  "content": [
+    {
+      "text": "sponge, and filled it with vinegar … and gave him to drink, Matt. 27:48 (Mark 15:36; John 19:29).",
+      "references": [
+        {
+          "text": "Matt. 27:48",
+          "start": 60,
+          "end": 71,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 27,
+            "chapterId": "matthew27",
+            "verses": [
+              {
+                "start": 48,
+                "end": 48
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 15:36",
+          "start": 73,
+          "end": 83,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 15,
+            "chapterId": "mark15",
+            "verses": [
+              {
+                "start": 36,
+                "end": 36
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 19:29",
+          "start": 85,
+          "end": 95,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 19,
+            "chapterId": "john19",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "sponge",
+  "title": "Sponge",
+  "type": "tg"
+}

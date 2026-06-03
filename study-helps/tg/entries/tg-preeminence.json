@@ -1,0 +1,73 @@
+{
+  "_id": "tg-preeminence",
+  "content": [
+    {
+      "text": "a man hath no preeminence above a beast, Eccl. 3:19.",
+      "references": [
+        {
+          "text": "Eccl. 3:19",
+          "start": 41,
+          "end": 51,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "eccl",
+            "book": "ecclesiastes",
+            "chapter": 3,
+            "chapterId": "ecclesiastes3",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "that in all things he might have the preeminence, Col. 1:18. Diotrephes, who loveth to have the preeminence among them, 3 Jn. 1:9.",
+      "references": [
+        {
+          "text": "Col. 1:18",
+          "start": 50,
+          "end": 59,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "col",
+            "book": "colossians",
+            "chapter": 1,
+            "chapterId": "colossians1",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Jn. 1:9",
+          "start": 120,
+          "end": 129,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "3-jn",
+            "book": "3john",
+            "chapter": 1,
+            "chapterId": "3john1",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "preeminence",
+  "title": "Preeminence",
+  "type": "tg"
+}

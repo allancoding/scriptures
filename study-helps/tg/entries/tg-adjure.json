@@ -1,0 +1,66 @@
+{
+  "_id": "tg-adjure",
+  "content": [
+    {
+      "text": "I adjure thee by the living God, Matt. 26:63. We adjure you by Jesus, Acts 19:13.",
+      "references": [
+        {
+          "text": "Matt. 26:63",
+          "start": 33,
+          "end": 44,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 26,
+            "chapterId": "matthew26",
+            "verses": [
+              {
+                "start": 63,
+                "end": 63
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 19:13",
+          "start": 70,
+          "end": 80,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 19,
+            "chapterId": "acts19",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-charge",
+      "slug": "charge",
+      "title": "Charge"
+    },
+    {
+      "entryId": "tg-command",
+      "slug": "command",
+      "title": "Command"
+    },
+    {
+      "entryId": "tg-swearing",
+      "slug": "swearing",
+      "title": "Swearing"
+    }
+  ],
+  "slug": "adjure",
+  "title": "Adjure",
+  "type": "tg"
+}

@@ -1,0 +1,55 @@
+{
+  "_id": "tg-trimmed",
+  "content": [
+    {
+      "text": "virgins … trimmed their lamps, Matt. 25:7.",
+      "references": [
+        {
+          "text": "Matt. 25:7",
+          "start": 31,
+          "end": 41,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 25,
+            "chapterId": "matthew25",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "praying always, having your lamps trimmed and burning, D&C 33:17.",
+      "references": [
+        {
+          "text": "D&C 33:17",
+          "start": 55,
+          "end": 64,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 33,
+            "chapterId": "doctrineandcovenants33",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "trimmed",
+  "title": "Trimmed",
+  "type": "tg"
+}

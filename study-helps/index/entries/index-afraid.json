@@ -1,0 +1,97 @@
+{
+  "_id": "index-afraid",
+  "content": [
+    {
+      "text": "all nations to be afraid because of terror of the Lord, D&C 45:75. be not afraid of enemies, D&C 98:14.",
+      "references": [
+        {
+          "text": "D&C 45:75",
+          "start": 56,
+          "end": 65,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 45,
+            "chapterId": "doctrineandcovenants45",
+            "verses": [
+              {
+                "start": 75,
+                "end": 75
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 98:14",
+          "start": 93,
+          "end": 102,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 98,
+            "chapterId": "doctrineandcovenants98",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Adam hears God’s voice and is afraid, Moses 4:16. Joseph Smith is afraid when he first sees angel, JS—H 1:32.",
+      "references": [
+        {
+          "text": "Moses 4:16",
+          "start": 38,
+          "end": 48,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 4,
+            "chapterId": "moses4",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "JS—H 1:32",
+          "start": 99,
+          "end": 108,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-fear",
+      "slug": "fear",
+      "title": "Fear"
+    }
+  ],
+  "slug": "afraid",
+  "title": "Afraid",
+  "type": "index"
+}

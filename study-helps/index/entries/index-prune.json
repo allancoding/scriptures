@@ -1,0 +1,222 @@
+{
+  "_id": "index-prune",
+  "content": [
+    {
+      "text": "nations shall beat their spears into pruning-hooks, 2 Ne. 12:4 (Isa. 2:4). vineyard shall not be pruned nor digged, 2 Ne. 15:6 (Isa. 5:6). the Lord prunes vineyard, Jacob 5:4, 27, 62, 69. the Lord’s servants to go forth last time to prune vineyard, Jacob 6:2.",
+      "references": [
+        {
+          "text": "2 Ne. 12:4",
+          "start": 52,
+          "end": 62,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 12,
+            "chapterId": "2nephi12",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 2:4",
+          "start": 64,
+          "end": 72,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 2,
+            "chapterId": "isaiah2",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 15:6",
+          "start": 116,
+          "end": 126,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 15,
+            "chapterId": "2nephi15",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 5:6",
+          "start": 128,
+          "end": 136,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 5,
+            "chapterId": "isaiah5",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jacob 5:4, 27, 62, 69",
+          "start": 165,
+          "end": 186,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 5,
+            "chapterId": "jacob5",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              },
+              {
+                "start": 27,
+                "end": 27
+              },
+              {
+                "start": 62,
+                "end": 62
+              },
+              {
+                "start": 69,
+                "end": 69
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jacob 6:2",
+          "start": 249,
+          "end": 258,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 6,
+            "chapterId": "jacob6",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "the Lord’s vineyard to be pruned, D&C 24:19 (39:17; 75:2; 95:4).",
+      "references": [
+        {
+          "text": "D&C 24:19",
+          "start": 34,
+          "end": 43,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 24,
+            "chapterId": "doctrineandcovenants24",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "39:17",
+          "start": 45,
+          "end": 50,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 39,
+            "chapterId": "doctrineandcovenants39",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "75:2",
+          "start": 52,
+          "end": 56,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 75,
+            "chapterId": "doctrineandcovenants75",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "95:4",
+          "start": 58,
+          "end": 62,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 95,
+            "chapterId": "doctrineandcovenants95",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-cut",
+      "slug": "cut",
+      "title": "Cut"
+    },
+    {
+      "entryId": "index-pluck",
+      "slug": "pluck",
+      "title": "Pluck"
+    }
+  ],
+  "slug": "prune",
+  "title": "Prune, Pruning",
+  "type": "index"
+}

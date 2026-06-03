@@ -1,0 +1,207 @@
+{
+  "_id": "tg-heritage",
+  "content": [
+    {
+      "text": "I will give it you for an heritage, Ex. 6:8. children are an heritage of the Lord, Ps. 127:3. gave their land for an heritage, Ps. 135:12. is the heritage of the servants of the Lord, Isa. 54:17 (3 Ne. 22:17). I will … plead with them there … for my heritage Israel, Joel 3:2.",
+      "references": [
+        {
+          "text": "Ex. 6:8",
+          "start": 36,
+          "end": 43,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 6,
+            "chapterId": "exodus6",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 127:3",
+          "start": 83,
+          "end": 92,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 127,
+            "chapterId": "psalms127",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 135:12",
+          "start": 127,
+          "end": 137,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 135,
+            "chapterId": "psalms135",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 54:17",
+          "start": 184,
+          "end": 194,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 54,
+            "chapterId": "isaiah54",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 22:17",
+          "start": 196,
+          "end": 207,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 22,
+            "chapterId": "3nephi22",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Joel 3:2",
+          "start": 267,
+          "end": 275,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "joel",
+            "book": "joel",
+            "chapter": 3,
+            "chapterId": "joel3",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Neither as being lords over God’s heritage, 1 Pet. 5:3.",
+      "references": [
+        {
+          "text": "1 Pet. 5:3",
+          "start": 44,
+          "end": 54,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-pet",
+            "book": "1peter",
+            "chapter": 5,
+            "chapterId": "1peter5",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "mouth of the city of the heritage of God, D&C 58:13. they shall not … pollute mine heritage, D&C 105:15.",
+      "references": [
+        {
+          "text": "D&C 58:13",
+          "start": 42,
+          "end": 51,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 58,
+            "chapterId": "doctrineandcovenants58",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 105:15",
+          "start": 93,
+          "end": 103,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 105,
+            "chapterId": "doctrineandcovenants105",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-abrahamic-covenant",
+      "slug": "abrahamic-covenant",
+      "title": "Abrahamic Covenant"
+    },
+    {
+      "entryId": "tg-genealogy-and-temple-work",
+      "slug": "genealogy-and-temple-work",
+      "title": "Genealogy and Temple Work"
+    },
+    {
+      "entryId": "tg-inheritance",
+      "slug": "inheritance",
+      "title": "Inheritance"
+    },
+    {
+      "entryId": "tg-lands-of-inheritance",
+      "slug": "lands-of-inheritance",
+      "title": "Lands of Inheritance"
+    }
+  ],
+  "slug": "heritage",
+  "title": "Heritage",
+  "type": "tg"
+}

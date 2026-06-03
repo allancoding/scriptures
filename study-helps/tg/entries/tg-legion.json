@@ -1,0 +1,68 @@
+{
+  "_id": "tg-legion",
+  "content": [
+    {
+      "text": "give me more than twelve legions of angels, Matt. 26:53. My name is Legion: for we are many, Mark 5:9 (Luke 8:30).",
+      "references": [
+        {
+          "text": "Matt. 26:53",
+          "start": 44,
+          "end": 55,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 26,
+            "chapterId": "matthew26",
+            "verses": [
+              {
+                "start": 53,
+                "end": 53
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 5:9",
+          "start": 93,
+          "end": 101,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 5,
+            "chapterId": "mark5",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 8:30",
+          "start": 103,
+          "end": 112,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 8,
+            "chapterId": "luke8",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "legion",
+  "title": "Legion",
+  "type": "tg"
+}

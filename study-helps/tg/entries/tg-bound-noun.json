@@ -1,0 +1,114 @@
+{
+  "_id": "tg-bound-noun",
+  "content": [
+    {
+      "text": "I will set thy bounds from the Red sea, Ex. 23:31. he set the bounds of the people, Deut. 32:8. thou hast appointed his bounds, Job 14:5.",
+      "references": [
+        {
+          "text": "Ex. 23:31",
+          "start": 40,
+          "end": 49,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 23,
+            "chapterId": "exodus23",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 32:8",
+          "start": 84,
+          "end": 94,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 32,
+            "chapterId": "deuteronomy32",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Job 14:5",
+          "start": 128,
+          "end": 136,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "job",
+            "book": "job",
+            "chapter": 14,
+            "chapterId": "job14",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "determined … the bounds of their habitation, Acts 17:26.",
+      "references": [
+        {
+          "text": "Acts 17:26",
+          "start": 45,
+          "end": 55,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 17,
+            "chapterId": "acts17",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "their bounds are set, D&C 122:9.",
+      "references": [
+        {
+          "text": "D&C 122:9",
+          "start": 22,
+          "end": 31,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 122,
+            "chapterId": "doctrineandcovenants122",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "bound-noun",
+  "title": "Bound [noun]",
+  "type": "tg"
+}

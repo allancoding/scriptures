@@ -1,0 +1,38 @@
+{
+  "_id": "index-predict",
+  "content": [
+    {
+      "text": "Adam predicted what would befall his posterity unto latest generation, D&C 107:56.",
+      "references": [
+        {
+          "text": "D&C 107:56",
+          "start": 71,
+          "end": 81,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 107,
+            "chapterId": "doctrineandcovenants107",
+            "verses": [
+              {
+                "start": 56,
+                "end": 56
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-prophecy",
+      "slug": "prophecy",
+      "title": "Prophecy"
+    }
+  ],
+  "slug": "predict",
+  "title": "Predict",
+  "type": "index"
+}

@@ -1,0 +1,50 @@
+{
+  "_id": "bd-agag",
+  "content": [
+    {
+      "text": "An Amalekite king spared by Saul and killed by Samuel (1 Sam. 15:8–23); the name was perhaps a title (like Pharaoh among the Egyptians); see Num. 24:7.",
+      "references": [
+        {
+          "text": "1 Sam. 15:8–23",
+          "start": 55,
+          "end": 69,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 15,
+            "chapterId": "1samuel15",
+            "verses": [
+              {
+                "start": 8,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 24:7",
+          "start": 141,
+          "end": 150,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 24,
+            "chapterId": "numbers24",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "agag",
+  "title": "Agag",
+  "type": "bd"
+}

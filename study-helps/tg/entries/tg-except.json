@@ -1,0 +1,163 @@
+{
+  "_id": "tg-except",
+  "content": [
+    {
+      "text": "Except the Lord build the house, Ps. 127:1. Can two walk together, except they be agreed, Amos 3:3.",
+      "references": [
+        {
+          "text": "Ps. 127:1",
+          "start": 33,
+          "end": 42,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 127,
+            "chapterId": "psalms127",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Amos 3:3",
+          "start": 90,
+          "end": 98,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "amos",
+            "book": "amos",
+            "chapter": 3,
+            "chapterId": "amos3",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "except your righteousness shall exceed, Matt. 5:20 (3 Ne. 12:20). Except ye be converted, and become as little children, Matt. 18:3. except those days should be shortened, Matt. 24:22 (Mark 13:20; JS—M 1:20).",
+      "references": [
+        {
+          "text": "Matt. 5:20",
+          "start": 40,
+          "end": 50,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 5,
+            "chapterId": "matthew5",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 12:20",
+          "start": 52,
+          "end": 63,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 12,
+            "chapterId": "3nephi12",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 18:3",
+          "start": 121,
+          "end": 131,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 18,
+            "chapterId": "matthew18",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 24:22",
+          "start": 172,
+          "end": 183,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 24,
+            "chapterId": "matthew24",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 13:20",
+          "start": 185,
+          "end": 195,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 13,
+            "chapterId": "mark13",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "JS—M 1:20",
+          "start": 197,
+          "end": 206,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-m",
+            "book": "josephsmithmatthew",
+            "chapter": 1,
+            "chapterId": "josephsmithmatthew1",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "except",
+  "title": "Except",
+  "type": "tg"
+}

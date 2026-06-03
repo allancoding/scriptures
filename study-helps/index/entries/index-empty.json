@@ -1,0 +1,89 @@
+{
+  "_id": "index-empty",
+  "content": [
+    {
+      "text": "enemies of Zion shall be as hungry man who dreams he eats, but soul is empty, 2 Ne. 27:3 (Isa. 29:8).",
+      "references": [
+        {
+          "text": "2 Ne. 27:3",
+          "start": 78,
+          "end": 88,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 27,
+            "chapterId": "2nephi27",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 29:8",
+          "start": 90,
+          "end": 99,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 29,
+            "chapterId": "isaiah29",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "scourge to be poured out until earth is empty, D&C 5:19.",
+      "references": [
+        {
+          "text": "D&C 5:19",
+          "start": 47,
+          "end": 55,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 5,
+            "chapterId": "doctrineandcovenants5",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-desolation",
+      "slug": "desolation",
+      "title": "Desolation"
+    },
+    {
+      "entryId": "index-void",
+      "slug": "void",
+      "title": "Void"
+    },
+    {
+      "entryId": "index-waste",
+      "slug": "waste",
+      "title": "Waste"
+    }
+  ],
+  "slug": "empty",
+  "title": "Empty",
+  "type": "index"
+}

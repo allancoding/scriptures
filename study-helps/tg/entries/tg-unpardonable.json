@@ -1,0 +1,56 @@
+{
+  "_id": "tg-unpardonable",
+  "content": [
+    {
+      "text": "fear lest I have committed the unpardonable sin, Jacob 7:19. deny the Holy Ghost … a sin which is unpardonable, Alma 39:6.",
+      "references": [
+        {
+          "text": "Jacob 7:19",
+          "start": 49,
+          "end": 59,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 7,
+            "chapterId": "jacob7",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 39:6",
+          "start": 112,
+          "end": 121,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 39,
+            "chapterId": "alma39",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-holy-ghost-unpardonable-sin-against",
+      "slug": "holy-ghost-unpardonable-sin-against",
+      "title": "Holy Ghost, Unpardonable Sin against"
+    }
+  ],
+  "slug": "unpardonable",
+  "title": "Unpardonable",
+  "type": "tg"
+}

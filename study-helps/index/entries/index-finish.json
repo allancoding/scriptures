@@ -1,0 +1,120 @@
+{
+  "_id": "index-finish",
+  "content": [
+    {
+      "text": "work of Alma2 and Amulek is not finished, Alma 14:13.",
+      "references": [
+        {
+          "text": "Alma 14:13",
+          "start": 42,
+          "end": 52,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 14,
+            "chapterId": "alma14",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Christ finished will of the Father, D&C 19:2. resurrection of telestial beings must wait until Christ finishes his work, D&C 76:85. on seventh day God finished his work, D&C 77:12. seventh angel to say, It is finished, D&C 88:106.",
+      "references": [
+        {
+          "text": "D&C 19:2",
+          "start": 36,
+          "end": 44,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 19,
+            "chapterId": "doctrineandcovenants19",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 76:85",
+          "start": 121,
+          "end": 130,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 76,
+            "chapterId": "doctrineandcovenants76",
+            "verses": [
+              {
+                "start": 85,
+                "end": 85
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 77:12",
+          "start": 170,
+          "end": 179,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 77,
+            "chapterId": "doctrineandcovenants77",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 88:106",
+          "start": 219,
+          "end": 229,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 106,
+                "end": 106
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-end",
+      "slug": "end",
+      "title": "End"
+    },
+    {
+      "entryId": "index-finisher",
+      "slug": "finisher",
+      "title": "Finisher"
+    }
+  ],
+  "slug": "finish",
+  "title": "Finish",
+  "type": "index"
+}

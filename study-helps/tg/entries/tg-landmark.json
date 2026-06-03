@@ -1,0 +1,68 @@
+{
+  "_id": "tg-landmark",
+  "content": [
+    {
+      "text": "Thou shalt not remove thy neighbour’s landmark, Deut. 19:14. Remove not the ancient landmark, Prov. 22:28 (23:10).",
+      "references": [
+        {
+          "text": "Deut. 19:14",
+          "start": 48,
+          "end": 59,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 19,
+            "chapterId": "deuteronomy19",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 22:28",
+          "start": 94,
+          "end": 105,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 22,
+            "chapterId": "proverbs22",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "23:10",
+          "start": 107,
+          "end": 112,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 23,
+            "chapterId": "proverbs23",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "landmark",
+  "title": "Landmark",
+  "type": "tg"
+}

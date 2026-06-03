@@ -1,0 +1,102 @@
+{
+  "_id": "tg-loving-kindness",
+  "content": [
+    {
+      "text": "Have mercy upon me, O God, according to thy lovingkindness, Ps. 51:1. I will mention the lovingkindnesses of the Lord, Isa. 63:7. I am the Lord which exercise lovingkindness, Jer. 9:24.",
+      "references": [
+        {
+          "text": "Ps. 51:1",
+          "start": 60,
+          "end": 68,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 51,
+            "chapterId": "psalms51",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 63:7",
+          "start": 119,
+          "end": 128,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 63,
+            "chapterId": "isaiah63",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 9:24",
+          "start": 175,
+          "end": 184,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 9,
+            "chapterId": "jeremiah9",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "they shall mention the loving kindness of their Lord, D&C 133:52.",
+      "references": [
+        {
+          "text": "D&C 133:52",
+          "start": 54,
+          "end": 64,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 133,
+            "chapterId": "doctrineandcovenants133",
+            "verses": [
+              {
+                "start": 52,
+                "end": 52
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-kindness",
+      "slug": "kindness",
+      "title": "Kindness"
+    },
+    {
+      "entryId": "tg-mercy",
+      "slug": "mercy",
+      "title": "Mercy"
+    }
+  ],
+  "slug": "loving-kindness",
+  "title": "Loving-Kindness",
+  "type": "tg"
+}

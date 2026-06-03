@@ -1,0 +1,74 @@
+{
+  "_id": "tg-upper",
+  "content": [
+    {
+      "text": "he will shew you a large upper room, Mark 14:15 (Luke 22:12). they went up into an upper room, Acts 1:13.",
+      "references": [
+        {
+          "text": "Mark 14:15",
+          "start": 37,
+          "end": 47,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 14,
+            "chapterId": "mark14",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 22:12",
+          "start": 49,
+          "end": 59,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 22,
+            "chapterId": "luke22",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 1:13",
+          "start": 95,
+          "end": 104,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 1,
+            "chapterId": "acts1",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-uppermost",
+      "slug": "uppermost",
+      "title": "Uppermost"
+    }
+  ],
+  "slug": "upper",
+  "title": "Upper",
+  "type": "tg"
+}

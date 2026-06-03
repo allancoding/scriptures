@@ -1,0 +1,32 @@
+{
+  "_id": "tg-poet",
+  "content": [
+    {
+      "text": "as certain also of your own poets have said, Acts 17:28.",
+      "references": [
+        {
+          "text": "Acts 17:28",
+          "start": 45,
+          "end": 55,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 17,
+            "chapterId": "acts17",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "poet",
+  "title": "Poet",
+  "type": "tg"
+}

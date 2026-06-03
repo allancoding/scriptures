@@ -1,0 +1,61 @@
+{
+  "_id": "index-appointment",
+  "content": [
+    {
+      "text": "those of lesser priesthood to make and fill appointments, D&C 84:107.",
+      "references": [
+        {
+          "text": "D&C 84:107",
+          "start": 58,
+          "end": 68,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 84,
+            "chapterId": "doctrineandcovenants84",
+            "verses": [
+              {
+                "start": 107,
+                "end": 107
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Abraham sought for appointment unto priesthood, Abr. 1:4.",
+      "references": [
+        {
+          "text": "Abr. 1:4",
+          "start": 48,
+          "end": 56,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 1,
+            "chapterId": "abraham1",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-appoint",
+      "slug": "appoint",
+      "title": "Appoint"
+    }
+  ],
+  "slug": "appointment",
+  "title": "Appointment",
+  "type": "index"
+}

@@ -1,0 +1,50 @@
+{
+  "_id": "index-knight-vinson",
+  "content": [
+    {
+      "text": "to put stock in Nauvoo House, D&C 124:74. to preside over bishopric, D&C 124:141.",
+      "references": [
+        {
+          "text": "D&C 124:74",
+          "start": 30,
+          "end": 40,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 124,
+            "chapterId": "doctrineandcovenants124",
+            "verses": [
+              {
+                "start": 74,
+                "end": 74
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 124:141",
+          "start": 69,
+          "end": 80,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 124,
+            "chapterId": "doctrineandcovenants124",
+            "verses": [
+              {
+                "start": 141,
+                "end": 141
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "knight-vinson",
+  "title": "Knight, Vinson",
+  "type": "index"
+}

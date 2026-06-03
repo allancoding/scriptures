@@ -1,0 +1,871 @@
+{
+  "_id": "index-enemy",
+  "content": [
+    {
+      "text": "give place no more for enemy of my soul, 2 Ne. 4:28. if Nephites keep commandments, enemies shall have no power over them, Mosiah 2:31. man who transgresses against what he has been taught becomes enemy to righteousness, Mosiah 2:37. natural man is enemy to God, Mosiah 3:19 (16:5). devil is enemy to all righteousness, Mosiah 4:14 (16:5; Alma 34:23; Moro. 7:12; 9:6). those who are gathered shall not be driven whithersoever enemy listeth to carry them, Alma 26:6. Nephites pray that God will deliver them from enemies, Alma 58:10. corrupt judges do not believe enemies can have power over them, Hel. 8:6. love your enemies, 3 Ne. 12:43–44 (Matt. 5:43–44).",
+      "references": [
+        {
+          "text": "2 Ne. 4:28",
+          "start": 41,
+          "end": 51,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 4,
+            "chapterId": "2nephi4",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 2:31",
+          "start": 123,
+          "end": 134,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 2,
+            "chapterId": "mosiah2",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 2:37",
+          "start": 221,
+          "end": 232,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 2,
+            "chapterId": "mosiah2",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 3:19",
+          "start": 263,
+          "end": 274,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 3,
+            "chapterId": "mosiah3",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "16:5",
+          "start": 276,
+          "end": 280,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 16,
+            "chapterId": "mosiah16",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 4:14",
+          "start": 320,
+          "end": 331,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 4,
+            "chapterId": "mosiah4",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "16:5",
+          "start": 333,
+          "end": 337,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 16,
+            "chapterId": "mosiah16",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 34:23",
+          "start": 339,
+          "end": 349,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 34,
+            "chapterId": "alma34",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moro. 7:12",
+          "start": 351,
+          "end": 361,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "moro",
+            "book": "moroni",
+            "chapter": 7,
+            "chapterId": "moroni7",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "9:6",
+          "start": 363,
+          "end": 366,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "moro",
+            "book": "moroni",
+            "chapter": 9,
+            "chapterId": "moroni9",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 26:6",
+          "start": 455,
+          "end": 464,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 26,
+            "chapterId": "alma26",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 58:10",
+          "start": 521,
+          "end": 531,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 58,
+            "chapterId": "alma58",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 8:6",
+          "start": 597,
+          "end": 605,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 8,
+            "chapterId": "helaman8",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 12:43–44",
+          "start": 626,
+          "end": 640,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 12,
+            "chapterId": "3nephi12",
+            "verses": [
+              {
+                "start": 43,
+                "end": 44
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 5:43–44",
+          "start": 642,
+          "end": 655,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 5,
+            "chapterId": "matthew5",
+            "verses": [
+              {
+                "start": 43,
+                "end": 44
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "spirit of revelation to deliver Joseph Smith out of hands of enemies, D&C 8:4. Joseph Smith delivered from enemies, D&C 24:1. Saints not to purchase wine of enemies, D&C 27:3. enemies of the Lord’s servants shall be under their feet, D&C 35:14. translation is stopped because of enemy, D&C 37:1. enemy shall not overcome, D&C 38:9. enemy seeks lives of Saints, D&C 38:28. the Lord commands Saints to go to Ohio to escape enemy, D&C 38:31. sick not to be nourished by enemy, D&C 42:43. Church to organize so that enemies do not have power to destroy, D&C 44:5. Christ will descend to put all enemies under his feet, D&C 49:6. to escape enemies, repent and be humble, D&C 54:3. the Lord will subdue all enemies, D&C 58:22 (76:61, 106). if land of Zion is obtained by blood, enemies will scourge Saints, D&C 63:31. forbidden to get in debt to enemies, D&C 64:27. kingdom to go forth that the Lord’s enemies may be subdued, D&C 65:6. confound your enemies, D&C 71:7. blood of Saints to be avenged of enemies, D&C 87:7. be not afraid of enemies, D&C 98:14 (136:17, 30). reward for long-suffering toward enemy, D&C 98:23–31. if enemy repent, forgive him seventy times seven, D&C 98:39–40. enemy came by night and broke down hedge, D&C 101:51. conditions upon which Saints should prevail against enemies, D&C 103:2. enemies to be cursed, D&C 103:24–25. destroyer to lay waste enemies, D&C 105:15. prayer that the Lord’s anger be kindled against enemies, D&C 121:5. show increase of love, lest he esteem thee to be enemy, D&C 121:43. enemies shall become prey, D&C 133:28. the Lord has delivered Saints from enemies, D&C 136:40.",
+      "references": [
+        {
+          "text": "D&C 8:4",
+          "start": 70,
+          "end": 77,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 8,
+            "chapterId": "doctrineandcovenants8",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 24:1",
+          "start": 116,
+          "end": 124,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 24,
+            "chapterId": "doctrineandcovenants24",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 27:3",
+          "start": 166,
+          "end": 174,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 27,
+            "chapterId": "doctrineandcovenants27",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 35:14",
+          "start": 234,
+          "end": 243,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 35,
+            "chapterId": "doctrineandcovenants35",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 37:1",
+          "start": 286,
+          "end": 294,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 37,
+            "chapterId": "doctrineandcovenants37",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 38:9",
+          "start": 322,
+          "end": 330,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 38,
+            "chapterId": "doctrineandcovenants38",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 38:28",
+          "start": 361,
+          "end": 370,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 38,
+            "chapterId": "doctrineandcovenants38",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 38:31",
+          "start": 428,
+          "end": 437,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 38,
+            "chapterId": "doctrineandcovenants38",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 42:43",
+          "start": 474,
+          "end": 483,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 42,
+            "chapterId": "doctrineandcovenants42",
+            "verses": [
+              {
+                "start": 43,
+                "end": 43
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 44:5",
+          "start": 550,
+          "end": 558,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 44,
+            "chapterId": "doctrineandcovenants44",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 49:6",
+          "start": 615,
+          "end": 623,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 49,
+            "chapterId": "doctrineandcovenants49",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 54:3",
+          "start": 666,
+          "end": 674,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 54,
+            "chapterId": "doctrineandcovenants54",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 58:22",
+          "start": 710,
+          "end": 719,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 58,
+            "chapterId": "doctrineandcovenants58",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "76:61, 106",
+          "start": 721,
+          "end": 731,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 76,
+            "chapterId": "doctrineandcovenants76",
+            "verses": [
+              {
+                "start": 61,
+                "end": 61
+              },
+              {
+                "start": 106,
+                "end": 106
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 63:31",
+          "start": 801,
+          "end": 810,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 63,
+            "chapterId": "doctrineandcovenants63",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 64:27",
+          "start": 849,
+          "end": 858,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 64,
+            "chapterId": "doctrineandcovenants64",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 65:6",
+          "start": 920,
+          "end": 928,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 65,
+            "chapterId": "doctrineandcovenants65",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 71:7",
+          "start": 953,
+          "end": 961,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 71,
+            "chapterId": "doctrineandcovenants71",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 87:7",
+          "start": 1005,
+          "end": 1013,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 87,
+            "chapterId": "doctrineandcovenants87",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 98:14",
+          "start": 1041,
+          "end": 1050,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 98,
+            "chapterId": "doctrineandcovenants98",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "136:17, 30",
+          "start": 1052,
+          "end": 1062,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 136,
+            "chapterId": "doctrineandcovenants136",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              },
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 98:23–31",
+          "start": 1105,
+          "end": 1117,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 98,
+            "chapterId": "doctrineandcovenants98",
+            "verses": [
+              {
+                "start": 23,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 98:39–40",
+          "start": 1169,
+          "end": 1181,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 98,
+            "chapterId": "doctrineandcovenants98",
+            "verses": [
+              {
+                "start": 39,
+                "end": 40
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 101:51",
+          "start": 1225,
+          "end": 1235,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 101,
+            "chapterId": "doctrineandcovenants101",
+            "verses": [
+              {
+                "start": 51,
+                "end": 51
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 103:2",
+          "start": 1298,
+          "end": 1307,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 103,
+            "chapterId": "doctrineandcovenants103",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 103:24–25",
+          "start": 1331,
+          "end": 1344,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 103,
+            "chapterId": "doctrineandcovenants103",
+            "verses": [
+              {
+                "start": 24,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 105:15",
+          "start": 1378,
+          "end": 1388,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 105,
+            "chapterId": "doctrineandcovenants105",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 121:5",
+          "start": 1447,
+          "end": 1456,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 121:43",
+          "start": 1514,
+          "end": 1524,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 43,
+                "end": 43
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 133:28",
+          "start": 1553,
+          "end": 1563,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 133,
+            "chapterId": "doctrineandcovenants133",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 136:40",
+          "start": 1609,
+          "end": 1619,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 136,
+            "chapterId": "doctrineandcovenants136",
+            "verses": [
+              {
+                "start": 40,
+                "end": 40
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-adversary",
+      "slug": "adversary",
+      "title": "Adversary"
+    },
+    {
+      "entryId": "index-foe",
+      "slug": "foe",
+      "title": "Foe"
+    },
+    {
+      "entryId": "index-oppressor",
+      "slug": "oppressor",
+      "title": "Oppressor"
+    }
+  ],
+  "slug": "enemy",
+  "title": "Enemy",
+  "type": "index"
+}

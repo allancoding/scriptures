@@ -1,0 +1,50 @@
+{
+  "_id": "bd-chorazin",
+  "content": [
+    {
+      "text": "A town north of the Sea of Galilee, in which some of our Lord’s mighty works were done (of which no record is preserved) and that was rebuked for its unbelief (Matt. 11:21; Luke 10:13).",
+      "references": [
+        {
+          "text": "Matt. 11:21",
+          "start": 160,
+          "end": 171,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 11,
+            "chapterId": "matthew11",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 10:13",
+          "start": 173,
+          "end": 183,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 10,
+            "chapterId": "luke10",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "chorazin",
+  "title": "Chorazin",
+  "type": "bd"
+}

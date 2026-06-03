@@ -1,0 +1,109 @@
+{
+  "_id": "tg-helmet",
+  "content": [
+    {
+      "text": "helmet of brass upon his head, 1 Sam. 17:5. helmet of salvation upon his head, Isa. 59:17.",
+      "references": [
+        {
+          "text": "1 Sam. 17:5",
+          "start": 31,
+          "end": 42,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 17,
+            "chapterId": "1samuel17",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 59:17",
+          "start": 79,
+          "end": 89,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 59,
+            "chapterId": "isaiah59",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "take the helmet of salvation, Eph. 6:17 (D&C 27:18). for an helmet, the hope of salvation, 1 Thes. 5:8.",
+      "references": [
+        {
+          "text": "Eph. 6:17",
+          "start": 30,
+          "end": 39,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "eph",
+            "book": "ephesians",
+            "chapter": 6,
+            "chapterId": "ephesians6",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 27:18",
+          "start": 41,
+          "end": 50,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 27,
+            "chapterId": "doctrineandcovenants27",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Thes. 5:8",
+          "start": 91,
+          "end": 102,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-thes",
+            "book": "1thessalonians",
+            "chapter": 5,
+            "chapterId": "1thessalonians5",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "helmet",
+  "title": "Helmet",
+  "type": "tg"
+}

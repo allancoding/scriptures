@@ -1,0 +1,115 @@
+{
+  "_id": "index-clear",
+  "content": [
+    {
+      "text": "wilt thou clear my way before me, 2 Ne. 4:33. ye shall clear away branches which bring forth bitter fruit, Jacob 5:65.",
+      "references": [
+        {
+          "text": "2 Ne. 4:33",
+          "start": 34,
+          "end": 44,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 4,
+            "chapterId": "2nephi4",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jacob 5:65",
+          "start": 107,
+          "end": 117,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 5,
+            "chapterId": "jacob5",
+            "verses": [
+              {
+                "start": 65,
+                "end": 65
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Church to come out of wilderness, clear as moon, D&C 5:14 (105:31). Church to come out of wilderness, clear as sun, D&C 109:73.",
+      "references": [
+        {
+          "text": "D&C 5:14",
+          "start": 49,
+          "end": 57,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 5,
+            "chapterId": "doctrineandcovenants5",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "105:31",
+          "start": 59,
+          "end": 65,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 105,
+            "chapterId": "doctrineandcovenants105",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 109:73",
+          "start": 116,
+          "end": 126,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 109,
+            "chapterId": "doctrineandcovenants109",
+            "verses": [
+              {
+                "start": 73,
+                "end": 73
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-plain",
+      "slug": "plain",
+      "title": "Plain"
+    }
+  ],
+  "slug": "clear",
+  "title": "Clear",
+  "type": "index"
+}

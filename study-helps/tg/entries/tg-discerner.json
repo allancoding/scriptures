@@ -1,0 +1,50 @@
+{
+  "_id": "tg-discerner",
+  "content": [
+    {
+      "text": "discerner of the thoughts and intents, Heb. 4:12 (D&C 33:1).",
+      "references": [
+        {
+          "text": "Heb. 4:12",
+          "start": 39,
+          "end": 48,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 4,
+            "chapterId": "hebrews4",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 33:1",
+          "start": 50,
+          "end": 58,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 33,
+            "chapterId": "doctrineandcovenants33",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "discerner",
+  "title": "Discerner",
+  "type": "tg"
+}

@@ -1,0 +1,204 @@
+{
+  "_id": "tg-petition",
+  "content": [
+    {
+      "text": "I desire one small petition of thee, 1 Kgs. 2:20. king said unto Esther … What is thy petition, Esth. 5:6. whosoever shall ask a petition of any God or man, Dan. 6:7 (6:12). Daniel … maketh his petition three times a day, Dan. 6:13.",
+      "references": [
+        {
+          "text": "1 Kgs. 2:20",
+          "start": 37,
+          "end": 48,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 2,
+            "chapterId": "1kings2",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Esth. 5:6",
+          "start": 96,
+          "end": 105,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "esth",
+            "book": "esther",
+            "chapter": 5,
+            "chapterId": "esther5",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 6:7",
+          "start": 157,
+          "end": 165,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 6,
+            "chapterId": "daniel6",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "6:12",
+          "start": 167,
+          "end": 171,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 6,
+            "chapterId": "daniel6",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 6:13",
+          "start": 222,
+          "end": 231,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 6,
+            "chapterId": "daniel6",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "we know that we have the petitions that we desired, 1 Jn. 5:15.",
+      "references": [
+        {
+          "text": "1 Jn. 5:15",
+          "start": 52,
+          "end": 62,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-jn",
+            "book": "1john",
+            "chapter": 5,
+            "chapterId": "1john5",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "ye will not suffer that the beggar putteth up his petition to you in vain, Mosiah 4:16 (4:26).",
+      "references": [
+        {
+          "text": "Mosiah 4:16",
+          "start": 75,
+          "end": 86,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 4,
+            "chapterId": "mosiah4",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "4:26",
+          "start": 88,
+          "end": 92,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 4,
+            "chapterId": "mosiah4",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-ask",
+      "slug": "ask",
+      "title": "Ask"
+    },
+    {
+      "entryId": "tg-beg",
+      "slug": "beg",
+      "title": "Beg"
+    },
+    {
+      "entryId": "tg-beseech",
+      "slug": "beseech",
+      "title": "Beseech"
+    },
+    {
+      "entryId": "tg-entreat",
+      "slug": "entreat",
+      "title": "Entreat"
+    },
+    {
+      "entryId": "tg-plead",
+      "slug": "plead",
+      "title": "Plead"
+    },
+    {
+      "entryId": "tg-prayer",
+      "slug": "prayer",
+      "title": "Prayer"
+    },
+    {
+      "entryId": "tg-request",
+      "slug": "request",
+      "title": "Request"
+    }
+  ],
+  "slug": "petition",
+  "title": "Petition",
+  "type": "tg"
+}

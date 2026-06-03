@@ -1,0 +1,56 @@
+{
+  "_id": "index-mill",
+  "content": [
+    {
+      "text": "two grinding at mill, one shall be taken, JS—M 1:45 (Matt. 24:41).",
+      "references": [
+        {
+          "text": "JS—M 1:45",
+          "start": 42,
+          "end": 51,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-m",
+            "book": "josephsmithmatthew",
+            "chapter": 1,
+            "chapterId": "josephsmithmatthew1",
+            "verses": [
+              {
+                "start": 45,
+                "end": 45
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 24:41",
+          "start": 53,
+          "end": 64,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 24,
+            "chapterId": "matthew24",
+            "verses": [
+              {
+                "start": 41,
+                "end": 41
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-millstone",
+      "slug": "millstone",
+      "title": "Millstone"
+    }
+  ],
+  "slug": "mill",
+  "title": "Mill",
+  "type": "index"
+}

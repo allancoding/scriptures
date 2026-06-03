@@ -1,0 +1,61 @@
+{
+  "_id": "tg-inner",
+  "content": [
+    {
+      "text": "with might by his Spirit in the inner man, Eph. 3:16.",
+      "references": [
+        {
+          "text": "Eph. 3:16",
+          "start": 43,
+          "end": 52,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "eph",
+            "book": "ephesians",
+            "chapter": 3,
+            "chapterId": "ephesians3",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "became quickened in the inner man, Moses 6:65.",
+      "references": [
+        {
+          "text": "Moses 6:65",
+          "start": 35,
+          "end": 45,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 6,
+            "chapterId": "moses6",
+            "verses": [
+              {
+                "start": 65,
+                "end": 65
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-inward",
+      "slug": "inward",
+      "title": "Inward"
+    }
+  ],
+  "slug": "inner",
+  "title": "Inner",
+  "type": "tg"
+}

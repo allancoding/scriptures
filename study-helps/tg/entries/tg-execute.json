@@ -1,0 +1,153 @@
+{
+  "_id": "tg-execute",
+  "content": [
+    {
+      "text": "gods of Egypt I will execute judgment, Ex. 12:12. he executed the justice of the Lord, Deut. 33:21.",
+      "references": [
+        {
+          "text": "Ex. 12:12",
+          "start": 39,
+          "end": 48,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 12,
+            "chapterId": "exodus12",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 33:21",
+          "start": 87,
+          "end": 98,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 33,
+            "chapterId": "deuteronomy33",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "while he executed the priest’s office before God, Luke 1:8. revenger to execute wrath upon him, Rom. 13:4. To execute judgment upon all, Jude 1:15.",
+      "references": [
+        {
+          "text": "Luke 1:8",
+          "start": 50,
+          "end": 58,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 1,
+            "chapterId": "luke1",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 13:4",
+          "start": 96,
+          "end": 105,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 13,
+            "chapterId": "romans13",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jude 1:15",
+          "start": 137,
+          "end": 146,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "jude",
+            "book": "jude",
+            "chapter": 1,
+            "chapterId": "jude1",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "executed according to the law, Alma 62:9.",
+      "references": [
+        {
+          "text": "Alma 62:9",
+          "start": 31,
+          "end": 40,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 62,
+            "chapterId": "alma62",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-accomplished",
+      "slug": "accomplished",
+      "title": "Accomplished"
+    },
+    {
+      "entryId": "tg-fulfill",
+      "slug": "fulfill",
+      "title": "Fulfill"
+    },
+    {
+      "entryId": "tg-perform",
+      "slug": "perform",
+      "title": "Perform"
+    },
+    {
+      "entryId": "tg-wrought",
+      "slug": "wrought",
+      "title": "Wrought"
+    }
+  ],
+  "slug": "execute",
+  "title": "Execute",
+  "type": "tg"
+}

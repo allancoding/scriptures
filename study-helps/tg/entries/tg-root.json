@@ -1,0 +1,929 @@
+{
+  "_id": "tg-root",
+  "content": [
+    {
+      "text": "root that beareth gall, Deut. 29:18. Lord rooted them out of their land, Deut. 29:28. Lord … shall root up Israel, 1 Kgs. 14:15. remnant … of the house of Judah shall yet again take root, 2 Kgs. 19:30 (Isa. 37:31). pluck them up by the roots out of my land, 2 Chr. 7:20. His roots shall be dried up beneath, Job 18:16. transgressors shall be rooted out, Prov. 2:22. root of the righteous shall not be moved, Prov. 12:3. their root shall be as rottenness, Isa. 5:24 (2 Ne. 15:24). Jesse, and a Branch shall grow out of his roots, Isa. 11:1 (11:10; Rom. 15:12; 2 Ne. 15:12; 21:1; 21:10; D&C 113:5). them that come of Jacob to take root, Isa. 27:6. grow up … as a root out of a dry ground, Isa. 53:2 (Mosiah 14:2). this day set thee … to root out, and to pull down, Jer. 1:10.",
+      "references": [
+        {
+          "text": "Deut. 29:18",
+          "start": 24,
+          "end": 35,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 29,
+            "chapterId": "deuteronomy29",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 29:28",
+          "start": 73,
+          "end": 84,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 29,
+            "chapterId": "deuteronomy29",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Kgs. 14:15",
+          "start": 115,
+          "end": 127,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 14,
+            "chapterId": "1kings14",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Kgs. 19:30",
+          "start": 188,
+          "end": 200,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 19,
+            "chapterId": "2kings19",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 37:31",
+          "start": 202,
+          "end": 212,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 37,
+            "chapterId": "isaiah37",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Chr. 7:20",
+          "start": 258,
+          "end": 269,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-chr",
+            "book": "2chronicles",
+            "chapter": 7,
+            "chapterId": "2chronicles7",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Job 18:16",
+          "start": 308,
+          "end": 317,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "job",
+            "book": "job",
+            "chapter": 18,
+            "chapterId": "job18",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 2:22",
+          "start": 354,
+          "end": 364,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 2,
+            "chapterId": "proverbs2",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 12:3",
+          "start": 408,
+          "end": 418,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 12,
+            "chapterId": "proverbs12",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 5:24",
+          "start": 455,
+          "end": 464,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 5,
+            "chapterId": "isaiah5",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 15:24",
+          "start": 466,
+          "end": 477,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 15,
+            "chapterId": "2nephi15",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 11:1",
+          "start": 529,
+          "end": 538,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 11,
+            "chapterId": "isaiah11",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "11:10",
+          "start": 540,
+          "end": 545,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 11,
+            "chapterId": "isaiah11",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 15:12",
+          "start": 547,
+          "end": 557,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 15,
+            "chapterId": "romans15",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 15:12",
+          "start": 559,
+          "end": 570,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 15,
+            "chapterId": "2nephi15",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "21:1",
+          "start": 572,
+          "end": 576,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 21,
+            "chapterId": "2nephi21",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "21:10",
+          "start": 578,
+          "end": 583,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 21,
+            "chapterId": "2nephi21",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 113:5",
+          "start": 585,
+          "end": 594,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 113,
+            "chapterId": "doctrineandcovenants113",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 27:6",
+          "start": 635,
+          "end": 644,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 27,
+            "chapterId": "isaiah27",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 53:2",
+          "start": 687,
+          "end": 696,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 53,
+            "chapterId": "isaiah53",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 14:2",
+          "start": 698,
+          "end": 709,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 14,
+            "chapterId": "mosiah14",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 1:10",
+          "start": 763,
+          "end": 772,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 1,
+            "chapterId": "jeremiah1",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "axe is laid unto the root of the trees, Matt. 3:10 (Luke 3:9; Alma 5:52; D&C 97:7). because they had no root, they withered, Matt. 13:6 (Mark 4:6; Luke 8:13). tares, ye root up also the wheat with them, Matt. 13:29. plant, which my heavenly Father hath not planted, shall be rooted up, Matt. 15:13. if the root be holy, so are the branches, Rom. 11:16. being rooted and grounded in love, Eph. 3:17. Rooted and built up in him, Col. 2:7. love of money is the root of all evil, 1 Tim. 6:10. trees … plucked up by the roots, Jude 1:12. Lion of the tribe of Juda, the Root of David, Rev. 5:5. I am the root and the offspring of David, Rev. 22:16.",
+      "references": [
+        {
+          "text": "Matt. 3:10",
+          "start": 40,
+          "end": 50,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 3,
+            "chapterId": "matthew3",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 3:9",
+          "start": 52,
+          "end": 60,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 3,
+            "chapterId": "luke3",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 5:52",
+          "start": 62,
+          "end": 71,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 5,
+            "chapterId": "alma5",
+            "verses": [
+              {
+                "start": 52,
+                "end": 52
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 97:7",
+          "start": 73,
+          "end": 81,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 97,
+            "chapterId": "doctrineandcovenants97",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 13:6",
+          "start": 125,
+          "end": 135,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 13,
+            "chapterId": "matthew13",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 4:6",
+          "start": 137,
+          "end": 145,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 4,
+            "chapterId": "mark4",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 8:13",
+          "start": 147,
+          "end": 156,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 8,
+            "chapterId": "luke8",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 13:29",
+          "start": 203,
+          "end": 214,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 13,
+            "chapterId": "matthew13",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 15:13",
+          "start": 286,
+          "end": 297,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 15,
+            "chapterId": "matthew15",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 11:16",
+          "start": 341,
+          "end": 351,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 11,
+            "chapterId": "romans11",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eph. 3:17",
+          "start": 388,
+          "end": 397,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "eph",
+            "book": "ephesians",
+            "chapter": 3,
+            "chapterId": "ephesians3",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Col. 2:7",
+          "start": 427,
+          "end": 435,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "col",
+            "book": "colossians",
+            "chapter": 2,
+            "chapterId": "colossians2",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Tim. 6:10",
+          "start": 476,
+          "end": 487,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 6,
+            "chapterId": "1timothy6",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jude 1:12",
+          "start": 522,
+          "end": 531,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "jude",
+            "book": "jude",
+            "chapter": 1,
+            "chapterId": "jude1",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 5:5",
+          "start": 579,
+          "end": 587,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 5,
+            "chapterId": "revelation5",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 22:16",
+          "start": 631,
+          "end": 641,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 22,
+            "chapterId": "revelation22",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "mattereth not … that the root of this tree will perish, Jacob 5:8. root thereof hath brought forth much strength, Jacob 5:18. root and the top may be equal in strength, Jacob 5:66 (5:73). he shall grow up … as a root out of dry ground, Mosiah 14:2. born of God, having this wicked spirit rooted out of my breast, Alma 22:15. nourish it … that it may get root, Alma 32:37. excellent qualities of the many plants and roots, Alma 46:40. shall leave them neither root nor branch, 3 Ne. 25:1 (D&C 133:64; JS—H 1:37).",
+      "references": [
+        {
+          "text": "Jacob 5:8",
+          "start": 56,
+          "end": 65,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 5,
+            "chapterId": "jacob5",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jacob 5:18",
+          "start": 114,
+          "end": 124,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 5,
+            "chapterId": "jacob5",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jacob 5:66",
+          "start": 169,
+          "end": 179,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 5,
+            "chapterId": "jacob5",
+            "verses": [
+              {
+                "start": 66,
+                "end": 66
+              }
+            ]
+          }
+        },
+        {
+          "text": "5:73",
+          "start": 181,
+          "end": 185,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 5,
+            "chapterId": "jacob5",
+            "verses": [
+              {
+                "start": 73,
+                "end": 73
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 14:2",
+          "start": 236,
+          "end": 247,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 14,
+            "chapterId": "mosiah14",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 22:15",
+          "start": 313,
+          "end": 323,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 22,
+            "chapterId": "alma22",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 32:37",
+          "start": 360,
+          "end": 370,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 32,
+            "chapterId": "alma32",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 46:40",
+          "start": 422,
+          "end": 432,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 46,
+            "chapterId": "alma46",
+            "verses": [
+              {
+                "start": 40,
+                "end": 40
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 25:1",
+          "start": 476,
+          "end": 486,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 25,
+            "chapterId": "3nephi25",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 133:64",
+          "start": 488,
+          "end": 498,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 133,
+            "chapterId": "doctrineandcovenants133",
+            "verses": [
+              {
+                "start": 64,
+                "end": 64
+              }
+            ]
+          }
+        },
+        {
+          "text": "JS—H 1:37",
+          "start": 500,
+          "end": 509,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "wasted away, both root and branch, D&C 109:52.",
+      "references": [
+        {
+          "text": "D&C 109:52",
+          "start": 35,
+          "end": 45,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 109,
+            "chapterId": "doctrineandcovenants109",
+            "verses": [
+              {
+                "start": 52,
+                "end": 52
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "root",
+  "title": "Root",
+  "type": "tg"
+}

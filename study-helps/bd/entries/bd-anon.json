@@ -1,0 +1,50 @@
+{
+  "_id": "bd-anon",
+  "content": [
+    {
+      "text": "Immediately (Matt. 13:20; Mark 1:30).",
+      "references": [
+        {
+          "text": "Matt. 13:20",
+          "start": 13,
+          "end": 24,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 13,
+            "chapterId": "matthew13",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 1:30",
+          "start": 26,
+          "end": 35,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 1,
+            "chapterId": "mark1",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "anon",
+  "title": "Anon",
+  "type": "bd"
+}

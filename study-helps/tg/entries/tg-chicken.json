@@ -1,0 +1,104 @@
+{
+  "_id": "tg-chicken",
+  "content": [
+    {
+      "text": "even as a hen gathereth her chickens, Matt. 23:37 (3 Ne. 10:4–6; D&C 10:65; 29:2; 43:24).",
+      "references": [
+        {
+          "text": "Matt. 23:37",
+          "start": 38,
+          "end": 49,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 23,
+            "chapterId": "matthew23",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 10:4–6",
+          "start": 51,
+          "end": 63,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 10,
+            "chapterId": "3nephi10",
+            "verses": [
+              {
+                "start": 4,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 10:65",
+          "start": 65,
+          "end": 74,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 10,
+            "chapterId": "doctrineandcovenants10",
+            "verses": [
+              {
+                "start": 65,
+                "end": 65
+              }
+            ]
+          }
+        },
+        {
+          "text": "29:2",
+          "start": 76,
+          "end": 80,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 29,
+            "chapterId": "doctrineandcovenants29",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "43:24",
+          "start": 82,
+          "end": 87,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 43,
+            "chapterId": "doctrineandcovenants43",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "chicken",
+  "title": "Chicken",
+  "type": "tg"
+}

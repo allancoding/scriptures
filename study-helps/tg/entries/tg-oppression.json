@@ -1,0 +1,834 @@
+{
+  "_id": "tg-oppression",
+  "content": [
+    {
+      "text": "I have also seen the oppression wherewith the Egyptians, Ex. 3:9. neither vex a stranger, nor oppress him, Ex. 22:21. not therefore oppress one another, Lev. 25:17. the heritage of oppressors, which they shall receive of the Almighty, Job 27:13. Lord also will be a refuge for the oppressed, Ps. 9:9. shall break in pieces the oppressor, Ps. 72:4. executeth judgment for the oppressed, Ps. 146:7. Envy thou not the oppressor, Prov. 3:31. He that oppresseth the poor reproacheth his Maker, Prov. 14:31. He that oppresseth the poor to increase his riches, Prov. 22:16. A poor man that oppresseth the poor, Prov. 28:3. If thou seest the oppression of the poor, Eccl. 5:8. the people shall be oppressed, Isa. 3:5 (2 Ne. 13:5). Because ye despise this word, and trust in oppression, Isa. 30:12. I will feed them that oppress thee, Isa. 49:26 (1 Ne. 21:26; 2 Ne. 6:18). He was oppressed … afflicted, Isa. 53:7 (Mosiah 14:7). ye … which oppress the poor, Amos 4:1. oppress not the widow, nor the fatherless, Zech. 7:10. I will … witness … against those that oppress the hireling, Mal. 3:5 (3 Ne. 24:5).",
+      "references": [
+        {
+          "text": "Ex. 3:9",
+          "start": 57,
+          "end": 64,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 3,
+            "chapterId": "exodus3",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 22:21",
+          "start": 107,
+          "end": 116,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 22,
+            "chapterId": "exodus22",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Lev. 25:17",
+          "start": 153,
+          "end": 163,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 25,
+            "chapterId": "leviticus25",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Job 27:13",
+          "start": 235,
+          "end": 244,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "job",
+            "book": "job",
+            "chapter": 27,
+            "chapterId": "job27",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 9:9",
+          "start": 292,
+          "end": 299,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 9,
+            "chapterId": "psalms9",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 72:4",
+          "start": 338,
+          "end": 346,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 72,
+            "chapterId": "psalms72",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 146:7",
+          "start": 386,
+          "end": 395,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 146,
+            "chapterId": "psalms146",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 3:31",
+          "start": 426,
+          "end": 436,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 3,
+            "chapterId": "proverbs3",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 14:31",
+          "start": 489,
+          "end": 500,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 14,
+            "chapterId": "proverbs14",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 22:16",
+          "start": 554,
+          "end": 565,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 22,
+            "chapterId": "proverbs22",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 28:3",
+          "start": 604,
+          "end": 614,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 28,
+            "chapterId": "proverbs28",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eccl. 5:8",
+          "start": 658,
+          "end": 667,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "eccl",
+            "book": "ecclesiastes",
+            "chapter": 5,
+            "chapterId": "ecclesiastes5",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 3:5",
+          "start": 700,
+          "end": 708,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 3,
+            "chapterId": "isaiah3",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 13:5",
+          "start": 710,
+          "end": 720,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 13,
+            "chapterId": "2nephi13",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 30:12",
+          "start": 778,
+          "end": 788,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 30,
+            "chapterId": "isaiah30",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 49:26",
+          "start": 826,
+          "end": 836,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 49,
+            "chapterId": "isaiah49",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Ne. 21:26",
+          "start": 838,
+          "end": 849,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 21,
+            "chapterId": "1nephi21",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 6:18",
+          "start": 851,
+          "end": 861,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 6,
+            "chapterId": "2nephi6",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 53:7",
+          "start": 894,
+          "end": 903,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 53,
+            "chapterId": "isaiah53",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 14:7",
+          "start": 905,
+          "end": 916,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 14,
+            "chapterId": "mosiah14",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Amos 4:1",
+          "start": 948,
+          "end": 956,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "amos",
+            "book": "amos",
+            "chapter": 4,
+            "chapterId": "amos4",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Zech. 7:10",
+          "start": 1001,
+          "end": 1011,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "zech",
+            "book": "zechariah",
+            "chapter": 7,
+            "chapterId": "zechariah7",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mal. 3:5",
+          "start": 1073,
+          "end": 1081,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "mal",
+            "book": "malachi",
+            "chapter": 3,
+            "chapterId": "malachi3",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 24:5",
+          "start": 1083,
+          "end": 1093,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 24,
+            "chapterId": "3nephi24",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "avenged him that was oppressed, Acts 7:24. Jesus … healing all that were oppressed of the devil, Acts 10:38. Do not rich men oppress you, James 2:6.",
+      "references": [
+        {
+          "text": "Acts 7:24",
+          "start": 32,
+          "end": 41,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 7,
+            "chapterId": "acts7",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 10:38",
+          "start": 97,
+          "end": 107,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 10,
+            "chapterId": "acts10",
+            "verses": [
+              {
+                "start": 38,
+                "end": 38
+              }
+            ]
+          }
+        },
+        {
+          "text": "James 2:6",
+          "start": 138,
+          "end": 147,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "james",
+            "book": "james",
+            "chapter": 2,
+            "chapterId": "james2",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "feared continually … because of the fury of the oppressor, 2 Ne. 8:13. people shall be oppressed, 2 Ne. 13:5. looked for judgment, and behold, oppression, 2 Ne. 15:7. thou hast broken … the rod of his oppressor, 2 Ne. 19:4. they shall rule over their oppressors, 2 Ne. 24:2. he … should be oppressed, Mosiah 13:35. have been oppressed by king Noah, Mosiah 23:12. because of their oppression to the poor, Hel. 4:12. witness against … those that oppress the hireling, 3 Ne. 24:5.",
+      "references": [
+        {
+          "text": "2 Ne. 8:13",
+          "start": 59,
+          "end": 69,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 8,
+            "chapterId": "2nephi8",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 13:5",
+          "start": 98,
+          "end": 108,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 13,
+            "chapterId": "2nephi13",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 15:7",
+          "start": 155,
+          "end": 165,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 15,
+            "chapterId": "2nephi15",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 19:4",
+          "start": 212,
+          "end": 222,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 19,
+            "chapterId": "2nephi19",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 24:2",
+          "start": 263,
+          "end": 273,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 24,
+            "chapterId": "2nephi24",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 13:35",
+          "start": 301,
+          "end": 313,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 13,
+            "chapterId": "mosiah13",
+            "verses": [
+              {
+                "start": 35,
+                "end": 35
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 23:12",
+          "start": 349,
+          "end": 361,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 23,
+            "chapterId": "mosiah23",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 4:12",
+          "start": 404,
+          "end": 413,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 4,
+            "chapterId": "helaman4",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 24:5",
+          "start": 466,
+          "end": 476,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 24,
+            "chapterId": "3nephi24",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "they have been greatly oppressed, D&C 109:48. be redeemed from oppression, D&C 109:67. how long shall they suffer … unlawful oppressions, D&C 121:3. all persons that have had a hand in their oppressions, D&C 123:3. portion of the oppressor among hypocrites, D&C 124:8. hindered by the hands of their enemies, and by oppression, D&C 124:53. recompense … upon … their oppressors, D&C 127:3.",
+      "references": [
+        {
+          "text": "D&C 109:48",
+          "start": 34,
+          "end": 44,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 109,
+            "chapterId": "doctrineandcovenants109",
+            "verses": [
+              {
+                "start": 48,
+                "end": 48
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 109:67",
+          "start": 75,
+          "end": 85,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 109,
+            "chapterId": "doctrineandcovenants109",
+            "verses": [
+              {
+                "start": 67,
+                "end": 67
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 121:3",
+          "start": 138,
+          "end": 147,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 123:3",
+          "start": 204,
+          "end": 213,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 123,
+            "chapterId": "doctrineandcovenants123",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 124:8",
+          "start": 258,
+          "end": 267,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 124,
+            "chapterId": "doctrineandcovenants124",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 124:53",
+          "start": 328,
+          "end": 338,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 124,
+            "chapterId": "doctrineandcovenants124",
+            "verses": [
+              {
+                "start": 53,
+                "end": 53
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 127:3",
+          "start": 378,
+          "end": 387,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 127,
+            "chapterId": "doctrineandcovenants127",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-affliction",
+      "slug": "affliction",
+      "title": "Affliction"
+    },
+    {
+      "entryId": "tg-cruelty",
+      "slug": "cruelty",
+      "title": "Cruelty"
+    },
+    {
+      "entryId": "tg-despise",
+      "slug": "despise",
+      "title": "Despise"
+    },
+    {
+      "entryId": "tg-injustice",
+      "slug": "injustice",
+      "title": "Injustice"
+    },
+    {
+      "entryId": "tg-persecution",
+      "slug": "persecution",
+      "title": "Persecution"
+    },
+    {
+      "entryId": "tg-tribulation",
+      "slug": "tribulation",
+      "title": "Tribulation"
+    }
+  ],
+  "slug": "oppression",
+  "title": "Oppression, Oppress",
+  "type": "tg"
+}

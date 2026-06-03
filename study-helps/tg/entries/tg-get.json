@@ -1,0 +1,358 @@
+{
+  "_id": "tg-get",
+  "content": [
+    {
+      "text": "I have gotten a man from the Lord, Gen. 4:1. Get thee out of thy country, Gen. 12:1 (Acts 7:3; Abr. 2:3). Get wisdom, get understanding, Prov. 4:5. time to get, and a time to lose, Eccl. 3:6.",
+      "references": [
+        {
+          "text": "Gen. 4:1",
+          "start": 35,
+          "end": 43,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 4,
+            "chapterId": "genesis4",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 12:1",
+          "start": 74,
+          "end": 83,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 12,
+            "chapterId": "genesis12",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 7:3",
+          "start": 85,
+          "end": 93,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 7,
+            "chapterId": "acts7",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Abr. 2:3",
+          "start": 95,
+          "end": 103,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 2,
+            "chapterId": "abraham2",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 4:5",
+          "start": 137,
+          "end": 146,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 4,
+            "chapterId": "proverbs4",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eccl. 3:6",
+          "start": 181,
+          "end": 190,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "eccl",
+            "book": "ecclesiastes",
+            "chapter": 3,
+            "chapterId": "ecclesiastes3",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Get thee behind me, Satan, Matt. 16:23 (Mark 8:33).",
+      "references": [
+        {
+          "text": "Matt. 16:23",
+          "start": 27,
+          "end": 38,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 16,
+            "chapterId": "matthew16",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 8:33",
+          "start": 40,
+          "end": 49,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 8,
+            "chapterId": "mark8",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "churches … built up to get gain, 1 Ne. 22:23 (2 Ne. 26:20; Alma 10:32; 11:20; Hel. 6:8; Moses 5:31).",
+      "references": [
+        {
+          "text": "1 Ne. 22:23",
+          "start": 33,
+          "end": 44,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 22,
+            "chapterId": "1nephi22",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 26:20",
+          "start": 46,
+          "end": 57,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 26,
+            "chapterId": "2nephi26",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 10:32",
+          "start": 59,
+          "end": 69,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 10,
+            "chapterId": "alma10",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "11:20",
+          "start": 71,
+          "end": 76,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 11,
+            "chapterId": "alma11",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 6:8",
+          "start": 78,
+          "end": 86,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 6,
+            "chapterId": "helaman6",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 5:31",
+          "start": 88,
+          "end": 98,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 5,
+            "chapterId": "moses5",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "forbidden, to get in debt to thine enemies, D&C 64:27. as soon as they get a little authority … exercise unrighteous dominion, D&C 121:39.",
+      "references": [
+        {
+          "text": "D&C 64:27",
+          "start": 44,
+          "end": 53,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 64,
+            "chapterId": "doctrineandcovenants64",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 121:39",
+          "start": 127,
+          "end": 137,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 39,
+                "end": 39
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Get thee hence, Satan, Moses 1:16. exertions were used to get them from me, JS—H 1:60.",
+      "references": [
+        {
+          "text": "Moses 1:16",
+          "start": 23,
+          "end": 33,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 1,
+            "chapterId": "moses1",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "JS—H 1:60",
+          "start": 76,
+          "end": 85,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 60,
+                "end": 60
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "get",
+  "title": "Get, Gotten",
+  "type": "tg"
+}

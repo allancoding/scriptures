@@ -1,0 +1,73 @@
+{
+  "_id": "tg-bill",
+  "content": [
+    {
+      "text": "write her a bill of divorcement, Deut. 24:1 (Mark 10:4).",
+      "references": [
+        {
+          "text": "Deut. 24:1",
+          "start": 33,
+          "end": 43,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 24,
+            "chapterId": "deuteronomy24",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 10:4",
+          "start": 45,
+          "end": 54,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 10,
+            "chapterId": "mark10",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Take thy bill, and sit down quickly, Luke 16:6.",
+      "references": [
+        {
+          "text": "Luke 16:6",
+          "start": 37,
+          "end": 46,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 16,
+            "chapterId": "luke16",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "bill",
+  "title": "Bill",
+  "type": "tg"
+}

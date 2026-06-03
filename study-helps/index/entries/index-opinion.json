@@ -1,0 +1,61 @@
+{
+  "_id": "index-opinion",
+  "content": [
+    {
+      "text": "Alma2 gives opinion that souls and bodies are reunited at Resurrection of Christ, Alma 40:20.",
+      "references": [
+        {
+          "text": "Alma 40:20",
+          "start": 82,
+          "end": 92,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 40,
+            "chapterId": "alma40",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "governments do not have right to proscribe their citizens in their opinions, D&C 134:7.",
+      "references": [
+        {
+          "text": "D&C 134:7",
+          "start": 77,
+          "end": 86,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 134,
+            "chapterId": "doctrineandcovenants134",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-belief",
+      "slug": "belief",
+      "title": "Belief"
+    }
+  ],
+  "slug": "opinion",
+  "title": "Opinion",
+  "type": "index"
+}

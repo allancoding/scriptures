@@ -1,0 +1,32 @@
+{
+  "_id": "tg-inscription",
+  "content": [
+    {
+      "text": "altar with this inscription, To the Unknown God, Acts 17:23.",
+      "references": [
+        {
+          "text": "Acts 17:23",
+          "start": 49,
+          "end": 59,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 17,
+            "chapterId": "acts17",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "inscription",
+  "title": "Inscription",
+  "type": "tg"
+}

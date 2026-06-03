@@ -1,0 +1,115 @@
+{
+  "_id": "index-forefathers",
+  "content": [
+    {
+      "text": "brass plates contain genealogy of forefathers, 1 Ne. 3:3 (5:14; Alma 37:3). Lamanites to come to knowledge of forefathers, 1 Ne. 15:14. Jerusalem, land of our forefathers, Alma 7:10.",
+      "references": [
+        {
+          "text": "1 Ne. 3:3",
+          "start": 47,
+          "end": 56,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 3,
+            "chapterId": "1nephi3",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "5:14",
+          "start": 58,
+          "end": 62,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 5,
+            "chapterId": "1nephi5",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 37:3",
+          "start": 64,
+          "end": 73,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 37,
+            "chapterId": "alma37",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Ne. 15:14",
+          "start": 123,
+          "end": 134,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 15,
+            "chapterId": "1nephi15",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 7:10",
+          "start": 172,
+          "end": 181,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 7,
+            "chapterId": "alma7",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-father",
+      "slug": "father",
+      "title": "Father"
+    },
+    {
+      "entryId": "index-lineage",
+      "slug": "lineage",
+      "title": "Lineage"
+    }
+  ],
+  "slug": "forefathers",
+  "title": "Forefathers",
+  "type": "index"
+}

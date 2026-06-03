@@ -1,0 +1,55 @@
+{
+  "_id": "index-smith-william",
+  "content": [
+    {
+      "text": "member of Twelve, D&C 124:129.",
+      "references": [
+        {
+          "text": "D&C 124:129",
+          "start": 18,
+          "end": 29,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 124,
+            "chapterId": "doctrineandcovenants124",
+            "verses": [
+              {
+                "start": 129,
+                "end": 129
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "brother of Joseph Smith, JS—H 1:4.",
+      "references": [
+        {
+          "text": "JS—H 1:4",
+          "start": 25,
+          "end": 33,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "smith-william",
+  "title": "Smith, William",
+  "type": "index"
+}

@@ -1,0 +1,192 @@
+{
+  "_id": "tg-dance",
+  "content": [
+    {
+      "text": "meet him with timbrels and with dances, Judg. 11:34. David danced before the Lord, 2 Sam. 6:14. Let them praise his name in the dance, Ps. 149:3. a time to mourn, and a time to dance, Eccl. 3:4.",
+      "references": [
+        {
+          "text": "Judg. 11:34",
+          "start": 40,
+          "end": 51,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "judg",
+            "book": "judges",
+            "chapter": 11,
+            "chapterId": "judges11",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Sam. 6:14",
+          "start": 83,
+          "end": 94,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-sam",
+            "book": "2samuel",
+            "chapter": 6,
+            "chapterId": "2samuel6",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 149:3",
+          "start": 135,
+          "end": 144,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 149,
+            "chapterId": "psalms149",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eccl. 3:4",
+          "start": 184,
+          "end": 193,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "eccl",
+            "book": "ecclesiastes",
+            "chapter": 3,
+            "chapterId": "ecclesiastes3",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "piped unto you, and ye have not danced, Matt. 11:17 (Luke 7:32). daughter of Herodias danced, Matt. 14:6 (Mark 6:22).",
+      "references": [
+        {
+          "text": "Matt. 11:17",
+          "start": 40,
+          "end": 51,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 11,
+            "chapterId": "matthew11",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 7:32",
+          "start": 53,
+          "end": 62,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 7,
+            "chapterId": "luke7",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 14:6",
+          "start": 94,
+          "end": 104,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 14,
+            "chapterId": "matthew14",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 6:22",
+          "start": 106,
+          "end": 115,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 6,
+            "chapterId": "mark6",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "gather themselves together … to dance, Mosiah 20:1.",
+      "references": [
+        {
+          "text": "Mosiah 20:1",
+          "start": 39,
+          "end": 50,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 20,
+            "chapterId": "mosiah20",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-dancing",
+      "slug": "dancing",
+      "title": "Dancing"
+    }
+  ],
+  "slug": "dance",
+  "title": "Dance",
+  "type": "tg"
+}

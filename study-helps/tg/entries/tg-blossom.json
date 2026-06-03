@@ -1,0 +1,91 @@
+{
+  "_id": "tg-blossom",
+  "content": [
+    {
+      "text": "Israel shall blossom and bud, Isa. 27:6. desert shall … blossom as the rose, Isa. 35:1.",
+      "references": [
+        {
+          "text": "Isa. 27:6",
+          "start": 30,
+          "end": 39,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 27,
+            "chapterId": "isaiah27",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 35:1",
+          "start": 77,
+          "end": 86,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 35,
+            "chapterId": "isaiah35",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Lamanites shall blossom as the rose, D&C 49:24. solitary places to bud and to blossom, D&C 117:7.",
+      "references": [
+        {
+          "text": "D&C 49:24",
+          "start": 37,
+          "end": 46,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 49,
+            "chapterId": "doctrineandcovenants49",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 117:7",
+          "start": 87,
+          "end": 96,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 117,
+            "chapterId": "doctrineandcovenants117",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "blossom",
+  "title": "Blossom",
+  "type": "tg"
+}

@@ -1,0 +1,36 @@
+{
+  "_id": "index-japheth",
+  "content": [
+    {
+      "text": "son of Noah1, Moses 8:12, 27.",
+      "references": [
+        {
+          "text": "Moses 8:12, 27",
+          "start": 14,
+          "end": 28,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 8,
+            "chapterId": "moses8",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              },
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "japheth",
+  "title": "Japheth",
+  "type": "index"
+}

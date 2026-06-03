@@ -1,0 +1,50 @@
+{
+  "_id": "tg-riddle",
+  "content": [
+    {
+      "text": "I will now put forth a riddle, Judg. 14:12. Son of man, put forth a riddle, Ezek. 17:2.",
+      "references": [
+        {
+          "text": "Judg. 14:12",
+          "start": 31,
+          "end": 42,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "judg",
+            "book": "judges",
+            "chapter": 14,
+            "chapterId": "judges14",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 17:2",
+          "start": 76,
+          "end": 86,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 17,
+            "chapterId": "ezekiel17",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "riddle",
+  "title": "Riddle",
+  "type": "tg"
+}

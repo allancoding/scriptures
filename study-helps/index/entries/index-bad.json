@@ -1,0 +1,79 @@
+{
+  "_id": "index-bad",
+  "content": [
+    {
+      "text": "opposition necessary that good and bad may be brought to pass, 2 Ne. 2:11. good and bad branches in vineyard, Jacob 5:65–77. dead reap rewards according to works, whether good or bad, Alma 3:26.",
+      "references": [
+        {
+          "text": "2 Ne. 2:11",
+          "start": 63,
+          "end": 73,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 2,
+            "chapterId": "2nephi2",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jacob 5:65–77",
+          "start": 110,
+          "end": 123,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 5,
+            "chapterId": "jacob5",
+            "verses": [
+              {
+                "start": 65,
+                "end": 77
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 3:26",
+          "start": 184,
+          "end": 193,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 3,
+            "chapterId": "alma3",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-evil",
+      "slug": "evil",
+      "title": "Evil"
+    },
+    {
+      "entryId": "index-worse",
+      "slug": "worse",
+      "title": "Worse"
+    }
+  ],
+  "slug": "bad",
+  "title": "Bad",
+  "type": "index"
+}

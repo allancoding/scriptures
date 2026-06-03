@@ -1,0 +1,74 @@
+{
+  "_id": "index-goods",
+  "content": [
+    {
+      "text": "wo unto poor who lay hands on other men’s goods, D&C 56:17. sell goods without fraud, D&C 57:8–9. religious societies have no right to take world’s goods from members, D&C 134:10.",
+      "references": [
+        {
+          "text": "D&C 56:17",
+          "start": 49,
+          "end": 58,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 56,
+            "chapterId": "doctrineandcovenants56",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 57:8–9",
+          "start": 86,
+          "end": 96,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 57,
+            "chapterId": "doctrineandcovenants57",
+            "verses": [
+              {
+                "start": 8,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 134:10",
+          "start": 168,
+          "end": 178,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 134,
+            "chapterId": "doctrineandcovenants134",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-possess",
+      "slug": "possess",
+      "title": "Possess"
+    }
+  ],
+  "slug": "goods",
+  "title": "Goods",
+  "type": "index"
+}

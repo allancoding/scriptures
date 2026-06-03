@@ -1,0 +1,569 @@
+{
+  "_id": "tg-lion",
+  "content": [
+    {
+      "text": "Judah is a lion’s whelp … he couched as a lion, Gen. 49:9. he lay down as a lion, Num. 24:9. Dan is a lion’s whelp, Deut. 33:22. what is stronger than a lion, Judg. 14:18. there came a lion, and a bear, 1 Sam. 17:34. lion met him by the way, and slew him, 1 Kgs. 13:24. Lord sent lions among them, 2 Kgs. 17:25. He lieth in wait secretly as a lion in his den, Ps. 10:9. righteous are bold as a lion, Prov. 28:1. living dog is better than a dead lion, Eccl. 9:4. lion shall eat straw like the ox, Isa. 11:7 (2 Ne. 21:7; 30:13). he shall come up like a lion, Jer. 49:19. God … able to deliver thee from the lions, Dan. 6:20. My God … hath shut the lions’ mouths, Dan. 6:22. first was like a lion, and had eagle’s wings, Dan. 7:4. as a young lion to the house of Judah, Hosea 5:14. he shall roar like a lion, Hosea 11:10. as a lion among the beasts of the forest, Micah 5:8 (3 Ne. 20:16; 21:12).",
+      "references": [
+        {
+          "text": "Gen. 49:9",
+          "start": 48,
+          "end": 57,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 49,
+            "chapterId": "genesis49",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 24:9",
+          "start": 82,
+          "end": 91,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 24,
+            "chapterId": "numbers24",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 33:22",
+          "start": 116,
+          "end": 127,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 33,
+            "chapterId": "deuteronomy33",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Judg. 14:18",
+          "start": 159,
+          "end": 170,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "judg",
+            "book": "judges",
+            "chapter": 14,
+            "chapterId": "judges14",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Sam. 17:34",
+          "start": 203,
+          "end": 215,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 17,
+            "chapterId": "1samuel17",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Kgs. 13:24",
+          "start": 256,
+          "end": 268,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 13,
+            "chapterId": "1kings13",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Kgs. 17:25",
+          "start": 298,
+          "end": 310,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 17,
+            "chapterId": "2kings17",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 10:9",
+          "start": 360,
+          "end": 368,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 10,
+            "chapterId": "psalms10",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 28:1",
+          "start": 400,
+          "end": 410,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 28,
+            "chapterId": "proverbs28",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eccl. 9:4",
+          "start": 451,
+          "end": 460,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "eccl",
+            "book": "ecclesiastes",
+            "chapter": 9,
+            "chapterId": "ecclesiastes9",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 11:7",
+          "start": 496,
+          "end": 505,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 11,
+            "chapterId": "isaiah11",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 21:7",
+          "start": 507,
+          "end": 517,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 21,
+            "chapterId": "2nephi21",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "30:13",
+          "start": 519,
+          "end": 524,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 30,
+            "chapterId": "2nephi30",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 49:19",
+          "start": 557,
+          "end": 567,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 49,
+            "chapterId": "jeremiah49",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 6:20",
+          "start": 612,
+          "end": 621,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 6,
+            "chapterId": "daniel6",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 6:22",
+          "start": 661,
+          "end": 670,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 6,
+            "chapterId": "daniel6",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 7:4",
+          "start": 718,
+          "end": 726,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 7,
+            "chapterId": "daniel7",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hosea 5:14",
+          "start": 767,
+          "end": 777,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "hosea",
+            "book": "hosea",
+            "chapter": 5,
+            "chapterId": "hosea5",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hosea 11:10",
+          "start": 806,
+          "end": 817,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "hosea",
+            "book": "hosea",
+            "chapter": 11,
+            "chapterId": "hosea11",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Micah 5:8",
+          "start": 861,
+          "end": 870,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "micah",
+            "book": "micah",
+            "chapter": 5,
+            "chapterId": "micah5",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 20:16",
+          "start": 872,
+          "end": 883,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 20,
+            "chapterId": "3nephi20",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "21:12",
+          "start": 885,
+          "end": 890,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 21,
+            "chapterId": "3nephi21",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "delivered out of the mouth of the lion, 2 Tim. 4:17. stopped the mouths of lions, Heb. 11:33. your adversary the devil, as a roaring lion, 1 Pet. 5:8. first beast was like a lion, Rev. 4:7. Lion of the tribe of Juda, Rev. 5:5.",
+      "references": [
+        {
+          "text": "2 Tim. 4:17",
+          "start": 40,
+          "end": 51,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-tim",
+            "book": "2timothy",
+            "chapter": 4,
+            "chapterId": "2timothy4",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 11:33",
+          "start": 82,
+          "end": 92,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 11,
+            "chapterId": "hebrews11",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Pet. 5:8",
+          "start": 139,
+          "end": 149,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-pet",
+            "book": "1peter",
+            "chapter": 5,
+            "chapterId": "1peter5",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 4:7",
+          "start": 180,
+          "end": 188,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 4,
+            "chapterId": "revelation4",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 5:5",
+          "start": 217,
+          "end": 225,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 5,
+            "chapterId": "revelation5",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "they fought like lions, Mosiah 20:10. seed of Jacob shall go forth among you as a lion, Morm. 5:24.",
+      "references": [
+        {
+          "text": "Mosiah 20:10",
+          "start": 24,
+          "end": 36,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 20,
+            "chapterId": "mosiah20",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 5:24",
+          "start": 88,
+          "end": 98,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 5,
+            "chapterId": "mormon5",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "roar of the lions was heard out of the wilderness, Moses 7:13.",
+      "references": [
+        {
+          "text": "Moses 7:13",
+          "start": 51,
+          "end": 61,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 7,
+            "chapterId": "moses7",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "lion",
+  "title": "Lion",
+  "type": "tg"
+}

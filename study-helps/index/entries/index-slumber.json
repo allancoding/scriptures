@@ -1,0 +1,83 @@
+{
+  "_id": "index-slumber",
+  "content": [
+    {
+      "text": "the Lord shall bring forth words of them which have slumbered, 2 Ne. 27:6, 9. awake from slumber of death, Jacob 3:11.",
+      "references": [
+        {
+          "text": "2 Ne. 27:6, 9",
+          "start": 63,
+          "end": 76,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 27,
+            "chapterId": "2nephi27",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              },
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jacob 3:11",
+          "start": 107,
+          "end": 117,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 3,
+            "chapterId": "jacob3",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "let not inhabitants of earth slumber because of thy speech, D&C 112:5.",
+      "references": [
+        {
+          "text": "D&C 112:5",
+          "start": 60,
+          "end": 69,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 112,
+            "chapterId": "doctrineandcovenants112",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-sleep",
+      "slug": "sleep",
+      "title": "Sleep"
+    }
+  ],
+  "slug": "slumber",
+  "title": "Slumber",
+  "type": "index"
+}

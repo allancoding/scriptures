@@ -1,0 +1,76 @@
+{
+  "_id": "bd-baruch",
+  "content": [
+    {
+      "text": "Blessed. Jeremiah’s scribe (Jer. 32:12–13; 36); taken to Egypt (43:2–6; 45).",
+      "references": [
+        {
+          "text": "Jer. 32:12–13",
+          "start": 28,
+          "end": 41,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 32,
+            "chapterId": "jeremiah32",
+            "verses": [
+              {
+                "start": 12,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "36",
+          "start": 43,
+          "end": 45,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 36,
+            "chapterId": "jeremiah36",
+            "verses": []
+          }
+        },
+        {
+          "text": "43:2–6",
+          "start": 64,
+          "end": 70,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 43,
+            "chapterId": "jeremiah43",
+            "verses": [
+              {
+                "start": 2,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "45",
+          "start": 72,
+          "end": 74,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 45,
+            "chapterId": "jeremiah45",
+            "verses": []
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "baruch",
+  "title": "Baruch",
+  "type": "bd"
+}

@@ -1,0 +1,50 @@
+{
+  "_id": "bd-brigandine",
+  "content": [
+    {
+      "text": "A sort of coat of mail, or corselet (Jer. 46:4; 51:3).",
+      "references": [
+        {
+          "text": "Jer. 46:4",
+          "start": 37,
+          "end": 46,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 46,
+            "chapterId": "jeremiah46",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "51:3",
+          "start": 48,
+          "end": 52,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 51,
+            "chapterId": "jeremiah51",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "brigandine",
+  "title": "Brigandine",
+  "type": "bd"
+}

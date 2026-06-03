@@ -1,0 +1,32 @@
+{
+  "_id": "tg-omit",
+  "content": [
+    {
+      "text": "have omitted the weightier matters of the law, Matt. 23:23.",
+      "references": [
+        {
+          "text": "Matt. 23:23",
+          "start": 47,
+          "end": 58,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 23,
+            "chapterId": "matthew23",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "omit",
+  "title": "Omit",
+  "type": "tg"
+}

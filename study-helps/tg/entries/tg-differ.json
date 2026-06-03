@@ -1,0 +1,50 @@
+{
+  "_id": "tg-differ",
+  "content": [
+    {
+      "text": "for one star differeth from another, 1 Cor. 15:41 (D&C 76:98).",
+      "references": [
+        {
+          "text": "1 Cor. 15:41",
+          "start": 37,
+          "end": 49,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 15,
+            "chapterId": "1corinthians15",
+            "verses": [
+              {
+                "start": 41,
+                "end": 41
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 76:98",
+          "start": 51,
+          "end": 60,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 76,
+            "chapterId": "doctrineandcovenants76",
+            "verses": [
+              {
+                "start": 98,
+                "end": 98
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "differ",
+  "title": "Differ",
+  "type": "tg"
+}

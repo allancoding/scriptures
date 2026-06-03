@@ -1,0 +1,50 @@
+{
+  "_id": "bd-bitter-herbs",
+  "content": [
+    {
+      "text": "Eaten by the Israelites at the seder or home Passover meal, to remind them of the bitterness of Egyptian bondage prior to the Exodus (Ex. 12:8; Num. 9:11). The herbs included watercress, radishes, endive, and horseradish.",
+      "references": [
+        {
+          "text": "Ex. 12:8",
+          "start": 134,
+          "end": 142,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 12,
+            "chapterId": "exodus12",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 9:11",
+          "start": 144,
+          "end": 153,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 9,
+            "chapterId": "numbers9",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "bitter-herbs",
+  "title": "Bitter herbs",
+  "type": "bd"
+}

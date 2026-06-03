@@ -1,0 +1,73 @@
+{
+  "_id": "tg-sphere",
+  "content": [
+    {
+      "text": "classes of beings in their destined order or sphere, D&C 77:3. truth is independent in that sphere in which God has placed it, D&C 93:30.",
+      "references": [
+        {
+          "text": "D&C 77:3",
+          "start": 53,
+          "end": 61,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 77,
+            "chapterId": "doctrineandcovenants77",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 93:30",
+          "start": 127,
+          "end": 136,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 93,
+            "chapterId": "doctrineandcovenants93",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "it remaineth in the sphere in which I, God, created it, Moses 3:9.",
+      "references": [
+        {
+          "text": "Moses 3:9",
+          "start": 56,
+          "end": 65,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 3,
+            "chapterId": "moses3",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "sphere",
+  "title": "Sphere",
+  "type": "tg"
+}

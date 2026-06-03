@@ -1,0 +1,66 @@
+{
+  "_id": "index-immutable",
+  "content": [
+    {
+      "text": "the Lord gives promise with immutable covenant, D&C 98:3 (104:2).",
+      "references": [
+        {
+          "text": "D&C 98:3",
+          "start": 48,
+          "end": 56,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 98,
+            "chapterId": "doctrineandcovenants98",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "104:2",
+          "start": 58,
+          "end": 63,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 104,
+            "chapterId": "doctrineandcovenants104",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-change",
+      "slug": "change",
+      "title": "Change"
+    },
+    {
+      "entryId": "index-unalterable",
+      "slug": "unalterable",
+      "title": "Unalterable"
+    },
+    {
+      "entryId": "index-unchangeable",
+      "slug": "unchangeable",
+      "title": "Unchangeable"
+    }
+  ],
+  "slug": "immutable",
+  "title": "Immutable",
+  "type": "index"
+}

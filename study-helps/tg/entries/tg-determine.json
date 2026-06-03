@@ -1,0 +1,115 @@
+{
+  "_id": "tg-determine",
+  "content": [
+    {
+      "text": "Son of man goeth, as it was determined, Luke 22:22. hath determined the times before appointed, Acts 17:26 (Deut. 32:8). I determined not to know any thing among you, 1 Cor. 2:2.",
+      "references": [
+        {
+          "text": "Luke 22:22",
+          "start": 40,
+          "end": 50,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 22,
+            "chapterId": "luke22",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 17:26",
+          "start": 96,
+          "end": 106,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 17,
+            "chapterId": "acts17",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 32:8",
+          "start": 108,
+          "end": 118,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 32,
+            "chapterId": "deuteronomy32",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 2:2",
+          "start": 167,
+          "end": 177,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 2,
+            "chapterId": "1corinthians2",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "determination to serve him to the end, D&C 20:37.",
+      "references": [
+        {
+          "text": "D&C 20:37",
+          "start": 39,
+          "end": 48,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 20,
+            "chapterId": "doctrineandcovenants20",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-purpose",
+      "slug": "purpose",
+      "title": "Purpose"
+    }
+  ],
+  "slug": "determine",
+  "title": "Determine",
+  "type": "tg"
+}

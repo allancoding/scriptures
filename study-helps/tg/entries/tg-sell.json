@@ -1,0 +1,857 @@
+{
+  "_id": "tg-sell",
+  "content": [
+    {
+      "text": "Jacob said, Sell me this day thy birthright, Gen. 25:31. let us sell him to the Ishmeelites, Gen. 37:27. Joseph … sold unto the Egyptians, Gen. 41:56 (45:4). land shall not be sold for ever, Lev. 25:23. my servants … shall not be sold as bondmen, Lev. 25:42. Hebrew man, or an Hebrew woman, be sold unto thee, and serve thee six years, Deut. 15:12. thou shalt not sell her at all for money, Deut. 21:14. sell the oil, and pay thy debt, 2 Kgs. 4:7. even Joseph, who was sold for a servant, Ps. 105:17. Buy the truth, and sell it not, Prov. 23:23. for your iniquities have ye sold yourselves, Isa. 50:1. Ye have sold yourselves for nought, Isa. 52:3. they shall not sell of it, Ezek. 48:14. I will sell your sons and your daughters, Joel 3:8. because they sold the righteous for silver, Amos 2:6.",
+      "references": [
+        {
+          "text": "Gen. 25:31",
+          "start": 45,
+          "end": 55,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 25,
+            "chapterId": "genesis25",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 37:27",
+          "start": 93,
+          "end": 103,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 37,
+            "chapterId": "genesis37",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 41:56",
+          "start": 139,
+          "end": 149,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 41,
+            "chapterId": "genesis41",
+            "verses": [
+              {
+                "start": 56,
+                "end": 56
+              }
+            ]
+          }
+        },
+        {
+          "text": "45:4",
+          "start": 151,
+          "end": 155,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 45,
+            "chapterId": "genesis45",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Lev. 25:23",
+          "start": 191,
+          "end": 201,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 25,
+            "chapterId": "leviticus25",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Lev. 25:42",
+          "start": 247,
+          "end": 257,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 25,
+            "chapterId": "leviticus25",
+            "verses": [
+              {
+                "start": 42,
+                "end": 42
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 15:12",
+          "start": 336,
+          "end": 347,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 15,
+            "chapterId": "deuteronomy15",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 21:14",
+          "start": 391,
+          "end": 402,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 21,
+            "chapterId": "deuteronomy21",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Kgs. 4:7",
+          "start": 436,
+          "end": 446,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 4,
+            "chapterId": "2kings4",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 105:17",
+          "start": 489,
+          "end": 499,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 105,
+            "chapterId": "psalms105",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 23:23",
+          "start": 533,
+          "end": 544,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 23,
+            "chapterId": "proverbs23",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 50:1",
+          "start": 591,
+          "end": 600,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 50,
+            "chapterId": "isaiah50",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 52:3",
+          "start": 638,
+          "end": 647,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 52,
+            "chapterId": "isaiah52",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 48:14",
+          "start": 676,
+          "end": 687,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 48,
+            "chapterId": "ezekiel48",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Joel 3:8",
+          "start": 731,
+          "end": 739,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "joel",
+            "book": "joel",
+            "chapter": 3,
+            "chapterId": "joel3",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Amos 2:6",
+          "start": 785,
+          "end": 793,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "amos",
+            "book": "amos",
+            "chapter": 2,
+            "chapterId": "amos2",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "selleth all that he hath, and buyeth that field, Matt. 13:44. his lord commanded him to be sold, Matt. 18:25. sell that thou hast, and give to the poor, Matt. 19:21 (Mark 10:21; Luke 18:22). cast out all them that sold and bought in the temple, Matt. 21:12 (Mark 11:15; Luke 19:45). ointment might have been sold for much, Matt. 26:9 (Mark 14:5; John 12:5). Sell that ye have, and give alms, Luke 12:33. they bought, they sold, Luke 17:28. no sword, let him sell his garment, Luke 22:36. sold their possessions and goods, Acts 2:45 (4:34). Having land, sold it, Acts 4:37. Ananias … sold a possession, Acts 5:1. patriarchs … sold Joseph into Egypt, Acts 7:9. Esau … sold his birthright, Heb. 12:16. buy and sell, and get gain, James 4:13.",
+      "references": [
+        {
+          "text": "Matt. 13:44",
+          "start": 49,
+          "end": 60,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 13,
+            "chapterId": "matthew13",
+            "verses": [
+              {
+                "start": 44,
+                "end": 44
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 18:25",
+          "start": 97,
+          "end": 108,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 18,
+            "chapterId": "matthew18",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 19:21",
+          "start": 153,
+          "end": 164,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 19,
+            "chapterId": "matthew19",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 10:21",
+          "start": 166,
+          "end": 176,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 10,
+            "chapterId": "mark10",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 18:22",
+          "start": 178,
+          "end": 188,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 18,
+            "chapterId": "luke18",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 21:12",
+          "start": 245,
+          "end": 256,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 21,
+            "chapterId": "matthew21",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 11:15",
+          "start": 258,
+          "end": 268,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 11,
+            "chapterId": "mark11",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 19:45",
+          "start": 270,
+          "end": 280,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 19,
+            "chapterId": "luke19",
+            "verses": [
+              {
+                "start": 45,
+                "end": 45
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 26:9",
+          "start": 323,
+          "end": 333,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 26,
+            "chapterId": "matthew26",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 14:5",
+          "start": 335,
+          "end": 344,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 14,
+            "chapterId": "mark14",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 12:5",
+          "start": 346,
+          "end": 355,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 12,
+            "chapterId": "john12",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 12:33",
+          "start": 392,
+          "end": 402,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 12,
+            "chapterId": "luke12",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 17:28",
+          "start": 428,
+          "end": 438,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 17,
+            "chapterId": "luke17",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 22:36",
+          "start": 476,
+          "end": 486,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 22,
+            "chapterId": "luke22",
+            "verses": [
+              {
+                "start": 36,
+                "end": 36
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 2:45",
+          "start": 522,
+          "end": 531,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 2,
+            "chapterId": "acts2",
+            "verses": [
+              {
+                "start": 45,
+                "end": 45
+              }
+            ]
+          }
+        },
+        {
+          "text": "4:34",
+          "start": 533,
+          "end": 537,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 4,
+            "chapterId": "acts4",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 4:37",
+          "start": 562,
+          "end": 571,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 4,
+            "chapterId": "acts4",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 5:1",
+          "start": 602,
+          "end": 610,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 5,
+            "chapterId": "acts5",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 7:9",
+          "start": 649,
+          "end": 657,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 7,
+            "chapterId": "acts7",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 12:16",
+          "start": 687,
+          "end": 697,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 12,
+            "chapterId": "hebrews12",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "James 4:13",
+          "start": 727,
+          "end": 737,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "james",
+            "book": "james",
+            "chapter": 4,
+            "chapterId": "james4",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "son of Jacob, who was sold into Egypt, 1 Ne. 5:14. to which of my creditors have I sold you, 2 Ne. 7:1. they sell themselves for naught, 2 Ne. 26:10. Joseph who was sold into Egypt, Alma 10:3. Lamanites … did have free intercourse one with another, to buy and to sell, Hel. 6:8. they will sell me for silver and for gold, 3 Ne. 27:32. ye teachers, who sell yourselves for that which will canker, Morm. 8:38. industrious, and they did buy and sell, Ether 10:22.",
+      "references": [
+        {
+          "text": "1 Ne. 5:14",
+          "start": 39,
+          "end": 49,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 5,
+            "chapterId": "1nephi5",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 7:1",
+          "start": 93,
+          "end": 102,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 7,
+            "chapterId": "2nephi7",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 26:10",
+          "start": 137,
+          "end": 148,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 26,
+            "chapterId": "2nephi26",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 10:3",
+          "start": 182,
+          "end": 191,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 10,
+            "chapterId": "alma10",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 6:8",
+          "start": 269,
+          "end": 277,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 6,
+            "chapterId": "helaman6",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 27:32",
+          "start": 322,
+          "end": 333,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 27,
+            "chapterId": "3nephi27",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 8:38",
+          "start": 396,
+          "end": 406,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 8,
+            "chapterId": "mormon8",
+            "verses": [
+              {
+                "start": 38,
+                "end": 38
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 10:22",
+          "start": 448,
+          "end": 459,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 10,
+            "chapterId": "ether10",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "daughters of thy sons have sold themselves, Moses 8:15.",
+      "references": [
+        {
+          "text": "Moses 8:15",
+          "start": 44,
+          "end": 54,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 8,
+            "chapterId": "moses8",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "sell",
+  "title": "Sell, Sold",
+  "type": "tg"
+}

@@ -1,0 +1,215 @@
+{
+  "_id": "tg-present-verb",
+  "content": [
+    {
+      "text": "come … unto mount Sinai, and present thyself, Ex. 34:2.",
+      "references": [
+        {
+          "text": "Ex. 34:2",
+          "start": 46,
+          "end": 54,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 34,
+            "chapterId": "exodus34",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "presented unto him gifts; gold, and frankincense, Matt. 2:11. brought him to Jerusalem, to present him to the Lord, Luke 2:22. present your bodies a living sacrifice, Rom. 12:1. may present you as a chaste virgin to Christ, 2 Cor. 11:2. might present it to himself a glorious church, Eph. 5:27. to present you holy and unblameable, Col. 1:22. that we may present every man perfect in Christ, Col. 1:28. to present you faultless before the presence of his glory, Jude 1:24.",
+      "references": [
+        {
+          "text": "Matt. 2:11",
+          "start": 50,
+          "end": 60,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 2,
+            "chapterId": "matthew2",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 2:22",
+          "start": 116,
+          "end": 125,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 2,
+            "chapterId": "luke2",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 12:1",
+          "start": 167,
+          "end": 176,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 12,
+            "chapterId": "romans12",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Cor. 11:2",
+          "start": 224,
+          "end": 235,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 11,
+            "chapterId": "2corinthians11",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eph. 5:27",
+          "start": 284,
+          "end": 293,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "eph",
+            "book": "ephesians",
+            "chapter": 5,
+            "chapterId": "ephesians5",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Col. 1:22",
+          "start": 332,
+          "end": 341,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "col",
+            "book": "colossians",
+            "chapter": 1,
+            "chapterId": "colossians1",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Col. 1:28",
+          "start": 392,
+          "end": 401,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "col",
+            "book": "colossians",
+            "chapter": 1,
+            "chapterId": "colossians1",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jude 1:24",
+          "start": 462,
+          "end": 471,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "jude",
+            "book": "jude",
+            "chapter": 1,
+            "chapterId": "jude1",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "let us present in his holy temple … a book containing the records of our dead, D&C 128:24.",
+      "references": [
+        {
+          "text": "D&C 128:24",
+          "start": 79,
+          "end": 89,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 128,
+            "chapterId": "doctrineandcovenants128",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-give",
+      "slug": "give",
+      "title": "Give"
+    },
+    {
+      "entryId": "tg-offer",
+      "slug": "offer",
+      "title": "Offer"
+    }
+  ],
+  "slug": "present-verb",
+  "title": "Present [verb]",
+  "type": "tg"
+}

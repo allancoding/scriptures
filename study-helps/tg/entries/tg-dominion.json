@@ -1,0 +1,618 @@
+{
+  "_id": "tg-dominion",
+  "content": [
+    {
+      "text": "let them have dominion over the fish of the sea, Gen. 1:26 (Moses 2:26; Abr. 4:26). shalt thou indeed have dominion over us, Gen. 37:8. of Jacob shall come he that shall have dominion, Num. 24:19. madest him to have dominion over the works, Ps. 8:6. sins; let them not have dominion over me, Ps. 19:13. shall have dominion also from sea to sea, Ps. 72:8 (Zech. 9:10). let not any iniquity have dominion over me, Ps. 119:133. thy dominion endureth throughout all generations, Ps. 145:13. his dominion is from generation to generation, Dan. 4:3. reacheth … thy dominion to the end of the earth, Dan. 4:22. whose dominion is an everlasting dominion, Dan. 4:34. his dominion shall be even unto the end, Dan. 6:26. was given him dominion, and glory, Dan. 7:14. his dominion shall be a great dominion, Dan. 11:5.",
+      "references": [
+        {
+          "text": "Gen. 1:26",
+          "start": 49,
+          "end": 58,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 1,
+            "chapterId": "genesis1",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 2:26",
+          "start": 60,
+          "end": 70,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 2,
+            "chapterId": "moses2",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Abr. 4:26",
+          "start": 72,
+          "end": 81,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 4,
+            "chapterId": "abraham4",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 37:8",
+          "start": 125,
+          "end": 134,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 37,
+            "chapterId": "genesis37",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 24:19",
+          "start": 185,
+          "end": 195,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 24,
+            "chapterId": "numbers24",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 8:6",
+          "start": 241,
+          "end": 248,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 8,
+            "chapterId": "psalms8",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 19:13",
+          "start": 292,
+          "end": 301,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 19,
+            "chapterId": "psalms19",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 72:8",
+          "start": 345,
+          "end": 353,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 72,
+            "chapterId": "psalms72",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Zech. 9:10",
+          "start": 355,
+          "end": 365,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "zech",
+            "book": "zechariah",
+            "chapter": 9,
+            "chapterId": "zechariah9",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 119:133",
+          "start": 412,
+          "end": 423,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 119,
+            "chapterId": "psalms119",
+            "verses": [
+              {
+                "start": 133,
+                "end": 133
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 145:13",
+          "start": 475,
+          "end": 485,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 145,
+            "chapterId": "psalms145",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 4:3",
+          "start": 534,
+          "end": 542,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 4,
+            "chapterId": "daniel4",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 4:22",
+          "start": 593,
+          "end": 602,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 4,
+            "chapterId": "daniel4",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 4:34",
+          "start": 647,
+          "end": 656,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 4,
+            "chapterId": "daniel4",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 6:26",
+          "start": 699,
+          "end": 708,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 6,
+            "chapterId": "daniel6",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 7:14",
+          "start": 745,
+          "end": 754,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 7,
+            "chapterId": "daniel7",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 11:5",
+          "start": 796,
+          "end": 805,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 11,
+            "chapterId": "daniel11",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "princes of the Gentiles exercise dominion, Matt. 20:25. death hath no more dominion over him, Rom. 6:9. For sin shall not have dominion over you, Rom. 6:14. law hath dominion over a man as long as he liveth, Rom. 7:1. by him were all things created … whether they be thrones, or dominions, Col. 1:16. to whom be praise and dominion, 1 Pet. 4:11 (5:11; Rev. 1:6). filthy dreamers … despise dominion, Jude 1:8. To … God our Saviour, be glory and majesty, dominion and power, Jude 1:25 (Rev. 1:6).",
+      "references": [
+        {
+          "text": "Matt. 20:25",
+          "start": 43,
+          "end": 54,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 20,
+            "chapterId": "matthew20",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 6:9",
+          "start": 94,
+          "end": 102,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 6,
+            "chapterId": "romans6",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 6:14",
+          "start": 146,
+          "end": 155,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 6,
+            "chapterId": "romans6",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 7:1",
+          "start": 208,
+          "end": 216,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 7,
+            "chapterId": "romans7",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Col. 1:16",
+          "start": 290,
+          "end": 299,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "col",
+            "book": "colossians",
+            "chapter": 1,
+            "chapterId": "colossians1",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Pet. 4:11",
+          "start": 333,
+          "end": 344,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-pet",
+            "book": "1peter",
+            "chapter": 4,
+            "chapterId": "1peter4",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "5:11",
+          "start": 346,
+          "end": 350,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-pet",
+            "book": "1peter",
+            "chapter": 5,
+            "chapterId": "1peter5",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 1:6",
+          "start": 352,
+          "end": 360,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 1,
+            "chapterId": "revelation1",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jude 1:8",
+          "start": 399,
+          "end": 407,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "jude",
+            "book": "jude",
+            "chapter": 1,
+            "chapterId": "jude1",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jude 1:25",
+          "start": 473,
+          "end": 482,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "jude",
+            "book": "jude",
+            "chapter": 1,
+            "chapterId": "jude1",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 1:6",
+          "start": 484,
+          "end": 492,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 1,
+            "chapterId": "revelation1",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "shall receive according to his own works, his own dominion, D&C 76:111. when we undertake … to exercise control or dominion or compulsion, D&C 121:37. begin to exercise unrighteous dominion, D&C 121:39.",
+      "references": [
+        {
+          "text": "D&C 76:111",
+          "start": 60,
+          "end": 70,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 76,
+            "chapterId": "doctrineandcovenants76",
+            "verses": [
+              {
+                "start": 111,
+                "end": 111
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 121:37",
+          "start": 139,
+          "end": 149,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 121:39",
+          "start": 191,
+          "end": 201,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 39,
+                "end": 39
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-authority",
+      "slug": "authority",
+      "title": "Authority"
+    },
+    {
+      "entryId": "tg-governments",
+      "slug": "governments",
+      "title": "Governments"
+    },
+    {
+      "entryId": "tg-kingdom",
+      "slug": "kingdom",
+      "title": "Kingdom"
+    },
+    {
+      "entryId": "tg-power",
+      "slug": "power",
+      "title": "Power"
+    },
+    {
+      "entryId": "tg-reign",
+      "slug": "reign",
+      "title": "Reign"
+    },
+    {
+      "entryId": "tg-rule",
+      "slug": "rule",
+      "title": "Rule"
+    },
+    {
+      "entryId": "tg-unrighteous-dominion",
+      "slug": "unrighteous-dominion",
+      "title": "Unrighteous Dominion"
+    }
+  ],
+  "slug": "dominion",
+  "title": "Dominion",
+  "type": "tg"
+}

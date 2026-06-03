@@ -1,0 +1,50 @@
+{
+  "_id": "tg-mandrake",
+  "content": [
+    {
+      "text": "Reuben went … and found mandrakes in the field, Gen. 30:14. The mandrakes give a smell, Song 7:13.",
+      "references": [
+        {
+          "text": "Gen. 30:14",
+          "start": 48,
+          "end": 58,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 30,
+            "chapterId": "genesis30",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Song 7:13",
+          "start": 88,
+          "end": 97,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "song",
+            "book": "songofsolomon",
+            "chapter": 7,
+            "chapterId": "songofsolomon7",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "mandrake",
+  "title": "Mandrake",
+  "type": "tg"
+}

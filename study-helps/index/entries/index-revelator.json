@@ -1,0 +1,156 @@
+{
+  "_id": "index-revelator",
+  "content": [
+    {
+      "text": "seer is revelator, Mosiah 8:16.",
+      "references": [
+        {
+          "text": "Mosiah 8:16",
+          "start": 19,
+          "end": 30,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 8,
+            "chapterId": "mosiah8",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "persons making false claims as revelators, D&C 43: Intro. John the Revelator, D&C 77:2. Joseph Smith to be revelator unto Sidney Rigdon, D&C 100:11. President of Church a revelator, D&C 107:92 (124:125). Hyrum Smith a prophet, seer, and revelator, D&C 124:94.",
+      "references": [
+        {
+          "text": "D&C 43: Intro.",
+          "start": 43,
+          "end": 57,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 43,
+            "chapterId": "doctrineandcovenants43",
+            "verses": []
+          }
+        },
+        {
+          "text": "D&C 77:2",
+          "start": 78,
+          "end": 86,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 77,
+            "chapterId": "doctrineandcovenants77",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 100:11",
+          "start": 137,
+          "end": 147,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 100,
+            "chapterId": "doctrineandcovenants100",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 107:92",
+          "start": 182,
+          "end": 192,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 107,
+            "chapterId": "doctrineandcovenants107",
+            "verses": [
+              {
+                "start": 92,
+                "end": 92
+              }
+            ]
+          }
+        },
+        {
+          "text": "124:125",
+          "start": 194,
+          "end": 201,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 124,
+            "chapterId": "doctrineandcovenants124",
+            "verses": [
+              {
+                "start": 125,
+                "end": 125
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 124:94",
+          "start": 248,
+          "end": 258,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 124,
+            "chapterId": "doctrineandcovenants124",
+            "verses": [
+              {
+                "start": 94,
+                "end": 94
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-prophet",
+      "slug": "prophet",
+      "title": "Prophet"
+    },
+    {
+      "entryId": "index-revelation",
+      "slug": "revelation",
+      "title": "Revelation"
+    },
+    {
+      "entryId": "index-seer",
+      "slug": "seer",
+      "title": "Seer"
+    }
+  ],
+  "slug": "revelator",
+  "title": "Revelator",
+  "type": "index"
+}

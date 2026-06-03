@@ -1,0 +1,50 @@
+{
+  "_id": "bd-sarepta",
+  "content": [
+    {
+      "text": "Luke 4:26. The Greek form of the name Zarephath (1 Kgs. 17:9).",
+      "references": [
+        {
+          "text": "Luke 4:26",
+          "start": 0,
+          "end": 9,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 4,
+            "chapterId": "luke4",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Kgs. 17:9",
+          "start": 49,
+          "end": 60,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 17,
+            "chapterId": "1kings17",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "sarepta",
+  "title": "Sarepta",
+  "type": "bd"
+}

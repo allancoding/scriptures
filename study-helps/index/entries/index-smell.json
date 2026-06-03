@@ -1,0 +1,43 @@
+{
+  "_id": "index-smell",
+  "content": [
+    {
+      "text": "things of earth given for taste and for smell, D&C 59:19.",
+      "references": [
+        {
+          "text": "D&C 59:19",
+          "start": 47,
+          "end": 56,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 59,
+            "chapterId": "doctrineandcovenants59",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-scent",
+      "slug": "scent",
+      "title": "Scent"
+    },
+    {
+      "entryId": "index-stink",
+      "slug": "stink",
+      "title": "Stink"
+    }
+  ],
+  "slug": "smell",
+  "title": "Smell",
+  "type": "index"
+}

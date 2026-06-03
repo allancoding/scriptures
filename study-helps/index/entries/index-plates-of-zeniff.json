@@ -1,0 +1,71 @@
+{
+  "_id": "index-plates-of-zeniff",
+  "content": [
+    {
+      "text": "Limhi brings Ammon1 plates containing record of his people, Mosiah 8:5. Mosiah2 receives with joy records of Limhi’s people, Mosiah 22:14.",
+      "references": [
+        {
+          "text": "Mosiah 8:5",
+          "start": 60,
+          "end": 70,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 8,
+            "chapterId": "mosiah8",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 22:14",
+          "start": 125,
+          "end": 137,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 22,
+            "chapterId": "mosiah22",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-limhi",
+      "slug": "limhi",
+      "title": "Limhi"
+    },
+    {
+      "entryId": "index-nephi-land-of",
+      "slug": "nephi-land-of",
+      "title": "Nephi, Land of"
+    },
+    {
+      "entryId": "index-noah-3",
+      "slug": "noah-3",
+      "title": "Noah3"
+    },
+    {
+      "entryId": "index-zeniff",
+      "slug": "zeniff",
+      "title": "Zeniff"
+    }
+  ],
+  "slug": "plates-of-zeniff",
+  "title": "Plates of Zeniff",
+  "type": "index"
+}

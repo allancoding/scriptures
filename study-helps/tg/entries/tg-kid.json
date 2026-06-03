@@ -1,0 +1,197 @@
+{
+  "_id": "tg-kid",
+  "content": [
+    {
+      "text": "fetch me … two good kids, Gen. 27:9. took Joseph’s coat, and killed a kid, Gen. 37:31. shalt not seethe a kid in his mother’s milk, Ex. 23:19 (34:26; Deut. 14:21). leopard shall lie down with the kid, Isa. 11:6 (2 Ne. 21:6; 30:12).",
+      "references": [
+        {
+          "text": "Gen. 27:9",
+          "start": 26,
+          "end": 35,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 27,
+            "chapterId": "genesis27",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 37:31",
+          "start": 75,
+          "end": 85,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 37,
+            "chapterId": "genesis37",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 23:19",
+          "start": 132,
+          "end": 141,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 23,
+            "chapterId": "exodus23",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "34:26",
+          "start": 143,
+          "end": 148,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 34,
+            "chapterId": "exodus34",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 14:21",
+          "start": 150,
+          "end": 161,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 14,
+            "chapterId": "deuteronomy14",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 11:6",
+          "start": 201,
+          "end": 210,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 11,
+            "chapterId": "isaiah11",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 21:6",
+          "start": 212,
+          "end": 222,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 21,
+            "chapterId": "2nephi21",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "30:12",
+          "start": 224,
+          "end": 229,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 30,
+            "chapterId": "2nephi30",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "thou never gavest me a kid, Luke 15:29.",
+      "references": [
+        {
+          "text": "Luke 15:29",
+          "start": 28,
+          "end": 38,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 15,
+            "chapterId": "luke15",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-goat",
+      "slug": "goat",
+      "title": "Goat"
+    },
+    {
+      "entryId": "tg-scapegoat",
+      "slug": "scapegoat",
+      "title": "Scapegoat"
+    },
+    {
+      "entryId": "tg-sheep",
+      "slug": "sheep",
+      "title": "Sheep"
+    }
+  ],
+  "slug": "kid",
+  "title": "Kid",
+  "type": "tg"
+}

@@ -1,0 +1,79 @@
+{
+  "_id": "tg-alter",
+  "content": [
+    {
+      "text": "He shall not alter it, Lev. 27:10. nor alter the thing that is gone out of my lips, Ps. 89:34.",
+      "references": [
+        {
+          "text": "Lev. 27:10",
+          "start": 23,
+          "end": 33,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 27,
+            "chapterId": "leviticus27",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 89:34",
+          "start": 84,
+          "end": 93,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 89,
+            "chapterId": "psalms89",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "the fashion of his countenance was altered, Luke 9:29.",
+      "references": [
+        {
+          "text": "Luke 9:29",
+          "start": 44,
+          "end": 53,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 9,
+            "chapterId": "luke9",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-change",
+      "slug": "change",
+      "title": "Change"
+    }
+  ],
+  "slug": "alter",
+  "title": "Alter",
+  "type": "tg"
+}

@@ -1,0 +1,79 @@
+{
+  "_id": "tg-bread-of-life",
+  "content": [
+    {
+      "text": "I am the bread of life, John 6:35. I give to eat of the hidden manna, Rev. 2:17.",
+      "references": [
+        {
+          "text": "John 6:35",
+          "start": 24,
+          "end": 33,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 6,
+            "chapterId": "john6",
+            "verses": [
+              {
+                "start": 35,
+                "end": 35
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 2:17",
+          "start": 70,
+          "end": 79,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 2,
+            "chapterId": "revelation2",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "eat and drink of the bread … of life, Alma 5:34.",
+      "references": [
+        {
+          "text": "Alma 5:34",
+          "start": 38,
+          "end": 47,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 5,
+            "chapterId": "alma5",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-sacrament",
+      "slug": "sacrament",
+      "title": "Sacrament"
+    }
+  ],
+  "slug": "bread-of-life",
+  "title": "Bread of Life",
+  "type": "tg"
+}

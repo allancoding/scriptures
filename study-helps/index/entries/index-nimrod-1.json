@@ -1,0 +1,38 @@
+{
+  "_id": "index-nimrod-1",
+  "content": [
+    {
+      "text": "valley named after Nimrod, mighty hunter, Ether 2:1.",
+      "references": [
+        {
+          "text": "Ether 2:1",
+          "start": 42,
+          "end": 51,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 2,
+            "chapterId": "ether2",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-nimrod-valley-of",
+      "slug": "nimrod-valley-of",
+      "title": "Nimrod, Valley of"
+    }
+  ],
+  "slug": "nimrod-1",
+  "title": "Nimrod1—grandson of Ham",
+  "type": "index"
+}

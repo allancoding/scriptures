@@ -1,0 +1,91 @@
+{
+  "_id": "tg-wallow",
+  "content": [
+    {
+      "text": "wallow thyself in ashes, Jer. 6:26 (Ezek. 27:30).",
+      "references": [
+        {
+          "text": "Jer. 6:26",
+          "start": 25,
+          "end": 34,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 6,
+            "chapterId": "jeremiah6",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 27:30",
+          "start": 36,
+          "end": 47,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 27,
+            "chapterId": "ezekiel27",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "sow that was washed to her wallowing in the mire, 2 Pet. 2:22 (3 Ne. 7:8).",
+      "references": [
+        {
+          "text": "2 Pet. 2:22",
+          "start": 50,
+          "end": 61,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-pet",
+            "book": "2peter",
+            "chapter": 2,
+            "chapterId": "2peter2",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 7:8",
+          "start": 63,
+          "end": 72,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 7,
+            "chapterId": "3nephi7",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "wallow",
+  "title": "Wallow",
+  "type": "tg"
+}

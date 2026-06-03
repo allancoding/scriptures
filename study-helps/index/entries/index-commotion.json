@@ -1,0 +1,66 @@
+{
+  "_id": "index-commotion",
+  "content": [
+    {
+      "text": "whole earth shall be in commotion, D&C 45:26. all things shall be in commotion, D&C 88:91.",
+      "references": [
+        {
+          "text": "D&C 45:26",
+          "start": 35,
+          "end": 44,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 45,
+            "chapterId": "doctrineandcovenants45",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 88:91",
+          "start": 80,
+          "end": 89,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 91,
+                "end": 91
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-confusion",
+      "slug": "confusion",
+      "title": "Confusion"
+    },
+    {
+      "entryId": "index-riotings",
+      "slug": "riotings",
+      "title": "Riotings"
+    },
+    {
+      "entryId": "index-tumult",
+      "slug": "tumult",
+      "title": "Tumult"
+    }
+  ],
+  "slug": "commotion",
+  "title": "Commotion",
+  "type": "index"
+}

@@ -1,0 +1,620 @@
+{
+  "_id": "tg-thousand",
+  "content": [
+    {
+      "text": "be thou the mother of thousands, Gen. 24:60. men of truth … to be rulers of thousands, Ex. 18:21 (18:25). you shall put ten thousand to flight, Lev. 26:8 (Deut. 32:30). Saul hath slain his thousands, and David his ten thousands, 1 Sam. 18:7 (21:11; 29:5). a thousand years in thy sight are but as yesterday, Ps. 90:4. one man among a thousand have I found, Eccl. 7:28. A little one shall become a thousand, Isa. 60:22. thousand thousands ministered unto him, and ten thousand times ten thousand stood before him, Dan. 7:10. though thou be little among the thousands of Judah, Micah 5:2.",
+      "references": [
+        {
+          "text": "Gen. 24:60",
+          "start": 33,
+          "end": 43,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 24,
+            "chapterId": "genesis24",
+            "verses": [
+              {
+                "start": 60,
+                "end": 60
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 18:21",
+          "start": 87,
+          "end": 96,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 18,
+            "chapterId": "exodus18",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "18:25",
+          "start": 98,
+          "end": 103,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 18,
+            "chapterId": "exodus18",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Lev. 26:8",
+          "start": 144,
+          "end": 153,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 26,
+            "chapterId": "leviticus26",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 32:30",
+          "start": 155,
+          "end": 166,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 32,
+            "chapterId": "deuteronomy32",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Sam. 18:7",
+          "start": 229,
+          "end": 240,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 18,
+            "chapterId": "1samuel18",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "21:11",
+          "start": 242,
+          "end": 247,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 21,
+            "chapterId": "1samuel21",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "29:5",
+          "start": 249,
+          "end": 253,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 29,
+            "chapterId": "1samuel29",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 90:4",
+          "start": 308,
+          "end": 316,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 90,
+            "chapterId": "psalms90",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eccl. 7:28",
+          "start": 357,
+          "end": 367,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "eccl",
+            "book": "ecclesiastes",
+            "chapter": 7,
+            "chapterId": "ecclesiastes7",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 60:22",
+          "start": 407,
+          "end": 417,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 60,
+            "chapterId": "isaiah60",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 7:10",
+          "start": 513,
+          "end": 522,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 7,
+            "chapterId": "daniel7",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Micah 5:2",
+          "start": 576,
+          "end": 585,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "micah",
+            "book": "micah",
+            "chapter": 5,
+            "chapterId": "micah5",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "how many thousands of Jews there are which believe, Acts 21:20. one day is with the Lord as a thousand years, and a thousand years as one day, 2 Pet. 3:8. Lord cometh with ten thousands of his saints, Jude 1:14. number of them was ten thousand times ten thousand, and thousands of thousands, Rev. 5:11. there were sealed an hundred and forty and four thousand, Rev. 7:4 (14:1, 3; D&C 77:10–12). Satan, and bound him a thousand years, Rev. 20:2. they lived and reigned with Christ a thousand years, Rev. 20:4.",
+      "references": [
+        {
+          "text": "Acts 21:20",
+          "start": 52,
+          "end": 62,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 21,
+            "chapterId": "acts21",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Pet. 3:8",
+          "start": 143,
+          "end": 153,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-pet",
+            "book": "2peter",
+            "chapter": 3,
+            "chapterId": "2peter3",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jude 1:14",
+          "start": 201,
+          "end": 210,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "jude",
+            "book": "jude",
+            "chapter": 1,
+            "chapterId": "jude1",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 5:11",
+          "start": 292,
+          "end": 301,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 5,
+            "chapterId": "revelation5",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 7:4",
+          "start": 361,
+          "end": 369,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 7,
+            "chapterId": "revelation7",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "14:1, 3",
+          "start": 371,
+          "end": 378,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 14,
+            "chapterId": "revelation14",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              },
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 77:10–12",
+          "start": 380,
+          "end": 392,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 77,
+            "chapterId": "doctrineandcovenants77",
+            "verses": [
+              {
+                "start": 10,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 20:2",
+          "start": 434,
+          "end": 443,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 20,
+            "chapterId": "revelation20",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 20:4",
+          "start": 498,
+          "end": 507,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 20,
+            "chapterId": "revelation20",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "two thousand of those young men, who entered into this covenant, Alma 53:18. shown unto the people, a great many thousand years before his coming, Hel. 8:18.",
+      "references": [
+        {
+          "text": "Alma 53:18",
+          "start": 65,
+          "end": 75,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 53,
+            "chapterId": "alma53",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 8:18",
+          "start": 147,
+          "end": 156,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 8,
+            "chapterId": "helaman8",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "dwell … with men on earth a thousand years, D&C 29:11. when the thousand years are ended … then will I spare the earth, D&C 29:22 (88:101). this earth during the seven thousand years of its continuance, D&C 77:6. first seal contains the things of the first thousand years, D&C 77:7. devil … not be loosed for the space of a thousand years, D&C 88:110.",
+      "references": [
+        {
+          "text": "D&C 29:11",
+          "start": 44,
+          "end": 53,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 29,
+            "chapterId": "doctrineandcovenants29",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 29:22",
+          "start": 120,
+          "end": 129,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 29,
+            "chapterId": "doctrineandcovenants29",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "88:101",
+          "start": 131,
+          "end": 137,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 101,
+                "end": 101
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 77:6",
+          "start": 203,
+          "end": 211,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 77,
+            "chapterId": "doctrineandcovenants77",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 77:7",
+          "start": 273,
+          "end": 281,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 77,
+            "chapterId": "doctrineandcovenants77",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 88:110",
+          "start": 340,
+          "end": 350,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 110,
+                "end": 110
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "for the space of a thousand years the earth shall rest, Moses 7:64. one thousand years according to the time appointed, Abr. 3:4.",
+      "references": [
+        {
+          "text": "Moses 7:64",
+          "start": 56,
+          "end": 66,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 7,
+            "chapterId": "moses7",
+            "verses": [
+              {
+                "start": 64,
+                "end": 64
+              }
+            ]
+          }
+        },
+        {
+          "text": "Abr. 3:4",
+          "start": 120,
+          "end": 128,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 3,
+            "chapterId": "abraham3",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-millennium",
+      "slug": "millennium",
+      "title": "Millennium"
+    }
+  ],
+  "slug": "thousand",
+  "title": "Thousand",
+  "type": "tg"
+}

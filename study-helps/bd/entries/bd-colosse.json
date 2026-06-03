@@ -1,0 +1,54 @@
+{
+  "_id": "bd-colosse",
+  "content": [
+    {
+      "text": "A town of Phrygia, in the valley of the Lycus, near Laodicea and Hierapolis, and close to the great road that led from Ephesus to the Euphrates. When Paul wrote his epistle to the Colossians he had probably not yet visited the place. Epaphras and perhaps Timothy were its first Christian teachers (Col. 1:1, 7; 4:12–13).",
+      "references": [
+        {
+          "text": "Col. 1:1, 7",
+          "start": 298,
+          "end": 309,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "col",
+            "book": "colossians",
+            "chapter": 1,
+            "chapterId": "colossians1",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              },
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "4:12–13",
+          "start": 311,
+          "end": 318,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "col",
+            "book": "colossians",
+            "chapter": 4,
+            "chapterId": "colossians4",
+            "verses": [
+              {
+                "start": 12,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "colosse",
+  "title": "Colosse",
+  "type": "bd"
+}

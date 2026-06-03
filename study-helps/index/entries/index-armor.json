@@ -1,0 +1,125 @@
+{
+  "_id": "index-armor",
+  "content": [
+    {
+      "text": "Nephi1 girds on Laban’s armor, 1 Ne. 4:19. put on armor of righteousness, 2 Ne. 1:23. Lamanites fear Nephite armies because of armor, Alma 43:21. appearance of Giddianhi’s army is terrible because of their armor, 3 Ne. 4:7.",
+      "references": [
+        {
+          "text": "1 Ne. 4:19",
+          "start": 31,
+          "end": 41,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 4,
+            "chapterId": "1nephi4",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 1:23",
+          "start": 74,
+          "end": 84,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 1,
+            "chapterId": "2nephi1",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 43:21",
+          "start": 134,
+          "end": 144,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 43,
+            "chapterId": "alma43",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 4:7",
+          "start": 213,
+          "end": 222,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 4,
+            "chapterId": "3nephi4",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "take upon you the Lord’s whole armor, D&C 27:15.",
+      "references": [
+        {
+          "text": "D&C 27:15",
+          "start": 38,
+          "end": 47,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 27,
+            "chapterId": "doctrineandcovenants27",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-breastplate",
+      "slug": "breastplate",
+      "title": "Breastplate"
+    },
+    {
+      "entryId": "index-helmet",
+      "slug": "helmet",
+      "title": "Helmet"
+    },
+    {
+      "entryId": "index-shield",
+      "slug": "shield",
+      "title": "Shield"
+    }
+  ],
+  "slug": "armor",
+  "title": "Armor",
+  "type": "index"
+}

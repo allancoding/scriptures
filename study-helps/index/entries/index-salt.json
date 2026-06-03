@@ -1,0 +1,115 @@
+{
+  "_id": "index-salt",
+  "content": [
+    {
+      "text": "you are salt of earth, 3 Ne. 12:13 (Matt. 5:13). Gentiles shall be as salt that has lost savor, 3 Ne. 16:15.",
+      "references": [
+        {
+          "text": "3 Ne. 12:13",
+          "start": 23,
+          "end": 34,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 12,
+            "chapterId": "3nephi12",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 5:13",
+          "start": 36,
+          "end": 46,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 5,
+            "chapterId": "matthew5",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 16:15",
+          "start": 96,
+          "end": 107,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 16,
+            "chapterId": "3nephi16",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "when men covenant with everlasting covenant, they are accounted as salt of earth, D&C 101:39–40. if Saints are not saviors of men, they are as salt that has lost savor, D&C 103:10.",
+      "references": [
+        {
+          "text": "D&C 101:39–40",
+          "start": 82,
+          "end": 95,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 101,
+            "chapterId": "doctrineandcovenants101",
+            "verses": [
+              {
+                "start": 39,
+                "end": 40
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 103:10",
+          "start": 169,
+          "end": 179,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 103,
+            "chapterId": "doctrineandcovenants103",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-example",
+      "slug": "example",
+      "title": "Example"
+    }
+  ],
+  "slug": "salt",
+  "title": "Salt",
+  "type": "index"
+}

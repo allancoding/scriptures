@@ -1,0 +1,97 @@
+{
+  "_id": "tg-experience",
+  "content": [
+    {
+      "text": "learned by experience that the Lord hath blessed me, Gen. 30:27.",
+      "references": [
+        {
+          "text": "Gen. 30:27",
+          "start": 53,
+          "end": 63,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 30,
+            "chapterId": "genesis30",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "that my people may … have experience, D&C 105:10. learned by sad experience, D&C 121:39. all these things shall give thee experience, D&C 122:7.",
+      "references": [
+        {
+          "text": "D&C 105:10",
+          "start": 38,
+          "end": 48,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 105,
+            "chapterId": "doctrineandcovenants105",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 121:39",
+          "start": 77,
+          "end": 87,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 39,
+                "end": 39
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 122:7",
+          "start": 134,
+          "end": 143,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 122,
+            "chapterId": "doctrineandcovenants122",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-adversity",
+      "slug": "adversity",
+      "title": "Adversity"
+    }
+  ],
+  "slug": "experience",
+  "title": "Experience",
+  "type": "tg"
+}

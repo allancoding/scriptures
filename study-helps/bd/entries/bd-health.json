@@ -1,0 +1,68 @@
+{
+  "_id": "bd-health",
+  "content": [
+    {
+      "text": "In old English this word denoted healing power, deliverance, salvation. In Isa. 58:8 it means healing; in Ps. 67:2, saving health means salvation; in Acts 27:34, health means safety.",
+      "references": [
+        {
+          "text": "Isa. 58:8",
+          "start": 75,
+          "end": 84,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 58,
+            "chapterId": "isaiah58",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 67:2",
+          "start": 106,
+          "end": 114,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 67,
+            "chapterId": "psalms67",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 27:34",
+          "start": 150,
+          "end": 160,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 27,
+            "chapterId": "acts27",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "health",
+  "title": "Health",
+  "type": "bd"
+}

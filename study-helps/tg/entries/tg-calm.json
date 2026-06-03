@@ -1,0 +1,132 @@
+{
+  "_id": "tg-calm",
+  "content": [
+    {
+      "text": "maketh the storm a calm, Ps. 107:29. What shall we do … that the sea may be calm, Jonah 1:11.",
+      "references": [
+        {
+          "text": "Ps. 107:29",
+          "start": 25,
+          "end": 35,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 107,
+            "chapterId": "psalms107",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jonah 1:11",
+          "start": 82,
+          "end": 92,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jonah",
+            "book": "jonah",
+            "chapter": 1,
+            "chapterId": "jonah1",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "there was a great calm, Matt. 8:26 (Mark 4:39; Luke 8:24).",
+      "references": [
+        {
+          "text": "Matt. 8:26",
+          "start": 24,
+          "end": 34,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 8,
+            "chapterId": "matthew8",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 4:39",
+          "start": 36,
+          "end": 45,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 4,
+            "chapterId": "mark4",
+            "verses": [
+              {
+                "start": 39,
+                "end": 39
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 8:24",
+          "start": 47,
+          "end": 56,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 8,
+            "chapterId": "luke8",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "I am calm as a summer’s morning, D&C 135:4.",
+      "references": [
+        {
+          "text": "D&C 135:4",
+          "start": 33,
+          "end": 42,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 135,
+            "chapterId": "doctrineandcovenants135",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "calm",
+  "title": "Calm",
+  "type": "tg"
+}

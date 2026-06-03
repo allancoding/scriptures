@@ -1,0 +1,74 @@
+{
+  "_id": "index-author",
+  "content": [
+    {
+      "text": "Satan is author of all sin, Hel. 6:30. author of secret band is Gadianton and the evil one, Hel. 8:28. Christ is author and finisher of members’ faith, Moro. 6:4.",
+      "references": [
+        {
+          "text": "Hel. 6:30",
+          "start": 28,
+          "end": 37,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 6,
+            "chapterId": "helaman6",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 8:28",
+          "start": 92,
+          "end": 101,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 8,
+            "chapterId": "helaman8",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moro. 6:4",
+          "start": 152,
+          "end": 161,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "moro",
+            "book": "moroni",
+            "chapter": 6,
+            "chapterId": "moroni6",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-founder",
+      "slug": "founder",
+      "title": "Founder"
+    }
+  ],
+  "slug": "author",
+  "title": "Author",
+  "type": "index"
+}

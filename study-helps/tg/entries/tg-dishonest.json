@@ -1,0 +1,66 @@
+{
+  "_id": "tg-dishonest",
+  "content": [
+    {
+      "text": "I have smitten mine hand at thy dishonest gain, Ezek. 22:13.",
+      "references": [
+        {
+          "text": "Ezek. 22:13",
+          "start": 48,
+          "end": 59,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 22,
+            "chapterId": "ezekiel22",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "have renounced the hidden things of dishonesty, 2 Cor. 4:2.",
+      "references": [
+        {
+          "text": "2 Cor. 4:2",
+          "start": 48,
+          "end": 58,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 4,
+            "chapterId": "2corinthians4",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-deceit",
+      "slug": "deceit",
+      "title": "Deceit"
+    },
+    {
+      "entryId": "tg-honesty",
+      "slug": "honesty",
+      "title": "Honesty"
+    }
+  ],
+  "slug": "dishonest",
+  "title": "Dishonest, Dishonesty",
+  "type": "tg"
+}

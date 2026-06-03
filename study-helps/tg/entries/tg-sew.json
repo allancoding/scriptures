@@ -1,0 +1,68 @@
+{
+  "_id": "tg-sew",
+  "content": [
+    {
+      "text": "they sewed fig leaves together, Gen. 3:7 (Moses 4:13). time to rend, and a time to sew, Eccl. 3:7.",
+      "references": [
+        {
+          "text": "Gen. 3:7",
+          "start": 32,
+          "end": 40,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 3,
+            "chapterId": "genesis3",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 4:13",
+          "start": 42,
+          "end": 52,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 4,
+            "chapterId": "moses4",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eccl. 3:7",
+          "start": 88,
+          "end": 97,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "eccl",
+            "book": "ecclesiastes",
+            "chapter": 3,
+            "chapterId": "ecclesiastes3",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "sew",
+  "title": "Sew",
+  "type": "tg"
+}

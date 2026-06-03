@@ -1,0 +1,844 @@
+{
+  "_id": "tg-chastening",
+  "content": [
+    {
+      "text": "I, will chastise you seven times for your sins, Lev. 26:28. as a man chasteneth his son, so the Lord, Deut. 8:5. I will chasten him with the rod of men, 2 Sam. 7:14. despise not thou the chastening of the Almighty, Job 5:17 (Prov. 3:11). I have borne chastisement, I will not offend any more, Job 34:31. Blessed is the man whom thou chastenest, Ps. 94:12. Reprove not a scorner, lest he hate thee, Prov. 9:8. he that loveth him chasteneth him betimes, Prov. 13:24. Chasten thy son while there is hope, Prov. 19:18. Withhold not correction from the child, Prov. 23:13. rod and reproof give wisdom, Prov. 29:15. poured out a prayer when thy chastening was upon them, Isa. 26:16.",
+      "references": [
+        {
+          "text": "Lev. 26:28",
+          "start": 48,
+          "end": 58,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 26,
+            "chapterId": "leviticus26",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 8:5",
+          "start": 102,
+          "end": 111,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 8,
+            "chapterId": "deuteronomy8",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Sam. 7:14",
+          "start": 153,
+          "end": 164,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-sam",
+            "book": "2samuel",
+            "chapter": 7,
+            "chapterId": "2samuel7",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Job 5:17",
+          "start": 215,
+          "end": 223,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "job",
+            "book": "job",
+            "chapter": 5,
+            "chapterId": "job5",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 3:11",
+          "start": 225,
+          "end": 235,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 3,
+            "chapterId": "proverbs3",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Job 34:31",
+          "start": 293,
+          "end": 302,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "job",
+            "book": "job",
+            "chapter": 34,
+            "chapterId": "job34",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 94:12",
+          "start": 345,
+          "end": 354,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 94,
+            "chapterId": "psalms94",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 9:8",
+          "start": 398,
+          "end": 407,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 9,
+            "chapterId": "proverbs9",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 13:24",
+          "start": 452,
+          "end": 463,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 13,
+            "chapterId": "proverbs13",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 19:18",
+          "start": 502,
+          "end": 513,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 19,
+            "chapterId": "proverbs19",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 23:13",
+          "start": 555,
+          "end": 566,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 23,
+            "chapterId": "proverbs23",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 29:15",
+          "start": 597,
+          "end": 608,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 29,
+            "chapterId": "proverbs29",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 26:16",
+          "start": 665,
+          "end": 675,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 26,
+            "chapterId": "isaiah26",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "therefore chastise him, and release him, Luke 23:16. we are chastened of the Lord, 1 Cor. 11:32. All scripture is given … for reproof, for correction, 2 Tim. 3:16. reprove, rebuke, exhort with all longsuffering, 2 Tim. 4:2. whom the Lord loveth he chasteneth, Heb. 12:6 (D&C 95:1). As many as I love, I rebuke and chasten, Rev. 3:19.",
+      "references": [
+        {
+          "text": "Luke 23:16",
+          "start": 41,
+          "end": 51,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 23,
+            "chapterId": "luke23",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 11:32",
+          "start": 83,
+          "end": 95,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 11,
+            "chapterId": "1corinthians11",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Tim. 3:16",
+          "start": 151,
+          "end": 162,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-tim",
+            "book": "2timothy",
+            "chapter": 3,
+            "chapterId": "2timothy3",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Tim. 4:2",
+          "start": 212,
+          "end": 222,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-tim",
+            "book": "2timothy",
+            "chapter": 4,
+            "chapterId": "2timothy4",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 12:6",
+          "start": 260,
+          "end": 269,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 12,
+            "chapterId": "hebrews12",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 95:1",
+          "start": 271,
+          "end": 279,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 95,
+            "chapterId": "doctrineandcovenants95",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 3:19",
+          "start": 323,
+          "end": 332,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 3,
+            "chapterId": "revelation3",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "spoken hard things against the wicked, 1 Ne. 16:2. chastened because of his murmuring, 1 Ne. 16:25. Lord seeth fit to chasten his people, Mosiah 23:21. except the Lord doth chasten … they will not remember him, Hel. 12:3. the people of Nephi hath he loved, and … chastened, Hel. 15:3. the Lord … chastened him because he remembered not to call, Ether 2:14.",
+      "references": [
+        {
+          "text": "1 Ne. 16:2",
+          "start": 39,
+          "end": 49,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 16,
+            "chapterId": "1nephi16",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Ne. 16:25",
+          "start": 87,
+          "end": 98,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 16,
+            "chapterId": "1nephi16",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 23:21",
+          "start": 138,
+          "end": 150,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 23,
+            "chapterId": "mosiah23",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 12:3",
+          "start": 211,
+          "end": 220,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 12,
+            "chapterId": "helaman12",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 15:3",
+          "start": 274,
+          "end": 283,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 15,
+            "chapterId": "helaman15",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 2:14",
+          "start": 345,
+          "end": 355,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 2,
+            "chapterId": "ether2",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "as they sinned they might be chastened, D&C 1:27. offend many … be chastened before many, D&C 42:90. until he is sufficiently chastened for all his sins, D&C 58:60. you were chastened for all your sins, D&C 61:8. for this evil they were afflicted and sorely chastened, D&C 64:8. chasten him for the murmurings of his heart, D&C 75:7. feel the … chastening hand of an Almighty God, D&C 87:6. chasten her until she overcomes, D&C 90:36. hath need to be chastened, D&C 93:50. those that must needs be chastened, D&C 97:6. the Lord, will chasten them, D&C 98:21. redeemed, although she is chastened, D&C 100:13. who will not endure chastening, D&C 101:5. be chastened for a little season, D&C 103:4. people must needs be chastened until they learn, D&C 105:6. Reproving betimes with sharpness, when moved upon by the Holy Ghost, D&C 121:43. he that will not bear chastisement is not worthy, D&C 136:31.",
+      "references": [
+        {
+          "text": "D&C 1:27",
+          "start": 40,
+          "end": 48,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 1,
+            "chapterId": "doctrineandcovenants1",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 42:90",
+          "start": 90,
+          "end": 99,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 42,
+            "chapterId": "doctrineandcovenants42",
+            "verses": [
+              {
+                "start": 90,
+                "end": 90
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 58:60",
+          "start": 154,
+          "end": 163,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 58,
+            "chapterId": "doctrineandcovenants58",
+            "verses": [
+              {
+                "start": 60,
+                "end": 60
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 61:8",
+          "start": 203,
+          "end": 211,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 61,
+            "chapterId": "doctrineandcovenants61",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 64:8",
+          "start": 269,
+          "end": 277,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 64,
+            "chapterId": "doctrineandcovenants64",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 75:7",
+          "start": 324,
+          "end": 332,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 75,
+            "chapterId": "doctrineandcovenants75",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 87:6",
+          "start": 381,
+          "end": 389,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 87,
+            "chapterId": "doctrineandcovenants87",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 90:36",
+          "start": 424,
+          "end": 433,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 90,
+            "chapterId": "doctrineandcovenants90",
+            "verses": [
+              {
+                "start": 36,
+                "end": 36
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 93:50",
+          "start": 462,
+          "end": 471,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 93,
+            "chapterId": "doctrineandcovenants93",
+            "verses": [
+              {
+                "start": 50,
+                "end": 50
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 97:6",
+          "start": 509,
+          "end": 517,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 97,
+            "chapterId": "doctrineandcovenants97",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 98:21",
+          "start": 548,
+          "end": 557,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 98,
+            "chapterId": "doctrineandcovenants98",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 100:13",
+          "start": 596,
+          "end": 606,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 100,
+            "chapterId": "doctrineandcovenants100",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 101:5",
+          "start": 640,
+          "end": 649,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 101,
+            "chapterId": "doctrineandcovenants101",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 103:4",
+          "start": 685,
+          "end": 694,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 103,
+            "chapterId": "doctrineandcovenants103",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 105:6",
+          "start": 745,
+          "end": 754,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 105,
+            "chapterId": "doctrineandcovenants105",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 121:43",
+          "start": 825,
+          "end": 835,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 43,
+                "end": 43
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 136:31",
+          "start": 887,
+          "end": 897,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 136,
+            "chapterId": "doctrineandcovenants136",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-affliction",
+      "slug": "affliction",
+      "title": "Affliction"
+    },
+    {
+      "entryId": "tg-correct",
+      "slug": "correct",
+      "title": "Correct"
+    },
+    {
+      "entryId": "tg-correction",
+      "slug": "correction",
+      "title": "Correction"
+    },
+    {
+      "entryId": "tg-exhort",
+      "slug": "exhort",
+      "title": "Exhort"
+    },
+    {
+      "entryId": "tg-family-children-responsibilities-toward",
+      "slug": "family-children-responsibilities-toward",
+      "title": "Family, Children, Responsibilities toward"
+    },
+    {
+      "entryId": "tg-punish",
+      "slug": "punish",
+      "title": "Punish"
+    },
+    {
+      "entryId": "tg-rebuke",
+      "slug": "rebuke",
+      "title": "Rebuke"
+    },
+    {
+      "entryId": "tg-reproof",
+      "slug": "reproof",
+      "title": "Reproof"
+    }
+  ],
+  "slug": "chastening",
+  "title": "Chastening",
+  "type": "tg"
+}

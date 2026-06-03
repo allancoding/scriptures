@@ -1,0 +1,97 @@
+{
+  "_id": "tg-marriage-plural",
+  "content": [
+    {
+      "text": "not any man … have save it be one wife, Jacob 2:27. if I will … raise up seed unto me, I will command, Jacob 2:30.",
+      "references": [
+        {
+          "text": "Jacob 2:27",
+          "start": 40,
+          "end": 50,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 2,
+            "chapterId": "jacob2",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jacob 2:30",
+          "start": 103,
+          "end": 113,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 2,
+            "chapterId": "jacob2",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Abraham … Isaac … Jacob did … that which they were commanded, D&C 132:37. in nothing did they sin save in those things which they received not of me, D&C 132:38.",
+      "references": [
+        {
+          "text": "D&C 132:37",
+          "start": 62,
+          "end": 72,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 132,
+            "chapterId": "doctrineandcovenants132",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 132:38",
+          "start": 150,
+          "end": 160,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 132,
+            "chapterId": "doctrineandcovenants132",
+            "verses": [
+              {
+                "start": 38,
+                "end": 38
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-apostasy-of-individuals",
+      "slug": "apostasy-of-individuals",
+      "title": "Apostasy of Individuals"
+    }
+  ],
+  "slug": "marriage-plural",
+  "title": "Marriage, Plural",
+  "type": "tg"
+}

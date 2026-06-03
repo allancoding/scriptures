@@ -1,0 +1,119 @@
+{
+  "_id": "tg-shout",
+  "content": [
+    {
+      "text": "shout unto God with the voice of triumph, Ps. 47:1.",
+      "references": [
+        {
+          "text": "Ps. 47:1",
+          "start": 42,
+          "end": 50,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 47,
+            "chapterId": "psalms47",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Lord himself shall descend from heaven with a shout, 1 Thes. 4:16.",
+      "references": [
+        {
+          "text": "1 Thes. 4:16",
+          "start": 53,
+          "end": 65,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-thes",
+            "book": "1thessalonians",
+            "chapter": 4,
+            "chapterId": "1thessalonians4",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "shout praises unto the Holy One, 2 Ne. 31:13.",
+      "references": [
+        {
+          "text": "2 Ne. 31:13",
+          "start": 33,
+          "end": 44,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 31,
+            "chapterId": "2nephi31",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "thy saints shout aloud for joy, D&C 109:80. Let the mountains shout for joy, D&C 128:23.",
+      "references": [
+        {
+          "text": "D&C 109:80",
+          "start": 32,
+          "end": 42,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 109,
+            "chapterId": "doctrineandcovenants109",
+            "verses": [
+              {
+                "start": 80,
+                "end": 80
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 128:23",
+          "start": 77,
+          "end": 87,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 128,
+            "chapterId": "doctrineandcovenants128",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "shout",
+  "title": "Shout",
+  "type": "tg"
+}

@@ -1,0 +1,50 @@
+{
+  "_id": "tg-convocation",
+  "content": [
+    {
+      "text": "in the first day … an holy convocation, Ex. 12:16. day of the firstfruits … have an holy convocation, Num. 28:26.",
+      "references": [
+        {
+          "text": "Ex. 12:16",
+          "start": 40,
+          "end": 49,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 12,
+            "chapterId": "exodus12",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 28:26",
+          "start": 102,
+          "end": 112,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 28,
+            "chapterId": "numbers28",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "convocation",
+  "title": "Convocation",
+  "type": "tg"
+}

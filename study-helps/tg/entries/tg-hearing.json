@@ -1,0 +1,151 @@
+{
+  "_id": "tg-hearing",
+  "content": [
+    {
+      "text": "a famine … of hearing the words of the Lord, Amos 8:11.",
+      "references": [
+        {
+          "text": "Amos 8:11",
+          "start": 45,
+          "end": 54,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "amos",
+            "book": "amos",
+            "chapter": 8,
+            "chapterId": "amos8",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "ears are dull of hearing, Matt. 13:15 (Moses 6:27). faith cometh by hearing, and hearing by the word, Rom. 10:17. Received ye the Spirit … by the hearing of faith, Gal. 3:2. seeing ye are dull of hearing, Heb. 5:11. in seeing and hearing, vexed his righteous soul, 2 Pet. 2:8.",
+      "references": [
+        {
+          "text": "Matt. 13:15",
+          "start": 26,
+          "end": 37,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 13,
+            "chapterId": "matthew13",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 6:27",
+          "start": 39,
+          "end": 49,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 6,
+            "chapterId": "moses6",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 10:17",
+          "start": 102,
+          "end": 112,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 10,
+            "chapterId": "romans10",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gal. 3:2",
+          "start": 164,
+          "end": 172,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "gal",
+            "book": "galatians",
+            "chapter": 3,
+            "chapterId": "galatians3",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 5:11",
+          "start": 205,
+          "end": 214,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 5,
+            "chapterId": "hebrews5",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Pet. 2:8",
+          "start": 265,
+          "end": 275,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-pet",
+            "book": "2peter",
+            "chapter": 2,
+            "chapterId": "2peter2",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-hear",
+      "slug": "hear",
+      "title": "Hear"
+    }
+  ],
+  "slug": "hearing",
+  "title": "Hearing",
+  "type": "tg"
+}

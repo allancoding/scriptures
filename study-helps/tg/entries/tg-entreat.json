@@ -1,0 +1,207 @@
+{
+  "_id": "tg-entreat",
+  "content": [
+    {
+      "text": "Lord was entreated of him, Gen. 25:21. Entreat me not to leave thee, Ruth 1:16. shall be entreated of them, and shall heal them, Isa. 19:22.",
+      "references": [
+        {
+          "text": "Gen. 25:21",
+          "start": 27,
+          "end": 37,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 25,
+            "chapterId": "genesis25",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ruth 1:16",
+          "start": 69,
+          "end": 78,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ruth",
+            "book": "ruth",
+            "chapter": 1,
+            "chapterId": "ruth1",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 19:22",
+          "start": 129,
+          "end": 139,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 19,
+            "chapterId": "isaiah19",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "suffered before, and were shamefully entreated, 1 Thes. 2:2. Rebuke not an elder, but entreat him as a father, 1 Tim. 5:1. entreated that the word should not be spoken, Heb. 12:19. gentle, and easy to be entreated, James 3:17 (Alma 7:23; Hel. 7:7).",
+      "references": [
+        {
+          "text": "1 Thes. 2:2",
+          "start": 48,
+          "end": 59,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-thes",
+            "book": "1thessalonians",
+            "chapter": 2,
+            "chapterId": "1thessalonians2",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Tim. 5:1",
+          "start": 111,
+          "end": 121,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 5,
+            "chapterId": "1timothy5",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 12:19",
+          "start": 169,
+          "end": 179,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 12,
+            "chapterId": "hebrews12",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "James 3:17",
+          "start": 215,
+          "end": 225,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "james",
+            "book": "james",
+            "chapter": 3,
+            "chapterId": "james3",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 7:23",
+          "start": 227,
+          "end": 236,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 7,
+            "chapterId": "alma7",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 7:7",
+          "start": 238,
+          "end": 246,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 7,
+            "chapterId": "helaman7",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-beg",
+      "slug": "beg",
+      "title": "Beg"
+    },
+    {
+      "entryId": "tg-beseech",
+      "slug": "beseech",
+      "title": "Beseech"
+    },
+    {
+      "entryId": "tg-inquire",
+      "slug": "inquire",
+      "title": "Inquire"
+    },
+    {
+      "entryId": "tg-petition",
+      "slug": "petition",
+      "title": "Petition"
+    },
+    {
+      "entryId": "tg-plead",
+      "slug": "plead",
+      "title": "Plead"
+    }
+  ],
+  "slug": "entreat",
+  "title": "Entreat",
+  "type": "tg"
+}

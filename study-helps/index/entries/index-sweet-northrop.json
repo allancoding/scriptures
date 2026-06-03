@@ -1,0 +1,63 @@
+{
+  "_id": "index-sweet-northrop",
+  "content": [
+    {
+      "text": "revelation to, D&C 33. is called to declare gospel, D&C 33:2. to preach repentance, D&C 33:10.",
+      "references": [
+        {
+          "text": "D&C 33",
+          "start": 15,
+          "end": 21,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 33,
+            "chapterId": "doctrineandcovenants33",
+            "verses": []
+          }
+        },
+        {
+          "text": "D&C 33:2",
+          "start": 52,
+          "end": 60,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 33,
+            "chapterId": "doctrineandcovenants33",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 33:10",
+          "start": 84,
+          "end": 93,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 33,
+            "chapterId": "doctrineandcovenants33",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "sweet-northrop",
+  "title": "Sweet, Northrop",
+  "type": "index"
+}

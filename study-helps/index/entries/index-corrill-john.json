@@ -1,0 +1,50 @@
+{
+  "_id": "index-corrill-john",
+  "content": [
+    {
+      "text": "called to labor in vineyard, D&C 50:38. to journey to Missouri, D&C 52:7.",
+      "references": [
+        {
+          "text": "D&C 50:38",
+          "start": 29,
+          "end": 38,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 50,
+            "chapterId": "doctrineandcovenants50",
+            "verses": [
+              {
+                "start": 38,
+                "end": 38
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 52:7",
+          "start": 64,
+          "end": 72,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 52,
+            "chapterId": "doctrineandcovenants52",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "corrill-john",
+  "title": "Corrill, John",
+  "type": "index"
+}

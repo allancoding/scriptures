@@ -1,0 +1,61 @@
+{
+  "_id": "index-posterity",
+  "content": [
+    {
+      "text": "Adam predicted what should befall his posterity, D&C 107:56. Saints’ enemies and their posterity shall be swept from under heaven, D&C 121:15.",
+      "references": [
+        {
+          "text": "D&C 107:56",
+          "start": 49,
+          "end": 59,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 107,
+            "chapterId": "doctrineandcovenants107",
+            "verses": [
+              {
+                "start": 56,
+                "end": 56
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 121:15",
+          "start": 131,
+          "end": 141,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-descendant",
+      "slug": "descendant",
+      "title": "Descendant"
+    },
+    {
+      "entryId": "index-seed",
+      "slug": "seed",
+      "title": "Seed"
+    }
+  ],
+  "slug": "posterity",
+  "title": "Posterity",
+  "type": "index"
+}

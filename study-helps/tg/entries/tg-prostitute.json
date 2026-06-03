@@ -1,0 +1,43 @@
+{
+  "_id": "tg-prostitute",
+  "content": [
+    {
+      "text": "Do not prostitute thy daughter, Lev. 19:29.",
+      "references": [
+        {
+          "text": "Lev. 19:29",
+          "start": 32,
+          "end": 42,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 19,
+            "chapterId": "leviticus19",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-harlot",
+      "slug": "harlot",
+      "title": "Harlot"
+    },
+    {
+      "entryId": "tg-whore",
+      "slug": "whore",
+      "title": "Whore"
+    }
+  ],
+  "slug": "prostitute",
+  "title": "Prostitute",
+  "type": "tg"
+}

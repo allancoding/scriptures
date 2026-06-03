@@ -1,0 +1,50 @@
+{
+  "_id": "index-anathoth",
+  "content": [
+    {
+      "text": "O poor Anathoth, 2 Ne. 20:30 (Isa. 10:30).",
+      "references": [
+        {
+          "text": "2 Ne. 20:30",
+          "start": 17,
+          "end": 28,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 20,
+            "chapterId": "2nephi20",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 10:30",
+          "start": 30,
+          "end": 40,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 10,
+            "chapterId": "isaiah10",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "anathoth",
+  "title": "Anathoth—Levite city near old Jerusalem",
+  "type": "index"
+}

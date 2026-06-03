@@ -1,0 +1,119 @@
+{
+  "_id": "tg-firstling",
+  "content": [
+    {
+      "text": "Abel … brought of the firstlings of his flock, Gen. 4:4 (Moses 5:5, 20). firstling … should be the Lord’s, Lev. 27:26. firstling males that come of thy herd … sanctify, Deut. 15:19.",
+      "references": [
+        {
+          "text": "Gen. 4:4",
+          "start": 47,
+          "end": 55,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 4,
+            "chapterId": "genesis4",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 5:5, 20",
+          "start": 57,
+          "end": 70,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 5,
+            "chapterId": "moses5",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              },
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Lev. 27:26",
+          "start": 107,
+          "end": 117,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 27,
+            "chapterId": "leviticus27",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 15:19",
+          "start": 169,
+          "end": 180,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 15,
+            "chapterId": "deuteronomy15",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "took of the firstlings of their flocks, Mosiah 2:3.",
+      "references": [
+        {
+          "text": "Mosiah 2:3",
+          "start": 40,
+          "end": 50,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 2,
+            "chapterId": "mosiah2",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-sacrifice",
+      "slug": "sacrifice",
+      "title": "Sacrifice"
+    }
+  ],
+  "slug": "firstling",
+  "title": "Firstling",
+  "type": "tg"
+}

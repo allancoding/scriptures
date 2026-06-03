@@ -1,0 +1,79 @@
+{
+  "_id": "index-athirst",
+  "content": [
+    {
+      "text": "Church members do not send away those who are athirst, Alma 1:30. some Church members turn backs on those who are athirst, Alma 4:12.",
+      "references": [
+        {
+          "text": "Alma 1:30",
+          "start": 55,
+          "end": 64,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 1,
+            "chapterId": "alma1",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 4:12",
+          "start": 123,
+          "end": 132,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 4,
+            "chapterId": "alma4",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "those who preach gospel faithfully shall not go athirst, D&C 84:80.",
+      "references": [
+        {
+          "text": "D&C 84:80",
+          "start": 57,
+          "end": 66,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 84,
+            "chapterId": "doctrineandcovenants84",
+            "verses": [
+              {
+                "start": 80,
+                "end": 80
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-thirst",
+      "slug": "thirst",
+      "title": "Thirst"
+    }
+  ],
+  "slug": "athirst",
+  "title": "Athirst",
+  "type": "index"
+}

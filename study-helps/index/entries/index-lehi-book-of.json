@@ -1,0 +1,79 @@
+{
+  "_id": "index-lehi-book-of",
+  "content": [
+    {
+      "text": "Nephi1 engraves record of Lehi on plates, 1 Ne. 19:1.",
+      "references": [
+        {
+          "text": "1 Ne. 19:1",
+          "start": 42,
+          "end": 52,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 19,
+            "chapterId": "1nephi19",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "lost 116 pages of manuscript from, D&C 3: Intro. wicked men make alterations in, D&C 10: Intro.",
+      "references": [
+        {
+          "text": "D&C 3: Intro.",
+          "start": 35,
+          "end": 48,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 3,
+            "chapterId": "doctrineandcovenants3",
+            "verses": []
+          }
+        },
+        {
+          "text": "D&C 10: Intro.",
+          "start": 81,
+          "end": 95,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 10,
+            "chapterId": "doctrineandcovenants10",
+            "verses": []
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-book",
+      "slug": "book",
+      "title": "Book"
+    },
+    {
+      "entryId": "index-book-of-mormon",
+      "slug": "book-of-mormon",
+      "title": "Book of Mormon"
+    },
+    {
+      "entryId": "index-manuscript-lost",
+      "slug": "manuscript-lost",
+      "title": "Manuscript, Lost"
+    }
+  ],
+  "slug": "lehi-book-of",
+  "title": "Lehi, Book of",
+  "type": "index"
+}

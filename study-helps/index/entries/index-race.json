@@ -1,0 +1,50 @@
+{
+  "_id": "index-race",
+  "content": [
+    {
+      "text": "priesthood extended to all worthy male members without regard to race, OD 2.",
+      "references": [
+        {
+          "text": "OD 2",
+          "start": 71,
+          "end": 75,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "od",
+            "book": "officialdeclaration",
+            "chapter": 2,
+            "chapterId": "officialdeclaration2",
+            "verses": []
+          }
+        }
+      ]
+    },
+    {
+      "text": "from Ham sprang race that preserved curse of land, Abr. 1:24.",
+      "references": [
+        {
+          "text": "Abr. 1:24",
+          "start": 51,
+          "end": 60,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 1,
+            "chapterId": "abraham1",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "race",
+  "title": "Race",
+  "type": "index"
+}

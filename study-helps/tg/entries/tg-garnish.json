@@ -1,0 +1,120 @@
+{
+  "_id": "tg-garnish",
+  "content": [
+    {
+      "text": "By his spirit he hath garnished the heavens, Job 26:13.",
+      "references": [
+        {
+          "text": "Job 26:13",
+          "start": 45,
+          "end": 54,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "job",
+            "book": "job",
+            "chapter": 26,
+            "chapterId": "job26",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "findeth it empty, swept, and garnished, Matt. 12:44 (Luke 11:25). garnish the sepulchres of the righteous, Matt. 23:29.",
+      "references": [
+        {
+          "text": "Matt. 12:44",
+          "start": 40,
+          "end": 51,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 12,
+            "chapterId": "matthew12",
+            "verses": [
+              {
+                "start": 44,
+                "end": 44
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 11:25",
+          "start": 53,
+          "end": 63,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 11,
+            "chapterId": "luke11",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 23:29",
+          "start": 107,
+          "end": 118,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 23,
+            "chapterId": "matthew23",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "let virtue garnish thy thoughts unceasingly, D&C 121:45.",
+      "references": [
+        {
+          "text": "D&C 121:45",
+          "start": 45,
+          "end": 55,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 45,
+                "end": 45
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-adorn",
+      "slug": "adorn",
+      "title": "Adorn"
+    }
+  ],
+  "slug": "garnish",
+  "title": "Garnish",
+  "type": "tg"
+}

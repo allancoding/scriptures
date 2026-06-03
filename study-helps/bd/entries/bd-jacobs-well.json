@@ -1,0 +1,68 @@
+{
+  "_id": "bd-jacobs-well",
+  "content": [
+    {
+      "text": "The scene of our Lord’s conversation with the woman of Samaria (John 4:1–42); a well of the same name still exists, 75 feet deep, near Nablus, the ancient Shechem, close to the main road from Judea to Galilee. Shechem was Jacob’s home for some years after his return from Laban (Gen. 33:18; 37:12).",
+      "references": [
+        {
+          "text": "John 4:1–42",
+          "start": 64,
+          "end": 75,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 4,
+            "chapterId": "john4",
+            "verses": [
+              {
+                "start": 1,
+                "end": 42
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 33:18",
+          "start": 279,
+          "end": 289,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 33,
+            "chapterId": "genesis33",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "37:12",
+          "start": 291,
+          "end": 296,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 37,
+            "chapterId": "genesis37",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "jacobs-well",
+  "title": "Jacob’s Well",
+  "type": "bd"
+}

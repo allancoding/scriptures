@@ -1,0 +1,50 @@
+{
+  "_id": "tg-midwife",
+  "content": [
+    {
+      "text": "midwife said unto her, Fear not, Gen. 35:17. midwives feared God, Ex. 1:17.",
+      "references": [
+        {
+          "text": "Gen. 35:17",
+          "start": 33,
+          "end": 43,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 35,
+            "chapterId": "genesis35",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 1:17",
+          "start": 66,
+          "end": 74,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 1,
+            "chapterId": "exodus1",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "midwife",
+  "title": "Midwife, Midwives",
+  "type": "tg"
+}

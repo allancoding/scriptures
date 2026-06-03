@@ -1,0 +1,32 @@
+{
+  "_id": "index-mormon-1",
+  "content": [
+    {
+      "text": "father of Mormon2, Morm. 1:5.",
+      "references": [
+        {
+          "text": "Morm. 1:5",
+          "start": 19,
+          "end": 28,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 1,
+            "chapterId": "mormon1",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "mormon-1",
+  "title": "Mormon1 [c. A.D. 322]",
+  "type": "index"
+}

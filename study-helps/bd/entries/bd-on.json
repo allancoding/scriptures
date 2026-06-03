@@ -1,0 +1,77 @@
+{
+  "_id": "bd-on",
+  "content": [
+    {
+      "text": "(1) A Reubenite (Num. 16:1).",
+      "references": [
+        {
+          "text": "Num. 16:1",
+          "start": 17,
+          "end": 26,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 16,
+            "chapterId": "numbers16",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "(2) Heliopolis (city of the sun), in Egypt (Gen. 41:45, 50; 46:20).",
+      "references": [
+        {
+          "text": "Gen. 41:45, 50",
+          "start": 44,
+          "end": 58,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 41,
+            "chapterId": "genesis41",
+            "verses": [
+              {
+                "start": 45,
+                "end": 45
+              },
+              {
+                "start": 50,
+                "end": 50
+              }
+            ]
+          }
+        },
+        {
+          "text": "46:20",
+          "start": 60,
+          "end": 65,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 46,
+            "chapterId": "genesis46",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "on",
+  "title": "On",
+  "type": "bd"
+}

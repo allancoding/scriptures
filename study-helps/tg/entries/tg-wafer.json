@@ -1,0 +1,74 @@
+{
+  "_id": "tg-wafer",
+  "content": [
+    {
+      "text": "Manna … taste of it was like wafers made with honey, Ex. 16:31. unleavened wafers anointed with oil, Lev. 2:4 (7:12).",
+      "references": [
+        {
+          "text": "Ex. 16:31",
+          "start": 53,
+          "end": 62,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 16,
+            "chapterId": "exodus16",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "Lev. 2:4",
+          "start": 101,
+          "end": 109,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 2,
+            "chapterId": "leviticus2",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "7:12",
+          "start": 111,
+          "end": 115,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 7,
+            "chapterId": "leviticus7",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-manna",
+      "slug": "manna",
+      "title": "Manna"
+    }
+  ],
+  "slug": "wafer",
+  "title": "Wafer",
+  "type": "tg"
+}

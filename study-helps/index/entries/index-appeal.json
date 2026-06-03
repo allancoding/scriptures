@@ -1,0 +1,120 @@
+{
+  "_id": "index-appeal",
+  "content": [
+    {
+      "text": "you must appeal unto the Lord, Alma 37:16.",
+      "references": [
+        {
+          "text": "Alma 37:16",
+          "start": 31,
+          "end": 41,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 37,
+            "chapterId": "alma37",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "appeal to the Spirit, D&C 11:18. appeal to First Presidency in judicial proceedings, D&C 102:33. conditions of no appeal from decisions, D&C 107:32. men should appeal to civil law for redress of wrongs, D&C 134:11.",
+      "references": [
+        {
+          "text": "D&C 11:18",
+          "start": 22,
+          "end": 31,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 11,
+            "chapterId": "doctrineandcovenants11",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 102:33",
+          "start": 85,
+          "end": 95,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 102,
+            "chapterId": "doctrineandcovenants102",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 107:32",
+          "start": 137,
+          "end": 147,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 107,
+            "chapterId": "doctrineandcovenants107",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 134:11",
+          "start": 203,
+          "end": 213,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 134,
+            "chapterId": "doctrineandcovenants134",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-plead",
+      "slug": "plead",
+      "title": "Plead"
+    },
+    {
+      "entryId": "index-trial-law",
+      "slug": "trial-law",
+      "title": "Trial [law]"
+    }
+  ],
+  "slug": "appeal",
+  "title": "Appeal",
+  "type": "index"
+}

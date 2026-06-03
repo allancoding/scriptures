@@ -1,0 +1,166 @@
+{
+  "_id": "tg-valiant",
+  "content": [
+    {
+      "text": "Jesse … a mighty valiant man, 1 Sam. 16:18. they are not valiant for the truth, Jer. 9:3. valiant men are in scarlet, Nahum 2:3.",
+      "references": [
+        {
+          "text": "1 Sam. 16:18",
+          "start": 30,
+          "end": 42,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 16,
+            "chapterId": "1samuel16",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 9:3",
+          "start": 80,
+          "end": 88,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 9,
+            "chapterId": "jeremiah9",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Nahum 2:3",
+          "start": 118,
+          "end": 127,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "nahum",
+            "book": "nahum",
+            "chapter": 2,
+            "chapterId": "nahum2",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "made strong, waxed valiant in fight, Heb. 11:34.",
+      "references": [
+        {
+          "text": "Heb. 11:34",
+          "start": 37,
+          "end": 47,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 11,
+            "chapterId": "hebrews11",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "they were exceedingly valiant for courage, Alma 53:20 (56:13).",
+      "references": [
+        {
+          "text": "Alma 53:20",
+          "start": 43,
+          "end": 53,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 53,
+            "chapterId": "alma53",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "56:13",
+          "start": 55,
+          "end": 60,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 56,
+            "chapterId": "alma56",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "they who are not valiant in the testimony, D&C 76:79.",
+      "references": [
+        {
+          "text": "D&C 76:79",
+          "start": 43,
+          "end": 52,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 76,
+            "chapterId": "doctrineandcovenants76",
+            "verses": [
+              {
+                "start": 79,
+                "end": 79
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-courage",
+      "slug": "courage",
+      "title": "Courage"
+    },
+    {
+      "entryId": "tg-valiantly",
+      "slug": "valiantly",
+      "title": "Valiantly"
+    }
+  ],
+  "slug": "valiant",
+  "title": "Valiant",
+  "type": "tg"
+}

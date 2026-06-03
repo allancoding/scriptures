@@ -1,0 +1,50 @@
+{
+  "_id": "tg-unseemly",
+  "content": [
+    {
+      "text": "men with men working that which is unseemly, Rom. 1:27. Doth not behave itself unseemly, 1 Cor. 13:5.",
+      "references": [
+        {
+          "text": "Rom. 1:27",
+          "start": 45,
+          "end": 54,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 1,
+            "chapterId": "romans1",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 13:5",
+          "start": 89,
+          "end": 100,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 13,
+            "chapterId": "1corinthians13",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "unseemly",
+  "title": "Unseemly",
+  "type": "tg"
+}

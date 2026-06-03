@@ -1,0 +1,43 @@
+{
+  "_id": "index-meditate",
+  "content": [
+    {
+      "text": "while Joseph Smith and Sidney Rigdon meditated, the Lord touches eyes of understanding, D&C 76:19.",
+      "references": [
+        {
+          "text": "D&C 76:19",
+          "start": 88,
+          "end": 97,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 76,
+            "chapterId": "doctrineandcovenants76",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-ponder",
+      "slug": "ponder",
+      "title": "Ponder"
+    },
+    {
+      "entryId": "index-think",
+      "slug": "think",
+      "title": "Think"
+    }
+  ],
+  "slug": "meditate",
+  "title": "Meditate",
+  "type": "index"
+}

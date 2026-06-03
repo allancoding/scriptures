@@ -1,0 +1,43 @@
+{
+  "_id": "index-worshiper",
+  "content": [
+    {
+      "text": "true worshipers of Christ are called Nephites, Jacobites, Josephites, and Zoramites1, 4 Ne. 1:37.",
+      "references": [
+        {
+          "text": "4 Ne. 1:37",
+          "start": 86,
+          "end": 96,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "4-ne",
+            "book": "4nephi",
+            "chapter": 1,
+            "chapterId": "4nephi1",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-believer",
+      "slug": "believer",
+      "title": "Believer"
+    },
+    {
+      "entryId": "index-worship",
+      "slug": "worship",
+      "title": "Worship"
+    }
+  ],
+  "slug": "worshiper",
+  "title": "Worshiper",
+  "type": "index"
+}

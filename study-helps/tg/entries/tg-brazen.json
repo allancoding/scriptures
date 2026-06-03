@@ -1,0 +1,55 @@
+{
+  "_id": "tg-brazen",
+  "content": [
+    {
+      "text": "brake in pieces the brasen serpent, 2 Kgs. 18:4.",
+      "references": [
+        {
+          "text": "2 Kgs. 18:4",
+          "start": 36,
+          "end": 47,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 18,
+            "chapterId": "2kings18",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "lifted up the brazen serpent, Hel. 8:14.",
+      "references": [
+        {
+          "text": "Hel. 8:14",
+          "start": 30,
+          "end": 39,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 8,
+            "chapterId": "helaman8",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "brazen",
+  "title": "Brazen",
+  "type": "tg"
+}

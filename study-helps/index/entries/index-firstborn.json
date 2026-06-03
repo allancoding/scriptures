@@ -1,0 +1,107 @@
+{
+  "_id": "index-firstborn",
+  "content": [
+    {
+      "text": "Jacob2, my firstborn in days of tribulation, 2 Ne. 2:1. Lehi1 speaks to children of his firstborn Laman1, 2 Ne. 4:3.",
+      "references": [
+        {
+          "text": "2 Ne. 2:1",
+          "start": 45,
+          "end": 54,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 2,
+            "chapterId": "2nephi2",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 4:3",
+          "start": 106,
+          "end": 115,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 4,
+            "chapterId": "2nephi4",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "firstborn among sons of Aaron holds right of presidency over Aaronic Priesthood, D&C 68:16–17.",
+      "references": [
+        {
+          "text": "D&C 68:16–17",
+          "start": 81,
+          "end": 93,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 68,
+            "chapterId": "doctrineandcovenants68",
+            "verses": [
+              {
+                "start": 16,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "priesthood, right of firstborn, came down from fathers, Abr. 1:3.",
+      "references": [
+        {
+          "text": "Abr. 1:3",
+          "start": 56,
+          "end": 64,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 1,
+            "chapterId": "abraham1",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-church-of-the-firstborn",
+      "slug": "church-of-the-firstborn",
+      "title": "Church of the Firstborn"
+    },
+    {
+      "entryId": "index-firstling",
+      "slug": "firstling",
+      "title": "Firstling"
+    }
+  ],
+  "slug": "firstborn",
+  "title": "Firstborn",
+  "type": "index"
+}

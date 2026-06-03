@@ -1,0 +1,54 @@
+{
+  "_id": "index-unconquerable",
+  "content": [
+    {
+      "text": "Jacob3 has unconquerable spirit, Alma 52:33. robbers have unconquerable spirit, 3 Ne. 3:1, 4.",
+      "references": [
+        {
+          "text": "Alma 52:33",
+          "start": 33,
+          "end": 43,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 52,
+            "chapterId": "alma52",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 3:1, 4",
+          "start": 80,
+          "end": 92,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 3,
+            "chapterId": "3nephi3",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              },
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "unconquerable",
+  "title": "Unconquerable",
+  "type": "index"
+}

@@ -1,0 +1,138 @@
+{
+  "_id": "tg-respecter",
+  "content": [
+    {
+      "text": "God is no respecter of persons, Acts 10:34. same Lord over all is rich unto all, Rom. 10:12.",
+      "references": [
+        {
+          "text": "Acts 10:34",
+          "start": 32,
+          "end": 42,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 10,
+            "chapterId": "acts10",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 10:12",
+          "start": 81,
+          "end": 91,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 10,
+            "chapterId": "romans10",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "if not so, God is … a respecter to persons, Moro. 8:12.",
+      "references": [
+        {
+          "text": "Moro. 8:12",
+          "start": 44,
+          "end": 54,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "moro",
+            "book": "moroni",
+            "chapter": 8,
+            "chapterId": "moroni8",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "I am no respecter of persons, D&C 1:35 (38:16). twelve sons, and is no respecter of them, D&C 38:26.",
+      "references": [
+        {
+          "text": "D&C 1:35",
+          "start": 30,
+          "end": 38,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 1,
+            "chapterId": "doctrineandcovenants1",
+            "verses": [
+              {
+                "start": 35,
+                "end": 35
+              }
+            ]
+          }
+        },
+        {
+          "text": "38:16",
+          "start": 40,
+          "end": 45,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 38,
+            "chapterId": "doctrineandcovenants38",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 38:26",
+          "start": 90,
+          "end": 99,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 38,
+            "chapterId": "doctrineandcovenants38",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-respect",
+      "slug": "respect",
+      "title": "Respect"
+    }
+  ],
+  "slug": "respecter",
+  "title": "Respecter",
+  "type": "tg"
+}

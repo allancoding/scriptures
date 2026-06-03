@@ -1,0 +1,73 @@
+{
+  "_id": "tg-repetition",
+  "content": [
+    {
+      "text": "when ye pray, use not vain repetitions, Matt. 6:7 (3 Ne. 13:7).",
+      "references": [
+        {
+          "text": "Matt. 6:7",
+          "start": 40,
+          "end": 49,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 6,
+            "chapterId": "matthew6",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 13:7",
+          "start": 51,
+          "end": 61,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 13,
+            "chapterId": "3nephi13",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "out of respect or reverence … avoid the too frequent repetition of his name, D&C 107:4.",
+      "references": [
+        {
+          "text": "D&C 107:4",
+          "start": 77,
+          "end": 86,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 107,
+            "chapterId": "doctrineandcovenants107",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "repetition",
+  "title": "Repetition",
+  "type": "tg"
+}

@@ -1,0 +1,56 @@
+{
+  "_id": "index-egyptus",
+  "content": [
+    {
+      "text": "Egypt discovered by daughter of Egyptus, Abr. 1:23. Egyptus signifies Egypt, that which is forbidden, Abr. 1:23.",
+      "references": [
+        {
+          "text": "Abr. 1:23",
+          "start": 41,
+          "end": 50,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 1,
+            "chapterId": "abraham1",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Abr. 1:23",
+          "start": 102,
+          "end": 111,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 1,
+            "chapterId": "abraham1",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-egypt",
+      "slug": "egypt",
+      "title": "Egypt"
+    }
+  ],
+  "slug": "egyptus",
+  "title": "Egyptus",
+  "type": "index"
+}

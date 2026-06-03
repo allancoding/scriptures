@@ -1,0 +1,68 @@
+{
+  "_id": "bd-lords-supper",
+  "content": [
+    {
+      "text": "The last meal Jesus ate with the Twelve before His arrest and crucifixion (John 13:2–4; 21:20; 1 Cor. 11:20). See also Communion.",
+      "references": [
+        {
+          "text": "John 13:2–4",
+          "start": 75,
+          "end": 86,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 13,
+            "chapterId": "john13",
+            "verses": [
+              {
+                "start": 2,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "21:20",
+          "start": 88,
+          "end": 93,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 21,
+            "chapterId": "john21",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 11:20",
+          "start": 95,
+          "end": 107,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 11,
+            "chapterId": "1corinthians11",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "lords-supper",
+  "title": "Lord’s Supper",
+  "type": "bd"
+}

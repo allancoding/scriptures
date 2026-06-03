@@ -1,0 +1,56 @@
+{
+  "_id": "index-situation",
+  "content": [
+    {
+      "text": "awake to remembrance of awful situation of transgressors, Mosiah 2:40. when secret combinations come among Gentiles, they should awake to sense of awful situation, Ether 8:24.",
+      "references": [
+        {
+          "text": "Mosiah 2:40",
+          "start": 58,
+          "end": 69,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 2,
+            "chapterId": "mosiah2",
+            "verses": [
+              {
+                "start": 40,
+                "end": 40
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 8:24",
+          "start": 164,
+          "end": 174,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 8,
+            "chapterId": "ether8",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-crisis",
+      "slug": "crisis",
+      "title": "Crisis"
+    }
+  ],
+  "slug": "situation",
+  "title": "Situation",
+  "type": "index"
+}

@@ -1,0 +1,56 @@
+{
+  "_id": "index-incorruptible",
+  "content": [
+    {
+      "text": "all men shall become incorruptible, 2 Ne. 9:13. bodies moldering in corruption must become incorruptible, Morm. 6:21.",
+      "references": [
+        {
+          "text": "2 Ne. 9:13",
+          "start": 36,
+          "end": 46,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 9,
+            "chapterId": "2nephi9",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 6:21",
+          "start": 106,
+          "end": 116,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 6,
+            "chapterId": "mormon6",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-immortality",
+      "slug": "immortality",
+      "title": "Immortality"
+    }
+  ],
+  "slug": "incorruptible",
+  "title": "Incorruptible",
+  "type": "index"
+}

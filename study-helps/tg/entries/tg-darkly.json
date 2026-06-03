@@ -1,0 +1,32 @@
+{
+  "_id": "tg-darkly",
+  "content": [
+    {
+      "text": "now we see through a glass, darkly, 1 Cor. 13:12.",
+      "references": [
+        {
+          "text": "1 Cor. 13:12",
+          "start": 36,
+          "end": 48,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 13,
+            "chapterId": "1corinthians13",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "darkly",
+  "title": "Darkly",
+  "type": "tg"
+}

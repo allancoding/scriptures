@@ -1,0 +1,68 @@
+{
+  "_id": "bd-leviathan",
+  "content": [
+    {
+      "text": "Any great sea or land monster, such as the crocodile, either as an actual creature (Job 41:1) or as symbolic of a nation (Ps. 74:14); a large serpent (Isa. 27:1).",
+      "references": [
+        {
+          "text": "Job 41:1",
+          "start": 84,
+          "end": 92,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "job",
+            "book": "job",
+            "chapter": 41,
+            "chapterId": "job41",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 74:14",
+          "start": 122,
+          "end": 131,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 74,
+            "chapterId": "psalms74",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 27:1",
+          "start": 151,
+          "end": 160,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 27,
+            "chapterId": "isaiah27",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "leviathan",
+  "title": "Leviathan",
+  "type": "bd"
+}

@@ -1,0 +1,688 @@
+{
+  "_id": "tg-brother",
+  "content": [
+    {
+      "text": "Am I my brother’s keeper, Gen. 4:9 (Moses 5:34). Abram took … Lot his brother’s son, Gen. 12:5. He is my brother, Gen. 20:5. Nahor, Abraham’s brother, Gen. 22:23. shalt serve thy brother, Gen. 27:40. Ye shall not see my face, except your brother be with you, Gen. 43:5 (44:23). perform the duty of an husband’s brother unto her, Deut. 25:5. slothful … is brother to him that is a great waster, Prov. 18:9. no man shall spare his brother, Isa. 9:19. trust ye not in any brother, Jer. 9:4. every man’s sword shall be against his brother, Ezek. 38:21. they hunt every man his brother, Micah 7:2. Was not Esau Jacob’s brother, Mal. 1:2.",
+      "references": [
+        {
+          "text": "Gen. 4:9",
+          "start": 26,
+          "end": 34,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 4,
+            "chapterId": "genesis4",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 5:34",
+          "start": 36,
+          "end": 46,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 5,
+            "chapterId": "moses5",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 12:5",
+          "start": 85,
+          "end": 94,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 12,
+            "chapterId": "genesis12",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 20:5",
+          "start": 114,
+          "end": 123,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 20,
+            "chapterId": "genesis20",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 22:23",
+          "start": 151,
+          "end": 161,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 22,
+            "chapterId": "genesis22",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 27:40",
+          "start": 188,
+          "end": 198,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 27,
+            "chapterId": "genesis27",
+            "verses": [
+              {
+                "start": 40,
+                "end": 40
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 43:5",
+          "start": 259,
+          "end": 268,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 43,
+            "chapterId": "genesis43",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "44:23",
+          "start": 270,
+          "end": 275,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 44,
+            "chapterId": "genesis44",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 25:5",
+          "start": 329,
+          "end": 339,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 25,
+            "chapterId": "deuteronomy25",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 18:9",
+          "start": 394,
+          "end": 404,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 18,
+            "chapterId": "proverbs18",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 9:19",
+          "start": 438,
+          "end": 447,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 9,
+            "chapterId": "isaiah9",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 9:4",
+          "start": 478,
+          "end": 486,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 9,
+            "chapterId": "jeremiah9",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 38:21",
+          "start": 536,
+          "end": 547,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 38,
+            "chapterId": "ezekiel38",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Micah 7:2",
+          "start": 582,
+          "end": 591,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "micah",
+            "book": "micah",
+            "chapter": 7,
+            "chapterId": "micah7",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mal. 1:2",
+          "start": 623,
+          "end": 631,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "mal",
+            "book": "malachi",
+            "chapter": 1,
+            "chapterId": "malachi1",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "angry with his brother without a cause, Matt. 5:22 (3 Ne. 12:22). the brother shall deliver up the brother, Matt. 10:21 (Mark 13:12). brother shall trespass against thee, Matt. 18:15. how oft shall my brother sin against me, Matt. 18:21. brother shall marry his wife, Matt. 22:24 (Mark 12:19; Luke 20:28). Is not this … the brother of James, Mark 6:3. thy brother was dead, and is alive, Luke 15:32. thou judge thy brother? … set at nought thy brother, Rom. 14:10. nor any thing whereby thy brother stumbleth, Rom. 14:21. brother goeth to law with brother, 1 Cor. 6:6. through thy knowledge shall the weak brother perish, 1 Cor. 8:11. James the Lord’s brother, Gal. 1:19. not of God, neither he that loveth not his brother, 1 Jn. 3:10. seeth his brother have need, and shutteth up, 1 Jn. 3:17.",
+      "references": [
+        {
+          "text": "Matt. 5:22",
+          "start": 40,
+          "end": 50,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 5,
+            "chapterId": "matthew5",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 12:22",
+          "start": 52,
+          "end": 63,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 12,
+            "chapterId": "3nephi12",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 10:21",
+          "start": 108,
+          "end": 119,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 10,
+            "chapterId": "matthew10",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 13:12",
+          "start": 121,
+          "end": 131,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 13,
+            "chapterId": "mark13",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 18:15",
+          "start": 171,
+          "end": 182,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 18,
+            "chapterId": "matthew18",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 18:21",
+          "start": 225,
+          "end": 236,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 18,
+            "chapterId": "matthew18",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 22:24",
+          "start": 268,
+          "end": 279,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 22,
+            "chapterId": "matthew22",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 12:19",
+          "start": 281,
+          "end": 291,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 12,
+            "chapterId": "mark12",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 20:28",
+          "start": 293,
+          "end": 303,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 20,
+            "chapterId": "luke20",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 6:3",
+          "start": 342,
+          "end": 350,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 6,
+            "chapterId": "mark6",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 15:32",
+          "start": 388,
+          "end": 398,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 15,
+            "chapterId": "luke15",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 14:10",
+          "start": 453,
+          "end": 463,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 14,
+            "chapterId": "romans14",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 14:21",
+          "start": 510,
+          "end": 520,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 14,
+            "chapterId": "romans14",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 6:6",
+          "start": 557,
+          "end": 567,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 6,
+            "chapterId": "1corinthians6",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 8:11",
+          "start": 622,
+          "end": 633,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 8,
+            "chapterId": "1corinthians8",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gal. 1:19",
+          "start": 661,
+          "end": 670,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "gal",
+            "book": "galatians",
+            "chapter": 1,
+            "chapterId": "galatians1",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Jn. 3:10",
+          "start": 724,
+          "end": 734,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-jn",
+            "book": "1john",
+            "chapter": 3,
+            "chapterId": "1john3",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Jn. 3:17",
+          "start": 782,
+          "end": 792,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-jn",
+            "book": "1john",
+            "chapter": 3,
+            "chapterId": "1john3",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "make a mock of his brother, Alma 5:30.",
+      "references": [
+        {
+          "text": "Alma 5:30",
+          "start": 28,
+          "end": 37,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 5,
+            "chapterId": "alma5",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "let every man esteem his brother as himself, D&C 38:24.",
+      "references": [
+        {
+          "text": "D&C 38:24",
+          "start": 45,
+          "end": 54,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 38,
+            "chapterId": "doctrineandcovenants38",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "a man’s hand was against his own brother, Moses 6:15.",
+      "references": [
+        {
+          "text": "Moses 6:15",
+          "start": 42,
+          "end": 52,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 6,
+            "chapterId": "moses6",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-brethren",
+      "slug": "brethren",
+      "title": "Brethren"
+    }
+  ],
+  "slug": "brother",
+  "title": "Brother",
+  "type": "tg"
+}

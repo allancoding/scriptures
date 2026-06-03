@@ -1,0 +1,79 @@
+{
+  "_id": "index-union",
+  "content": [
+    {
+      "text": "union between people of lands of Morianton and Lehi, Alma 50:36.",
+      "references": [
+        {
+          "text": "Alma 50:36",
+          "start": 53,
+          "end": 63,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 50,
+            "chapterId": "alma50",
+            "verses": [
+              {
+                "start": 36,
+                "end": 36
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "union required by law of celestial kingdom, D&C 105:4. necessary that whole, complete, and perfect union should take place, D&C 128:18.",
+      "references": [
+        {
+          "text": "D&C 105:4",
+          "start": 44,
+          "end": 53,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 105,
+            "chapterId": "doctrineandcovenants105",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 128:18",
+          "start": 124,
+          "end": 134,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 128,
+            "chapterId": "doctrineandcovenants128",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-unite",
+      "slug": "unite",
+      "title": "Unite"
+    }
+  ],
+  "slug": "union",
+  "title": "Union",
+  "type": "index"
+}

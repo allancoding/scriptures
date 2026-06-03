@@ -1,0 +1,104 @@
+{
+  "_id": "bd-captain",
+  "content": [
+    {
+      "text": "(Luke 22:4; Acts 4:1; 5:24). Not a military officer, but one in charge of the priests and Levites who formed the temple police and kept watch by night (2 Kgs. 12:9; 25:18).",
+      "references": [
+        {
+          "text": "Luke 22:4",
+          "start": 1,
+          "end": 10,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 22,
+            "chapterId": "luke22",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 4:1",
+          "start": 12,
+          "end": 20,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 4,
+            "chapterId": "acts4",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "5:24",
+          "start": 22,
+          "end": 26,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 5,
+            "chapterId": "acts5",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Kgs. 12:9",
+          "start": 152,
+          "end": 163,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 12,
+            "chapterId": "2kings12",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "25:18",
+          "start": 165,
+          "end": 170,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 25,
+            "chapterId": "2kings25",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "captain",
+  "title": "Captain of the Temple",
+  "type": "bd"
+}

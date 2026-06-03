@@ -1,0 +1,45 @@
+{
+  "_id": "index-shakers",
+  "content": [
+    {
+      "text": "Leman Copley held to teachings of Shakers, D&C 49: Intro. missionaries called to preach gospel to Shakers, D&C 49:1.",
+      "references": [
+        {
+          "text": "D&C 49: Intro.",
+          "start": 43,
+          "end": 57,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 49,
+            "chapterId": "doctrineandcovenants49",
+            "verses": []
+          }
+        },
+        {
+          "text": "D&C 49:1",
+          "start": 107,
+          "end": 115,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 49,
+            "chapterId": "doctrineandcovenants49",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "shakers",
+  "title": "Shakers",
+  "type": "index"
+}

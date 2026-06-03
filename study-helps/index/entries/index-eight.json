@@ -1,0 +1,38 @@
+{
+  "_id": "index-eight",
+  "content": [
+    {
+      "text": "in days of Noah1, eight souls were saved, D&C 138:9.",
+      "references": [
+        {
+          "text": "D&C 138:9",
+          "start": 42,
+          "end": 51,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 138,
+            "chapterId": "doctrineandcovenants138",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-accountability-age-of",
+      "slug": "accountability-age-of",
+      "title": "Accountability, Age of"
+    }
+  ],
+  "slug": "eight",
+  "title": "Eight",
+  "type": "index"
+}

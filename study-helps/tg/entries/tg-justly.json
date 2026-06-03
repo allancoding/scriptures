@@ -1,0 +1,107 @@
+{
+  "_id": "tg-justly",
+  "content": [
+    {
+      "text": "do justly, and to love mercy, Micah 6:8.",
+      "references": [
+        {
+          "text": "Micah 6:8",
+          "start": 30,
+          "end": 39,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "micah",
+            "book": "micah",
+            "chapter": 6,
+            "chapterId": "micah6",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "deal justly, judge righteously, Alma 41:14.",
+      "references": [
+        {
+          "text": "Alma 41:14",
+          "start": 32,
+          "end": 42,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 41,
+            "chapterId": "alma41",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Spirit which leadeth … to do justly, D&C 11:12.",
+      "references": [
+        {
+          "text": "D&C 11:12",
+          "start": 37,
+          "end": 46,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 11,
+            "chapterId": "doctrineandcovenants11",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Pharaoh … judged his people wisely and justly, Abr. 1:26.",
+      "references": [
+        {
+          "text": "Abr. 1:26",
+          "start": 47,
+          "end": 56,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 1,
+            "chapterId": "abraham1",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-just",
+      "slug": "just",
+      "title": "Just"
+    }
+  ],
+  "slug": "justly",
+  "title": "Justly",
+  "type": "tg"
+}

@@ -1,0 +1,477 @@
+{
+  "_id": "tg-nature-earth",
+  "content": [
+    {
+      "text": "God created the heaven and the earth, Gen. 1:1 (Moses 2:1; Abr. 4:1). every plant of the field before it was in the earth, Gen. 2:5 (Moses 3:5; Abr. 5:5). In whose hand is the soul of every living thing, Job 12:10. when I laid the foundations of the earth, Job 38:4. heavens declare the glory of God, Ps. 19:1. earth is the Lord’s, and the fulness thereof, Ps. 24:1. thou hast made summer and winter, Ps. 74:17. He sendeth the springs into the valleys, Ps. 104:10. who maketh grass to grow upon the mountains, Ps. 147:8. Fire, and hail; snow, and vapour; stormy wind fulfilling his word, Ps. 148:8. flowers appear … the singing of birds is come, Song 2:12. rain … snow … watereth the earth, Isa. 55:10.",
+      "references": [
+        {
+          "text": "Gen. 1:1",
+          "start": 38,
+          "end": 46,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 1,
+            "chapterId": "genesis1",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 2:1",
+          "start": 48,
+          "end": 57,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 2,
+            "chapterId": "moses2",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Abr. 4:1",
+          "start": 59,
+          "end": 67,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 4,
+            "chapterId": "abraham4",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 2:5",
+          "start": 123,
+          "end": 131,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 2,
+            "chapterId": "genesis2",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 3:5",
+          "start": 133,
+          "end": 142,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 3,
+            "chapterId": "moses3",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Abr. 5:5",
+          "start": 144,
+          "end": 152,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 5,
+            "chapterId": "abraham5",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Job 12:10",
+          "start": 204,
+          "end": 213,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "job",
+            "book": "job",
+            "chapter": 12,
+            "chapterId": "job12",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Job 38:4",
+          "start": 257,
+          "end": 265,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "job",
+            "book": "job",
+            "chapter": 38,
+            "chapterId": "job38",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 19:1",
+          "start": 301,
+          "end": 309,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 19,
+            "chapterId": "psalms19",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 24:1",
+          "start": 357,
+          "end": 365,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 24,
+            "chapterId": "psalms24",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 74:17",
+          "start": 401,
+          "end": 410,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 74,
+            "chapterId": "psalms74",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 104:10",
+          "start": 453,
+          "end": 463,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 104,
+            "chapterId": "psalms104",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 147:8",
+          "start": 510,
+          "end": 519,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 147,
+            "chapterId": "psalms147",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 148:8",
+          "start": 588,
+          "end": 597,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 148,
+            "chapterId": "psalms148",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Song 2:12",
+          "start": 646,
+          "end": 655,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "song",
+            "book": "songofsolomon",
+            "chapter": 2,
+            "chapterId": "songofsolomon2",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 55:10",
+          "start": 691,
+          "end": 701,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 55,
+            "chapterId": "isaiah55",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "earth bringeth forth fruit of herself, Mark 4:28.",
+      "references": [
+        {
+          "text": "Mark 4:28",
+          "start": 39,
+          "end": 48,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 4,
+            "chapterId": "mark4",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "God of nature suffers, 1 Ne. 19:12. earth, and all things that are upon the face of it, Alma 30:44. earth became deformed, because of the tempests, 3 Ne. 8:17.",
+      "references": [
+        {
+          "text": "1 Ne. 19:12",
+          "start": 23,
+          "end": 34,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 19,
+            "chapterId": "1nephi19",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 30:44",
+          "start": 88,
+          "end": 98,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 30,
+            "chapterId": "alma30",
+            "verses": [
+              {
+                "start": 44,
+                "end": 44
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 8:17",
+          "start": 148,
+          "end": 158,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 8,
+            "chapterId": "3nephi8",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "light of the sun, and the power thereof, D&C 88:7. all things … in their times and their seasons, D&C 88:42. all wholesome herbs God hath ordained, D&C 89:10. earth is full … enough and to spare, D&C 104:17.",
+      "references": [
+        {
+          "text": "D&C 88:7",
+          "start": 41,
+          "end": 49,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 88:42",
+          "start": 98,
+          "end": 107,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 42,
+                "end": 42
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 89:10",
+          "start": 148,
+          "end": 157,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 89,
+            "chapterId": "doctrineandcovenants89",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 104:17",
+          "start": 196,
+          "end": 206,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 104,
+            "chapterId": "doctrineandcovenants104",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-astronomy",
+      "slug": "astronomy",
+      "title": "Astronomy"
+    },
+    {
+      "entryId": "tg-creation",
+      "slug": "creation",
+      "title": "Creation"
+    },
+    {
+      "entryId": "tg-nature-human",
+      "slug": "nature-human",
+      "title": "Nature, Human"
+    }
+  ],
+  "slug": "nature-earth",
+  "title": "Nature, Earth",
+  "type": "tg"
+}

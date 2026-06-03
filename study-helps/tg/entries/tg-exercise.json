@@ -1,0 +1,117 @@
+{
+  "_id": "tg-exercise",
+  "content": [
+    {
+      "text": "bodily exercise profiteth little, 1 Tim. 4:8. he exerciseth all the power of the first beast, Rev. 13:12.",
+      "references": [
+        {
+          "text": "1 Tim. 4:8",
+          "start": 34,
+          "end": 44,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 4,
+            "chapterId": "1timothy4",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 13:12",
+          "start": 94,
+          "end": 104,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 13,
+            "chapterId": "revelation13",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "exercise a particle of faith, Alma 32:27.",
+      "references": [
+        {
+          "text": "Alma 32:27",
+          "start": 30,
+          "end": 40,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 32,
+            "chapterId": "alma32",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "begin to exercise unrighteous dominion, D&C 121:39.",
+      "references": [
+        {
+          "text": "D&C 121:39",
+          "start": 40,
+          "end": 50,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 39,
+                "end": 39
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-body-sanctity-of",
+      "slug": "body-sanctity-of",
+      "title": "Body, Sanctity of"
+    },
+    {
+      "entryId": "tg-health",
+      "slug": "health",
+      "title": "Health"
+    },
+    {
+      "entryId": "tg-word-of-wisdom",
+      "slug": "word-of-wisdom",
+      "title": "Word of Wisdom"
+    },
+    {
+      "entryId": "tg-work-value-of",
+      "slug": "work-value-of",
+      "title": "Work, Value of"
+    }
+  ],
+  "slug": "exercise",
+  "title": "Exercise",
+  "type": "tg"
+}

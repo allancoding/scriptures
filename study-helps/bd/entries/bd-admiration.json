@@ -1,0 +1,68 @@
+{
+  "_id": "bd-admiration",
+  "content": [
+    {
+      "text": "Wonder, astonishment, or amazement, with no implication of esteem or approval (Jude 1:16; Rev. 17:6; see also 2 Thes. 1:10).",
+      "references": [
+        {
+          "text": "Jude 1:16",
+          "start": 79,
+          "end": 88,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "jude",
+            "book": "jude",
+            "chapter": 1,
+            "chapterId": "jude1",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 17:6",
+          "start": 90,
+          "end": 99,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 17,
+            "chapterId": "revelation17",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Thes. 1:10",
+          "start": 110,
+          "end": 122,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-thes",
+            "book": "2thessalonians",
+            "chapter": 1,
+            "chapterId": "2thessalonians1",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "admiration",
+  "title": "Admiration",
+  "type": "bd"
+}

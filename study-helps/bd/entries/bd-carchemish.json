@@ -1,0 +1,50 @@
+{
+  "_id": "bd-carchemish",
+  "content": [
+    {
+      "text": "Fort of Chemosh. A town on the western bank of the higher part of the river Euphrates. It commanded the ford of the river on the high road from Assyria into Syria and was the scene of an important battle (605 B.C.) between Nebuchadnezzar and Pharaoh Necho (2 Chr. 35:20; Jer. 46:2).",
+      "references": [
+        {
+          "text": "2 Chr. 35:20",
+          "start": 257,
+          "end": 269,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-chr",
+            "book": "2chronicles",
+            "chapter": 35,
+            "chapterId": "2chronicles35",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 46:2",
+          "start": 271,
+          "end": 280,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 46,
+            "chapterId": "jeremiah46",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "carchemish",
+  "title": "Carchemish",
+  "type": "bd"
+}

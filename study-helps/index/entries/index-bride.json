@@ -1,0 +1,79 @@
+{
+  "_id": "index-bride",
+  "content": [
+    {
+      "text": "Israel shall bind her destroyers on even as a bride, 1 Ne. 21:18 (Isa. 49:18).",
+      "references": [
+        {
+          "text": "1 Ne. 21:18",
+          "start": 53,
+          "end": 64,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 21,
+            "chapterId": "1nephi21",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 49:18",
+          "start": 66,
+          "end": 76,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 49,
+            "chapterId": "isaiah49",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Church to be adorned as bride for the Lord’s coming, D&C 109:74.",
+      "references": [
+        {
+          "text": "D&C 109:74",
+          "start": 53,
+          "end": 63,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 109,
+            "chapterId": "doctrineandcovenants109",
+            "verses": [
+              {
+                "start": 74,
+                "end": 74
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-bridegroom",
+      "slug": "bridegroom",
+      "title": "Bridegroom"
+    }
+  ],
+  "slug": "bride",
+  "title": "Bride",
+  "type": "index"
+}

@@ -1,0 +1,50 @@
+{
+  "_id": "tg-climb",
+  "content": [
+    {
+      "text": "climbed up into a sycomore tree to see him, Luke 19:4. climbeth up some other way, John 10:1.",
+      "references": [
+        {
+          "text": "Luke 19:4",
+          "start": 44,
+          "end": 53,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 19,
+            "chapterId": "luke19",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 10:1",
+          "start": 83,
+          "end": 92,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 10,
+            "chapterId": "john10",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "climb",
+  "title": "Climb",
+  "type": "tg"
+}

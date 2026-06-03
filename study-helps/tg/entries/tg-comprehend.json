@@ -1,0 +1,188 @@
+{
+  "_id": "tg-comprehend",
+  "content": [
+    {
+      "text": "darkness comprehended it not, John 1:5 (D&C 6:21; 10:58; 88:49).",
+      "references": [
+        {
+          "text": "John 1:5",
+          "start": 30,
+          "end": 38,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 1,
+            "chapterId": "john1",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 6:21",
+          "start": 40,
+          "end": 48,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 6,
+            "chapterId": "doctrineandcovenants6",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "10:58",
+          "start": 50,
+          "end": 55,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 10,
+            "chapterId": "doctrineandcovenants10",
+            "verses": [
+              {
+                "start": 58,
+                "end": 58
+              }
+            ]
+          }
+        },
+        {
+          "text": "88:49",
+          "start": 57,
+          "end": 62,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 49,
+                "end": 49
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "man doth not comprehend all … the Lord can comprehend, Mosiah 4:9. he comprehendeth all things, Alma 26:35 (D&C 88:6, 41, 49, 67).",
+      "references": [
+        {
+          "text": "Mosiah 4:9",
+          "start": 55,
+          "end": 65,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 4,
+            "chapterId": "mosiah4",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 26:35",
+          "start": 96,
+          "end": 106,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 26,
+            "chapterId": "alma26",
+            "verses": [
+              {
+                "start": 35,
+                "end": 35
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 88:6, 41, 49, 67",
+          "start": 108,
+          "end": 128,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              },
+              {
+                "start": 41,
+                "end": 41
+              },
+              {
+                "start": 49,
+                "end": 49
+              },
+              {
+                "start": 67,
+                "end": 67
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-discernment-spiritual",
+      "slug": "discernment-spiritual",
+      "title": "Discernment, Spiritual"
+    },
+    {
+      "entryId": "tg-god-omniscience-of",
+      "slug": "god-omniscience-of",
+      "title": "God, Omniscience of"
+    },
+    {
+      "entryId": "tg-god-wisdom-of",
+      "slug": "god-wisdom-of",
+      "title": "God, Wisdom of"
+    },
+    {
+      "entryId": "tg-know",
+      "slug": "know",
+      "title": "Know"
+    },
+    {
+      "entryId": "tg-perceive",
+      "slug": "perceive",
+      "title": "Perceive"
+    },
+    {
+      "entryId": "tg-understanding",
+      "slug": "understanding",
+      "title": "Understanding"
+    }
+  ],
+  "slug": "comprehend",
+  "title": "Comprehend",
+  "type": "tg"
+}

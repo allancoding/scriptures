@@ -1,0 +1,97 @@
+{
+  "_id": "tg-sky",
+  "content": [
+    {
+      "text": "let the skies pour down righteousness, Isa. 45:8.",
+      "references": [
+        {
+          "text": "Isa. 45:8",
+          "start": 39,
+          "end": 48,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 45,
+            "chapterId": "isaiah45",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "fair weather: for the sky is red, Matt. 16:2. ye can discern the face of the sky, Matt. 16:3 (Luke 12:56).",
+      "references": [
+        {
+          "text": "Matt. 16:2",
+          "start": 34,
+          "end": 44,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 16,
+            "chapterId": "matthew16",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 16:3",
+          "start": 82,
+          "end": 92,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 16,
+            "chapterId": "matthew16",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 12:56",
+          "start": 94,
+          "end": 104,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 12,
+            "chapterId": "luke12",
+            "verses": [
+              {
+                "start": 56,
+                "end": 56
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-heaven",
+      "slug": "heaven",
+      "title": "Heaven"
+    }
+  ],
+  "slug": "sky",
+  "title": "Sky",
+  "type": "tg"
+}

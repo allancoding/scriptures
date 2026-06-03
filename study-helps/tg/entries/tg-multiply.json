@@ -1,0 +1,463 @@
+{
+  "_id": "tg-multiply",
+  "content": [
+    {
+      "text": "Be fruitful, and multiply, Gen. 1:22 (1:28; 8:17; 9:1; Moses 2:22, 28; Abr. 4:22). I will greatly multiply thy sorrow and thy conception, Gen. 3:16. men began to multiply on the face of the earth, Gen. 6:1. I will multiply thy seed, Gen. 22:17 (Heb. 6:14). I will multiply your seed as the stars of heaven, Ex. 32:13. thy gold is multiplied, and all that thou hast is multiplied, Deut. 8:13. out of them shall proceed thanksgiving … and I will multiply them, Jer. 30:19.",
+      "references": [
+        {
+          "text": "Gen. 1:22",
+          "start": 27,
+          "end": 36,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 1,
+            "chapterId": "genesis1",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "1:28",
+          "start": 38,
+          "end": 42,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 1,
+            "chapterId": "genesis1",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "8:17",
+          "start": 44,
+          "end": 48,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 8,
+            "chapterId": "genesis8",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "9:1",
+          "start": 50,
+          "end": 53,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 9,
+            "chapterId": "genesis9",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 2:22, 28",
+          "start": 55,
+          "end": 69,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 2,
+            "chapterId": "moses2",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              },
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Abr. 4:22",
+          "start": 71,
+          "end": 80,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 4,
+            "chapterId": "abraham4",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 3:16",
+          "start": 138,
+          "end": 147,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 3,
+            "chapterId": "genesis3",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 6:1",
+          "start": 197,
+          "end": 205,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 6,
+            "chapterId": "genesis6",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 22:17",
+          "start": 233,
+          "end": 243,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 22,
+            "chapterId": "genesis22",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 6:14",
+          "start": 245,
+          "end": 254,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 6,
+            "chapterId": "hebrews6",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 32:13",
+          "start": 307,
+          "end": 316,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 32,
+            "chapterId": "exodus32",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 8:13",
+          "start": 380,
+          "end": 390,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 8,
+            "chapterId": "deuteronomy8",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 30:19",
+          "start": 459,
+          "end": 469,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 30,
+            "chapterId": "jeremiah30",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "when the number of the disciples was multiplied, Acts 6:1. churches … in the comfort of the Holy Ghost, were multiplied, Acts 9:31. word of God grew and multiplied, Acts 12:24. multiply your seed sown, 2 Cor. 9:10.",
+      "references": [
+        {
+          "text": "Acts 6:1",
+          "start": 49,
+          "end": 57,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 6,
+            "chapterId": "acts6",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 9:31",
+          "start": 121,
+          "end": 130,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 9,
+            "chapterId": "acts9",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 12:24",
+          "start": 165,
+          "end": 175,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 12,
+            "chapterId": "acts12",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Cor. 9:10",
+          "start": 202,
+          "end": 213,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 9,
+            "chapterId": "2corinthians9",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "we began to prosper … and to multiply in the land, 2 Ne. 5:13. they did … pray … and they did not multiply many words, 3 Ne. 19:24. people of Nephi … did multiply exceedingly fast, 4 Ne. 1:10. church did multiply … because of iniquity, 4 Ne. 1:28.",
+      "references": [
+        {
+          "text": "2 Ne. 5:13",
+          "start": 51,
+          "end": 61,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 5,
+            "chapterId": "2nephi5",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 19:24",
+          "start": 119,
+          "end": 130,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 19,
+            "chapterId": "3nephi19",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "4 Ne. 1:10",
+          "start": 181,
+          "end": 191,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "4-ne",
+            "book": "4nephi",
+            "chapter": 1,
+            "chapterId": "4nephi1",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "4 Ne. 1:28",
+          "start": 236,
+          "end": 246,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "4-ne",
+            "book": "4nephi",
+            "chapter": 1,
+            "chapterId": "4nephi1",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "they shall multiply and wax strong, D&C 45:58. given unto him to multiply and replenish the earth, D&C 132:63.",
+      "references": [
+        {
+          "text": "D&C 45:58",
+          "start": 36,
+          "end": 45,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 45,
+            "chapterId": "doctrineandcovenants45",
+            "verses": [
+              {
+                "start": 58,
+                "end": 58
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 132:63",
+          "start": 99,
+          "end": 109,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 132,
+            "chapterId": "doctrineandcovenants132",
+            "verses": [
+              {
+                "start": 63,
+                "end": 63
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-flourish",
+      "slug": "flourish",
+      "title": "Flourish"
+    },
+    {
+      "entryId": "tg-grow",
+      "slug": "grow",
+      "title": "Grow"
+    },
+    {
+      "entryId": "tg-increase",
+      "slug": "increase",
+      "title": "Increase"
+    }
+  ],
+  "slug": "multiply",
+  "title": "Multiply",
+  "type": "tg"
+}

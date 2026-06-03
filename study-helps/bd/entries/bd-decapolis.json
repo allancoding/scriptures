@@ -1,0 +1,68 @@
+{
+  "_id": "bd-decapolis",
+  "content": [
+    {
+      "text": "Ten cities. The district east and southeast of the Sea of Galilee, containing a mixed population of Greeks, Syrians, Arabs, and Jews, the Greek element being the greatest (Matt. 4:25; Mark 5:20; 7:31).",
+      "references": [
+        {
+          "text": "Matt. 4:25",
+          "start": 172,
+          "end": 182,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 4,
+            "chapterId": "matthew4",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 5:20",
+          "start": 184,
+          "end": 193,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 5,
+            "chapterId": "mark5",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "7:31",
+          "start": 195,
+          "end": 199,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 7,
+            "chapterId": "mark7",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "decapolis",
+  "title": "Decapolis",
+  "type": "bd"
+}

@@ -1,0 +1,97 @@
+{
+  "_id": "index-spokesman",
+  "content": [
+    {
+      "text": "the Lord will make spokesman for Moses, 2 Ne. 3:17–18.",
+      "references": [
+        {
+          "text": "2 Ne. 3:17–18",
+          "start": 40,
+          "end": 53,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 3,
+            "chapterId": "2nephi3",
+            "verses": [
+              {
+                "start": 17,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "let not all be spokesmen at once, D&C 88:122. Sidney Rigdon to be spokesman for Joseph Smith, D&C 100:9 (124:104).",
+      "references": [
+        {
+          "text": "D&C 88:122",
+          "start": 34,
+          "end": 44,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 122,
+                "end": 122
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 100:9",
+          "start": 94,
+          "end": 103,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 100,
+            "chapterId": "doctrineandcovenants100",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "124:104",
+          "start": 105,
+          "end": 112,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 124,
+            "chapterId": "doctrineandcovenants124",
+            "verses": [
+              {
+                "start": 104,
+                "end": 104
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-speak",
+      "slug": "speak",
+      "title": "Speak"
+    }
+  ],
+  "slug": "spokesman",
+  "title": "Spokesman",
+  "type": "index"
+}

@@ -1,0 +1,56 @@
+{
+  "_id": "tg-first-begotten",
+  "content": [
+    {
+      "text": "he bringeth in the firstbegotten into the world, Heb. 1:6. Jesus Christ, who is the … first begotten of the dead, Rev. 1:5.",
+      "references": [
+        {
+          "text": "Heb. 1:6",
+          "start": 49,
+          "end": 57,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 1,
+            "chapterId": "hebrews1",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 1:5",
+          "start": 114,
+          "end": 122,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 1,
+            "chapterId": "revelation1",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-jesus-christ-firstborn",
+      "slug": "jesus-christ-firstborn",
+      "title": "Jesus Christ, Firstborn"
+    }
+  ],
+  "slug": "first-begotten",
+  "title": "First-Begotten",
+  "type": "tg"
+}

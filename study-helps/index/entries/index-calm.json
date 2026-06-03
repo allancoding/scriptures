@@ -1,0 +1,61 @@
+{
+  "_id": "index-calm",
+  "content": [
+    {
+      "text": "after Nephi1 prays, great calm on sea, 1 Ne. 18:21.",
+      "references": [
+        {
+          "text": "1 Ne. 18:21",
+          "start": 39,
+          "end": 50,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 18,
+            "chapterId": "1nephi18",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Joseph Smith is calm as summer’s morning, D&C 135:4.",
+      "references": [
+        {
+          "text": "D&C 135:4",
+          "start": 42,
+          "end": 51,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 135,
+            "chapterId": "doctrineandcovenants135",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-peace",
+      "slug": "peace",
+      "title": "Peace"
+    }
+  ],
+  "slug": "calm",
+  "title": "Calm",
+  "type": "index"
+}

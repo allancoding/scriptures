@@ -1,0 +1,86 @@
+{
+  "_id": "bd-scripture",
+  "content": [
+    {
+      "text": "The word scripture means “a writing” and is used to denote a writing recognized by the Church as sacred and inspired. It is so applied to the books of the Old Testament by the writers of the New Testament (Matt. 22:29; John 5:39; 2 Tim. 3:15). For an account of the process by which the books of the Old Testament and New Testament came to be recognized as scripture, see Canon. Latter-day revelation identifies scripture as that which is spoken under the influence of the Holy Ghost (D&C 68:1–4).",
+      "references": [
+        {
+          "text": "Matt. 22:29",
+          "start": 206,
+          "end": 217,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 22,
+            "chapterId": "matthew22",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 5:39",
+          "start": 219,
+          "end": 228,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 5,
+            "chapterId": "john5",
+            "verses": [
+              {
+                "start": 39,
+                "end": 39
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Tim. 3:15",
+          "start": 230,
+          "end": 241,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-tim",
+            "book": "2timothy",
+            "chapter": 3,
+            "chapterId": "2timothy3",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 68:1–4",
+          "start": 485,
+          "end": 495,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 68,
+            "chapterId": "doctrineandcovenants68",
+            "verses": [
+              {
+                "start": 1,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "scripture",
+  "title": "Scripture",
+  "type": "bd"
+}

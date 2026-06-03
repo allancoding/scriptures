@@ -1,0 +1,187 @@
+{
+  "_id": "tg-firmament",
+  "content": [
+    {
+      "text": "Let there be a firmament in the midst, Gen. 1:6 (Moses 2:6). firmament sheweth his handywork, Ps. 19:1. wise shall shine as the brightness of the firmament, Dan. 12:3.",
+      "references": [
+        {
+          "text": "Gen. 1:6",
+          "start": 39,
+          "end": 47,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 1,
+            "chapterId": "genesis1",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 2:6",
+          "start": 49,
+          "end": 58,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 2,
+            "chapterId": "moses2",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 19:1",
+          "start": 94,
+          "end": 102,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 19,
+            "chapterId": "psalms19",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 12:3",
+          "start": 157,
+          "end": 166,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 12,
+            "chapterId": "daniel12",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "brightness did exceed … stars in the firmament, 1 Ne. 1:10.",
+      "references": [
+        {
+          "text": "1 Ne. 1:10",
+          "start": 48,
+          "end": 58,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 1,
+            "chapterId": "1nephi1",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "sun of the firmament is … typical, D&C 76:70 (76:71, 81, 109).",
+      "references": [
+        {
+          "text": "D&C 76:70",
+          "start": 35,
+          "end": 44,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 76,
+            "chapterId": "doctrineandcovenants76",
+            "verses": [
+              {
+                "start": 70,
+                "end": 70
+              }
+            ]
+          }
+        },
+        {
+          "text": "76:71, 81, 109",
+          "start": 46,
+          "end": 60,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 76,
+            "chapterId": "doctrineandcovenants76",
+            "verses": [
+              {
+                "start": 71,
+                "end": 71
+              },
+              {
+                "start": 81,
+                "end": 81
+              },
+              {
+                "start": 109,
+                "end": 109
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "great lights … in the firmament, Abr. 3:13.",
+      "references": [
+        {
+          "text": "Abr. 3:13",
+          "start": 33,
+          "end": 42,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 3,
+            "chapterId": "abraham3",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-expanse",
+      "slug": "expanse",
+      "title": "Expanse"
+    }
+  ],
+  "slug": "firmament",
+  "title": "Firmament",
+  "type": "tg"
+}

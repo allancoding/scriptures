@@ -1,0 +1,73 @@
+{
+  "_id": "tg-sheet",
+  "content": [
+    {
+      "text": "thirty sheets and thirty change of garments, Judg. 14:12.",
+      "references": [
+        {
+          "text": "Judg. 14:12",
+          "start": 45,
+          "end": 56,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "judg",
+            "book": "judges",
+            "chapter": 14,
+            "chapterId": "judges14",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "certain vessel descending … sheet knit at the four corners, Acts 10:11 (11:5).",
+      "references": [
+        {
+          "text": "Acts 10:11",
+          "start": 60,
+          "end": 70,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 10,
+            "chapterId": "acts10",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "11:5",
+          "start": 72,
+          "end": 76,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 11,
+            "chapterId": "acts11",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "sheet",
+  "title": "Sheet",
+  "type": "tg"
+}

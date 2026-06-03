@@ -1,0 +1,112 @@
+{
+  "_id": "bd-terah",
+  "content": [
+    {
+      "text": "The father of Abram, Nahor, and Haran. He migrated with Abram, Sarai, and Lot (Nahor following them later) from Ur of the Chaldees to Charran (Haran), where he died (Gen. 11:24, 26, 31; Josh. 24:2; 1 Chr. 1:26; Abr. 1:30; 2:1–6).",
+      "references": [
+        {
+          "text": "Gen. 11:24, 26, 31",
+          "start": 166,
+          "end": 184,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 11,
+            "chapterId": "genesis11",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              },
+              {
+                "start": 26,
+                "end": 26
+              },
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "Josh. 24:2",
+          "start": 186,
+          "end": 196,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "josh",
+            "book": "joshua",
+            "chapter": 24,
+            "chapterId": "joshua24",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Chr. 1:26",
+          "start": 198,
+          "end": 209,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-chr",
+            "book": "1chronicles",
+            "chapter": 1,
+            "chapterId": "1chronicles1",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Abr. 1:30",
+          "start": 211,
+          "end": 220,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 1,
+            "chapterId": "abraham1",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "2:1–6",
+          "start": 222,
+          "end": 227,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 2,
+            "chapterId": "abraham2",
+            "verses": [
+              {
+                "start": 1,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "terah",
+  "title": "Terah",
+  "type": "bd"
+}

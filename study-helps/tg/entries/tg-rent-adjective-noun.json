@@ -1,0 +1,133 @@
+{
+  "_id": "tg-rent-adjective-noun",
+  "content": [
+    {
+      "text": "wine bottles, old, and rent, Josh. 9:4. instead of a girdle a rent, Isa. 3:24 (2 Ne. 13:24).",
+      "references": [
+        {
+          "text": "Josh. 9:4",
+          "start": 29,
+          "end": 38,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "josh",
+            "book": "joshua",
+            "chapter": 9,
+            "chapterId": "joshua9",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 3:24",
+          "start": 68,
+          "end": 77,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 3,
+            "chapterId": "isaiah3",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 13:24",
+          "start": 79,
+          "end": 90,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 13,
+            "chapterId": "2nephi13",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "rent is made worse, Matt. 9:16 (Mark 2:21). the new maketh a rent, Luke 5:36.",
+      "references": [
+        {
+          "text": "Matt. 9:16",
+          "start": 20,
+          "end": 30,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 9,
+            "chapterId": "matthew9",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 2:21",
+          "start": 32,
+          "end": 41,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 2,
+            "chapterId": "mark2",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 5:36",
+          "start": 67,
+          "end": 76,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 5,
+            "chapterId": "luke5",
+            "verses": [
+              {
+                "start": 36,
+                "end": 36
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-rend",
+      "slug": "rend",
+      "title": "Rend"
+    }
+  ],
+  "slug": "rent-adjective-noun",
+  "title": "Rent [adjective, noun]",
+  "type": "tg"
+}

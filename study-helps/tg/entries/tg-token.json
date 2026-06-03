@@ -1,0 +1,233 @@
+{
+  "_id": "tg-token",
+  "content": [
+    {
+      "text": "God said, This is the token of the covenant, Gen. 9:12. circumcise … a token of the covenant, Gen. 17:11. this shall be a token unto thee, Ex. 3:12. blood shall be to you for a token, Ex. 12:13.",
+      "references": [
+        {
+          "text": "Gen. 9:12",
+          "start": 45,
+          "end": 54,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 9,
+            "chapterId": "genesis9",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 17:11",
+          "start": 94,
+          "end": 104,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 17,
+            "chapterId": "genesis17",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 3:12",
+          "start": 139,
+          "end": 147,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 3,
+            "chapterId": "exodus3",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 12:13",
+          "start": 184,
+          "end": 193,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 12,
+            "chapterId": "exodus12",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "he that betrayed him had given them a token, Mark 14:44. token of the righteous judgment of God, 2 Thes. 1:5.",
+      "references": [
+        {
+          "text": "Mark 14:44",
+          "start": 45,
+          "end": 55,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 14,
+            "chapterId": "mark14",
+            "verses": [
+              {
+                "start": 44,
+                "end": 44
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Thes. 1:5",
+          "start": 97,
+          "end": 108,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-thes",
+            "book": "2thessalonians",
+            "chapter": 1,
+            "chapterId": "2thessalonians1",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "rending their garments in token, or as a covenant, Alma 46:21. king put forth his hand … as a token of peace, Alma 47:23.",
+      "references": [
+        {
+          "text": "Alma 46:21",
+          "start": 51,
+          "end": 61,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 46,
+            "chapterId": "alma46",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 47:23",
+          "start": 110,
+          "end": 120,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 47,
+            "chapterId": "alma47",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "offer himself in prayer … in token or remembrance of the everlasting covenant, D&C 88:131. salute you in the name of the Lord Jesus Christ, in token, D&C 88:133. saying Amen, in token of the same, D&C 88:135.",
+      "references": [
+        {
+          "text": "D&C 88:131",
+          "start": 79,
+          "end": 89,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 131,
+                "end": 131
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 88:133",
+          "start": 150,
+          "end": 160,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 133,
+                "end": 133
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 88:135",
+          "start": 197,
+          "end": 207,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 135,
+                "end": 135
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-signs",
+      "slug": "signs",
+      "title": "Signs"
+    }
+  ],
+  "slug": "token",
+  "title": "Token",
+  "type": "tg"
+}

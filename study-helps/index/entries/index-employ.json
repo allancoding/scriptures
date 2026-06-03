@@ -1,0 +1,74 @@
+{
+  "_id": "index-employ",
+  "content": [
+    {
+      "text": "the Holy One employs no servant at gate, 2 Ne. 9:41. lawyers got gain according to their employ, Alma 10:32 (11:20).",
+      "references": [
+        {
+          "text": "2 Ne. 9:41",
+          "start": 41,
+          "end": 51,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 9,
+            "chapterId": "2nephi9",
+            "verses": [
+              {
+                "start": 41,
+                "end": 41
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 10:32",
+          "start": 97,
+          "end": 107,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 10,
+            "chapterId": "alma10",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "11:20",
+          "start": 109,
+          "end": 114,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 11,
+            "chapterId": "alma11",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-hire",
+      "slug": "hire",
+      "title": "Hire"
+    }
+  ],
+  "slug": "employ",
+  "title": "Employ",
+  "type": "index"
+}

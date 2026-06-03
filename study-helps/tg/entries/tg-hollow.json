@@ -1,0 +1,50 @@
+{
+  "_id": "tg-hollow",
+  "content": [
+    {
+      "text": "hollow of Jacob’s thigh was out of joint, Gen. 32:25. measured the waters in the hollow of his hand, Isa. 40:12.",
+      "references": [
+        {
+          "text": "Gen. 32:25",
+          "start": 42,
+          "end": 52,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 32,
+            "chapterId": "genesis32",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 40:12",
+          "start": 101,
+          "end": 111,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 40,
+            "chapterId": "isaiah40",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "hollow",
+  "title": "Hollow",
+  "type": "tg"
+}

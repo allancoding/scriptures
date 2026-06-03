@@ -1,0 +1,624 @@
+{
+  "_id": "bd-john",
+  "content": [
+    {
+      "text": "One of the Twelve; son of Zebedee and brother of James. In his early life he was a fisherman in fairly comfortable circumstances (Mark 1:20). We may assume he is the unnamed disciple of the Baptist mentioned in John 1:40. Later on he received a call to be a disciple of Jesus Christ (Matt. 4:21–22; Luke 5:1–11). He was one of the inner circle of three who were with the Lord at the raising of Jairus’s daughter, at the Transfiguration, and in Gethsemane. In his own Gospel he refers to himself as “the disciple whom Jesus loved” (John 13:23; 19:26; 20:2; 21:7, 20) and that “other disciple” (John 20:2–8). From Jesus he received the name Boanerges, “a son of thunder” (Mark 3:17). Other incidents that reveal his character are recorded in Mark 9:38; 10:35–40; Luke 9:54. There are frequent references to him in the accounts of the Crucifixion and Resurrection (Luke 22:8; John 18:15; 19:26–27; 20:2; 21:2). In the Acts he appears but seldom (Acts 3:1, 11; 4:13; 8:14). Paul refers to his meeting with him in Jerusalem (Gal. 2:9). In Rev. 1:9 John tells of his banishment to Patmos.",
+      "references": [
+        {
+          "text": "Mark 1:20",
+          "start": 130,
+          "end": 139,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 1,
+            "chapterId": "mark1",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 1:40",
+          "start": 211,
+          "end": 220,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 1,
+            "chapterId": "john1",
+            "verses": [
+              {
+                "start": 40,
+                "end": 40
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 4:21–22",
+          "start": 284,
+          "end": 297,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 4,
+            "chapterId": "matthew4",
+            "verses": [
+              {
+                "start": 21,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 5:1–11",
+          "start": 299,
+          "end": 310,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 5,
+            "chapterId": "luke5",
+            "verses": [
+              {
+                "start": 1,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 13:23",
+          "start": 531,
+          "end": 541,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 13,
+            "chapterId": "john13",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "19:26",
+          "start": 543,
+          "end": 548,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 19,
+            "chapterId": "john19",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "20:2",
+          "start": 550,
+          "end": 554,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 20,
+            "chapterId": "john20",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "21:7, 20",
+          "start": 556,
+          "end": 564,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 21,
+            "chapterId": "john21",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              },
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 20:2–8",
+          "start": 593,
+          "end": 604,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 20,
+            "chapterId": "john20",
+            "verses": [
+              {
+                "start": 2,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 3:17",
+          "start": 670,
+          "end": 679,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 3,
+            "chapterId": "mark3",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 9:38",
+          "start": 740,
+          "end": 749,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 9,
+            "chapterId": "mark9",
+            "verses": [
+              {
+                "start": 38,
+                "end": 38
+              }
+            ]
+          }
+        },
+        {
+          "text": "10:35–40",
+          "start": 751,
+          "end": 759,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 10,
+            "chapterId": "mark10",
+            "verses": [
+              {
+                "start": 35,
+                "end": 40
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 9:54",
+          "start": 761,
+          "end": 770,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 9,
+            "chapterId": "luke9",
+            "verses": [
+              {
+                "start": 54,
+                "end": 54
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 22:8",
+          "start": 862,
+          "end": 871,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 22,
+            "chapterId": "luke22",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 18:15",
+          "start": 873,
+          "end": 883,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 18,
+            "chapterId": "john18",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "19:26–27",
+          "start": 885,
+          "end": 893,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 19,
+            "chapterId": "john19",
+            "verses": [
+              {
+                "start": 26,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "20:2",
+          "start": 895,
+          "end": 899,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 20,
+            "chapterId": "john20",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "21:2",
+          "start": 901,
+          "end": 905,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 21,
+            "chapterId": "john21",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 3:1, 11",
+          "start": 943,
+          "end": 955,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 3,
+            "chapterId": "acts3",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              },
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "4:13",
+          "start": 957,
+          "end": 961,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 4,
+            "chapterId": "acts4",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "8:14",
+          "start": 963,
+          "end": 967,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 8,
+            "chapterId": "acts8",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gal. 2:9",
+          "start": 1020,
+          "end": 1028,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "gal",
+            "book": "galatians",
+            "chapter": 2,
+            "chapterId": "galatians2",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 1:9",
+          "start": 1034,
+          "end": 1042,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 1,
+            "chapterId": "revelation1",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "John is mentioned frequently in latter-day revelation, as in 1 Ne. 14:18–27; 3 Ne. 28:6; Ether 4:16; D&C 7; 27:12; 61:14; 77; 88:141. These passages serve to confirm and to clarify the biblical record of John and also give us a hint as to his greatness and the importance of the work the Lord has given him to do on the earth, not only in the time of the New Testament, but also in the last days. We especially have a clarification of John 21:20–23, ascertaining that John did not die but has been allowed to remain on the earth as a ministering servant until the time of the Lord’s Second Coming (3 Ne. 28:6; D&C 7).",
+      "references": [
+        {
+          "text": "1 Ne. 14:18–27",
+          "start": 61,
+          "end": 75,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 14,
+            "chapterId": "1nephi14",
+            "verses": [
+              {
+                "start": 18,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 28:6",
+          "start": 77,
+          "end": 87,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 28,
+            "chapterId": "3nephi28",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 4:16",
+          "start": 89,
+          "end": 99,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 4,
+            "chapterId": "ether4",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 7",
+          "start": 101,
+          "end": 106,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 7,
+            "chapterId": "doctrineandcovenants7",
+            "verses": []
+          }
+        },
+        {
+          "text": "27:12",
+          "start": 108,
+          "end": 113,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 27,
+            "chapterId": "doctrineandcovenants27",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "61:14",
+          "start": 115,
+          "end": 120,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 61,
+            "chapterId": "doctrineandcovenants61",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "77",
+          "start": 122,
+          "end": 124,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 77,
+            "chapterId": "doctrineandcovenants77",
+            "verses": []
+          }
+        },
+        {
+          "text": "88:141",
+          "start": 126,
+          "end": 132,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 141,
+                "end": 141
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 21:20–23",
+          "start": 435,
+          "end": 448,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 21,
+            "chapterId": "john21",
+            "verses": [
+              {
+                "start": 20,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 28:6",
+          "start": 598,
+          "end": 608,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 28,
+            "chapterId": "3nephi28",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 7",
+          "start": 610,
+          "end": 615,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 7,
+            "chapterId": "doctrineandcovenants7",
+            "verses": []
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "john",
+  "title": "John",
+  "type": "bd"
+}

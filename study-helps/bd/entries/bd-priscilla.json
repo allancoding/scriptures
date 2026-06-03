@@ -1,0 +1,76 @@
+{
+  "_id": "bd-priscilla",
+  "content": [
+    {
+      "text": "Wife of Aquila (Acts 18:2, 18, 26; Rom. 16:3; 1 Cor. 16:19).",
+      "references": [
+        {
+          "text": "Acts 18:2, 18, 26",
+          "start": 16,
+          "end": 33,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 18,
+            "chapterId": "acts18",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              },
+              {
+                "start": 18,
+                "end": 18
+              },
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 16:3",
+          "start": 35,
+          "end": 44,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 16,
+            "chapterId": "romans16",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 16:19",
+          "start": 46,
+          "end": 58,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 16,
+            "chapterId": "1corinthians16",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "priscilla",
+  "title": "Priscilla",
+  "type": "bd"
+}

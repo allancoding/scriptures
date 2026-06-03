@@ -1,0 +1,68 @@
+{
+  "_id": "tg-doctor",
+  "content": [
+    {
+      "text": "in the temple, sitting in the midst of the doctors, Luke 2:46. Pharisees and doctors of the law sitting by, Luke 5:17. Gamaliel, a doctor of the law, Acts 5:34.",
+      "references": [
+        {
+          "text": "Luke 2:46",
+          "start": 52,
+          "end": 61,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 2,
+            "chapterId": "luke2",
+            "verses": [
+              {
+                "start": 46,
+                "end": 46
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 5:17",
+          "start": 108,
+          "end": 117,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 5,
+            "chapterId": "luke5",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 5:34",
+          "start": 150,
+          "end": 159,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 5,
+            "chapterId": "acts5",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "doctor",
+  "title": "Doctor",
+  "type": "tg"
+}

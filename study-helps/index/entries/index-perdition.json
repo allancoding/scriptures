@@ -1,0 +1,66 @@
+{
+  "_id": "index-perdition",
+  "content": [
+    {
+      "text": "Satan is called Perdition, D&C 76:26.",
+      "references": [
+        {
+          "text": "D&C 76:26",
+          "start": 27,
+          "end": 36,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 76,
+            "chapterId": "doctrineandcovenants76",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Cain to be called Perdition, Moses 5:24.",
+      "references": [
+        {
+          "text": "Moses 5:24",
+          "start": 29,
+          "end": 39,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 5,
+            "chapterId": "moses5",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-devil",
+      "slug": "devil",
+      "title": "Devil"
+    },
+    {
+      "entryId": "index-sons-of-perdition",
+      "slug": "sons-of-perdition",
+      "title": "Sons of Perdition"
+    }
+  ],
+  "slug": "perdition",
+  "title": "Perdition",
+  "type": "index"
+}

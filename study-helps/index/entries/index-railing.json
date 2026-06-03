@@ -1,0 +1,61 @@
+{
+  "_id": "index-railing",
+  "content": [
+    {
+      "text": "some return railing for railing, others receive railings humbly, 3 Ne. 6:13.",
+      "references": [
+        {
+          "text": "3 Ne. 6:13",
+          "start": 65,
+          "end": 75,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 6,
+            "chapterId": "3nephi6",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "proclaim against evil spirit not with railing accusation, D&C 50:33.",
+      "references": [
+        {
+          "text": "D&C 50:33",
+          "start": 58,
+          "end": 67,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 50,
+            "chapterId": "doctrineandcovenants50",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-revile",
+      "slug": "revile",
+      "title": "Revile"
+    }
+  ],
+  "slug": "railing",
+  "title": "Railing",
+  "type": "index"
+}

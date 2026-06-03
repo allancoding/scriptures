@@ -1,0 +1,61 @@
+{
+  "_id": "index-crop",
+  "content": [
+    {
+      "text": "cry unto God over crops of fields, Alma 34:24.",
+      "references": [
+        {
+          "text": "Alma 34:24",
+          "start": 35,
+          "end": 45,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 34,
+            "chapterId": "alma34",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "great hailstorm to destroy crops, D&C 29:16.",
+      "references": [
+        {
+          "text": "D&C 29:16",
+          "start": 34,
+          "end": 43,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 29,
+            "chapterId": "doctrineandcovenants29",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-grain",
+      "slug": "grain",
+      "title": "Grain"
+    }
+  ],
+  "slug": "crop",
+  "title": "Crop",
+  "type": "index"
+}

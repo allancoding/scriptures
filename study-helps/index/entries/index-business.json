@@ -1,0 +1,130 @@
+{
+  "_id": "index-business",
+  "content": [
+    {
+      "text": "law to do business by voice of people, Mosiah 29:26. Zeezrom has much business to do among people, Alma 10:31.",
+      "references": [
+        {
+          "text": "Mosiah 29:26",
+          "start": 39,
+          "end": 51,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 29,
+            "chapterId": "mosiah29",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 10:31",
+          "start": 99,
+          "end": 109,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 10,
+            "chapterId": "alma10",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "conferences to do necessary Church business, D&C 20:62. Church laws respecting Church business, D&C 107:59. bishop to do business of Church, D&C 107:72.",
+      "references": [
+        {
+          "text": "D&C 20:62",
+          "start": 45,
+          "end": 54,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 20,
+            "chapterId": "doctrineandcovenants20",
+            "verses": [
+              {
+                "start": 62,
+                "end": 62
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 107:59",
+          "start": 96,
+          "end": 106,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 107,
+            "chapterId": "doctrineandcovenants107",
+            "verses": [
+              {
+                "start": 59,
+                "end": 59
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 107:72",
+          "start": 141,
+          "end": 151,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 107,
+            "chapterId": "doctrineandcovenants107",
+            "verses": [
+              {
+                "start": 72,
+                "end": 72
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-gain",
+      "slug": "gain",
+      "title": "Gain"
+    },
+    {
+      "entryId": "index-merchants",
+      "slug": "merchants",
+      "title": "Merchants"
+    },
+    {
+      "entryId": "index-trade",
+      "slug": "trade",
+      "title": "Trade"
+    },
+    {
+      "entryId": "index-traffic",
+      "slug": "traffic",
+      "title": "Traffic"
+    }
+  ],
+  "slug": "business",
+  "title": "Business",
+  "type": "index"
+}

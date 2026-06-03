@@ -1,0 +1,50 @@
+{
+  "_id": "tg-doorpost",
+  "content": [
+    {
+      "text": "blood … on the upper door post of the houses, Ex. 12:7. thou shalt write them upon the door posts, Deut. 11:20.",
+      "references": [
+        {
+          "text": "Ex. 12:7",
+          "start": 46,
+          "end": 54,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 12,
+            "chapterId": "exodus12",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 11:20",
+          "start": 99,
+          "end": 110,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 11,
+            "chapterId": "deuteronomy11",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "doorpost",
+  "title": "Doorpost",
+  "type": "tg"
+}

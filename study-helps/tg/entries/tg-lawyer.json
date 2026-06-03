@@ -1,0 +1,223 @@
+{
+  "_id": "tg-lawyer",
+  "content": [
+    {
+      "text": "a lawyer, asked him a question, Matt. 22:35 (Luke 10:25). Pharisees and lawyers rejected the counsel, Luke 7:30. Woe unto you also, ye lawyers, Luke 11:46 (11:52). Jesus answering spake unto the lawyers, Luke 14:3.",
+      "references": [
+        {
+          "text": "Matt. 22:35",
+          "start": 32,
+          "end": 43,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 22,
+            "chapterId": "matthew22",
+            "verses": [
+              {
+                "start": 35,
+                "end": 35
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 10:25",
+          "start": 45,
+          "end": 55,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 10,
+            "chapterId": "luke10",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 7:30",
+          "start": 102,
+          "end": 111,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 7,
+            "chapterId": "luke7",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 11:46",
+          "start": 144,
+          "end": 154,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 11,
+            "chapterId": "luke11",
+            "verses": [
+              {
+                "start": 46,
+                "end": 46
+              }
+            ]
+          }
+        },
+        {
+          "text": "11:52",
+          "start": 156,
+          "end": 161,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 11,
+            "chapterId": "luke11",
+            "verses": [
+              {
+                "start": 52,
+                "end": 52
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 14:3",
+          "start": 204,
+          "end": 213,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 14,
+            "chapterId": "luke14",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "lawyers were learned in … cunning of the people, Alma 10:15. destruction … by the unrighteousness of your lawyers, Alma 10:27. there were many … lawyers, 3 Ne. 6:11. those who were lawyers were angry, 3 Ne. 6:21 (6:27).",
+      "references": [
+        {
+          "text": "Alma 10:15",
+          "start": 49,
+          "end": 59,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 10,
+            "chapterId": "alma10",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 10:27",
+          "start": 115,
+          "end": 125,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 10,
+            "chapterId": "alma10",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 6:11",
+          "start": 154,
+          "end": 164,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 6,
+            "chapterId": "3nephi6",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 6:21",
+          "start": 201,
+          "end": 211,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 6,
+            "chapterId": "3nephi6",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "6:27",
+          "start": 213,
+          "end": 217,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 6,
+            "chapterId": "3nephi6",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-scribe",
+      "slug": "scribe",
+      "title": "Scribe"
+    }
+  ],
+  "slug": "lawyer",
+  "title": "Lawyer",
+  "type": "tg"
+}

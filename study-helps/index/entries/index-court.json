@@ -1,0 +1,43 @@
+{
+  "_id": "index-court",
+  "content": [
+    {
+      "text": "martyrs’ blood cannot be rejected by any court on earth, D&C 135:7.",
+      "references": [
+        {
+          "text": "D&C 135:7",
+          "start": 57,
+          "end": 66,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 135,
+            "chapterId": "doctrineandcovenants135",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-excommunication",
+      "slug": "excommunication",
+      "title": "Excommunication"
+    },
+    {
+      "entryId": "index-trial-law",
+      "slug": "trial-law",
+      "title": "Trial [law]"
+    }
+  ],
+  "slug": "court",
+  "title": "Court",
+  "type": "index"
+}

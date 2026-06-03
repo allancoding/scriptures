@@ -1,0 +1,143 @@
+{
+  "_id": "tg-drunkard",
+  "content": [
+    {
+      "text": "he is a glutton, and a drunkard, Deut. 21:20. earth shall reel to and fro like a drunkard, Isa. 24:20. Woe to … the drunkards of Ephraim, Isa. 28:1. Awake, ye drunkards, and weep, Joel 1:5.",
+      "references": [
+        {
+          "text": "Deut. 21:20",
+          "start": 33,
+          "end": 44,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 21,
+            "chapterId": "deuteronomy21",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 24:20",
+          "start": 91,
+          "end": 101,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 24,
+            "chapterId": "isaiah24",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 28:1",
+          "start": 138,
+          "end": 147,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 28,
+            "chapterId": "isaiah28",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Joel 1:5",
+          "start": 180,
+          "end": 188,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "joel",
+            "book": "joel",
+            "chapter": 1,
+            "chapterId": "joel1",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "not to keep company, if … a drunkard, 1 Cor. 5:11. nor drunkards … shall inherit the kingdom of God, 1 Cor. 6:10.",
+      "references": [
+        {
+          "text": "1 Cor. 5:11",
+          "start": 38,
+          "end": 49,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 5,
+            "chapterId": "1corinthians5",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 6:10",
+          "start": 101,
+          "end": 112,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 6,
+            "chapterId": "1corinthians6",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-drink",
+      "slug": "drink",
+      "title": "Drink"
+    },
+    {
+      "entryId": "tg-drunk",
+      "slug": "drunk",
+      "title": "Drunk"
+    },
+    {
+      "entryId": "tg-drunkenness",
+      "slug": "drunkenness",
+      "title": "Drunkenness"
+    }
+  ],
+  "slug": "drunkard",
+  "title": "Drunkard",
+  "type": "tg"
+}

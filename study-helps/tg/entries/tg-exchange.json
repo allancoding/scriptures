@@ -1,0 +1,73 @@
+{
+  "_id": "tg-exchange",
+  "content": [
+    {
+      "text": "Joseph gave them bread in exchange for horses, Gen. 47:17.",
+      "references": [
+        {
+          "text": "Gen. 47:17",
+          "start": 47,
+          "end": 57,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 47,
+            "chapterId": "genesis47",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "what shall a man give in exchange for his soul, Matt. 16:26 (Mark 8:37).",
+      "references": [
+        {
+          "text": "Matt. 16:26",
+          "start": 48,
+          "end": 59,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 16,
+            "chapterId": "matthew16",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 8:37",
+          "start": 61,
+          "end": 70,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 8,
+            "chapterId": "mark8",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "exchange",
+  "title": "Exchange",
+  "type": "tg"
+}

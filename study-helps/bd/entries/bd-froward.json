@@ -1,0 +1,104 @@
+{
+  "_id": "bd-froward",
+  "content": [
+    {
+      "text": "Perverse. Deut. 32:20; 2 Sam. 22:27; Ps. 18:26; Prov. 2:12–15; 1 Pet. 2:18.",
+      "references": [
+        {
+          "text": "Deut. 32:20",
+          "start": 10,
+          "end": 21,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 32,
+            "chapterId": "deuteronomy32",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Sam. 22:27",
+          "start": 23,
+          "end": 35,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-sam",
+            "book": "2samuel",
+            "chapter": 22,
+            "chapterId": "2samuel22",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 18:26",
+          "start": 37,
+          "end": 46,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 18,
+            "chapterId": "psalms18",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 2:12–15",
+          "start": 48,
+          "end": 61,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 2,
+            "chapterId": "proverbs2",
+            "verses": [
+              {
+                "start": 12,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Pet. 2:18",
+          "start": 63,
+          "end": 74,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-pet",
+            "book": "1peter",
+            "chapter": 2,
+            "chapterId": "1peter2",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "froward",
+  "title": "Froward",
+  "type": "bd"
+}

@@ -1,0 +1,567 @@
+{
+  "_id": "tg-yoke",
+  "content": [
+    {
+      "text": "thou shalt break his yoke from off thy neck, Gen. 27:40. I have broken the bands of your yoke, Lev. 26:13. he shall put a yoke of iron upon thy neck, Deut. 28:48. Thy father made our yoke grievous, 1 Kgs. 12:4 (2 Chr. 10:4). thou hast broken the yoke of his burden, Isa. 9:4 (2 Ne. 19:4). taken … his yoke from off thy neck, and the yoke shall be destroyed because of the anointing, Isa. 10:27 (Jer. 30:8; 2 Ne. 20:27). then shall his yoke depart from off them, Isa. 14:25 (2 Ne. 24:25). oppressed go free, and that ye break every yoke, Isa. 58:6. broken the yoke, and burst the bonds, Jer. 5:5 (Ezek. 34:27). I have broken the yoke of the king of Babylon, Jer. 28:2. took the yoke from off the prophet Jeremiah’s neck, Jer. 28:10. as they that take off the yoke on their jaws, Hosea 11:4. now will I break his yoke from off thee, Nahum 1:13.",
+      "references": [
+        {
+          "text": "Gen. 27:40",
+          "start": 45,
+          "end": 55,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 27,
+            "chapterId": "genesis27",
+            "verses": [
+              {
+                "start": 40,
+                "end": 40
+              }
+            ]
+          }
+        },
+        {
+          "text": "Lev. 26:13",
+          "start": 95,
+          "end": 105,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 26,
+            "chapterId": "leviticus26",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 28:48",
+          "start": 150,
+          "end": 161,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 28,
+            "chapterId": "deuteronomy28",
+            "verses": [
+              {
+                "start": 48,
+                "end": 48
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Kgs. 12:4",
+          "start": 198,
+          "end": 209,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 12,
+            "chapterId": "1kings12",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Chr. 10:4",
+          "start": 211,
+          "end": 222,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-chr",
+            "book": "2chronicles",
+            "chapter": 10,
+            "chapterId": "2chronicles10",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 9:4",
+          "start": 266,
+          "end": 274,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 9,
+            "chapterId": "isaiah9",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 19:4",
+          "start": 276,
+          "end": 286,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 19,
+            "chapterId": "2nephi19",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 10:27",
+          "start": 383,
+          "end": 393,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 10,
+            "chapterId": "isaiah10",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 30:8",
+          "start": 395,
+          "end": 404,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 30,
+            "chapterId": "jeremiah30",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 20:27",
+          "start": 406,
+          "end": 417,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 20,
+            "chapterId": "2nephi20",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 14:25",
+          "start": 462,
+          "end": 472,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 14,
+            "chapterId": "isaiah14",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 24:25",
+          "start": 474,
+          "end": 485,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 24,
+            "chapterId": "2nephi24",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 58:6",
+          "start": 537,
+          "end": 546,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 58,
+            "chapterId": "isaiah58",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 5:5",
+          "start": 586,
+          "end": 594,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 5,
+            "chapterId": "jeremiah5",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 34:27",
+          "start": 596,
+          "end": 607,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 34,
+            "chapterId": "ezekiel34",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 28:2",
+          "start": 657,
+          "end": 666,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 28,
+            "chapterId": "jeremiah28",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 28:10",
+          "start": 720,
+          "end": 730,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 28,
+            "chapterId": "jeremiah28",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hosea 11:4",
+          "start": 778,
+          "end": 788,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "hosea",
+            "book": "hosea",
+            "chapter": 11,
+            "chapterId": "hosea11",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Nahum 1:13",
+          "start": 831,
+          "end": 841,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "nahum",
+            "book": "nahum",
+            "chapter": 1,
+            "chapterId": "nahum1",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Take my yoke upon you, Matt. 11:29. Be ye not unequally yoked together, 2 Cor. 6:14. be not entangled again with the yoke of bondage, Gal. 5:1. many servants as are under the yoke, 1 Tim. 6:1.",
+      "references": [
+        {
+          "text": "Matt. 11:29",
+          "start": 23,
+          "end": 34,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 11,
+            "chapterId": "matthew11",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Cor. 6:14",
+          "start": 72,
+          "end": 83,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 6,
+            "chapterId": "2corinthians6",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gal. 5:1",
+          "start": 134,
+          "end": 142,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "gal",
+            "book": "galatians",
+            "chapter": 5,
+            "chapterId": "galatians5",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Tim. 6:1",
+          "start": 181,
+          "end": 191,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 6,
+            "chapterId": "1timothy6",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "yoketh them with a yoke of iron, 1 Ne. 13:5. why do ye yoke yourselves with such foolish things, Alma 30:13. neither do we desire to bring any one to the yoke of bondage, Alma 44:2. subject ourselves to the yoke of bondage if it were requisite with the justice, Alma 61:12.",
+      "references": [
+        {
+          "text": "1 Ne. 13:5",
+          "start": 33,
+          "end": 43,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 13,
+            "chapterId": "1nephi13",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 30:13",
+          "start": 97,
+          "end": 107,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 30,
+            "chapterId": "alma30",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 44:2",
+          "start": 171,
+          "end": 180,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 44,
+            "chapterId": "alma44",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 61:12",
+          "start": 262,
+          "end": 272,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 61,
+            "chapterId": "alma61",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "complete deliverance from under this yoke, D&C 109:32 (109:47).",
+      "references": [
+        {
+          "text": "D&C 109:32",
+          "start": 43,
+          "end": 53,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 109,
+            "chapterId": "doctrineandcovenants109",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "109:47",
+          "start": 55,
+          "end": 61,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 109,
+            "chapterId": "doctrineandcovenants109",
+            "verses": [
+              {
+                "start": 47,
+                "end": 47
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-bond",
+      "slug": "bond",
+      "title": "Bond"
+    },
+    {
+      "entryId": "tg-bondage-physical",
+      "slug": "bondage-physical",
+      "title": "Bondage, Physical"
+    },
+    {
+      "entryId": "tg-bondage-spiritual",
+      "slug": "bondage-spiritual",
+      "title": "Bondage, Spiritual"
+    }
+  ],
+  "slug": "yoke",
+  "title": "Yoke",
+  "type": "tg"
+}

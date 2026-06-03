@@ -1,0 +1,32 @@
+{
+  "_id": "index-cohor-1",
+  "content": [
+    {
+      "text": "drawn away by brother, Ether 7:15.",
+      "references": [
+        {
+          "text": "Ether 7:15",
+          "start": 23,
+          "end": 33,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 7,
+            "chapterId": "ether7",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "cohor-1",
+  "title": "Cohor1—brother of Noah2",
+  "type": "index"
+}

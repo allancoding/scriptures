@@ -1,0 +1,38 @@
+{
+  "_id": "index-elephant",
+  "content": [
+    {
+      "text": "Jaredites have elephants, Ether 9:19.",
+      "references": [
+        {
+          "text": "Ether 9:19",
+          "start": 26,
+          "end": 36,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 9,
+            "chapterId": "ether9",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-animal",
+      "slug": "animal",
+      "title": "Animal"
+    }
+  ],
+  "slug": "elephant",
+  "title": "Elephant",
+  "type": "index"
+}

@@ -1,0 +1,83 @@
+{
+  "_id": "index-unfaithful",
+  "content": [
+    {
+      "text": "as people of Lehi1 were unfaithful, they did not progress on journey, Mosiah 1:17.",
+      "references": [
+        {
+          "text": "Mosiah 1:17",
+          "start": 70,
+          "end": 81,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 1,
+            "chapterId": "mosiah1",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "unfaithful stewards to be cut off, D&C 101:90. unfaithful and unwise steward, D&C 104:74, 77.",
+      "references": [
+        {
+          "text": "D&C 101:90",
+          "start": 35,
+          "end": 45,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 101,
+            "chapterId": "doctrineandcovenants101",
+            "verses": [
+              {
+                "start": 90,
+                "end": 90
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 104:74, 77",
+          "start": 78,
+          "end": 92,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 104,
+            "chapterId": "doctrineandcovenants104",
+            "verses": [
+              {
+                "start": 74,
+                "end": 74
+              },
+              {
+                "start": 77,
+                "end": 77
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-disobedience",
+      "slug": "disobedience",
+      "title": "Disobedience"
+    }
+  ],
+  "slug": "unfaithful",
+  "title": "Unfaithful",
+  "type": "index"
+}

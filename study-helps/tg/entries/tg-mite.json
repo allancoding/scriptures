@@ -1,0 +1,50 @@
+{
+  "_id": "tg-mite",
+  "content": [
+    {
+      "text": "poor widow, and she threw in two mites, Mark 12:42. till thou hast paid the very last mite, Luke 12:59.",
+      "references": [
+        {
+          "text": "Mark 12:42",
+          "start": 40,
+          "end": 50,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 12,
+            "chapterId": "mark12",
+            "verses": [
+              {
+                "start": 42,
+                "end": 42
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 12:59",
+          "start": 92,
+          "end": 102,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 12,
+            "chapterId": "luke12",
+            "verses": [
+              {
+                "start": 59,
+                "end": 59
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "mite",
+  "title": "Mite",
+  "type": "tg"
+}

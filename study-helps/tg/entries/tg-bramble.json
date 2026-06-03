@@ -1,0 +1,55 @@
+{
+  "_id": "tg-bramble",
+  "content": [
+    {
+      "text": "said all the trees unto the bramble, Judg. 9:14.",
+      "references": [
+        {
+          "text": "Judg. 9:14",
+          "start": 37,
+          "end": 47,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "judg",
+            "book": "judges",
+            "chapter": 9,
+            "chapterId": "judges9",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "nor of a bramble bush gather they grapes, Luke 6:44.",
+      "references": [
+        {
+          "text": "Luke 6:44",
+          "start": 42,
+          "end": 51,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 6,
+            "chapterId": "luke6",
+            "verses": [
+              {
+                "start": 44,
+                "end": 44
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "bramble",
+  "title": "Bramble",
+  "type": "tg"
+}

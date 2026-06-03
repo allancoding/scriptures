@@ -1,0 +1,89 @@
+{
+  "_id": "tg-propitiation",
+  "content": [
+    {
+      "text": "God hath set forth to be a propitiation through faith, Rom. 3:25. he is the propitiation for our sins, 1 Jn. 2:2 (4:10).",
+      "references": [
+        {
+          "text": "Rom. 3:25",
+          "start": 55,
+          "end": 64,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 3,
+            "chapterId": "romans3",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Jn. 2:2",
+          "start": 103,
+          "end": 112,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-jn",
+            "book": "1john",
+            "chapter": 2,
+            "chapterId": "1john2",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "4:10",
+          "start": 114,
+          "end": 118,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-jn",
+            "book": "1john",
+            "chapter": 4,
+            "chapterId": "1john4",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-jesus-christ-atonement-through",
+      "slug": "jesus-christ-atonement-through",
+      "title": "Jesus Christ, Atonement through"
+    },
+    {
+      "entryId": "tg-reconciliation",
+      "slug": "reconciliation",
+      "title": "Reconciliation"
+    },
+    {
+      "entryId": "tg-redemption",
+      "slug": "redemption",
+      "title": "Redemption"
+    },
+    {
+      "entryId": "tg-sacrifice",
+      "slug": "sacrifice",
+      "title": "Sacrifice"
+    }
+  ],
+  "slug": "propitiation",
+  "title": "Propitiation",
+  "type": "tg"
+}

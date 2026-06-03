@@ -1,0 +1,577 @@
+{
+  "_id": "tg-teeth",
+  "content": [
+    {
+      "text": "Eye for eye, tooth for tooth, Ex. 21:24 (Lev. 24:20; Deut. 19:21; Matt. 5:38; 3 Ne. 12:38). thou hast broken the teeth of the ungodly, Ps. 3:7. sons of men, whose teeth are spears and arrows, Ps. 57:4. Break their teeth, O God … break out the great teeth of the young lions, Ps. 58:6. As vinegar to the teeth, Prov. 10:26. generation, whose teeth are as swords, Prov. 30:14. children’s teeth are set on edge, Jer. 31:29 (Ezek. 18:2). whose teeth are the teeth of a lion, Joel 1:6 (Rev. 9:8). I also have given you cleanness of teeth, Amos 4:6.",
+      "references": [
+        {
+          "text": "Ex. 21:24",
+          "start": 30,
+          "end": 39,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 21,
+            "chapterId": "exodus21",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Lev. 24:20",
+          "start": 41,
+          "end": 51,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 24,
+            "chapterId": "leviticus24",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 19:21",
+          "start": 53,
+          "end": 64,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 19,
+            "chapterId": "deuteronomy19",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 5:38",
+          "start": 66,
+          "end": 76,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 5,
+            "chapterId": "matthew5",
+            "verses": [
+              {
+                "start": 38,
+                "end": 38
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 12:38",
+          "start": 78,
+          "end": 89,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 12,
+            "chapterId": "3nephi12",
+            "verses": [
+              {
+                "start": 38,
+                "end": 38
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 3:7",
+          "start": 135,
+          "end": 142,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 3,
+            "chapterId": "psalms3",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 57:4",
+          "start": 192,
+          "end": 200,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 57,
+            "chapterId": "psalms57",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 58:6",
+          "start": 275,
+          "end": 283,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 58,
+            "chapterId": "psalms58",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 10:26",
+          "start": 310,
+          "end": 321,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 10,
+            "chapterId": "proverbs10",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 30:14",
+          "start": 362,
+          "end": 373,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 30,
+            "chapterId": "proverbs30",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 31:29",
+          "start": 409,
+          "end": 419,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 31,
+            "chapterId": "jeremiah31",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 18:2",
+          "start": 421,
+          "end": 431,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 18,
+            "chapterId": "ezekiel18",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Joel 1:6",
+          "start": 471,
+          "end": 479,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "joel",
+            "book": "joel",
+            "chapter": 1,
+            "chapterId": "joel1",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 9:8",
+          "start": 481,
+          "end": 489,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 9,
+            "chapterId": "revelation9",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Amos 4:6",
+          "start": 534,
+          "end": 542,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "amos",
+            "book": "amos",
+            "chapter": 4,
+            "chapterId": "amos4",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "there shall be weeping and gnashing of teeth, Matt. 8:12 (13:42; 22:13; Mark 9:18; Luke 13:28; Mosiah 16:2; Alma 40:13; D&C 19:5; 85:9; 101:91; 124:52; 133:73; Moses 1:22; JS—M 1:54). they gnashed on him with their teeth, Acts 7:54 (Alma 14:21).",
+      "references": [
+        {
+          "text": "Matt. 8:12",
+          "start": 46,
+          "end": 56,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 8,
+            "chapterId": "matthew8",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "13:42",
+          "start": 58,
+          "end": 63,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 13,
+            "chapterId": "matthew13",
+            "verses": [
+              {
+                "start": 42,
+                "end": 42
+              }
+            ]
+          }
+        },
+        {
+          "text": "22:13",
+          "start": 65,
+          "end": 70,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 22,
+            "chapterId": "matthew22",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 9:18",
+          "start": 72,
+          "end": 81,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 9,
+            "chapterId": "mark9",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 13:28",
+          "start": 83,
+          "end": 93,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 13,
+            "chapterId": "luke13",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 16:2",
+          "start": 95,
+          "end": 106,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 16,
+            "chapterId": "mosiah16",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 40:13",
+          "start": 108,
+          "end": 118,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 40,
+            "chapterId": "alma40",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 19:5",
+          "start": 120,
+          "end": 128,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 19,
+            "chapterId": "doctrineandcovenants19",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "85:9",
+          "start": 130,
+          "end": 134,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 85,
+            "chapterId": "doctrineandcovenants85",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "101:91",
+          "start": 136,
+          "end": 142,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 101,
+            "chapterId": "doctrineandcovenants101",
+            "verses": [
+              {
+                "start": 91,
+                "end": 91
+              }
+            ]
+          }
+        },
+        {
+          "text": "124:52",
+          "start": 144,
+          "end": 150,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 124,
+            "chapterId": "doctrineandcovenants124",
+            "verses": [
+              {
+                "start": 52,
+                "end": 52
+              }
+            ]
+          }
+        },
+        {
+          "text": "133:73",
+          "start": 152,
+          "end": 158,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 133,
+            "chapterId": "doctrineandcovenants133",
+            "verses": [
+              {
+                "start": 73,
+                "end": 73
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 1:22",
+          "start": 160,
+          "end": 170,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 1,
+            "chapterId": "moses1",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "JS—M 1:54",
+          "start": 172,
+          "end": 181,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-m",
+            "book": "josephsmithmatthew",
+            "chapter": 1,
+            "chapterId": "josephsmithmatthew1",
+            "verses": [
+              {
+                "start": 54,
+                "end": 54
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 7:54",
+          "start": 222,
+          "end": 231,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 7,
+            "chapterId": "acts7",
+            "verses": [
+              {
+                "start": 54,
+                "end": 54
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 14:21",
+          "start": 233,
+          "end": 243,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 14,
+            "chapterId": "alma14",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "teeth",
+  "title": "Teeth, Tooth",
+  "type": "tg"
+}

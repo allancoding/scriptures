@@ -1,0 +1,79 @@
+{
+  "_id": "index-handle",
+  "content": [
+    {
+      "text": "powers of heaven can be handled only upon principles of righteousness, D&C 121:36. handle me and see, for spirit has not flesh and bones, D&C 129:2 (Luke 24:39).",
+      "references": [
+        {
+          "text": "D&C 121:36",
+          "start": 71,
+          "end": 81,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 36,
+                "end": 36
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 129:2",
+          "start": 138,
+          "end": 147,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 129,
+            "chapterId": "doctrineandcovenants129",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 24:39",
+          "start": 149,
+          "end": 159,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 24,
+            "chapterId": "luke24",
+            "verses": [
+              {
+                "start": 39,
+                "end": 39
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-control",
+      "slug": "control",
+      "title": "Control"
+    },
+    {
+      "entryId": "index-feel",
+      "slug": "feel",
+      "title": "Feel"
+    }
+  ],
+  "slug": "handle",
+  "title": "Handle",
+  "type": "index"
+}

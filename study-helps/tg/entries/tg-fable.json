@@ -1,0 +1,86 @@
+{
+  "_id": "tg-fable",
+  "content": [
+    {
+      "text": "Neither give heed to fables, 1 Tim. 1:4. from the truth, and shall be turned unto fables, 2 Tim. 4:4. Not giving heed to Jewish fables, Titus 1:14. have not followed cunningly devised fables, 2 Pet. 1:16.",
+      "references": [
+        {
+          "text": "1 Tim. 1:4",
+          "start": 29,
+          "end": 39,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 1,
+            "chapterId": "1timothy1",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Tim. 4:4",
+          "start": 90,
+          "end": 100,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-tim",
+            "book": "2timothy",
+            "chapter": 4,
+            "chapterId": "2timothy4",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Titus 1:14",
+          "start": 136,
+          "end": 146,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "titus",
+            "book": "titus",
+            "chapter": 1,
+            "chapterId": "titus1",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Pet. 1:16",
+          "start": 192,
+          "end": 203,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-pet",
+            "book": "2peter",
+            "chapter": 1,
+            "chapterId": "2peter1",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "fable",
+  "title": "Fable",
+  "type": "tg"
+}

@@ -1,0 +1,68 @@
+{
+  "_id": "bd-endor",
+  "content": [
+    {
+      "text": "A place in the territory of Issachar but possessed by Manasseh (Josh. 17:11); the scene of the victory over Sisera (Ps. 83:10); and the home of the witch consulted by Saul the night before his fatal battle at Gilboa (1 Sam. 28:7).",
+      "references": [
+        {
+          "text": "Josh. 17:11",
+          "start": 64,
+          "end": 75,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "josh",
+            "book": "joshua",
+            "chapter": 17,
+            "chapterId": "joshua17",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 83:10",
+          "start": 116,
+          "end": 125,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 83,
+            "chapterId": "psalms83",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Sam. 28:7",
+          "start": 217,
+          "end": 228,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 28,
+            "chapterId": "1samuel28",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "endor",
+  "title": "Endor",
+  "type": "bd"
+}

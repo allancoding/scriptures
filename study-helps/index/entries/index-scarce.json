@@ -1,0 +1,56 @@
+{
+  "_id": "index-scarce",
+  "content": [
+    {
+      "text": "timber exceedingly scarce in land northward, Hel. 3:10. wild game becomes scarce in wilderness, 3 Ne. 4:20.",
+      "references": [
+        {
+          "text": "Hel. 3:10",
+          "start": 45,
+          "end": 54,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 3,
+            "chapterId": "helaman3",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 4:20",
+          "start": 96,
+          "end": 106,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 4,
+            "chapterId": "3nephi4",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-few",
+      "slug": "few",
+      "title": "Few"
+    }
+  ],
+  "slug": "scarce",
+  "title": "Scarce",
+  "type": "index"
+}

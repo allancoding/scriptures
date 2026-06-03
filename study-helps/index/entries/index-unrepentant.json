@@ -1,0 +1,56 @@
+{
+  "_id": "index-unrepentant",
+  "content": [
+    {
+      "text": "manner of dealing with unrepentant, D&C 64:12. Christ’s voice not raised among unrepentant, D&C 138:20.",
+      "references": [
+        {
+          "text": "D&C 64:12",
+          "start": 36,
+          "end": 45,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 64,
+            "chapterId": "doctrineandcovenants64",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 138:20",
+          "start": 92,
+          "end": 102,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 138,
+            "chapterId": "doctrineandcovenants138",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-repentance",
+      "slug": "repentance",
+      "title": "Repentance"
+    }
+  ],
+  "slug": "unrepentant",
+  "title": "Unrepentant",
+  "type": "index"
+}

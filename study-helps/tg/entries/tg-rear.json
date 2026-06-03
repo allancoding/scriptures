@@ -1,0 +1,102 @@
+{
+  "_id": "tg-rear",
+  "content": [
+    {
+      "text": "thou shalt rear up the tabernacle, Ex. 26:30 (40:17).",
+      "references": [
+        {
+          "text": "Ex. 26:30",
+          "start": 35,
+          "end": 44,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 26,
+            "chapterId": "exodus26",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "40:17",
+          "start": 46,
+          "end": 51,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 40,
+            "chapterId": "exodus40",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "wilt thou rear it up in three days, John 2:20.",
+      "references": [
+        {
+          "text": "John 2:20",
+          "start": 36,
+          "end": 45,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 2,
+            "chapterId": "john2",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "which temple shall be reared in this generation, D&C 84:4.",
+      "references": [
+        {
+          "text": "D&C 84:4",
+          "start": 49,
+          "end": 57,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 84,
+            "chapterId": "doctrineandcovenants84",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-raise",
+      "slug": "raise",
+      "title": "Raise"
+    }
+  ],
+  "slug": "rear",
+  "title": "Rear",
+  "type": "tg"
+}

@@ -1,0 +1,79 @@
+{
+  "_id": "index-ransom",
+  "content": [
+    {
+      "text": "art thou not he who hath made depths of sea way for ransomed to pass over, 2 Ne. 8:10 (Isa. 51:10). Moroni1 retains Lamanite prisoners as ransom for those taken by Lamanites, Alma 52:8.",
+      "references": [
+        {
+          "text": "2 Ne. 8:10",
+          "start": 75,
+          "end": 85,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 8,
+            "chapterId": "2nephi8",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 51:10",
+          "start": 87,
+          "end": 97,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 51,
+            "chapterId": "isaiah51",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 52:8",
+          "start": 175,
+          "end": 184,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 52,
+            "chapterId": "alma52",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-deliver",
+      "slug": "deliver",
+      "title": "Deliver"
+    },
+    {
+      "entryId": "index-redemption",
+      "slug": "redemption",
+      "title": "Redemption"
+    }
+  ],
+  "slug": "ransom",
+  "title": "Ransom",
+  "type": "index"
+}

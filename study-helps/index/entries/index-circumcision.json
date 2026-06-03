@@ -1,0 +1,56 @@
+{
+  "_id": "index-circumcision",
+  "content": [
+    {
+      "text": "law of circumcision done away in Christ, Moro. 8:8.",
+      "references": [
+        {
+          "text": "Moro. 8:8",
+          "start": 41,
+          "end": 50,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "moro",
+            "book": "moroni",
+            "chapter": 8,
+            "chapterId": "moroni8",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "contention in days of Apostles concerning law of circumcision, D&C 74.",
+      "references": [
+        {
+          "text": "D&C 74",
+          "start": 63,
+          "end": 69,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 74,
+            "chapterId": "doctrineandcovenants74",
+            "verses": []
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-uncircumcised",
+      "slug": "uncircumcised",
+      "title": "Uncircumcised"
+    }
+  ],
+  "slug": "circumcision",
+  "title": "Circumcision",
+  "type": "index"
+}

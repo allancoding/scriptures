@@ -1,0 +1,163 @@
+{
+  "_id": "tg-posterity",
+  "content": [
+    {
+      "text": "God sent me before you to preserve you a posterity, Gen. 45:7. Let his posterity be cut off, Ps. 109:13. kingdom … shall be divided … not to his posterity, Dan. 11:4.",
+      "references": [
+        {
+          "text": "Gen. 45:7",
+          "start": 52,
+          "end": 61,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 45,
+            "chapterId": "genesis45",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 109:13",
+          "start": 93,
+          "end": 103,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 109,
+            "chapterId": "psalms109",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 11:4",
+          "start": 156,
+          "end": 165,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 11,
+            "chapterId": "daniel11",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "their posterity shall be swept from under heaven, D&C 121:15.",
+      "references": [
+        {
+          "text": "D&C 121:15",
+          "start": 50,
+          "end": 60,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "posterity of all the sons of Noah should be saved with a temporal salvation, Moses 7:42. write … upon this record, for the benefit of my posterity, Abr. 1:31.",
+      "references": [
+        {
+          "text": "Moses 7:42",
+          "start": 77,
+          "end": 87,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 7,
+            "chapterId": "moses7",
+            "verses": [
+              {
+                "start": 42,
+                "end": 42
+              }
+            ]
+          }
+        },
+        {
+          "text": "Abr. 1:31",
+          "start": 148,
+          "end": 157,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 1,
+            "chapterId": "abraham1",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-children",
+      "slug": "children",
+      "title": "Children"
+    },
+    {
+      "entryId": "tg-family",
+      "slug": "family",
+      "title": "Family"
+    },
+    {
+      "entryId": "tg-family-eternal",
+      "slug": "family-eternal",
+      "title": "Family, Eternal"
+    },
+    {
+      "entryId": "tg-family-patriarchal",
+      "slug": "family-patriarchal",
+      "title": "Family, Patriarchal"
+    },
+    {
+      "entryId": "tg-offspring",
+      "slug": "offspring",
+      "title": "Offspring"
+    },
+    {
+      "entryId": "tg-seed",
+      "slug": "seed",
+      "title": "Seed"
+    }
+  ],
+  "slug": "posterity",
+  "title": "Posterity",
+  "type": "tg"
+}

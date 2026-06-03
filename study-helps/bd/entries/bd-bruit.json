@@ -1,0 +1,50 @@
+{
+  "_id": "bd-bruit",
+  "content": [
+    {
+      "text": "Report or rumor (Jer. 10:22; Nahum 3:19).",
+      "references": [
+        {
+          "text": "Jer. 10:22",
+          "start": 17,
+          "end": 27,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 10,
+            "chapterId": "jeremiah10",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Nahum 3:19",
+          "start": 29,
+          "end": 39,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "nahum",
+            "book": "nahum",
+            "chapter": 3,
+            "chapterId": "nahum3",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "bruit",
+  "title": "Bruit",
+  "type": "bd"
+}

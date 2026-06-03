@@ -1,0 +1,68 @@
+{
+  "_id": "index-shim-hill",
+  "content": [
+    {
+      "text": "Ammaron deposited records in hill called Shim, Morm. 1:3. Mormon2 takes records from hill Shim, Morm. 4:23. Omer and family travel near hill of Shim and place where Nephites were destroyed, Ether 9:3.",
+      "references": [
+        {
+          "text": "Morm. 1:3",
+          "start": 47,
+          "end": 56,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 1,
+            "chapterId": "mormon1",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 4:23",
+          "start": 96,
+          "end": 106,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 4,
+            "chapterId": "mormon4",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 9:3",
+          "start": 190,
+          "end": 199,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 9,
+            "chapterId": "ether9",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "shim-hill",
+  "title": "Shim, Hill—in land Antum",
+  "type": "index"
+}

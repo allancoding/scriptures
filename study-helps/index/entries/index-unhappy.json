@@ -1,0 +1,43 @@
+{
+  "_id": "index-unhappy",
+  "content": [
+    {
+      "text": "he who is unhappy shall be unhappy still, Morm. 9:14.",
+      "references": [
+        {
+          "text": "Morm. 9:14",
+          "start": 42,
+          "end": 52,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 9,
+            "chapterId": "mormon9",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-happiness",
+      "slug": "happiness",
+      "title": "Happiness"
+    },
+    {
+      "entryId": "index-misery",
+      "slug": "misery",
+      "title": "Misery"
+    }
+  ],
+  "slug": "unhappy",
+  "title": "Unhappy",
+  "type": "index"
+}

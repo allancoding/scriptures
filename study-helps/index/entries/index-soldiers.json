@@ -1,0 +1,61 @@
+{
+  "_id": "index-soldiers",
+  "content": [
+    {
+      "text": "Amalickiah gathers soldiers for war with Nephites, Alma 51:9. Helaman2 marches at head of 2,000 stripling soldiers, Alma 53:22.",
+      "references": [
+        {
+          "text": "Alma 51:9",
+          "start": 51,
+          "end": 60,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 51,
+            "chapterId": "alma51",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 53:22",
+          "start": 116,
+          "end": 126,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 53,
+            "chapterId": "alma53",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-army",
+      "slug": "army",
+      "title": "Army"
+    },
+    {
+      "entryId": "index-war",
+      "slug": "war",
+      "title": "War"
+    }
+  ],
+  "slug": "soldiers",
+  "title": "Soldiers",
+  "type": "index"
+}

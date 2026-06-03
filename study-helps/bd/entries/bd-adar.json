@@ -1,0 +1,73 @@
+{
+  "_id": "bd-adar",
+  "content": [
+    {
+      "text": "(1) Josh. 15:3; same as Hazar-addar (Num. 34:4).",
+      "references": [
+        {
+          "text": "Josh. 15:3",
+          "start": 4,
+          "end": 14,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "josh",
+            "book": "joshua",
+            "chapter": 15,
+            "chapterId": "joshua15",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 34:4",
+          "start": 37,
+          "end": 46,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 34,
+            "chapterId": "numbers34",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "(2) The twelfth month (Esth. 3:7). See also Calendar.",
+      "references": [
+        {
+          "text": "Esth. 3:7",
+          "start": 23,
+          "end": 32,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "esth",
+            "book": "esther",
+            "chapter": 3,
+            "chapterId": "esther3",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "adar",
+  "title": "Adar",
+  "type": "bd"
+}

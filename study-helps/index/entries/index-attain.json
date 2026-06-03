@@ -1,0 +1,56 @@
+{
+  "_id": "index-attain",
+  "content": [
+    {
+      "text": "whatever principle of intelligence we attain unto in this life will rise with us, D&C 130:18. except ye abide the Lord’s law ye cannot attain celestial glory, D&C 132:21.",
+      "references": [
+        {
+          "text": "D&C 130:18",
+          "start": 82,
+          "end": 92,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 130,
+            "chapterId": "doctrineandcovenants130",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 132:21",
+          "start": 159,
+          "end": 169,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 132,
+            "chapterId": "doctrineandcovenants132",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-obtain",
+      "slug": "obtain",
+      "title": "Obtain"
+    }
+  ],
+  "slug": "attain",
+  "title": "Attain",
+  "type": "index"
+}

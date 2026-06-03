@@ -1,0 +1,89 @@
+{
+  "_id": "tg-light-adjective",
+  "content": [
+    {
+      "text": "light thing that thou shouldest be my servant, Isa. 49:6 (1 Ne. 21:6).",
+      "references": [
+        {
+          "text": "Isa. 49:6",
+          "start": 47,
+          "end": 56,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 49,
+            "chapterId": "isaiah49",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Ne. 21:6",
+          "start": 58,
+          "end": 68,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 21,
+            "chapterId": "1nephi21",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "yoke is easy, and my burden is light, Matt. 11:30.",
+      "references": [
+        {
+          "text": "Matt. 11:30",
+          "start": 38,
+          "end": 49,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 11,
+            "chapterId": "matthew11",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-easy",
+      "slug": "easy",
+      "title": "Easy"
+    },
+    {
+      "entryId": "tg-little",
+      "slug": "little",
+      "title": "Little"
+    },
+    {
+      "entryId": "tg-small",
+      "slug": "small",
+      "title": "Small"
+    }
+  ],
+  "slug": "light-adjective",
+  "title": "Light, Lighter [adjective]",
+  "type": "tg"
+}

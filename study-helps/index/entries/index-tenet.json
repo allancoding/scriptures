@@ -1,0 +1,66 @@
+{
+  "_id": "index-tenet",
+  "content": [
+    {
+      "text": "talk not of tenets, D&C 19:31.",
+      "references": [
+        {
+          "text": "D&C 19:31",
+          "start": 20,
+          "end": 29,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 19,
+            "chapterId": "doctrineandcovenants19",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "different denominations are equally zealous in endeavoring to establish tenets, JS—H 1:9.",
+      "references": [
+        {
+          "text": "JS—H 1:9",
+          "start": 80,
+          "end": 88,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-doctrine",
+      "slug": "doctrine",
+      "title": "Doctrine"
+    },
+    {
+      "entryId": "index-doctrine-false",
+      "slug": "doctrine-false",
+      "title": "Doctrine, False"
+    }
+  ],
+  "slug": "tenet",
+  "title": "Tenet",
+  "type": "index"
+}

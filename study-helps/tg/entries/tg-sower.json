@@ -1,0 +1,109 @@
+{
+  "_id": "tg-sower",
+  "content": [
+    {
+      "text": "sower went forth to sow, Matt. 13:3 (Mark 4:3; Luke 8:5). Hear ye therefore the parable of the sower, Matt. 13:18.",
+      "references": [
+        {
+          "text": "Matt. 13:3",
+          "start": 25,
+          "end": 35,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 13,
+            "chapterId": "matthew13",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 4:3",
+          "start": 37,
+          "end": 45,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 4,
+            "chapterId": "mark4",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 8:5",
+          "start": 47,
+          "end": 55,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 8,
+            "chapterId": "luke8",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 13:18",
+          "start": 102,
+          "end": 113,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 13,
+            "chapterId": "matthew13",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "apostles were the sowers of the seed, D&C 86:2.",
+      "references": [
+        {
+          "text": "D&C 86:2",
+          "start": 38,
+          "end": 46,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 86,
+            "chapterId": "doctrineandcovenants86",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "sower",
+  "title": "Sower",
+  "type": "tg"
+}

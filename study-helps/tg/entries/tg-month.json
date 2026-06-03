@@ -1,0 +1,189 @@
+{
+  "_id": "tg-month",
+  "content": [
+    {
+      "text": "This month shall be unto you the beginning of months, Ex. 12:2. This day came ye out in the month Abib, Ex. 13:4 (34:18). Let … monthly prognosticators, stand up, and save thee, Isa. 47:13.",
+      "references": [
+        {
+          "text": "Ex. 12:2",
+          "start": 54,
+          "end": 62,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 12,
+            "chapterId": "exodus12",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 13:4",
+          "start": 104,
+          "end": 112,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 13,
+            "chapterId": "exodus13",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "34:18",
+          "start": 114,
+          "end": 119,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 34,
+            "chapterId": "exodus34",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 47:13",
+          "start": 178,
+          "end": 188,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 47,
+            "chapterId": "isaiah47",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Ye observe days, and months, and times, Gal. 4:10.",
+      "references": [
+        {
+          "text": "Gal. 4:10",
+          "start": 40,
+          "end": 49,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "gal",
+            "book": "galatians",
+            "chapter": 4,
+            "chapterId": "galatians4",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "light to each other in their times and in their seasons … in their months, D&C 88:44. all the appointed days, months, and years … shall be revealed, D&C 121:31.",
+      "references": [
+        {
+          "text": "D&C 88:44",
+          "start": 75,
+          "end": 84,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 44,
+                "end": 44
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 121:31",
+          "start": 149,
+          "end": 159,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "reckoning of its time is not so many as to its number of days, and of months, Abr. 3:5.",
+      "references": [
+        {
+          "text": "Abr. 3:5",
+          "start": 78,
+          "end": 86,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 3,
+            "chapterId": "abraham3",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-day",
+      "slug": "day",
+      "title": "Day"
+    },
+    {
+      "entryId": "tg-time",
+      "slug": "time",
+      "title": "Time"
+    },
+    {
+      "entryId": "tg-year",
+      "slug": "year",
+      "title": "Year"
+    }
+  ],
+  "slug": "month",
+  "title": "Month, Monthly",
+  "type": "tg"
+}

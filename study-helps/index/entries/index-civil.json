@@ -1,0 +1,43 @@
+{
+  "_id": "index-civil",
+  "content": [
+    {
+      "text": "Nephites were civil people, Moro. 9:12.",
+      "references": [
+        {
+          "text": "Moro. 9:12",
+          "start": 28,
+          "end": 38,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "moro",
+            "book": "moroni",
+            "chapter": 9,
+            "chapterId": "moroni9",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-government-civil",
+      "slug": "government-civil",
+      "title": "Government, Civil"
+    },
+    {
+      "entryId": "index-magistrate",
+      "slug": "magistrate",
+      "title": "Magistrate"
+    }
+  ],
+  "slug": "civil",
+  "title": "Civil",
+  "type": "index"
+}

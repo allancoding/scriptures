@@ -1,0 +1,50 @@
+{
+  "_id": "bd-dromedary",
+  "content": [
+    {
+      "text": "A fine and swift breed of Arabian camel (Isa. 60:6; Jer. 2:23).",
+      "references": [
+        {
+          "text": "Isa. 60:6",
+          "start": 41,
+          "end": 50,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 60,
+            "chapterId": "isaiah60",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 2:23",
+          "start": 52,
+          "end": 61,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 2,
+            "chapterId": "jeremiah2",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "dromedary",
+  "title": "Dromedary",
+  "type": "bd"
+}

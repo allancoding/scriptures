@@ -1,0 +1,97 @@
+{
+  "_id": "index-witchcraft",
+  "content": [
+    {
+      "text": "the Lord will cut off witchcrafts out of land, 3 Ne. 21:16 (Micah 5:12). witchcrafts in land, Morm. 1:19 (2:10).",
+      "references": [
+        {
+          "text": "3 Ne. 21:16",
+          "start": 47,
+          "end": 58,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 21,
+            "chapterId": "3nephi21",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Micah 5:12",
+          "start": 60,
+          "end": 70,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "micah",
+            "book": "micah",
+            "chapter": 5,
+            "chapterId": "micah5",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 1:19",
+          "start": 94,
+          "end": 104,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 1,
+            "chapterId": "mormon1",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "2:10",
+          "start": 106,
+          "end": 110,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 2,
+            "chapterId": "mormon2",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-magic",
+      "slug": "magic",
+      "title": "Magic"
+    },
+    {
+      "entryId": "index-sorceries",
+      "slug": "sorceries",
+      "title": "Sorceries"
+    }
+  ],
+  "slug": "witchcraft",
+  "title": "Witchcraft",
+  "type": "index"
+}

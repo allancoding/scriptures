@@ -1,0 +1,48 @@
+{
+  "_id": "index-merchants",
+  "content": [
+    {
+      "text": "many merchants in land, 3 Ne. 6:11.",
+      "references": [
+        {
+          "text": "3 Ne. 6:11",
+          "start": 24,
+          "end": 34,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 6,
+            "chapterId": "3nephi6",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-business",
+      "slug": "business",
+      "title": "Business"
+    },
+    {
+      "entryId": "index-trade",
+      "slug": "trade",
+      "title": "Trade"
+    },
+    {
+      "entryId": "index-traffic",
+      "slug": "traffic",
+      "title": "Traffic"
+    }
+  ],
+  "slug": "merchants",
+  "title": "Merchants",
+  "type": "index"
+}

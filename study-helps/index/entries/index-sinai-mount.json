@@ -1,0 +1,79 @@
+{
+  "_id": "index-sinai-mount",
+  "content": [
+    {
+      "text": "keep commandments the Lord gave Moses on Sinai, Mosiah 12:33. Abinadi’s face shines as did Moses’ on Sinai, Mosiah 13:5.",
+      "references": [
+        {
+          "text": "Mosiah 12:33",
+          "start": 48,
+          "end": 60,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 12,
+            "chapterId": "mosiah12",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 13:5",
+          "start": 108,
+          "end": 119,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 13,
+            "chapterId": "mosiah13",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "trump shall sound as upon Mount Sinai, D&C 29:13.",
+      "references": [
+        {
+          "text": "D&C 29:13",
+          "start": 39,
+          "end": 48,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 29,
+            "chapterId": "doctrineandcovenants29",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-mount-mountain",
+      "slug": "mount-mountain",
+      "title": "Mount, Mountain"
+    }
+  ],
+  "slug": "sinai-mount",
+  "title": "Sinai, Mount",
+  "type": "index"
+}

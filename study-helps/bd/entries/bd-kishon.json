@@ -1,0 +1,90 @@
+{
+  "_id": "bd-kishon",
+  "content": [
+    {
+      "text": "A river that carries water from the hills around Esdraelon to the Mediterranean. It is connected with two great events, the defeat of Sisera (Judg. 4:7, 13; 5:21; Ps. 83:9) and the destruction of the prophets of Baal by Elijah (1 Kgs. 18:40).",
+      "references": [
+        {
+          "text": "Judg. 4:7, 13",
+          "start": 142,
+          "end": 155,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "judg",
+            "book": "judges",
+            "chapter": 4,
+            "chapterId": "judges4",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              },
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "5:21",
+          "start": 157,
+          "end": 161,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "judg",
+            "book": "judges",
+            "chapter": 5,
+            "chapterId": "judges5",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 83:9",
+          "start": 163,
+          "end": 171,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 83,
+            "chapterId": "psalms83",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Kgs. 18:40",
+          "start": 228,
+          "end": 240,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 18,
+            "chapterId": "1kings18",
+            "verses": [
+              {
+                "start": 40,
+                "end": 40
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "kishon",
+  "title": "Kishon",
+  "type": "bd"
+}

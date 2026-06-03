@@ -1,0 +1,150 @@
+{
+  "_id": "tg-stave",
+  "content": [
+    {
+      "text": "make staves of shittim wood, Ex. 25:13 (37:4). Am I a dog, that thou comest to me with staves, 1 Sam. 17:43. I took unto me two staves, Zech. 11:7.",
+      "references": [
+        {
+          "text": "Ex. 25:13",
+          "start": 29,
+          "end": 38,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 25,
+            "chapterId": "exodus25",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "37:4",
+          "start": 40,
+          "end": 44,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 37,
+            "chapterId": "exodus37",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Sam. 17:43",
+          "start": 95,
+          "end": 107,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 17,
+            "chapterId": "1samuel17",
+            "verses": [
+              {
+                "start": 43,
+                "end": 43
+              }
+            ]
+          }
+        },
+        {
+          "text": "Zech. 11:7",
+          "start": 136,
+          "end": 146,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "zech",
+            "book": "zechariah",
+            "chapter": 11,
+            "chapterId": "zechariah11",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "neither two coats … nor yet staves, Matt. 10:10 (Luke 9:3).",
+      "references": [
+        {
+          "text": "Matt. 10:10",
+          "start": 36,
+          "end": 47,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 10,
+            "chapterId": "matthew10",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 9:3",
+          "start": 49,
+          "end": 57,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 9,
+            "chapterId": "luke9",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "take no purse nor scrip, neither staves, D&C 24:18.",
+      "references": [
+        {
+          "text": "D&C 24:18",
+          "start": 41,
+          "end": 50,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 24,
+            "chapterId": "doctrineandcovenants24",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "stave",
+  "title": "Stave",
+  "type": "tg"
+}

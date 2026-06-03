@@ -1,0 +1,55 @@
+{
+  "_id": "tg-pulpit",
+  "content": [
+    {
+      "text": "Ezra the scribe stood upon a pulpit of wood, Neh. 8:4.",
+      "references": [
+        {
+          "text": "Neh. 8:4",
+          "start": 45,
+          "end": 53,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "neh",
+            "book": "nehemiah",
+            "chapter": 8,
+            "chapterId": "nehemiah8",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "saw the Lord standing upon the breastwork of the pulpit, D&C 110:2.",
+      "references": [
+        {
+          "text": "D&C 110:2",
+          "start": 57,
+          "end": 66,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 110,
+            "chapterId": "doctrineandcovenants110",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "pulpit",
+  "title": "Pulpit",
+  "type": "tg"
+}

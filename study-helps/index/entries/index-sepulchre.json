@@ -1,0 +1,78 @@
+{
+  "_id": "index-sepulchre",
+  "content": [
+    {
+      "text": "Christ to be buried in sepulchre, 1 Ne. 19:10 (2 Ne. 25:13). King Lamoni to be laid in sepulchre, Alma 19:1, 5.",
+      "references": [
+        {
+          "text": "1 Ne. 19:10",
+          "start": 34,
+          "end": 45,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 19,
+            "chapterId": "1nephi19",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 25:13",
+          "start": 47,
+          "end": 58,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 25,
+            "chapterId": "2nephi25",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 19:1, 5",
+          "start": 98,
+          "end": 110,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 19,
+            "chapterId": "alma19",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              },
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-grave",
+      "slug": "grave",
+      "title": "Grave"
+    }
+  ],
+  "slug": "sepulchre",
+  "title": "Sepulchre",
+  "type": "index"
+}

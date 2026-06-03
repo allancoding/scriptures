@@ -1,0 +1,43 @@
+{
+  "_id": "index-lamp",
+  "content": [
+    {
+      "text": "have lamps trimmed and burning, ready for the Bridegroom, D&C 33:17.",
+      "references": [
+        {
+          "text": "D&C 33:17",
+          "start": 58,
+          "end": 67,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 33,
+            "chapterId": "doctrineandcovenants33",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-candle",
+      "slug": "candle",
+      "title": "Candle"
+    },
+    {
+      "entryId": "index-light",
+      "slug": "light",
+      "title": "Light"
+    }
+  ],
+  "slug": "lamp",
+  "title": "Lamp",
+  "type": "index"
+}

@@ -1,0 +1,171 @@
+{
+  "_id": "tg-pastor",
+  "content": [
+    {
+      "text": "pastors also transgressed against me, Jer. 2:8. I will give you pastors according to mine heart, Jer. 3:15. pastors are become brutish, Jer. 10:21. Woe be unto the pastors that destroy and scatter, Jer. 23:1.",
+      "references": [
+        {
+          "text": "Jer. 2:8",
+          "start": 38,
+          "end": 46,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 2,
+            "chapterId": "jeremiah2",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 3:15",
+          "start": 97,
+          "end": 106,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 3,
+            "chapterId": "jeremiah3",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 10:21",
+          "start": 136,
+          "end": 146,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 10,
+            "chapterId": "jeremiah10",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 23:1",
+          "start": 198,
+          "end": 207,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 23,
+            "chapterId": "jeremiah23",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "he gave some … pastors and teachers, Eph. 4:11.",
+      "references": [
+        {
+          "text": "Eph. 4:11",
+          "start": 37,
+          "end": 46,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "eph",
+            "book": "ephesians",
+            "chapter": 4,
+            "chapterId": "ephesians4",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "driven out because of the wickedness of the pastors, 1 Ne. 21:1.",
+      "references": [
+        {
+          "text": "1 Ne. 21:1",
+          "start": 53,
+          "end": 63,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 21,
+            "chapterId": "1nephi21",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "same organization that existed in the Primitive Church … pastors, A of F 1:6.",
+      "references": [
+        {
+          "text": "A of F 1:6",
+          "start": 66,
+          "end": 76,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "a-of-f",
+            "book": "articlesoffaith",
+            "chapter": 1,
+            "chapterId": "articlesoffaith1",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-bishop",
+      "slug": "bishop",
+      "title": "Bishop"
+    },
+    {
+      "entryId": "tg-overseer",
+      "slug": "overseer",
+      "title": "Overseer"
+    },
+    {
+      "entryId": "tg-shepherd",
+      "slug": "shepherd",
+      "title": "Shepherd"
+    }
+  ],
+  "slug": "pastor",
+  "title": "Pastor",
+  "type": "tg"
+}

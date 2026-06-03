@@ -1,0 +1,56 @@
+{
+  "_id": "index-eagle",
+  "content": [
+    {
+      "text": "the Lord will bear his servant up as on eagles’ wings, D&C 124:18. he shall mount up in imagination as upon eagles’ wings, D&C 124:99.",
+      "references": [
+        {
+          "text": "D&C 124:18",
+          "start": 55,
+          "end": 65,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 124,
+            "chapterId": "doctrineandcovenants124",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 124:99",
+          "start": 123,
+          "end": 133,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 124,
+            "chapterId": "doctrineandcovenants124",
+            "verses": [
+              {
+                "start": 99,
+                "end": 99
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-animal",
+      "slug": "animal",
+      "title": "Animal"
+    }
+  ],
+  "slug": "eagle",
+  "title": "Eagle",
+  "type": "index"
+}

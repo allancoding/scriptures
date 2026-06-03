@@ -1,0 +1,814 @@
+{
+  "_id": "tg-little",
+  "content": [
+    {
+      "text": "he that gathered little had no lack, Ex. 16:18 (2 Cor. 8:15). yet a little while, and the wicked shall not be, Ps. 37:10. a little sleep, a little slumber, a little folding, Prov. 6:10 (24:33). Better is little with the fear of the Lord, Prov. 15:16. Better is a little with righteousness, Prov. 16:8. a little child shall lead them, Isa. 11:6 (2 Ne. 21:6; 30:12). line upon line; here a little, and there a little, Isa. 28:10 (2 Ne. 28:30; D&C 128:21). A little one shall become a thousand, Isa. 60:22. thou be little among the thousands of Judah, Micah 5:2.",
+      "references": [
+        {
+          "text": "Ex. 16:18",
+          "start": 37,
+          "end": 46,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 16,
+            "chapterId": "exodus16",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Cor. 8:15",
+          "start": 48,
+          "end": 59,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 8,
+            "chapterId": "2corinthians8",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 37:10",
+          "start": 111,
+          "end": 120,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 37,
+            "chapterId": "psalms37",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 6:10",
+          "start": 174,
+          "end": 184,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 6,
+            "chapterId": "proverbs6",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "24:33",
+          "start": 186,
+          "end": 191,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 24,
+            "chapterId": "proverbs24",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 15:16",
+          "start": 238,
+          "end": 249,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 15,
+            "chapterId": "proverbs15",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 16:8",
+          "start": 290,
+          "end": 300,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 16,
+            "chapterId": "proverbs16",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 11:6",
+          "start": 334,
+          "end": 343,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 11,
+            "chapterId": "isaiah11",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 21:6",
+          "start": 345,
+          "end": 355,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 21,
+            "chapterId": "2nephi21",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "30:12",
+          "start": 357,
+          "end": 362,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 30,
+            "chapterId": "2nephi30",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 28:10",
+          "start": 416,
+          "end": 426,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 28,
+            "chapterId": "isaiah28",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 28:30",
+          "start": 428,
+          "end": 439,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 28,
+            "chapterId": "2nephi28",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 128:21",
+          "start": 441,
+          "end": 451,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 128,
+            "chapterId": "doctrineandcovenants128",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 60:22",
+          "start": 492,
+          "end": 502,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 60,
+            "chapterId": "isaiah60",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Micah 5:2",
+          "start": 549,
+          "end": 558,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "micah",
+            "book": "micah",
+            "chapter": 5,
+            "chapterId": "micah5",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "O ye of little faith, Matt. 6:30 (8:26; 16:8; Luke 12:28). offend one of these little ones, Matt. 18:6 (Mark 9:42; Luke 17:2). to whom little is forgiven, the same loveth little, Luke 7:47. thou hast been faithful in a very little, Luke 19:17. Yet a little while is the light with you, John 12:35. bodily exercise profiteth little, 1 Tim. 4:8. tongue is a little member, and boasteth, James 3:5. he had in his hand a little book, Rev. 10:2.",
+      "references": [
+        {
+          "text": "Matt. 6:30",
+          "start": 22,
+          "end": 32,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 6,
+            "chapterId": "matthew6",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "8:26",
+          "start": 34,
+          "end": 38,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 8,
+            "chapterId": "matthew8",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "16:8",
+          "start": 40,
+          "end": 44,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 16,
+            "chapterId": "matthew16",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 12:28",
+          "start": 46,
+          "end": 56,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 12,
+            "chapterId": "luke12",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 18:6",
+          "start": 92,
+          "end": 102,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 18,
+            "chapterId": "matthew18",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 9:42",
+          "start": 104,
+          "end": 113,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 9,
+            "chapterId": "mark9",
+            "verses": [
+              {
+                "start": 42,
+                "end": 42
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 17:2",
+          "start": 115,
+          "end": 124,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 17,
+            "chapterId": "luke17",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 7:47",
+          "start": 179,
+          "end": 188,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 7,
+            "chapterId": "luke7",
+            "verses": [
+              {
+                "start": 47,
+                "end": 47
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 19:17",
+          "start": 232,
+          "end": 242,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 19,
+            "chapterId": "luke19",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 12:35",
+          "start": 286,
+          "end": 296,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 12,
+            "chapterId": "john12",
+            "verses": [
+              {
+                "start": 35,
+                "end": 35
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Tim. 4:8",
+          "start": 332,
+          "end": 342,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 4,
+            "chapterId": "1timothy4",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "James 3:5",
+          "start": 385,
+          "end": 394,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "james",
+            "book": "james",
+            "chapter": 3,
+            "chapterId": "james3",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 10:2",
+          "start": 430,
+          "end": 439,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 10,
+            "chapterId": "revelation10",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "except they … become as little children, Mosiah 3:18. little children also have eternal life, Mosiah 15:25. of him that had but little, but little should be required, Mosiah 18:27. repenteth and cometh unto me as a little child, 3 Ne. 9:22 (11:37). clothe you, if ye are not of little faith, 3 Ne. 13:30. angels descending … and encircled those little ones, 3 Ne. 17:24. disputations among you concerning the baptism of your little children, Moro. 8:5.",
+      "references": [
+        {
+          "text": "Mosiah 3:18",
+          "start": 41,
+          "end": 52,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 3,
+            "chapterId": "mosiah3",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 15:25",
+          "start": 94,
+          "end": 106,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 15,
+            "chapterId": "mosiah15",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 18:27",
+          "start": 167,
+          "end": 179,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 18,
+            "chapterId": "mosiah18",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 9:22",
+          "start": 229,
+          "end": 239,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 9,
+            "chapterId": "3nephi9",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "11:37",
+          "start": 241,
+          "end": 246,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 11,
+            "chapterId": "3nephi11",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 13:30",
+          "start": 292,
+          "end": 303,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 13,
+            "chapterId": "3nephi13",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 17:24",
+          "start": 358,
+          "end": 369,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 17,
+            "chapterId": "3nephi17",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moro. 8:5",
+          "start": 442,
+          "end": 451,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "moro",
+            "book": "moroni",
+            "chapter": 8,
+            "chapterId": "moroni8",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "will I spare the earth but for a little season, D&C 29:22. little children are redeemed from the foundation of the world, D&C 29:46. power is not given unto Satan to tempt little children, D&C 29:47. tradition might be done away, which saith that little children are unholy, D&C 74:6. a little while and ye shall see it, D&C 84:119. he shall be loosed for a little season, D&C 88:111. men … get a little authority … exercise unrighteous dominion, D&C 121:39.",
+      "references": [
+        {
+          "text": "D&C 29:22",
+          "start": 48,
+          "end": 57,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 29,
+            "chapterId": "doctrineandcovenants29",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 29:46",
+          "start": 122,
+          "end": 131,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 29,
+            "chapterId": "doctrineandcovenants29",
+            "verses": [
+              {
+                "start": 46,
+                "end": 46
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 29:47",
+          "start": 189,
+          "end": 198,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 29,
+            "chapterId": "doctrineandcovenants29",
+            "verses": [
+              {
+                "start": 47,
+                "end": 47
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 74:6",
+          "start": 275,
+          "end": 283,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 74,
+            "chapterId": "doctrineandcovenants74",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 84:119",
+          "start": 321,
+          "end": 331,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 84,
+            "chapterId": "doctrineandcovenants84",
+            "verses": [
+              {
+                "start": 119,
+                "end": 119
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 88:111",
+          "start": 373,
+          "end": 383,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 111,
+                "end": 111
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 121:39",
+          "start": 447,
+          "end": 457,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 39,
+                "end": 39
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-light-adjective",
+      "slug": "light-adjective",
+      "title": "Light [adjective]"
+    },
+    {
+      "entryId": "tg-small",
+      "slug": "small",
+      "title": "Small"
+    }
+  ],
+  "slug": "little",
+  "title": "Little",
+  "type": "tg"
+}

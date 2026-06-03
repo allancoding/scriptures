@@ -1,0 +1,102 @@
+{
+  "_id": "tg-race",
+  "content": [
+    {
+      "text": "race is not to the swift, Eccl. 9:11.",
+      "references": [
+        {
+          "text": "Eccl. 9:11",
+          "start": 26,
+          "end": 36,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "eccl",
+            "book": "ecclesiastes",
+            "chapter": 9,
+            "chapterId": "ecclesiastes9",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "they which run in a race run all, 1 Cor. 9:24. let us run with patience the race, Heb. 12:1.",
+      "references": [
+        {
+          "text": "1 Cor. 9:24",
+          "start": 34,
+          "end": 45,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 9,
+            "chapterId": "1corinthians9",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 12:1",
+          "start": 82,
+          "end": 91,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 12,
+            "chapterId": "hebrews12",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "from Ham, sprang that race which preserved the curse in the land, Abr. 1:24.",
+      "references": [
+        {
+          "text": "Abr. 1:24",
+          "start": 66,
+          "end": 75,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 1,
+            "chapterId": "abraham1",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-run",
+      "slug": "run",
+      "title": "Run"
+    }
+  ],
+  "slug": "race",
+  "title": "Race",
+  "type": "tg"
+}

@@ -1,0 +1,120 @@
+{
+  "_id": "index-abridgment",
+  "content": [
+    {
+      "text": "Book of Mormon abridgment of Nephite record and Book of Ether, title page of the Book of Mormon. Nephi1 abridges father’s record, 1 Ne. 1:17. Mormon2 abridges record of Nephi1, W of M 1:3. Mormon2 makes small abridgment of things he has seen, Morm. 5:9. Moroni2 abridges Jaredites’ record, Moro. 1:1.",
+      "references": [
+        {
+          "text": "1 Ne. 1:17",
+          "start": 130,
+          "end": 140,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 1,
+            "chapterId": "1nephi1",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "W of M 1:3",
+          "start": 177,
+          "end": 187,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "w-of-m",
+            "book": "wordsofmormon",
+            "chapter": 1,
+            "chapterId": "wordsofmormon1",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 5:9",
+          "start": 243,
+          "end": 252,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 5,
+            "chapterId": "mormon5",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moro. 1:1",
+          "start": 290,
+          "end": 299,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "moro",
+            "book": "moroni",
+            "chapter": 1,
+            "chapterId": "moroni1",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "lost manuscript contained only abridgment of account of Nephi1, D&C 10:44.",
+      "references": [
+        {
+          "text": "D&C 10:44",
+          "start": 64,
+          "end": 73,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 10,
+            "chapterId": "doctrineandcovenants10",
+            "verses": [
+              {
+                "start": 44,
+                "end": 44
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-plates",
+      "slug": "plates",
+      "title": "Plates"
+    },
+    {
+      "entryId": "index-record",
+      "slug": "record",
+      "title": "Record"
+    }
+  ],
+  "slug": "abridgment",
+  "title": "Abridgment, Abridge",
+  "type": "index"
+}

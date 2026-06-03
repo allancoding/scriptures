@@ -1,0 +1,109 @@
+{
+  "_id": "tg-stain",
+  "content": [
+    {
+      "text": "I will stain all my raiment, Isa. 63:3 (D&C 133:51).",
+      "references": [
+        {
+          "text": "Isa. 63:3",
+          "start": 29,
+          "end": 38,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 63,
+            "chapterId": "isaiah63",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 133:51",
+          "start": 40,
+          "end": 50,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 133,
+            "chapterId": "doctrineandcovenants133",
+            "verses": [
+              {
+                "start": 51,
+                "end": 51
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "garments must be purified until they are cleansed from all stain, Alma 5:21. having your garments stained with blood, Alma 5:22. let us stain our swords no more, Alma 24:12.",
+      "references": [
+        {
+          "text": "Alma 5:21",
+          "start": 66,
+          "end": 75,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 5,
+            "chapterId": "alma5",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 5:22",
+          "start": 118,
+          "end": 127,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 5,
+            "chapterId": "alma5",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 24:12",
+          "start": 162,
+          "end": 172,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 24,
+            "chapterId": "alma24",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "stain",
+  "title": "Stain",
+  "type": "tg"
+}

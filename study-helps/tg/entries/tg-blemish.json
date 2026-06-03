@@ -1,0 +1,169 @@
+{
+  "_id": "tg-blemish",
+  "content": [
+    {
+      "text": "Your lamb shall be without blemish, Ex. 12:5. let him offer a male without blemish, Lev. 1:3 (22:19). to the crown … there was no blemish in him, 2 Sam. 14:25. Children in whom was no blemish, Dan. 1:4.",
+      "references": [
+        {
+          "text": "Ex. 12:5",
+          "start": 36,
+          "end": 44,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 12,
+            "chapterId": "exodus12",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Lev. 1:3",
+          "start": 84,
+          "end": 92,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 1,
+            "chapterId": "leviticus1",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "22:19",
+          "start": 94,
+          "end": 99,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 22,
+            "chapterId": "leviticus22",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Sam. 14:25",
+          "start": 146,
+          "end": 158,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-sam",
+            "book": "2samuel",
+            "chapter": 14,
+            "chapterId": "2samuel14",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 1:4",
+          "start": 193,
+          "end": 201,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 1,
+            "chapterId": "daniel1",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "should be holy and without blemish, Eph. 5:27. lamb without blemish and without spot, 1 Pet. 1:19. Spots they are and blemishes, 2 Pet. 2:13.",
+      "references": [
+        {
+          "text": "Eph. 5:27",
+          "start": 36,
+          "end": 45,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "eph",
+            "book": "ephesians",
+            "chapter": 5,
+            "chapterId": "ephesians5",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Pet. 1:19",
+          "start": 86,
+          "end": 97,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-pet",
+            "book": "1peter",
+            "chapter": 1,
+            "chapterId": "1peter1",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Pet. 2:13",
+          "start": 129,
+          "end": 140,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-pet",
+            "book": "2peter",
+            "chapter": 2,
+            "chapterId": "2peter2",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-spot",
+      "slug": "spot",
+      "title": "Spot"
+    }
+  ],
+  "slug": "blemish",
+  "title": "Blemish",
+  "type": "tg"
+}

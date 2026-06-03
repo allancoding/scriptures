@@ -1,0 +1,74 @@
+{
+  "_id": "index-vote",
+  "content": [
+    {
+      "text": "elders to receive licenses by vote of Church, D&C 20:63. no person to be ordained without vote of Church, D&C 20:65. twelve councilors to sanction president’s decision by vote, D&C 102:19.",
+      "references": [
+        {
+          "text": "D&C 20:63",
+          "start": 46,
+          "end": 55,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 20,
+            "chapterId": "doctrineandcovenants20",
+            "verses": [
+              {
+                "start": 63,
+                "end": 63
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 20:65",
+          "start": 106,
+          "end": 115,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 20,
+            "chapterId": "doctrineandcovenants20",
+            "verses": [
+              {
+                "start": 65,
+                "end": 65
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 102:19",
+          "start": 177,
+          "end": 187,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 102,
+            "chapterId": "doctrineandcovenants102",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-common-consent",
+      "slug": "common-consent",
+      "title": "Common Consent"
+    }
+  ],
+  "slug": "vote",
+  "title": "Vote",
+  "type": "index"
+}

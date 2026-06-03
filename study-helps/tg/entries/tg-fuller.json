@@ -1,0 +1,114 @@
+{
+  "_id": "tg-fuller",
+  "content": [
+    {
+      "text": "refiner’s fire, and like fullers’ soap, Mal. 3:2 (3 Ne. 24:2; D&C 128:24).",
+      "references": [
+        {
+          "text": "Mal. 3:2",
+          "start": 40,
+          "end": 48,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "mal",
+            "book": "malachi",
+            "chapter": 3,
+            "chapterId": "malachi3",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 24:2",
+          "start": 50,
+          "end": 60,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 24,
+            "chapterId": "3nephi24",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 128:24",
+          "start": 62,
+          "end": 72,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 128,
+            "chapterId": "doctrineandcovenants128",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "no fuller on earth can white them, Mark 9:3.",
+      "references": [
+        {
+          "text": "Mark 9:3",
+          "start": 35,
+          "end": 43,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 9,
+            "chapterId": "mark9",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "highway of the fuller’s field, 2 Ne. 17:3.",
+      "references": [
+        {
+          "text": "2 Ne. 17:3",
+          "start": 31,
+          "end": 41,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 17,
+            "chapterId": "2nephi17",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "fuller",
+  "title": "Fuller",
+  "type": "tg"
+}

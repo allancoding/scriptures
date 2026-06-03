@@ -1,0 +1,77 @@
+{
+  "_id": "bd-havilah",
+  "content": [
+    {
+      "text": "(1) One of the five sons of Cush, the son of Ham; the Cushites occupied Upper Egypt.",
+      "references": []
+    },
+    {
+      "text": "(2) Son of Joktan, a descendant of Shem; the Joktanites were settled in the south of Arabia (Gen. 10:29; 1 Chr. 1:23).",
+      "references": [
+        {
+          "text": "Gen. 10:29",
+          "start": 93,
+          "end": 103,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 10,
+            "chapterId": "genesis10",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Chr. 1:23",
+          "start": 105,
+          "end": 116,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-chr",
+            "book": "1chronicles",
+            "chapter": 1,
+            "chapterId": "1chronicles1",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "(3) A land mentioned in the description of Eden (Gen. 2:11–12).",
+      "references": [
+        {
+          "text": "Gen. 2:11–12",
+          "start": 49,
+          "end": 61,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 2,
+            "chapterId": "genesis2",
+            "verses": [
+              {
+                "start": 11,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "havilah",
+  "title": "Havilah",
+  "type": "bd"
+}

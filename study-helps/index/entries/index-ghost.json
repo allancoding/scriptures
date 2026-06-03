@@ -1,0 +1,61 @@
+{
+  "_id": "index-ghost",
+  "content": [
+    {
+      "text": "Sherem gives up the ghost, Jacob 7:20. when Christ yields up ghost, there shall be thunderings and lightnings, Hel. 14:21.",
+      "references": [
+        {
+          "text": "Jacob 7:20",
+          "start": 27,
+          "end": 37,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 7,
+            "chapterId": "jacob7",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 14:21",
+          "start": 111,
+          "end": 121,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 14,
+            "chapterId": "helaman14",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-holy-ghost",
+      "slug": "holy-ghost",
+      "title": "Holy Ghost"
+    },
+    {
+      "entryId": "index-spirit",
+      "slug": "spirit",
+      "title": "Spirit"
+    }
+  ],
+  "slug": "ghost",
+  "title": "Ghost",
+  "type": "index"
+}

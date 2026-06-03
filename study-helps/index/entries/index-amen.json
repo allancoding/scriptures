@@ -1,0 +1,50 @@
+{
+  "_id": "index-amen",
+  "content": [
+    {
+      "text": "say Amen in token of prayer of salutation in house of God, D&C 88:135. amen to priesthood of man who exercises compulsion, D&C 121:37.",
+      "references": [
+        {
+          "text": "D&C 88:135",
+          "start": 59,
+          "end": 69,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 135,
+                "end": 135
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 121:37",
+          "start": 123,
+          "end": 133,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "amen",
+  "title": "Amen",
+  "type": "index"
+}

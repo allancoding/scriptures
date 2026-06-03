@@ -1,0 +1,90 @@
+{
+  "_id": "bd-obed",
+  "content": [
+    {
+      "text": "Servant. Son of Boaz and Ruth, and father of Jesse (Ruth 4:17, 21–22; 1 Chr. 2:12; Matt. 1:5; Luke 3:32).",
+      "references": [
+        {
+          "text": "Ruth 4:17, 21–22",
+          "start": 52,
+          "end": 68,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ruth",
+            "book": "ruth",
+            "chapter": 4,
+            "chapterId": "ruth4",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              },
+              {
+                "start": 21,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Chr. 2:12",
+          "start": 70,
+          "end": 81,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-chr",
+            "book": "1chronicles",
+            "chapter": 2,
+            "chapterId": "1chronicles2",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 1:5",
+          "start": 83,
+          "end": 92,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 1,
+            "chapterId": "matthew1",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 3:32",
+          "start": 94,
+          "end": 103,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 3,
+            "chapterId": "luke3",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "obed",
+  "title": "Obed",
+  "type": "bd"
+}

@@ -1,0 +1,56 @@
+{
+  "_id": "index-month",
+  "content": [
+    {
+      "text": "heavenly bodies give light to each other in their months, D&C 88:44. all appointed days, months, and years shall be revealed, D&C 121:31.",
+      "references": [
+        {
+          "text": "D&C 88:44",
+          "start": 58,
+          "end": 67,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 44,
+                "end": 44
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 121:31",
+          "start": 126,
+          "end": 136,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-time",
+      "slug": "time",
+      "title": "Time"
+    }
+  ],
+  "slug": "month",
+  "title": "Month",
+  "type": "index"
+}

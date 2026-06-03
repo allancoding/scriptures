@@ -1,0 +1,53 @@
+{
+  "_id": "index-general-authority",
+  "content": [
+    {
+      "text": "decision of Twelve Apostles can be questioned only by General Authorities, D&C 102:32.",
+      "references": [
+        {
+          "text": "D&C 102:32",
+          "start": 75,
+          "end": 85,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 102,
+            "chapterId": "doctrineandcovenants102",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-apostle",
+      "slug": "apostle",
+      "title": "Apostle"
+    },
+    {
+      "entryId": "index-authorities",
+      "slug": "authorities",
+      "title": "Authorities"
+    },
+    {
+      "entryId": "index-first-presidency",
+      "slug": "first-presidency",
+      "title": "First Presidency"
+    },
+    {
+      "entryId": "index-seventy",
+      "slug": "seventy",
+      "title": "Seventy"
+    }
+  ],
+  "slug": "general-authority",
+  "title": "General Authority",
+  "type": "index"
+}

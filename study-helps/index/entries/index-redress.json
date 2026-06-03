@@ -1,0 +1,79 @@
+{
+  "_id": "index-redress",
+  "content": [
+    {
+      "text": "Saints to importune for redress, D&C 101:76 (105:25). men should appeal to civil law for redress of wrongs, D&C 134:11.",
+      "references": [
+        {
+          "text": "D&C 101:76",
+          "start": 33,
+          "end": 43,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 101,
+            "chapterId": "doctrineandcovenants101",
+            "verses": [
+              {
+                "start": 76,
+                "end": 76
+              }
+            ]
+          }
+        },
+        {
+          "text": "105:25",
+          "start": 45,
+          "end": 51,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 105,
+            "chapterId": "doctrineandcovenants105",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 134:11",
+          "start": 108,
+          "end": 118,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 134,
+            "chapterId": "doctrineandcovenants134",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-repair",
+      "slug": "repair",
+      "title": "Repair"
+    },
+    {
+      "entryId": "index-restoration",
+      "slug": "restoration",
+      "title": "Restoration"
+    }
+  ],
+  "slug": "redress",
+  "title": "Redress",
+  "type": "index"
+}

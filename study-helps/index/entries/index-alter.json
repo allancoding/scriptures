@@ -1,0 +1,101 @@
+{
+  "_id": "index-alter",
+  "content": [
+    {
+      "text": "some desire that law be altered to overthrow free government, Alma 51:2–5. Nephites had altered laws of Mosiah2, Hel. 4:22. Nephites’ written language altered according to speech, Morm. 9:32–33.",
+      "references": [
+        {
+          "text": "Alma 51:2–5",
+          "start": 62,
+          "end": 73,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 51,
+            "chapterId": "alma51",
+            "verses": [
+              {
+                "start": 2,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 4:22",
+          "start": 113,
+          "end": 122,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 4,
+            "chapterId": "helaman4",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 9:32–33",
+          "start": 180,
+          "end": 193,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 9,
+            "chapterId": "mormon9",
+            "verses": [
+              {
+                "start": 32,
+                "end": 33
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "lost manuscript to be altered by wicked men, D&C 10:10–11, 29.",
+      "references": [
+        {
+          "text": "D&C 10:10–11, 29",
+          "start": 45,
+          "end": 61,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 10,
+            "chapterId": "doctrineandcovenants10",
+            "verses": [
+              {
+                "start": 10,
+                "end": 11
+              },
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-change",
+      "slug": "change",
+      "title": "Change"
+    }
+  ],
+  "slug": "alter",
+  "title": "Alter",
+  "type": "index"
+}

@@ -1,0 +1,78 @@
+{
+  "_id": "tg-two-edged",
+  "content": [
+    {
+      "text": "a twoedged sword in their hand, Ps. 149:6.",
+      "references": [
+        {
+          "text": "Ps. 149:6",
+          "start": 32,
+          "end": 41,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 149,
+            "chapterId": "psalms149",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "out of his mouth went a sharp twoedged sword, Rev. 1:16.",
+      "references": [
+        {
+          "text": "Rev. 1:16",
+          "start": 46,
+          "end": 55,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 1,
+            "chapterId": "revelation1",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "sharper than a two-edged sword, D&C 6:2.",
+      "references": [
+        {
+          "text": "D&C 6:2",
+          "start": 32,
+          "end": 39,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 6,
+            "chapterId": "doctrineandcovenants6",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "two-edged",
+  "title": "Two-Edged",
+  "type": "tg"
+}

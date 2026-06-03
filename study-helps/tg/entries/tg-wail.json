@@ -1,0 +1,189 @@
+{
+  "_id": "tg-wail",
+  "content": [
+    {
+      "text": "voice of wailing is heard out of Zion, Jer. 9:19. Wailing shall be in all streets, Amos 5:16. I will wail and howl, Micah 1:8.",
+      "references": [
+        {
+          "text": "Jer. 9:19",
+          "start": 39,
+          "end": 48,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 9,
+            "chapterId": "jeremiah9",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Amos 5:16",
+          "start": 83,
+          "end": 92,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "amos",
+            "book": "amos",
+            "chapter": 5,
+            "chapterId": "amos5",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Micah 1:8",
+          "start": 116,
+          "end": 125,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "micah",
+            "book": "micah",
+            "chapter": 1,
+            "chapterId": "micah1",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "shall be wailing and gnashing of teeth, Matt. 13:42 (D&C 19:5). seeth the tumult, and them that wept and wailed, Mark 5:38. all kindreds of the earth shall wail, Rev. 1:7.",
+      "references": [
+        {
+          "text": "Matt. 13:42",
+          "start": 40,
+          "end": 51,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 13,
+            "chapterId": "matthew13",
+            "verses": [
+              {
+                "start": 42,
+                "end": 42
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 19:5",
+          "start": 53,
+          "end": 61,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 19,
+            "chapterId": "doctrineandcovenants19",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 5:38",
+          "start": 113,
+          "end": 122,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 5,
+            "chapterId": "mark5",
+            "verses": [
+              {
+                "start": 38,
+                "end": 38
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 1:7",
+          "start": 162,
+          "end": 170,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 1,
+            "chapterId": "revelation1",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "shall be weeping and wailing among the hosts of men, D&C 29:15.",
+      "references": [
+        {
+          "text": "D&C 29:15",
+          "start": 53,
+          "end": 62,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 29,
+            "chapterId": "doctrineandcovenants29",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-cry",
+      "slug": "cry",
+      "title": "Cry"
+    },
+    {
+      "entryId": "tg-lament",
+      "slug": "lament",
+      "title": "Lament"
+    },
+    {
+      "entryId": "tg-mourning",
+      "slug": "mourning",
+      "title": "Mourning"
+    },
+    {
+      "entryId": "tg-weep",
+      "slug": "weep",
+      "title": "Weep"
+    }
+  ],
+  "slug": "wail",
+  "title": "Wail, Wailing",
+  "type": "tg"
+}

@@ -1,0 +1,38 @@
+{
+  "_id": "index-primitive",
+  "content": [
+    {
+      "text": "we believe in same organization that existed in Primitive Church, A of F 1:6.",
+      "references": [
+        {
+          "text": "A of F 1:6",
+          "start": 66,
+          "end": 76,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "a-of-f",
+            "book": "articlesoffaith",
+            "chapter": 1,
+            "chapterId": "articlesoffaith1",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-ancient",
+      "slug": "ancient",
+      "title": "Ancient"
+    }
+  ],
+  "slug": "primitive",
+  "title": "Primitive",
+  "type": "index"
+}

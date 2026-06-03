@@ -1,0 +1,50 @@
+{
+  "_id": "bd-locusts",
+  "content": [
+    {
+      "text": "Large flying insects, moving in large numbers and destroying all vegetation. There are some ten different kinds, frequently referred to in the Old Testament. They were sometimes used for food (Lev. 11:21–22; Matt. 3:4), being cooked in various ways and having somewhat the taste of shrimp.",
+      "references": [
+        {
+          "text": "Lev. 11:21–22",
+          "start": 193,
+          "end": 206,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 11,
+            "chapterId": "leviticus11",
+            "verses": [
+              {
+                "start": 21,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 3:4",
+          "start": 208,
+          "end": 217,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 3,
+            "chapterId": "matthew3",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "locusts",
+  "title": "Locusts",
+  "type": "bd"
+}

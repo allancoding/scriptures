@@ -1,0 +1,50 @@
+{
+  "_id": "tg-harness",
+  "content": [
+    {
+      "text": "Israel went up harnessed out of the land of Egypt, Ex. 13:18. girdeth on his harness, 1 Kgs. 20:11.",
+      "references": [
+        {
+          "text": "Ex. 13:18",
+          "start": 51,
+          "end": 60,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 13,
+            "chapterId": "exodus13",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Kgs. 20:11",
+          "start": 86,
+          "end": 98,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 20,
+            "chapterId": "1kings20",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "harness",
+  "title": "Harness",
+  "type": "tg"
+}

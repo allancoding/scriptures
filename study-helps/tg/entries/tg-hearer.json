@@ -1,0 +1,79 @@
+{
+  "_id": "tg-hearer",
+  "content": [
+    {
+      "text": "not the hearers of the law are just before God, Rom. 2:13. be ye doers of the word, and not hearers only, James 1:22.",
+      "references": [
+        {
+          "text": "Rom. 2:13",
+          "start": 48,
+          "end": 57,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 2,
+            "chapterId": "romans2",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "James 1:22",
+          "start": 106,
+          "end": 116,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "james",
+            "book": "james",
+            "chapter": 1,
+            "chapterId": "james1",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "priest, not esteeming himself above his hearers, Alma 1:26.",
+      "references": [
+        {
+          "text": "Alma 1:26",
+          "start": 49,
+          "end": 58,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 1,
+            "chapterId": "alma1",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-hear",
+      "slug": "hear",
+      "title": "Hear"
+    }
+  ],
+  "slug": "hearer",
+  "title": "Hearer",
+  "type": "tg"
+}

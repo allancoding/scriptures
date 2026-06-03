@@ -1,0 +1,68 @@
+{
+  "_id": "bd-almug",
+  "content": [
+    {
+      "text": "Sandalwood; imported by Solomon from Ophir for the temple, for his own house, and for musical instruments, 1 Kgs. 10:11–12; 2 Chr. 2:8; 9:10–11. The wood used was probably the red sandalwood of India, of which musical instruments are still made.",
+      "references": [
+        {
+          "text": "1 Kgs. 10:11–12",
+          "start": 107,
+          "end": 122,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 10,
+            "chapterId": "1kings10",
+            "verses": [
+              {
+                "start": 11,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Chr. 2:8",
+          "start": 124,
+          "end": 134,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-chr",
+            "book": "2chronicles",
+            "chapter": 2,
+            "chapterId": "2chronicles2",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "9:10–11",
+          "start": 136,
+          "end": 143,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-chr",
+            "book": "2chronicles",
+            "chapter": 9,
+            "chapterId": "2chronicles9",
+            "verses": [
+              {
+                "start": 10,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "almug",
+  "title": "Almug",
+  "type": "bd"
+}

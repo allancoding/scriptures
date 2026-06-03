@@ -1,0 +1,61 @@
+{
+  "_id": "index-push",
+  "content": [
+    {
+      "text": "the Lord shall push people together, D&C 58:45. thou shalt push many people to Zion, D&C 66:11.",
+      "references": [
+        {
+          "text": "D&C 58:45",
+          "start": 37,
+          "end": 46,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 58,
+            "chapterId": "doctrineandcovenants58",
+            "verses": [
+              {
+                "start": 45,
+                "end": 45
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 66:11",
+          "start": 85,
+          "end": 94,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 66,
+            "chapterId": "doctrineandcovenants66",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-gather",
+      "slug": "gather",
+      "title": "Gather"
+    },
+    {
+      "entryId": "index-press",
+      "slug": "press",
+      "title": "Press"
+    }
+  ],
+  "slug": "push",
+  "title": "Push",
+  "type": "index"
+}

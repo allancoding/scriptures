@@ -1,0 +1,91 @@
+{
+  "_id": "tg-bottle",
+  "content": [
+    {
+      "text": "wine bottles, old, and rent, and bound up, Josh. 9:4.",
+      "references": [
+        {
+          "text": "Josh. 9:4",
+          "start": 43,
+          "end": 52,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "josh",
+            "book": "joshua",
+            "chapter": 9,
+            "chapterId": "joshua9",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "new wine into old bottles, Matt. 9:17 (Mark 2:22; Luke 5:37).",
+      "references": [
+        {
+          "text": "Matt. 9:17",
+          "start": 27,
+          "end": 37,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 9,
+            "chapterId": "matthew9",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 2:22",
+          "start": 39,
+          "end": 48,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 2,
+            "chapterId": "mark2",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 5:37",
+          "start": 50,
+          "end": 59,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 5,
+            "chapterId": "luke5",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "bottle",
+  "title": "Bottle",
+  "type": "tg"
+}

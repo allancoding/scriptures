@@ -1,0 +1,76 @@
+{
+  "_id": "bd-accursed",
+  "content": [
+    {
+      "text": "Old Testament, “devoted,” “banned,” “proscribed.” Things forbidden to the people individually, but to be used for the benefit of the whole congregation or for sacrifice (Josh. 6:17; 7:1, 11, 15). New Testament, “condemned.” Gal. 1:8.",
+      "references": [
+        {
+          "text": "Josh. 6:17",
+          "start": 170,
+          "end": 180,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "josh",
+            "book": "joshua",
+            "chapter": 6,
+            "chapterId": "joshua6",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "7:1, 11, 15",
+          "start": 182,
+          "end": 193,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "josh",
+            "book": "joshua",
+            "chapter": 7,
+            "chapterId": "joshua7",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              },
+              {
+                "start": 11,
+                "end": 11
+              },
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gal. 1:8",
+          "start": 224,
+          "end": 232,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "gal",
+            "book": "galatians",
+            "chapter": 1,
+            "chapterId": "galatians1",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "accursed",
+  "title": "Accursed",
+  "type": "bd"
+}

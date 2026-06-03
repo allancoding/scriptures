@@ -1,0 +1,73 @@
+{
+  "_id": "tg-operation",
+  "content": [
+    {
+      "text": "works of the Lord, nor the operation of his hands, Ps. 28:5.",
+      "references": [
+        {
+          "text": "Ps. 28:5",
+          "start": 51,
+          "end": 59,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 28,
+            "chapterId": "psalms28",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "diversities of operations, but it is the same God, 1 Cor. 12:6 (D&C 46:16).",
+      "references": [
+        {
+          "text": "1 Cor. 12:6",
+          "start": 51,
+          "end": 62,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 12,
+            "chapterId": "1corinthians12",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 46:16",
+          "start": 64,
+          "end": 73,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 46,
+            "chapterId": "doctrineandcovenants46",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "operation",
+  "title": "Operation",
+  "type": "tg"
+}

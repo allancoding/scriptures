@@ -1,0 +1,43 @@
+{
+  "_id": "tg-foreigner",
+  "content": [
+    {
+      "text": "ye are no more strangers and foreigners, Eph. 2:19.",
+      "references": [
+        {
+          "text": "Eph. 2:19",
+          "start": 41,
+          "end": 50,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "eph",
+            "book": "ephesians",
+            "chapter": 2,
+            "chapterId": "ephesians2",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-sojourn",
+      "slug": "sojourn",
+      "title": "Sojourn"
+    },
+    {
+      "entryId": "tg-stranger",
+      "slug": "stranger",
+      "title": "Stranger"
+    }
+  ],
+  "slug": "foreigner",
+  "title": "Foreigner",
+  "type": "tg"
+}

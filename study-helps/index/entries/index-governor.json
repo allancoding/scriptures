@@ -1,0 +1,125 @@
+{
+  "_id": "index-governor",
+  "content": [
+    {
+      "text": "Alma2 is governor of Nephites, Alma 2:16. Pahoran1 is appointed governor, Alma 50:39 (61:1). Lachoneus1 is governor, 3 Ne. 1:1.",
+      "references": [
+        {
+          "text": "Alma 2:16",
+          "start": 31,
+          "end": 40,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 2,
+            "chapterId": "alma2",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 50:39",
+          "start": 74,
+          "end": 84,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 50,
+            "chapterId": "alma50",
+            "verses": [
+              {
+                "start": 39,
+                "end": 39
+              }
+            ]
+          }
+        },
+        {
+          "text": "61:1",
+          "start": 86,
+          "end": 90,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 61,
+            "chapterId": "alma61",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 1:1",
+          "start": 117,
+          "end": 126,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 1,
+            "chapterId": "3nephi1",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "proclamation of gospel to governors, D&C 124:3.",
+      "references": [
+        {
+          "text": "D&C 124:3",
+          "start": 37,
+          "end": 46,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 124,
+            "chapterId": "doctrineandcovenants124",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-government-civil",
+      "slug": "government-civil",
+      "title": "Government, Civil"
+    },
+    {
+      "entryId": "index-judge-chief",
+      "slug": "judge-chief",
+      "title": "Judge, Chief"
+    },
+    {
+      "entryId": "index-ruler",
+      "slug": "ruler",
+      "title": "Ruler"
+    }
+  ],
+  "slug": "governor",
+  "title": "Governor",
+  "type": "index"
+}

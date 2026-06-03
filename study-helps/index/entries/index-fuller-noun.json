@@ -1,0 +1,73 @@
+{
+  "_id": "index-fuller-noun",
+  "content": [
+    {
+      "text": "the Lord is like refiner’s fire and fuller’s soap, 3 Ne. 24:2 (Mal. 3:2).",
+      "references": [
+        {
+          "text": "3 Ne. 24:2",
+          "start": 51,
+          "end": 61,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 24,
+            "chapterId": "3nephi24",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mal. 3:2",
+          "start": 63,
+          "end": 71,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "mal",
+            "book": "malachi",
+            "chapter": 3,
+            "chapterId": "malachi3",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "the Lord is like refiner’s fire and fuller’s soap, D&C 128:24.",
+      "references": [
+        {
+          "text": "D&C 128:24",
+          "start": 51,
+          "end": 61,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 128,
+            "chapterId": "doctrineandcovenants128",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "fuller-noun",
+  "title": "Fuller [noun]",
+  "type": "index"
+}

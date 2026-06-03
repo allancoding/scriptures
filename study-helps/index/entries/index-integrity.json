@@ -1,0 +1,71 @@
+{
+  "_id": "index-integrity",
+  "content": [
+    {
+      "text": "the Lord loves Hyrum Smith because of integrity, D&C 124:15. George Miller may be trusted because of integrity, D&C 124:20.",
+      "references": [
+        {
+          "text": "D&C 124:15",
+          "start": 49,
+          "end": 59,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 124,
+            "chapterId": "doctrineandcovenants124",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 124:20",
+          "start": 112,
+          "end": 122,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 124,
+            "chapterId": "doctrineandcovenants124",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-honest",
+      "slug": "honest",
+      "title": "Honest"
+    },
+    {
+      "entryId": "index-righteousness",
+      "slug": "righteousness",
+      "title": "Righteousness"
+    },
+    {
+      "entryId": "index-sincerity",
+      "slug": "sincerity",
+      "title": "Sincerity"
+    },
+    {
+      "entryId": "index-uprightness",
+      "slug": "uprightness",
+      "title": "Uprightness"
+    }
+  ],
+  "slug": "integrity",
+  "title": "Integrity",
+  "type": "index"
+}

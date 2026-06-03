@@ -1,0 +1,56 @@
+{
+  "_id": "index-beatitudes",
+  "content": [
+    {
+      "text": "the Savior teaches Beatitudes to Nephites, 3 Ne. 12:3–12 (Matt. 5:3–12).",
+      "references": [
+        {
+          "text": "3 Ne. 12:3–12",
+          "start": 43,
+          "end": 56,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 12,
+            "chapterId": "3nephi12",
+            "verses": [
+              {
+                "start": 3,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 5:3–12",
+          "start": 58,
+          "end": 70,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 5,
+            "chapterId": "matthew5",
+            "verses": [
+              {
+                "start": 3,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-sermon-on-the-mount",
+      "slug": "sermon-on-the-mount",
+      "title": "Sermon on the Mount"
+    }
+  ],
+  "slug": "beatitudes",
+  "title": "Beatitudes",
+  "type": "index"
+}

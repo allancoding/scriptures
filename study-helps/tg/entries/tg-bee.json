@@ -1,0 +1,91 @@
+{
+  "_id": "tg-bee",
+  "content": [
+    {
+      "text": "And the Amorites … chased you, as bees do, Deut. 1:44. a swarm of bees and honey in the carcase, Judg. 14:8. bee that is in the land of Assyria, Isa. 7:18.",
+      "references": [
+        {
+          "text": "Deut. 1:44",
+          "start": 43,
+          "end": 53,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 1,
+            "chapterId": "deuteronomy1",
+            "verses": [
+              {
+                "start": 44,
+                "end": 44
+              }
+            ]
+          }
+        },
+        {
+          "text": "Judg. 14:8",
+          "start": 97,
+          "end": 107,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "judg",
+            "book": "judges",
+            "chapter": 14,
+            "chapterId": "judges14",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 7:18",
+          "start": 145,
+          "end": 154,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 7,
+            "chapterId": "isaiah7",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "deseret, which, by interpretation, is a honey bee, Ether 2:3.",
+      "references": [
+        {
+          "text": "Ether 2:3",
+          "start": 51,
+          "end": 60,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 2,
+            "chapterId": "ether2",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "bee",
+  "title": "Bee",
+  "type": "tg"
+}

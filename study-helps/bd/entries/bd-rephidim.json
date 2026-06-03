@@ -1,0 +1,72 @@
+{
+  "_id": "bd-rephidim",
+  "content": [
+    {
+      "text": "Supports. A wilderness station passed just before reaching Sinai; the scene of a battle with Amalek, in which the victory was won by Israel in answer to the prayers of Moses (Ex. 17:1, 8; 19:2; Num. 33:14–15).",
+      "references": [
+        {
+          "text": "Ex. 17:1, 8",
+          "start": 175,
+          "end": 186,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 17,
+            "chapterId": "exodus17",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              },
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "19:2",
+          "start": 188,
+          "end": 192,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 19,
+            "chapterId": "exodus19",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 33:14–15",
+          "start": 194,
+          "end": 207,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 33,
+            "chapterId": "numbers33",
+            "verses": [
+              {
+                "start": 14,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "rephidim",
+  "title": "Rephidim",
+  "type": "bd"
+}

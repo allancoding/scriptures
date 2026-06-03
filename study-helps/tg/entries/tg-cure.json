@@ -1,0 +1,107 @@
+{
+  "_id": "tg-cure",
+  "content": [
+    {
+      "text": "bring it health and cure, and I will cure them, Jer. 33:6.",
+      "references": [
+        {
+          "text": "Jer. 33:6",
+          "start": 48,
+          "end": 57,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 33,
+            "chapterId": "jeremiah33",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "they could not cure him, Matt. 17:16. he cured many of their infirmities and plagues, Luke 7:21. authority … to cure diseases, Luke 9:1.",
+      "references": [
+        {
+          "text": "Matt. 17:16",
+          "start": 25,
+          "end": 36,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 17,
+            "chapterId": "matthew17",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 7:21",
+          "start": 86,
+          "end": 95,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 7,
+            "chapterId": "luke7",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 9:1",
+          "start": 127,
+          "end": 135,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 9,
+            "chapterId": "luke9",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-heal",
+      "slug": "heal",
+      "title": "Heal"
+    },
+    {
+      "entryId": "tg-restore",
+      "slug": "restore",
+      "title": "Restore"
+    },
+    {
+      "entryId": "tg-save",
+      "slug": "save",
+      "title": "Save"
+    }
+  ],
+  "slug": "cure",
+  "title": "Cure",
+  "type": "tg"
+}

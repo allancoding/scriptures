@@ -1,0 +1,74 @@
+{
+  "_id": "index-shiblon-money",
+  "content": [
+    {
+      "text": "shiblon is half a senum, a shiblon for half a measure of barley, Alma 11:15. a shiblum is half a shiblon, Alma 11:16. antion of gold equals three shiblons, Alma 11:19.",
+      "references": [
+        {
+          "text": "Alma 11:15",
+          "start": 65,
+          "end": 75,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 11,
+            "chapterId": "alma11",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 11:16",
+          "start": 106,
+          "end": 116,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 11,
+            "chapterId": "alma11",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 11:19",
+          "start": 156,
+          "end": 166,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 11,
+            "chapterId": "alma11",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-money-nephite",
+      "slug": "money-nephite",
+      "title": "Money, Nephite"
+    }
+  ],
+  "slug": "shiblon-money",
+  "title": "Shiblon—Nephite money",
+  "type": "index"
+}

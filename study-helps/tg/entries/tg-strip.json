@@ -1,0 +1,96 @@
+{
+  "_id": "tg-strip",
+  "content": [
+    {
+      "text": "strip Aaron of his garments, Num. 20:26. Lest I strip her naked, Hosea 2:3.",
+      "references": [
+        {
+          "text": "Num. 20:26",
+          "start": 29,
+          "end": 39,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 20,
+            "chapterId": "numbers20",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hosea 2:3",
+          "start": 65,
+          "end": 74,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "hosea",
+            "book": "hosea",
+            "chapter": 2,
+            "chapterId": "hosea2",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "strip yourselves of all uncleanness, Morm. 9:28.",
+      "references": [
+        {
+          "text": "Morm. 9:28",
+          "start": 37,
+          "end": 47,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 9,
+            "chapterId": "mormon9",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "strip yourselves from jealousies, D&C 67:10.",
+      "references": [
+        {
+          "text": "D&C 67:10",
+          "start": 34,
+          "end": 43,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 67,
+            "chapterId": "doctrineandcovenants67",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "strip",
+  "title": "Strip",
+  "type": "tg"
+}

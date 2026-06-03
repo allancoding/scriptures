@@ -1,0 +1,50 @@
+{
+  "_id": "tg-hem",
+  "content": [
+    {
+      "text": "touched the hem of his garment, Matt. 9:20. they might only touch the hem of his garment, Matt. 14:36.",
+      "references": [
+        {
+          "text": "Matt. 9:20",
+          "start": 32,
+          "end": 42,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 9,
+            "chapterId": "matthew9",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 14:36",
+          "start": 90,
+          "end": 101,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 14,
+            "chapterId": "matthew14",
+            "verses": [
+              {
+                "start": 36,
+                "end": 36
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "hem",
+  "title": "Hem",
+  "type": "tg"
+}

@@ -1,0 +1,935 @@
+{
+  "_id": "tg-cut",
+  "content": [
+    {
+      "text": "uncircumcised … shall be cut off from his people, Gen. 17:14. commit any of these abominations … shall be cut off, Lev. 18:29. not make any cuttings in your flesh, Lev. 19:28 (Deut. 14:1). Lord … shall cut off the nations, Deut. 12:29. cut off the skirt of Saul’s robe, 1 Sam. 24:4. will I cut off Israel out of the land, 1 Kgs. 9:7. when Jezebel cut off the prophets, 1 Kgs. 18:4. cut themselves after their manner, 1 Kgs. 18:28. cut down the groves, 2 Kgs. 18:4. cut them with saws, 1 Chr. 20:3. Lord shall cut off all flattering lips, Ps. 12:3. the wicked shall be cut off, Prov. 2:22. cut off from Babylon the name, Isa. 14:22 (2 Ne. 24:22). all that watch for iniquity are cut off, Isa. 29:20 (2 Ne. 27:31). cut off out of the land of the living, Isa. 53:8 (Jer. 11:19; Mosiah 14:8). cut the calf in twain, Jer. 34:18. ye shall be cut in pieces, Dan. 2:5 (3:29). stone was cut out without hands, Dan. 2:34 (D&C 65:2). shall Messiah be cut off, Dan. 9:26.",
+      "references": [
+        {
+          "text": "Gen. 17:14",
+          "start": 50,
+          "end": 60,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 17,
+            "chapterId": "genesis17",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Lev. 18:29",
+          "start": 115,
+          "end": 125,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 18,
+            "chapterId": "leviticus18",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Lev. 19:28",
+          "start": 164,
+          "end": 174,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 19,
+            "chapterId": "leviticus19",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 14:1",
+          "start": 176,
+          "end": 186,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 14,
+            "chapterId": "deuteronomy14",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 12:29",
+          "start": 223,
+          "end": 234,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 12,
+            "chapterId": "deuteronomy12",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Sam. 24:4",
+          "start": 270,
+          "end": 281,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 24,
+            "chapterId": "1samuel24",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Kgs. 9:7",
+          "start": 322,
+          "end": 332,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 9,
+            "chapterId": "1kings9",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Kgs. 18:4",
+          "start": 369,
+          "end": 380,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 18,
+            "chapterId": "1kings18",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Kgs. 18:28",
+          "start": 417,
+          "end": 429,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 18,
+            "chapterId": "1kings18",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Kgs. 18:4",
+          "start": 452,
+          "end": 463,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 18,
+            "chapterId": "2kings18",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Chr. 20:3",
+          "start": 485,
+          "end": 496,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-chr",
+            "book": "1chronicles",
+            "chapter": 20,
+            "chapterId": "1chronicles20",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 12:3",
+          "start": 538,
+          "end": 546,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 12,
+            "chapterId": "psalms12",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 2:22",
+          "start": 577,
+          "end": 587,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 2,
+            "chapterId": "proverbs2",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 14:22",
+          "start": 620,
+          "end": 630,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 14,
+            "chapterId": "isaiah14",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 24:22",
+          "start": 632,
+          "end": 643,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 24,
+            "chapterId": "2nephi24",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 29:20",
+          "start": 687,
+          "end": 697,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 29,
+            "chapterId": "isaiah29",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 27:31",
+          "start": 699,
+          "end": 710,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 27,
+            "chapterId": "2nephi27",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 53:8",
+          "start": 752,
+          "end": 761,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 53,
+            "chapterId": "isaiah53",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 11:19",
+          "start": 763,
+          "end": 773,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 11,
+            "chapterId": "jeremiah11",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 14:8",
+          "start": 775,
+          "end": 786,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 14,
+            "chapterId": "mosiah14",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 34:18",
+          "start": 812,
+          "end": 822,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 34,
+            "chapterId": "jeremiah34",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 2:5",
+          "start": 851,
+          "end": 859,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 2,
+            "chapterId": "daniel2",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "3:29",
+          "start": 861,
+          "end": 865,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 3,
+            "chapterId": "daniel3",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 2:34",
+          "start": 901,
+          "end": 910,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 2,
+            "chapterId": "daniel2",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 65:2",
+          "start": 912,
+          "end": 920,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 65,
+            "chapterId": "doctrineandcovenants65",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 9:26",
+          "start": 949,
+          "end": 958,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 9,
+            "chapterId": "daniel9",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "right hand offend thee, cut it off, Matt. 5:30 (18:8; Mark 9:43). cut him asunder, Matt. 24:51 (Luke 12:46; JS—M 1:54). cut off his ear, Mark 14:47 (Luke 22:50; John 18:10). cut to the heart, Acts 5:33 (7:54). would they were even cut off which trouble, Gal. 5:12.",
+      "references": [
+        {
+          "text": "Matt. 5:30",
+          "start": 36,
+          "end": 46,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 5,
+            "chapterId": "matthew5",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "18:8",
+          "start": 48,
+          "end": 52,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 18,
+            "chapterId": "matthew18",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 9:43",
+          "start": 54,
+          "end": 63,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 9,
+            "chapterId": "mark9",
+            "verses": [
+              {
+                "start": 43,
+                "end": 43
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 24:51",
+          "start": 83,
+          "end": 94,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 24,
+            "chapterId": "matthew24",
+            "verses": [
+              {
+                "start": 51,
+                "end": 51
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 12:46",
+          "start": 96,
+          "end": 106,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 12,
+            "chapterId": "luke12",
+            "verses": [
+              {
+                "start": 46,
+                "end": 46
+              }
+            ]
+          }
+        },
+        {
+          "text": "JS—M 1:54",
+          "start": 108,
+          "end": 117,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-m",
+            "book": "josephsmithmatthew",
+            "chapter": 1,
+            "chapterId": "josephsmithmatthew1",
+            "verses": [
+              {
+                "start": 54,
+                "end": 54
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 14:47",
+          "start": 137,
+          "end": 147,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 14,
+            "chapterId": "mark14",
+            "verses": [
+              {
+                "start": 47,
+                "end": 47
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 22:50",
+          "start": 149,
+          "end": 159,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 22,
+            "chapterId": "luke22",
+            "verses": [
+              {
+                "start": 50,
+                "end": 50
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 18:10",
+          "start": 161,
+          "end": 171,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 18,
+            "chapterId": "john18",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 5:33",
+          "start": 192,
+          "end": 201,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 5,
+            "chapterId": "acts5",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "7:54",
+          "start": 203,
+          "end": 207,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 7,
+            "chapterId": "acts7",
+            "verses": [
+              {
+                "start": 54,
+                "end": 54
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gal. 5:12",
+          "start": 254,
+          "end": 263,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "gal",
+            "book": "galatians",
+            "chapter": 5,
+            "chapterId": "galatians5",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "cut off from the presence of the Lord, 1 Ne. 2:21. truth to be hard, for it cutteth, 1 Ne. 16:2. by the temporal law they were cut off, 2 Ne. 2:5. not keep my commandments … cut off, Alma 50:20.",
+      "references": [
+        {
+          "text": "1 Ne. 2:21",
+          "start": 39,
+          "end": 49,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 2,
+            "chapterId": "1nephi2",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Ne. 16:2",
+          "start": 85,
+          "end": 95,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 16,
+            "chapterId": "1nephi16",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 2:5",
+          "start": 136,
+          "end": 145,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 2,
+            "chapterId": "2nephi2",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 50:20",
+          "start": 183,
+          "end": 193,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 50,
+            "chapterId": "alma50",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "not hear the voice of the Lord … be cut off, D&C 1:14. he that watches not for me shall be cut off, D&C 45:44. hypocrites … be cut off, D&C 50:8. not obey shall be cut off, D&C 56:3. rebellious shall be cut off, D&C 64:35. my work, which shall be cut short, D&C 84:97. cut off from the church … not find an inheritance, D&C 85:11. cut off for transgression, D&C 104:9.",
+      "references": [
+        {
+          "text": "D&C 1:14",
+          "start": 45,
+          "end": 53,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 1,
+            "chapterId": "doctrineandcovenants1",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 45:44",
+          "start": 100,
+          "end": 109,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 45,
+            "chapterId": "doctrineandcovenants45",
+            "verses": [
+              {
+                "start": 44,
+                "end": 44
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 50:8",
+          "start": 136,
+          "end": 144,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 50,
+            "chapterId": "doctrineandcovenants50",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 56:3",
+          "start": 173,
+          "end": 181,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 56,
+            "chapterId": "doctrineandcovenants56",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 64:35",
+          "start": 212,
+          "end": 221,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 64,
+            "chapterId": "doctrineandcovenants64",
+            "verses": [
+              {
+                "start": 35,
+                "end": 35
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 84:97",
+          "start": 258,
+          "end": 267,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 84,
+            "chapterId": "doctrineandcovenants84",
+            "verses": [
+              {
+                "start": 97,
+                "end": 97
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 85:11",
+          "start": 320,
+          "end": 329,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 85,
+            "chapterId": "doctrineandcovenants85",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 104:9",
+          "start": 358,
+          "end": 367,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 104,
+            "chapterId": "doctrineandcovenants104",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-hew",
+      "slug": "hew",
+      "title": "Hew"
+    }
+  ],
+  "slug": "cut",
+  "title": "Cut",
+  "type": "tg"
+}

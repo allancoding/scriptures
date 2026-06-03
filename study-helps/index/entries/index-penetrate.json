@@ -1,0 +1,79 @@
+{
+  "_id": "index-penetrate",
+  "content": [
+    {
+      "text": "storm shall not penetrate to converts, Alma 26:6.",
+      "references": [
+        {
+          "text": "Alma 26:6",
+          "start": 39,
+          "end": 48,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 26,
+            "chapterId": "alma26",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "no heart that shall not be penetrated, D&C 1:2. how long shall thine ear be penetrated with Saints’ cries, D&C 121:2.",
+      "references": [
+        {
+          "text": "D&C 1:2",
+          "start": 39,
+          "end": 46,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 1,
+            "chapterId": "doctrineandcovenants1",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 121:2",
+          "start": 107,
+          "end": 116,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-pierce",
+      "slug": "pierce",
+      "title": "Pierce"
+    }
+  ],
+  "slug": "penetrate",
+  "title": "Penetrate",
+  "type": "index"
+}

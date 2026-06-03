@@ -1,0 +1,68 @@
+{
+  "_id": "tg-wool",
+  "content": [
+    {
+      "text": "He giveth snow like wool, Ps. 147:16. She seeketh wool, and flax, Prov. 31:13. sins … be red like crimson, they shall be as wool, Isa. 1:18.",
+      "references": [
+        {
+          "text": "Ps. 147:16",
+          "start": 26,
+          "end": 36,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 147,
+            "chapterId": "psalms147",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 31:13",
+          "start": 66,
+          "end": 77,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 31,
+            "chapterId": "proverbs31",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 1:18",
+          "start": 130,
+          "end": 139,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 1,
+            "chapterId": "isaiah1",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "wool",
+  "title": "Wool",
+  "type": "tg"
+}

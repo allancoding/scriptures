@@ -1,0 +1,137 @@
+{
+  "_id": "tg-provocation",
+  "content": [
+    {
+      "text": "Harden not your heart, as in the provocation, Ps. 95:8 (Heb. 3:8, 15; Jacob 1:7). this city hath been to me as a provocation, Jer. 32:31.",
+      "references": [
+        {
+          "text": "Ps. 95:8",
+          "start": 46,
+          "end": 54,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 95,
+            "chapterId": "psalms95",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 3:8, 15",
+          "start": 56,
+          "end": 68,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 3,
+            "chapterId": "hebrews3",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              },
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jacob 1:7",
+          "start": 70,
+          "end": 79,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 1,
+            "chapterId": "jacob1",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 32:31",
+          "start": 126,
+          "end": 136,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 32,
+            "chapterId": "jeremiah32",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "as in the provocation in the days of temptation, Jacob 1:7. sendeth down his wrath upon you as in the first provocation, Alma 12:36.",
+      "references": [
+        {
+          "text": "Jacob 1:7",
+          "start": 49,
+          "end": 58,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 1,
+            "chapterId": "jacob1",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 12:36",
+          "start": 121,
+          "end": 131,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 12,
+            "chapterId": "alma12",
+            "verses": [
+              {
+                "start": 36,
+                "end": 36
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-provoking",
+      "slug": "provoking",
+      "title": "Provoking"
+    }
+  ],
+  "slug": "provocation",
+  "title": "Provocation",
+  "type": "tg"
+}

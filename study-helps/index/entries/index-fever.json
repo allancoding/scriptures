@@ -1,0 +1,65 @@
+{
+  "_id": "index-fever",
+  "content": [
+    {
+      "text": "Zeezrom sick with fever, Alma 15:3, 5. God prepares plants and roots to treat fevers, Alma 46:40.",
+      "references": [
+        {
+          "text": "Alma 15:3, 5",
+          "start": 25,
+          "end": 37,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 15,
+            "chapterId": "alma15",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              },
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 46:40",
+          "start": 86,
+          "end": 96,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 46,
+            "chapterId": "alma46",
+            "verses": [
+              {
+                "start": 40,
+                "end": 40
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-disease",
+      "slug": "disease",
+      "title": "Disease"
+    },
+    {
+      "entryId": "index-sick",
+      "slug": "sick",
+      "title": "Sick"
+    }
+  ],
+  "slug": "fever",
+  "title": "Fever",
+  "type": "index"
+}

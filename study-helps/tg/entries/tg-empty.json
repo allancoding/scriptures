@@ -1,0 +1,197 @@
+{
+  "_id": "tg-empty",
+  "content": [
+    {
+      "text": "when ye go, ye shall not go empty, Ex. 3:21. they shall not appear before the Lord empty, Deut. 16:16. Lord maketh the earth empty, Isa. 24:1. he awaketh, and his soul is empty, Isa. 29:8 (2 Ne. 27:3).",
+      "references": [
+        {
+          "text": "Ex. 3:21",
+          "start": 35,
+          "end": 43,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 3,
+            "chapterId": "exodus3",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 16:16",
+          "start": 90,
+          "end": 101,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 16,
+            "chapterId": "deuteronomy16",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 24:1",
+          "start": 132,
+          "end": 141,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 24,
+            "chapterId": "isaiah24",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 29:8",
+          "start": 178,
+          "end": 187,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 29,
+            "chapterId": "isaiah29",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 27:3",
+          "start": 189,
+          "end": 199,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 27,
+            "chapterId": "2nephi27",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "when he is come, he findeth it empty, Matt. 12:44. rich he hath sent empty away, Luke 1:53.",
+      "references": [
+        {
+          "text": "Matt. 12:44",
+          "start": 38,
+          "end": 49,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 12,
+            "chapterId": "matthew12",
+            "verses": [
+              {
+                "start": 44,
+                "end": 44
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 1:53",
+          "start": 81,
+          "end": 90,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 1,
+            "chapterId": "luke1",
+            "verses": [
+              {
+                "start": 53,
+                "end": 53
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "until the earth is empty, D&C 5:19.",
+      "references": [
+        {
+          "text": "D&C 5:19",
+          "start": 26,
+          "end": 34,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 5,
+            "chapterId": "doctrineandcovenants5",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "earth, after it was formed, was empty, Abr. 4:2.",
+      "references": [
+        {
+          "text": "Abr. 4:2",
+          "start": 39,
+          "end": 47,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 4,
+            "chapterId": "abraham4",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-void",
+      "slug": "void",
+      "title": "Void"
+    }
+  ],
+  "slug": "empty",
+  "title": "Empty",
+  "type": "tg"
+}

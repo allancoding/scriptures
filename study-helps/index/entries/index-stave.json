@@ -1,0 +1,38 @@
+{
+  "_id": "index-stave",
+  "content": [
+    {
+      "text": "elders to take no purse nor scrip, neither staves, D&C 24:18.",
+      "references": [
+        {
+          "text": "D&C 24:18",
+          "start": 51,
+          "end": 60,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 24,
+            "chapterId": "doctrineandcovenants24",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-staff",
+      "slug": "staff",
+      "title": "Staff"
+    }
+  ],
+  "slug": "stave",
+  "title": "Stave",
+  "type": "index"
+}

@@ -1,0 +1,58 @@
+{
+  "_id": "index-knight-joseph-sr",
+  "content": [
+    {
+      "text": "revelations to, D&C 12; 23. is told to pray, D&C 23:6–7.",
+      "references": [
+        {
+          "text": "D&C 12",
+          "start": 16,
+          "end": 22,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 12,
+            "chapterId": "doctrineandcovenants12",
+            "verses": []
+          }
+        },
+        {
+          "text": "23",
+          "start": 24,
+          "end": 26,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 23,
+            "chapterId": "doctrineandcovenants23",
+            "verses": []
+          }
+        },
+        {
+          "text": "D&C 23:6–7",
+          "start": 45,
+          "end": 55,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 23,
+            "chapterId": "doctrineandcovenants23",
+            "verses": [
+              {
+                "start": 6,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "knight-joseph-sr",
+  "title": "Knight, Joseph, Sr.",
+  "type": "index"
+}

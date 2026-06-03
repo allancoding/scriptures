@@ -1,0 +1,38 @@
+{
+  "_id": "index-oats",
+  "content": [
+    {
+      "text": "for horse, D&C 89:17.",
+      "references": [
+        {
+          "text": "D&C 89:17",
+          "start": 11,
+          "end": 20,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 89,
+            "chapterId": "doctrineandcovenants89",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-grain",
+      "slug": "grain",
+      "title": "Grain"
+    }
+  ],
+  "slug": "oats",
+  "title": "Oats",
+  "type": "index"
+}

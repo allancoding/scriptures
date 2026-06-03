@@ -1,0 +1,50 @@
+{
+  "_id": "bd-rye",
+  "content": [
+    {
+      "text": "A cereal differing slightly from common wheat; it was sown on the headlands and was used for making bread (Ex. 9:32; Isa. 28:25).",
+      "references": [
+        {
+          "text": "Ex. 9:32",
+          "start": 107,
+          "end": 115,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 9,
+            "chapterId": "exodus9",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 28:25",
+          "start": 117,
+          "end": 127,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 28,
+            "chapterId": "isaiah28",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "rye",
+  "title": "Rye or rie",
+  "type": "bd"
+}

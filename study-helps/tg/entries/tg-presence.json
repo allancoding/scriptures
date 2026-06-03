@@ -1,0 +1,914 @@
+{
+  "_id": "tg-presence",
+  "content": [
+    {
+      "text": "Cain went out from the presence of the Lord, Gen. 4:16 (Moses 5:41). My presence shall go with thee, Ex. 33:14. he had cast them out from his presence, 2 Kgs. 24:20 (Jer. 52:3). Glory and honour are in his presence, 1 Chr. 16:27. in thy presence is fulness of joy, Ps. 16:11. Cast me not away from thy presence, Ps. 51:11. let the wicked perish at the presence of God, Ps. 68:2. hills melted like wax at the presence of the Lord, Ps. 97:5. whither shall I flee from thy presence, Ps. 139:7. angel of his presence saved them, Isa. 63:9. mountains might flow down at thy presence, Isa. 64:1. earth is burned at his presence, Nahum 1:5.",
+      "references": [
+        {
+          "text": "Gen. 4:16",
+          "start": 45,
+          "end": 54,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 4,
+            "chapterId": "genesis4",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 5:41",
+          "start": 56,
+          "end": 66,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 5,
+            "chapterId": "moses5",
+            "verses": [
+              {
+                "start": 41,
+                "end": 41
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 33:14",
+          "start": 101,
+          "end": 110,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 33,
+            "chapterId": "exodus33",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Kgs. 24:20",
+          "start": 152,
+          "end": 164,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 24,
+            "chapterId": "2kings24",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 52:3",
+          "start": 166,
+          "end": 175,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 52,
+            "chapterId": "jeremiah52",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Chr. 16:27",
+          "start": 216,
+          "end": 228,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-chr",
+            "book": "1chronicles",
+            "chapter": 16,
+            "chapterId": "1chronicles16",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 16:11",
+          "start": 265,
+          "end": 274,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 16,
+            "chapterId": "psalms16",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 51:11",
+          "start": 312,
+          "end": 321,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 51,
+            "chapterId": "psalms51",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 68:2",
+          "start": 369,
+          "end": 377,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 68,
+            "chapterId": "psalms68",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 97:5",
+          "start": 430,
+          "end": 438,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 97,
+            "chapterId": "psalms97",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 139:7",
+          "start": 480,
+          "end": 489,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 139,
+            "chapterId": "psalms139",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 63:9",
+          "start": 525,
+          "end": 534,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 63,
+            "chapterId": "isaiah63",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 64:1",
+          "start": 579,
+          "end": 588,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 64,
+            "chapterId": "isaiah64",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Nahum 1:5",
+          "start": 623,
+          "end": 632,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "nahum",
+            "book": "nahum",
+            "chapter": 1,
+            "chapterId": "nahum1",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "I am Gabriel, that stand in the presence of God, Luke 1:19. joy in the presence of the angels … over one sinner that repenteth, Luke 15:10. times of refreshing … from the presence of the Lord, Acts 3:19. no flesh should glory in his presence, 1 Cor. 1:29. his bodily presence is weak, 2 Cor. 10:10. presence of the holy angels, and in the presence of the Lamb, Rev. 14:10.",
+      "references": [
+        {
+          "text": "Luke 1:19",
+          "start": 49,
+          "end": 58,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 1,
+            "chapterId": "luke1",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 15:10",
+          "start": 128,
+          "end": 138,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 15,
+            "chapterId": "luke15",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 3:19",
+          "start": 193,
+          "end": 202,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 3,
+            "chapterId": "acts3",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 1:29",
+          "start": 243,
+          "end": 254,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 1,
+            "chapterId": "1corinthians1",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Cor. 10:10",
+          "start": 285,
+          "end": 297,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 10,
+            "chapterId": "2corinthians10",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 14:10",
+          "start": 361,
+          "end": 371,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 14,
+            "chapterId": "revelation14",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "cut off from the presence of the Lord, 1 Ne. 2:21 (2 Ne. 9:6). guilt, which doth cause him to shrink from the presence of the Lord, Mosiah 2:38. not keep the commandments … cut off from his presence, Alma 36:30 (38:1). first parents were cut off both temporally and spiritually from the presence of the Lord, Alma 42:7. men may be brought into the presence of the Lord, Hel. 14:15 (Morm. 9:13). redeemed … brought back into my presence, Ether 3:13.",
+      "references": [
+        {
+          "text": "1 Ne. 2:21",
+          "start": 39,
+          "end": 49,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 2,
+            "chapterId": "1nephi2",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 9:6",
+          "start": 51,
+          "end": 60,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 9,
+            "chapterId": "2nephi9",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 2:38",
+          "start": 132,
+          "end": 143,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 2,
+            "chapterId": "mosiah2",
+            "verses": [
+              {
+                "start": 38,
+                "end": 38
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 36:30",
+          "start": 200,
+          "end": 210,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 36,
+            "chapterId": "alma36",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "38:1",
+          "start": 212,
+          "end": 216,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 38,
+            "chapterId": "alma38",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 42:7",
+          "start": 309,
+          "end": 318,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 42,
+            "chapterId": "alma42",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 14:15",
+          "start": 370,
+          "end": 380,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 14,
+            "chapterId": "helaman14",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 9:13",
+          "start": 382,
+          "end": 392,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 9,
+            "chapterId": "mormon9",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 3:13",
+          "start": 437,
+          "end": 447,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 3,
+            "chapterId": "ether3",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Neither can any natural man abide the presence of God, D&C 67:12. These shall dwell in the presence of God, D&C 76:62. they who receive of the presence of the Son, D&C 76:77. They who dwell in his presence are the church of the Firstborn, D&C 76:94. they may be able to bear his presence, D&C 76:118. hardened their hearts and could not endure his presence, D&C 84:24. my glory … and my presence shall be there, D&C 94:8 (97:16). angels shall go up before you, and also my presence, D&C 103:20. enjoy the communion and presence of God the Father, D&C 107:19. every man shall enter into his eternal presence, D&C 121:32. shall thy confidence wax strong in the presence of God, D&C 121:45. presence of God, on a globe like a sea of glass, D&C 130:7. sanctified … to dwell in his presence, D&C 133:35.",
+      "references": [
+        {
+          "text": "D&C 67:12",
+          "start": 55,
+          "end": 64,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 67,
+            "chapterId": "doctrineandcovenants67",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 76:62",
+          "start": 108,
+          "end": 117,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 76,
+            "chapterId": "doctrineandcovenants76",
+            "verses": [
+              {
+                "start": 62,
+                "end": 62
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 76:77",
+          "start": 164,
+          "end": 173,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 76,
+            "chapterId": "doctrineandcovenants76",
+            "verses": [
+              {
+                "start": 77,
+                "end": 77
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 76:94",
+          "start": 239,
+          "end": 248,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 76,
+            "chapterId": "doctrineandcovenants76",
+            "verses": [
+              {
+                "start": 94,
+                "end": 94
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 76:118",
+          "start": 289,
+          "end": 299,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 76,
+            "chapterId": "doctrineandcovenants76",
+            "verses": [
+              {
+                "start": 118,
+                "end": 118
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 84:24",
+          "start": 358,
+          "end": 367,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 84,
+            "chapterId": "doctrineandcovenants84",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 94:8",
+          "start": 412,
+          "end": 420,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 94,
+            "chapterId": "doctrineandcovenants94",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "97:16",
+          "start": 422,
+          "end": 427,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 97,
+            "chapterId": "doctrineandcovenants97",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 103:20",
+          "start": 483,
+          "end": 493,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 103,
+            "chapterId": "doctrineandcovenants103",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 107:19",
+          "start": 547,
+          "end": 557,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 107,
+            "chapterId": "doctrineandcovenants107",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 121:32",
+          "start": 608,
+          "end": 618,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 121:45",
+          "start": 676,
+          "end": 686,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 45,
+                "end": 45
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 130:7",
+          "start": 737,
+          "end": 746,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 130,
+            "chapterId": "doctrineandcovenants130",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 133:35",
+          "start": 787,
+          "end": 797,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 133,
+            "chapterId": "doctrineandcovenants133",
+            "verses": [
+              {
+                "start": 35,
+                "end": 35
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "presence of God withdrew from Moses, Moses 1:9. Adam and his wife went to hide themselves from the presence of the Lord, Moses 4:14. no unclean thing can dwell … in his presence, Moses 6:57. angel of his presence stood by me, Abr. 1:15. messenger sent from the presence of God, JS—H 1:33.",
+      "references": [
+        {
+          "text": "Moses 1:9",
+          "start": 37,
+          "end": 46,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 1,
+            "chapterId": "moses1",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 4:14",
+          "start": 121,
+          "end": 131,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 4,
+            "chapterId": "moses4",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 6:57",
+          "start": 179,
+          "end": 189,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 6,
+            "chapterId": "moses6",
+            "verses": [
+              {
+                "start": 57,
+                "end": 57
+              }
+            ]
+          }
+        },
+        {
+          "text": "Abr. 1:15",
+          "start": 226,
+          "end": 235,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 1,
+            "chapterId": "abraham1",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "JS—H 1:33",
+          "start": 278,
+          "end": 287,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-god-presence-of",
+      "slug": "god-presence-of",
+      "title": "God, Presence of"
+    },
+    {
+      "entryId": "tg-god-privilege-of-seeing",
+      "slug": "god-privilege-of-seeing",
+      "title": "God, Privilege of Seeing"
+    },
+    {
+      "entryId": "tg-present-adjective-adverb",
+      "slug": "present-adjective-adverb",
+      "title": "Present [adjective, adverb]"
+    }
+  ],
+  "slug": "presence",
+  "title": "Presence",
+  "type": "tg"
+}

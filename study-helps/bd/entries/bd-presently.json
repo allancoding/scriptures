@@ -1,0 +1,50 @@
+{
+  "_id": "bd-presently",
+  "content": [
+    {
+      "text": "At once, meaning instantly, not the current usage of soon or after a while (Matt. 21:19; 26:52–53).",
+      "references": [
+        {
+          "text": "Matt. 21:19",
+          "start": 76,
+          "end": 87,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 21,
+            "chapterId": "matthew21",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "26:52–53",
+          "start": 89,
+          "end": 97,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 26,
+            "chapterId": "matthew26",
+            "verses": [
+              {
+                "start": 52,
+                "end": 53
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "presently",
+  "title": "Presently",
+  "type": "bd"
+}

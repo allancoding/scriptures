@@ -1,0 +1,126 @@
+{
+  "_id": "bd-enos",
+  "content": [
+    {
+      "text": "Man. Son of Seth (Gen. 4:26; 5:6–11; Luke 3:38); called Enosh in 1 Chr. 1:1. An account of his ministry is given in D&C 107:44, 53; Moses 6:13–18.",
+      "references": [
+        {
+          "text": "Gen. 4:26",
+          "start": 18,
+          "end": 27,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 4,
+            "chapterId": "genesis4",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "5:6–11",
+          "start": 29,
+          "end": 35,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 5,
+            "chapterId": "genesis5",
+            "verses": [
+              {
+                "start": 6,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 3:38",
+          "start": 37,
+          "end": 46,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 3,
+            "chapterId": "luke3",
+            "verses": [
+              {
+                "start": 38,
+                "end": 38
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Chr. 1:1",
+          "start": 65,
+          "end": 75,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-chr",
+            "book": "1chronicles",
+            "chapter": 1,
+            "chapterId": "1chronicles1",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 107:44, 53",
+          "start": 116,
+          "end": 130,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 107,
+            "chapterId": "doctrineandcovenants107",
+            "verses": [
+              {
+                "start": 44,
+                "end": 44
+              },
+              {
+                "start": 53,
+                "end": 53
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 6:13–18",
+          "start": 132,
+          "end": 145,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 6,
+            "chapterId": "moses6",
+            "verses": [
+              {
+                "start": 13,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "enos",
+  "title": "Enos",
+  "type": "bd"
+}

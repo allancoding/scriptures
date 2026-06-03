@@ -1,0 +1,228 @@
+{
+  "_id": "tg-instrument",
+  "content": [
+    {
+      "text": "instruments of cruelty are in their habitations, Gen. 49:5. keep all the instruments of the tabernacle, Num. 3:8. an instrument of ten strings, Ps. 144:9. invent to themselves instruments of musick, Amos 6:5.",
+      "references": [
+        {
+          "text": "Gen. 49:5",
+          "start": 49,
+          "end": 58,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 49,
+            "chapterId": "genesis49",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 3:8",
+          "start": 104,
+          "end": 112,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 3,
+            "chapterId": "numbers3",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 144:9",
+          "start": 144,
+          "end": 153,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 144,
+            "chapterId": "psalms144",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Amos 6:5",
+          "start": 199,
+          "end": 207,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "amos",
+            "book": "amos",
+            "chapter": 6,
+            "chapterId": "amos6",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "your members as instruments of unrighteousness, Rom. 6:13.",
+      "references": [
+        {
+          "text": "Rom. 6:13",
+          "start": 48,
+          "end": 57,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 6,
+            "chapterId": "romans6",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "an instrument in the hands of God, 2 Ne. 1:24 (3:24; Mosiah 23:10; Alma 1:8; 26:3). bringeth forth an instrument for his work, 3 Ne. 22:16.",
+      "references": [
+        {
+          "text": "2 Ne. 1:24",
+          "start": 35,
+          "end": 45,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 1,
+            "chapterId": "2nephi1",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "3:24",
+          "start": 47,
+          "end": 51,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 3,
+            "chapterId": "2nephi3",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 23:10",
+          "start": 53,
+          "end": 65,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 23,
+            "chapterId": "mosiah23",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 1:8",
+          "start": 67,
+          "end": 75,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 1,
+            "chapterId": "alma1",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "26:3",
+          "start": 77,
+          "end": 81,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 26,
+            "chapterId": "alma26",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 22:16",
+          "start": 127,
+          "end": 138,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 22,
+            "chapterId": "3nephi22",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-musical-instruments",
+      "slug": "musical-instruments",
+      "title": "Musical Instruments"
+    }
+  ],
+  "slug": "instrument",
+  "title": "Instrument",
+  "type": "tg"
+}

@@ -1,0 +1,79 @@
+{
+  "_id": "index-advantage",
+  "content": [
+    {
+      "text": "wicked to say, Take advantage of one because of words, 2 Ne. 28:8. fools shall take no advantage of your weakness, Ether 12:26.",
+      "references": [
+        {
+          "text": "2 Ne. 28:8",
+          "start": 55,
+          "end": 65,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 28,
+            "chapterId": "2nephi28",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 12:26",
+          "start": 115,
+          "end": 126,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 12,
+            "chapterId": "ether12",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "advantage in hereafter gained through diligence here, D&C 130:19.",
+      "references": [
+        {
+          "text": "D&C 130:19",
+          "start": 54,
+          "end": 64,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 130,
+            "chapterId": "doctrineandcovenants130",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-gain",
+      "slug": "gain",
+      "title": "Gain"
+    }
+  ],
+  "slug": "advantage",
+  "title": "Advantage",
+  "type": "index"
+}

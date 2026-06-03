@@ -1,0 +1,68 @@
+{
+  "_id": "bd-esaias",
+  "content": [
+    {
+      "text": "The New Testament (Greek) form of the name Isaiah, as in Luke 4:17 and Acts 8:30. Also an ancient prophet who lived in the days of Abraham and who was blessed by him. He was a bearer of the Melchizedek Priesthood (D&C 84:11–13).",
+      "references": [
+        {
+          "text": "Luke 4:17",
+          "start": 57,
+          "end": 66,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 4,
+            "chapterId": "luke4",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 8:30",
+          "start": 71,
+          "end": 80,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 8,
+            "chapterId": "acts8",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 84:11–13",
+          "start": 214,
+          "end": 226,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 84,
+            "chapterId": "doctrineandcovenants84",
+            "verses": [
+              {
+                "start": 11,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "esaias",
+  "title": "Esaias",
+  "type": "bd"
+}

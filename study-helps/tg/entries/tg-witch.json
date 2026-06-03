@@ -1,0 +1,179 @@
+{
+  "_id": "tg-witch",
+  "content": [
+    {
+      "text": "Thou shalt not suffer a witch to live, Ex. 22:18. rebellion is as the sin of witchcraft, 1 Sam. 15:23. used witchcraft, and dealt with a familiar spirit, 2 Chr. 33:6. I will cut off witchcrafts out of thine hand, Micah 5:12 (3 Ne. 21:16). mistress of witchcrafts, that selleth nations, Nahum 3:4.",
+      "references": [
+        {
+          "text": "Ex. 22:18",
+          "start": 39,
+          "end": 48,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 22,
+            "chapterId": "exodus22",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Sam. 15:23",
+          "start": 89,
+          "end": 101,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 15,
+            "chapterId": "1samuel15",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Chr. 33:6",
+          "start": 154,
+          "end": 165,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-chr",
+            "book": "2chronicles",
+            "chapter": 33,
+            "chapterId": "2chronicles33",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Micah 5:12",
+          "start": 213,
+          "end": 223,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "micah",
+            "book": "micah",
+            "chapter": 5,
+            "chapterId": "micah5",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 21:16",
+          "start": 225,
+          "end": 236,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 21,
+            "chapterId": "3nephi21",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Nahum 3:4",
+          "start": 286,
+          "end": 295,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "nahum",
+            "book": "nahum",
+            "chapter": 3,
+            "chapterId": "nahum3",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "there were sorceries, and witchcrafts, Morm. 1:19 (2:10).",
+      "references": [
+        {
+          "text": "Morm. 1:19",
+          "start": 39,
+          "end": 49,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 1,
+            "chapterId": "mormon1",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "2:10",
+          "start": 51,
+          "end": 55,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 2,
+            "chapterId": "mormon2",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-enchantment",
+      "slug": "enchantment",
+      "title": "Enchantment"
+    },
+    {
+      "entryId": "tg-sorcery",
+      "slug": "sorcery",
+      "title": "Sorcery"
+    },
+    {
+      "entryId": "tg-superstitions",
+      "slug": "superstitions",
+      "title": "Superstitions"
+    }
+  ],
+  "slug": "witch",
+  "title": "Witch, Witchcraft",
+  "type": "tg"
+}

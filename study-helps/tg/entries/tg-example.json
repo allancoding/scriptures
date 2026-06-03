@@ -1,0 +1,792 @@
+{
+  "_id": "tg-example",
+  "content": [
+    {
+      "text": "as for me and my house, we will serve the Lord, Josh. 24:15. path of the just is as the shining light, Prov. 4:18.",
+      "references": [
+        {
+          "text": "Josh. 24:15",
+          "start": 48,
+          "end": 59,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "josh",
+            "book": "joshua",
+            "chapter": 24,
+            "chapterId": "joshua24",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 4:18",
+          "start": 103,
+          "end": 113,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 4,
+            "chapterId": "proverbs4",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Joseph … not willing to make her a publick example, Matt. 1:19. Let your light so shine before men, Matt. 5:16 (3 Ne. 12:16). I have given you an example, that ye should do as I have done, John 13:15. I am the way, the truth, John 14:6. set thee to be a light of the Gentiles, Acts 13:47. all these things happened unto them for ensamples, 1 Cor. 10:11. ye shine as lights in the world, Philip. 2:15. ye have us for an ensample, Philip. 3:17. ye were ensamples to all that believe, 1 Thes. 1:7. make ourselves an ensample unto you to follow, 2 Thes. 3:9. Jesus Christ might shew forth all longsuffering, for a pattern, 1 Tim. 1:16. be thou an example of the believers, 1 Tim. 4:12. the prophets … for an example of suffering, James 5:10. Christ … leaving us an example, that ye should follow, 1 Pet. 2:21. being ensamples to the flock, 1 Pet. 5:3. making them an ensample unto … ungodly, 2 Pet. 2:6. Sodom and Gomorrha … set forth for an example, Jude 1:7.",
+      "references": [
+        {
+          "text": "Matt. 1:19",
+          "start": 52,
+          "end": 62,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 1,
+            "chapterId": "matthew1",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 5:16",
+          "start": 100,
+          "end": 110,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 5,
+            "chapterId": "matthew5",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 12:16",
+          "start": 112,
+          "end": 123,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 12,
+            "chapterId": "3nephi12",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 13:15",
+          "start": 189,
+          "end": 199,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 13,
+            "chapterId": "john13",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 14:6",
+          "start": 226,
+          "end": 235,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 14,
+            "chapterId": "john14",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 13:47",
+          "start": 277,
+          "end": 287,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 13,
+            "chapterId": "acts13",
+            "verses": [
+              {
+                "start": 47,
+                "end": 47
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 10:11",
+          "start": 340,
+          "end": 352,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 10,
+            "chapterId": "1corinthians10",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Philip. 2:15",
+          "start": 387,
+          "end": 399,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "philip",
+            "book": "philippians",
+            "chapter": 2,
+            "chapterId": "philippians2",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Philip. 3:17",
+          "start": 429,
+          "end": 441,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "philip",
+            "book": "philippians",
+            "chapter": 3,
+            "chapterId": "philippians3",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Thes. 1:7",
+          "start": 482,
+          "end": 493,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-thes",
+            "book": "1thessalonians",
+            "chapter": 1,
+            "chapterId": "1thessalonians1",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Thes. 3:9",
+          "start": 542,
+          "end": 553,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-thes",
+            "book": "2thessalonians",
+            "chapter": 3,
+            "chapterId": "2thessalonians3",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Tim. 1:16",
+          "start": 619,
+          "end": 630,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 1,
+            "chapterId": "1timothy1",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Tim. 4:12",
+          "start": 669,
+          "end": 680,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 4,
+            "chapterId": "1timothy4",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "James 5:10",
+          "start": 726,
+          "end": 736,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "james",
+            "book": "james",
+            "chapter": 5,
+            "chapterId": "james5",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Pet. 2:21",
+          "start": 793,
+          "end": 804,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-pet",
+            "book": "1peter",
+            "chapter": 2,
+            "chapterId": "1peter2",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Pet. 5:3",
+          "start": 836,
+          "end": 846,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-pet",
+            "book": "1peter",
+            "chapter": 5,
+            "chapterId": "1peter5",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Pet. 2:6",
+          "start": 888,
+          "end": 898,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-pet",
+            "book": "2peter",
+            "chapter": 2,
+            "chapterId": "2peter2",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jude 1:7",
+          "start": 947,
+          "end": 955,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "jude",
+            "book": "jude",
+            "chapter": 1,
+            "chapterId": "jude1",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "how is it … that I … should … set an example for you, 1 Ne. 7:8. he having set the example before them, 2 Ne. 31:9. endure to the end, in following the example of the Son, 2 Ne. 31:16. lost the confidence of your children, because of your bad examples, Jacob 2:35. grieved their hearts because of the example that ye have set, Jacob 3:10. example of the church … bringing on the destruction, Alma 4:11. show forth good examples unto them in me, Alma 17:11. has he not set a good example for thee, Alma 39:1. when they saw your conduct they would not believe, Alma 39:11. ye are a light unto this people, 3 Ne. 15:12. I am the light; I have set an example for you, 3 Ne. 18:16. ye have seen me do even that shall ye do, 3 Ne. 27:21.",
+      "references": [
+        {
+          "text": "1 Ne. 7:8",
+          "start": 54,
+          "end": 63,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 7,
+            "chapterId": "1nephi7",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 31:9",
+          "start": 104,
+          "end": 114,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 31,
+            "chapterId": "2nephi31",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 31:16",
+          "start": 172,
+          "end": 183,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 31,
+            "chapterId": "2nephi31",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jacob 2:35",
+          "start": 253,
+          "end": 263,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 2,
+            "chapterId": "jacob2",
+            "verses": [
+              {
+                "start": 35,
+                "end": 35
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jacob 3:10",
+          "start": 327,
+          "end": 337,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 3,
+            "chapterId": "jacob3",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 4:11",
+          "start": 392,
+          "end": 401,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 4,
+            "chapterId": "alma4",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 17:11",
+          "start": 445,
+          "end": 455,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 17,
+            "chapterId": "alma17",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 39:1",
+          "start": 497,
+          "end": 506,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 39,
+            "chapterId": "alma39",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 39:11",
+          "start": 559,
+          "end": 569,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 39,
+            "chapterId": "alma39",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 15:12",
+          "start": 604,
+          "end": 615,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 15,
+            "chapterId": "3nephi15",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 18:16",
+          "start": 664,
+          "end": 675,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 18,
+            "chapterId": "3nephi18",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 27:21",
+          "start": 719,
+          "end": 730,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 27,
+            "chapterId": "3nephi27",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "ensample unto them, that they shall speak … by the Holy Ghost, D&C 68:3. ensample for all the extensive branches, D&C 72:23. ensample which I give unto you, D&C 78:13. ensample unto all … for justification, D&C 98:38. set to be a light unto the world, D&C 103:9. continue to be a faithful witness and a light, D&C 106:8. that thy light may be a standard for the nations, D&C 115:5.",
+      "references": [
+        {
+          "text": "D&C 68:3",
+          "start": 63,
+          "end": 71,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 68,
+            "chapterId": "doctrineandcovenants68",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 72:23",
+          "start": 114,
+          "end": 123,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 72,
+            "chapterId": "doctrineandcovenants72",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 78:13",
+          "start": 157,
+          "end": 166,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 78,
+            "chapterId": "doctrineandcovenants78",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 98:38",
+          "start": 207,
+          "end": 216,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 98,
+            "chapterId": "doctrineandcovenants98",
+            "verses": [
+              {
+                "start": 38,
+                "end": 38
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 103:9",
+          "start": 252,
+          "end": 261,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 103,
+            "chapterId": "doctrineandcovenants103",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 106:8",
+          "start": 310,
+          "end": 319,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 106,
+            "chapterId": "doctrineandcovenants106",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 115:5",
+          "start": 371,
+          "end": 380,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 115,
+            "chapterId": "doctrineandcovenants115",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-ensign",
+      "slug": "ensign",
+      "title": "Ensign"
+    },
+    {
+      "entryId": "tg-god-the-standard-of-righteousness",
+      "slug": "god-the-standard-of-righteousness",
+      "title": "God, the Standard of Righteousness"
+    },
+    {
+      "entryId": "tg-godliness",
+      "slug": "godliness",
+      "title": "Godliness"
+    },
+    {
+      "entryId": "tg-good-works",
+      "slug": "good-works",
+      "title": "Good Works"
+    },
+    {
+      "entryId": "tg-israel-mission-of",
+      "slug": "israel-mission-of",
+      "title": "Israel, Mission of"
+    },
+    {
+      "entryId": "tg-jesus-christ-exemplar",
+      "slug": "jesus-christ-exemplar",
+      "title": "Jesus Christ, Exemplar"
+    },
+    {
+      "entryId": "tg-leadership",
+      "slug": "leadership",
+      "title": "Leadership"
+    },
+    {
+      "entryId": "tg-light-noun",
+      "slug": "light-noun",
+      "title": "Light [noun]"
+    },
+    {
+      "entryId": "tg-mission-of-early-saints",
+      "slug": "mission-of-early-saints",
+      "title": "Mission of Early Saints"
+    },
+    {
+      "entryId": "tg-mission-of-latter-day-saints",
+      "slug": "mission-of-latter-day-saints",
+      "title": "Mission of Latter-day Saints"
+    },
+    {
+      "entryId": "tg-pattern",
+      "slug": "pattern",
+      "title": "Pattern"
+    },
+    {
+      "entryId": "tg-peculiar-people",
+      "slug": "peculiar-people",
+      "title": "Peculiar People"
+    }
+  ],
+  "slug": "example",
+  "title": "Example, Ensample",
+  "type": "tg"
+}

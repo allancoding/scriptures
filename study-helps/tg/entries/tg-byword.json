@@ -1,0 +1,102 @@
+{
+  "_id": "tg-byword",
+  "content": [
+    {
+      "text": "an astonishment, a proverb, and a byword, Deut. 28:37. Israel shall be … a byword among all people, 1 Kgs. 9:7. Thou makest us a byword among the heathen, Ps. 44:14.",
+      "references": [
+        {
+          "text": "Deut. 28:37",
+          "start": 42,
+          "end": 53,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 28,
+            "chapterId": "deuteronomy28",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Kgs. 9:7",
+          "start": 100,
+          "end": 110,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 9,
+            "chapterId": "1kings9",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 44:14",
+          "start": 155,
+          "end": 164,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 44,
+            "chapterId": "psalms44",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "become a hiss and a byword, 1 Ne. 19:14.",
+      "references": [
+        {
+          "text": "1 Ne. 19:14",
+          "start": 28,
+          "end": 39,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 19,
+            "chapterId": "1nephi19",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-parable",
+      "slug": "parable",
+      "title": "Parable"
+    },
+    {
+      "entryId": "tg-proverb",
+      "slug": "proverb",
+      "title": "Proverb"
+    }
+  ],
+  "slug": "byword",
+  "title": "Byword",
+  "type": "tg"
+}

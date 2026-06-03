@@ -1,0 +1,71 @@
+{
+  "_id": "index-characters",
+  "content": [
+    {
+      "text": "record written in characters known as reformed Egyptian, Morm. 9:32.",
+      "references": [
+        {
+          "text": "Morm. 9:32",
+          "start": 57,
+          "end": 67,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 9,
+            "chapterId": "mormon9",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Martin Harris takes characters drawn from plates, JS—H 1:63–65.",
+      "references": [
+        {
+          "text": "JS—H 1:63–65",
+          "start": 50,
+          "end": 62,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 63,
+                "end": 65
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-language",
+      "slug": "language",
+      "title": "Language"
+    },
+    {
+      "entryId": "index-plates",
+      "slug": "plates",
+      "title": "Plates"
+    },
+    {
+      "entryId": "index-writing",
+      "slug": "writing",
+      "title": "Writing"
+    }
+  ],
+  "slug": "characters",
+  "title": "Characters",
+  "type": "index"
+}

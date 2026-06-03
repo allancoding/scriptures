@@ -1,0 +1,174 @@
+{
+  "_id": "tg-prisoner",
+  "content": [
+    {
+      "text": "to bring out the prisoners from the prison, Isa. 42:7. thou mayest say to the prisoners, Go forth, Isa. 49:9 (1 Ne. 21:9). I have sent forth thy prisoners out of the pit, Zech. 9:11.",
+      "references": [
+        {
+          "text": "Isa. 42:7",
+          "start": 44,
+          "end": 53,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 42,
+            "chapterId": "isaiah42",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 49:9",
+          "start": 99,
+          "end": 108,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 49,
+            "chapterId": "isaiah49",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Ne. 21:9",
+          "start": 110,
+          "end": 120,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 21,
+            "chapterId": "1nephi21",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Zech. 9:11",
+          "start": 171,
+          "end": 181,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "zech",
+            "book": "zechariah",
+            "chapter": 9,
+            "chapterId": "zechariah9",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Paul, the prisoner of Jesus Christ for you, Eph. 3:1 (4:1; Philem. 1:1).",
+      "references": [
+        {
+          "text": "Eph. 3:1",
+          "start": 44,
+          "end": 52,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "eph",
+            "book": "ephesians",
+            "chapter": 3,
+            "chapterId": "ephesians3",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "4:1",
+          "start": 54,
+          "end": 57,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "eph",
+            "book": "ephesians",
+            "chapter": 4,
+            "chapterId": "ephesians4",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Philem. 1:1",
+          "start": 59,
+          "end": 70,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "philem",
+            "book": "philemon",
+            "chapter": 1,
+            "chapterId": "philemon1",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "prisoners shall go free, D&C 128:22.",
+      "references": [
+        {
+          "text": "D&C 128:22",
+          "start": 25,
+          "end": 35,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 128,
+            "chapterId": "doctrineandcovenants128",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-captive",
+      "slug": "captive",
+      "title": "Captive"
+    }
+  ],
+  "slug": "prisoner",
+  "title": "Prisoner",
+  "type": "tg"
+}

@@ -1,0 +1,91 @@
+{
+  "_id": "tg-length",
+  "content": [
+    {
+      "text": "he is thy life, and the length of thy days, Deut. 30:20. length of days … shall they add to thee, Prov. 3:2.",
+      "references": [
+        {
+          "text": "Deut. 30:20",
+          "start": 44,
+          "end": 55,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 30,
+            "chapterId": "deuteronomy30",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 3:2",
+          "start": 98,
+          "end": 107,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 3,
+            "chapterId": "proverbs3",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "comprehend with all saints what is the breadth, and length, Eph. 3:18. length is as large as the breadth, Rev. 21:16.",
+      "references": [
+        {
+          "text": "Eph. 3:18",
+          "start": 60,
+          "end": 69,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "eph",
+            "book": "ephesians",
+            "chapter": 3,
+            "chapterId": "ephesians3",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 21:16",
+          "start": 106,
+          "end": 116,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 21,
+            "chapterId": "revelation21",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "length",
+  "title": "Length",
+  "type": "tg"
+}

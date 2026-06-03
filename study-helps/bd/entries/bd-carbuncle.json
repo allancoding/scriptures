@@ -1,0 +1,68 @@
+{
+  "_id": "bd-carbuncle",
+  "content": [
+    {
+      "text": "A precious stone of bright red color (Ex. 28:17; Isa. 54:12; Ezek. 28:13).",
+      "references": [
+        {
+          "text": "Ex. 28:17",
+          "start": 38,
+          "end": 47,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 28,
+            "chapterId": "exodus28",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 54:12",
+          "start": 49,
+          "end": 59,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 54,
+            "chapterId": "isaiah54",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 28:13",
+          "start": 61,
+          "end": 72,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 28,
+            "chapterId": "ezekiel28",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "carbuncle",
+  "title": "Carbuncle",
+  "type": "bd"
+}

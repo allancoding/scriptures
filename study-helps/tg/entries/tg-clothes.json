@@ -1,0 +1,261 @@
+{
+  "_id": "tg-clothes",
+  "content": [
+    {
+      "text": "Reuben … rent his clothes, Gen. 37:29. let them wash their clothes, Ex. 19:10. Joshua … and Caleb … rent their clothes, Num. 14:6. your clothes are not waxen old upon you, Deut. 29:5.",
+      "references": [
+        {
+          "text": "Gen. 37:29",
+          "start": 27,
+          "end": 37,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 37,
+            "chapterId": "genesis37",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 19:10",
+          "start": 68,
+          "end": 77,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 19,
+            "chapterId": "exodus19",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 14:6",
+          "start": 120,
+          "end": 129,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 14,
+            "chapterId": "numbers14",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 29:5",
+          "start": 172,
+          "end": 182,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 29,
+            "chapterId": "deuteronomy29",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "high priest rent his clothes, Matt. 26:65 (Mark 14:63). If I may touch but his clothes, I shall be whole, Mark 5:28. put his own clothes on him, Mark 15:20. wrapped him in swaddling clothes, Luke 2:7. they spread their clothes in the way, Luke 19:36. body of Jesus, and wound it in linen clothes, John 19:40. laid down their clothes at a young man’s feet, Acts 7:58.",
+      "references": [
+        {
+          "text": "Matt. 26:65",
+          "start": 30,
+          "end": 41,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 26,
+            "chapterId": "matthew26",
+            "verses": [
+              {
+                "start": 65,
+                "end": 65
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 14:63",
+          "start": 43,
+          "end": 53,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 14,
+            "chapterId": "mark14",
+            "verses": [
+              {
+                "start": 63,
+                "end": 63
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 5:28",
+          "start": 106,
+          "end": 115,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 5,
+            "chapterId": "mark5",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 15:20",
+          "start": 145,
+          "end": 155,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 15,
+            "chapterId": "mark15",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 2:7",
+          "start": 191,
+          "end": 199,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 2,
+            "chapterId": "luke2",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 19:36",
+          "start": 239,
+          "end": 249,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 19,
+            "chapterId": "luke19",
+            "verses": [
+              {
+                "start": 36,
+                "end": 36
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 19:40",
+          "start": 297,
+          "end": 307,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 19,
+            "chapterId": "john19",
+            "verses": [
+              {
+                "start": 40,
+                "end": 40
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 7:58",
+          "start": 356,
+          "end": 365,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 7,
+            "chapterId": "acts7",
+            "verses": [
+              {
+                "start": 58,
+                "end": 58
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-clothing",
+      "slug": "clothing",
+      "title": "Clothing"
+    },
+    {
+      "entryId": "tg-garment",
+      "slug": "garment",
+      "title": "Garment"
+    },
+    {
+      "entryId": "tg-raiment",
+      "slug": "raiment",
+      "title": "Raiment"
+    },
+    {
+      "entryId": "tg-robe",
+      "slug": "robe",
+      "title": "Robe"
+    },
+    {
+      "entryId": "tg-vesture",
+      "slug": "vesture",
+      "title": "Vesture"
+    }
+  ],
+  "slug": "clothes",
+  "title": "Clothes",
+  "type": "tg"
+}

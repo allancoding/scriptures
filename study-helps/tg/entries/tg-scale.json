@@ -1,0 +1,114 @@
+{
+  "_id": "tg-scale",
+  "content": [
+    {
+      "text": "eat … whatsoever hath fins and scales, Lev. 11:9 (Deut. 14:9). Who hath … weighed the mountains in scales, Isa. 40:12.",
+      "references": [
+        {
+          "text": "Lev. 11:9",
+          "start": 39,
+          "end": 48,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 11,
+            "chapterId": "leviticus11",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 14:9",
+          "start": 50,
+          "end": 60,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 14,
+            "chapterId": "deuteronomy14",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 40:12",
+          "start": 107,
+          "end": 117,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 40,
+            "chapterId": "isaiah40",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "there fell from his eyes as it had been scales, Acts 9:18.",
+      "references": [
+        {
+          "text": "Acts 9:18",
+          "start": 48,
+          "end": 57,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 9,
+            "chapterId": "acts9",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "scales of darkness shall begin to fall from their eyes, 2 Ne. 30:6.",
+      "references": [
+        {
+          "text": "2 Ne. 30:6",
+          "start": 56,
+          "end": 66,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 30,
+            "chapterId": "2nephi30",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "scale",
+  "title": "Scale",
+  "type": "tg"
+}

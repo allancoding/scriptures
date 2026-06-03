@@ -1,0 +1,38 @@
+{
+  "_id": "index-israelites",
+  "content": [
+    {
+      "text": "Israelites, who were our fathers, came through Red Sea, Hel. 8:11.",
+      "references": [
+        {
+          "text": "Hel. 8:11",
+          "start": 56,
+          "end": 65,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 8,
+            "chapterId": "helaman8",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-israel",
+      "slug": "israel",
+      "title": "Israel"
+    }
+  ],
+  "slug": "israelites",
+  "title": "Israelites",
+  "type": "index"
+}

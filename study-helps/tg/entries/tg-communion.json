@@ -1,0 +1,120 @@
+{
+  "_id": "tg-communion",
+  "content": [
+    {
+      "text": "is it not the communion of the blood of Christ, 1 Cor. 10:16. what communion hath light with darkness, 2 Cor. 6:14. love of God, and the communion of the Holy Ghost, 2 Cor. 13:14.",
+      "references": [
+        {
+          "text": "1 Cor. 10:16",
+          "start": 48,
+          "end": 60,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 10,
+            "chapterId": "1corinthians10",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Cor. 6:14",
+          "start": 103,
+          "end": 114,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 6,
+            "chapterId": "2corinthians6",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Cor. 13:14",
+          "start": 166,
+          "end": 178,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 13,
+            "chapterId": "2corinthians13",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "have communion with the Holy Spirit, Jarom 1:4.",
+      "references": [
+        {
+          "text": "Jarom 1:4",
+          "start": 37,
+          "end": 46,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jarom",
+            "book": "jarom",
+            "chapter": 1,
+            "chapterId": "jarom1",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "enjoy the communion and presence of God, D&C 107:19.",
+      "references": [
+        {
+          "text": "D&C 107:19",
+          "start": 41,
+          "end": 51,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 107,
+            "chapterId": "doctrineandcovenants107",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-sacrament",
+      "slug": "sacrament",
+      "title": "Sacrament"
+    }
+  ],
+  "slug": "communion",
+  "title": "Communion",
+  "type": "tg"
+}

@@ -1,0 +1,71 @@
+{
+  "_id": "index-thing",
+  "content": [
+    {
+      "text": "all things are numbered unto God, Moses 1:35. all things bear record of God, Moses 6:63.",
+      "references": [
+        {
+          "text": "Moses 1:35",
+          "start": 34,
+          "end": 44,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 1,
+            "chapterId": "moses1",
+            "verses": [
+              {
+                "start": 35,
+                "end": 35
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 6:63",
+          "start": 77,
+          "end": 87,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 6,
+            "chapterId": "moses6",
+            "verses": [
+              {
+                "start": 63,
+                "end": 63
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-good",
+      "slug": "good",
+      "title": "Good"
+    },
+    {
+      "entryId": "index-naught",
+      "slug": "naught",
+      "title": "Naught"
+    },
+    {
+      "entryId": "index-needful",
+      "slug": "needful",
+      "title": "Needful"
+    },
+    {
+      "entryId": "index-unclean",
+      "slug": "unclean",
+      "title": "Unclean"
+    }
+  ],
+  "slug": "thing",
+  "title": "Thing",
+  "type": "index"
+}

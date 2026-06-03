@@ -1,0 +1,94 @@
+{
+  "_id": "bd-nob",
+  "content": [
+    {
+      "text": "Priestly city in Benjamin, north of Jerusalem, one of the places where the tabernacle stood before the building of the temple (1 Sam. 21:1; 22:9, 11, 19; Neh. 11:32; Isa. 10:32).",
+      "references": [
+        {
+          "text": "1 Sam. 21:1",
+          "start": 127,
+          "end": 138,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 21,
+            "chapterId": "1samuel21",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "22:9, 11, 19",
+          "start": 140,
+          "end": 152,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 22,
+            "chapterId": "1samuel22",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              },
+              {
+                "start": 11,
+                "end": 11
+              },
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Neh. 11:32",
+          "start": 154,
+          "end": 164,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "neh",
+            "book": "nehemiah",
+            "chapter": 11,
+            "chapterId": "nehemiah11",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 10:32",
+          "start": 166,
+          "end": 176,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 10,
+            "chapterId": "isaiah10",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "nob",
+  "title": "Nob",
+  "type": "bd"
+}

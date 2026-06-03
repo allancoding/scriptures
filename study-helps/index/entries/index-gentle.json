@@ -1,0 +1,71 @@
+{
+  "_id": "index-gentle",
+  "content": [
+    {
+      "text": "be humble, submissive, gentle, Alma 7:23.",
+      "references": [
+        {
+          "text": "Alma 7:23",
+          "start": 31,
+          "end": 40,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 7,
+            "chapterId": "alma7",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "power or influence to be maintained only by gentleness, D&C 121:41.",
+      "references": [
+        {
+          "text": "D&C 121:41",
+          "start": 56,
+          "end": 66,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 41,
+                "end": 41
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-kindness",
+      "slug": "kindness",
+      "title": "Kindness"
+    },
+    {
+      "entryId": "index-meek",
+      "slug": "meek",
+      "title": "Meek"
+    },
+    {
+      "entryId": "index-tender",
+      "slug": "tender",
+      "title": "Tender"
+    }
+  ],
+  "slug": "gentle",
+  "title": "Gentle, Gentleness",
+  "type": "index"
+}

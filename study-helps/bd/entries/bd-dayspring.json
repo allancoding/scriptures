@@ -1,0 +1,50 @@
+{
+  "_id": "bd-dayspring",
+  "content": [
+    {
+      "text": "Daybreak (Job 38:12; Luke 1:78).",
+      "references": [
+        {
+          "text": "Job 38:12",
+          "start": 10,
+          "end": 19,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "job",
+            "book": "job",
+            "chapter": 38,
+            "chapterId": "job38",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 1:78",
+          "start": 21,
+          "end": 30,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 1,
+            "chapterId": "luke1",
+            "verses": [
+              {
+                "start": 78,
+                "end": 78
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "dayspring",
+  "title": "Dayspring",
+  "type": "bd"
+}

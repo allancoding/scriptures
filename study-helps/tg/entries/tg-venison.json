@@ -1,0 +1,50 @@
+{
+  "_id": "tg-venison",
+  "content": [
+    {
+      "text": "Isaac loved Esau, because he did eat of his venison, Gen. 25:28. go out to the field, and take me some venison, Gen. 27:3.",
+      "references": [
+        {
+          "text": "Gen. 25:28",
+          "start": 53,
+          "end": 63,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 25,
+            "chapterId": "genesis25",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 27:3",
+          "start": 112,
+          "end": 121,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 27,
+            "chapterId": "genesis27",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "venison",
+  "title": "Venison",
+  "type": "tg"
+}

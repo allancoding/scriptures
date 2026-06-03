@@ -1,0 +1,50 @@
+{
+  "_id": "tg-shipwreck",
+  "content": [
+    {
+      "text": "thrice I suffered shipwreck, 2 Cor. 11:25. some having put away concerning faith have made shipwreck, 1 Tim. 1:19.",
+      "references": [
+        {
+          "text": "2 Cor. 11:25",
+          "start": 29,
+          "end": 41,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 11,
+            "chapterId": "2corinthians11",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Tim. 1:19",
+          "start": 102,
+          "end": 113,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 1,
+            "chapterId": "1timothy1",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "shipwreck",
+  "title": "Shipwreck",
+  "type": "tg"
+}

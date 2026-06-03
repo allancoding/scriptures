@@ -1,0 +1,32 @@
+{
+  "_id": "tg-sop",
+  "content": [
+    {
+      "text": "to whom I shall give a sop, John 13:26.",
+      "references": [
+        {
+          "text": "John 13:26",
+          "start": 28,
+          "end": 38,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 13,
+            "chapterId": "john13",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "sop",
+  "title": "Sop",
+  "type": "tg"
+}

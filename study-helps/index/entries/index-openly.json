@@ -1,0 +1,87 @@
+{
+  "_id": "index-openly",
+  "content": [
+    {
+      "text": "give alms and pray in secret, that the Father reward thee openly, 3 Ne. 13:4, 6 (Matt. 6:4, 6).",
+      "references": [
+        {
+          "text": "3 Ne. 13:4, 6",
+          "start": 66,
+          "end": 79,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 13,
+            "chapterId": "3nephi13",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              },
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 6:4, 6",
+          "start": 81,
+          "end": 93,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 6,
+            "chapterId": "matthew6",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              },
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "if any one offend openly, he or she shall be rebuked openly, D&C 42:91.",
+      "references": [
+        {
+          "text": "D&C 42:91",
+          "start": 61,
+          "end": 70,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 42,
+            "chapterId": "doctrineandcovenants42",
+            "verses": [
+              {
+                "start": 91,
+                "end": 91
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-open",
+      "slug": "open",
+      "title": "Open"
+    }
+  ],
+  "slug": "openly",
+  "title": "Openly",
+  "type": "index"
+}

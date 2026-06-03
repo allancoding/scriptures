@@ -1,0 +1,86 @@
+{
+  "_id": "tg-hunter",
+  "content": [
+    {
+      "text": "Nimrod the mighty hunter, Gen. 10:9 (Ether 2:1). Esau was a cunning hunter, Gen. 25:27. after will I send for many hunters, Jer. 16:16.",
+      "references": [
+        {
+          "text": "Gen. 10:9",
+          "start": 26,
+          "end": 35,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 10,
+            "chapterId": "genesis10",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 2:1",
+          "start": 37,
+          "end": 46,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 2,
+            "chapterId": "ether2",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 25:27",
+          "start": 76,
+          "end": 86,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 25,
+            "chapterId": "genesis25",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 16:16",
+          "start": 124,
+          "end": 134,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 16,
+            "chapterId": "jeremiah16",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "hunter",
+  "title": "Hunter",
+  "type": "tg"
+}

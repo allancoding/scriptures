@@ -1,0 +1,101 @@
+{
+  "_id": "index-wine-press",
+  "content": [
+    {
+      "text": "Noah3 builds wine-presses, Mosiah 11:15.",
+      "references": [
+        {
+          "text": "Mosiah 11:15",
+          "start": 27,
+          "end": 39,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 11,
+            "chapterId": "mosiah11",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Christ has trodden wine-press alone, D&C 76:107 (88:106; 133:48, 50).",
+      "references": [
+        {
+          "text": "D&C 76:107",
+          "start": 37,
+          "end": 47,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 76,
+            "chapterId": "doctrineandcovenants76",
+            "verses": [
+              {
+                "start": 107,
+                "end": 107
+              }
+            ]
+          }
+        },
+        {
+          "text": "88:106",
+          "start": 49,
+          "end": 55,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 106,
+                "end": 106
+              }
+            ]
+          }
+        },
+        {
+          "text": "133:48, 50",
+          "start": 57,
+          "end": 67,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 133,
+            "chapterId": "doctrineandcovenants133",
+            "verses": [
+              {
+                "start": 48,
+                "end": 48
+              },
+              {
+                "start": 50,
+                "end": 50
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-wine",
+      "slug": "wine",
+      "title": "Wine"
+    }
+  ],
+  "slug": "wine-press",
+  "title": "Wine-Press",
+  "type": "index"
+}

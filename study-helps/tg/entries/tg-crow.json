@@ -1,0 +1,112 @@
+{
+  "_id": "tg-crow",
+  "content": [
+    {
+      "text": "before the cock crow, thou shalt deny me thrice, Matt. 26:34 (26:75; Mark 14:30, 72; Luke 22:34, 61; John 13:38).",
+      "references": [
+        {
+          "text": "Matt. 26:34",
+          "start": 49,
+          "end": 60,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 26,
+            "chapterId": "matthew26",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        },
+        {
+          "text": "26:75",
+          "start": 62,
+          "end": 67,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 26,
+            "chapterId": "matthew26",
+            "verses": [
+              {
+                "start": 75,
+                "end": 75
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 14:30, 72",
+          "start": 69,
+          "end": 83,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 14,
+            "chapterId": "mark14",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              },
+              {
+                "start": 72,
+                "end": 72
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 22:34, 61",
+          "start": 85,
+          "end": 99,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 22,
+            "chapterId": "luke22",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              },
+              {
+                "start": 61,
+                "end": 61
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 13:38",
+          "start": 101,
+          "end": 111,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 13,
+            "chapterId": "john13",
+            "verses": [
+              {
+                "start": 38,
+                "end": 38
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "crow",
+  "title": "Crow",
+  "type": "tg"
+}

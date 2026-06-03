@@ -1,0 +1,875 @@
+{
+  "_id": "tg-blind",
+  "content": [
+    {
+      "text": "for the gift blindeth the wise, Ex. 23:8 (Deut. 16:19). nor put a stumblingblock before the blind, Lev. 19:14. Blind, or broken, … ye shall not offer these unto the Lord, Lev. 22:22. Cursed be he that maketh the blind to wander, Deut. 27:18. as the blind gropeth in darkness, Deut. 28:29. Lord openeth the eyes of the blind, Ps. 146:8. eyes of the blind shall see out of obscurity, Isa. 29:18 (2 Ne. 27:29). bring the blind by a way that they knew not, Isa. 42:16. Bring forth the blind people that have eyes, Isa. 43:8. His watchmen are blind, Isa. 56:10. they shall walk like blind men, Zeph. 1:17. offer the blind for sacrifice, is it not evil, Mal. 1:8.",
+      "references": [
+        {
+          "text": "Ex. 23:8",
+          "start": 32,
+          "end": 40,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 23,
+            "chapterId": "exodus23",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 16:19",
+          "start": 42,
+          "end": 53,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 16,
+            "chapterId": "deuteronomy16",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Lev. 19:14",
+          "start": 99,
+          "end": 109,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 19,
+            "chapterId": "leviticus19",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Lev. 22:22",
+          "start": 171,
+          "end": 181,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 22,
+            "chapterId": "leviticus22",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 27:18",
+          "start": 229,
+          "end": 240,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 27,
+            "chapterId": "deuteronomy27",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 28:29",
+          "start": 276,
+          "end": 287,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 28,
+            "chapterId": "deuteronomy28",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 146:8",
+          "start": 325,
+          "end": 334,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 146,
+            "chapterId": "psalms146",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 29:18",
+          "start": 382,
+          "end": 392,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 29,
+            "chapterId": "isaiah29",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 27:29",
+          "start": 394,
+          "end": 405,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 27,
+            "chapterId": "2nephi27",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 42:16",
+          "start": 453,
+          "end": 463,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 42,
+            "chapterId": "isaiah42",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 43:8",
+          "start": 510,
+          "end": 519,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 43,
+            "chapterId": "isaiah43",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 56:10",
+          "start": 545,
+          "end": 555,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 56,
+            "chapterId": "isaiah56",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Zeph. 1:17",
+          "start": 589,
+          "end": 599,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "zeph",
+            "book": "zephaniah",
+            "chapter": 1,
+            "chapterId": "zephaniah1",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mal. 1:8",
+          "start": 648,
+          "end": 656,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "mal",
+            "book": "malachi",
+            "chapter": 1,
+            "chapterId": "malachi1",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Jesus departed thence, two blind men followed him, Matt. 9:27. blind receive their sight, Matt. 11:5 (Luke 7:22). blind and dumb both spake and saw, Matt. 12:22. if the blind lead the blind, Matt. 15:14 (Luke 6:39). the blind to see: and they glorified the God, Matt. 15:31. two blind men sitting by the way side, Matt. 20:30. Woe unto you, ye blind guides, Matt. 23:16. they bring a blind man unto him, Mark 8:22. blind Bartimæus … sat by the highway, Mark 10:46 (Luke 18:35). a man which was blind from his birth, John 9:1. whereas I was blind, now I see, John 9:25. blinded their eyes, and hardened their heart, John 12:40. thou shalt be blind, not seeing the sun, Acts 13:11. thou thyself art a guide of the blind, Rom. 2:19. hath obtained it, and the rest were blinded, Rom. 11:7. their minds were blinded, 2 Cor. 3:14. god of this world hath blinded the minds, 2 Cor. 4:4. he that lacketh these things is blind, 2 Pet. 1:9. darkness hath blinded his eyes, 1 Jn. 2:11.",
+      "references": [
+        {
+          "text": "Matt. 9:27",
+          "start": 51,
+          "end": 61,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 9,
+            "chapterId": "matthew9",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 11:5",
+          "start": 90,
+          "end": 100,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 11,
+            "chapterId": "matthew11",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 7:22",
+          "start": 102,
+          "end": 111,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 7,
+            "chapterId": "luke7",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 12:22",
+          "start": 149,
+          "end": 160,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 12,
+            "chapterId": "matthew12",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 15:14",
+          "start": 191,
+          "end": 202,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 15,
+            "chapterId": "matthew15",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 6:39",
+          "start": 204,
+          "end": 213,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 6,
+            "chapterId": "luke6",
+            "verses": [
+              {
+                "start": 39,
+                "end": 39
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 15:31",
+          "start": 262,
+          "end": 273,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 15,
+            "chapterId": "matthew15",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 20:30",
+          "start": 314,
+          "end": 325,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 20,
+            "chapterId": "matthew20",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 23:16",
+          "start": 358,
+          "end": 369,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 23,
+            "chapterId": "matthew23",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 8:22",
+          "start": 404,
+          "end": 413,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 8,
+            "chapterId": "mark8",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 10:46",
+          "start": 453,
+          "end": 463,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 10,
+            "chapterId": "mark10",
+            "verses": [
+              {
+                "start": 46,
+                "end": 46
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 18:35",
+          "start": 465,
+          "end": 475,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 18,
+            "chapterId": "luke18",
+            "verses": [
+              {
+                "start": 35,
+                "end": 35
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 9:1",
+          "start": 516,
+          "end": 524,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 9,
+            "chapterId": "john9",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 9:25",
+          "start": 558,
+          "end": 567,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 9,
+            "chapterId": "john9",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 12:40",
+          "start": 615,
+          "end": 625,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 12,
+            "chapterId": "john12",
+            "verses": [
+              {
+                "start": 40,
+                "end": 40
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 13:11",
+          "start": 668,
+          "end": 678,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 13,
+            "chapterId": "acts13",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 2:19",
+          "start": 719,
+          "end": 728,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 2,
+            "chapterId": "romans2",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 11:7",
+          "start": 775,
+          "end": 784,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 11,
+            "chapterId": "romans11",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Cor. 3:14",
+          "start": 812,
+          "end": 823,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 3,
+            "chapterId": "2corinthians3",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Cor. 4:4",
+          "start": 867,
+          "end": 877,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 4,
+            "chapterId": "2corinthians4",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Pet. 1:9",
+          "start": 918,
+          "end": 928,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-pet",
+            "book": "2peter",
+            "chapter": 1,
+            "chapterId": "2peter1",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Jn. 2:11",
+          "start": 962,
+          "end": 972,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-jn",
+            "book": "1john",
+            "chapter": 2,
+            "chapterId": "1john2",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "temptations of the devil, which blindeth, 1 Ne. 12:17. Wo unto the blind that will not see, 2 Ne. 9:32. causing … blind to receive their sight, Mosiah 3:5. eyes of the people were blinded, Mosiah 11:29. blind your eyes, that ye will not understand, Alma 10:25. go forth … with their blind, 3 Ne. 17:9. opened the eyes of their blind, 3 Ne. 26:15.",
+      "references": [
+        {
+          "text": "1 Ne. 12:17",
+          "start": 42,
+          "end": 53,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 12,
+            "chapterId": "1nephi12",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 9:32",
+          "start": 92,
+          "end": 102,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 9,
+            "chapterId": "2nephi9",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 3:5",
+          "start": 144,
+          "end": 154,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 3,
+            "chapterId": "mosiah3",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 11:29",
+          "start": 189,
+          "end": 201,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 11,
+            "chapterId": "mosiah11",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 10:25",
+          "start": 249,
+          "end": 259,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 10,
+            "chapterId": "alma10",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 17:9",
+          "start": 290,
+          "end": 300,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 17,
+            "chapterId": "3nephi17",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 26:15",
+          "start": 334,
+          "end": 345,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 26,
+            "chapterId": "3nephi26",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "honorable men … blinded by the craftiness, D&C 76:75. Satan seeketh to turn their hearts away from the truth, that they become blinded, D&C 78:10. In my name they shall open the eyes of the blind, D&C 84:69. blinded by the subtle craftiness of men, D&C 123:12.",
+      "references": [
+        {
+          "text": "D&C 76:75",
+          "start": 43,
+          "end": 52,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 76,
+            "chapterId": "doctrineandcovenants76",
+            "verses": [
+              {
+                "start": 75,
+                "end": 75
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 78:10",
+          "start": 136,
+          "end": 145,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 78,
+            "chapterId": "doctrineandcovenants78",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 84:69",
+          "start": 197,
+          "end": 206,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 84,
+            "chapterId": "doctrineandcovenants84",
+            "verses": [
+              {
+                "start": 69,
+                "end": 69
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 123:12",
+          "start": 249,
+          "end": 259,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 123,
+            "chapterId": "doctrineandcovenants123",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "blind",
+  "title": "Blind",
+  "type": "tg"
+}

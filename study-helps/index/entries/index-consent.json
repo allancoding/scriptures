@@ -1,0 +1,43 @@
+{
+  "_id": "index-consent",
+  "content": [
+    {
+      "text": "by Saints’ prayer of faith with one consent the Lord will uphold servant, D&C 93:51.",
+      "references": [
+        {
+          "text": "D&C 93:51",
+          "start": 74,
+          "end": 83,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 93,
+            "chapterId": "doctrineandcovenants93",
+            "verses": [
+              {
+                "start": 51,
+                "end": 51
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-common-consent",
+      "slug": "common-consent",
+      "title": "Common Consent"
+    },
+    {
+      "entryId": "index-unite",
+      "slug": "unite",
+      "title": "Unite"
+    }
+  ],
+  "slug": "consent",
+  "title": "Consent",
+  "type": "index"
+}

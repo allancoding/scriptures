@@ -1,0 +1,56 @@
+{
+  "_id": "index-swift",
+  "content": [
+    {
+      "text": "elder brothers of Nephi1 are swift to do iniquity, 1 Ne. 17:45. so swift is war that none was left to bury dead, Ether 14:22.",
+      "references": [
+        {
+          "text": "1 Ne. 17:45",
+          "start": 51,
+          "end": 62,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 17,
+            "chapterId": "1nephi17",
+            "verses": [
+              {
+                "start": 45,
+                "end": 45
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 14:22",
+          "start": 113,
+          "end": 124,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 14,
+            "chapterId": "ether14",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-quick",
+      "slug": "quick",
+      "title": "Quick"
+    }
+  ],
+  "slug": "swift",
+  "title": "Swift",
+  "type": "index"
+}

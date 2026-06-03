@@ -1,0 +1,109 @@
+{
+  "_id": "tg-javelin",
+  "content": [
+    {
+      "text": "Phinehas … took a javelin in his hand, Num. 25:7. Saul cast the javelin, 1 Sam. 18:11 (19:10).",
+      "references": [
+        {
+          "text": "Num. 25:7",
+          "start": 39,
+          "end": 48,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 25,
+            "chapterId": "numbers25",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Sam. 18:11",
+          "start": 73,
+          "end": 85,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 18,
+            "chapterId": "1samuel18",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "19:10",
+          "start": 87,
+          "end": 92,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 19,
+            "chapterId": "1samuel19",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "put a javelin to his heart, Alma 51:34. king … cast a javelin at him, Alma 62:36.",
+      "references": [
+        {
+          "text": "Alma 51:34",
+          "start": 28,
+          "end": 38,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 51,
+            "chapterId": "alma51",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 62:36",
+          "start": 70,
+          "end": 80,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 62,
+            "chapterId": "alma62",
+            "verses": [
+              {
+                "start": 36,
+                "end": 36
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "javelin",
+  "title": "Javelin",
+  "type": "tg"
+}

@@ -1,0 +1,159 @@
+{
+  "_id": "index-cimeter",
+  "content": [
+    {
+      "text": "Lamanites skilled in cimeter, Enos 1:20. cimeters used in wars between Nephites and Lamanites, Mosiah 9:16 (10:8; Alma 2:12; 43:18, 20, 37; 60:2; Hel. 1:14).",
+      "references": [
+        {
+          "text": "Enos 1:20",
+          "start": 30,
+          "end": 39,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "enos",
+            "book": "enos",
+            "chapter": 1,
+            "chapterId": "enos1",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 9:16",
+          "start": 95,
+          "end": 106,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 9,
+            "chapterId": "mosiah9",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "10:8",
+          "start": 108,
+          "end": 112,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 10,
+            "chapterId": "mosiah10",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 2:12",
+          "start": 114,
+          "end": 123,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 2,
+            "chapterId": "alma2",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "43:18, 20, 37",
+          "start": 125,
+          "end": 138,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 43,
+            "chapterId": "alma43",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              },
+              {
+                "start": 20,
+                "end": 20
+              },
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        },
+        {
+          "text": "60:2",
+          "start": 140,
+          "end": 144,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 60,
+            "chapterId": "alma60",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 1:14",
+          "start": 146,
+          "end": 155,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 1,
+            "chapterId": "helaman1",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-sword",
+      "slug": "sword",
+      "title": "Sword"
+    },
+    {
+      "entryId": "index-weapon",
+      "slug": "weapon",
+      "title": "Weapon"
+    }
+  ],
+  "slug": "cimeter",
+  "title": "Cimeter",
+  "type": "index"
+}

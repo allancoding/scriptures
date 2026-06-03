@@ -1,0 +1,43 @@
+{
+  "_id": "index-renounce",
+  "content": [
+    {
+      "text": "renounce war and proclaim peace, D&C 98:16.",
+      "references": [
+        {
+          "text": "D&C 98:16",
+          "start": 33,
+          "end": 42,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 98,
+            "chapterId": "doctrineandcovenants98",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-deny",
+      "slug": "deny",
+      "title": "Deny"
+    },
+    {
+      "entryId": "index-reject",
+      "slug": "reject",
+      "title": "Reject"
+    }
+  ],
+  "slug": "renounce",
+  "title": "Renounce",
+  "type": "index"
+}

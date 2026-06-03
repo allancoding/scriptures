@@ -1,0 +1,83 @@
+{
+  "_id": "index-sail",
+  "content": [
+    {
+      "text": "people of Lehi1 sailed to promised land, 1 Ne. 18:22–23. many Nephites sail northward, Alma 63:6, 8. Nephites are led by Satan as vessel tossed without sail or anchor, Morm. 5:18.",
+      "references": [
+        {
+          "text": "1 Ne. 18:22–23",
+          "start": 41,
+          "end": 55,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 18,
+            "chapterId": "1nephi18",
+            "verses": [
+              {
+                "start": 22,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 63:6, 8",
+          "start": 87,
+          "end": 99,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 63,
+            "chapterId": "alma63",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              },
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 5:18",
+          "start": 168,
+          "end": 178,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 5,
+            "chapterId": "mormon5",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-journey",
+      "slug": "journey",
+      "title": "Journey"
+    },
+    {
+      "entryId": "index-ship",
+      "slug": "ship",
+      "title": "Ship"
+    }
+  ],
+  "slug": "sail",
+  "title": "Sail",
+  "type": "index"
+}

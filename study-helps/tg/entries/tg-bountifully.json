@@ -1,0 +1,73 @@
+{
+  "_id": "tg-bountifully",
+  "content": [
+    {
+      "text": "for the Lord hath dealt bountifully with thee, Ps. 116:7. Deal bountifully with thy servant, Ps. 119:17.",
+      "references": [
+        {
+          "text": "Ps. 116:7",
+          "start": 47,
+          "end": 56,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 116,
+            "chapterId": "psalms116",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 119:17",
+          "start": 93,
+          "end": 103,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 119,
+            "chapterId": "psalms119",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "he which soweth bountifully shall reap also bountifully, 2 Cor. 9:6.",
+      "references": [
+        {
+          "text": "2 Cor. 9:6",
+          "start": 57,
+          "end": 67,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 9,
+            "chapterId": "2corinthians9",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "bountifully",
+  "title": "Bountifully",
+  "type": "tg"
+}

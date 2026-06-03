@@ -1,0 +1,97 @@
+{
+  "_id": "index-glass",
+  "content": [
+    {
+      "text": "brother of Jared2 brings the Lord 16 stones, transparent as glass, Ether 3:1.",
+      "references": [
+        {
+          "text": "Ether 3:1",
+          "start": 67,
+          "end": 76,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 3,
+            "chapterId": "ether3",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "sea of glass is sanctified earth, D&C 77:1 (Rev. 4:6). angels dwell in presence of God on globe like sea of glass and fire, D&C 130:7.",
+      "references": [
+        {
+          "text": "D&C 77:1",
+          "start": 34,
+          "end": 42,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 77,
+            "chapterId": "doctrineandcovenants77",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 4:6",
+          "start": 44,
+          "end": 52,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 4,
+            "chapterId": "revelation4",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 130:7",
+          "start": 124,
+          "end": 133,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 130,
+            "chapterId": "doctrineandcovenants130",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-crystal",
+      "slug": "crystal",
+      "title": "Crystal"
+    }
+  ],
+  "slug": "glass",
+  "title": "Glass",
+  "type": "index"
+}

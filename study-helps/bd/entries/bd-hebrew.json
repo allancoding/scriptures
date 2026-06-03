@@ -1,0 +1,50 @@
+{
+  "_id": "bd-hebrew",
+  "content": [
+    {
+      "text": "The name is first found in Gen. 14:13, where it may mean “one who had come from beyond (the Euphrates),” from ʼeber, “to cross”; or it may be derived from the Eber mentioned in Gen. 10:25. The Hebrew language is one of a family called the Semitic languages (spoken by the descendants of Shem, the son of Noah). It was probably learned by Abraham after his settlement in Canaan and adopted by him in place of the Aramaic of his earlier years. It was spoken by all Israelites until after the return from captivity. About the 4th century B.C., it began to be replaced by what is called Western Aramaic. Hebrew remained the language of the learned, of the law, and of religious literature; but in the time of our Lord, Aramaic was the language of ordinary intercourse.",
+      "references": [
+        {
+          "text": "Gen. 14:13",
+          "start": 27,
+          "end": 37,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 14,
+            "chapterId": "genesis14",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 10:25",
+          "start": 177,
+          "end": 187,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 10,
+            "chapterId": "genesis10",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "hebrew",
+  "title": "Hebrew",
+  "type": "bd"
+}

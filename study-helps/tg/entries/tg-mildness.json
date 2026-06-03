@@ -1,0 +1,55 @@
+{
+  "_id": "tg-mildness",
+  "content": [
+    {
+      "text": "it was a still voice of perfect mildness, Hel. 5:30.",
+      "references": [
+        {
+          "text": "Hel. 5:30",
+          "start": 42,
+          "end": 51,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 5,
+            "chapterId": "helaman5",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "let your preaching be the warning voice … in mildness, D&C 38:41.",
+      "references": [
+        {
+          "text": "D&C 38:41",
+          "start": 55,
+          "end": 64,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 38,
+            "chapterId": "doctrineandcovenants38",
+            "verses": [
+              {
+                "start": 41,
+                "end": 41
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "mildness",
+  "title": "Mildness",
+  "type": "tg"
+}

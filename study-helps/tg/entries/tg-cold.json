@@ -1,0 +1,127 @@
+{
+  "_id": "tg-cold",
+  "content": [
+    {
+      "text": "sluggard will not plow by reason of the cold, Prov. 20:4. As cold waters to a thirsty soul, Prov. 25:25.",
+      "references": [
+        {
+          "text": "Prov. 20:4",
+          "start": 46,
+          "end": 56,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 20,
+            "chapterId": "proverbs20",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 25:25",
+          "start": 92,
+          "end": 103,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 25,
+            "chapterId": "proverbs25",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "love of many shall wax cold, Matt. 24:12 (JS—M 1:30). neither cold nor hot: I would thou wert cold, Rev. 3:15 (3:16).",
+      "references": [
+        {
+          "text": "Matt. 24:12",
+          "start": 29,
+          "end": 40,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 24,
+            "chapterId": "matthew24",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "JS—M 1:30",
+          "start": 42,
+          "end": 51,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-m",
+            "book": "josephsmithmatthew",
+            "chapter": 1,
+            "chapterId": "josephsmithmatthew1",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 3:15",
+          "start": 100,
+          "end": 109,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 3,
+            "chapterId": "revelation3",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "3:16",
+          "start": 111,
+          "end": 115,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 3,
+            "chapterId": "revelation3",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "cold",
+  "title": "Cold",
+  "type": "tg"
+}

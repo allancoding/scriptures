@@ -1,0 +1,50 @@
+{
+  "_id": "tg-eyewitness",
+  "content": [
+    {
+      "text": "from the beginning were eyewitnesses, Luke 1:2. were eyewitnesses of his majesty, 2 Pet. 1:16.",
+      "references": [
+        {
+          "text": "Luke 1:2",
+          "start": 38,
+          "end": 46,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 1,
+            "chapterId": "luke1",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Pet. 1:16",
+          "start": 82,
+          "end": 93,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-pet",
+            "book": "2peter",
+            "chapter": 1,
+            "chapterId": "2peter1",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "eyewitness",
+  "title": "Eyewitness",
+  "type": "tg"
+}

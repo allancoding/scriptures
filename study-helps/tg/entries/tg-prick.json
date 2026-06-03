@@ -1,0 +1,127 @@
+{
+  "_id": "tg-prick",
+  "content": [
+    {
+      "text": "I was pricked in my reins, Ps. 73:21.",
+      "references": [
+        {
+          "text": "Ps. 73:21",
+          "start": 27,
+          "end": 36,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 73,
+            "chapterId": "psalms73",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "they were pricked in their heart, Acts 2:37 (Jarom 1:12). hard for thee to kick against the pricks, Acts 9:5 (26:14; D&C 121:38).",
+      "references": [
+        {
+          "text": "Acts 2:37",
+          "start": 34,
+          "end": 43,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 2,
+            "chapterId": "acts2",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jarom 1:12",
+          "start": 45,
+          "end": 55,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jarom",
+            "book": "jarom",
+            "chapter": 1,
+            "chapterId": "jarom1",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 9:5",
+          "start": 100,
+          "end": 108,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 9,
+            "chapterId": "acts9",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "26:14",
+          "start": 110,
+          "end": 115,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 26,
+            "chapterId": "acts26",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 121:38",
+          "start": 117,
+          "end": 127,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 38,
+                "end": 38
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "prick",
+  "title": "Prick",
+  "type": "tg"
+}

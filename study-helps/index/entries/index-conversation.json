@@ -1,0 +1,84 @@
+{
+  "_id": "index-conversation",
+  "content": [
+    {
+      "text": "members manifest by godly walk and conversation that they are worthy of sacrament, D&C 20:69. strengthen brethren in all your conversation, D&C 108:7.",
+      "references": [
+        {
+          "text": "D&C 20:69",
+          "start": 83,
+          "end": 92,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 20,
+            "chapterId": "doctrineandcovenants20",
+            "verses": [
+              {
+                "start": 69,
+                "end": 69
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 108:7",
+          "start": 140,
+          "end": 149,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 108,
+            "chapterId": "doctrineandcovenants108",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "God conversed with Adam, Moses 6:22.",
+      "references": [
+        {
+          "text": "Moses 6:22",
+          "start": 25,
+          "end": 35,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 6,
+            "chapterId": "moses6",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-communication",
+      "slug": "communication",
+      "title": "Communication"
+    },
+    {
+      "entryId": "index-word",
+      "slug": "word",
+      "title": "Word"
+    }
+  ],
+  "slug": "conversation",
+  "title": "Conversation, Converse",
+  "type": "index"
+}

@@ -1,0 +1,50 @@
+{
+  "_id": "tg-vigilant",
+  "content": [
+    {
+      "text": "bishop then must be … vigilant, sober, 1 Tim. 3:2. Be sober, be vigilant, 1 Pet. 5:8.",
+      "references": [
+        {
+          "text": "1 Tim. 3:2",
+          "start": 39,
+          "end": 49,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 3,
+            "chapterId": "1timothy3",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Pet. 5:8",
+          "start": 74,
+          "end": 84,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-pet",
+            "book": "1peter",
+            "chapter": 5,
+            "chapterId": "1peter5",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "vigilant",
+  "title": "Vigilant",
+  "type": "tg"
+}

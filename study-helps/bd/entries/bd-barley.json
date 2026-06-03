@@ -1,0 +1,86 @@
+{
+  "_id": "bd-barley",
+  "content": [
+    {
+      "text": "A food grain cultivated from the earliest times; in Palestine it is sown from the beginning of November till the beginning of December; the harvest is about three weeks earlier than wheat harvest. Often it was mixed with other, more palatable grains in making flour. See Ex. 9:31; Deut. 8:8; Ruth 1:22; John 6:9–13.",
+      "references": [
+        {
+          "text": "Ex. 9:31",
+          "start": 271,
+          "end": 279,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 9,
+            "chapterId": "exodus9",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 8:8",
+          "start": 281,
+          "end": 290,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 8,
+            "chapterId": "deuteronomy8",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ruth 1:22",
+          "start": 292,
+          "end": 301,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ruth",
+            "book": "ruth",
+            "chapter": 1,
+            "chapterId": "ruth1",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 6:9–13",
+          "start": 303,
+          "end": 314,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 6,
+            "chapterId": "john6",
+            "verses": [
+              {
+                "start": 9,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "barley",
+  "title": "Barley",
+  "type": "bd"
+}

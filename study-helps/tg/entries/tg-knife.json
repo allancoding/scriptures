@@ -1,0 +1,68 @@
+{
+  "_id": "tg-knife",
+  "content": [
+    {
+      "text": "took the knife to slay his son, Gen. 22:10. Joshua, Make thee sharp knives, and circumcise, Josh. 5:2. put a knife to thy throat, if thou be a man given to appetite, Prov. 23:2.",
+      "references": [
+        {
+          "text": "Gen. 22:10",
+          "start": 32,
+          "end": 42,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 22,
+            "chapterId": "genesis22",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Josh. 5:2",
+          "start": 92,
+          "end": 101,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "josh",
+            "book": "joshua",
+            "chapter": 5,
+            "chapterId": "joshua5",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 23:2",
+          "start": 166,
+          "end": 176,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 23,
+            "chapterId": "proverbs23",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "knife",
+  "title": "Knife, Knives",
+  "type": "tg"
+}

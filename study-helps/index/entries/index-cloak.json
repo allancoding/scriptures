@@ -1,0 +1,50 @@
+{
+  "_id": "index-cloak",
+  "content": [
+    {
+      "text": "if any man will take away thy coat, let him have cloak also, 3 Ne. 12:40 (Matt. 5:40).",
+      "references": [
+        {
+          "text": "3 Ne. 12:40",
+          "start": 61,
+          "end": 72,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 12,
+            "chapterId": "3nephi12",
+            "verses": [
+              {
+                "start": 40,
+                "end": 40
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 5:40",
+          "start": 74,
+          "end": 84,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 5,
+            "chapterId": "matthew5",
+            "verses": [
+              {
+                "start": 40,
+                "end": 40
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "cloak",
+  "title": "Cloak",
+  "type": "index"
+}

@@ -1,0 +1,102 @@
+{
+  "_id": "index-age",
+  "content": [
+    {
+      "text": "men placed in army ranks according to age, Mosiah 10:9.",
+      "references": [
+        {
+          "text": "Mosiah 10:9",
+          "start": 43,
+          "end": 54,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 10,
+            "chapterId": "mosiah10",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "faithful who live when the Lord comes shall die at age of man, D&C 63:50. children have claim upon parents for maintenance until they are of age, D&C 83:4. infant’s life shall be as age of tree, D&C 101:30.",
+      "references": [
+        {
+          "text": "D&C 63:50",
+          "start": 63,
+          "end": 72,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 63,
+            "chapterId": "doctrineandcovenants63",
+            "verses": [
+              {
+                "start": 50,
+                "end": 50
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 83:4",
+          "start": 146,
+          "end": 154,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 83,
+            "chapterId": "doctrineandcovenants83",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 101:30",
+          "start": 195,
+          "end": 205,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 101,
+            "chapterId": "doctrineandcovenants101",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-accountability-age-of",
+      "slug": "accountability-age-of",
+      "title": "Accountability, Age of"
+    },
+    {
+      "entryId": "index-old",
+      "slug": "old",
+      "title": "Old"
+    }
+  ],
+  "slug": "age",
+  "title": "Age",
+  "type": "index"
+}

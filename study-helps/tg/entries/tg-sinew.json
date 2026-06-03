@@ -1,0 +1,91 @@
+{
+  "_id": "tg-sinew",
+  "content": [
+    {
+      "text": "eat not of the sinew which shrank, Gen. 32:32. obstinate, and thy neck is an iron sinew, Isa. 48:4. I will lay sinews upon you, Ezek. 37:6.",
+      "references": [
+        {
+          "text": "Gen. 32:32",
+          "start": 35,
+          "end": 45,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 32,
+            "chapterId": "genesis32",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 48:4",
+          "start": 89,
+          "end": 98,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 48,
+            "chapterId": "isaiah48",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 37:6",
+          "start": 128,
+          "end": 138,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 37,
+            "chapterId": "ezekiel37",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "bone to his bone, and the sinews and the flesh upon them, D&C 138:17.",
+      "references": [
+        {
+          "text": "D&C 138:17",
+          "start": 58,
+          "end": 68,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 138,
+            "chapterId": "doctrineandcovenants138",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "sinew",
+  "title": "Sinew",
+  "type": "tg"
+}

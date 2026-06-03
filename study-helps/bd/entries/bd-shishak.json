@@ -1,0 +1,68 @@
+{
+  "_id": "bd-shishak",
+  "content": [
+    {
+      "text": "King of Egypt, being the first of the 22nd dynasty (1 Kgs. 11:40; 14:25–26; 2 Chr. 12:2–9). A pictorial representation of his victory over Rehoboam has been discovered on the wall of the temple of Karnak.",
+      "references": [
+        {
+          "text": "1 Kgs. 11:40",
+          "start": 52,
+          "end": 64,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 11,
+            "chapterId": "1kings11",
+            "verses": [
+              {
+                "start": 40,
+                "end": 40
+              }
+            ]
+          }
+        },
+        {
+          "text": "14:25–26",
+          "start": 66,
+          "end": 74,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 14,
+            "chapterId": "1kings14",
+            "verses": [
+              {
+                "start": 25,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Chr. 12:2–9",
+          "start": 76,
+          "end": 89,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-chr",
+            "book": "2chronicles",
+            "chapter": 12,
+            "chapterId": "2chronicles12",
+            "verses": [
+              {
+                "start": 2,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "shishak",
+  "title": "Shishak",
+  "type": "bd"
+}

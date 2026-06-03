@@ -1,0 +1,120 @@
+{
+  "_id": "tg-evildoer",
+  "content": [
+    {
+      "text": "Fret not thyself because of evildoers, Ps. 37:1. seed of evildoers shall never be renowned, Isa. 14:20 (2 Ne. 24:20).",
+      "references": [
+        {
+          "text": "Ps. 37:1",
+          "start": 39,
+          "end": 47,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 37,
+            "chapterId": "psalms37",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 14:20",
+          "start": 92,
+          "end": 102,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 14,
+            "chapterId": "isaiah14",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 24:20",
+          "start": 104,
+          "end": 115,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 24,
+            "chapterId": "2nephi24",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "they speak evil of you, as of evildoers, 1 Pet. 3:16. let none of you suffer … as an evildoer, 1 Pet. 4:15.",
+      "references": [
+        {
+          "text": "1 Pet. 3:16",
+          "start": 41,
+          "end": 52,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-pet",
+            "book": "1peter",
+            "chapter": 3,
+            "chapterId": "1peter3",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Pet. 4:15",
+          "start": 95,
+          "end": 106,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-pet",
+            "book": "1peter",
+            "chapter": 4,
+            "chapterId": "1peter4",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-sinner",
+      "slug": "sinner",
+      "title": "Sinner"
+    },
+    {
+      "entryId": "tg-transgressor",
+      "slug": "transgressor",
+      "title": "Transgressor"
+    }
+  ],
+  "slug": "evildoer",
+  "title": "Evildoer",
+  "type": "tg"
+}

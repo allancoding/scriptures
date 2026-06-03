@@ -1,0 +1,110 @@
+{
+  "_id": "tg-talebearer",
+  "content": [
+    {
+      "text": "Thou shalt not go up and down as a talebearer, Lev. 19:16. talebearer revealeth secrets, Prov. 11:13 (20:19). words of a talebearer are as wounds, Prov. 18:8. where there is no talebearer, the strife ceaseth, Prov. 26:20.",
+      "references": [
+        {
+          "text": "Lev. 19:16",
+          "start": 47,
+          "end": 57,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 19,
+            "chapterId": "leviticus19",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 11:13",
+          "start": 89,
+          "end": 100,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 11,
+            "chapterId": "proverbs11",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "20:19",
+          "start": 102,
+          "end": 107,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 20,
+            "chapterId": "proverbs20",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 18:8",
+          "start": 147,
+          "end": 157,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 18,
+            "chapterId": "proverbs18",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 26:20",
+          "start": 209,
+          "end": 220,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 26,
+            "chapterId": "proverbs26",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-gossip",
+      "slug": "gossip",
+      "title": "Gossip"
+    }
+  ],
+  "slug": "talebearer",
+  "title": "Talebearer",
+  "type": "tg"
+}

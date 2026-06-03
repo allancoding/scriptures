@@ -1,0 +1,92 @@
+{
+  "_id": "index-archangel",
+  "content": [
+    {
+      "text": "Michael, the archangel, D&C 29:26 (88:112; 107:54; 128:21).",
+      "references": [
+        {
+          "text": "D&C 29:26",
+          "start": 24,
+          "end": 33,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 29,
+            "chapterId": "doctrineandcovenants29",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "88:112",
+          "start": 35,
+          "end": 41,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 112,
+                "end": 112
+              }
+            ]
+          }
+        },
+        {
+          "text": "107:54",
+          "start": 43,
+          "end": 49,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 107,
+            "chapterId": "doctrineandcovenants107",
+            "verses": [
+              {
+                "start": 54,
+                "end": 54
+              }
+            ]
+          }
+        },
+        {
+          "text": "128:21",
+          "start": 51,
+          "end": 57,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 128,
+            "chapterId": "doctrineandcovenants128",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-angel",
+      "slug": "angel",
+      "title": "Angel"
+    }
+  ],
+  "slug": "archangel",
+  "title": "Archangel",
+  "type": "index"
+}

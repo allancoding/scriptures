@@ -1,0 +1,61 @@
+{
+  "_id": "tg-kinsfolk",
+  "content": [
+    {
+      "text": "sought him among their kinsfolk and acquaintance, Luke 2:44. betrayed both by parents, and brethren, and kinsfolks, Luke 21:16.",
+      "references": [
+        {
+          "text": "Luke 2:44",
+          "start": 50,
+          "end": 59,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 2,
+            "chapterId": "luke2",
+            "verses": [
+              {
+                "start": 44,
+                "end": 44
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 21:16",
+          "start": 116,
+          "end": 126,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 21,
+            "chapterId": "luke21",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-kin",
+      "slug": "kin",
+      "title": "Kin"
+    },
+    {
+      "entryId": "tg-kindred",
+      "slug": "kindred",
+      "title": "Kindred"
+    }
+  ],
+  "slug": "kinsfolk",
+  "title": "Kinsfolk",
+  "type": "tg"
+}

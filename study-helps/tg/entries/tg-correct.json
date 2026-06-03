@@ -1,0 +1,156 @@
+{
+  "_id": "tg-correct",
+  "content": [
+    {
+      "text": "happy is the man whom God correcteth, Job 5:17. thou with rebukes dost correct man for iniquity, Ps. 39:11. whom the Lord loveth he correcteth, Prov. 3:12. Correct thy son, and he shall give thee rest, Prov. 29:17. Thine own wickedness shall correct thee, Jer. 2:19. correct me, but with judgment, Jer. 10:24.",
+      "references": [
+        {
+          "text": "Job 5:17",
+          "start": 38,
+          "end": 46,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "job",
+            "book": "job",
+            "chapter": 5,
+            "chapterId": "job5",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 39:11",
+          "start": 97,
+          "end": 106,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 39,
+            "chapterId": "psalms39",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 3:12",
+          "start": 144,
+          "end": 154,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 3,
+            "chapterId": "proverbs3",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 29:17",
+          "start": 202,
+          "end": 213,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 29,
+            "chapterId": "proverbs29",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 2:19",
+          "start": 256,
+          "end": 265,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 2,
+            "chapterId": "jeremiah2",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 10:24",
+          "start": 298,
+          "end": 308,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 10,
+            "chapterId": "jeremiah10",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "fathers of our flesh which corrected us, Heb. 12:9.",
+      "references": [
+        {
+          "text": "Heb. 12:9",
+          "start": 41,
+          "end": 50,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 12,
+            "chapterId": "hebrews12",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-chastening",
+      "slug": "chastening",
+      "title": "Chastening"
+    },
+    {
+      "entryId": "tg-correction",
+      "slug": "correction",
+      "title": "Correction"
+    }
+  ],
+  "slug": "correct",
+  "title": "Correct",
+  "type": "tg"
+}

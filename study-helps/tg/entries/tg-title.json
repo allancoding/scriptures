@@ -1,0 +1,95 @@
+{
+  "_id": "tg-title",
+  "content": [
+    {
+      "text": "Pilate wrote a title, and put it on the cross, John 19:19.",
+      "references": [
+        {
+          "text": "John 19:19",
+          "start": 47,
+          "end": 57,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 19,
+            "chapterId": "john19",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "the title of liberty, Alma 46:13 (46:20, 36; 51:20).",
+      "references": [
+        {
+          "text": "Alma 46:13",
+          "start": 22,
+          "end": 32,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 46,
+            "chapterId": "alma46",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "46:20, 36",
+          "start": 34,
+          "end": 43,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 46,
+            "chapterId": "alma46",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              },
+              {
+                "start": 36,
+                "end": 36
+              }
+            ]
+          }
+        },
+        {
+          "text": "51:20",
+          "start": 45,
+          "end": 50,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 51,
+            "chapterId": "alma51",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "title",
+  "title": "Title",
+  "type": "tg"
+}

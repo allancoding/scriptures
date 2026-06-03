@@ -1,0 +1,86 @@
+{
+  "_id": "tg-wax-noun",
+  "content": [
+    {
+      "text": "my heart is like wax, Ps. 22:14. as wax melteth before the fire, so let the wicked perish, Ps. 68:2. hills melted like wax at the presence of the Lord, Ps. 97:5. valleys shall be cleft, as wax before the fire, Micah 1:4.",
+      "references": [
+        {
+          "text": "Ps. 22:14",
+          "start": 22,
+          "end": 31,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 22,
+            "chapterId": "psalms22",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 68:2",
+          "start": 91,
+          "end": 99,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 68,
+            "chapterId": "psalms68",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 97:5",
+          "start": 152,
+          "end": 160,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 97,
+            "chapterId": "psalms97",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Micah 1:4",
+          "start": 210,
+          "end": 219,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "micah",
+            "book": "micah",
+            "chapter": 1,
+            "chapterId": "micah1",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "wax-noun",
+  "title": "Wax [noun]",
+  "type": "tg"
+}

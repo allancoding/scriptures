@@ -1,0 +1,73 @@
+{
+  "_id": "index-dig",
+  "content": [
+    {
+      "text": "master digged about trees in vineyard, Jacob 5:5, 11, 27, 63–64.",
+      "references": [
+        {
+          "text": "Jacob 5:5, 11, 27, 63–64",
+          "start": 39,
+          "end": 63,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 5,
+            "chapterId": "jacob5",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              },
+              {
+                "start": 11,
+                "end": 11
+              },
+              {
+                "start": 27,
+                "end": 27
+              },
+              {
+                "start": 63,
+                "end": 64
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "kingdom likened to man who sent servants to dig in field, D&C 88:51.",
+      "references": [
+        {
+          "text": "D&C 88:51",
+          "start": 58,
+          "end": 67,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 51,
+                "end": 51
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-pit",
+      "slug": "pit",
+      "title": "Pit"
+    }
+  ],
+  "slug": "dig",
+  "title": "Dig",
+  "type": "index"
+}

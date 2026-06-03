@@ -1,0 +1,74 @@
+{
+  "_id": "tg-predestinate",
+  "content": [
+    {
+      "text": "whom he did foreknow, he also did predestinate, Rom. 8:29. predestinated us unto the adoption of children, Eph. 1:5. predestinated according to the purpose of him who worketh all things, Eph. 1:11.",
+      "references": [
+        {
+          "text": "Rom. 8:29",
+          "start": 48,
+          "end": 57,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 8,
+            "chapterId": "romans8",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eph. 1:5",
+          "start": 107,
+          "end": 115,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "eph",
+            "book": "ephesians",
+            "chapter": 1,
+            "chapterId": "ephesians1",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eph. 1:11",
+          "start": 187,
+          "end": 196,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "eph",
+            "book": "ephesians",
+            "chapter": 1,
+            "chapterId": "ephesians1",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-foreordination",
+      "slug": "foreordination",
+      "title": "Foreordination"
+    }
+  ],
+  "slug": "predestinate",
+  "title": "Predestinate",
+  "type": "tg"
+}

@@ -1,0 +1,115 @@
+{
+  "_id": "index-swine",
+  "content": [
+    {
+      "text": "do not cast your pearls before swine, 3 Ne. 14:6 (Matt. 7:6). Jaredites have swine, Ether 9:18.",
+      "references": [
+        {
+          "text": "3 Ne. 14:6",
+          "start": 38,
+          "end": 48,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 14,
+            "chapterId": "3nephi14",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 7:6",
+          "start": 50,
+          "end": 59,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 7,
+            "chapterId": "matthew7",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 9:18",
+          "start": 84,
+          "end": 94,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 9,
+            "chapterId": "ether9",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "pearls should not be cast before swine, D&C 41:6. rye for fowls and for swine, D&C 89:17.",
+      "references": [
+        {
+          "text": "D&C 41:6",
+          "start": 40,
+          "end": 48,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 41,
+            "chapterId": "doctrineandcovenants41",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 89:17",
+          "start": 79,
+          "end": 88,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 89,
+            "chapterId": "doctrineandcovenants89",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-sow-noun",
+      "slug": "sow-noun",
+      "title": "Sow [noun]"
+    }
+  ],
+  "slug": "swine",
+  "title": "Swine",
+  "type": "index"
+}

@@ -1,0 +1,66 @@
+{
+  "_id": "index-unanimous",
+  "content": [
+    {
+      "text": "standing council for Church chosen by unanimous voice, D&C 102:3. every decision made by Twelve or Seventy must be by unanimous voice, D&C 107:27.",
+      "references": [
+        {
+          "text": "D&C 102:3",
+          "start": 55,
+          "end": 64,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 102,
+            "chapterId": "doctrineandcovenants102",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 107:27",
+          "start": 135,
+          "end": 145,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 107,
+            "chapterId": "doctrineandcovenants107",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-common-consent",
+      "slug": "common-consent",
+      "title": "Common Consent"
+    },
+    {
+      "entryId": "index-one",
+      "slug": "one",
+      "title": "One"
+    },
+    {
+      "entryId": "index-unite",
+      "slug": "unite",
+      "title": "Unite"
+    }
+  ],
+  "slug": "unanimous",
+  "title": "Unanimous",
+  "type": "index"
+}

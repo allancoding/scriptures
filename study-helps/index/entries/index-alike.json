@@ -1,0 +1,84 @@
+{
+  "_id": "index-alike",
+  "content": [
+    {
+      "text": "all are alike unto God, 2 Ne. 26:33. every man may enjoy his rights and privileges alike, Mosiah 29:32. all children are alike unto me, Moro. 8:17.",
+      "references": [
+        {
+          "text": "2 Ne. 26:33",
+          "start": 24,
+          "end": 35,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 26,
+            "chapterId": "2nephi26",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 29:32",
+          "start": 90,
+          "end": 102,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 29,
+            "chapterId": "mosiah29",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moro. 8:17",
+          "start": 136,
+          "end": 146,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "moro",
+            "book": "moroni",
+            "chapter": 8,
+            "chapterId": "moroni8",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-equal",
+      "slug": "equal",
+      "title": "Equal"
+    },
+    {
+      "entryId": "index-respect",
+      "slug": "respect",
+      "title": "Respect"
+    },
+    {
+      "entryId": "index-same",
+      "slug": "same",
+      "title": "Same"
+    }
+  ],
+  "slug": "alike",
+  "title": "Alike",
+  "type": "index"
+}

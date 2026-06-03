@@ -1,0 +1,125 @@
+{
+  "_id": "index-private",
+  "content": [
+    {
+      "text": "Alma1 teaches Abinadi’s words privately, Mosiah 18:1.",
+      "references": [
+        {
+          "text": "Mosiah 18:1",
+          "start": 41,
+          "end": 52,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 18,
+            "chapterId": "mosiah18",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "pray in public as well as in private, D&C 19:28 (71:7; 81:3). human law does not have right to dictate forms for public or private devotion, D&C 134:4.",
+      "references": [
+        {
+          "text": "D&C 19:28",
+          "start": 38,
+          "end": 47,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 19,
+            "chapterId": "doctrineandcovenants19",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "71:7",
+          "start": 49,
+          "end": 53,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 71,
+            "chapterId": "doctrineandcovenants71",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "81:3",
+          "start": 55,
+          "end": 59,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 81,
+            "chapterId": "doctrineandcovenants81",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 134:4",
+          "start": 141,
+          "end": 150,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 134,
+            "chapterId": "doctrineandcovenants134",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-closet",
+      "slug": "closet",
+      "title": "Closet"
+    },
+    {
+      "entryId": "index-privily",
+      "slug": "privily",
+      "title": "Privily"
+    },
+    {
+      "entryId": "index-secret",
+      "slug": "secret",
+      "title": "Secret"
+    }
+  ],
+  "slug": "private",
+  "title": "Private, Privately",
+  "type": "index"
+}

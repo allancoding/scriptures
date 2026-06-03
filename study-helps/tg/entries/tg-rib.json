@@ -1,0 +1,86 @@
+{
+  "_id": "tg-rib",
+  "content": [
+    {
+      "text": "he took one of his ribs, Gen. 2:21 (Moses 3:21; Abr. 5:15). bear … had three ribs in the mouth, Dan. 7:5.",
+      "references": [
+        {
+          "text": "Gen. 2:21",
+          "start": 25,
+          "end": 34,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 2,
+            "chapterId": "genesis2",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 3:21",
+          "start": 36,
+          "end": 46,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 3,
+            "chapterId": "moses3",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Abr. 5:15",
+          "start": 48,
+          "end": 57,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 5,
+            "chapterId": "abraham5",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 7:5",
+          "start": 96,
+          "end": 104,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 7,
+            "chapterId": "daniel7",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "rib",
+  "title": "Rib",
+  "type": "tg"
+}

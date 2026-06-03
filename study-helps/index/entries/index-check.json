@@ -1,0 +1,38 @@
+{
+  "_id": "index-check",
+  "content": [
+    {
+      "text": "people are checked as to pride, Alma 15:17.",
+      "references": [
+        {
+          "text": "Alma 15:17",
+          "start": 32,
+          "end": 42,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 15,
+            "chapterId": "alma15",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-restrain",
+      "slug": "restrain",
+      "title": "Restrain"
+    }
+  ],
+  "slug": "check",
+  "title": "Check",
+  "type": "index"
+}

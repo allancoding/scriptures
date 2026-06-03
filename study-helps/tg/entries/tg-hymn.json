@@ -1,0 +1,120 @@
+{
+  "_id": "tg-hymn",
+  "content": [
+    {
+      "text": "had sung an hymn, they went out, Matt. 26:30 (Mark 14:26). Speaking to yourselves in psalms and hymns, Eph. 5:19. admonishing one another in psalms and hymns, Col. 3:16.",
+      "references": [
+        {
+          "text": "Matt. 26:30",
+          "start": 33,
+          "end": 44,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 26,
+            "chapterId": "matthew26",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 14:26",
+          "start": 46,
+          "end": 56,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 14,
+            "chapterId": "mark14",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eph. 5:19",
+          "start": 103,
+          "end": 112,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "eph",
+            "book": "ephesians",
+            "chapter": 5,
+            "chapterId": "ephesians5",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Col. 3:16",
+          "start": 159,
+          "end": 168,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "col",
+            "book": "colossians",
+            "chapter": 3,
+            "chapterId": "colossians3",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "make a selection of sacred hymns, D&C 25:11.",
+      "references": [
+        {
+          "text": "D&C 25:11",
+          "start": 34,
+          "end": 43,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 25,
+            "chapterId": "doctrineandcovenants25",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-music",
+      "slug": "music",
+      "title": "Music"
+    },
+    {
+      "entryId": "tg-singing",
+      "slug": "singing",
+      "title": "Singing"
+    }
+  ],
+  "slug": "hymn",
+  "title": "Hymn",
+  "type": "tg"
+}

@@ -1,0 +1,61 @@
+{
+  "_id": "index-well-noun",
+  "content": [
+    {
+      "text": "draw water out of the well of salvation, 2 Ne. 22:3.",
+      "references": [
+        {
+          "text": "2 Ne. 22:3",
+          "start": 41,
+          "end": 51,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 22,
+            "chapterId": "2nephi22",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "mysteries of kingdom shall be well of living water, D&C 63:23.",
+      "references": [
+        {
+          "text": "D&C 63:23",
+          "start": 52,
+          "end": 61,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 63,
+            "chapterId": "doctrineandcovenants63",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-fountain",
+      "slug": "fountain",
+      "title": "Fountain"
+    }
+  ],
+  "slug": "well-noun",
+  "title": "Well [noun]",
+  "type": "index"
+}

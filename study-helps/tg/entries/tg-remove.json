@@ -1,0 +1,538 @@
+{
+  "_id": "tg-remove",
+  "content": [
+    {
+      "text": "shalt not remove thy neighbour’s landmark, Deut. 19:14. Which removeth the mountains, Job 9:5. righteous shall never be removed, Prov. 10:30. Remove not the ancient landmark, Prov. 22:28. Whoso removeth stones shall be hurt therewith, Eccl. 10:9. I will shake the heavens, and the earth shall remove, Isa. 13:13 (2 Ne. 23:13). lips do honour me, but have removed their heart far from me, Isa. 29:13 (2 Ne. 27:25). hills be removed … the covenant of my peace be removed, Isa. 54:10 (3 Ne. 22:10). to be removed to all the kingdoms of the earth, Jer. 29:18. Remove out of the midst of Babylon, Jer. 50:8. he removeth kings, Dan. 2:21.",
+      "references": [
+        {
+          "text": "Deut. 19:14",
+          "start": 43,
+          "end": 54,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 19,
+            "chapterId": "deuteronomy19",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Job 9:5",
+          "start": 86,
+          "end": 93,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "job",
+            "book": "job",
+            "chapter": 9,
+            "chapterId": "job9",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 10:30",
+          "start": 129,
+          "end": 140,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 10,
+            "chapterId": "proverbs10",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 22:28",
+          "start": 175,
+          "end": 186,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 22,
+            "chapterId": "proverbs22",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eccl. 10:9",
+          "start": 235,
+          "end": 245,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "eccl",
+            "book": "ecclesiastes",
+            "chapter": 10,
+            "chapterId": "ecclesiastes10",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 13:13",
+          "start": 301,
+          "end": 311,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 13,
+            "chapterId": "isaiah13",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 23:13",
+          "start": 313,
+          "end": 324,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 23,
+            "chapterId": "2nephi23",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 29:13",
+          "start": 388,
+          "end": 398,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 29,
+            "chapterId": "isaiah29",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 27:25",
+          "start": 400,
+          "end": 411,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 27,
+            "chapterId": "2nephi27",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 54:10",
+          "start": 470,
+          "end": 480,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 54,
+            "chapterId": "isaiah54",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 22:10",
+          "start": 482,
+          "end": 493,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 22,
+            "chapterId": "3nephi22",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 29:18",
+          "start": 544,
+          "end": 554,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 29,
+            "chapterId": "jeremiah29",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 50:8",
+          "start": 592,
+          "end": 601,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 50,
+            "chapterId": "jeremiah50",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 2:21",
+          "start": 622,
+          "end": 631,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 2,
+            "chapterId": "daniel2",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Remove hence to yonder place; and it shall remove, Matt. 17:20. Be thou removed, and … cast into the sea, Matt. 21:21 (Mark 11:23). if thou be willing, remove this cup from me, Luke 22:42. faith, so that I could remove mountains, 1 Cor. 13:2. I marvel that ye are so soon removed from him, Gal. 1:6. this word … signifieth the removing of those things, Heb. 12:27. I … will remove thy candlestick out of his place, Rev. 2:5.",
+      "references": [
+        {
+          "text": "Matt. 17:20",
+          "start": 51,
+          "end": 62,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 17,
+            "chapterId": "matthew17",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 21:21",
+          "start": 106,
+          "end": 117,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 21,
+            "chapterId": "matthew21",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 11:23",
+          "start": 119,
+          "end": 129,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 11,
+            "chapterId": "mark11",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 22:42",
+          "start": 177,
+          "end": 187,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 22,
+            "chapterId": "luke22",
+            "verses": [
+              {
+                "start": 42,
+                "end": 42
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 13:2",
+          "start": 230,
+          "end": 241,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 13,
+            "chapterId": "1corinthians13",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gal. 1:6",
+          "start": 290,
+          "end": 298,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "gal",
+            "book": "galatians",
+            "chapter": 1,
+            "chapterId": "galatians1",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 12:27",
+          "start": 353,
+          "end": 363,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 12,
+            "chapterId": "hebrews12",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 2:5",
+          "start": 415,
+          "end": 423,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 2,
+            "chapterId": "revelation2",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Lord have removed men far away, 2 Ne. 16:12. that this cloud of darkness may be removed, Hel. 5:40. in his name could they remove mountains, Morm. 8:24. brother of Jared said unto the mountain Zerin, Remove, Ether 12:30.",
+      "references": [
+        {
+          "text": "2 Ne. 16:12",
+          "start": 32,
+          "end": 43,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 16,
+            "chapterId": "2nephi16",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 5:40",
+          "start": 89,
+          "end": 98,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 5,
+            "chapterId": "helaman5",
+            "verses": [
+              {
+                "start": 40,
+                "end": 40
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 8:24",
+          "start": 141,
+          "end": 151,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 8,
+            "chapterId": "mormon8",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 12:30",
+          "start": 208,
+          "end": 219,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 12,
+            "chapterId": "ether12",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "pray always lest that wicked one have power … and remove you out of your place, D&C 93:49.",
+      "references": [
+        {
+          "text": "D&C 93:49",
+          "start": 80,
+          "end": 89,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 93,
+            "chapterId": "doctrineandcovenants93",
+            "verses": [
+              {
+                "start": 49,
+                "end": 49
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Abraham … removed from thence unto a mountain, Abr. 2:20.",
+      "references": [
+        {
+          "text": "Abr. 2:20",
+          "start": 47,
+          "end": 56,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 2,
+            "chapterId": "abraham2",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "remove",
+  "title": "Remove",
+  "type": "tg"
+}

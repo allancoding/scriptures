@@ -1,0 +1,50 @@
+{
+  "_id": "index-aiath",
+  "content": [
+    {
+      "text": "Assyrians have come to Aiath, 2 Ne. 20:28 (Isa. 10:28).",
+      "references": [
+        {
+          "text": "2 Ne. 20:28",
+          "start": 30,
+          "end": 41,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 20,
+            "chapterId": "2nephi20",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 10:28",
+          "start": 43,
+          "end": 53,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 10,
+            "chapterId": "isaiah10",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "aiath",
+  "title": "Aiath [possibly Ai]",
+  "type": "index"
+}

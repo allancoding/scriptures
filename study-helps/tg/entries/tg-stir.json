@@ -1,0 +1,688 @@
+{
+  "_id": "tg-stir",
+  "content": [
+    {
+      "text": "every one whose heart stirred him up, Ex. 35:21. As an eagle stirreth up her nest, Deut. 32:11. hath stirred up my servant against me, 1 Sam. 22:8. If the Lord have stirred thee up, 1 Sam. 26:19. Lord stirred up an adversary, 1 Kgs. 11:14. Lord stirred up the spirit of Cyrus, 2 Chr. 36:22 (Ezra 1:1). stir up himself against the hypocrite, Job 17:8. Stir up thyself, Ps. 35:23. stir up thy strength, Ps. 80:2. Hatred stirreth up strifes, Prov. 10:12. grievous words stir up anger, Prov. 15:1. proud heart stirreth up strife, Prov. 28:25. Lord of hosts shall stir up a scourge, Isa. 10:26 (2 Ne. 20:26).",
+      "references": [
+        {
+          "text": "Ex. 35:21",
+          "start": 38,
+          "end": 47,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 35,
+            "chapterId": "exodus35",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 32:11",
+          "start": 83,
+          "end": 94,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 32,
+            "chapterId": "deuteronomy32",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Sam. 22:8",
+          "start": 135,
+          "end": 146,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 22,
+            "chapterId": "1samuel22",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Sam. 26:19",
+          "start": 182,
+          "end": 194,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 26,
+            "chapterId": "1samuel26",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Kgs. 11:14",
+          "start": 226,
+          "end": 238,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 11,
+            "chapterId": "1kings11",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Chr. 36:22",
+          "start": 277,
+          "end": 289,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-chr",
+            "book": "2chronicles",
+            "chapter": 36,
+            "chapterId": "2chronicles36",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezra 1:1",
+          "start": 291,
+          "end": 299,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezra",
+            "book": "ezra",
+            "chapter": 1,
+            "chapterId": "ezra1",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Job 17:8",
+          "start": 341,
+          "end": 349,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "job",
+            "book": "job",
+            "chapter": 17,
+            "chapterId": "job17",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 35:23",
+          "start": 368,
+          "end": 377,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 35,
+            "chapterId": "psalms35",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 80:2",
+          "start": 401,
+          "end": 409,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 80,
+            "chapterId": "psalms80",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 10:12",
+          "start": 439,
+          "end": 450,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 10,
+            "chapterId": "proverbs10",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 15:1",
+          "start": 482,
+          "end": 492,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 15,
+            "chapterId": "proverbs15",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 28:25",
+          "start": 526,
+          "end": 537,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 28,
+            "chapterId": "proverbs28",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 10:26",
+          "start": 578,
+          "end": 588,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 10,
+            "chapterId": "isaiah10",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 20:26",
+          "start": 590,
+          "end": 601,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 20,
+            "chapterId": "2nephi20",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "stirreth up the people, Luke 23:5 (Acts 6:12). Jews stirred up the devout, Acts 13:50. unbelieving Jews stirred up the Gentiles, Acts 14:2. his spirit was stirred in him, Acts 17:16. stir up the gift of God, which is in thee, 2 Tim. 1:6. stir you up … in remembrance, 2 Pet. 1:13.",
+      "references": [
+        {
+          "text": "Luke 23:5",
+          "start": 24,
+          "end": 33,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 23,
+            "chapterId": "luke23",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 6:12",
+          "start": 35,
+          "end": 44,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 6,
+            "chapterId": "acts6",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 13:50",
+          "start": 75,
+          "end": 85,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 13,
+            "chapterId": "acts13",
+            "verses": [
+              {
+                "start": 50,
+                "end": 50
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 14:2",
+          "start": 129,
+          "end": 138,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 14,
+            "chapterId": "acts14",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 17:16",
+          "start": 171,
+          "end": 181,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 17,
+            "chapterId": "acts17",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Tim. 1:6",
+          "start": 226,
+          "end": 236,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-tim",
+            "book": "2timothy",
+            "chapter": 1,
+            "chapterId": "2timothy1",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Pet. 1:13",
+          "start": 268,
+          "end": 279,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-pet",
+            "book": "2peter",
+            "chapter": 1,
+            "chapterId": "2peter1",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Laman stir up their hearts to anger, 1 Ne. 16:38. Abinadi … said these things that he might stir up my people, Mosiah 11:28. they did stir up the people to riotings, Alma 11:20. stirred up by the Amalekites, Alma 24:1. many of their brethren should be stirred up, Alma 25:8. who do stir up the Lamanites, Alma 27:12 (47:1). did stir up the Zoramites to anger, Alma 35:10. stir up the people to anger against Nephi, Hel. 8:7. Satan did stir them up to do iniquity, Hel. 16:22. he stirreth up the hearts of men, 3 Ne. 11:29 (D&C 10:63). people of Coriantumr were stirred up to anger, Ether 15:6.",
+      "references": [
+        {
+          "text": "1 Ne. 16:38",
+          "start": 37,
+          "end": 48,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 16,
+            "chapterId": "1nephi16",
+            "verses": [
+              {
+                "start": 38,
+                "end": 38
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 11:28",
+          "start": 111,
+          "end": 123,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 11,
+            "chapterId": "mosiah11",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 11:20",
+          "start": 166,
+          "end": 176,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 11,
+            "chapterId": "alma11",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 24:1",
+          "start": 208,
+          "end": 217,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 24,
+            "chapterId": "alma24",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 25:8",
+          "start": 264,
+          "end": 273,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 25,
+            "chapterId": "alma25",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 27:12",
+          "start": 305,
+          "end": 315,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 27,
+            "chapterId": "alma27",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "47:1",
+          "start": 317,
+          "end": 321,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 47,
+            "chapterId": "alma47",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 35:10",
+          "start": 360,
+          "end": 370,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 35,
+            "chapterId": "alma35",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 8:7",
+          "start": 415,
+          "end": 423,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 8,
+            "chapterId": "helaman8",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 16:22",
+          "start": 464,
+          "end": 474,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 16,
+            "chapterId": "helaman16",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 11:29",
+          "start": 510,
+          "end": 521,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 11,
+            "chapterId": "3nephi11",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 10:63",
+          "start": 523,
+          "end": 532,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 10,
+            "chapterId": "doctrineandcovenants10",
+            "verses": [
+              {
+                "start": 63,
+                "end": 63
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 15:6",
+          "start": 582,
+          "end": 592,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 15,
+            "chapterId": "ether15",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "that they may not be stirred up unto anger, D&C 63:27.",
+      "references": [
+        {
+          "text": "D&C 63:27",
+          "start": 44,
+          "end": 53,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 63,
+            "chapterId": "doctrineandcovenants63",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-kindle",
+      "slug": "kindle",
+      "title": "Kindle"
+    },
+    {
+      "entryId": "tg-provoking",
+      "slug": "provoking",
+      "title": "Provoking"
+    }
+  ],
+  "slug": "stir",
+  "title": "Stir",
+  "type": "tg"
+}

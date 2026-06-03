@@ -1,0 +1,79 @@
+{
+  "_id": "index-wrest",
+  "content": [
+    {
+      "text": "if ye wrest scriptures, it will be to your destruction, Alma 13:20. some have wrested scriptures and have gone far astray, Alma 41:1.",
+      "references": [
+        {
+          "text": "Alma 13:20",
+          "start": 56,
+          "end": 66,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 13,
+            "chapterId": "alma13",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 41:1",
+          "start": 123,
+          "end": 132,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 41,
+            "chapterId": "alma41",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "people wrest scriptures and do not understand them, D&C 10:63.",
+      "references": [
+        {
+          "text": "D&C 10:63",
+          "start": 52,
+          "end": 61,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 10,
+            "chapterId": "doctrineandcovenants10",
+            "verses": [
+              {
+                "start": 63,
+                "end": 63
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-pervert",
+      "slug": "pervert",
+      "title": "Pervert"
+    }
+  ],
+  "slug": "wrest",
+  "title": "Wrest",
+  "type": "index"
+}

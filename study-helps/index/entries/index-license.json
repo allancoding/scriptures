@@ -1,0 +1,74 @@
+{
+  "_id": "index-license",
+  "content": [
+    {
+      "text": "elders to receive their licenses, D&C 20:63. who is entitled to license, D&C 20:64. let Sidney Gilbert obtain license, D&C 57:9.",
+      "references": [
+        {
+          "text": "D&C 20:63",
+          "start": 34,
+          "end": 43,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 20,
+            "chapterId": "doctrineandcovenants20",
+            "verses": [
+              {
+                "start": 63,
+                "end": 63
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 20:64",
+          "start": 73,
+          "end": 82,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 20,
+            "chapterId": "doctrineandcovenants20",
+            "verses": [
+              {
+                "start": 64,
+                "end": 64
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 57:9",
+          "start": 119,
+          "end": 127,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 57,
+            "chapterId": "doctrineandcovenants57",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-certificate",
+      "slug": "certificate",
+      "title": "Certificate"
+    }
+  ],
+  "slug": "license",
+  "title": "License",
+  "type": "index"
+}

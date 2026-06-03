@@ -1,0 +1,107 @@
+{
+  "_id": "index-confidence",
+  "content": [
+    {
+      "text": "Nephites lose confidence of children through bad example, Jacob 2:35.",
+      "references": [
+        {
+          "text": "Jacob 2:35",
+          "start": 58,
+          "end": 68,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 2,
+            "chapterId": "jacob2",
+            "verses": [
+              {
+                "start": 35,
+                "end": 35
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "First Presidency upheld by confidence of Church, D&C 107:22. then shall thy confidence wax strong in presence of God, D&C 121:45.",
+      "references": [
+        {
+          "text": "D&C 107:22",
+          "start": 49,
+          "end": 59,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 107,
+            "chapterId": "doctrineandcovenants107",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 121:45",
+          "start": 118,
+          "end": 128,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 45,
+                "end": 45
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Joseph Smith prays with full confidence he will obtain divine manifestation, JS—H 1:29.",
+      "references": [
+        {
+          "text": "JS—H 1:29",
+          "start": 77,
+          "end": 86,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-faith",
+      "slug": "faith",
+      "title": "Faith"
+    },
+    {
+      "entryId": "index-trust",
+      "slug": "trust",
+      "title": "Trust"
+    }
+  ],
+  "slug": "confidence",
+  "title": "Confidence",
+  "type": "index"
+}

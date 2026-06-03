@@ -1,0 +1,998 @@
+{
+  "_id": "tg-sorrow",
+  "content": [
+    {
+      "text": "I will greatly multiply thy sorrow and thy conception, Gen. 3:16 (Moses 4:22). cause sorrow of heart, Lev. 26:16. Lord shall give thee … sorrow of mind, Deut. 28:65. Many sorrows shall be to the wicked, Ps. 32:10. brought low through oppression, affliction, and sorrow, Ps. 107:39. Even in laughter the heart is sorrowful, Prov. 14:13. by sorrow of the heart the spirit is broken, Prov. 15:13. he that increaseth knowledge increaseth sorrow, Eccl. 1:18. remove sorrow from thy heart, Eccl. 11:10. there shall be heaviness and sorrow, Isa. 29:2. sorrow and sighing shall flee away, Isa. 35:10 (51:11). lie down in sorrow, Isa. 50:11 (D&C 133:70). man of sorrows, and acquainted with grief, Isa. 53:3 (Mosiah 14:3). came I forth … to see labour and sorrow, Jer. 20:18. they shall not sorrow any more, Jer. 31:12. anguish and sorrows have taken her, Jer. 49:24. sorrows of a travailing woman, Hosea 13:13. I will gather them that are sorrowful, Zeph. 3:18.",
+      "references": [
+        {
+          "text": "Gen. 3:16",
+          "start": 55,
+          "end": 64,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 3,
+            "chapterId": "genesis3",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 4:22",
+          "start": 66,
+          "end": 76,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 4,
+            "chapterId": "moses4",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Lev. 26:16",
+          "start": 102,
+          "end": 112,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 26,
+            "chapterId": "leviticus26",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 28:65",
+          "start": 153,
+          "end": 164,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 28,
+            "chapterId": "deuteronomy28",
+            "verses": [
+              {
+                "start": 65,
+                "end": 65
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 32:10",
+          "start": 203,
+          "end": 212,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 32,
+            "chapterId": "psalms32",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 107:39",
+          "start": 270,
+          "end": 280,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 107,
+            "chapterId": "psalms107",
+            "verses": [
+              {
+                "start": 39,
+                "end": 39
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 14:13",
+          "start": 323,
+          "end": 334,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 14,
+            "chapterId": "proverbs14",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 15:13",
+          "start": 381,
+          "end": 392,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 15,
+            "chapterId": "proverbs15",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eccl. 1:18",
+          "start": 442,
+          "end": 452,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "eccl",
+            "book": "ecclesiastes",
+            "chapter": 1,
+            "chapterId": "ecclesiastes1",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eccl. 11:10",
+          "start": 484,
+          "end": 495,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "eccl",
+            "book": "ecclesiastes",
+            "chapter": 11,
+            "chapterId": "ecclesiastes11",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 29:2",
+          "start": 534,
+          "end": 543,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 29,
+            "chapterId": "isaiah29",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 35:10",
+          "start": 581,
+          "end": 591,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 35,
+            "chapterId": "isaiah35",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "51:11",
+          "start": 593,
+          "end": 598,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 51,
+            "chapterId": "isaiah51",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 50:11",
+          "start": 621,
+          "end": 631,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 50,
+            "chapterId": "isaiah50",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 133:70",
+          "start": 633,
+          "end": 643,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 133,
+            "chapterId": "doctrineandcovenants133",
+            "verses": [
+              {
+                "start": 70,
+                "end": 70
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 53:3",
+          "start": 689,
+          "end": 698,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 53,
+            "chapterId": "isaiah53",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 14:3",
+          "start": 700,
+          "end": 711,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 14,
+            "chapterId": "mosiah14",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 20:18",
+          "start": 755,
+          "end": 765,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 20,
+            "chapterId": "jeremiah20",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 31:12",
+          "start": 799,
+          "end": 809,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 31,
+            "chapterId": "jeremiah31",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 49:24",
+          "start": 847,
+          "end": 857,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 49,
+            "chapterId": "jeremiah49",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hosea 13:13",
+          "start": 890,
+          "end": 901,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "hosea",
+            "book": "hosea",
+            "chapter": 13,
+            "chapterId": "hosea13",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Zeph. 3:18",
+          "start": 942,
+          "end": 952,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "zeph",
+            "book": "zephaniah",
+            "chapter": 3,
+            "chapterId": "zephaniah3",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Blessed are they that mourn, Matt. 5:4 (3 Ne. 12:4). king was sorry, Matt. 14:9 (Mark 6:26). he went away sorrowful, Matt. 19:22 (Luke 18:23). these are the beginning of sorrows, Matt. 24:8 (Mark 13:8). My soul is exceeding sorrowful, even unto death, Matt. 26:38. ye now therefore have sorrow: but I will see you again, John 16:22 (16:6–22). godly sorrow worketh repentance to salvation, 2 Cor. 7:10. sorrow not, even as others which have no hope, 1 Thes. 4:13. they have erred from the faith, and pierced themselves through with many sorrows, 1 Tim. 6:10. there shall be no more death, neither sorrow, Rev. 21:4 (D&C 101:29).",
+      "references": [
+        {
+          "text": "Matt. 5:4",
+          "start": 29,
+          "end": 38,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 5,
+            "chapterId": "matthew5",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 12:4",
+          "start": 40,
+          "end": 50,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 12,
+            "chapterId": "3nephi12",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 14:9",
+          "start": 69,
+          "end": 79,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 14,
+            "chapterId": "matthew14",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 6:26",
+          "start": 81,
+          "end": 90,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 6,
+            "chapterId": "mark6",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 19:22",
+          "start": 117,
+          "end": 128,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 19,
+            "chapterId": "matthew19",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 18:23",
+          "start": 130,
+          "end": 140,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 18,
+            "chapterId": "luke18",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 24:8",
+          "start": 179,
+          "end": 189,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 24,
+            "chapterId": "matthew24",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 13:8",
+          "start": 191,
+          "end": 200,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 13,
+            "chapterId": "mark13",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 26:38",
+          "start": 252,
+          "end": 263,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 26,
+            "chapterId": "matthew26",
+            "verses": [
+              {
+                "start": 38,
+                "end": 38
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 16:22",
+          "start": 321,
+          "end": 331,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 16,
+            "chapterId": "john16",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "16:6–22",
+          "start": 333,
+          "end": 340,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 16,
+            "chapterId": "john16",
+            "verses": [
+              {
+                "start": 6,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Cor. 7:10",
+          "start": 389,
+          "end": 400,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 7,
+            "chapterId": "2corinthians7",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Thes. 4:13",
+          "start": 449,
+          "end": 461,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-thes",
+            "book": "1thessalonians",
+            "chapter": 4,
+            "chapterId": "1thessalonians4",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Tim. 6:10",
+          "start": 545,
+          "end": 556,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 6,
+            "chapterId": "1timothy6",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 21:4",
+          "start": 604,
+          "end": 613,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 21,
+            "chapterId": "revelation21",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 101:29",
+          "start": 615,
+          "end": 625,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 101,
+            "chapterId": "doctrineandcovenants101",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "my heart sorroweth because of my flesh, 2 Ne. 4:17. being weighed down with sorrow, Alma 8:14. words of Christ … carry us beyond this vale of sorrow, Alma 37:45. where they shall rest from all … sorrow, Alma 40:12. they sorrowed in their hearts, 3 Ne. 28:5. neither sorrow save it be for the sins of the world, 3 Ne. 28:9. the sorrowing of the damned, Morm. 2:13. they will sorrow for the destruction, Morm. 5:11.",
+      "references": [
+        {
+          "text": "2 Ne. 4:17",
+          "start": 40,
+          "end": 50,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 4,
+            "chapterId": "2nephi4",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 8:14",
+          "start": 84,
+          "end": 93,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 8,
+            "chapterId": "alma8",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 37:45",
+          "start": 150,
+          "end": 160,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 37,
+            "chapterId": "alma37",
+            "verses": [
+              {
+                "start": 45,
+                "end": 45
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 40:12",
+          "start": 203,
+          "end": 213,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 40,
+            "chapterId": "alma40",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 28:5",
+          "start": 246,
+          "end": 256,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 28,
+            "chapterId": "3nephi28",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 28:9",
+          "start": 311,
+          "end": 321,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 28,
+            "chapterId": "3nephi28",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 2:13",
+          "start": 352,
+          "end": 362,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 2,
+            "chapterId": "mormon2",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 5:11",
+          "start": 402,
+          "end": 412,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 5,
+            "chapterId": "mormon5",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "rebellious shall be pierced with much sorrow, D&C 1:3. our hearts flow out with sorrow, D&C 109:48. bow down with grief, sorrow, D&C 123:7. If thou art sorrowful, call on the Lord, D&C 136:29. sorrow shall be great unless they speedily repent, D&C 136:35.",
+      "references": [
+        {
+          "text": "D&C 1:3",
+          "start": 46,
+          "end": 53,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 1,
+            "chapterId": "doctrineandcovenants1",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 109:48",
+          "start": 88,
+          "end": 98,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 109,
+            "chapterId": "doctrineandcovenants109",
+            "verses": [
+              {
+                "start": 48,
+                "end": 48
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 123:7",
+          "start": 129,
+          "end": 138,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 123,
+            "chapterId": "doctrineandcovenants123",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 136:29",
+          "start": 181,
+          "end": 191,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 136,
+            "chapterId": "doctrineandcovenants136",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 136:35",
+          "start": 244,
+          "end": 254,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 136,
+            "chapterId": "doctrineandcovenants136",
+            "verses": [
+              {
+                "start": 35,
+                "end": 35
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-adversity",
+      "slug": "adversity",
+      "title": "Adversity"
+    },
+    {
+      "entryId": "tg-anguish",
+      "slug": "anguish",
+      "title": "Anguish"
+    },
+    {
+      "entryId": "tg-despair",
+      "slug": "despair",
+      "title": "Despair"
+    },
+    {
+      "entryId": "tg-grief",
+      "slug": "grief",
+      "title": "Grief"
+    },
+    {
+      "entryId": "tg-misery",
+      "slug": "misery",
+      "title": "Misery"
+    },
+    {
+      "entryId": "tg-mourning",
+      "slug": "mourning",
+      "title": "Mourning"
+    },
+    {
+      "entryId": "tg-pain",
+      "slug": "pain",
+      "title": "Pain"
+    },
+    {
+      "entryId": "tg-suffering",
+      "slug": "suffering",
+      "title": "Suffering"
+    },
+    {
+      "entryId": "tg-tribulation",
+      "slug": "tribulation",
+      "title": "Tribulation"
+    },
+    {
+      "entryId": "tg-trouble",
+      "slug": "trouble",
+      "title": "Trouble"
+    }
+  ],
+  "slug": "sorrow",
+  "title": "Sorrow",
+  "type": "tg"
+}

@@ -1,0 +1,131 @@
+{
+  "_id": "index-manuscript-lost",
+  "content": [
+    {
+      "text": "the Lord chastises Joseph Smith for loss of translation, D&C 3. wicked men have altered words, D&C 10:1–21. devil seeks to destroy work, D&C 10:12–15, 20, 22–27, 29, 32–33. do not translate again, D&C 10:30. account of lost pages is engraved upon other plates, D&C 10:38–42.",
+      "references": [
+        {
+          "text": "D&C 3",
+          "start": 57,
+          "end": 62,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 3,
+            "chapterId": "doctrineandcovenants3",
+            "verses": []
+          }
+        },
+        {
+          "text": "D&C 10:1–21",
+          "start": 95,
+          "end": 106,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 10,
+            "chapterId": "doctrineandcovenants10",
+            "verses": [
+              {
+                "start": 1,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 10:12–15, 20, 22–27, 29, 32–33",
+          "start": 137,
+          "end": 171,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 10,
+            "chapterId": "doctrineandcovenants10",
+            "verses": [
+              {
+                "start": 12,
+                "end": 15
+              },
+              {
+                "start": 20,
+                "end": 20
+              },
+              {
+                "start": 22,
+                "end": 27
+              },
+              {
+                "start": 29,
+                "end": 29
+              },
+              {
+                "start": 32,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 10:30",
+          "start": 197,
+          "end": 206,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 10,
+            "chapterId": "doctrineandcovenants10",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 10:38–42",
+          "start": 261,
+          "end": 273,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 10,
+            "chapterId": "doctrineandcovenants10",
+            "verses": [
+              {
+                "start": 38,
+                "end": 42
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-book-of-mormon",
+      "slug": "book-of-mormon",
+      "title": "Book of Mormon"
+    },
+    {
+      "entryId": "index-harris-martin",
+      "slug": "harris-martin",
+      "title": "Harris, Martin"
+    },
+    {
+      "entryId": "index-lehi-book-of",
+      "slug": "lehi-book-of",
+      "title": "Lehi, Book of"
+    }
+  ],
+  "slug": "manuscript-lost",
+  "title": "Manuscript, Lost",
+  "type": "index"
+}

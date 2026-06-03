@@ -1,0 +1,102 @@
+{
+  "_id": "index-skill",
+  "content": [
+    {
+      "text": "Lamanites’ skill was in bow, Enos 1:20. lawyers are learned in cunning, that they might be skilful in profession, Alma 10:15. every man of Teancum exceeds Lamanites in skill of war, Alma 51:31.",
+      "references": [
+        {
+          "text": "Enos 1:20",
+          "start": 29,
+          "end": 38,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "enos",
+            "book": "enos",
+            "chapter": 1,
+            "chapterId": "enos1",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 10:15",
+          "start": 114,
+          "end": 124,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 10,
+            "chapterId": "alma10",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 51:31",
+          "start": 182,
+          "end": 192,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 51,
+            "chapterId": "alma51",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "tobacco to be used with judgment and skill, D&C 89:8.",
+      "references": [
+        {
+          "text": "D&C 89:8",
+          "start": 44,
+          "end": 52,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 89,
+            "chapterId": "doctrineandcovenants89",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-art",
+      "slug": "art",
+      "title": "Art"
+    },
+    {
+      "entryId": "index-expert",
+      "slug": "expert",
+      "title": "Expert"
+    }
+  ],
+  "slug": "skill",
+  "title": "Skill, Skillful",
+  "type": "index"
+}

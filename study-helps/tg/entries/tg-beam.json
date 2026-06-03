@@ -1,0 +1,109 @@
+{
+  "_id": "tg-beam",
+  "content": [
+    {
+      "text": "went away with the pin of the beam, Judg. 16:14. staff of his spear was like a weaver’s beam, 1 Sam. 17:7.",
+      "references": [
+        {
+          "text": "Judg. 16:14",
+          "start": 36,
+          "end": 47,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "judg",
+            "book": "judges",
+            "chapter": 16,
+            "chapterId": "judges16",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Sam. 17:7",
+          "start": 94,
+          "end": 105,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 17,
+            "chapterId": "1samuel17",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "beam that is in thine own eye, Matt. 7:3 (Luke 6:41; 3 Ne. 14:3).",
+      "references": [
+        {
+          "text": "Matt. 7:3",
+          "start": 31,
+          "end": 40,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 7,
+            "chapterId": "matthew7",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 6:41",
+          "start": 42,
+          "end": 51,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 6,
+            "chapterId": "luke6",
+            "verses": [
+              {
+                "start": 41,
+                "end": 41
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 14:3",
+          "start": 53,
+          "end": 63,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 14,
+            "chapterId": "3nephi14",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "beam",
+  "title": "Beam",
+  "type": "tg"
+}

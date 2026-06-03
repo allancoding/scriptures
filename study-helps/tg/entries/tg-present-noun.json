@@ -1,0 +1,110 @@
+{
+  "_id": "tg-present-noun",
+  "content": [
+    {
+      "text": "took … a present for Esau his brother, Gen. 32:13. shall kings bring presents unto thee, Ps. 68:29. kings of Tarshish … shall bring presents, Ps. 72:10. bring presents unto him that ought to be feared, Ps. 76:11. shall the present be brought unto the Lord, Isa. 18:7.",
+      "references": [
+        {
+          "text": "Gen. 32:13",
+          "start": 39,
+          "end": 49,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 32,
+            "chapterId": "genesis32",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 68:29",
+          "start": 89,
+          "end": 98,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 68,
+            "chapterId": "psalms68",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 72:10",
+          "start": 142,
+          "end": 151,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 72,
+            "chapterId": "psalms72",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 76:11",
+          "start": 202,
+          "end": 211,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 76,
+            "chapterId": "psalms76",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 18:7",
+          "start": 257,
+          "end": 266,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 18,
+            "chapterId": "isaiah18",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-gift",
+      "slug": "gift",
+      "title": "Gift"
+    }
+  ],
+  "slug": "present-noun",
+  "title": "Present [noun]",
+  "type": "tg"
+}

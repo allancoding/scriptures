@@ -1,0 +1,50 @@
+{
+  "_id": "bd-merodach-baladan",
+  "content": [
+    {
+      "text": "King of Babylon in the days of Hezekiah (Isa. 39:1; see also 2 Kgs. 20:12, where he is called Berodach-baladan). He made an alliance with Hezekiah against Sargon, king of Assyria, who, after reducing Judah, Edom, and Moab to submission, deposed Merodach-baladan.",
+      "references": [
+        {
+          "text": "Isa. 39:1",
+          "start": 41,
+          "end": 50,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 39,
+            "chapterId": "isaiah39",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Kgs. 20:12",
+          "start": 61,
+          "end": 73,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 20,
+            "chapterId": "2kings20",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "merodach-baladan",
+  "title": "Merodach-baladan",
+  "type": "bd"
+}

@@ -1,0 +1,56 @@
+{
+  "_id": "index-helam-city-of",
+  "content": [
+    {
+      "text": "built by people of Alma1 in land of Helam, Mosiah 23:20. people flee to Helam when Lamanites come, Mosiah 23:25–26.",
+      "references": [
+        {
+          "text": "Mosiah 23:20",
+          "start": 43,
+          "end": 55,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 23,
+            "chapterId": "mosiah23",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 23:25–26",
+          "start": 99,
+          "end": 114,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 23,
+            "chapterId": "mosiah23",
+            "verses": [
+              {
+                "start": 25,
+                "end": 26
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-helam-land-of",
+      "slug": "helam-land-of",
+      "title": "Helam, Land of"
+    }
+  ],
+  "slug": "helam-city-of",
+  "title": "Helam, City of",
+  "type": "index"
+}

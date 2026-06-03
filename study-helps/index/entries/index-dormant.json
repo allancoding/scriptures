@@ -1,0 +1,38 @@
+{
+  "_id": "index-dormant",
+  "content": [
+    {
+      "text": "your faith is dormant, Alma 32:34.",
+      "references": [
+        {
+          "text": "Alma 32:34",
+          "start": 23,
+          "end": 33,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 32,
+            "chapterId": "alma32",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-sleep",
+      "slug": "sleep",
+      "title": "Sleep"
+    }
+  ],
+  "slug": "dormant",
+  "title": "Dormant",
+  "type": "index"
+}

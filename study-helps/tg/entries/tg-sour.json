@@ -1,0 +1,50 @@
+{
+  "_id": "tg-sour",
+  "content": [
+    {
+      "text": "fathers have eaten a sour grape, Jer. 31:29 (Ezek. 18:2).",
+      "references": [
+        {
+          "text": "Jer. 31:29",
+          "start": 33,
+          "end": 43,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 31,
+            "chapterId": "jeremiah31",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 18:2",
+          "start": 45,
+          "end": 55,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 18,
+            "chapterId": "ezekiel18",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "sour",
+  "title": "Sour",
+  "type": "tg"
+}

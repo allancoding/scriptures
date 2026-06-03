@@ -1,0 +1,56 @@
+{
+  "_id": "index-vultures",
+  "content": [
+    {
+      "text": "vultures shall devour flesh of this generation because of iniquity, Mosiah 12:2. many soldiers die in wilderness and are devoured by vultures, Alma 2:38.",
+      "references": [
+        {
+          "text": "Mosiah 12:2",
+          "start": 68,
+          "end": 79,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 12,
+            "chapterId": "mosiah12",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 2:38",
+          "start": 143,
+          "end": 152,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 2,
+            "chapterId": "alma2",
+            "verses": [
+              {
+                "start": 38,
+                "end": 38
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-animal",
+      "slug": "animal",
+      "title": "Animal"
+    }
+  ],
+  "slug": "vultures",
+  "title": "Vultures",
+  "type": "index"
+}

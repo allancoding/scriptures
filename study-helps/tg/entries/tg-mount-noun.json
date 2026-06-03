@@ -1,0 +1,765 @@
+{
+  "_id": "tg-mount-noun",
+  "content": [
+    {
+      "text": "In the mount of the Lord it shall be seen, Gen. 22:14. met him in the mount of God, Ex. 4:27. unto Moses … encamped at the mount of God, Ex. 18:5. Sinai … there Israel camped before the mount, Ex. 19:2. Come up to me into the mount … I will give thee tables of stone, Ex. 24:12. Moses turned, and went down from the mount, Ex. 32:15. Ye have dwelt long enough in this mount, Deut. 1:6. given him in mount Ephraim, Josh. 24:33. stand upon the mount before the Lord, 1 Kgs. 19:11. Lord will create upon every dwelling place of mount Zion, Isa. 4:5 (2 Ne. 14:5). Lord of hosts, which dwelleth in mount Zion, Isa. 8:18 (2 Ne. 18:18). place of the name of the Lord of hosts, the mount Zion, Isa. 18:7. worship … in the holy mount at Jerusalem, Isa. 27:13. Lord shall rise up as in mount Perazim, Isa. 28:21. in mount Zion and in Jerusalem shall be deliverance, Joel 2:32. saviours shall come up on mount Zion, Obad. 1:21. his feet shall stand … upon the mount of Olives, Zech. 14:4.",
+      "references": [
+        {
+          "text": "Gen. 22:14",
+          "start": 43,
+          "end": 53,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 22,
+            "chapterId": "genesis22",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 4:27",
+          "start": 84,
+          "end": 92,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 4,
+            "chapterId": "exodus4",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 18:5",
+          "start": 137,
+          "end": 145,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 18,
+            "chapterId": "exodus18",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 19:2",
+          "start": 193,
+          "end": 201,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 19,
+            "chapterId": "exodus19",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 24:12",
+          "start": 268,
+          "end": 277,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 24,
+            "chapterId": "exodus24",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 32:15",
+          "start": 323,
+          "end": 332,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 32,
+            "chapterId": "exodus32",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 1:6",
+          "start": 375,
+          "end": 384,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 1,
+            "chapterId": "deuteronomy1",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Josh. 24:33",
+          "start": 414,
+          "end": 425,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "josh",
+            "book": "joshua",
+            "chapter": 24,
+            "chapterId": "joshua24",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Kgs. 19:11",
+          "start": 465,
+          "end": 477,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 19,
+            "chapterId": "1kings19",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 4:5",
+          "start": 537,
+          "end": 545,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 4,
+            "chapterId": "isaiah4",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 14:5",
+          "start": 547,
+          "end": 557,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 14,
+            "chapterId": "2nephi14",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 8:18",
+          "start": 605,
+          "end": 614,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 8,
+            "chapterId": "isaiah8",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 18:18",
+          "start": 616,
+          "end": 627,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 18,
+            "chapterId": "2nephi18",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 18:7",
+          "start": 686,
+          "end": 695,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 18,
+            "chapterId": "isaiah18",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 27:13",
+          "start": 739,
+          "end": 749,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 27,
+            "chapterId": "isaiah27",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 28:21",
+          "start": 791,
+          "end": 801,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 28,
+            "chapterId": "isaiah28",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Joel 2:32",
+          "start": 856,
+          "end": 865,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "joel",
+            "book": "joel",
+            "chapter": 2,
+            "chapterId": "joel2",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "Obad. 1:21",
+          "start": 905,
+          "end": 915,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "obad",
+            "book": "obadiah",
+            "chapter": 1,
+            "chapterId": "obadiah1",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Zech. 14:4",
+          "start": 966,
+          "end": 976,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "zech",
+            "book": "zechariah",
+            "chapter": 14,
+            "chapterId": "zechariah14",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "he sat upon the mount of Olives, Matt. 24:3 (JS—M 1:4). returned … from the mount called Olivet, Acts 1:12. appeared to him in the wilderness of mount Sina an angel, Acts 7:30. ye are not come unto the mount that might be touched, Heb. 12:18. when we were with him in the holy mount, 2 Pet. 1:18.",
+      "references": [
+        {
+          "text": "Matt. 24:3",
+          "start": 33,
+          "end": 43,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 24,
+            "chapterId": "matthew24",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "JS—M 1:4",
+          "start": 45,
+          "end": 53,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-m",
+            "book": "josephsmithmatthew",
+            "chapter": 1,
+            "chapterId": "josephsmithmatthew1",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 1:12",
+          "start": 97,
+          "end": 106,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 1,
+            "chapterId": "acts1",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 7:30",
+          "start": 166,
+          "end": 175,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 7,
+            "chapterId": "acts7",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 12:18",
+          "start": 231,
+          "end": 241,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 12,
+            "chapterId": "hebrews12",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Pet. 1:18",
+          "start": 284,
+          "end": 295,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-pet",
+            "book": "2peter",
+            "chapter": 1,
+            "chapterId": "2peter1",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Nephi, did go into the mount oft, 1 Ne. 18:3. even so shall the multitude of all the nations be that fight against Mount Zion, 2 Ne. 27:3. commandments which the Lord delivered unto Moses in the mount, Mosiah 12:33. face shone … as Moses’ did while in the mount of Sinai, Mosiah 13:5. gathered themselves together upon the top of the mount, Alma 47:7. brother of Jared … went forth unto the mount, Ether 3:1.",
+      "references": [
+        {
+          "text": "1 Ne. 18:3",
+          "start": 34,
+          "end": 44,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 18,
+            "chapterId": "1nephi18",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 27:3",
+          "start": 127,
+          "end": 137,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 27,
+            "chapterId": "2nephi27",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 12:33",
+          "start": 202,
+          "end": 214,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 12,
+            "chapterId": "mosiah12",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 13:5",
+          "start": 272,
+          "end": 283,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 13,
+            "chapterId": "mosiah13",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 47:7",
+          "start": 341,
+          "end": 350,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 47,
+            "chapterId": "alma47",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 3:1",
+          "start": 398,
+          "end": 407,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 3,
+            "chapterId": "ether3",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "a trump shall sound … as upon Mount Sinai, D&C 29:13. then shall the Lord set his foot upon this mount, D&C 45:48. pattern … shown unto mine apostles upon the mount, D&C 63:21. These are they who are come unto Mount Zion, D&C 76:66. gathering of his saints to stand upon Mount Zion, D&C 84:2. sons of Moses and of Aaron shall be filled with the glory of the Lord, upon Mount Zion, D&C 84:32. the Lamb shall stand upon Mount Zion, D&C 133:18. he shall stand upon the mount of Olivet, D&C 133:20.",
+      "references": [
+        {
+          "text": "D&C 29:13",
+          "start": 43,
+          "end": 52,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 29,
+            "chapterId": "doctrineandcovenants29",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 45:48",
+          "start": 104,
+          "end": 113,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 45,
+            "chapterId": "doctrineandcovenants45",
+            "verses": [
+              {
+                "start": 48,
+                "end": 48
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 63:21",
+          "start": 166,
+          "end": 175,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 63,
+            "chapterId": "doctrineandcovenants63",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 76:66",
+          "start": 222,
+          "end": 231,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 76,
+            "chapterId": "doctrineandcovenants76",
+            "verses": [
+              {
+                "start": 66,
+                "end": 66
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 84:2",
+          "start": 283,
+          "end": 291,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 84,
+            "chapterId": "doctrineandcovenants84",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 84:32",
+          "start": 381,
+          "end": 390,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 84,
+            "chapterId": "doctrineandcovenants84",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 133:18",
+          "start": 430,
+          "end": 440,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 133,
+            "chapterId": "doctrineandcovenants133",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 133:20",
+          "start": 483,
+          "end": 493,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 133,
+            "chapterId": "doctrineandcovenants133",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "words were spoken unto Moses in the mount, Moses 1:42.",
+      "references": [
+        {
+          "text": "Moses 1:42",
+          "start": 43,
+          "end": 53,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 1,
+            "chapterId": "moses1",
+            "verses": [
+              {
+                "start": 42,
+                "end": 42
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-hill",
+      "slug": "hill",
+      "title": "Hill"
+    },
+    {
+      "entryId": "tg-mountain",
+      "slug": "mountain",
+      "title": "Mountain"
+    }
+  ],
+  "slug": "mount-noun",
+  "title": "Mount [noun]",
+  "type": "tg"
+}

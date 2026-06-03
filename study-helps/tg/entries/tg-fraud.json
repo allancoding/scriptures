@@ -1,0 +1,225 @@
+{
+  "_id": "tg-fraud",
+  "content": [
+    {
+      "text": "Thou shalt not defraud thy neighbour, Lev. 19:13. whom have I defrauded, 1 Sam. 12:3. His mouth is full of cursing … and fraud, Ps. 10:7.",
+      "references": [
+        {
+          "text": "Lev. 19:13",
+          "start": 38,
+          "end": 48,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 19,
+            "chapterId": "leviticus19",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Sam. 12:3",
+          "start": 73,
+          "end": 84,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 12,
+            "chapterId": "1samuel12",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 10:7",
+          "start": 128,
+          "end": 136,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 10,
+            "chapterId": "psalms10",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Defraud not, Mark 10:19. ye do wrong, and defraud, 1 Cor. 6:8. Defraud ye not one the other, 1 Cor. 7:5. we have defrauded no man, 2 Cor. 7:2. you kept back by fraud, James 5:4.",
+      "references": [
+        {
+          "text": "Mark 10:19",
+          "start": 13,
+          "end": 23,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 10,
+            "chapterId": "mark10",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 6:8",
+          "start": 51,
+          "end": 61,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 6,
+            "chapterId": "1corinthians6",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 7:5",
+          "start": 93,
+          "end": 103,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 7,
+            "chapterId": "1corinthians7",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Cor. 7:2",
+          "start": 131,
+          "end": 141,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 7,
+            "chapterId": "2corinthians7",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "James 5:4",
+          "start": 167,
+          "end": 176,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "james",
+            "book": "james",
+            "chapter": 5,
+            "chapterId": "james5",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "by his fraud, gained the hearts, Alma 47:30.",
+      "references": [
+        {
+          "text": "Alma 47:30",
+          "start": 33,
+          "end": 43,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 47,
+            "chapterId": "alma47",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "he may sell goods without fraud, D&C 57:8.",
+      "references": [
+        {
+          "text": "D&C 57:8",
+          "start": 33,
+          "end": 41,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 57,
+            "chapterId": "doctrineandcovenants57",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-deceit",
+      "slug": "deceit",
+      "title": "Deceit"
+    },
+    {
+      "entryId": "tg-guile",
+      "slug": "guile",
+      "title": "Guile"
+    },
+    {
+      "entryId": "tg-stealing",
+      "slug": "stealing",
+      "title": "Stealing"
+    }
+  ],
+  "slug": "fraud",
+  "title": "Fraud",
+  "type": "tg"
+}

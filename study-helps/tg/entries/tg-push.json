@@ -1,0 +1,91 @@
+{
+  "_id": "tg-push",
+  "content": [
+    {
+      "text": "if the ox were wont to push with his horn, Ex. 21:29. he shall push the people together, Deut. 33:17 (D&C 58:45).",
+      "references": [
+        {
+          "text": "Ex. 21:29",
+          "start": 43,
+          "end": 52,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 21,
+            "chapterId": "exodus21",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 33:17",
+          "start": 89,
+          "end": 100,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 33,
+            "chapterId": "deuteronomy33",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 58:45",
+          "start": 102,
+          "end": 111,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 58,
+            "chapterId": "doctrineandcovenants58",
+            "verses": [
+              {
+                "start": 45,
+                "end": 45
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "push many people to Zion with songs, D&C 66:11.",
+      "references": [
+        {
+          "text": "D&C 66:11",
+          "start": 37,
+          "end": 46,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 66,
+            "chapterId": "doctrineandcovenants66",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "push",
+  "title": "Push",
+  "type": "tg"
+}

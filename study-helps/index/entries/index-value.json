@@ -1,0 +1,76 @@
+{
+  "_id": "index-value",
+  "content": [
+    {
+      "text": "value of Nephite money, Alma 11:4–19. greater is value of endless happiness than misery, Morm. 8:38.",
+      "references": [
+        {
+          "text": "Alma 11:4–19",
+          "start": 24,
+          "end": 36,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 11,
+            "chapterId": "alma11",
+            "verses": [
+              {
+                "start": 4,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 8:38",
+          "start": 89,
+          "end": 99,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 8,
+            "chapterId": "mormon8",
+            "verses": [
+              {
+                "start": 38,
+                "end": 38
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-esteem",
+      "slug": "esteem",
+      "title": "Esteem"
+    },
+    {
+      "entryId": "index-money-nephite",
+      "slug": "money-nephite",
+      "title": "Money, Nephite"
+    },
+    {
+      "entryId": "index-precious",
+      "slug": "precious",
+      "title": "Precious"
+    },
+    {
+      "entryId": "index-treasure",
+      "slug": "treasure",
+      "title": "Treasure"
+    },
+    {
+      "entryId": "index-worth",
+      "slug": "worth",
+      "title": "Worth"
+    }
+  ],
+  "slug": "value",
+  "title": "Value",
+  "type": "index"
+}

@@ -1,0 +1,50 @@
+{
+  "_id": "tg-beard",
+  "content": [
+    {
+      "text": "neither shalt thou mar the corners of thy beard, Lev. 19:27. shaved off the one half of their beards, 2 Sam. 10:4.",
+      "references": [
+        {
+          "text": "Lev. 19:27",
+          "start": 49,
+          "end": 59,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 19,
+            "chapterId": "leviticus19",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Sam. 10:4",
+          "start": 102,
+          "end": 113,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-sam",
+            "book": "2samuel",
+            "chapter": 10,
+            "chapterId": "2samuel10",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "beard",
+  "title": "Beard",
+  "type": "tg"
+}

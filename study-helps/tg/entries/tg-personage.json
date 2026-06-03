@@ -1,0 +1,115 @@
+{
+  "_id": "tg-personage",
+  "content": [
+    {
+      "text": "Angels, who are resurrected personages, D&C 129:1. Holy Ghost … a personage of Spirit, D&C 130:22.",
+      "references": [
+        {
+          "text": "D&C 129:1",
+          "start": 40,
+          "end": 49,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 129,
+            "chapterId": "doctrineandcovenants129",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 130:22",
+          "start": 87,
+          "end": 97,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 130,
+            "chapterId": "doctrineandcovenants130",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "I saw two Personages, JS—H 1:17 (1:25). immediately a personage appeared at my bedside, JS—H 1:30.",
+      "references": [
+        {
+          "text": "JS—H 1:17",
+          "start": 22,
+          "end": 31,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "1:25",
+          "start": 33,
+          "end": 37,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "JS—H 1:30",
+          "start": 88,
+          "end": 97,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-person",
+      "slug": "person",
+      "title": "Person"
+    }
+  ],
+  "slug": "personage",
+  "title": "Personage",
+  "type": "tg"
+}

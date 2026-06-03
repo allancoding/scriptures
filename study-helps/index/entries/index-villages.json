@@ -1,0 +1,97 @@
+{
+  "_id": "index-villages",
+  "content": [
+    {
+      "text": "Nephites build large cities and villages, Mosiah 27:6. villages called after him who first possessed them, Alma 8:7. Nephites flee, taking all inhabitants, both in towns and villages, Morm. 4:22. towns and villages burned by Lamanites, Morm. 5:5.",
+      "references": [
+        {
+          "text": "Mosiah 27:6",
+          "start": 42,
+          "end": 53,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 27,
+            "chapterId": "mosiah27",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 8:7",
+          "start": 107,
+          "end": 115,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 8,
+            "chapterId": "alma8",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 4:22",
+          "start": 184,
+          "end": 194,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 4,
+            "chapterId": "mormon4",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 5:5",
+          "start": 236,
+          "end": 245,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 5,
+            "chapterId": "mormon5",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-city",
+      "slug": "city",
+      "title": "City"
+    },
+    {
+      "entryId": "index-town",
+      "slug": "town",
+      "title": "Town"
+    }
+  ],
+  "slug": "villages",
+  "title": "Villages",
+  "type": "index"
+}

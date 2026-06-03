@@ -1,0 +1,50 @@
+{
+  "_id": "index-bounds",
+  "content": [
+    {
+      "text": "unto every law there are certain bounds, D&C 88:38. bounds of enemies set, D&C 122:9.",
+      "references": [
+        {
+          "text": "D&C 88:38",
+          "start": 41,
+          "end": 50,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 38,
+                "end": 38
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 122:9",
+          "start": 75,
+          "end": 84,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 122,
+            "chapterId": "doctrineandcovenants122",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "bounds",
+  "title": "Bounds",
+  "type": "index"
+}

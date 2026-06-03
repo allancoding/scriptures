@@ -1,0 +1,66 @@
+{
+  "_id": "index-pastor",
+  "content": [
+    {
+      "text": "Israel is broken off because of wickedness of pastors, 1 Ne. 21:1.",
+      "references": [
+        {
+          "text": "1 Ne. 21:1",
+          "start": 55,
+          "end": 65,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 21,
+            "chapterId": "1nephi21",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "organization of Primitive Church included pastors, A of F 1:6.",
+      "references": [
+        {
+          "text": "A of F 1:6",
+          "start": 51,
+          "end": 61,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "a-of-f",
+            "book": "articlesoffaith",
+            "chapter": 1,
+            "chapterId": "articlesoffaith1",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-bishop",
+      "slug": "bishop",
+      "title": "Bishop"
+    },
+    {
+      "entryId": "index-shepherd",
+      "slug": "shepherd",
+      "title": "Shepherd"
+    }
+  ],
+  "slug": "pastor",
+  "title": "Pastor",
+  "type": "index"
+}

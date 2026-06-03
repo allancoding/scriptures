@@ -1,0 +1,71 @@
+{
+  "_id": "index-passion",
+  "content": [
+    {
+      "text": "bridle all your passions, Alma 38:12. Morianton2 man of much passion, Alma 50:30.",
+      "references": [
+        {
+          "text": "Alma 38:12",
+          "start": 26,
+          "end": 36,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 38,
+            "chapterId": "alma38",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 50:30",
+          "start": 70,
+          "end": 80,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 50,
+            "chapterId": "alma50",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-anger",
+      "slug": "anger",
+      "title": "Anger"
+    },
+    {
+      "entryId": "index-feeling",
+      "slug": "feeling",
+      "title": "Feeling"
+    },
+    {
+      "entryId": "index-fury",
+      "slug": "fury",
+      "title": "Fury"
+    },
+    {
+      "entryId": "index-rage",
+      "slug": "rage",
+      "title": "Rage"
+    }
+  ],
+  "slug": "passion",
+  "title": "Passion",
+  "type": "index"
+}

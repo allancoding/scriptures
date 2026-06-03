@@ -1,0 +1,43 @@
+{
+  "_id": "index-remuneration",
+  "content": [
+    {
+      "text": "bishop and counselor to receive just remuneration for services, D&C 42:72–73.",
+      "references": [
+        {
+          "text": "D&C 42:72–73",
+          "start": 64,
+          "end": 76,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 42,
+            "chapterId": "doctrineandcovenants42",
+            "verses": [
+              {
+                "start": 72,
+                "end": 73
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-recompense",
+      "slug": "recompense",
+      "title": "Recompense"
+    },
+    {
+      "entryId": "index-wages",
+      "slug": "wages",
+      "title": "Wages"
+    }
+  ],
+  "slug": "remuneration",
+  "title": "Remuneration",
+  "type": "index"
+}

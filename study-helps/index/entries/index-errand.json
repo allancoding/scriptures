@@ -1,0 +1,89 @@
+{
+  "_id": "index-errand",
+  "content": [
+    {
+      "text": "Jacob2 first obtained his errand from the Lord, Jacob 1:17.",
+      "references": [
+        {
+          "text": "Jacob 1:17",
+          "start": 48,
+          "end": 58,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 1,
+            "chapterId": "jacob1",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "as ye are agents, ye are on the Lord’s errand, D&C 64:29 (133:58).",
+      "references": [
+        {
+          "text": "D&C 64:29",
+          "start": 47,
+          "end": 56,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 64,
+            "chapterId": "doctrineandcovenants64",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "133:58",
+          "start": 58,
+          "end": 64,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 133,
+            "chapterId": "doctrineandcovenants133",
+            "verses": [
+              {
+                "start": 58,
+                "end": 58
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-calling",
+      "slug": "calling",
+      "title": "Calling"
+    },
+    {
+      "entryId": "index-commission",
+      "slug": "commission",
+      "title": "Commission"
+    },
+    {
+      "entryId": "index-mission",
+      "slug": "mission",
+      "title": "Mission"
+    }
+  ],
+  "slug": "errand",
+  "title": "Errand",
+  "type": "index"
+}

@@ -1,0 +1,115 @@
+{
+  "_id": "index-wheat",
+  "content": [
+    {
+      "text": "Nephites till ground with seeds of wheat, Mosiah 9:9. Satan desires to sift you as wheat, 3 Ne. 18:18.",
+      "references": [
+        {
+          "text": "Mosiah 9:9",
+          "start": 42,
+          "end": 52,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 9,
+            "chapterId": "mosiah9",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 18:18",
+          "start": 90,
+          "end": 101,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 18,
+            "chapterId": "3nephi18",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "parable of wheat and tares explained, D&C 86:1. wheat for man, D&C 89:17. the Lord to gather his people according to parable of wheat and tares, D&C 101:65.",
+      "references": [
+        {
+          "text": "D&C 86:1",
+          "start": 38,
+          "end": 46,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 86,
+            "chapterId": "doctrineandcovenants86",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 89:17",
+          "start": 63,
+          "end": 72,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 89,
+            "chapterId": "doctrineandcovenants89",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 101:65",
+          "start": 145,
+          "end": 155,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 101,
+            "chapterId": "doctrineandcovenants101",
+            "verses": [
+              {
+                "start": 65,
+                "end": 65
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-grain",
+      "slug": "grain",
+      "title": "Grain"
+    }
+  ],
+  "slug": "wheat",
+  "title": "Wheat",
+  "type": "index"
+}

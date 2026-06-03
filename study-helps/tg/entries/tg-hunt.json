@@ -1,0 +1,86 @@
+{
+  "_id": "tg-hunt",
+  "content": [
+    {
+      "text": "Esau went to the field to hunt, Gen. 27:5. thou huntest my soul to take it, 1 Sam. 24:11. evil shall hunt the violent man, Ps. 140:11. they hunt every man his brother with a net, Micah 7:2.",
+      "references": [
+        {
+          "text": "Gen. 27:5",
+          "start": 32,
+          "end": 41,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 27,
+            "chapterId": "genesis27",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Sam. 24:11",
+          "start": 76,
+          "end": 88,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 24,
+            "chapterId": "1samuel24",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 140:11",
+          "start": 123,
+          "end": 133,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 140,
+            "chapterId": "psalms140",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Micah 7:2",
+          "start": 179,
+          "end": 188,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "micah",
+            "book": "micah",
+            "chapter": 7,
+            "chapterId": "micah7",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "hunt",
+  "title": "Hunt",
+  "type": "tg"
+}

@@ -1,0 +1,32 @@
+{
+  "_id": "tg-meal",
+  "content": [
+    {
+      "text": "handful of meal in a barrel, 1 Kgs. 17:12.",
+      "references": [
+        {
+          "text": "1 Kgs. 17:12",
+          "start": 29,
+          "end": 41,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 17,
+            "chapterId": "1kings17",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "meal",
+  "title": "Meal",
+  "type": "tg"
+}

@@ -1,0 +1,133 @@
+{
+  "_id": "tg-poverty",
+  "content": [
+    {
+      "text": "Love not sleep, lest thou come to poverty, Prov. 20:13. drunkard and the glutton shall come to poverty, Prov. 23:21. he that followeth after vain persons shall have poverty, Prov. 28:19.",
+      "references": [
+        {
+          "text": "Prov. 20:13",
+          "start": 43,
+          "end": 54,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 20,
+            "chapterId": "proverbs20",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 23:21",
+          "start": 104,
+          "end": 115,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 23,
+            "chapterId": "proverbs23",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 28:19",
+          "start": 174,
+          "end": 185,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 28,
+            "chapterId": "proverbs28",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "their deep poverty abounded unto the riches, 2 Cor. 8:2. ye through his poverty might be rich, 2 Cor. 8:9. I know thy works, and tribulation, and poverty, Rev. 2:9.",
+      "references": [
+        {
+          "text": "2 Cor. 8:2",
+          "start": 45,
+          "end": 55,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 8,
+            "chapterId": "2corinthians8",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Cor. 8:9",
+          "start": 95,
+          "end": 105,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 8,
+            "chapterId": "2corinthians8",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 2:9",
+          "start": 155,
+          "end": 163,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 2,
+            "chapterId": "revelation2",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-poor",
+      "slug": "poor",
+      "title": "Poor"
+    }
+  ],
+  "slug": "poverty",
+  "title": "Poverty",
+  "type": "tg"
+}

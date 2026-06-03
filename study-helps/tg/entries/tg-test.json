@@ -1,0 +1,703 @@
+{
+  "_id": "tg-test",
+  "content": [
+    {
+      "text": "I may prove them, whether they will walk in my law, Ex. 16:4. God is come to prove you, Ex. 20:20. through them I may prove Israel, Judg. 2:22. my God, that thou triest the heart, 1 Chr. 29:17 (Ps. 7:9; Prov. 17:3; Jer. 11:20; 1 Thes. 2:4). when he hath tried me, I shall come forth as gold, Job 23:10. Lord trieth the righteous, Ps. 11:5 (Jer. 20:12). know my heart: try me, Ps. 139:23. try them as gold is tried, Zech. 13:9. Bring ye all the tithes … and prove me, Mal. 3:10.",
+      "references": [
+        {
+          "text": "Ex. 16:4",
+          "start": 52,
+          "end": 60,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 16,
+            "chapterId": "exodus16",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 20:20",
+          "start": 88,
+          "end": 97,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 20,
+            "chapterId": "exodus20",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Judg. 2:22",
+          "start": 132,
+          "end": 142,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "judg",
+            "book": "judges",
+            "chapter": 2,
+            "chapterId": "judges2",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Chr. 29:17",
+          "start": 180,
+          "end": 192,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-chr",
+            "book": "1chronicles",
+            "chapter": 29,
+            "chapterId": "1chronicles29",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 7:9",
+          "start": 194,
+          "end": 201,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 7,
+            "chapterId": "psalms7",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 17:3",
+          "start": 203,
+          "end": 213,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 17,
+            "chapterId": "proverbs17",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 11:20",
+          "start": 215,
+          "end": 225,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 11,
+            "chapterId": "jeremiah11",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Thes. 2:4",
+          "start": 227,
+          "end": 238,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-thes",
+            "book": "1thessalonians",
+            "chapter": 2,
+            "chapterId": "1thessalonians2",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Job 23:10",
+          "start": 292,
+          "end": 301,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "job",
+            "book": "job",
+            "chapter": 23,
+            "chapterId": "job23",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 11:5",
+          "start": 330,
+          "end": 338,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 11,
+            "chapterId": "psalms11",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 20:12",
+          "start": 340,
+          "end": 350,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 20,
+            "chapterId": "jeremiah20",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 139:23",
+          "start": 376,
+          "end": 386,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 139,
+            "chapterId": "psalms139",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Zech. 13:9",
+          "start": 415,
+          "end": 425,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "zech",
+            "book": "zechariah",
+            "chapter": 13,
+            "chapterId": "zechariah13",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mal. 3:10",
+          "start": 467,
+          "end": 476,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "mal",
+            "book": "malachi",
+            "chapter": 3,
+            "chapterId": "malachi3",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Satan hath desired to have you, that he may sift you, Luke 22:31. we must through much tribulation enter into the kingdom, Acts 14:22. fire shall try every man’s work, 1 Cor. 3:13. in a great trial of affliction, 2 Cor. 8:2. Prove all things; hold fast that which is good, 1 Thes. 5:21. in all points tempted like as we are, Heb. 4:15. By faith Abraham, when he was tried, offered up Isaac, Heb. 11:17. trying of your faith worketh patience, James 1:3. when he is tried, he shall receive the crown of life, James 1:12. trial of your faith … be found unto praise, 1 Pet. 1:7. fiery trial which is to try you, 1 Pet. 4:12. that ye may be tried, Rev. 2:10.",
+      "references": [
+        {
+          "text": "Luke 22:31",
+          "start": 54,
+          "end": 64,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 22,
+            "chapterId": "luke22",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 14:22",
+          "start": 123,
+          "end": 133,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 14,
+            "chapterId": "acts14",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 3:13",
+          "start": 168,
+          "end": 179,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 3,
+            "chapterId": "1corinthians3",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Cor. 8:2",
+          "start": 213,
+          "end": 223,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 8,
+            "chapterId": "2corinthians8",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Thes. 5:21",
+          "start": 273,
+          "end": 285,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-thes",
+            "book": "1thessalonians",
+            "chapter": 5,
+            "chapterId": "1thessalonians5",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 4:15",
+          "start": 325,
+          "end": 334,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 4,
+            "chapterId": "hebrews4",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 11:17",
+          "start": 391,
+          "end": 401,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 11,
+            "chapterId": "hebrews11",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "James 1:3",
+          "start": 442,
+          "end": 451,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "james",
+            "book": "james",
+            "chapter": 1,
+            "chapterId": "james1",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "James 1:12",
+          "start": 507,
+          "end": 517,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "james",
+            "book": "james",
+            "chapter": 1,
+            "chapterId": "james1",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Pet. 1:7",
+          "start": 563,
+          "end": 573,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-pet",
+            "book": "1peter",
+            "chapter": 1,
+            "chapterId": "1peter1",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Pet. 4:12",
+          "start": 608,
+          "end": 619,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-pet",
+            "book": "1peter",
+            "chapter": 4,
+            "chapterId": "1peter4",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 2:10",
+          "start": 643,
+          "end": 652,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 2,
+            "chapterId": "revelation2",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "receive no witness until after the trial of your faith, Ether 12:6.",
+      "references": [
+        {
+          "text": "Ether 12:6",
+          "start": 56,
+          "end": 66,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 12,
+            "chapterId": "ether12",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "he that is faithful in tribulation, D&C 58:2. I send you out to prove the world, D&C 84:79. I will prove you in all things, D&C 98:14. they must needs be chastened and tried, D&C 101:4. after much tribulation … cometh the blessing, D&C 103:12. brought thus far for a trial of their faith, D&C 105:19. that you may prove yourselves unto me, D&C 124:55. I did it … to prove you all, as I did Abraham, D&C 132:51.",
+      "references": [
+        {
+          "text": "D&C 58:2",
+          "start": 36,
+          "end": 44,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 58,
+            "chapterId": "doctrineandcovenants58",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 84:79",
+          "start": 81,
+          "end": 90,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 84,
+            "chapterId": "doctrineandcovenants84",
+            "verses": [
+              {
+                "start": 79,
+                "end": 79
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 98:14",
+          "start": 124,
+          "end": 133,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 98,
+            "chapterId": "doctrineandcovenants98",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 101:4",
+          "start": 175,
+          "end": 184,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 101,
+            "chapterId": "doctrineandcovenants101",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 103:12",
+          "start": 232,
+          "end": 242,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 103,
+            "chapterId": "doctrineandcovenants103",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 105:19",
+          "start": 289,
+          "end": 299,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 105,
+            "chapterId": "doctrineandcovenants105",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 124:55",
+          "start": 340,
+          "end": 350,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 124,
+            "chapterId": "doctrineandcovenants124",
+            "verses": [
+              {
+                "start": 55,
+                "end": 55
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 132:51",
+          "start": 399,
+          "end": 409,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 132,
+            "chapterId": "doctrineandcovenants132",
+            "verses": [
+              {
+                "start": 51,
+                "end": 51
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "we will prove them herewith, to see if they will do all things, Abr. 3:25.",
+      "references": [
+        {
+          "text": "Abr. 3:25",
+          "start": 64,
+          "end": 73,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 3,
+            "chapterId": "abraham3",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-prove",
+      "slug": "prove",
+      "title": "Prove"
+    },
+    {
+      "entryId": "tg-temptation",
+      "slug": "temptation",
+      "title": "Temptation"
+    },
+    {
+      "entryId": "tg-trial",
+      "slug": "trial",
+      "title": "Trial"
+    },
+    {
+      "entryId": "tg-try",
+      "slug": "try",
+      "title": "Try"
+    }
+  ],
+  "slug": "test",
+  "title": "Test, Try, Prove",
+  "type": "tg"
+}

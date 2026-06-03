@@ -1,0 +1,71 @@
+{
+  "_id": "tg-illuminate",
+  "content": [
+    {
+      "text": "ye were illuminated, ye endured a great fight, Heb. 10:32.",
+      "references": [
+        {
+          "text": "Heb. 10:32",
+          "start": 47,
+          "end": 57,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 10,
+            "chapterId": "hebrews10",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "souls were illuminated by the light of the everlasting word, Alma 5:7.",
+      "references": [
+        {
+          "text": "Alma 5:7",
+          "start": 61,
+          "end": 69,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 5,
+            "chapterId": "alma5",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-enlighten",
+      "slug": "enlighten",
+      "title": "Enlighten"
+    },
+    {
+      "entryId": "tg-lighten",
+      "slug": "lighten",
+      "title": "Lighten"
+    },
+    {
+      "entryId": "tg-shine",
+      "slug": "shine",
+      "title": "Shine"
+    }
+  ],
+  "slug": "illuminate",
+  "title": "Illuminate",
+  "type": "tg"
+}

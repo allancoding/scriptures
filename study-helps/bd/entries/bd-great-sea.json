@@ -1,0 +1,54 @@
+{
+  "_id": "bd-great-sea",
+  "content": [
+    {
+      "text": "The Mediterranean (Num. 34:6–7; Josh. 15:12, 47).",
+      "references": [
+        {
+          "text": "Num. 34:6–7",
+          "start": 19,
+          "end": 30,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 34,
+            "chapterId": "numbers34",
+            "verses": [
+              {
+                "start": 6,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Josh. 15:12, 47",
+          "start": 32,
+          "end": 47,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "josh",
+            "book": "joshua",
+            "chapter": 15,
+            "chapterId": "joshua15",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              },
+              {
+                "start": 47,
+                "end": 47
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "great-sea",
+  "title": "Great Sea",
+  "type": "bd"
+}

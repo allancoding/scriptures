@@ -1,0 +1,628 @@
+{
+  "_id": "tg-beauty",
+  "content": [
+    {
+      "text": "Rachel was beautiful and well favoured, Gen. 29:17. garments … for glory and for beauty, Ex. 28:2 (28:2–40). ruddy … of a beautiful countenance, 1 Sam. 16:12. worship … in the beauty of holiness, 1 Chr. 16:29 (Ps. 29:2). garnished … with precious stones for beauty, 2 Chr. 3:6. beautify the house of the Lord, Ezra 7:27. Esther … was fair and beautiful, Esth. 2:7. behold the beauty of the Lord, Ps. 27:4. Beautiful for situation … is mount Zion, Ps. 48:2. Out of Zion, the perfection of beauty, Ps. 50:2. beauty of the Lord … be upon us, Ps. 90:17. he will beautify the meek with salvation, Ps. 149:4. beauty of old men is the gray head, Prov. 20:29. beauty is vain, Prov. 31:30. He hath made every thing beautiful, Eccl. 3:11. branch of the Lord be beautiful, Isa. 4:2. eyes shall see the king in his beauty, Isa. 33:17. How beautiful upon the mountains are the feet of him that bringeth good tidings, Isa. 52:7. no beauty that we should desire him, Isa. 53:2 (Mosiah 14:2). to beautify the place of my sanctuary, Isa. 60:13. give unto them beauty for ashes, Isa. 61:3. Our holy and our beautiful house, Isa. 64:11 (64:9–12).",
+      "references": [
+        {
+          "text": "Gen. 29:17",
+          "start": 40,
+          "end": 50,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 29,
+            "chapterId": "genesis29",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 28:2",
+          "start": 89,
+          "end": 97,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 28,
+            "chapterId": "exodus28",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "28:2–40",
+          "start": 99,
+          "end": 106,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 28,
+            "chapterId": "exodus28",
+            "verses": [
+              {
+                "start": 2,
+                "end": 40
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Sam. 16:12",
+          "start": 145,
+          "end": 157,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 16,
+            "chapterId": "1samuel16",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Chr. 16:29",
+          "start": 196,
+          "end": 208,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-chr",
+            "book": "1chronicles",
+            "chapter": 16,
+            "chapterId": "1chronicles16",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 29:2",
+          "start": 210,
+          "end": 218,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 29,
+            "chapterId": "psalms29",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Chr. 3:6",
+          "start": 266,
+          "end": 276,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-chr",
+            "book": "2chronicles",
+            "chapter": 3,
+            "chapterId": "2chronicles3",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezra 7:27",
+          "start": 310,
+          "end": 319,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezra",
+            "book": "ezra",
+            "chapter": 7,
+            "chapterId": "ezra7",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Esth. 2:7",
+          "start": 354,
+          "end": 363,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "esth",
+            "book": "esther",
+            "chapter": 2,
+            "chapterId": "esther2",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 27:4",
+          "start": 396,
+          "end": 404,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 27,
+            "chapterId": "psalms27",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 48:2",
+          "start": 447,
+          "end": 455,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 48,
+            "chapterId": "psalms48",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 50:2",
+          "start": 496,
+          "end": 504,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 50,
+            "chapterId": "psalms50",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 90:17",
+          "start": 539,
+          "end": 548,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 90,
+            "chapterId": "psalms90",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 149:4",
+          "start": 592,
+          "end": 601,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 149,
+            "chapterId": "psalms149",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 20:29",
+          "start": 639,
+          "end": 650,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 20,
+            "chapterId": "proverbs20",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 31:30",
+          "start": 668,
+          "end": 679,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 31,
+            "chapterId": "proverbs31",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eccl. 3:11",
+          "start": 717,
+          "end": 727,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "eccl",
+            "book": "ecclesiastes",
+            "chapter": 3,
+            "chapterId": "ecclesiastes3",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 4:2",
+          "start": 762,
+          "end": 770,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 4,
+            "chapterId": "isaiah4",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 33:17",
+          "start": 811,
+          "end": 821,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 33,
+            "chapterId": "isaiah33",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 52:7",
+          "start": 904,
+          "end": 913,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 52,
+            "chapterId": "isaiah52",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 53:2",
+          "start": 952,
+          "end": 961,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 53,
+            "chapterId": "isaiah53",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 14:2",
+          "start": 963,
+          "end": 974,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 14,
+            "chapterId": "mosiah14",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 60:13",
+          "start": 1016,
+          "end": 1026,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 60,
+            "chapterId": "isaiah60",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 61:3",
+          "start": 1061,
+          "end": 1070,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 61,
+            "chapterId": "isaiah61",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 64:11",
+          "start": 1106,
+          "end": 1116,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 64,
+            "chapterId": "isaiah64",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "64:9–12",
+          "start": 1118,
+          "end": 1125,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 64,
+            "chapterId": "isaiah64",
+            "verses": [
+              {
+                "start": 9,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "whited sepulchres … appear beautiful outward, Matt. 23:27.",
+      "references": [
+        {
+          "text": "Matt. 23:27",
+          "start": 46,
+          "end": 57,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 23,
+            "chapterId": "matthew23",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "beheld a tree … exceeding of all beauty, 1 Ne. 11:8.",
+      "references": [
+        {
+          "text": "1 Ne. 11:8",
+          "start": 41,
+          "end": 51,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 11,
+            "chapterId": "1nephi11",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "garments … their beauty the beauty of the work of thine own hands, D&C 42:40. Zion must increase in beauty, D&C 82:14. transcendent beauty of the gate, D&C 137:2 (137:1–4).",
+      "references": [
+        {
+          "text": "D&C 42:40",
+          "start": 67,
+          "end": 76,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 42,
+            "chapterId": "doctrineandcovenants42",
+            "verses": [
+              {
+                "start": 40,
+                "end": 40
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 82:14",
+          "start": 108,
+          "end": 117,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 82,
+            "chapterId": "doctrineandcovenants82",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 137:2",
+          "start": 152,
+          "end": 161,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 137,
+            "chapterId": "doctrineandcovenants137",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "137:1–4",
+          "start": 163,
+          "end": 170,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 137,
+            "chapterId": "doctrineandcovenants137",
+            "verses": [
+              {
+                "start": 1,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "morning of a beautiful, clear day, JS—H 1:14.",
+      "references": [
+        {
+          "text": "JS—H 1:14",
+          "start": 35,
+          "end": 44,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "beauty",
+  "title": "Beauty",
+  "type": "tg"
+}

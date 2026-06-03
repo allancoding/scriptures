@@ -1,0 +1,54 @@
+{
+  "_id": "bd-tire",
+  "content": [
+    {
+      "text": "A headdress (Isa. 3:18; Ezek. 24:17, 23).",
+      "references": [
+        {
+          "text": "Isa. 3:18",
+          "start": 13,
+          "end": 22,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 3,
+            "chapterId": "isaiah3",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 24:17, 23",
+          "start": 24,
+          "end": 39,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 24,
+            "chapterId": "ezekiel24",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              },
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "tire",
+  "title": "Tire",
+  "type": "bd"
+}

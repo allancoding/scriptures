@@ -1,0 +1,81 @@
+{
+  "_id": "bd-deborah",
+  "content": [
+    {
+      "text": "A bee. (1) Nurse of Rebekah (Gen. 24:59; 35:8).",
+      "references": [
+        {
+          "text": "Gen. 24:59",
+          "start": 29,
+          "end": 39,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 24,
+            "chapterId": "genesis24",
+            "verses": [
+              {
+                "start": 59,
+                "end": 59
+              }
+            ]
+          }
+        },
+        {
+          "text": "35:8",
+          "start": 41,
+          "end": 45,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 35,
+            "chapterId": "genesis35",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "(2) A famous woman who judged Israel and encouraged Barak against Sisera (Judg. 4); the well-known song of Deborah and Barak commemorated the Israelite victory (Judg. 5).",
+      "references": [
+        {
+          "text": "Judg. 4",
+          "start": 74,
+          "end": 81,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "judg",
+            "book": "judges",
+            "chapter": 4,
+            "chapterId": "judges4",
+            "verses": []
+          }
+        },
+        {
+          "text": "Judg. 5",
+          "start": 161,
+          "end": 168,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "judg",
+            "book": "judges",
+            "chapter": 5,
+            "chapterId": "judges5",
+            "verses": []
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "deborah",
+  "title": "Deborah",
+  "type": "bd"
+}

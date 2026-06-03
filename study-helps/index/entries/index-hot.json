@@ -1,0 +1,43 @@
+{
+  "_id": "index-hot",
+  "content": [
+    {
+      "text": "hot drinks are not for body, D&C 89:9.",
+      "references": [
+        {
+          "text": "D&C 89:9",
+          "start": 29,
+          "end": 37,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 89,
+            "chapterId": "doctrineandcovenants89",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-heat",
+      "slug": "heat",
+      "title": "Heat"
+    },
+    {
+      "entryId": "index-word-of-wisdom",
+      "slug": "word-of-wisdom",
+      "title": "Word of Wisdom"
+    }
+  ],
+  "slug": "hot",
+  "title": "Hot",
+  "type": "index"
+}

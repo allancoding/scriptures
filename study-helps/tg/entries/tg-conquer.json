@@ -1,0 +1,84 @@
+{
+  "_id": "tg-conquer",
+  "content": [
+    {
+      "text": "he went forth conquering, Rev. 6:2.",
+      "references": [
+        {
+          "text": "Rev. 6:2",
+          "start": 26,
+          "end": 34,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 6,
+            "chapterId": "revelation6",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "conquer the enemy of all righteousness, Moro. 9:6.",
+      "references": [
+        {
+          "text": "Moro. 9:6",
+          "start": 40,
+          "end": 49,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "moro",
+            "book": "moroni",
+            "chapter": 9,
+            "chapterId": "moroni9",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "that you may conquer Satan, D&C 10:5.",
+      "references": [
+        {
+          "text": "D&C 10:5",
+          "start": 28,
+          "end": 36,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 10,
+            "chapterId": "doctrineandcovenants10",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-subdue",
+      "slug": "subdue",
+      "title": "Subdue"
+    }
+  ],
+  "slug": "conquer",
+  "title": "Conquer",
+  "type": "tg"
+}

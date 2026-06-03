@@ -1,0 +1,68 @@
+{
+  "_id": "tg-quail",
+  "content": [
+    {
+      "text": "quails came up, and covered the camp, Ex. 16:13. a wind from the Lord, and brought quails, Num. 11:31. people asked, and he brought quails, Ps. 105:40.",
+      "references": [
+        {
+          "text": "Ex. 16:13",
+          "start": 38,
+          "end": 47,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 16,
+            "chapterId": "exodus16",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 11:31",
+          "start": 91,
+          "end": 101,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 11,
+            "chapterId": "numbers11",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 105:40",
+          "start": 140,
+          "end": 150,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 105,
+            "chapterId": "psalms105",
+            "verses": [
+              {
+                "start": 40,
+                "end": 40
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "quail",
+  "title": "Quail",
+  "type": "tg"
+}

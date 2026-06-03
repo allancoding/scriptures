@@ -1,0 +1,138 @@
+{
+  "_id": "tg-acknowledge",
+  "content": [
+    {
+      "text": "In all thy ways acknowledge him, Prov. 3:6. with a strange god, whom he shall acknowledge, Dan. 11:39. I will go … till they acknowledge their offence, Hosea 5:15.",
+      "references": [
+        {
+          "text": "Prov. 3:6",
+          "start": 33,
+          "end": 42,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 3,
+            "chapterId": "proverbs3",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 11:39",
+          "start": 91,
+          "end": 101,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 11,
+            "chapterId": "daniel11",
+            "verses": [
+              {
+                "start": 39,
+                "end": 39
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hosea 5:15",
+          "start": 152,
+          "end": 162,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "hosea",
+            "book": "hosea",
+            "chapter": 5,
+            "chapterId": "hosea5",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "let him acknowledge that the things that I write, 1 Cor. 14:37. he that acknowledgeth the Son hath the Father also, 1 Jn. 2:23.",
+      "references": [
+        {
+          "text": "1 Cor. 14:37",
+          "start": 50,
+          "end": 62,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 14,
+            "chapterId": "1corinthians14",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Jn. 2:23",
+          "start": 116,
+          "end": 126,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-jn",
+            "book": "1john",
+            "chapter": 2,
+            "chapterId": "1john2",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "acknowledged … by the voice of the church, D&C 102:9.",
+      "references": [
+        {
+          "text": "D&C 102:9",
+          "start": 43,
+          "end": 52,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 102,
+            "chapterId": "doctrineandcovenants102",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-confession",
+      "slug": "confession",
+      "title": "Confession"
+    }
+  ],
+  "slug": "acknowledge",
+  "title": "Acknowledge",
+  "type": "tg"
+}

@@ -1,0 +1,56 @@
+{
+  "_id": "tg-noon",
+  "content": [
+    {
+      "text": "Evening, and morning, and at noon, will I pray, Ps. 55:17. I will cause the sun to go down at noon, Amos 8:9.",
+      "references": [
+        {
+          "text": "Ps. 55:17",
+          "start": 48,
+          "end": 57,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 55,
+            "chapterId": "psalms55",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Amos 8:9",
+          "start": 100,
+          "end": 108,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "amos",
+            "book": "amos",
+            "chapter": 8,
+            "chapterId": "amos8",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-noonday",
+      "slug": "noonday",
+      "title": "Noonday"
+    }
+  ],
+  "slug": "noon",
+  "title": "Noon",
+  "type": "tg"
+}

@@ -1,0 +1,32 @@
+{
+  "_id": "tg-pottage",
+  "content": [
+    {
+      "text": "Jacob sod pottage: and Esau came, Gen. 25:29.",
+      "references": [
+        {
+          "text": "Gen. 25:29",
+          "start": 34,
+          "end": 44,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 25,
+            "chapterId": "genesis25",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "pottage",
+  "title": "Pottage",
+  "type": "tg"
+}

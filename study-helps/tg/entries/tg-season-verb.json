@@ -1,0 +1,91 @@
+{
+  "_id": "tg-season-verb",
+  "content": [
+    {
+      "text": "thy meat offering shalt thou season with salt, Lev. 2:13.",
+      "references": [
+        {
+          "text": "Lev. 2:13",
+          "start": 47,
+          "end": 56,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 2,
+            "chapterId": "leviticus2",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "salt have lost his saltness, wherewith will ye season it, Mark 9:50 (Luke 14:34). Let your speech be alway with grace, seasoned with salt, Col. 4:6.",
+      "references": [
+        {
+          "text": "Mark 9:50",
+          "start": 58,
+          "end": 67,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 9,
+            "chapterId": "mark9",
+            "verses": [
+              {
+                "start": 50,
+                "end": 50
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 14:34",
+          "start": 69,
+          "end": 79,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 14,
+            "chapterId": "luke14",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        },
+        {
+          "text": "Col. 4:6",
+          "start": 139,
+          "end": 147,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "col",
+            "book": "colossians",
+            "chapter": 4,
+            "chapterId": "colossians4",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "season-verb",
+  "title": "Season [verb]",
+  "type": "tg"
+}

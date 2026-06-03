@@ -1,0 +1,99 @@
+{
+  "_id": "index-bible",
+  "content": [
+    {
+      "text": "Gentiles shall say, A Bible, we have got a Bible, 2 Ne. 29:3–10.",
+      "references": [
+        {
+          "text": "2 Ne. 29:3–10",
+          "start": 50,
+          "end": 63,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 29,
+            "chapterId": "2nephi29",
+            "verses": [
+              {
+                "start": 3,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "elders to teach principles of gospel in Bible and Book of Mormon, D&C 42:12.",
+      "references": [
+        {
+          "text": "D&C 42:12",
+          "start": 66,
+          "end": 75,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 42,
+            "chapterId": "doctrineandcovenants42",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "we believe Bible to be word of God, A of F 1:8.",
+      "references": [
+        {
+          "text": "A of F 1:8",
+          "start": 36,
+          "end": 46,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "a-of-f",
+            "book": "articlesoffaith",
+            "chapter": 1,
+            "chapterId": "articlesoffaith1",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-book",
+      "slug": "book",
+      "title": "Book"
+    },
+    {
+      "entryId": "index-new-testament",
+      "slug": "new-testament",
+      "title": "New Testament"
+    },
+    {
+      "entryId": "index-old-testament",
+      "slug": "old-testament",
+      "title": "Old Testament"
+    },
+    {
+      "entryId": "index-scriptures",
+      "slug": "scriptures",
+      "title": "Scriptures"
+    }
+  ],
+  "slug": "bible",
+  "title": "Bible",
+  "type": "index"
+}

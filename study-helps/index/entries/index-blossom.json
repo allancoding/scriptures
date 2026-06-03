@@ -1,0 +1,56 @@
+{
+  "_id": "index-blossom",
+  "content": [
+    {
+      "text": "Lamanites to blossom as rose, D&C 49:24. solitary places to bud and to blossom, D&C 117:7.",
+      "references": [
+        {
+          "text": "D&C 49:24",
+          "start": 30,
+          "end": 39,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 49,
+            "chapterId": "doctrineandcovenants49",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 117:7",
+          "start": 80,
+          "end": 89,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 117,
+            "chapterId": "doctrineandcovenants117",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-flourish",
+      "slug": "flourish",
+      "title": "Flourish"
+    }
+  ],
+  "slug": "blossom",
+  "title": "Blossom",
+  "type": "index"
+}

@@ -1,0 +1,38 @@
+{
+  "_id": "index-depravity",
+  "content": [
+    {
+      "text": "O the depravity of my people, Moro. 9:18.",
+      "references": [
+        {
+          "text": "Moro. 9:18",
+          "start": 30,
+          "end": 40,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "moro",
+            "book": "moroni",
+            "chapter": 9,
+            "chapterId": "moroni9",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-wicked",
+      "slug": "wicked",
+      "title": "Wicked"
+    }
+  ],
+  "slug": "depravity",
+  "title": "Depravity",
+  "type": "index"
+}

@@ -1,0 +1,74 @@
+{
+  "_id": "index-printing",
+  "content": [
+    {
+      "text": "lands to be purchased in Independence for house for printing, D&C 58:37. house to be built in Kirtland for printing translation of scriptures, D&C 94:10–12. Saints to organize for printing of sacred literature, D&C 104:58–66.",
+      "references": [
+        {
+          "text": "D&C 58:37",
+          "start": 62,
+          "end": 71,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 58,
+            "chapterId": "doctrineandcovenants58",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 94:10–12",
+          "start": 143,
+          "end": 155,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 94,
+            "chapterId": "doctrineandcovenants94",
+            "verses": [
+              {
+                "start": 10,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 104:58–66",
+          "start": 211,
+          "end": 224,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 104,
+            "chapterId": "doctrineandcovenants104",
+            "verses": [
+              {
+                "start": 58,
+                "end": 66
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-publish",
+      "slug": "publish",
+      "title": "Publish"
+    }
+  ],
+  "slug": "printing",
+  "title": "Printing",
+  "type": "index"
+}

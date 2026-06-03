@@ -1,0 +1,96 @@
+{
+  "_id": "tg-throat",
+  "content": [
+    {
+      "text": "their throat is an open sepulchre, Ps. 5:9 (Rom. 3:13).",
+      "references": [
+        {
+          "text": "Ps. 5:9",
+          "start": 35,
+          "end": 42,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 5,
+            "chapterId": "psalms5",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 3:13",
+          "start": 44,
+          "end": 53,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 3,
+            "chapterId": "romans3",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "took him by the throat, saying, Pay me, Matt. 18:28.",
+      "references": [
+        {
+          "text": "Matt. 18:28",
+          "start": 40,
+          "end": 51,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 18,
+            "chapterId": "matthew18",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Swear unto me by thy throat, Moses 5:29.",
+      "references": [
+        {
+          "text": "Moses 5:29",
+          "start": 29,
+          "end": 39,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 5,
+            "chapterId": "moses5",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "throat",
+  "title": "Throat",
+  "type": "tg"
+}

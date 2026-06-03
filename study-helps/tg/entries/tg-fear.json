@@ -1,0 +1,1320 @@
+{
+  "_id": "tg-fear",
+  "content": [
+    {
+      "text": "fear of you … shall be upon every beast, Gen. 9:2. fear not, for I am with thee, Gen. 26:24 (Isa. 41:10). Fear and dread shall fall upon them, Ex. 15:16. shalt provide … able men, such as fear God, Ex. 18:21. Lord is with us: fear them not, Num. 14:9. put … the fear of thee upon the nations, Deut. 2:25. fear not the gods of the Amorites, Judg. 6:10. Samuel feared to shew Eli the vision, 1 Sam. 3:15. I feared the people, and obeyed their voice, 1 Sam. 15:24. Fear not: for they that be with us are more, 2 Kgs. 6:16. my light and my salvation; whom shall I fear, Ps. 27:1. will not we fear, though the earth be removed, Ps. 46:2. not fear what flesh can do unto me, Ps. 56:4. his mercy toward them that fear him, Ps. 103:11. Be not afraid of sudden fear, Prov. 3:25. fear of man bringeth a snare, Prov. 29:25. fear ye not the reproach of men, Isa. 51:7 (2 Ne. 8:7). they shall fear no more, Jer. 23:4.",
+      "references": [
+        {
+          "text": "Gen. 9:2",
+          "start": 41,
+          "end": 49,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 9,
+            "chapterId": "genesis9",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 26:24",
+          "start": 81,
+          "end": 91,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 26,
+            "chapterId": "genesis26",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 41:10",
+          "start": 93,
+          "end": 103,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 41,
+            "chapterId": "isaiah41",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 15:16",
+          "start": 143,
+          "end": 152,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 15,
+            "chapterId": "exodus15",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 18:21",
+          "start": 198,
+          "end": 207,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 18,
+            "chapterId": "exodus18",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 14:9",
+          "start": 241,
+          "end": 250,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 14,
+            "chapterId": "numbers14",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 2:25",
+          "start": 293,
+          "end": 303,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 2,
+            "chapterId": "deuteronomy2",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Judg. 6:10",
+          "start": 340,
+          "end": 350,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "judg",
+            "book": "judges",
+            "chapter": 6,
+            "chapterId": "judges6",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Sam. 3:15",
+          "start": 390,
+          "end": 401,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 3,
+            "chapterId": "1samuel3",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Sam. 15:24",
+          "start": 448,
+          "end": 460,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 15,
+            "chapterId": "1samuel15",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Kgs. 6:16",
+          "start": 507,
+          "end": 518,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 6,
+            "chapterId": "2kings6",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 27:1",
+          "start": 566,
+          "end": 574,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 27,
+            "chapterId": "psalms27",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 46:2",
+          "start": 623,
+          "end": 631,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 46,
+            "chapterId": "psalms46",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 56:4",
+          "start": 669,
+          "end": 677,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 56,
+            "chapterId": "psalms56",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 103:11",
+          "start": 716,
+          "end": 726,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 103,
+            "chapterId": "psalms103",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 3:25",
+          "start": 758,
+          "end": 768,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 3,
+            "chapterId": "proverbs3",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 29:25",
+          "start": 800,
+          "end": 811,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 29,
+            "chapterId": "proverbs29",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 51:7",
+          "start": 846,
+          "end": 855,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 51,
+            "chapterId": "isaiah51",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 8:7",
+          "start": 857,
+          "end": 866,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 8,
+            "chapterId": "2nephi8",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 23:4",
+          "start": 894,
+          "end": 903,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 23,
+            "chapterId": "jeremiah23",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "fear not to take unto thee Mary thy wife, Matt. 1:20. fear him which is able to destroy both soul and body, Matt. 10:28 (Luke 12:5). he feared the multitude, Matt. 14:5. It is a spirit; and they cried out for fear, Matt. 14:26. we fear the people, Matt. 21:26 (Mark 11:32). feared greatly, saying, Truly this was the Son, Matt. 27:54. Fear not ye: for I know that ye seek Jesus, Matt. 28:5. Herod feared John, Mark 6:20. destroy him: for they feared him, Mark 11:18. came a fear on all: and they glorified God, Luke 7:16. I feared thee, because thou art an austere man, Luke 19:21. Men’s hearts failing them for fear, Luke 21:26. no man spake openly of him for fear of the Jews, John 7:13. Joseph … secretly for fear of the Jews, besought Pilate, John 19:38. doors were shut … for fear of the Jews, John 20:19. great fear came upon all the church, Acts 5:11. Render … fear to whom fear, Rom. 13:7. without were fightings, within were fears, 2 Cor. 7:5. more bold to speak the word without fear, Philip. 1:14. God hath not given us the spirit of fear, 2 Tim. 1:7. deliver them who through fear of death, Heb. 2:15. perfect love casteth out fear, 1 Jn. 4:18. Fear not; I am the first and the last, Rev. 1:17. Fear none of those things which thou shalt suffer, Rev. 2:10.",
+      "references": [
+        {
+          "text": "Matt. 1:20",
+          "start": 42,
+          "end": 52,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 1,
+            "chapterId": "matthew1",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 10:28",
+          "start": 108,
+          "end": 119,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 10,
+            "chapterId": "matthew10",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 12:5",
+          "start": 121,
+          "end": 130,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 12,
+            "chapterId": "luke12",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 14:5",
+          "start": 158,
+          "end": 168,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 14,
+            "chapterId": "matthew14",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 14:26",
+          "start": 215,
+          "end": 226,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 14,
+            "chapterId": "matthew14",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 21:26",
+          "start": 248,
+          "end": 259,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 21,
+            "chapterId": "matthew21",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 11:32",
+          "start": 261,
+          "end": 271,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 11,
+            "chapterId": "mark11",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 27:54",
+          "start": 322,
+          "end": 333,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 27,
+            "chapterId": "matthew27",
+            "verses": [
+              {
+                "start": 54,
+                "end": 54
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 28:5",
+          "start": 379,
+          "end": 389,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 28,
+            "chapterId": "matthew28",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 6:20",
+          "start": 410,
+          "end": 419,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 6,
+            "chapterId": "mark6",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 11:18",
+          "start": 455,
+          "end": 465,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 11,
+            "chapterId": "mark11",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 7:16",
+          "start": 511,
+          "end": 520,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 7,
+            "chapterId": "luke7",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 19:21",
+          "start": 570,
+          "end": 580,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 19,
+            "chapterId": "luke19",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 21:26",
+          "start": 618,
+          "end": 628,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 21,
+            "chapterId": "luke21",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 7:13",
+          "start": 679,
+          "end": 688,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 7,
+            "chapterId": "john7",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 19:38",
+          "start": 747,
+          "end": 757,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 19,
+            "chapterId": "john19",
+            "verses": [
+              {
+                "start": 38,
+                "end": 38
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 20:19",
+          "start": 799,
+          "end": 809,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 20,
+            "chapterId": "john20",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 5:11",
+          "start": 848,
+          "end": 857,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 5,
+            "chapterId": "acts5",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 13:7",
+          "start": 887,
+          "end": 896,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 13,
+            "chapterId": "romans13",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Cor. 7:5",
+          "start": 941,
+          "end": 951,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 7,
+            "chapterId": "2corinthians7",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Philip. 1:14",
+          "start": 995,
+          "end": 1007,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "philip",
+            "book": "philippians",
+            "chapter": 1,
+            "chapterId": "philippians1",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Tim. 1:7",
+          "start": 1051,
+          "end": 1061,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-tim",
+            "book": "2timothy",
+            "chapter": 1,
+            "chapterId": "2timothy1",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 2:15",
+          "start": 1103,
+          "end": 1112,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 2,
+            "chapterId": "hebrews2",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Jn. 4:18",
+          "start": 1145,
+          "end": 1155,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-jn",
+            "book": "1john",
+            "chapter": 4,
+            "chapterId": "1john4",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 1:17",
+          "start": 1196,
+          "end": 1205,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 1,
+            "chapterId": "revelation1",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 2:10",
+          "start": 1258,
+          "end": 1267,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 2,
+            "chapterId": "revelation2",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Zoram … our fears did cease concerning him, 1 Ne. 4:37. I fear lest I have committed the unpardonable sin, Jacob 7:19. fear of destruction had come upon them, Alma 14:26. awful fear of death which fills … the wicked, Morm. 6:7.",
+      "references": [
+        {
+          "text": "1 Ne. 4:37",
+          "start": 44,
+          "end": 54,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 4,
+            "chapterId": "1nephi4",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jacob 7:19",
+          "start": 107,
+          "end": 117,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 7,
+            "chapterId": "jacob7",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 14:26",
+          "start": 159,
+          "end": 169,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 14,
+            "chapterId": "alma14",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 6:7",
+          "start": 217,
+          "end": 226,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 6,
+            "chapterId": "mormon6",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "you should not have feared man more than God, D&C 3:7 (30:1). Fear not to do good, D&C 6:33. whosoever belongeth to my church need not fear, D&C 10:55. not fearing what man can do, D&C 30:11 (122:9). fear not, for the kingdom is yours, D&C 38:15. if ye are prepared ye shall not fear, D&C 38:30. Fear not, little children, for you are mine, D&C 50:41. not open their mouths … because of the fear of man, D&C 60:2. let the rebellious fear and tremble, D&C 63:6. shall deny the faith and shall fear, D&C 63:16. there were fears in your hearts, D&C 67:3. strip yourselves from … fears, D&C 67:10. be of good cheer, and do not fear, D&C 68:6. fear not, let your hearts be comforted, D&C 98:1. fear not even unto death, D&C 101:36. fear not thine enemies, D&C 136:17.",
+      "references": [
+        {
+          "text": "D&C 3:7",
+          "start": 46,
+          "end": 53,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 3,
+            "chapterId": "doctrineandcovenants3",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "30:1",
+          "start": 55,
+          "end": 59,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 30,
+            "chapterId": "doctrineandcovenants30",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 6:33",
+          "start": 83,
+          "end": 91,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 6,
+            "chapterId": "doctrineandcovenants6",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 10:55",
+          "start": 141,
+          "end": 150,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 10,
+            "chapterId": "doctrineandcovenants10",
+            "verses": [
+              {
+                "start": 55,
+                "end": 55
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 30:11",
+          "start": 181,
+          "end": 190,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 30,
+            "chapterId": "doctrineandcovenants30",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "122:9",
+          "start": 192,
+          "end": 197,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 122,
+            "chapterId": "doctrineandcovenants122",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 38:15",
+          "start": 236,
+          "end": 245,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 38,
+            "chapterId": "doctrineandcovenants38",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 38:30",
+          "start": 285,
+          "end": 294,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 38,
+            "chapterId": "doctrineandcovenants38",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 50:41",
+          "start": 341,
+          "end": 350,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 50,
+            "chapterId": "doctrineandcovenants50",
+            "verses": [
+              {
+                "start": 41,
+                "end": 41
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 60:2",
+          "start": 404,
+          "end": 412,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 60,
+            "chapterId": "doctrineandcovenants60",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 63:6",
+          "start": 451,
+          "end": 459,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 63,
+            "chapterId": "doctrineandcovenants63",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 63:16",
+          "start": 498,
+          "end": 507,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 63,
+            "chapterId": "doctrineandcovenants63",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 67:3",
+          "start": 542,
+          "end": 550,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 67,
+            "chapterId": "doctrineandcovenants67",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 67:10",
+          "start": 583,
+          "end": 592,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 67,
+            "chapterId": "doctrineandcovenants67",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 68:6",
+          "start": 629,
+          "end": 637,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 68,
+            "chapterId": "doctrineandcovenants68",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 98:1",
+          "start": 679,
+          "end": 687,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 98,
+            "chapterId": "doctrineandcovenants98",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 101:36",
+          "start": 715,
+          "end": 725,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 101,
+            "chapterId": "doctrineandcovenants101",
+            "verses": [
+              {
+                "start": 36,
+                "end": 36
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 136:17",
+          "start": 751,
+          "end": 761,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 136,
+            "chapterId": "doctrineandcovenants136",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Moses began to fear exceedingly, Moses 1:20. I was afraid; but the fear soon left me, JS—H 1:32.",
+      "references": [
+        {
+          "text": "Moses 1:20",
+          "start": 33,
+          "end": 43,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 1,
+            "chapterId": "moses1",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "JS—H 1:32",
+          "start": 86,
+          "end": 95,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-afraid",
+      "slug": "afraid",
+      "title": "Afraid"
+    },
+    {
+      "entryId": "tg-courage",
+      "slug": "courage",
+      "title": "Courage"
+    },
+    {
+      "entryId": "tg-fearful",
+      "slug": "fearful",
+      "title": "Fearful"
+    },
+    {
+      "entryId": "tg-fear-of-god",
+      "slug": "fear-of-god",
+      "title": "Fear of God"
+    },
+    {
+      "entryId": "tg-tremble",
+      "slug": "tremble",
+      "title": "Tremble"
+    }
+  ],
+  "slug": "fear",
+  "title": "Fear",
+  "type": "tg"
+}

@@ -1,0 +1,92 @@
+{
+  "_id": "index-hallowed",
+  "content": [
+    {
+      "text": "the Lord blessed Sabbath day and hallowed it, Mosiah 13:19 (Ex. 20:11). our Father who art in heaven, hallowed be thy name, 3 Ne. 13:9 (Matt. 6:9).",
+      "references": [
+        {
+          "text": "Mosiah 13:19",
+          "start": 46,
+          "end": 58,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 13,
+            "chapterId": "mosiah13",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 20:11",
+          "start": 60,
+          "end": 69,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 20,
+            "chapterId": "exodus20",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 13:9",
+          "start": 124,
+          "end": 134,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 13,
+            "chapterId": "3nephi13",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 6:9",
+          "start": 136,
+          "end": 145,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 6,
+            "chapterId": "matthew6",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-holy",
+      "slug": "holy",
+      "title": "Holy"
+    }
+  ],
+  "slug": "hallowed",
+  "title": "Hallowed",
+  "type": "index"
+}

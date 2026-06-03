@@ -1,0 +1,74 @@
+{
+  "_id": "index-design",
+  "content": [
+    {
+      "text": "designs of God cannot be frustrated, D&C 3:1. those who have stolen translation shall not accomplish evil designs, D&C 10:31. conspiring men in latter days to have designs, D&C 89:4.",
+      "references": [
+        {
+          "text": "D&C 3:1",
+          "start": 37,
+          "end": 44,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 3,
+            "chapterId": "doctrineandcovenants3",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 10:31",
+          "start": 115,
+          "end": 124,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 10,
+            "chapterId": "doctrineandcovenants10",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 89:4",
+          "start": 173,
+          "end": 181,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 89,
+            "chapterId": "doctrineandcovenants89",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-plan",
+      "slug": "plan",
+      "title": "Plan"
+    }
+  ],
+  "slug": "design",
+  "title": "Design",
+  "type": "index"
+}

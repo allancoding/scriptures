@@ -1,0 +1,79 @@
+{
+  "_id": "tg-turtledove",
+  "content": [
+    {
+      "text": "Take … a ram of three years old, and a turtledove, Gen. 15:9. he shall bring his offering of turtledoves, Lev. 1:14.",
+      "references": [
+        {
+          "text": "Gen. 15:9",
+          "start": 51,
+          "end": 60,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 15,
+            "chapterId": "genesis15",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Lev. 1:14",
+          "start": 106,
+          "end": 115,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 1,
+            "chapterId": "leviticus1",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "to offer a sacrifice … A pair of turtledoves, Luke 2:24.",
+      "references": [
+        {
+          "text": "Luke 2:24",
+          "start": 46,
+          "end": 55,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 2,
+            "chapterId": "luke2",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-dove",
+      "slug": "dove",
+      "title": "Dove"
+    }
+  ],
+  "slug": "turtledove",
+  "title": "Turtledove",
+  "type": "tg"
+}

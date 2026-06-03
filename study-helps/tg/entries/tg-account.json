@@ -1,0 +1,230 @@
+{
+  "_id": "tg-account",
+  "content": [
+    {
+      "text": "son of man, that thou makest account of him, Ps. 144:3.",
+      "references": [
+        {
+          "text": "Ps. 144:3",
+          "start": 45,
+          "end": 54,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 144,
+            "chapterId": "psalms144",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "every idle word … they shall give account, Matt. 12:36. king, which would take account of his servants, Matt. 18:23. give an account of thy stewardship, Luke 16:2. every one of us shall give account of himself to God, Rom. 14:12. accounted to him for righteousness, Gal. 3:6. they watch … as they that must give account, Heb. 13:17. give account to him that is ready to judge, 1 Pet. 4:5.",
+      "references": [
+        {
+          "text": "Matt. 12:36",
+          "start": 43,
+          "end": 54,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 12,
+            "chapterId": "matthew12",
+            "verses": [
+              {
+                "start": 36,
+                "end": 36
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 18:23",
+          "start": 104,
+          "end": 115,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 18,
+            "chapterId": "matthew18",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 16:2",
+          "start": 153,
+          "end": 162,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 16,
+            "chapterId": "luke16",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 14:12",
+          "start": 218,
+          "end": 228,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 14,
+            "chapterId": "romans14",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gal. 3:6",
+          "start": 266,
+          "end": 274,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "gal",
+            "book": "galatians",
+            "chapter": 3,
+            "chapterId": "galatians3",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 13:17",
+          "start": 321,
+          "end": 331,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 13,
+            "chapterId": "hebrews13",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Pet. 4:5",
+          "start": 377,
+          "end": 387,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-pet",
+            "book": "1peter",
+            "chapter": 4,
+            "chapterId": "1peter4",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "I shall make an account of my proceedings, 1 Ne. 1:17.",
+      "references": [
+        {
+          "text": "1 Ne. 1:17",
+          "start": 43,
+          "end": 53,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 1,
+            "chapterId": "1nephi1",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "required … of every steward, to render an account, D&C 72:3.",
+      "references": [
+        {
+          "text": "D&C 72:3",
+          "start": 51,
+          "end": 59,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 72,
+            "chapterId": "doctrineandcovenants72",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-accountability",
+      "slug": "accountability",
+      "title": "Accountability"
+    },
+    {
+      "entryId": "tg-count",
+      "slug": "count",
+      "title": "Count"
+    },
+    {
+      "entryId": "tg-reckon",
+      "slug": "reckon",
+      "title": "Reckon"
+    },
+    {
+      "entryId": "tg-record",
+      "slug": "record",
+      "title": "Record"
+    }
+  ],
+  "slug": "account",
+  "title": "Account",
+  "type": "tg"
+}

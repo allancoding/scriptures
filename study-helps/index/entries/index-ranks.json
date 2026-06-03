@@ -1,0 +1,56 @@
+{
+  "_id": "index-ranks",
+  "content": [
+    {
+      "text": "men in Zeniff’s army placed in ranks according to age, Mosiah 10:9. people distinguished by ranks according to riches and chances for learning, 3 Ne. 6:12.",
+      "references": [
+        {
+          "text": "Mosiah 10:9",
+          "start": 55,
+          "end": 66,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 10,
+            "chapterId": "mosiah10",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 6:12",
+          "start": 144,
+          "end": 154,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 6,
+            "chapterId": "3nephi6",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-inequality",
+      "slug": "inequality",
+      "title": "Inequality"
+    }
+  ],
+  "slug": "ranks",
+  "title": "Ranks",
+  "type": "index"
+}

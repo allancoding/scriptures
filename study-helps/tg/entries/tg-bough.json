@@ -1,0 +1,50 @@
+{
+  "_id": "tg-bough",
+  "content": [
+    {
+      "text": "Joseph is a fruitful bough, Gen. 49:22. Absalom … went under the thick boughs of a great oak, 2 Sam. 18:9.",
+      "references": [
+        {
+          "text": "Gen. 49:22",
+          "start": 28,
+          "end": 38,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 49,
+            "chapterId": "genesis49",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Sam. 18:9",
+          "start": 94,
+          "end": 105,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-sam",
+            "book": "2samuel",
+            "chapter": 18,
+            "chapterId": "2samuel18",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "bough",
+  "title": "Bough",
+  "type": "tg"
+}

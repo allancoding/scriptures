@@ -1,0 +1,79 @@
+{
+  "_id": "tg-expectation",
+  "content": [
+    {
+      "text": "expectation of the poor shall not perish, Ps. 9:18. expectation of the wicked shall perish, Prov. 10:28.",
+      "references": [
+        {
+          "text": "Ps. 9:18",
+          "start": 42,
+          "end": 50,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 9,
+            "chapterId": "psalms9",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 10:28",
+          "start": 92,
+          "end": 103,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 10,
+            "chapterId": "proverbs10",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "earnest expectation of the creature waiteth, Rom. 8:19.",
+      "references": [
+        {
+          "text": "Rom. 8:19",
+          "start": 45,
+          "end": 54,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 8,
+            "chapterId": "romans8",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-hope",
+      "slug": "hope",
+      "title": "Hope"
+    }
+  ],
+  "slug": "expectation",
+  "title": "Expectation",
+  "type": "tg"
+}

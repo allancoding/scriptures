@@ -1,0 +1,120 @@
+{
+  "_id": "tg-bad",
+  "content": [
+    {
+      "text": "we cannot speak unto thee bad or good, Gen. 24:50. speak not to Jacob either good or bad, Gen. 31:24.",
+      "references": [
+        {
+          "text": "Gen. 24:50",
+          "start": 39,
+          "end": 49,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 24,
+            "chapterId": "genesis24",
+            "verses": [
+              {
+                "start": 50,
+                "end": 50
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 31:24",
+          "start": 90,
+          "end": 100,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 31,
+            "chapterId": "genesis31",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "gathered the good into vessels, but cast the bad away, Matt. 13:48. receive … according to that he hath done, … good or bad, 2 Cor. 5:10.",
+      "references": [
+        {
+          "text": "Matt. 13:48",
+          "start": 55,
+          "end": 66,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 13,
+            "chapterId": "matthew13",
+            "verses": [
+              {
+                "start": 48,
+                "end": 48
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Cor. 5:10",
+          "start": 125,
+          "end": 136,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 5,
+            "chapterId": "2corinthians5",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "righteousness could not be brought to pass, … neither good nor bad, 2 Ne. 2:11.",
+      "references": [
+        {
+          "text": "2 Ne. 2:11",
+          "start": 68,
+          "end": 78,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 2,
+            "chapterId": "2nephi2",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-worse",
+      "slug": "worse",
+      "title": "Worse"
+    }
+  ],
+  "slug": "bad",
+  "title": "Bad",
+  "type": "tg"
+}

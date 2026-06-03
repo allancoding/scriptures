@@ -1,0 +1,50 @@
+{
+  "_id": "bd-nazarene",
+  "content": [
+    {
+      "text": "Belonging to Nazareth. Used of Jesus (Matt. 2:23). Christians were called the “sect of the Nazarenes” (Acts 24:5).",
+      "references": [
+        {
+          "text": "Matt. 2:23",
+          "start": 38,
+          "end": 48,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 2,
+            "chapterId": "matthew2",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 24:5",
+          "start": 103,
+          "end": 112,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 24,
+            "chapterId": "acts24",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "nazarene",
+  "title": "Nazarene",
+  "type": "bd"
+}

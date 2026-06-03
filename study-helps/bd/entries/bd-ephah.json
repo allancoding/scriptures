@@ -1,0 +1,50 @@
+{
+  "_id": "bd-ephah",
+  "content": [
+    {
+      "text": "The usual measure for dry substances; sometimes translated “measure” (Deut. 25:14, etc.). It probably contained about eight gallons. See also Ex. 16:36.",
+      "references": [
+        {
+          "text": "Deut. 25:14",
+          "start": 70,
+          "end": 81,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 25,
+            "chapterId": "deuteronomy25",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 16:36",
+          "start": 142,
+          "end": 151,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 16,
+            "chapterId": "exodus16",
+            "verses": [
+              {
+                "start": 36,
+                "end": 36
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "ephah",
+  "title": "Ephah",
+  "type": "bd"
+}

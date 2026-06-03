@@ -1,0 +1,935 @@
+{
+  "_id": "tg-mighty",
+  "content": [
+    {
+      "text": "Nimrod: he began to be a mighty one, Gen. 10:8. Abraham … become a great and mighty nation, Gen. 18:18. children of Israel are more and mightier than we, Ex. 1:9. king … will not let you go, no, not by a mighty hand, Ex. 3:19. not respect the … poor, nor honour the person of the mighty, Lev. 19:15. make of thee a greater nation and mightier than they, Num. 14:12. God … take him a nation … by a mighty hand, Deut. 4:34. who shall deliver us out of the hand of these mighty Gods, 1 Sam. 4:8. how are the mighty fallen, 2 Sam. 1:19. These be the names of the mighty men whom David had, 2 Sam. 23:8. How he … vowed unto the mighty God of Jacob, Ps. 132:2. their redeemer is mighty, Prov. 23:11. Lord of hosts, the mighty One of Israel, Isa. 1:24. the mighty man shall be humbled, Isa. 5:15 (2 Ne. 15:15). his name shall be called … The mighty God, Isa. 9:6 (2 Ne. 19:6). Lord hath a mighty and strong one, Isa. 28:2. goeth with a pipe … to the mighty One of Israel, Isa. 30:29. with a mighty hand … will I rule over you, Ezek. 20:33.",
+      "references": [
+        {
+          "text": "Gen. 10:8",
+          "start": 37,
+          "end": 46,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 10,
+            "chapterId": "genesis10",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 18:18",
+          "start": 92,
+          "end": 102,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 18,
+            "chapterId": "genesis18",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 1:9",
+          "start": 154,
+          "end": 161,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 1,
+            "chapterId": "exodus1",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 3:19",
+          "start": 217,
+          "end": 225,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 3,
+            "chapterId": "exodus3",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Lev. 19:15",
+          "start": 288,
+          "end": 298,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 19,
+            "chapterId": "leviticus19",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 14:12",
+          "start": 354,
+          "end": 364,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 14,
+            "chapterId": "numbers14",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 4:34",
+          "start": 410,
+          "end": 420,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 4,
+            "chapterId": "deuteronomy4",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Sam. 4:8",
+          "start": 481,
+          "end": 491,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 4,
+            "chapterId": "1samuel4",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Sam. 1:19",
+          "start": 520,
+          "end": 531,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-sam",
+            "book": "2samuel",
+            "chapter": 1,
+            "chapterId": "2samuel1",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Sam. 23:8",
+          "start": 586,
+          "end": 597,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-sam",
+            "book": "2samuel",
+            "chapter": 23,
+            "chapterId": "2samuel23",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 132:2",
+          "start": 644,
+          "end": 653,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 132,
+            "chapterId": "psalms132",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 23:11",
+          "start": 681,
+          "end": 692,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 23,
+            "chapterId": "proverbs23",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 1:24",
+          "start": 735,
+          "end": 744,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 1,
+            "chapterId": "isaiah1",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 5:15",
+          "start": 779,
+          "end": 788,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 5,
+            "chapterId": "isaiah5",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 15:15",
+          "start": 790,
+          "end": 801,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 15,
+            "chapterId": "2nephi15",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 9:6",
+          "start": 847,
+          "end": 855,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 9,
+            "chapterId": "isaiah9",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 19:6",
+          "start": 857,
+          "end": 867,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 19,
+            "chapterId": "2nephi19",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 28:2",
+          "start": 905,
+          "end": 914,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 28,
+            "chapterId": "isaiah28",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 30:29",
+          "start": 965,
+          "end": 975,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 30,
+            "chapterId": "isaiah30",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 20:33",
+          "start": 1020,
+          "end": 1031,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 20,
+            "chapterId": "ezekiel20",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "he that cometh after me is mightier than I, Matt. 3:11. wherein most of his mighty works were done, Matt. 11:20. Whence hath this man … these mighty works, Matt. 13:54 (Mark 6:2). mighty works do shew forth themselves in him, Matt. 14:2 (Mark 6:14). He hath put down the mighty from their seats, Luke 1:52. all amazed at the mighty power of God, Luke 9:43. a prophet mighty in deed and word before God, Luke 24:19. learned … mighty in words and in deeds, Acts 7:22. eloquent man, and mighty in the scriptures, Acts 18:24. not many mighty, not many noble, are called, 1 Cor. 1:26. weak … to confound the things which are mighty, 1 Cor. 1:27. weapons … mighty through God to the pulling down of strong holds, 2 Cor. 10:4.",
+      "references": [
+        {
+          "text": "Matt. 3:11",
+          "start": 44,
+          "end": 54,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 3,
+            "chapterId": "matthew3",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 11:20",
+          "start": 100,
+          "end": 111,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 11,
+            "chapterId": "matthew11",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 13:54",
+          "start": 156,
+          "end": 167,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 13,
+            "chapterId": "matthew13",
+            "verses": [
+              {
+                "start": 54,
+                "end": 54
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 6:2",
+          "start": 169,
+          "end": 177,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 6,
+            "chapterId": "mark6",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 14:2",
+          "start": 226,
+          "end": 236,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 14,
+            "chapterId": "matthew14",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 6:14",
+          "start": 238,
+          "end": 247,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 6,
+            "chapterId": "mark6",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 1:52",
+          "start": 296,
+          "end": 305,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 1,
+            "chapterId": "luke1",
+            "verses": [
+              {
+                "start": 52,
+                "end": 52
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 9:43",
+          "start": 346,
+          "end": 355,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 9,
+            "chapterId": "luke9",
+            "verses": [
+              {
+                "start": 43,
+                "end": 43
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 24:19",
+          "start": 403,
+          "end": 413,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 24,
+            "chapterId": "luke24",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 7:22",
+          "start": 455,
+          "end": 464,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 7,
+            "chapterId": "acts7",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 18:24",
+          "start": 510,
+          "end": 520,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 18,
+            "chapterId": "acts18",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 1:26",
+          "start": 567,
+          "end": 578,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 1,
+            "chapterId": "1corinthians1",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 1:27",
+          "start": 628,
+          "end": 639,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 1,
+            "chapterId": "1corinthians1",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Cor. 10:4",
+          "start": 707,
+          "end": 718,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 10,
+            "chapterId": "2corinthians10",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "the Lord … is mightier than all the earth, 1 Ne. 4:1. I, the Lord, am thy Savior … the Mighty One of Jacob, 1 Ne. 21:26. Lord God will raise up a mighty nation, 1 Ne. 22:7. Lord is their Savior … the Mighty One of Israel, 1 Ne. 22:12. there shall rise up one mighty among them, 2 Ne. 3:24. relying wholly upon the merits of him who is mighty to save, 2 Ne. 31:19 (Alma 34:18; D&C 133:47). Spirit … has wrought a mighty change in us, Mosiah 5:2. Have ye experienced this mighty change in your hearts, Alma 5:14. I will make thee mighty in word and in deed, Hel. 10:5. many mighty miracles wrought by the hands of the apostles, Morm. 9:18. valley was Nimrod, being called after the mighty hunter, Ether 2:1.",
+      "references": [
+        {
+          "text": "1 Ne. 4:1",
+          "start": 43,
+          "end": 52,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 4,
+            "chapterId": "1nephi4",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Ne. 21:26",
+          "start": 108,
+          "end": 119,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 21,
+            "chapterId": "1nephi21",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Ne. 22:7",
+          "start": 161,
+          "end": 171,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 22,
+            "chapterId": "1nephi22",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Ne. 22:12",
+          "start": 222,
+          "end": 233,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 22,
+            "chapterId": "1nephi22",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 3:24",
+          "start": 278,
+          "end": 288,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 3,
+            "chapterId": "2nephi3",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 31:19",
+          "start": 351,
+          "end": 362,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 31,
+            "chapterId": "2nephi31",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 34:18",
+          "start": 364,
+          "end": 374,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 34,
+            "chapterId": "alma34",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 133:47",
+          "start": 376,
+          "end": 386,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 133,
+            "chapterId": "doctrineandcovenants133",
+            "verses": [
+              {
+                "start": 47,
+                "end": 47
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 5:2",
+          "start": 433,
+          "end": 443,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 5,
+            "chapterId": "mosiah5",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 5:14",
+          "start": 500,
+          "end": 509,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 5,
+            "chapterId": "alma5",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 10:5",
+          "start": 556,
+          "end": 565,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 10,
+            "chapterId": "helaman10",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 9:18",
+          "start": 626,
+          "end": 636,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 9,
+            "chapterId": "mormon9",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 2:1",
+          "start": 695,
+          "end": 704,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 2,
+            "chapterId": "ether2",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Lord God, will send one mighty and strong, D&C 85:7. I will give unto him power to be mighty in testimony, D&C 100:10. power to be mighty in expounding all scriptures, D&C 100:11.",
+      "references": [
+        {
+          "text": "D&C 85:7",
+          "start": 43,
+          "end": 51,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 85,
+            "chapterId": "doctrineandcovenants85",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 100:10",
+          "start": 107,
+          "end": 117,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 100,
+            "chapterId": "doctrineandcovenants100",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 100:11",
+          "start": 168,
+          "end": 178,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 100,
+            "chapterId": "doctrineandcovenants100",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-great",
+      "slug": "great",
+      "title": "Great"
+    }
+  ],
+  "slug": "mighty",
+  "title": "Mighty, Mightier",
+  "type": "tg"
+}

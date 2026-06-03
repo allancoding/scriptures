@@ -1,0 +1,83 @@
+{
+  "_id": "index-cornerstone",
+  "content": [
+    {
+      "text": "Christ is stone of Israel, D&C 50:44. stake planted to be cornerstone, D&C 124:2, 60. high council given for cornerstone of Zion, D&C 124:131.",
+      "references": [
+        {
+          "text": "D&C 50:44",
+          "start": 27,
+          "end": 36,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 50,
+            "chapterId": "doctrineandcovenants50",
+            "verses": [
+              {
+                "start": 44,
+                "end": 44
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 124:2, 60",
+          "start": 71,
+          "end": 84,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 124,
+            "chapterId": "doctrineandcovenants124",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              },
+              {
+                "start": 60,
+                "end": 60
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 124:131",
+          "start": 130,
+          "end": 141,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 124,
+            "chapterId": "doctrineandcovenants124",
+            "verses": [
+              {
+                "start": 131,
+                "end": 131
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-rock",
+      "slug": "rock",
+      "title": "Rock"
+    },
+    {
+      "entryId": "index-stone-noun",
+      "slug": "stone-noun",
+      "title": "Stone [noun]"
+    }
+  ],
+  "slug": "cornerstone",
+  "title": "Cornerstone",
+  "type": "index"
+}

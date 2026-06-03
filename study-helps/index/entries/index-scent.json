@@ -1,0 +1,56 @@
+{
+  "_id": "index-scent",
+  "content": [
+    {
+      "text": "great scent of dead bodies in Ammonihah, Alma 16:11. scent of dead bodies troubles Jaredites, Ether 14:23.",
+      "references": [
+        {
+          "text": "Alma 16:11",
+          "start": 41,
+          "end": 51,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 16,
+            "chapterId": "alma16",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 14:23",
+          "start": 94,
+          "end": 105,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 14,
+            "chapterId": "ether14",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-smell",
+      "slug": "smell",
+      "title": "Smell"
+    }
+  ],
+  "slug": "scent",
+  "title": "Scent",
+  "type": "index"
+}

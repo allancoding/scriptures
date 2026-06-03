@@ -1,0 +1,155 @@
+{
+  "_id": "tg-message",
+  "content": [
+    {
+      "text": "Ehud said, I have a message from God, Judg. 3:20. He that sendeth a message by the hand of a fool, Prov. 26:6.",
+      "references": [
+        {
+          "text": "Judg. 3:20",
+          "start": 38,
+          "end": 48,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "judg",
+            "book": "judges",
+            "chapter": 3,
+            "chapterId": "judges3",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 26:6",
+          "start": 99,
+          "end": 109,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 26,
+            "chapterId": "proverbs26",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "citizens hated him, and sent a message after him, Luke 19:14. this is the message that ye heard, 1 Jn. 3:11.",
+      "references": [
+        {
+          "text": "Luke 19:14",
+          "start": 50,
+          "end": 60,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 19,
+            "chapterId": "luke19",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Jn. 3:11",
+          "start": 97,
+          "end": 107,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-jn",
+            "book": "1john",
+            "chapter": 3,
+            "chapterId": "1john3",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "therefore I finish my message, Mosiah 13:7.",
+      "references": [
+        {
+          "text": "Mosiah 13:7",
+          "start": 31,
+          "end": 42,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 13,
+            "chapterId": "mosiah13",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "saying he has a message from God, offer him your hand, D&C 129:4. he will still deliver his message, D&C 129:7.",
+      "references": [
+        {
+          "text": "D&C 129:4",
+          "start": 55,
+          "end": 64,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 129,
+            "chapterId": "doctrineandcovenants129",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 129:7",
+          "start": 101,
+          "end": 110,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 129,
+            "chapterId": "doctrineandcovenants129",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "message",
+  "title": "Message",
+  "type": "tg"
+}

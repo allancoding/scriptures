@@ -1,0 +1,43 @@
+{
+  "_id": "index-new-testament",
+  "content": [
+    {
+      "text": "to be translated, D&C 45:60–61.",
+      "references": [
+        {
+          "text": "D&C 45:60–61",
+          "start": 18,
+          "end": 30,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 45,
+            "chapterId": "doctrineandcovenants45",
+            "verses": [
+              {
+                "start": 60,
+                "end": 61
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-bible",
+      "slug": "bible",
+      "title": "Bible"
+    },
+    {
+      "entryId": "index-scriptures",
+      "slug": "scriptures",
+      "title": "Scriptures"
+    }
+  ],
+  "slug": "new-testament",
+  "title": "New Testament",
+  "type": "index"
+}

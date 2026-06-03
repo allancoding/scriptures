@@ -1,0 +1,38 @@
+{
+  "_id": "tg-observation",
+  "content": [
+    {
+      "text": "kingdom of God cometh not with observation, Luke 17:20.",
+      "references": [
+        {
+          "text": "Luke 17:20",
+          "start": 44,
+          "end": 54,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 17,
+            "chapterId": "luke17",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-observe",
+      "slug": "observe",
+      "title": "Observe"
+    }
+  ],
+  "slug": "observation",
+  "title": "Observation",
+  "type": "tg"
+}

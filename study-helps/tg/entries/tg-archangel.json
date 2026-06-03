@@ -1,0 +1,61 @@
+{
+  "_id": "tg-archangel",
+  "content": [
+    {
+      "text": "with a shout, with the voice of the archangel, 1 Thes. 4:16. Michael the archangel, when contending with the devil, Jude 1:9.",
+      "references": [
+        {
+          "text": "1 Thes. 4:16",
+          "start": 47,
+          "end": 59,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-thes",
+            "book": "1thessalonians",
+            "chapter": 4,
+            "chapterId": "1thessalonians4",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jude 1:9",
+          "start": 116,
+          "end": 124,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "jude",
+            "book": "jude",
+            "chapter": 1,
+            "chapterId": "jude1",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-adam",
+      "slug": "adam",
+      "title": "Adam"
+    },
+    {
+      "entryId": "tg-angels",
+      "slug": "angels",
+      "title": "Angels"
+    }
+  ],
+  "slug": "archangel",
+  "title": "Archangel",
+  "type": "tg"
+}

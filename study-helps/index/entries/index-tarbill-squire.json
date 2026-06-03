@@ -1,0 +1,32 @@
+{
+  "_id": "index-tarbill-squire",
+  "content": [
+    {
+      "text": "Joseph and Emma Smith are married at home of, JS—H 1:58.",
+      "references": [
+        {
+          "text": "JS—H 1:58",
+          "start": 46,
+          "end": 55,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 58,
+                "end": 58
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "tarbill-squire",
+  "title": "Tarbill, Squire",
+  "type": "index"
+}

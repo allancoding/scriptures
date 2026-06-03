@@ -1,0 +1,89 @@
+{
+  "_id": "tg-offspring",
+  "content": [
+    {
+      "text": "poets have said, For we are also his offspring, Acts 17:28. I am the root and the offspring of David, Rev. 22:16.",
+      "references": [
+        {
+          "text": "Acts 17:28",
+          "start": 48,
+          "end": 58,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 17,
+            "chapterId": "acts17",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 22:16",
+          "start": 102,
+          "end": 112,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 22,
+            "chapterId": "revelation22",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "offspring of thy bowels like the gravel thereof, 1 Ne. 20:19.",
+      "references": [
+        {
+          "text": "1 Ne. 20:19",
+          "start": 49,
+          "end": 60,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 20,
+            "chapterId": "1nephi20",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-heir",
+      "slug": "heir",
+      "title": "Heir"
+    },
+    {
+      "entryId": "tg-posterity",
+      "slug": "posterity",
+      "title": "Posterity"
+    },
+    {
+      "entryId": "tg-seed",
+      "slug": "seed",
+      "title": "Seed"
+    }
+  ],
+  "slug": "offspring",
+  "title": "Offspring",
+  "type": "tg"
+}

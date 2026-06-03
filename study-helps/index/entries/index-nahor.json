@@ -1,0 +1,32 @@
+{
+  "_id": "index-nahor",
+  "content": [
+    {
+      "text": "brother of Abraham, Abr. 2:2.",
+      "references": [
+        {
+          "text": "Abr. 2:2",
+          "start": 20,
+          "end": 28,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 2,
+            "chapterId": "abraham2",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "nahor",
+  "title": "Nahor",
+  "type": "index"
+}

@@ -1,0 +1,184 @@
+{
+  "_id": "tg-supplication",
+  "content": [
+    {
+      "text": "we do not present our supplications before thee, Dan. 9:18.",
+      "references": [
+        {
+          "text": "Dan. 9:18",
+          "start": 49,
+          "end": 58,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 9,
+            "chapterId": "daniel9",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "all continued … in prayer and supplication, Acts 1:14. every thing by prayer and supplication, Philip. 4:6. widow … continueth in supplications and prayers, 1 Tim. 5:5.",
+      "references": [
+        {
+          "text": "Acts 1:14",
+          "start": 44,
+          "end": 53,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 1,
+            "chapterId": "acts1",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Philip. 4:6",
+          "start": 95,
+          "end": 106,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "philip",
+            "book": "philippians",
+            "chapter": 4,
+            "chapterId": "philippians4",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Tim. 5:5",
+          "start": 157,
+          "end": 167,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 5,
+            "chapterId": "1timothy5",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "cried unto him in mighty prayer and supplication, Enos 1:4. Neither would they … continue in prayer and supplication, Alma 31:10.",
+      "references": [
+        {
+          "text": "Enos 1:4",
+          "start": 50,
+          "end": 58,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "enos",
+            "book": "enos",
+            "chapter": 1,
+            "chapterId": "enos1",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 31:10",
+          "start": 118,
+          "end": 128,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 31,
+            "chapterId": "alma31",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "call on the Lord thy God with supplication, D&C 136:29.",
+      "references": [
+        {
+          "text": "D&C 136:29",
+          "start": 44,
+          "end": 54,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 136,
+            "chapterId": "doctrineandcovenants136",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "I betook myself to prayer and supplication, JS—H 1:29.",
+      "references": [
+        {
+          "text": "JS—H 1:29",
+          "start": 44,
+          "end": 53,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-prayer",
+      "slug": "prayer",
+      "title": "Prayer"
+    }
+  ],
+  "slug": "supplication",
+  "title": "Supplication",
+  "type": "tg"
+}

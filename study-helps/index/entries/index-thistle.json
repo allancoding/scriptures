@@ -1,0 +1,91 @@
+{
+  "_id": "index-thistle",
+  "content": [
+    {
+      "text": "thou shalt be as blossoms of thistle, Mosiah 12:12. do men gather figs of thistles, 3 Ne. 14:16 (Matt. 7:16).",
+      "references": [
+        {
+          "text": "Mosiah 12:12",
+          "start": 38,
+          "end": 50,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 12,
+            "chapterId": "mosiah12",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 14:16",
+          "start": 84,
+          "end": 95,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 14,
+            "chapterId": "3nephi14",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 7:16",
+          "start": 97,
+          "end": 107,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 7,
+            "chapterId": "matthew7",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "land shall bring forth thorns and thistles, Moses 4:24.",
+      "references": [
+        {
+          "text": "Moses 4:24",
+          "start": 44,
+          "end": 54,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 4,
+            "chapterId": "moses4",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "thistle",
+  "title": "Thistle",
+  "type": "index"
+}

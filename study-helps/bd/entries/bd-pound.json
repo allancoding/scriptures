@@ -1,0 +1,36 @@
+{
+  "_id": "bd-pound",
+  "content": [
+    {
+      "text": "(1) A weight (see Weights and measures).",
+      "references": []
+    },
+    {
+      "text": "(2) In Luke 19:20, a mina (see Money).",
+      "references": [
+        {
+          "text": "Luke 19:20",
+          "start": 7,
+          "end": 17,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 19,
+            "chapterId": "luke19",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "pound",
+  "title": "Pound",
+  "type": "bd"
+}

@@ -1,0 +1,96 @@
+{
+  "_id": "tg-golden",
+  "content": [
+    {
+      "text": "Break off the golden earrings, Ex. 32:2. nor worship the golden image, Dan. 3:18.",
+      "references": [
+        {
+          "text": "Ex. 32:2",
+          "start": 31,
+          "end": 39,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 32,
+            "chapterId": "exodus32",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 3:18",
+          "start": 71,
+          "end": 80,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 3,
+            "chapterId": "daniel3",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "I saw seven golden candlesticks, Rev. 1:12.",
+      "references": [
+        {
+          "text": "Rev. 1:12",
+          "start": 33,
+          "end": 42,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 1,
+            "chapterId": "revelation1",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "golden calf for the worship of my people, D&C 124:84.",
+      "references": [
+        {
+          "text": "D&C 124:84",
+          "start": 42,
+          "end": 52,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 124,
+            "chapterId": "doctrineandcovenants124",
+            "verses": [
+              {
+                "start": 84,
+                "end": 84
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "golden",
+  "title": "Golden",
+  "type": "tg"
+}

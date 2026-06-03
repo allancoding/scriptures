@@ -1,0 +1,38 @@
+{
+  "_id": "index-flies",
+  "content": [
+    {
+      "text": "God will send flies to eat wicked, D&C 29:18.",
+      "references": [
+        {
+          "text": "D&C 29:18",
+          "start": 35,
+          "end": 44,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 29,
+            "chapterId": "doctrineandcovenants29",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-plague",
+      "slug": "plague",
+      "title": "Plague"
+    }
+  ],
+  "slug": "flies",
+  "title": "Flies",
+  "type": "index"
+}

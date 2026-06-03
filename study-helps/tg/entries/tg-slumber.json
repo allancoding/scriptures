@@ -1,0 +1,233 @@
+{
+  "_id": "tg-slumber",
+  "content": [
+    {
+      "text": "he that keepeth thee will not slumber, Ps. 121:3. Yet a little sleep, a little slumber, Prov. 6:10 (24:33). none shall slumber nor sleep, Isa. 5:27 (2 Ne. 15:27).",
+      "references": [
+        {
+          "text": "Ps. 121:3",
+          "start": 39,
+          "end": 48,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 121,
+            "chapterId": "psalms121",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 6:10",
+          "start": 88,
+          "end": 98,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 6,
+            "chapterId": "proverbs6",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "24:33",
+          "start": 100,
+          "end": 105,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 24,
+            "chapterId": "proverbs24",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 5:27",
+          "start": 138,
+          "end": 147,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 5,
+            "chapterId": "isaiah5",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 15:27",
+          "start": 149,
+          "end": 160,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 15,
+            "chapterId": "2nephi15",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "While the bridegroom tarried, they all slumbered, Matt. 25:5. God hath given them the spirit of slumber, Rom. 11:8. their damnation slumbereth not, 2 Pet. 2:3.",
+      "references": [
+        {
+          "text": "Matt. 25:5",
+          "start": 50,
+          "end": 60,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 25,
+            "chapterId": "matthew25",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 11:8",
+          "start": 105,
+          "end": 114,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 11,
+            "chapterId": "romans11",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Pet. 2:3",
+          "start": 148,
+          "end": 158,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-pet",
+            "book": "2peter",
+            "chapter": 2,
+            "chapterId": "2peter2",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "the words of them which have slumbered, 2 Ne. 27:6. shake yourselves that ye may awake from the slumber of death, Jacob 3:11.",
+      "references": [
+        {
+          "text": "2 Ne. 27:6",
+          "start": 40,
+          "end": 50,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 27,
+            "chapterId": "2nephi27",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jacob 3:11",
+          "start": 114,
+          "end": 124,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 3,
+            "chapterId": "jacob3",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "let not the inhabitants of the earth slumber, because of thy speech, D&C 112:5.",
+      "references": [
+        {
+          "text": "D&C 112:5",
+          "start": 69,
+          "end": 78,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 112,
+            "chapterId": "doctrineandcovenants112",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-sleep",
+      "slug": "sleep",
+      "title": "Sleep"
+    }
+  ],
+  "slug": "slumber",
+  "title": "Slumber",
+  "type": "tg"
+}

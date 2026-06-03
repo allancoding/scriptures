@@ -1,0 +1,61 @@
+{
+  "_id": "tg-wake",
+  "content": [
+    {
+      "text": "watchman waketh but in vain, Ps. 127:1.",
+      "references": [
+        {
+          "text": "Ps. 127:1",
+          "start": 29,
+          "end": 38,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 127,
+            "chapterId": "psalms127",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "whether we wake or sleep, we should live … with him, 1 Thes. 5:10.",
+      "references": [
+        {
+          "text": "1 Thes. 5:10",
+          "start": 53,
+          "end": 65,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-thes",
+            "book": "1thessalonians",
+            "chapter": 5,
+            "chapterId": "1thessalonians5",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-awake",
+      "slug": "awake",
+      "title": "Awake"
+    }
+  ],
+  "slug": "wake",
+  "title": "Wake",
+  "type": "tg"
+}

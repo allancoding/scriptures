@@ -1,0 +1,73 @@
+{
+  "_id": "tg-overseer",
+  "content": [
+    {
+      "text": "made him overseer over his house, Gen. 39:4. having no guide, overseer, or ruler, Prov. 6:7.",
+      "references": [
+        {
+          "text": "Gen. 39:4",
+          "start": 34,
+          "end": 43,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 39,
+            "chapterId": "genesis39",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 6:7",
+          "start": 82,
+          "end": 91,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 6,
+            "chapterId": "proverbs6",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Holy Ghost hath made you overseers, Acts 20:28.",
+      "references": [
+        {
+          "text": "Acts 20:28",
+          "start": 36,
+          "end": 46,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 20,
+            "chapterId": "acts20",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "overseer",
+  "title": "Overseer",
+  "type": "tg"
+}

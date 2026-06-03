@@ -1,0 +1,50 @@
+{
+  "_id": "bd-onesimus",
+  "content": [
+    {
+      "text": "Profitable. Of Colosse (Col. 4:9); a runaway slave of Philemon, converted by Paul, and sent back to his master with a letter from Paul (Philem. 1:10).",
+      "references": [
+        {
+          "text": "Col. 4:9",
+          "start": 24,
+          "end": 32,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "col",
+            "book": "colossians",
+            "chapter": 4,
+            "chapterId": "colossians4",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Philem. 1:10",
+          "start": 136,
+          "end": 148,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "philem",
+            "book": "philemon",
+            "chapter": 1,
+            "chapterId": "philemon1",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "onesimus",
+  "title": "Onesimus",
+  "type": "bd"
+}

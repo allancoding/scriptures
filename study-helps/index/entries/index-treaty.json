@@ -1,0 +1,84 @@
+{
+  "_id": "index-treaty",
+  "content": [
+    {
+      "text": "Laman2 enters treaty with Zeniff, Mosiah 7:21 (9:2). Nephites make treaty with Lamanites, Morm. 2:28.",
+      "references": [
+        {
+          "text": "Mosiah 7:21",
+          "start": 34,
+          "end": 45,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 7,
+            "chapterId": "mosiah7",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "9:2",
+          "start": 47,
+          "end": 50,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 9,
+            "chapterId": "mosiah9",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 2:28",
+          "start": 90,
+          "end": 100,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 2,
+            "chapterId": "mormon2",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-covenant",
+      "slug": "covenant",
+      "title": "Covenant"
+    },
+    {
+      "entryId": "index-oath",
+      "slug": "oath",
+      "title": "Oath"
+    },
+    {
+      "entryId": "index-promise",
+      "slug": "promise",
+      "title": "Promise"
+    }
+  ],
+  "slug": "treaty",
+  "title": "Treaty",
+  "type": "index"
+}

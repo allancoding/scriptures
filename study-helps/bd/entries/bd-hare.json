@@ -1,0 +1,50 @@
+{
+  "_id": "bd-hare",
+  "content": [
+    {
+      "text": "Mentioned only in Lev. 11:6 and Deut. 14:7 as an animal forbidden as food, not having a cloven hoof.",
+      "references": [
+        {
+          "text": "Lev. 11:6",
+          "start": 18,
+          "end": 27,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 11,
+            "chapterId": "leviticus11",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 14:7",
+          "start": 32,
+          "end": 42,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 14,
+            "chapterId": "deuteronomy14",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "hare",
+  "title": "Hare",
+  "type": "bd"
+}

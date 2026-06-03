@@ -1,0 +1,50 @@
+{
+  "_id": "bd-cummin",
+  "content": [
+    {
+      "text": "An umbelliferous plant (Cuminum sativum) used as a condiment and stimulant (Isa. 28:27). It was one of the small garden herbs tithed by the Pharisees (Matt. 23:23).",
+      "references": [
+        {
+          "text": "Isa. 28:27",
+          "start": 76,
+          "end": 86,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 28,
+            "chapterId": "isaiah28",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 23:23",
+          "start": 151,
+          "end": 162,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 23,
+            "chapterId": "matthew23",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "cummin",
+  "title": "Cummin",
+  "type": "bd"
+}

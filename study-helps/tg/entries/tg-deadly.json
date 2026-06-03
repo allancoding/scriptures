@@ -1,0 +1,86 @@
+{
+  "_id": "tg-deadly",
+  "content": [
+    {
+      "text": "drink any deadly thing, it shall not hurt, Mark 16:18 (Morm. 9:24). tongue … is an unruly evil, full of deadly poison, James 3:8. his deadly wound was healed, Rev. 13:3.",
+      "references": [
+        {
+          "text": "Mark 16:18",
+          "start": 43,
+          "end": 53,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 16,
+            "chapterId": "mark16",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 9:24",
+          "start": 55,
+          "end": 65,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 9,
+            "chapterId": "mormon9",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "James 3:8",
+          "start": 119,
+          "end": 128,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "james",
+            "book": "james",
+            "chapter": 3,
+            "chapterId": "james3",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 13:3",
+          "start": 159,
+          "end": 168,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 13,
+            "chapterId": "revelation13",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "deadly",
+  "title": "Deadly",
+  "type": "tg"
+}

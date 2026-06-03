@@ -1,0 +1,71 @@
+{
+  "_id": "index-mend",
+  "content": [
+    {
+      "text": "Nephites do not mend their ways, Hel. 11:36.",
+      "references": [
+        {
+          "text": "Hel. 11:36",
+          "start": 33,
+          "end": 43,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 11,
+            "chapterId": "helaman11",
+            "verses": [
+              {
+                "start": 36,
+                "end": 36
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "idler shall not have place in Church unless he mends his ways, D&C 75:29.",
+      "references": [
+        {
+          "text": "D&C 75:29",
+          "start": 63,
+          "end": 72,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 75,
+            "chapterId": "doctrineandcovenants75",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-change",
+      "slug": "change",
+      "title": "Change"
+    },
+    {
+      "entryId": "index-repair",
+      "slug": "repair",
+      "title": "Repair"
+    },
+    {
+      "entryId": "index-repentance",
+      "slug": "repentance",
+      "title": "Repentance"
+    }
+  ],
+  "slug": "mend",
+  "title": "Mend",
+  "type": "index"
+}

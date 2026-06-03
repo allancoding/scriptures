@@ -1,0 +1,38 @@
+{
+  "_id": "index-viper",
+  "content": [
+    {
+      "text": "generation of vipers, D&C 121:23.",
+      "references": [
+        {
+          "text": "D&C 121:23",
+          "start": 22,
+          "end": 32,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-serpent",
+      "slug": "serpent",
+      "title": "Serpent"
+    }
+  ],
+  "slug": "viper",
+  "title": "Viper",
+  "type": "index"
+}

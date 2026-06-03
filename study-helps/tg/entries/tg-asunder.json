@@ -1,0 +1,50 @@
+{
+  "_id": "tg-asunder",
+  "content": [
+    {
+      "text": "God hath joined together, let not man put asunder, Matt. 19:6 (Mark 10:9).",
+      "references": [
+        {
+          "text": "Matt. 19:6",
+          "start": 51,
+          "end": 61,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 19,
+            "chapterId": "matthew19",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 10:9",
+          "start": 63,
+          "end": 72,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 10,
+            "chapterId": "mark10",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "asunder",
+  "title": "Asunder",
+  "type": "tg"
+}

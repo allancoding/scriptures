@@ -1,0 +1,32 @@
+{
+  "_id": "tg-appeal",
+  "content": [
+    {
+      "text": "I appeal unto Cæsar, Acts 25:11.",
+      "references": [
+        {
+          "text": "Acts 25:11",
+          "start": 21,
+          "end": 31,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 25,
+            "chapterId": "acts25",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "appeal",
+  "title": "Appeal",
+  "type": "tg"
+}

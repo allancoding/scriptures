@@ -1,0 +1,110 @@
+{
+  "_id": "index-sister",
+  "content": [
+    {
+      "text": "sisters of Nephi1 go with him, 2 Ne. 5:6.",
+      "references": [
+        {
+          "text": "2 Ne. 5:6",
+          "start": 31,
+          "end": 40,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 5,
+            "chapterId": "2nephi5",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "if brother or sister offends, be reconciled, D&C 42:88, 90.",
+      "references": [
+        {
+          "text": "D&C 42:88, 90",
+          "start": 45,
+          "end": 58,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 42,
+            "chapterId": "doctrineandcovenants42",
+            "verses": [
+              {
+                "start": 88,
+                "end": 88
+              },
+              {
+                "start": 90,
+                "end": 90
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Abraham is instructed to tell Egyptians Sarai is his sister, Abr. 2:24–25. Joseph Smith’s sisters, Sophronia, Catherine, Lucy, JS—H 1:4, 7.",
+      "references": [
+        {
+          "text": "Abr. 2:24–25",
+          "start": 61,
+          "end": 73,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 2,
+            "chapterId": "abraham2",
+            "verses": [
+              {
+                "start": 24,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "JS—H 1:4, 7",
+          "start": 127,
+          "end": 138,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              },
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-family",
+      "slug": "family",
+      "title": "Family"
+    }
+  ],
+  "slug": "sister",
+  "title": "Sister",
+  "type": "index"
+}

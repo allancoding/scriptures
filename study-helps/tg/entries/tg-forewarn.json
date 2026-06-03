@@ -1,0 +1,50 @@
+{
+  "_id": "tg-forewarn",
+  "content": [
+    {
+      "text": "I will forewarn you whom ye shall fear, Luke 12:5. as we also have forewarned you, 1 Thes. 4:6.",
+      "references": [
+        {
+          "text": "Luke 12:5",
+          "start": 40,
+          "end": 49,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 12,
+            "chapterId": "luke12",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Thes. 4:6",
+          "start": 83,
+          "end": 94,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-thes",
+            "book": "1thessalonians",
+            "chapter": 4,
+            "chapterId": "1thessalonians4",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "forewarn",
+  "title": "Forewarn",
+  "type": "tg"
+}

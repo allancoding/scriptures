@@ -1,0 +1,43 @@
+{
+  "_id": "index-urge",
+  "content": [
+    {
+      "text": "Mormon2 urges Nephites to stand boldly before Lamanites, Morm. 2:23.",
+      "references": [
+        {
+          "text": "Morm. 2:23",
+          "start": 57,
+          "end": 67,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 2,
+            "chapterId": "mormon2",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-exhort",
+      "slug": "exhort",
+      "title": "Exhort"
+    },
+    {
+      "entryId": "index-persuade",
+      "slug": "persuade",
+      "title": "Persuade"
+    }
+  ],
+  "slug": "urge",
+  "title": "Urge",
+  "type": "index"
+}

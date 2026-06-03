@@ -1,0 +1,73 @@
+{
+  "_id": "index-keeper",
+  "content": [
+    {
+      "text": "keeper of gate is the Holy One, 2 Ne. 9:41.",
+      "references": [
+        {
+          "text": "2 Ne. 9:41",
+          "start": 32,
+          "end": 42,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 9,
+            "chapterId": "2nephi9",
+            "verses": [
+              {
+                "start": 41,
+                "end": 41
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Abel keeper of sheep, Moses 5:17. am I my brother’s keeper, Moses 5:34.",
+      "references": [
+        {
+          "text": "Moses 5:17",
+          "start": 22,
+          "end": 32,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 5,
+            "chapterId": "moses5",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 5:34",
+          "start": 60,
+          "end": 70,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 5,
+            "chapterId": "moses5",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "keeper",
+  "title": "Keeper",
+  "type": "index"
+}

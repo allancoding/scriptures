@@ -1,0 +1,56 @@
+{
+  "_id": "index-shiblum",
+  "content": [
+    {
+      "text": "shiblum is half a shiblon, Alma 11:16. leah is half a shiblum, Alma 11:17.",
+      "references": [
+        {
+          "text": "Alma 11:16",
+          "start": 27,
+          "end": 37,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 11,
+            "chapterId": "alma11",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 11:17",
+          "start": 63,
+          "end": 73,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 11,
+            "chapterId": "alma11",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-money-nephite",
+      "slug": "money-nephite",
+      "title": "Money, Nephite"
+    }
+  ],
+  "slug": "shiblum",
+  "title": "Shiblum—Nephite money",
+  "type": "index"
+}

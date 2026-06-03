@@ -1,0 +1,63 @@
+{
+  "_id": "bd-heth",
+  "content": [
+    {
+      "text": "A descendant of Ham, and father of the Hittites (Gen. 10:15; 23; 27:46).",
+      "references": [
+        {
+          "text": "Gen. 10:15",
+          "start": 49,
+          "end": 59,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 10,
+            "chapterId": "genesis10",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "23",
+          "start": 61,
+          "end": 63,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 23,
+            "chapterId": "genesis23",
+            "verses": []
+          }
+        },
+        {
+          "text": "27:46",
+          "start": 65,
+          "end": 70,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 27,
+            "chapterId": "genesis27",
+            "verses": [
+              {
+                "start": 46,
+                "end": 46
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "heth",
+  "title": "Heth",
+  "type": "bd"
+}

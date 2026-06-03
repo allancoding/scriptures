@@ -1,0 +1,143 @@
+{
+  "_id": "tg-worth",
+  "content": [
+    {
+      "text": "thou art worth ten thousand of us, 2 Sam. 18:3. heart of the wicked is little worth, Prov. 10:20.",
+      "references": [
+        {
+          "text": "2 Sam. 18:3",
+          "start": 35,
+          "end": 46,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-sam",
+            "book": "2samuel",
+            "chapter": 18,
+            "chapterId": "2samuel18",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 10:20",
+          "start": 85,
+          "end": 96,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 10,
+            "chapterId": "proverbs10",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "records … of great worth, 1 Ne. 5:21. of worth unto the children of men, 2 Ne. 25:8. I esteem it as of great worth, 2 Ne. 33:3. dross, which the refiners do cast out, (it being of no worth), Alma 34:29.",
+      "references": [
+        {
+          "text": "1 Ne. 5:21",
+          "start": 26,
+          "end": 36,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 5,
+            "chapterId": "1nephi5",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 25:8",
+          "start": 73,
+          "end": 83,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 25,
+            "chapterId": "2nephi25",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 33:3",
+          "start": 116,
+          "end": 126,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 33,
+            "chapterId": "2nephi33",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 34:29",
+          "start": 191,
+          "end": 201,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 34,
+            "chapterId": "alma34",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-value",
+      "slug": "value",
+      "title": "Value"
+    },
+    {
+      "entryId": "tg-worthiness",
+      "slug": "worthiness",
+      "title": "Worthiness"
+    },
+    {
+      "entryId": "tg-worth-of-souls",
+      "slug": "worth-of-souls",
+      "title": "Worth of Souls"
+    }
+  ],
+  "slug": "worth",
+  "title": "Worth",
+  "type": "tg"
+}

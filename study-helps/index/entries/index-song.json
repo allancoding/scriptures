@@ -1,0 +1,192 @@
+{
+  "_id": "index-song",
+  "content": [
+    {
+      "text": "the Lord delights in song of heart, D&C 25:12. sing songs of everlasting joy, D&C 45:71 (66:11; 101:18; 109:39; 133:33). all who remain will sing new song, D&C 84:98–102. resurrected Saints will sing song of the Lamb, D&C 133:56.",
+      "references": [
+        {
+          "text": "D&C 25:12",
+          "start": 36,
+          "end": 45,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 25,
+            "chapterId": "doctrineandcovenants25",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 45:71",
+          "start": 78,
+          "end": 87,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 45,
+            "chapterId": "doctrineandcovenants45",
+            "verses": [
+              {
+                "start": 71,
+                "end": 71
+              }
+            ]
+          }
+        },
+        {
+          "text": "66:11",
+          "start": 89,
+          "end": 94,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 66,
+            "chapterId": "doctrineandcovenants66",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "101:18",
+          "start": 96,
+          "end": 102,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 101,
+            "chapterId": "doctrineandcovenants101",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "109:39",
+          "start": 104,
+          "end": 110,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 109,
+            "chapterId": "doctrineandcovenants109",
+            "verses": [
+              {
+                "start": 39,
+                "end": 39
+              }
+            ]
+          }
+        },
+        {
+          "text": "133:33",
+          "start": 112,
+          "end": 118,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 133,
+            "chapterId": "doctrineandcovenants133",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 84:98–102",
+          "start": 156,
+          "end": 169,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 84,
+            "chapterId": "doctrineandcovenants84",
+            "verses": [
+              {
+                "start": 98,
+                "end": 102
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 133:56",
+          "start": 218,
+          "end": 228,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 133,
+            "chapterId": "doctrineandcovenants133",
+            "verses": [
+              {
+                "start": 56,
+                "end": 56
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "they shall come forth with songs of everlasting joy, Moses 7:53.",
+      "references": [
+        {
+          "text": "Moses 7:53",
+          "start": 53,
+          "end": 63,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 7,
+            "chapterId": "moses7",
+            "verses": [
+              {
+                "start": 53,
+                "end": 53
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-hymn",
+      "slug": "hymn",
+      "title": "Hymn"
+    },
+    {
+      "entryId": "index-sing",
+      "slug": "sing",
+      "title": "Sing"
+    }
+  ],
+  "slug": "song",
+  "title": "Song",
+  "type": "index"
+}

@@ -1,0 +1,84 @@
+{
+  "_id": "index-commission",
+  "content": [
+    {
+      "text": "having been commissioned of Jesus Christ, I baptize you, D&C 20:73. Saints to be prepared to magnify mission with which the Lord has commissioned them, D&C 88:80. the Lord commissioned messengers to carry gospel to spirits in darkness, D&C 138:30.",
+      "references": [
+        {
+          "text": "D&C 20:73",
+          "start": 57,
+          "end": 66,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 20,
+            "chapterId": "doctrineandcovenants20",
+            "verses": [
+              {
+                "start": 73,
+                "end": 73
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 88:80",
+          "start": 152,
+          "end": 161,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 80,
+                "end": 80
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 138:30",
+          "start": 236,
+          "end": 246,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 138,
+            "chapterId": "doctrineandcovenants138",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-authority",
+      "slug": "authority",
+      "title": "Authority"
+    },
+    {
+      "entryId": "index-calling",
+      "slug": "calling",
+      "title": "Calling"
+    },
+    {
+      "entryId": "index-errand",
+      "slug": "errand",
+      "title": "Errand"
+    }
+  ],
+  "slug": "commission",
+  "title": "Commission",
+  "type": "index"
+}

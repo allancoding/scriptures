@@ -1,0 +1,104 @@
+{
+  "_id": "bd-convince",
+  "content": [
+    {
+      "text": "To convict of wrongdoing or prove guilty in Job 23:12 and John 8:46. To persuade in argument in Acts 18:28; 1 Cor. 14:24; Titus 1:9.",
+      "references": [
+        {
+          "text": "Job 23:12",
+          "start": 44,
+          "end": 53,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "job",
+            "book": "job",
+            "chapter": 23,
+            "chapterId": "job23",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 8:46",
+          "start": 58,
+          "end": 67,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 8,
+            "chapterId": "john8",
+            "verses": [
+              {
+                "start": 46,
+                "end": 46
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 18:28",
+          "start": 96,
+          "end": 106,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 18,
+            "chapterId": "acts18",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 14:24",
+          "start": 108,
+          "end": 120,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 14,
+            "chapterId": "1corinthians14",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Titus 1:9",
+          "start": 122,
+          "end": 131,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "titus",
+            "book": "titus",
+            "chapter": 1,
+            "chapterId": "titus1",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "convince",
+  "title": "Convince",
+  "type": "bd"
+}

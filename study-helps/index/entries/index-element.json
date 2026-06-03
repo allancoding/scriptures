@@ -1,0 +1,138 @@
+{
+  "_id": "index-element",
+  "content": [
+    {
+      "text": "elements shall melt with fervent heat, 3 Ne. 26:3 (Morm. 9:2).",
+      "references": [
+        {
+          "text": "3 Ne. 26:3",
+          "start": 39,
+          "end": 49,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 26,
+            "chapterId": "3nephi26",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 9:2",
+          "start": 51,
+          "end": 60,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 9,
+            "chapterId": "mormon9",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "elements are eternal, D&C 93:33. spirit and element inseparably connected receive fulness of joy, D&C 93:33. elements are tabernacle of God, D&C 93:35. element shall melt with fervent heat, D&C 101:25.",
+      "references": [
+        {
+          "text": "D&C 93:33",
+          "start": 22,
+          "end": 31,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 93,
+            "chapterId": "doctrineandcovenants93",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 93:33",
+          "start": 98,
+          "end": 107,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 93,
+            "chapterId": "doctrineandcovenants93",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 93:35",
+          "start": 141,
+          "end": 150,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 93,
+            "chapterId": "doctrineandcovenants93",
+            "verses": [
+              {
+                "start": 35,
+                "end": 35
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 101:25",
+          "start": 190,
+          "end": 200,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 101,
+            "chapterId": "doctrineandcovenants101",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-materials",
+      "slug": "materials",
+      "title": "Materials"
+    },
+    {
+      "entryId": "index-matter",
+      "slug": "matter",
+      "title": "Matter"
+    }
+  ],
+  "slug": "element",
+  "title": "Element",
+  "type": "index"
+}

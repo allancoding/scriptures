@@ -1,0 +1,114 @@
+{
+  "_id": "tg-errand",
+  "content": [
+    {
+      "text": "will not eat, until I have told mine errand, Gen. 24:33. I have a secret errand unto thee, Judg. 3:19.",
+      "references": [
+        {
+          "text": "Gen. 24:33",
+          "start": 45,
+          "end": 55,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 24,
+            "chapterId": "genesis24",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "Judg. 3:19",
+          "start": 91,
+          "end": 101,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "judg",
+            "book": "judges",
+            "chapter": 3,
+            "chapterId": "judges3",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "first obtained mine errand from the Lord, Jacob 1:17.",
+      "references": [
+        {
+          "text": "Jacob 1:17",
+          "start": 42,
+          "end": 52,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 1,
+            "chapterId": "jacob1",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "ye are on the Lord’s errand, D&C 64:29 (133:58).",
+      "references": [
+        {
+          "text": "D&C 64:29",
+          "start": 29,
+          "end": 38,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 64,
+            "chapterId": "doctrineandcovenants64",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "133:58",
+          "start": 40,
+          "end": 46,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 133,
+            "chapterId": "doctrineandcovenants133",
+            "verses": [
+              {
+                "start": 58,
+                "end": 58
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "errand",
+  "title": "Errand",
+  "type": "tg"
+}

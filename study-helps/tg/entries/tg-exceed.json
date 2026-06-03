@@ -1,0 +1,79 @@
+{
+  "_id": "tg-exceed",
+  "content": [
+    {
+      "text": "righteousness shall exceed the righteousness of the scribes and Pharisees, Matt. 5:20.",
+      "references": [
+        {
+          "text": "Matt. 5:20",
+          "start": 75,
+          "end": 85,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 5,
+            "chapterId": "matthew5",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "brightness did exceed that of the stars, 1 Ne. 1:10. fruit … to exceed all the whiteness, 1 Ne. 8:11.",
+      "references": [
+        {
+          "text": "1 Ne. 1:10",
+          "start": 41,
+          "end": 51,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 1,
+            "chapterId": "1nephi1",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Ne. 8:11",
+          "start": 90,
+          "end": 100,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 8,
+            "chapterId": "1nephi8",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-pass",
+      "slug": "pass",
+      "title": "Pass"
+    }
+  ],
+  "slug": "exceed",
+  "title": "Exceed",
+  "type": "tg"
+}

@@ -1,0 +1,68 @@
+{
+  "_id": "bd-philemon",
+  "content": [
+    {
+      "text": "Of Colosse (Col. 4:9; Philem. 1:10), converted by Paul (Philem. 1:1). He was the owner of the slave Onesimus, who ran away and joined Paul and was sent back by him with a letter to his master. See Pauline Epistles.",
+      "references": [
+        {
+          "text": "Col. 4:9",
+          "start": 12,
+          "end": 20,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "col",
+            "book": "colossians",
+            "chapter": 4,
+            "chapterId": "colossians4",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Philem. 1:10",
+          "start": 22,
+          "end": 34,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "philem",
+            "book": "philemon",
+            "chapter": 1,
+            "chapterId": "philemon1",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Philem. 1:1",
+          "start": 56,
+          "end": 67,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "philem",
+            "book": "philemon",
+            "chapter": 1,
+            "chapterId": "philemon1",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "philemon",
+  "title": "Philemon",
+  "type": "bd"
+}

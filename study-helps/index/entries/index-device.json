@@ -1,0 +1,61 @@
+{
+  "_id": "index-device",
+  "content": [
+    {
+      "text": "Zeezrom is expert in devices of devil, Alma 11:21. devil works devices that he may destroy children of God, Alma 30:42.",
+      "references": [
+        {
+          "text": "Alma 11:21",
+          "start": 39,
+          "end": 49,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 11,
+            "chapterId": "alma11",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 30:42",
+          "start": 108,
+          "end": 118,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 30,
+            "chapterId": "alma30",
+            "verses": [
+              {
+                "start": 42,
+                "end": 42
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-cunning",
+      "slug": "cunning",
+      "title": "Cunning"
+    },
+    {
+      "entryId": "index-deceit",
+      "slug": "deceit",
+      "title": "Deceit"
+    }
+  ],
+  "slug": "device",
+  "title": "Device",
+  "type": "index"
+}

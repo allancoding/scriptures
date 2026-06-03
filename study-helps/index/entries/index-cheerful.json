@@ -1,0 +1,79 @@
+{
+  "_id": "index-cheerful",
+  "content": [
+    {
+      "text": "Alma1 and his followers submit cheerfully to will of the Lord, Mosiah 24:15.",
+      "references": [
+        {
+          "text": "Mosiah 24:15",
+          "start": 63,
+          "end": 75,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 24,
+            "chapterId": "mosiah24",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "fast with cheerful hearts and countenances, D&C 59:15. cheerfully do all things, D&C 123:17.",
+      "references": [
+        {
+          "text": "D&C 59:15",
+          "start": 44,
+          "end": 53,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 59,
+            "chapterId": "doctrineandcovenants59",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 123:17",
+          "start": 81,
+          "end": 91,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 123,
+            "chapterId": "doctrineandcovenants123",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-cheer",
+      "slug": "cheer",
+      "title": "Cheer"
+    }
+  ],
+  "slug": "cheerful",
+  "title": "Cheerful, Cheerfully",
+  "type": "index"
+}

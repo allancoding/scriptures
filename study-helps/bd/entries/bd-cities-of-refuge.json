@@ -1,0 +1,63 @@
+{
+  "_id": "bd-cities-of-refuge",
+  "content": [
+    {
+      "text": "Six cities, three on each side of Jordan (that is, Kedesh, Shechem, and Hebron, on the western side, and Bezer, Ramoth, and Golan on the eastern side), in which a man who had accidentally committed homicide could take refuge from the avenger of blood. The regulations about the use of these cities are found in Num. 35:6–34; Deut. 19:1–13; Josh. 20.",
+      "references": [
+        {
+          "text": "Num. 35:6–34",
+          "start": 311,
+          "end": 323,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 35,
+            "chapterId": "numbers35",
+            "verses": [
+              {
+                "start": 6,
+                "end": 34
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 19:1–13",
+          "start": 325,
+          "end": 338,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 19,
+            "chapterId": "deuteronomy19",
+            "verses": [
+              {
+                "start": 1,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Josh. 20",
+          "start": 340,
+          "end": 348,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "josh",
+            "book": "joshua",
+            "chapter": 20,
+            "chapterId": "joshua20",
+            "verses": []
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "cities-of-refuge",
+  "title": "Cities of refuge",
+  "type": "bd"
+}

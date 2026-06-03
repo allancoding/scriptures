@@ -1,0 +1,83 @@
+{
+  "_id": "index-morrow",
+  "content": [
+    {
+      "text": "on morrow come I into world, 3 Ne. 1:13.",
+      "references": [
+        {
+          "text": "3 Ne. 1:13",
+          "start": 29,
+          "end": 39,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 1,
+            "chapterId": "3nephi1",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "take no thought for morrow, D&C 84:81, 84 (Matt. 6:34).",
+      "references": [
+        {
+          "text": "D&C 84:81, 84",
+          "start": 28,
+          "end": 41,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 84,
+            "chapterId": "doctrineandcovenants84",
+            "verses": [
+              {
+                "start": 81,
+                "end": 81
+              },
+              {
+                "start": 84,
+                "end": 84
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 6:34",
+          "start": 43,
+          "end": 53,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 6,
+            "chapterId": "matthew6",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-tomorrow",
+      "slug": "tomorrow",
+      "title": "Tomorrow"
+    }
+  ],
+  "slug": "morrow",
+  "title": "Morrow",
+  "type": "index"
+}

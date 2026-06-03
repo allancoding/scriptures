@@ -1,0 +1,50 @@
+{
+  "_id": "tg-brawler",
+  "content": [
+    {
+      "text": "patient, not a brawler, 1 Tim. 3:3. be no brawlers, Titus 3:2.",
+      "references": [
+        {
+          "text": "1 Tim. 3:3",
+          "start": 24,
+          "end": 34,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 3,
+            "chapterId": "1timothy3",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Titus 3:2",
+          "start": 52,
+          "end": 61,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "titus",
+            "book": "titus",
+            "chapter": 3,
+            "chapterId": "titus3",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "brawler",
+  "title": "Brawler",
+  "type": "tg"
+}

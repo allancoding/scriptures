@@ -1,0 +1,74 @@
+{
+  "_id": "tg-league",
+  "content": [
+    {
+      "text": "to Joshua … therefore make ye a league with us, Josh. 9:6. ye shall make no league with the inhabitants, Judg. 2:2. king David made a league with them in Hebron, 2 Sam. 5:3.",
+      "references": [
+        {
+          "text": "Josh. 9:6",
+          "start": 48,
+          "end": 57,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "josh",
+            "book": "joshua",
+            "chapter": 9,
+            "chapterId": "joshua9",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Judg. 2:2",
+          "start": 105,
+          "end": 114,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "judg",
+            "book": "judges",
+            "chapter": 2,
+            "chapterId": "judges2",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Sam. 5:3",
+          "start": 162,
+          "end": 172,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-sam",
+            "book": "2samuel",
+            "chapter": 5,
+            "chapterId": "2samuel5",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-covenants",
+      "slug": "covenants",
+      "title": "Covenants"
+    }
+  ],
+  "slug": "league",
+  "title": "League",
+  "type": "tg"
+}

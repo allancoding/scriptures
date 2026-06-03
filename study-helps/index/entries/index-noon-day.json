@@ -1,0 +1,61 @@
+{
+  "_id": "index-noon-day",
+  "content": [
+    {
+      "text": "Lehi1 sees one descending from heaven whose luster is above sun at noon-day, 1 Ne. 1:9.",
+      "references": [
+        {
+          "text": "1 Ne. 1:9",
+          "start": 77,
+          "end": 86,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 1,
+            "chapterId": "1nephi1",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "those not chosen sinned grievous sin in walking in darkness at noon-day, D&C 95:6.",
+      "references": [
+        {
+          "text": "D&C 95:6",
+          "start": 73,
+          "end": 81,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 95,
+            "chapterId": "doctrineandcovenants95",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-light",
+      "slug": "light",
+      "title": "Light"
+    }
+  ],
+  "slug": "noon-day",
+  "title": "Noon-Day",
+  "type": "index"
+}

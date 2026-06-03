@@ -1,0 +1,124 @@
+{
+  "_id": "index-sect",
+  "content": [
+    {
+      "text": "many among all sects are kept from truth only because they know not where to find it, D&C 123:12. that Father and Son dwell in man’s heart is sectarian notion, D&C 130:3.",
+      "references": [
+        {
+          "text": "D&C 123:12",
+          "start": 86,
+          "end": 96,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 123,
+            "chapterId": "doctrineandcovenants123",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 130:3",
+          "start": 160,
+          "end": 169,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 130,
+            "chapterId": "doctrineandcovenants130",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "contentions among sects, JS—H 1:5–6, 8–9. Joseph Smith desires to know which of sects is true, JS—H 1:18. all sects are wrong, JS—H 1:19.",
+      "references": [
+        {
+          "text": "JS—H 1:5–6, 8–9",
+          "start": 25,
+          "end": 40,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 5,
+                "end": 6
+              },
+              {
+                "start": 8,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "JS—H 1:18",
+          "start": 95,
+          "end": 104,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "JS—H 1:19",
+          "start": 127,
+          "end": 136,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-churches-false",
+      "slug": "churches-false",
+      "title": "Churches, False"
+    },
+    {
+      "entryId": "index-denominations",
+      "slug": "denominations",
+      "title": "Denominations"
+    }
+  ],
+  "slug": "sect",
+  "title": "Sect, Sectarian",
+  "type": "index"
+}

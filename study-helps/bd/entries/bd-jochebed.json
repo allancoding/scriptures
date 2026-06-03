@@ -1,0 +1,63 @@
+{
+  "_id": "bd-jochebed",
+  "content": [
+    {
+      "text": "Wife of Amram and mother of Moses and Aaron (Ex. 6:20; Num. 26:59). See also Ex. 2.",
+      "references": [
+        {
+          "text": "Ex. 6:20",
+          "start": 45,
+          "end": 53,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 6,
+            "chapterId": "exodus6",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 26:59",
+          "start": 55,
+          "end": 65,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 26,
+            "chapterId": "numbers26",
+            "verses": [
+              {
+                "start": 59,
+                "end": 59
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 2",
+          "start": 77,
+          "end": 82,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 2,
+            "chapterId": "exodus2",
+            "verses": []
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "jochebed",
+  "title": "Jochebed",
+  "type": "bd"
+}

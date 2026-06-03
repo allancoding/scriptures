@@ -1,0 +1,38 @@
+{
+  "_id": "tg-unction",
+  "content": [
+    {
+      "text": "ye have an unction from the Holy One, 1 Jn. 2:20.",
+      "references": [
+        {
+          "text": "1 Jn. 2:20",
+          "start": 38,
+          "end": 48,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-jn",
+            "book": "1john",
+            "chapter": 2,
+            "chapterId": "1john2",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-anointing",
+      "slug": "anointing",
+      "title": "Anointing"
+    }
+  ],
+  "slug": "unction",
+  "title": "Unction",
+  "type": "tg"
+}

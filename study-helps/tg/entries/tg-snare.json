@@ -1,0 +1,659 @@
+{
+  "_id": "tg-snare",
+  "content": [
+    {
+      "text": "How long shall this man be a snare unto us, Ex. 10:7. it will surely be a snare unto thee, Ex. 23:33 (Deut. 7:16). their gods shall be a snare, Judg. 2:3. wicked is snared in the work of his own hands, Ps. 9:16. Upon the wicked he shall rain snares, Ps. 11:6. Let their table become a snare, Ps. 69:22 (Rom. 11:9). he shall deliver thee from the snare, Ps. 91:3. idols: which were a snare unto them, Ps. 106:36. snare is broken, and we are escaped, Ps. 124:7. proud have hid a snare for me, Ps. 140:5. they privily laid a snare for me, Ps. 142:3. Thou art snared with the words of thy mouth, Prov. 6:2. as a bird hasteth to the snare, Prov. 7:23. wicked is snared by the transgression of his lips, Prov. 12:13. his lips are the snare of his soul, Prov. 18:7. Scornful men bring a city into a snare, Prov. 29:8. fear of man bringeth a snare, Prov. 29:25. sons of men snared in an evil time, Eccl. 9:12. fall, and be broken, and be snared, Isa. 8:15 (2 Ne. 18:15). prophet is a snare of a fowler, Hosea 9:8.",
+      "references": [
+        {
+          "text": "Ex. 10:7",
+          "start": 44,
+          "end": 52,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 10,
+            "chapterId": "exodus10",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 23:33",
+          "start": 91,
+          "end": 100,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 23,
+            "chapterId": "exodus23",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 7:16",
+          "start": 102,
+          "end": 112,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 7,
+            "chapterId": "deuteronomy7",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Judg. 2:3",
+          "start": 144,
+          "end": 153,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "judg",
+            "book": "judges",
+            "chapter": 2,
+            "chapterId": "judges2",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 9:16",
+          "start": 202,
+          "end": 210,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 9,
+            "chapterId": "psalms9",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 11:6",
+          "start": 250,
+          "end": 258,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 11,
+            "chapterId": "psalms11",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 69:22",
+          "start": 292,
+          "end": 301,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 69,
+            "chapterId": "psalms69",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 11:9",
+          "start": 303,
+          "end": 312,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 11,
+            "chapterId": "romans11",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 91:3",
+          "start": 353,
+          "end": 361,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 91,
+            "chapterId": "psalms91",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 106:36",
+          "start": 400,
+          "end": 410,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 106,
+            "chapterId": "psalms106",
+            "verses": [
+              {
+                "start": 36,
+                "end": 36
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 124:7",
+          "start": 449,
+          "end": 458,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 124,
+            "chapterId": "psalms124",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 140:5",
+          "start": 491,
+          "end": 500,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 140,
+            "chapterId": "psalms140",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 142:3",
+          "start": 536,
+          "end": 545,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 142,
+            "chapterId": "psalms142",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 6:2",
+          "start": 592,
+          "end": 601,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 6,
+            "chapterId": "proverbs6",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 7:23",
+          "start": 635,
+          "end": 645,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 7,
+            "chapterId": "proverbs7",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 12:13",
+          "start": 698,
+          "end": 709,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 12,
+            "chapterId": "proverbs12",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 18:7",
+          "start": 747,
+          "end": 757,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 18,
+            "chapterId": "proverbs18",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 29:8",
+          "start": 799,
+          "end": 809,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 29,
+            "chapterId": "proverbs29",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 29:25",
+          "start": 841,
+          "end": 852,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 29,
+            "chapterId": "proverbs29",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eccl. 9:12",
+          "start": 890,
+          "end": 900,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "eccl",
+            "book": "ecclesiastes",
+            "chapter": 9,
+            "chapterId": "ecclesiastes9",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 8:15",
+          "start": 938,
+          "end": 947,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 8,
+            "chapterId": "isaiah8",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 18:15",
+          "start": 949,
+          "end": 960,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 18,
+            "chapterId": "2nephi18",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hosea 9:8",
+          "start": 995,
+          "end": 1004,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "hosea",
+            "book": "hosea",
+            "chapter": 9,
+            "chapterId": "hosea9",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "as a snare shall it come on all them that dwell on … earth, Luke 21:35. fall into reproach and the snare of the devil, 1 Tim. 3:7. may recover themselves out of the snare of the devil, 2 Tim. 2:26.",
+      "references": [
+        {
+          "text": "Luke 21:35",
+          "start": 60,
+          "end": 70,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 21,
+            "chapterId": "luke21",
+            "verses": [
+              {
+                "start": 35,
+                "end": 35
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Tim. 3:7",
+          "start": 119,
+          "end": 129,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 3,
+            "chapterId": "1timothy3",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Tim. 2:26",
+          "start": 185,
+          "end": 196,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-tim",
+            "book": "2timothy",
+            "chapter": 2,
+            "chapterId": "2timothy2",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "lay a snare for him, 2 Ne. 27:32. I myself was caught in a snare, Mosiah 23:9. ye are laying traps and snares to catch the holy ones of God, Alma 10:17. this was a snare of the adversary, Alma 12:6. divide asunder all the cunning and the snares … of the devil, Hel. 3:29.",
+      "references": [
+        {
+          "text": "2 Ne. 27:32",
+          "start": 21,
+          "end": 32,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 27,
+            "chapterId": "2nephi27",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 23:9",
+          "start": 66,
+          "end": 77,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 23,
+            "chapterId": "mosiah23",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 10:17",
+          "start": 141,
+          "end": 151,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 10,
+            "chapterId": "alma10",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 12:6",
+          "start": 188,
+          "end": 197,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 12,
+            "chapterId": "alma12",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 3:29",
+          "start": 261,
+          "end": 270,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 3,
+            "chapterId": "helaman3",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "catch themselves in their own snare, D&C 10:26. lest their faith fail and they are caught in snares, D&C 61:18. lest judgment shall come upon them as a snare, D&C 63:15. pride … bringeth a snare upon your souls, D&C 90:17.",
+      "references": [
+        {
+          "text": "D&C 10:26",
+          "start": 37,
+          "end": 46,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 10,
+            "chapterId": "doctrineandcovenants10",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 61:18",
+          "start": 101,
+          "end": 110,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 61,
+            "chapterId": "doctrineandcovenants61",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 63:15",
+          "start": 159,
+          "end": 168,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 63,
+            "chapterId": "doctrineandcovenants63",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 90:17",
+          "start": 212,
+          "end": 221,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 90,
+            "chapterId": "doctrineandcovenants90",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "snare",
+  "title": "Snare",
+  "type": "tg"
+}

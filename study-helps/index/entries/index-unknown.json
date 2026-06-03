@@ -1,0 +1,42 @@
+{
+  "_id": "index-unknown",
+  "content": [
+    {
+      "text": "Korihor calls God unknown being, Alma 30:28, 53.",
+      "references": [
+        {
+          "text": "Alma 30:28, 53",
+          "start": 33,
+          "end": 47,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 30,
+            "chapterId": "alma30",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              },
+              {
+                "start": 53,
+                "end": 53
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-strange",
+      "slug": "strange",
+      "title": "Strange"
+    }
+  ],
+  "slug": "unknown",
+  "title": "Unknown",
+  "type": "index"
+}

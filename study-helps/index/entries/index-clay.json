@@ -1,0 +1,79 @@
+{
+  "_id": "index-clay",
+  "content": [
+    {
+      "text": "turning of things upside down shall be esteemed as potter’s clay, 2 Ne. 27:27 (Isa. 29:16).",
+      "references": [
+        {
+          "text": "2 Ne. 27:27",
+          "start": 66,
+          "end": 77,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 27,
+            "chapterId": "2nephi27",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 29:16",
+          "start": 79,
+          "end": 89,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 29,
+            "chapterId": "isaiah29",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Enoch2 is told to anoint eyes with clay, Moses 6:35.",
+      "references": [
+        {
+          "text": "Moses 6:35",
+          "start": 41,
+          "end": 51,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 6,
+            "chapterId": "moses6",
+            "verses": [
+              {
+                "start": 35,
+                "end": 35
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-tabernacle",
+      "slug": "tabernacle",
+      "title": "Tabernacle"
+    }
+  ],
+  "slug": "clay",
+  "title": "Clay",
+  "type": "index"
+}

@@ -1,0 +1,91 @@
+{
+  "_id": "tg-ring",
+  "content": [
+    {
+      "text": "Pharaoh took off his ring, Gen. 41:42. sealed with the king’s ring, Esth. 8:8.",
+      "references": [
+        {
+          "text": "Gen. 41:42",
+          "start": 27,
+          "end": 37,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 41,
+            "chapterId": "genesis41",
+            "verses": [
+              {
+                "start": 42,
+                "end": 42
+              }
+            ]
+          }
+        },
+        {
+          "text": "Esth. 8:8",
+          "start": 68,
+          "end": 77,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "esth",
+            "book": "esther",
+            "chapter": 8,
+            "chapterId": "esther8",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "put a ring on his hand, Luke 15:22. come unto your assembly a man with a gold ring, James 2:2.",
+      "references": [
+        {
+          "text": "Luke 15:22",
+          "start": 24,
+          "end": 34,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 15,
+            "chapterId": "luke15",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "James 2:2",
+          "start": 84,
+          "end": 93,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "james",
+            "book": "james",
+            "chapter": 2,
+            "chapterId": "james2",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "ring",
+  "title": "Ring",
+  "type": "tg"
+}

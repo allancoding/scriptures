@@ -1,0 +1,56 @@
+{
+  "_id": "index-depressed",
+  "content": [
+    {
+      "text": "when our hearts were depressed, the Lord comforted us, Alma 26:27. Nephite soldiers are depressed in body as well as in spirit, Alma 56:16.",
+      "references": [
+        {
+          "text": "Alma 26:27",
+          "start": 55,
+          "end": 65,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 26,
+            "chapterId": "alma26",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 56:16",
+          "start": 128,
+          "end": 138,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 56,
+            "chapterId": "alma56",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-despair",
+      "slug": "despair",
+      "title": "Despair"
+    }
+  ],
+  "slug": "depressed",
+  "title": "Depressed",
+  "type": "index"
+}

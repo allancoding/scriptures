@@ -1,0 +1,68 @@
+{
+  "_id": "bd-sheol",
+  "content": [
+    {
+      "text": "The Hebrew name for the abode of departed spirits (corresponding to the Greek Hades), translated in the KJV “grave,” “pit,” and “hell,” depending on the context (see Gen. 37:35; Job 17:16; Ps. 16:10).",
+      "references": [
+        {
+          "text": "Gen. 37:35",
+          "start": 166,
+          "end": 176,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 37,
+            "chapterId": "genesis37",
+            "verses": [
+              {
+                "start": 35,
+                "end": 35
+              }
+            ]
+          }
+        },
+        {
+          "text": "Job 17:16",
+          "start": 178,
+          "end": 187,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "job",
+            "book": "job",
+            "chapter": 17,
+            "chapterId": "job17",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 16:10",
+          "start": 189,
+          "end": 198,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 16,
+            "chapterId": "psalms16",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "sheol",
+  "title": "Sheol",
+  "type": "bd"
+}

@@ -1,0 +1,66 @@
+{
+  "_id": "tg-kinsman",
+  "content": [
+    {
+      "text": "near of kin unto us, one of our next kinsmen, Ruth 2:20. near kinsman: howbeit there is a kinsman nearer than I, Ruth 3:12.",
+      "references": [
+        {
+          "text": "Ruth 2:20",
+          "start": 46,
+          "end": 55,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ruth",
+            "book": "ruth",
+            "chapter": 2,
+            "chapterId": "ruth2",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ruth 3:12",
+          "start": 113,
+          "end": 122,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ruth",
+            "book": "ruth",
+            "chapter": 3,
+            "chapterId": "ruth3",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-kin",
+      "slug": "kin",
+      "title": "Kin"
+    },
+    {
+      "entryId": "tg-kindred",
+      "slug": "kindred",
+      "title": "Kindred"
+    },
+    {
+      "entryId": "tg-kinsfolk",
+      "slug": "kinsfolk",
+      "title": "Kinsfolk"
+    }
+  ],
+  "slug": "kinsman",
+  "title": "Kinsman",
+  "type": "tg"
+}

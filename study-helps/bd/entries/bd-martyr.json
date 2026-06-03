@@ -1,0 +1,68 @@
+{
+  "_id": "bd-martyr",
+  "content": [
+    {
+      "text": "From a Greek word meaning “witness” (Acts 22:20; Rev. 2:13; 17:6).",
+      "references": [
+        {
+          "text": "Acts 22:20",
+          "start": 37,
+          "end": 47,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 22,
+            "chapterId": "acts22",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 2:13",
+          "start": 49,
+          "end": 58,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 2,
+            "chapterId": "revelation2",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "17:6",
+          "start": 60,
+          "end": 64,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 17,
+            "chapterId": "revelation17",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "martyr",
+  "title": "Martyr",
+  "type": "bd"
+}

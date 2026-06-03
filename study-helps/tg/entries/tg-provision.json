@@ -1,0 +1,97 @@
+{
+  "_id": "tg-provision",
+  "content": [
+    {
+      "text": "to give them provision for the way, Gen. 42:25. Solomon’s provision for one day was thirty measures, 1 Kgs. 4:22. daily provision of the king’s meat, Dan. 1:5.",
+      "references": [
+        {
+          "text": "Gen. 42:25",
+          "start": 36,
+          "end": 46,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 42,
+            "chapterId": "genesis42",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Kgs. 4:22",
+          "start": 101,
+          "end": 112,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 4,
+            "chapterId": "1kings4",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 1:5",
+          "start": 150,
+          "end": 158,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 1,
+            "chapterId": "daniel1",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "their much provision which they had laid up, 3 Ne. 4:18.",
+      "references": [
+        {
+          "text": "3 Ne. 4:18",
+          "start": 45,
+          "end": 55,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 4,
+            "chapterId": "3nephi4",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-food",
+      "slug": "food",
+      "title": "Food"
+    }
+  ],
+  "slug": "provision",
+  "title": "Provision",
+  "type": "tg"
+}

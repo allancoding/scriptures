@@ -1,0 +1,57 @@
+{
+  "_id": "index-emblem",
+  "content": [
+    {
+      "text": "bread and wine emblems of Christ’s flesh and blood, D&C 20:40, 75–79.",
+      "references": [
+        {
+          "text": "D&C 20:40, 75–79",
+          "start": 52,
+          "end": 68,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 20,
+            "chapterId": "doctrineandcovenants20",
+            "verses": [
+              {
+                "start": 40,
+                "end": 40
+              },
+              {
+                "start": 75,
+                "end": 79
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-remember",
+      "slug": "remember",
+      "title": "Remember"
+    },
+    {
+      "entryId": "index-representation",
+      "slug": "representation",
+      "title": "Representation"
+    },
+    {
+      "entryId": "index-sacrament",
+      "slug": "sacrament",
+      "title": "Sacrament"
+    },
+    {
+      "entryId": "index-token",
+      "slug": "token",
+      "title": "Token"
+    }
+  ],
+  "slug": "emblem",
+  "title": "Emblem",
+  "type": "index"
+}

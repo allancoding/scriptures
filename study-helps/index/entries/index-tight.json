@@ -1,0 +1,50 @@
+{
+  "_id": "index-tight",
+  "content": [
+    {
+      "text": "Jaredite vessels are tight like dish, Ether 2:17 (6:7).",
+      "references": [
+        {
+          "text": "Ether 2:17",
+          "start": 38,
+          "end": 48,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 2,
+            "chapterId": "ether2",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "6:7",
+          "start": 50,
+          "end": 53,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 6,
+            "chapterId": "ether6",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "tight",
+  "title": "Tight",
+  "type": "index"
+}

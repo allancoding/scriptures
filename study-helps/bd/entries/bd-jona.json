@@ -1,0 +1,50 @@
+{
+  "_id": "bd-jona",
+  "content": [
+    {
+      "text": "Father of Peter (John 1:42; 21:15–17).",
+      "references": [
+        {
+          "text": "John 1:42",
+          "start": 17,
+          "end": 26,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 1,
+            "chapterId": "john1",
+            "verses": [
+              {
+                "start": 42,
+                "end": 42
+              }
+            ]
+          }
+        },
+        {
+          "text": "21:15–17",
+          "start": 28,
+          "end": 36,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 21,
+            "chapterId": "john21",
+            "verses": [
+              {
+                "start": 15,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "jona",
+  "title": "Jona or Jonas",
+  "type": "bd"
+}

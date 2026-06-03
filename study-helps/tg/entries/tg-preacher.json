@@ -1,0 +1,184 @@
+{
+  "_id": "tg-preacher",
+  "content": [
+    {
+      "text": "words of the Preacher, the son of David, Eccl. 1:1.",
+      "references": [
+        {
+          "text": "Eccl. 1:1",
+          "start": 41,
+          "end": 50,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "eccl",
+            "book": "ecclesiastes",
+            "chapter": 1,
+            "chapterId": "ecclesiastes1",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "how shall they hear without a preacher, Rom. 10:14. I am ordained a preacher, and an apostle, 1 Tim. 2:7 (2 Tim. 1:11). saved Noah … a preacher of righteousness, 2 Pet. 2:5.",
+      "references": [
+        {
+          "text": "Rom. 10:14",
+          "start": 40,
+          "end": 50,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 10,
+            "chapterId": "romans10",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Tim. 2:7",
+          "start": 94,
+          "end": 104,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 2,
+            "chapterId": "1timothy2",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Tim. 1:11",
+          "start": 106,
+          "end": 117,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-tim",
+            "book": "2timothy",
+            "chapter": 1,
+            "chapterId": "2timothy1",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Pet. 2:5",
+          "start": 162,
+          "end": 172,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-pet",
+            "book": "2peter",
+            "chapter": 2,
+            "chapterId": "2peter2",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "preacher was no better than the hearer, Alma 1:26.",
+      "references": [
+        {
+          "text": "Alma 1:26",
+          "start": 40,
+          "end": 49,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 1,
+            "chapterId": "alma1",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "first preacher of this church, D&C 21:12.",
+      "references": [
+        {
+          "text": "D&C 21:12",
+          "start": 31,
+          "end": 40,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 21,
+            "chapterId": "doctrineandcovenants21",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "they were preachers of righteousness, Moses 6:23.",
+      "references": [
+        {
+          "text": "Moses 6:23",
+          "start": 38,
+          "end": 48,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 6,
+            "chapterId": "moses6",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-preaching",
+      "slug": "preaching",
+      "title": "Preaching"
+    }
+  ],
+  "slug": "preacher",
+  "title": "Preacher",
+  "type": "tg"
+}

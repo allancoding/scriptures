@@ -1,0 +1,74 @@
+{
+  "_id": "index-supper",
+  "content": [
+    {
+      "text": "all nations shall be invited unto supper of house of the Lord, D&C 58:9. poor, lame, blind, deaf shall partake of supper of the Lord, D&C 58:11. prepare ye supper of the Lamb, D&C 65:3.",
+      "references": [
+        {
+          "text": "D&C 58:9",
+          "start": 63,
+          "end": 71,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 58,
+            "chapterId": "doctrineandcovenants58",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 58:11",
+          "start": 134,
+          "end": 143,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 58,
+            "chapterId": "doctrineandcovenants58",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 65:3",
+          "start": 176,
+          "end": 184,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 65,
+            "chapterId": "doctrineandcovenants65",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-sacrament",
+      "slug": "sacrament",
+      "title": "Sacrament"
+    }
+  ],
+  "slug": "supper",
+  "title": "Supper",
+  "type": "index"
+}

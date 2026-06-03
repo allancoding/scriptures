@@ -1,0 +1,109 @@
+{
+  "_id": "tg-edge",
+  "content": [
+    {
+      "text": "iron be blunt, and he do not whet the edge, Eccl. 10:10. children’s teeth are set on edge, Jer. 31:29 (Ezek. 18:2).",
+      "references": [
+        {
+          "text": "Eccl. 10:10",
+          "start": 44,
+          "end": 55,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "eccl",
+            "book": "ecclesiastes",
+            "chapter": 10,
+            "chapterId": "ecclesiastes10",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 31:29",
+          "start": 91,
+          "end": 101,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 31,
+            "chapterId": "jeremiah31",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 18:2",
+          "start": 103,
+          "end": 113,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 18,
+            "chapterId": "ezekiel18",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "sharp sword with two edges, Rev. 2:12 (D&C 6:2).",
+      "references": [
+        {
+          "text": "Rev. 2:12",
+          "start": 28,
+          "end": 37,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 2,
+            "chapterId": "revelation2",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 6:2",
+          "start": 39,
+          "end": 46,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 6,
+            "chapterId": "doctrineandcovenants6",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "edge",
+  "title": "Edge",
+  "type": "tg"
+}

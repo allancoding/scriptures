@@ -1,0 +1,50 @@
+{
+  "_id": "bd-tiberias-sea-of",
+  "content": [
+    {
+      "text": "In John 6:1; 21:1, Sea of Chinnereth, or Sea of Galilee.",
+      "references": [
+        {
+          "text": "John 6:1",
+          "start": 3,
+          "end": 11,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 6,
+            "chapterId": "john6",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "21:1",
+          "start": 13,
+          "end": 17,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 21,
+            "chapterId": "john21",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "tiberias-sea-of",
+  "title": "Tiberias, Sea of",
+  "type": "bd"
+}

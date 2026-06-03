@@ -1,0 +1,50 @@
+{
+  "_id": "tg-whited",
+  "content": [
+    {
+      "text": "ye are like unto whited sepulchres, Matt. 23:27. God shall smite thee, thou whited wall, Acts 23:3.",
+      "references": [
+        {
+          "text": "Matt. 23:27",
+          "start": 36,
+          "end": 47,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 23,
+            "chapterId": "matthew23",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 23:3",
+          "start": 89,
+          "end": 98,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 23,
+            "chapterId": "acts23",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "whited",
+  "title": "Whited",
+  "type": "tg"
+}

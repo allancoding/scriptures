@@ -1,0 +1,953 @@
+{
+  "_id": "tg-bring",
+  "content": [
+    {
+      "text": "earth brought forth grass, Gen. 1:12 (Moses 2:11; Abr. 4:12). will bring thee again into this land, Gen. 28:15. thou hast brought forth the people out of Egypt, Ex. 3:12. I will bring you out from under the burdens, Ex. 6:6. the magicians did … bring forth lice, Ex. 8:18. bring forth the old because of the new, Lev. 26:10. the Lord brought us forth out of Egypt, Deut. 26:8. thou hast brought me very low, Judg. 11:35. he shall bring forth thy righteousness, Ps. 37:6. brought down their heart with labour, Ps. 107:12. thou knowest not what a day may bring forth, Prov. 27:1. he shall bring forth judgment unto truth, Isa. 42:3. the feet of him that bringeth good tidings, Isa. 52:7 (Nahum 1:15; Rom. 10:15). when the Lord shall bring again Zion, Isa. 52:8. I will bring you to Zion, Jer. 3:14 (12:15; 16:15; 24:6; 27:22; 32:37; 50:19; Ezek. 34:13). I shall bring again their captivity, Ezek. 16:53. I will bring again the captivity of Egypt, Ezek. 29:14. I will … bring you into the land of Israel, Ezek. 37:12. will I bring again the captivity of Jacob, Ezek. 39:25. I shall bring again the captivity of Judah, Joel 3:1.",
+      "references": [
+        {
+          "text": "Gen. 1:12",
+          "start": 27,
+          "end": 36,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 1,
+            "chapterId": "genesis1",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 2:11",
+          "start": 38,
+          "end": 48,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 2,
+            "chapterId": "moses2",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Abr. 4:12",
+          "start": 50,
+          "end": 59,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 4,
+            "chapterId": "abraham4",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 28:15",
+          "start": 100,
+          "end": 110,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 28,
+            "chapterId": "genesis28",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 3:12",
+          "start": 161,
+          "end": 169,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 3,
+            "chapterId": "exodus3",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 6:6",
+          "start": 216,
+          "end": 223,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 6,
+            "chapterId": "exodus6",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 8:18",
+          "start": 263,
+          "end": 271,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 8,
+            "chapterId": "exodus8",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Lev. 26:10",
+          "start": 313,
+          "end": 323,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 26,
+            "chapterId": "leviticus26",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 26:8",
+          "start": 365,
+          "end": 375,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 26,
+            "chapterId": "deuteronomy26",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Judg. 11:35",
+          "start": 408,
+          "end": 419,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "judg",
+            "book": "judges",
+            "chapter": 11,
+            "chapterId": "judges11",
+            "verses": [
+              {
+                "start": 35,
+                "end": 35
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 37:6",
+          "start": 461,
+          "end": 469,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 37,
+            "chapterId": "psalms37",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 107:12",
+          "start": 509,
+          "end": 519,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 107,
+            "chapterId": "psalms107",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 27:1",
+          "start": 566,
+          "end": 576,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 27,
+            "chapterId": "proverbs27",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 42:3",
+          "start": 620,
+          "end": 629,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 42,
+            "chapterId": "isaiah42",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 52:7",
+          "start": 675,
+          "end": 684,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 52,
+            "chapterId": "isaiah52",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Nahum 1:15",
+          "start": 686,
+          "end": 696,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "nahum",
+            "book": "nahum",
+            "chapter": 1,
+            "chapterId": "nahum1",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 10:15",
+          "start": 698,
+          "end": 708,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 10,
+            "chapterId": "romans10",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 52:8",
+          "start": 749,
+          "end": 758,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 52,
+            "chapterId": "isaiah52",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 3:14",
+          "start": 786,
+          "end": 795,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 3,
+            "chapterId": "jeremiah3",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "12:15",
+          "start": 797,
+          "end": 802,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 12,
+            "chapterId": "jeremiah12",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "16:15",
+          "start": 804,
+          "end": 809,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 16,
+            "chapterId": "jeremiah16",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "24:6",
+          "start": 811,
+          "end": 815,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 24,
+            "chapterId": "jeremiah24",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "27:22",
+          "start": 817,
+          "end": 822,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 27,
+            "chapterId": "jeremiah27",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "32:37",
+          "start": 824,
+          "end": 829,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 32,
+            "chapterId": "jeremiah32",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        },
+        {
+          "text": "50:19",
+          "start": 831,
+          "end": 836,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 50,
+            "chapterId": "jeremiah50",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 34:13",
+          "start": 838,
+          "end": 849,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 34,
+            "chapterId": "ezekiel34",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 16:53",
+          "start": 889,
+          "end": 900,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 16,
+            "chapterId": "ezekiel16",
+            "verses": [
+              {
+                "start": 53,
+                "end": 53
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 29:14",
+          "start": 945,
+          "end": 956,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 29,
+            "chapterId": "ezekiel29",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 37:12",
+          "start": 1002,
+          "end": 1013,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 37,
+            "chapterId": "ezekiel37",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 39:25",
+          "start": 1058,
+          "end": 1069,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 39,
+            "chapterId": "ezekiel39",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Joel 3:1",
+          "start": 1115,
+          "end": 1123,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "joel",
+            "book": "joel",
+            "chapter": 3,
+            "chapterId": "joel3",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "every tree which bringeth not forth good fruit, Matt. 3:10. I bring you good tidings of great joy, Luke 2:10. to bring Christ down from above, Rom. 10:6. the law was our schoolmaster to bring us unto Christ, Gal. 3:24. them also which sleep in Jesus will God bring with him, 1 Thes. 4:14. we brought nothing into this world, 1 Tim. 6:7. God … brought again from the dead our Lord, Heb. 13:20. suffered for sins … that he might bring us to God, 1 Pet. 3:18. she brought forth a man child, who was to rule, Rev. 12:5.",
+      "references": [
+        {
+          "text": "Matt. 3:10",
+          "start": 48,
+          "end": 58,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 3,
+            "chapterId": "matthew3",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 2:10",
+          "start": 99,
+          "end": 108,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 2,
+            "chapterId": "luke2",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 10:6",
+          "start": 143,
+          "end": 152,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 10,
+            "chapterId": "romans10",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gal. 3:24",
+          "start": 208,
+          "end": 217,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "gal",
+            "book": "galatians",
+            "chapter": 3,
+            "chapterId": "galatians3",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Thes. 4:14",
+          "start": 275,
+          "end": 287,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-thes",
+            "book": "1thessalonians",
+            "chapter": 4,
+            "chapterId": "1thessalonians4",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Tim. 6:7",
+          "start": 325,
+          "end": 335,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 6,
+            "chapterId": "1timothy6",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 13:20",
+          "start": 381,
+          "end": 391,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 13,
+            "chapterId": "hebrews13",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Pet. 3:18",
+          "start": 444,
+          "end": 455,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-pet",
+            "book": "1peter",
+            "chapter": 3,
+            "chapterId": "1peter3",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 12:5",
+          "start": 505,
+          "end": 514,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 12,
+            "chapterId": "revelation12",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "I will bring forth unto them … much of my gospel, 1 Ne. 13:34. he did bring them out of the land of Egypt, 1 Ne. 17:40. he will bring them again out of captivity, 1 Ne. 22:12. bring forth my word unto the seed of thy loins, 2 Ne. 3:11. brought up in the way ye should go, 2 Ne. 4:5. whosoever bringeth forth not good fruit, Alma 5:36 (3 Ne. 14:19; D&C 97:7). bring forth … unto light all their secret works, Alma 37:25. shall be brought out of darkness unto light, Morm. 8:16.",
+      "references": [
+        {
+          "text": "1 Ne. 13:34",
+          "start": 50,
+          "end": 61,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 13,
+            "chapterId": "1nephi13",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Ne. 17:40",
+          "start": 107,
+          "end": 118,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 17,
+            "chapterId": "1nephi17",
+            "verses": [
+              {
+                "start": 40,
+                "end": 40
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Ne. 22:12",
+          "start": 163,
+          "end": 174,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 22,
+            "chapterId": "1nephi22",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 3:11",
+          "start": 224,
+          "end": 234,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 3,
+            "chapterId": "2nephi3",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 4:5",
+          "start": 272,
+          "end": 281,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 4,
+            "chapterId": "2nephi4",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 5:36",
+          "start": 324,
+          "end": 333,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 5,
+            "chapterId": "alma5",
+            "verses": [
+              {
+                "start": 36,
+                "end": 36
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 14:19",
+          "start": 335,
+          "end": 346,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 14,
+            "chapterId": "3nephi14",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 97:7",
+          "start": 348,
+          "end": 356,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 97,
+            "chapterId": "doctrineandcovenants97",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 37:25",
+          "start": 408,
+          "end": 418,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 37,
+            "chapterId": "alma37",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 8:16",
+          "start": 465,
+          "end": 475,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 8,
+            "chapterId": "mormon8",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "spirit of revelation … by which Moses brought … Israel, D&C 8:3.",
+      "references": [
+        {
+          "text": "D&C 8:3",
+          "start": 56,
+          "end": 63,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 8,
+            "chapterId": "doctrineandcovenants8",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-gather",
+      "slug": "gather",
+      "title": "Gather"
+    }
+  ],
+  "slug": "bring",
+  "title": "Bring, Brought",
+  "type": "tg"
+}

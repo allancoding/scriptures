@@ -1,0 +1,60 @@
+{
+  "_id": "index-grounds",
+  "content": [
+    {
+      "text": "what grounds had fathers to hope for salvation, Alma 5:10. law should not bring men on to unequal grounds, Alma 30:7, 11.",
+      "references": [
+        {
+          "text": "Alma 5:10",
+          "start": 48,
+          "end": 57,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 5,
+            "chapterId": "alma5",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 30:7, 11",
+          "start": 107,
+          "end": 120,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 30,
+            "chapterId": "alma30",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              },
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-ground",
+      "slug": "ground",
+      "title": "Ground"
+    }
+  ],
+  "slug": "grounds",
+  "title": "Grounds",
+  "type": "index"
+}

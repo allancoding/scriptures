@@ -1,0 +1,117 @@
+{
+  "_id": "index-formed-verb",
+  "content": [
+    {
+      "text": "the Lord formed me from womb, 1 Ne. 21:5. no weapon that is formed against thee shall prosper, 3 Ne. 22:17 (Isa. 54:17).",
+      "references": [
+        {
+          "text": "1 Ne. 21:5",
+          "start": 30,
+          "end": 40,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 21,
+            "chapterId": "1nephi21",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 22:17",
+          "start": 95,
+          "end": 106,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 22,
+            "chapterId": "3nephi22",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 54:17",
+          "start": 108,
+          "end": 118,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 54,
+            "chapterId": "isaiah54",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "God formed man from dust, D&C 77:12.",
+      "references": [
+        {
+          "text": "D&C 77:12",
+          "start": 26,
+          "end": 35,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 77,
+            "chapterId": "doctrineandcovenants77",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-creation",
+      "slug": "creation",
+      "title": "Creation"
+    },
+    {
+      "entryId": "index-formation",
+      "slug": "formation",
+      "title": "Formation"
+    },
+    {
+      "entryId": "index-framed-verb",
+      "slug": "framed-verb",
+      "title": "Framed [verb]"
+    },
+    {
+      "entryId": "index-make",
+      "slug": "make",
+      "title": "Make"
+    },
+    {
+      "entryId": "index-organize",
+      "slug": "organize",
+      "title": "Organize"
+    }
+  ],
+  "slug": "formed-verb",
+  "title": "Formed [verb]",
+  "type": "index"
+}

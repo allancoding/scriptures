@@ -1,0 +1,50 @@
+{
+  "_id": "bd-hallelujah",
+  "content": [
+    {
+      "text": "Praise ye the Lord. An expression found at the beginning or the end of a large number of Psalms (see Ps. 146:1; Rev. 19:1–6).",
+      "references": [
+        {
+          "text": "Ps. 146:1",
+          "start": 101,
+          "end": 110,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 146,
+            "chapterId": "psalms146",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 19:1–6",
+          "start": 112,
+          "end": 123,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 19,
+            "chapterId": "revelation19",
+            "verses": [
+              {
+                "start": 1,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "hallelujah",
+  "title": "Hallelujah",
+  "type": "bd"
+}

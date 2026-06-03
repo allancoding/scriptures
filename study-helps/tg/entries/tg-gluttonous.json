@@ -1,0 +1,61 @@
+{
+  "_id": "tg-gluttonous",
+  "content": [
+    {
+      "text": "Behold a man gluttonous, and a winebibber, Matt. 11:19 (Luke 7:34).",
+      "references": [
+        {
+          "text": "Matt. 11:19",
+          "start": 43,
+          "end": 54,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 11,
+            "chapterId": "matthew11",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 7:34",
+          "start": 56,
+          "end": 65,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 7,
+            "chapterId": "luke7",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-food",
+      "slug": "food",
+      "title": "Food"
+    },
+    {
+      "entryId": "tg-word-of-wisdom",
+      "slug": "word-of-wisdom",
+      "title": "Word of Wisdom"
+    }
+  ],
+  "slug": "gluttonous",
+  "title": "Gluttonous",
+  "type": "tg"
+}

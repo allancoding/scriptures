@@ -1,0 +1,61 @@
+{
+  "_id": "index-riotings",
+  "content": [
+    {
+      "text": "Noah3 spends his time in riotous living, Mosiah 11:14. judges stir people up to riotings, Alma 11:20.",
+      "references": [
+        {
+          "text": "Mosiah 11:14",
+          "start": 41,
+          "end": 53,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 11,
+            "chapterId": "mosiah11",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 11:20",
+          "start": 90,
+          "end": 100,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 11,
+            "chapterId": "alma11",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-commotion",
+      "slug": "commotion",
+      "title": "Commotion"
+    },
+    {
+      "entryId": "index-uproar",
+      "slug": "uproar",
+      "title": "Uproar"
+    }
+  ],
+  "slug": "riotings",
+  "title": "Riotings, Riotous",
+  "type": "index"
+}

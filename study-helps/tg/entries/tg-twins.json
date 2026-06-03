@@ -1,0 +1,50 @@
+{
+  "_id": "tg-twins",
+  "content": [
+    {
+      "text": "there were twins in her womb, Gen. 25:24. time of her travail … twins were in her womb, Gen. 38:27.",
+      "references": [
+        {
+          "text": "Gen. 25:24",
+          "start": 30,
+          "end": 40,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 25,
+            "chapterId": "genesis25",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 38:27",
+          "start": 88,
+          "end": 98,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 38,
+            "chapterId": "genesis38",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "twins",
+  "title": "Twins",
+  "type": "tg"
+}

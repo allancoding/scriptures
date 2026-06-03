@@ -1,0 +1,50 @@
+{
+  "_id": "bd-asp",
+  "content": [
+    {
+      "text": "A kind of poisonous serpent (Deut. 32:33; Isa. 11:8).",
+      "references": [
+        {
+          "text": "Deut. 32:33",
+          "start": 29,
+          "end": 40,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 32,
+            "chapterId": "deuteronomy32",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 11:8",
+          "start": 42,
+          "end": 51,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 11,
+            "chapterId": "isaiah11",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "asp",
+  "title": "Asp",
+  "type": "bd"
+}

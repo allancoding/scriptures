@@ -1,0 +1,91 @@
+{
+  "_id": "tg-inn",
+  "content": [
+    {
+      "text": "give his ass provender in the inn, Gen. 42:27. by the way in the inn … the Lord met him, Ex. 4:24.",
+      "references": [
+        {
+          "text": "Gen. 42:27",
+          "start": 35,
+          "end": 45,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 42,
+            "chapterId": "genesis42",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 4:24",
+          "start": 89,
+          "end": 97,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 4,
+            "chapterId": "exodus4",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "no room for them in the inn, Luke 2:7. brought him to an inn, and took care of him, Luke 10:34.",
+      "references": [
+        {
+          "text": "Luke 2:7",
+          "start": 29,
+          "end": 37,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 2,
+            "chapterId": "luke2",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 10:34",
+          "start": 84,
+          "end": 94,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 10,
+            "chapterId": "luke10",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "inn",
+  "title": "Inn",
+  "type": "tg"
+}

@@ -1,0 +1,38 @@
+{
+  "_id": "tg-possibility",
+  "content": [
+    {
+      "text": "possibility that man may fall from grace, D&C 20:32.",
+      "references": [
+        {
+          "text": "D&C 20:32",
+          "start": 42,
+          "end": 51,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 20,
+            "chapterId": "doctrineandcovenants20",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-possible",
+      "slug": "possible",
+      "title": "Possible"
+    }
+  ],
+  "slug": "possibility",
+  "title": "Possibility",
+  "type": "tg"
+}

@@ -1,0 +1,38 @@
+{
+  "_id": "index-united-states",
+  "content": [
+    {
+      "text": "the Lord established Constitution of United States by men whom he raised, D&C 101:80.",
+      "references": [
+        {
+          "text": "D&C 101:80",
+          "start": 74,
+          "end": 84,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 101,
+            "chapterId": "doctrineandcovenants101",
+            "verses": [
+              {
+                "start": 80,
+                "end": 80
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-america",
+      "slug": "america",
+      "title": "America"
+    }
+  ],
+  "slug": "united-states",
+  "title": "United States",
+  "type": "index"
+}

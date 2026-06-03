@@ -1,0 +1,50 @@
+{
+  "_id": "index-peacemaker",
+  "content": [
+    {
+      "text": "blessed are peacemakers, for they shall be called children of God, 3 Ne. 12:9 (Matt. 5:9).",
+      "references": [
+        {
+          "text": "3 Ne. 12:9",
+          "start": 67,
+          "end": 77,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 12,
+            "chapterId": "3nephi12",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 5:9",
+          "start": 79,
+          "end": 88,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 5,
+            "chapterId": "matthew5",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "peacemaker",
+  "title": "Peacemaker",
+  "type": "index"
+}

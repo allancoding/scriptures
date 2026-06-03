@@ -1,0 +1,981 @@
+{
+  "_id": "tg-doctrine",
+  "content": [
+    {
+      "text": "My doctrine shall drop as the rain, Deut. 32:2. I give you good doctrine, Prov. 4:2. whom shall he make to understand doctrine, Isa. 28:9. they that murmured shall learn doctrine, Isa. 29:24.",
+      "references": [
+        {
+          "text": "Deut. 32:2",
+          "start": 36,
+          "end": 46,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 32,
+            "chapterId": "deuteronomy32",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 4:2",
+          "start": 74,
+          "end": 83,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 4,
+            "chapterId": "proverbs4",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 28:9",
+          "start": 128,
+          "end": 137,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 28,
+            "chapterId": "isaiah28",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 29:24",
+          "start": 180,
+          "end": 190,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 29,
+            "chapterId": "isaiah29",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "astonished at his doctrine, Matt. 7:28 (22:33; Mark 1:22; Luke 4:32). teaching for doctrines the commandments of men, Matt. 15:9 (Mark 7:7). doctrine of the Pharisees and of the Sadducees, Matt. 16:12. what new doctrine is this, Mark 1:27. My doctrine is not mine, but his that sent me, John 7:16. high priest then asked Jesus … of his doctrine, John 18:19. continued steadfastly in the apostles’ doctrine, Acts 2:42. ye have filled Jerusalem with your doctrine, Acts 5:28. obeyed from the heart that form of doctrine which was delivered you, Rom. 6:17. offences contrary to the doctrine which ye have learned, Rom. 16:17. speak to you … by doctrine, 1 Cor. 14:6. carried about with every wind of doctrine, Eph. 4:14. after the commandments and doctrines of men, Col. 2:22. charge some that they teach no other doctrine, 1 Tim. 1:3. any other thing that is contrary to sound doctrine, 1 Tim. 1:10. giving heed to … doctrines of devils, 1 Tim. 4:1 (D&C 46:7). nourished up in the words … of good doctrine, 1 Tim. 4:6. give attendance … to doctrine, 1 Tim. 4:13. Take heed unto thyself, and unto the doctrine, 1 Tim. 4:16. they who labour in the word and doctrine, 1 Tim. 5:17. name of God and his doctrine be not blasphemed, 1 Tim. 6:1. the doctrine which is according to godliness, 1 Tim. 6:3. thou hast fully known my doctrine, 2 Tim. 3:10. All scripture … is profitable for doctrine, 2 Tim. 3:16. exhort with all longsuffering and doctrine, 2 Tim. 4:2. when they will not endure sound doctrine, 2 Tim. 4:3. able by sound doctrine both to exhort and to convince, Titus 1:9. speak thou the things which become sound doctrine, Titus 2:1. in doctrine shewing uncorruptness, Titus 2:7. may adorn the doctrine of God our Saviour, Titus 2:10. leaving the principles of the doctrine of Christ, Heb. 6:1. the doctrine of baptisms, and of laying on of hands, Heb. 6:2. not carried about with divers and strange doctrines, Heb. 13:9. transgresseth … abideth not in the doctrine of Christ, 2 Jn. 1:9. hold the doctrine of Balaam, Rev. 2:14.",
+      "references": [
+        {
+          "text": "Matt. 7:28",
+          "start": 28,
+          "end": 38,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 7,
+            "chapterId": "matthew7",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "22:33",
+          "start": 40,
+          "end": 45,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 22,
+            "chapterId": "matthew22",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 1:22",
+          "start": 47,
+          "end": 56,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 1,
+            "chapterId": "mark1",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 4:32",
+          "start": 58,
+          "end": 67,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 4,
+            "chapterId": "luke4",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 15:9",
+          "start": 118,
+          "end": 128,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 15,
+            "chapterId": "matthew15",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 7:7",
+          "start": 130,
+          "end": 138,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 7,
+            "chapterId": "mark7",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 16:12",
+          "start": 189,
+          "end": 200,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 16,
+            "chapterId": "matthew16",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 1:27",
+          "start": 229,
+          "end": 238,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 1,
+            "chapterId": "mark1",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 7:16",
+          "start": 287,
+          "end": 296,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 7,
+            "chapterId": "john7",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 18:19",
+          "start": 346,
+          "end": 356,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 18,
+            "chapterId": "john18",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 2:42",
+          "start": 407,
+          "end": 416,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 2,
+            "chapterId": "acts2",
+            "verses": [
+              {
+                "start": 42,
+                "end": 42
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 5:28",
+          "start": 463,
+          "end": 472,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 5,
+            "chapterId": "acts5",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 6:17",
+          "start": 543,
+          "end": 552,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 6,
+            "chapterId": "romans6",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 16:17",
+          "start": 611,
+          "end": 621,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 16,
+            "chapterId": "romans16",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 14:6",
+          "start": 651,
+          "end": 662,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 14,
+            "chapterId": "1corinthians14",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eph. 4:14",
+          "start": 707,
+          "end": 716,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "eph",
+            "book": "ephesians",
+            "chapter": 4,
+            "chapterId": "ephesians4",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Col. 2:22",
+          "start": 763,
+          "end": 772,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "col",
+            "book": "colossians",
+            "chapter": 2,
+            "chapterId": "colossians2",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Tim. 1:3",
+          "start": 821,
+          "end": 831,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 1,
+            "chapterId": "1timothy1",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Tim. 1:10",
+          "start": 885,
+          "end": 896,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 1,
+            "chapterId": "1timothy1",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Tim. 4:1",
+          "start": 936,
+          "end": 946,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 4,
+            "chapterId": "1timothy4",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 46:7",
+          "start": 948,
+          "end": 956,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 46,
+            "chapterId": "doctrineandcovenants46",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Tim. 4:6",
+          "start": 1005,
+          "end": 1015,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 4,
+            "chapterId": "1timothy4",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Tim. 4:13",
+          "start": 1048,
+          "end": 1059,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 4,
+            "chapterId": "1timothy4",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Tim. 4:16",
+          "start": 1108,
+          "end": 1119,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 4,
+            "chapterId": "1timothy4",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Tim. 5:17",
+          "start": 1163,
+          "end": 1174,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 5,
+            "chapterId": "1timothy5",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Tim. 6:1",
+          "start": 1224,
+          "end": 1234,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 6,
+            "chapterId": "1timothy6",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Tim. 6:3",
+          "start": 1282,
+          "end": 1292,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 6,
+            "chapterId": "1timothy6",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Tim. 3:10",
+          "start": 1329,
+          "end": 1340,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-tim",
+            "book": "2timothy",
+            "chapter": 3,
+            "chapterId": "2timothy3",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Tim. 3:16",
+          "start": 1386,
+          "end": 1397,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-tim",
+            "book": "2timothy",
+            "chapter": 3,
+            "chapterId": "2timothy3",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Tim. 4:2",
+          "start": 1443,
+          "end": 1453,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-tim",
+            "book": "2timothy",
+            "chapter": 4,
+            "chapterId": "2timothy4",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Tim. 4:3",
+          "start": 1497,
+          "end": 1507,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-tim",
+            "book": "2timothy",
+            "chapter": 4,
+            "chapterId": "2timothy4",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Titus 1:9",
+          "start": 1564,
+          "end": 1573,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "titus",
+            "book": "titus",
+            "chapter": 1,
+            "chapterId": "titus1",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Titus 2:1",
+          "start": 1626,
+          "end": 1635,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "titus",
+            "book": "titus",
+            "chapter": 2,
+            "chapterId": "titus2",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Titus 2:7",
+          "start": 1672,
+          "end": 1681,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "titus",
+            "book": "titus",
+            "chapter": 2,
+            "chapterId": "titus2",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Titus 2:10",
+          "start": 1726,
+          "end": 1736,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "titus",
+            "book": "titus",
+            "chapter": 2,
+            "chapterId": "titus2",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 6:1",
+          "start": 1788,
+          "end": 1796,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 6,
+            "chapterId": "hebrews6",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 6:2",
+          "start": 1851,
+          "end": 1859,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 6,
+            "chapterId": "hebrews6",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 13:9",
+          "start": 1914,
+          "end": 1923,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 13,
+            "chapterId": "hebrews13",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Jn. 1:9",
+          "start": 1980,
+          "end": 1989,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-jn",
+            "book": "2john",
+            "chapter": 1,
+            "chapterId": "2john1",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 2:14",
+          "start": 2020,
+          "end": 2029,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 2,
+            "chapterId": "revelation2",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "many which shall teach … foolish doctrines, 2 Ne. 28:9. only and true doctrine of the Father, 2 Ne. 31:21. declare unto you my doctrine, 3 Ne. 11:31. establish it for my doctrine, 3 Ne. 11:40.",
+      "references": [
+        {
+          "text": "2 Ne. 28:9",
+          "start": 44,
+          "end": 54,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 28,
+            "chapterId": "2nephi28",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 31:21",
+          "start": 94,
+          "end": 105,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 31,
+            "chapterId": "2nephi31",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 11:31",
+          "start": 137,
+          "end": 148,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 11,
+            "chapterId": "3nephi11",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 11:40",
+          "start": 180,
+          "end": 191,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 11,
+            "chapterId": "3nephi11",
+            "verses": [
+              {
+                "start": 40,
+                "end": 40
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "teach them … the doctrine of repentance, faith, D&C 68:25. teach one another the doctrine of the kingdom, D&C 88:77. difficulty respecting doctrine or principle, D&C 102:23. doctrine of the priesthood shall distil, D&C 121:45.",
+      "references": [
+        {
+          "text": "D&C 68:25",
+          "start": 48,
+          "end": 57,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 68,
+            "chapterId": "doctrineandcovenants68",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 88:77",
+          "start": 106,
+          "end": 115,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 77,
+                "end": 77
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 102:23",
+          "start": 162,
+          "end": 172,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 102,
+            "chapterId": "doctrineandcovenants102",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 121:45",
+          "start": 215,
+          "end": 225,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 45,
+                "end": 45
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-gospel",
+      "slug": "gospel",
+      "title": "Gospel"
+    },
+    {
+      "entryId": "tg-teaching",
+      "slug": "teaching",
+      "title": "Teaching"
+    },
+    {
+      "entryId": "tg-truth",
+      "slug": "truth",
+      "title": "Truth"
+    }
+  ],
+  "slug": "doctrine",
+  "title": "Doctrine",
+  "type": "tg"
+}

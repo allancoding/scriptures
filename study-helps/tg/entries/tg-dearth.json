@@ -1,0 +1,107 @@
+{
+  "_id": "tg-dearth",
+  "content": [
+    {
+      "text": "dearth was in all lands, Gen. 41:54.",
+      "references": [
+        {
+          "text": "Gen. 41:54",
+          "start": 25,
+          "end": 35,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 41,
+            "chapterId": "genesis41",
+            "verses": [
+              {
+                "start": 54,
+                "end": 54
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "dearth over all the land of Egypt and Chanaan, Acts 7:11. great dearth throughout all the world, Acts 11:28.",
+      "references": [
+        {
+          "text": "Acts 7:11",
+          "start": 47,
+          "end": 56,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 7,
+            "chapterId": "acts7",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 11:28",
+          "start": 97,
+          "end": 107,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 11,
+            "chapterId": "acts11",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "inhabitants began to be destroyed … because of the dearth, Ether 9:30.",
+      "references": [
+        {
+          "text": "Ether 9:30",
+          "start": 59,
+          "end": 69,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 9,
+            "chapterId": "ether9",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-drought",
+      "slug": "drought",
+      "title": "Drought"
+    },
+    {
+      "entryId": "tg-famine",
+      "slug": "famine",
+      "title": "Famine"
+    }
+  ],
+  "slug": "dearth",
+  "title": "Dearth",
+  "type": "tg"
+}

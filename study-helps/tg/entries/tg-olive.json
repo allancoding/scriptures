@@ -1,0 +1,228 @@
+{
+  "_id": "tg-olive",
+  "content": [
+    {
+      "text": "thou, being a wild olive tree, wert grafted, Rom. 11:17. These are the two olive trees, Rev. 11:4.",
+      "references": [
+        {
+          "text": "Rom. 11:17",
+          "start": 45,
+          "end": 55,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 11,
+            "chapterId": "romans11",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 11:4",
+          "start": 88,
+          "end": 97,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 11,
+            "chapterId": "revelation11",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Israel … should be compared like unto an olive tree, 1 Ne. 10:12 (15:12). natural branches of the olive tree … should be grafted in, 1 Ne. 10:14 (15:7). I will liken thee, O house of Israel, like unto a tame olive tree, Jacob 5:3 (5:4–46; 6:1).",
+      "references": [
+        {
+          "text": "1 Ne. 10:12",
+          "start": 53,
+          "end": 64,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 10,
+            "chapterId": "1nephi10",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "15:12",
+          "start": 66,
+          "end": 71,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 15,
+            "chapterId": "1nephi15",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Ne. 10:14",
+          "start": 133,
+          "end": 144,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 10,
+            "chapterId": "1nephi10",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "15:7",
+          "start": 146,
+          "end": 150,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 15,
+            "chapterId": "1nephi15",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jacob 5:3",
+          "start": 220,
+          "end": 229,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 5,
+            "chapterId": "jacob5",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "5:4–46",
+          "start": 231,
+          "end": 237,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 5,
+            "chapterId": "jacob5",
+            "verses": [
+              {
+                "start": 4,
+                "end": 46
+              }
+            ]
+          }
+        },
+        {
+          "text": "6:1",
+          "start": 239,
+          "end": 242,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 6,
+            "chapterId": "jacob6",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Go ye … and plant twelve olive trees, D&C 101:44 (101:44–51).",
+      "references": [
+        {
+          "text": "D&C 101:44",
+          "start": 38,
+          "end": 48,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 101,
+            "chapterId": "doctrineandcovenants101",
+            "verses": [
+              {
+                "start": 44,
+                "end": 44
+              }
+            ]
+          }
+        },
+        {
+          "text": "101:44–51",
+          "start": 50,
+          "end": 59,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 101,
+            "chapterId": "doctrineandcovenants101",
+            "verses": [
+              {
+                "start": 44,
+                "end": 51
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-olivet",
+      "slug": "olivet",
+      "title": "Olivet"
+    }
+  ],
+  "slug": "olive",
+  "title": "Olive",
+  "type": "tg"
+}

@@ -1,0 +1,78 @@
+{
+  "_id": "index-unveil",
+  "content": [
+    {
+      "text": "the Lord will unveil his face, D&C 88:68, 95. the Lord shall unveil heavens, D&C 109:74. the Lord shall unveil face of his covering, D&C 124:8.",
+      "references": [
+        {
+          "text": "D&C 88:68, 95",
+          "start": 31,
+          "end": 44,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 68,
+                "end": 68
+              },
+              {
+                "start": 95,
+                "end": 95
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 109:74",
+          "start": 77,
+          "end": 87,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 109,
+            "chapterId": "doctrineandcovenants109",
+            "verses": [
+              {
+                "start": 74,
+                "end": 74
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 124:8",
+          "start": 133,
+          "end": 142,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 124,
+            "chapterId": "doctrineandcovenants124",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-revelation",
+      "slug": "revelation",
+      "title": "Revelation"
+    }
+  ],
+  "slug": "unveil",
+  "title": "Unveil",
+  "type": "index"
+}

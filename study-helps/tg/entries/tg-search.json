@@ -1,0 +1,716 @@
+{
+  "_id": "tg-search",
+  "content": [
+    {
+      "text": "images … Laban searched all the tent, but found them not, Gen. 31:34. to search out a resting place, Num. 10:33. Send thou men, that they may search the land, Num. 13:2. Lord searcheth all hearts, 1 Chr. 28:9 (Jer. 17:10). cause which I knew not I searched out, Job 29:16. my spirit made diligent search, Ps. 77:6. Search me, O God, and know my heart, Ps. 139:23. spirit of man … searching all the inward parts, Prov. 20:27. I gave my heart to … search out … all things, Eccl. 1:13. no searching of his understanding, Isa. 40:28. ye shall … find me, when ye shall search for me, Jer. 29:13. Let us search and try our ways, Lam. 3:40. I, will both search my sheep, and seek them out, Ezek. 34:11.",
+      "references": [
+        {
+          "text": "Gen. 31:34",
+          "start": 58,
+          "end": 68,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 31,
+            "chapterId": "genesis31",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 10:33",
+          "start": 101,
+          "end": 111,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 10,
+            "chapterId": "numbers10",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 13:2",
+          "start": 159,
+          "end": 168,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 13,
+            "chapterId": "numbers13",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Chr. 28:9",
+          "start": 197,
+          "end": 208,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-chr",
+            "book": "1chronicles",
+            "chapter": 28,
+            "chapterId": "1chronicles28",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 17:10",
+          "start": 210,
+          "end": 220,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 17,
+            "chapterId": "jeremiah17",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Job 29:16",
+          "start": 262,
+          "end": 271,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "job",
+            "book": "job",
+            "chapter": 29,
+            "chapterId": "job29",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 77:6",
+          "start": 305,
+          "end": 313,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 77,
+            "chapterId": "psalms77",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 139:23",
+          "start": 352,
+          "end": 362,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 139,
+            "chapterId": "psalms139",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 20:27",
+          "start": 412,
+          "end": 423,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 20,
+            "chapterId": "proverbs20",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eccl. 1:13",
+          "start": 471,
+          "end": 481,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "eccl",
+            "book": "ecclesiastes",
+            "chapter": 1,
+            "chapterId": "ecclesiastes1",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 40:28",
+          "start": 518,
+          "end": 528,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 40,
+            "chapterId": "isaiah40",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 29:13",
+          "start": 579,
+          "end": 589,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 29,
+            "chapterId": "jeremiah29",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Lam. 3:40",
+          "start": 623,
+          "end": 632,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lam",
+            "book": "lamentations",
+            "chapter": 3,
+            "chapterId": "lamentations3",
+            "verses": [
+              {
+                "start": 40,
+                "end": 40
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 34:11",
+          "start": 683,
+          "end": 694,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 34,
+            "chapterId": "ezekiel34",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "search diligently for the young child, Matt. 2:8. Search the scriptures, John 5:39. Search … for out of Galilee ariseth no prophet, John 7:52. they … searched the scriptures daily, Acts 17:11 (Jacob 7:23). he that searcheth the hearts knoweth, Rom. 8:27. the Spirit searcheth all things, 1 Cor. 2:10. prophets have inquired and searched diligently, 1 Pet. 1:10. I am he which searcheth the reins and hearts, Rev. 2:23.",
+      "references": [
+        {
+          "text": "Matt. 2:8",
+          "start": 39,
+          "end": 48,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 2,
+            "chapterId": "matthew2",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 5:39",
+          "start": 73,
+          "end": 82,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 5,
+            "chapterId": "john5",
+            "verses": [
+              {
+                "start": 39,
+                "end": 39
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 7:52",
+          "start": 132,
+          "end": 141,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 7,
+            "chapterId": "john7",
+            "verses": [
+              {
+                "start": 52,
+                "end": 52
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 17:11",
+          "start": 181,
+          "end": 191,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 17,
+            "chapterId": "acts17",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jacob 7:23",
+          "start": 193,
+          "end": 203,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 7,
+            "chapterId": "jacob7",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 8:27",
+          "start": 244,
+          "end": 253,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 8,
+            "chapterId": "romans8",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 2:10",
+          "start": 288,
+          "end": 299,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 2,
+            "chapterId": "1corinthians2",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Pet. 1:10",
+          "start": 349,
+          "end": 360,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-pet",
+            "book": "1peter",
+            "chapter": 1,
+            "chapterId": "1peter1",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 2:23",
+          "start": 408,
+          "end": 417,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 2,
+            "chapterId": "revelation2",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "plates of brass, and he did search them, 1 Ne. 5:10. that he view me with his all-searching eye, 2 Ne. 9:44 (Mosiah 27:31). they will not search knowledge, 2 Ne. 32:7. search them diligently, that ye may profit, Mosiah 1:7. they had searched the scriptures diligently, Alma 17:2. he that hath the scriptures, let him search them, 3 Ne. 10:14. search these things diligently, 3 Ne. 23:1 (Morm. 8:23).",
+      "references": [
+        {
+          "text": "1 Ne. 5:10",
+          "start": 41,
+          "end": 51,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 5,
+            "chapterId": "1nephi5",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 9:44",
+          "start": 97,
+          "end": 107,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 9,
+            "chapterId": "2nephi9",
+            "verses": [
+              {
+                "start": 44,
+                "end": 44
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 27:31",
+          "start": 109,
+          "end": 121,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 27,
+            "chapterId": "mosiah27",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 32:7",
+          "start": 156,
+          "end": 166,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 32,
+            "chapterId": "2nephi32",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 1:7",
+          "start": 212,
+          "end": 222,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 1,
+            "chapterId": "mosiah1",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 17:2",
+          "start": 269,
+          "end": 278,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 17,
+            "chapterId": "alma17",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 10:14",
+          "start": 330,
+          "end": 341,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 10,
+            "chapterId": "3nephi10",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 23:1",
+          "start": 375,
+          "end": 385,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 23,
+            "chapterId": "3nephi23",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 8:23",
+          "start": 387,
+          "end": 397,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 8,
+            "chapterId": "mormon8",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Search these commandments, D&C 1:37. search all things, D&C 63:59. search diligently and spare not, D&C 84:94. travel round … searching after the poor, D&C 84:112. Search diligently, pray always, D&C 90:24.",
+      "references": [
+        {
+          "text": "D&C 1:37",
+          "start": 27,
+          "end": 35,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 1,
+            "chapterId": "doctrineandcovenants1",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 63:59",
+          "start": 56,
+          "end": 65,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 63,
+            "chapterId": "doctrineandcovenants63",
+            "verses": [
+              {
+                "start": 59,
+                "end": 59
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 84:94",
+          "start": 100,
+          "end": 109,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 84,
+            "chapterId": "doctrineandcovenants84",
+            "verses": [
+              {
+                "start": 94,
+                "end": 94
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 84:112",
+          "start": 152,
+          "end": 162,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 84,
+            "chapterId": "doctrineandcovenants84",
+            "verses": [
+              {
+                "start": 112,
+                "end": 112
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 90:24",
+          "start": 196,
+          "end": 205,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 90,
+            "chapterId": "doctrineandcovenants90",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-inquire",
+      "slug": "inquire",
+      "title": "Inquire"
+    },
+    {
+      "entryId": "tg-scriptures-study-of",
+      "slug": "scriptures-study-of",
+      "title": "Scriptures, Study of"
+    },
+    {
+      "entryId": "tg-seek",
+      "slug": "seek",
+      "title": "Seek"
+    },
+    {
+      "entryId": "tg-study",
+      "slug": "study",
+      "title": "Study"
+    }
+  ],
+  "slug": "search",
+  "title": "Search",
+  "type": "tg"
+}

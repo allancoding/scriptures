@@ -1,0 +1,79 @@
+{
+  "_id": "tg-betroth",
+  "content": [
+    {
+      "text": "If she please not her master, who hath betrothed her, Ex. 21:8. what man is there that hath betrothed a wife, Deut. 20:7. betroth thee unto me for ever, Hosea 2:19.",
+      "references": [
+        {
+          "text": "Ex. 21:8",
+          "start": 54,
+          "end": 62,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 21,
+            "chapterId": "exodus21",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 20:7",
+          "start": 110,
+          "end": 120,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 20,
+            "chapterId": "deuteronomy20",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hosea 2:19",
+          "start": 153,
+          "end": 163,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "hosea",
+            "book": "hosea",
+            "chapter": 2,
+            "chapterId": "hosea2",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-espouse",
+      "slug": "espouse",
+      "title": "Espouse"
+    },
+    {
+      "entryId": "tg-marriage-marry",
+      "slug": "marriage-marry",
+      "title": "Marriage, Marry"
+    }
+  ],
+  "slug": "betroth",
+  "title": "Betroth",
+  "type": "tg"
+}

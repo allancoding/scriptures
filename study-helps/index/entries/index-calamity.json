@@ -1,0 +1,112 @@
+{
+  "_id": "index-calamity",
+  "content": [
+    {
+      "text": "Mormon2 sorrows because of Nephites’ calamity, Morm. 2:27. Gentiles will sorrow for calamity of Israel, Morm. 5:11.",
+      "references": [
+        {
+          "text": "Morm. 2:27",
+          "start": 47,
+          "end": 57,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 2,
+            "chapterId": "mormon2",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 5:11",
+          "start": 104,
+          "end": 114,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 5,
+            "chapterId": "mormon5",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "calamity to come upon inhabitants, D&C 1:17. calamity to cover mocker, D&C 45:50.",
+      "references": [
+        {
+          "text": "D&C 1:17",
+          "start": 35,
+          "end": 43,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 1,
+            "chapterId": "doctrineandcovenants1",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 45:50",
+          "start": 71,
+          "end": 80,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 45,
+            "chapterId": "doctrineandcovenants45",
+            "verses": [
+              {
+                "start": 50,
+                "end": 50
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-destruction",
+      "slug": "destruction",
+      "title": "Destruction"
+    },
+    {
+      "entryId": "index-peril",
+      "slug": "peril",
+      "title": "Peril"
+    },
+    {
+      "entryId": "index-tribulation",
+      "slug": "tribulation",
+      "title": "Tribulation"
+    },
+    {
+      "entryId": "index-trouble",
+      "slug": "trouble",
+      "title": "Trouble"
+    }
+  ],
+  "slug": "calamity",
+  "title": "Calamity",
+  "type": "index"
+}

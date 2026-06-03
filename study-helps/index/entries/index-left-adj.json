@@ -1,0 +1,84 @@
+{
+  "_id": "index-left-adj",
+  "content": [
+    {
+      "text": "whosoever shall not take upon himself the name of Christ shall find himself on left hand of God, Mosiah 5:10.",
+      "references": [
+        {
+          "text": "Mosiah 5:10",
+          "start": 97,
+          "end": 108,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 5,
+            "chapterId": "mosiah5",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "weeping, wailing, gnashing of teeth of those on the Lord’s left hand, D&C 19:5. the Lord will be ashamed to own before the Father wicked gathered on his left hand, D&C 29:27.",
+      "references": [
+        {
+          "text": "D&C 19:5",
+          "start": 70,
+          "end": 78,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 19,
+            "chapterId": "doctrineandcovenants19",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 29:27",
+          "start": 164,
+          "end": 173,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 29,
+            "chapterId": "doctrineandcovenants29",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-leave",
+      "slug": "leave",
+      "title": "Leave"
+    },
+    {
+      "entryId": "index-right-hand",
+      "slug": "right-hand",
+      "title": "Right Hand"
+    }
+  ],
+  "slug": "left-adj",
+  "title": "Left [adj.]",
+  "type": "index"
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "index-sermon-on-the-mount",
+  "content": [
+    {
+      "text": "Christ teaches Nephites as he taught Jews, 3 Ne. 12–14 (Matt. 5–7).",
+      "references": [
+        {
+          "text": "3 Ne. 12–14",
+          "start": 43,
+          "end": 54,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 12,
+            "chapterId": "3nephi12",
+            "verses": []
+          }
+        },
+        {
+          "text": "Matt. 5–7",
+          "start": 56,
+          "end": 65,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 5,
+            "chapterId": "matthew5",
+            "verses": []
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "sermon-on-the-mount",
+  "title": "Sermon on the Mount",
+  "type": "index"
+}

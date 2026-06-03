@@ -1,0 +1,880 @@
+{
+  "_id": "index-generation",
+  "content": [
+    {
+      "text": "Nephites to pass into third and fourth generation after Christ’s appearance before iniquity arises, 1 Ne. 12:11–12 (2 Ne. 26:9; Alma 45:12; 3 Ne. 27:32; 4 Ne. 1:22–24). Lehi1 prophesies about future generations, 2 Ne. 4:2. in future generations seed of Nephites shall become righteous branch unto Israel, 2 Ne. 9:53. God visits iniquities of fathers upon children unto third and fourth generations, Mosiah 13:13 (Deut. 5:9). who shall declare his generation, Mosiah 14:8 (15:10; Isa. 53:8). O ye wicked and perverse generation, Alma 9:8 (10:17, 25; Hel. 13:29). the Lord will preserve records, that he might show his power unto future generations, Alma 37:14, 18–19. fourth generation of enemies shall visit Nephites’ destruction, Hel. 13:10. Christ gives Nephites scriptures so that future generations will have them, 3 Ne. 26:2. God’s word shall hiss forth from generation to generation, Moro. 10:28.",
+      "references": [
+        {
+          "text": "1 Ne. 12:11–12",
+          "start": 100,
+          "end": 114,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 12,
+            "chapterId": "1nephi12",
+            "verses": [
+              {
+                "start": 11,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 26:9",
+          "start": 116,
+          "end": 126,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 26,
+            "chapterId": "2nephi26",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 45:12",
+          "start": 128,
+          "end": 138,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 45,
+            "chapterId": "alma45",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 27:32",
+          "start": 140,
+          "end": 151,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 27,
+            "chapterId": "3nephi27",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "4 Ne. 1:22–24",
+          "start": 153,
+          "end": 166,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "4-ne",
+            "book": "4nephi",
+            "chapter": 1,
+            "chapterId": "4nephi1",
+            "verses": [
+              {
+                "start": 22,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 4:2",
+          "start": 212,
+          "end": 221,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 4,
+            "chapterId": "2nephi4",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 9:53",
+          "start": 305,
+          "end": 315,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 9,
+            "chapterId": "2nephi9",
+            "verses": [
+              {
+                "start": 53,
+                "end": 53
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 13:13",
+          "start": 399,
+          "end": 411,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 13,
+            "chapterId": "mosiah13",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 5:9",
+          "start": 413,
+          "end": 422,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 5,
+            "chapterId": "deuteronomy5",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 14:8",
+          "start": 459,
+          "end": 470,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 14,
+            "chapterId": "mosiah14",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "15:10",
+          "start": 472,
+          "end": 477,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 15,
+            "chapterId": "mosiah15",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 53:8",
+          "start": 479,
+          "end": 488,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 53,
+            "chapterId": "isaiah53",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 9:8",
+          "start": 528,
+          "end": 536,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 9,
+            "chapterId": "alma9",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "10:17, 25",
+          "start": 538,
+          "end": 547,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 10,
+            "chapterId": "alma10",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              },
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 13:29",
+          "start": 549,
+          "end": 559,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 13,
+            "chapterId": "helaman13",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 37:14, 18–19",
+          "start": 648,
+          "end": 665,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 37,
+            "chapterId": "alma37",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              },
+              {
+                "start": 18,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 13:10",
+          "start": 731,
+          "end": 741,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 13,
+            "chapterId": "helaman13",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 26:2",
+          "start": 819,
+          "end": 829,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 26,
+            "chapterId": "3nephi26",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moro. 10:28",
+          "start": 890,
+          "end": 901,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "moro",
+            "book": "moroni",
+            "chapter": 10,
+            "chapterId": "moroni10",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "unbelieving and stiffnecked generation, D&C 5:8. this generation shall have the Lord’s word, D&C 5:10. elders’ testimony will condemn this generation, D&C 5:18. say nothing but repentance to this generation, D&C 6:9 (11:9). Satan thinks to overpower testimony in this generation, D&C 10:33. if this generation harden not hearts, the Lord will establish Church, D&C 10:53. God inspires men in this generation, D&C 20:11. elders called to declare gospel unto crooked and perverse generation, D&C 33:2 (34:6). fulness of gospel sent forth unto this generation, D&C 35:12. save yourselves from this untoward generation, D&C 36:6. this generation of Jews shall not pass away until desolations come, D&C 45:21. men standing in that generation shall see scourge, D&C 45:31. temple in New Jerusalem to be built in this generation, D&C 84:4–5, 31. ye are clean from blood of this wicked generation, D&C 88:75, 85, 138. the Lord to avenge Saints on enemies unto third and fourth generation, D&C 98:28–30, 37, 46 (103:26; 105:30; 124:50). in us and our seed all generations after us should be blessed, D&C 110:12. cleanse your garments lest blood of this generation be required at your hands, D&C 112:33. the Lord visits iniquities of fathers upon children unto third and fourth generation, D&C 124:50.",
+      "references": [
+        {
+          "text": "D&C 5:8",
+          "start": 40,
+          "end": 47,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 5,
+            "chapterId": "doctrineandcovenants5",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 5:10",
+          "start": 93,
+          "end": 101,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 5,
+            "chapterId": "doctrineandcovenants5",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 5:18",
+          "start": 151,
+          "end": 159,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 5,
+            "chapterId": "doctrineandcovenants5",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 6:9",
+          "start": 208,
+          "end": 215,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 6,
+            "chapterId": "doctrineandcovenants6",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "11:9",
+          "start": 217,
+          "end": 221,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 11,
+            "chapterId": "doctrineandcovenants11",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 10:33",
+          "start": 280,
+          "end": 289,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 10,
+            "chapterId": "doctrineandcovenants10",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 10:53",
+          "start": 361,
+          "end": 370,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 10,
+            "chapterId": "doctrineandcovenants10",
+            "verses": [
+              {
+                "start": 53,
+                "end": 53
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 20:11",
+          "start": 409,
+          "end": 418,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 20,
+            "chapterId": "doctrineandcovenants20",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 33:2",
+          "start": 490,
+          "end": 498,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 33,
+            "chapterId": "doctrineandcovenants33",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "34:6",
+          "start": 500,
+          "end": 504,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 34,
+            "chapterId": "doctrineandcovenants34",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 35:12",
+          "start": 558,
+          "end": 567,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 35,
+            "chapterId": "doctrineandcovenants35",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 36:6",
+          "start": 616,
+          "end": 624,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 36,
+            "chapterId": "doctrineandcovenants36",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 45:21",
+          "start": 694,
+          "end": 703,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 45,
+            "chapterId": "doctrineandcovenants45",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 45:31",
+          "start": 756,
+          "end": 765,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 45,
+            "chapterId": "doctrineandcovenants45",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 84:4–5, 31",
+          "start": 823,
+          "end": 837,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 84,
+            "chapterId": "doctrineandcovenants84",
+            "verses": [
+              {
+                "start": 4,
+                "end": 5
+              },
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 88:75, 85, 138",
+          "start": 890,
+          "end": 908,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 75,
+                "end": 75
+              },
+              {
+                "start": 85,
+                "end": 85
+              },
+              {
+                "start": 138,
+                "end": 138
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 98:28–30, 37, 46",
+          "start": 981,
+          "end": 1001,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 98,
+            "chapterId": "doctrineandcovenants98",
+            "verses": [
+              {
+                "start": 28,
+                "end": 30
+              },
+              {
+                "start": 37,
+                "end": 37
+              },
+              {
+                "start": 46,
+                "end": 46
+              }
+            ]
+          }
+        },
+        {
+          "text": "103:26",
+          "start": 1003,
+          "end": 1009,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 103,
+            "chapterId": "doctrineandcovenants103",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "105:30",
+          "start": 1011,
+          "end": 1017,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 105,
+            "chapterId": "doctrineandcovenants105",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "124:50",
+          "start": 1019,
+          "end": 1025,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 124,
+            "chapterId": "doctrineandcovenants124",
+            "verses": [
+              {
+                "start": 50,
+                "end": 50
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 110:12",
+          "start": 1091,
+          "end": 1101,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 110,
+            "chapterId": "doctrineandcovenants110",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 112:33",
+          "start": 1182,
+          "end": 1192,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 112,
+            "chapterId": "doctrineandcovenants112",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 124:50",
+          "start": 1280,
+          "end": 1290,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 124,
+            "chapterId": "doctrineandcovenants124",
+            "verses": [
+              {
+                "start": 50,
+                "end": 50
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "generations of heaven and earth, Moses 3:4 (Abr. 5:4). book of generations of Adam is kept, Moses 6:8. Noah1 is perfect in his generation, Moses 8:27.",
+      "references": [
+        {
+          "text": "Moses 3:4",
+          "start": 33,
+          "end": 42,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 3,
+            "chapterId": "moses3",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Abr. 5:4",
+          "start": 44,
+          "end": 52,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 5,
+            "chapterId": "abraham5",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 6:8",
+          "start": 92,
+          "end": 101,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 6,
+            "chapterId": "moses6",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 8:27",
+          "start": 139,
+          "end": 149,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 8,
+            "chapterId": "moses8",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "generation",
+  "title": "Generation",
+  "type": "index"
+}

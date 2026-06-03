@@ -1,0 +1,50 @@
+{
+  "_id": "tg-spikenard",
+  "content": [
+    {
+      "text": "alabaster box of ointment of spikenard, Mark 14:3 (John 12:3).",
+      "references": [
+        {
+          "text": "Mark 14:3",
+          "start": 40,
+          "end": 49,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 14,
+            "chapterId": "mark14",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 12:3",
+          "start": 51,
+          "end": 60,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 12,
+            "chapterId": "john12",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "spikenard",
+  "title": "Spikenard",
+  "type": "tg"
+}

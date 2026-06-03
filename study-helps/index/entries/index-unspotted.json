@@ -1,0 +1,43 @@
+{
+  "_id": "index-unspotted",
+  "content": [
+    {
+      "text": "keep thyself unspotted from world, D&C 59:9.",
+      "references": [
+        {
+          "text": "D&C 59:9",
+          "start": 35,
+          "end": 43,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 59,
+            "chapterId": "doctrineandcovenants59",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-purity",
+      "slug": "purity",
+      "title": "Purity"
+    },
+    {
+      "entryId": "index-spotless",
+      "slug": "spotless",
+      "title": "Spotless"
+    }
+  ],
+  "slug": "unspotted",
+  "title": "Unspotted",
+  "type": "index"
+}

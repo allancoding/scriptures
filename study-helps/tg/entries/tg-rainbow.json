@@ -1,0 +1,91 @@
+{
+  "_id": "tg-rainbow",
+  "content": [
+    {
+      "text": "set my bow in the cloud … for a token of a covenant, Gen. 9:13. appearance of the bow that is in the cloud, Ezek. 1:28.",
+      "references": [
+        {
+          "text": "Gen. 9:13",
+          "start": 53,
+          "end": 62,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 9,
+            "chapterId": "genesis9",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 1:28",
+          "start": 108,
+          "end": 118,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 1,
+            "chapterId": "ezekiel1",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "rainbow round about the throne, Rev. 4:3. angel come down … and a rainbow was upon his head, Rev. 10:1.",
+      "references": [
+        {
+          "text": "Rev. 4:3",
+          "start": 32,
+          "end": 40,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 4,
+            "chapterId": "revelation4",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 10:1",
+          "start": 93,
+          "end": 102,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 10,
+            "chapterId": "revelation10",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "rainbow",
+  "title": "Rainbow",
+  "type": "tg"
+}

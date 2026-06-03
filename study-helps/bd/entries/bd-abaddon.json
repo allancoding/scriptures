@@ -1,0 +1,86 @@
+{
+  "_id": "bd-abaddon",
+  "content": [
+    {
+      "text": "A Hebrew word found in the Wisdom literature of the Old Testament denoting “the place of the lost” (Job 26:6; Prov. 15:11; 27:20), which the King James Version translates as “destruction.” In Rev. 9:11 it is used as a name of the devil. See also Apollyon.",
+      "references": [
+        {
+          "text": "Job 26:6",
+          "start": 100,
+          "end": 108,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "job",
+            "book": "job",
+            "chapter": 26,
+            "chapterId": "job26",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 15:11",
+          "start": 110,
+          "end": 121,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 15,
+            "chapterId": "proverbs15",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "27:20",
+          "start": 123,
+          "end": 128,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 27,
+            "chapterId": "proverbs27",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 9:11",
+          "start": 192,
+          "end": 201,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 9,
+            "chapterId": "revelation9",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "abaddon",
+  "title": "Abaddon",
+  "type": "bd"
+}

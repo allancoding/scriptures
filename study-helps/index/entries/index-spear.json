@@ -1,0 +1,84 @@
+{
+  "_id": "index-spear",
+  "content": [
+    {
+      "text": "nations shall beat spears into pruning hooks, 2 Ne. 12:4 (Isa. 2:4). sons of Mosiah2 take spears to provide food, Alma 17:7.",
+      "references": [
+        {
+          "text": "2 Ne. 12:4",
+          "start": 46,
+          "end": 56,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 12,
+            "chapterId": "2nephi12",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 2:4",
+          "start": 58,
+          "end": 66,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 2,
+            "chapterId": "isaiah2",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 17:7",
+          "start": 114,
+          "end": 123,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 17,
+            "chapterId": "alma17",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-dart",
+      "slug": "dart",
+      "title": "Dart"
+    },
+    {
+      "entryId": "index-javelin",
+      "slug": "javelin",
+      "title": "Javelin"
+    },
+    {
+      "entryId": "index-weapon",
+      "slug": "weapon",
+      "title": "Weapon"
+    }
+  ],
+  "slug": "spear",
+  "title": "Spear",
+  "type": "index"
+}

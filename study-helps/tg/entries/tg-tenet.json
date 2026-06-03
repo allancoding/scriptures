@@ -1,0 +1,55 @@
+{
+  "_id": "tg-tenet",
+  "content": [
+    {
+      "text": "of tenets thou shalt not talk, D&C 19:31.",
+      "references": [
+        {
+          "text": "D&C 19:31",
+          "start": 31,
+          "end": 40,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 19,
+            "chapterId": "doctrineandcovenants19",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Methodists … zealous in endeavoring to establish their own tenets, JS—H 1:9.",
+      "references": [
+        {
+          "text": "JS—H 1:9",
+          "start": 67,
+          "end": 75,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "tenet",
+  "title": "Tenet",
+  "type": "tg"
+}

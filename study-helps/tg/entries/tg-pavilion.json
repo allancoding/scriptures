@@ -1,0 +1,73 @@
+{
+  "_id": "tg-pavilion",
+  "content": [
+    {
+      "text": "as he was drinking, he and the kings in the pavilions, 1 Kgs. 20:12. time of trouble he shall hide me in his pavilion, Ps. 27:5.",
+      "references": [
+        {
+          "text": "1 Kgs. 20:12",
+          "start": 55,
+          "end": 67,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 20,
+            "chapterId": "1kings20",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 27:5",
+          "start": 119,
+          "end": 127,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 27,
+            "chapterId": "psalms27",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "where is the pavilion that covereth thy hiding place, D&C 121:1.",
+      "references": [
+        {
+          "text": "D&C 121:1",
+          "start": 54,
+          "end": 63,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "pavilion",
+  "title": "Pavilion",
+  "type": "tg"
+}

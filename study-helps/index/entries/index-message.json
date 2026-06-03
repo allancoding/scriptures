@@ -1,0 +1,70 @@
+{
+  "_id": "index-message",
+  "content": [
+    {
+      "text": "when messenger says he has message from God, offer him your hand as test, D&C 129:4, 7. dead hear message of redemption, D&C 138:37.",
+      "references": [
+        {
+          "text": "D&C 129:4, 7",
+          "start": 74,
+          "end": 86,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 129,
+            "chapterId": "doctrineandcovenants129",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              },
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 138:37",
+          "start": 121,
+          "end": 131,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 138,
+            "chapterId": "doctrineandcovenants138",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-gospel",
+      "slug": "gospel",
+      "title": "Gospel"
+    },
+    {
+      "entryId": "index-messenger",
+      "slug": "messenger",
+      "title": "Messenger"
+    },
+    {
+      "entryId": "index-tidings",
+      "slug": "tidings",
+      "title": "Tidings"
+    }
+  ],
+  "slug": "message",
+  "title": "Message",
+  "type": "index"
+}

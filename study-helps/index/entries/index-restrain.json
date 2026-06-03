@@ -1,0 +1,76 @@
+{
+  "_id": "index-restrain",
+  "content": [
+    {
+      "text": "Nephi1 could not restrain truth, 2 Ne. 1:26. Ether could not be restrained from prophesying because of the Spirit, Ether 12:2.",
+      "references": [
+        {
+          "text": "2 Ne. 1:26",
+          "start": 33,
+          "end": 43,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 1,
+            "chapterId": "2nephi1",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 12:2",
+          "start": 115,
+          "end": 125,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 12,
+            "chapterId": "ether12",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-hinder",
+      "slug": "hinder",
+      "title": "Hinder"
+    },
+    {
+      "entryId": "index-keep",
+      "slug": "keep",
+      "title": "Keep"
+    },
+    {
+      "entryId": "index-stay",
+      "slug": "stay",
+      "title": "Stay"
+    },
+    {
+      "entryId": "index-stop",
+      "slug": "stop",
+      "title": "Stop"
+    },
+    {
+      "entryId": "index-withhold",
+      "slug": "withhold",
+      "title": "Withhold"
+    }
+  ],
+  "slug": "restrain",
+  "title": "Restrain",
+  "type": "index"
+}

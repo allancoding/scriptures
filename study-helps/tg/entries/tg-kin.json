@@ -1,0 +1,79 @@
+{
+  "_id": "tg-kin",
+  "content": [
+    {
+      "text": "approach to any that is near of kin to him, Lev. 18:6. if any of his kin come to redeem it, Lev. 25:25.",
+      "references": [
+        {
+          "text": "Lev. 18:6",
+          "start": 44,
+          "end": 53,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 18,
+            "chapterId": "leviticus18",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Lev. 25:25",
+          "start": 92,
+          "end": 102,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 25,
+            "chapterId": "leviticus25",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "prophet is not without honour, but … among his own kin, Mark 6:4.",
+      "references": [
+        {
+          "text": "Mark 6:4",
+          "start": 56,
+          "end": 64,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 6,
+            "chapterId": "mark6",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-kindred",
+      "slug": "kindred",
+      "title": "Kindred"
+    }
+  ],
+  "slug": "kin",
+  "title": "Kin",
+  "type": "tg"
+}

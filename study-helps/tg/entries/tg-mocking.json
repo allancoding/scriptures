@@ -1,0 +1,868 @@
+{
+  "_id": "tg-mocking",
+  "content": [
+    {
+      "text": "he seemed as one that mocked unto his sons in law, Gen. 19:14. Sarah saw the son of Hagar … mocking, Gen. 21:9. he hath brought in an Hebrew unto us to mock us, Gen. 39:14. said unto the ass, Because thou hast mocked me, Num. 22:29. thou hast mocked me, and told me lies, Judg. 16:10. Elijah mocked them, 1 Kgs. 18:27. came forth little children out of the city, and mocked him, 2 Kgs. 2:23. they mocked the messengers of God, 2 Chr. 36:16. With hypocritical mockers in feasts, Ps. 35:16. Fools make a mock at sin, Prov. 14:9. Whoso mocketh the poor reproacheth his Maker, Prov. 17:5. Wine is a mocker, Prov. 20:1. adversaries saw her, and did mock at her sabbaths, Lam. 1:7.",
+      "references": [
+        {
+          "text": "Gen. 19:14",
+          "start": 51,
+          "end": 61,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 19,
+            "chapterId": "genesis19",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 21:9",
+          "start": 101,
+          "end": 110,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 21,
+            "chapterId": "genesis21",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 39:14",
+          "start": 161,
+          "end": 171,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 39,
+            "chapterId": "genesis39",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 22:29",
+          "start": 221,
+          "end": 231,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 22,
+            "chapterId": "numbers22",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Judg. 16:10",
+          "start": 272,
+          "end": 283,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "judg",
+            "book": "judges",
+            "chapter": 16,
+            "chapterId": "judges16",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Kgs. 18:27",
+          "start": 305,
+          "end": 317,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 18,
+            "chapterId": "1kings18",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Kgs. 2:23",
+          "start": 379,
+          "end": 390,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 2,
+            "chapterId": "2kings2",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Chr. 36:16",
+          "start": 427,
+          "end": 439,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-chr",
+            "book": "2chronicles",
+            "chapter": 36,
+            "chapterId": "2chronicles36",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 35:16",
+          "start": 478,
+          "end": 487,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 35,
+            "chapterId": "psalms35",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 14:9",
+          "start": 515,
+          "end": 525,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 14,
+            "chapterId": "proverbs14",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 17:5",
+          "start": 573,
+          "end": 583,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 17,
+            "chapterId": "proverbs17",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 20:1",
+          "start": 603,
+          "end": 613,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 20,
+            "chapterId": "proverbs20",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Lam. 1:7",
+          "start": 666,
+          "end": 674,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lam",
+            "book": "lamentations",
+            "chapter": 1,
+            "chapterId": "lamentations1",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "he saw that he was mocked of the wise men, Matt. 2:16. to mock, and to scourge, Matt. 20:19 (Mark 10:34; Luke 18:32). mocked him, saying, Hail, King of the Jews, Matt. 27:29. the chief priests mocking him, Matt. 27:41 (Mark 15:31). they shall mock him, Mark 10:34 (Luke 18:32; 1 Ne. 1:19). they had mocked him … and led him out to crucify him, Mark 15:20. Lest … all that behold it begin to mock him, Luke 14:29. men that held Jesus mocked him, Luke 22:63. Herod with his men of war … mocked him, Luke 23:11. soldiers also mocked him, Luke 23:36. Others mocking said, These men are full of new wine, Acts 2:13. heard of the resurrection of the dead, some mocked, Acts 17:32. Be not deceived; God is not mocked, Gal. 6:7. others had trial of cruel mockings, Heb. 11:36. should be mockers in the last time, Jude 1:18.",
+      "references": [
+        {
+          "text": "Matt. 2:16",
+          "start": 43,
+          "end": 53,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 2,
+            "chapterId": "matthew2",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 20:19",
+          "start": 80,
+          "end": 91,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 20,
+            "chapterId": "matthew20",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 10:34",
+          "start": 93,
+          "end": 103,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 10,
+            "chapterId": "mark10",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 18:32",
+          "start": 105,
+          "end": 115,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 18,
+            "chapterId": "luke18",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 27:29",
+          "start": 162,
+          "end": 173,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 27,
+            "chapterId": "matthew27",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 27:41",
+          "start": 206,
+          "end": 217,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 27,
+            "chapterId": "matthew27",
+            "verses": [
+              {
+                "start": 41,
+                "end": 41
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 15:31",
+          "start": 219,
+          "end": 229,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 15,
+            "chapterId": "mark15",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 10:34",
+          "start": 253,
+          "end": 263,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 10,
+            "chapterId": "mark10",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 18:32",
+          "start": 265,
+          "end": 275,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 18,
+            "chapterId": "luke18",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Ne. 1:19",
+          "start": 277,
+          "end": 287,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 1,
+            "chapterId": "1nephi1",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 15:20",
+          "start": 344,
+          "end": 354,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 15,
+            "chapterId": "mark15",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 14:29",
+          "start": 401,
+          "end": 411,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 14,
+            "chapterId": "luke14",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 22:63",
+          "start": 445,
+          "end": 455,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 22,
+            "chapterId": "luke22",
+            "verses": [
+              {
+                "start": 63,
+                "end": 63
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 23:11",
+          "start": 497,
+          "end": 507,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 23,
+            "chapterId": "luke23",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 23:36",
+          "start": 535,
+          "end": 545,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 23,
+            "chapterId": "luke23",
+            "verses": [
+              {
+                "start": 36,
+                "end": 36
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 2:13",
+          "start": 600,
+          "end": 609,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 2,
+            "chapterId": "acts2",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 17:32",
+          "start": 663,
+          "end": 673,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 17,
+            "chapterId": "acts17",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gal. 6:7",
+          "start": 711,
+          "end": 719,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "gal",
+            "book": "galatians",
+            "chapter": 6,
+            "chapterId": "galatians6",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 11:36",
+          "start": 757,
+          "end": 767,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 11,
+            "chapterId": "hebrews11",
+            "verses": [
+              {
+                "start": 36,
+                "end": 36
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jude 1:18",
+          "start": 805,
+          "end": 814,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "jude",
+            "book": "jude",
+            "chapter": 1,
+            "chapterId": "jude1",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "attitude of mocking and pointing their fingers, 1 Ne. 8:27. make a mock of the great plan of redemption, Jacob 6:8. suffereth himself to be mocked, and scourged, Mosiah 15:5. one among you that doth make a mock of his brother, Alma 5:30. making a mock of that which was sacred, Hel. 4:12. people did revile against the prophets, and did mock them, Ether 7:24. I fear lest the Gentiles shall mock at our words, Ether 12:25. Fools mock, but they shall mourn, Ether 12:26. solemn mockery before God, that ye should baptize little children, Moro. 8:9.",
+      "references": [
+        {
+          "text": "1 Ne. 8:27",
+          "start": 48,
+          "end": 58,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 8,
+            "chapterId": "1nephi8",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jacob 6:8",
+          "start": 105,
+          "end": 114,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 6,
+            "chapterId": "jacob6",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 15:5",
+          "start": 162,
+          "end": 173,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 15,
+            "chapterId": "mosiah15",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 5:30",
+          "start": 227,
+          "end": 236,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 5,
+            "chapterId": "alma5",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 4:12",
+          "start": 278,
+          "end": 287,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 4,
+            "chapterId": "helaman4",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 7:24",
+          "start": 348,
+          "end": 358,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 7,
+            "chapterId": "ether7",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 12:25",
+          "start": 410,
+          "end": 421,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 12,
+            "chapterId": "ether12",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 12:26",
+          "start": 457,
+          "end": 468,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 12,
+            "chapterId": "ether12",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moro. 8:9",
+          "start": 537,
+          "end": 546,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "moro",
+            "book": "moroni",
+            "chapter": 8,
+            "chapterId": "moroni8",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "calamity shall cover the mocker, D&C 45:50. Lord, am not to be mocked in the last days, D&C 63:58 (104:6). Lord … cannot be mocked in any of these things, D&C 124:71.",
+      "references": [
+        {
+          "text": "D&C 45:50",
+          "start": 33,
+          "end": 42,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 45,
+            "chapterId": "doctrineandcovenants45",
+            "verses": [
+              {
+                "start": 50,
+                "end": 50
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 63:58",
+          "start": 88,
+          "end": 97,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 63,
+            "chapterId": "doctrineandcovenants63",
+            "verses": [
+              {
+                "start": 58,
+                "end": 58
+              }
+            ]
+          }
+        },
+        {
+          "text": "104:6",
+          "start": 99,
+          "end": 104,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 104,
+            "chapterId": "doctrineandcovenants104",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 124:71",
+          "start": 155,
+          "end": 165,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 124,
+            "chapterId": "doctrineandcovenants124",
+            "verses": [
+              {
+                "start": 71,
+                "end": 71
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-persecution",
+      "slug": "persecution",
+      "title": "Persecution"
+    },
+    {
+      "entryId": "tg-profanity",
+      "slug": "profanity",
+      "title": "Profanity"
+    }
+  ],
+  "slug": "mocking",
+  "title": "Mocking, Mock, Mocker, Mockery",
+  "type": "tg"
+}

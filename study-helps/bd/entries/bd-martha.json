@@ -1,0 +1,68 @@
+{
+  "_id": "bd-martha",
+  "content": [
+    {
+      "text": "Sister of Lazarus and Mary (Luke 10:38–41; John 11:1–47; 12:2).",
+      "references": [
+        {
+          "text": "Luke 10:38–41",
+          "start": 28,
+          "end": 41,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 10,
+            "chapterId": "luke10",
+            "verses": [
+              {
+                "start": 38,
+                "end": 41
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 11:1–47",
+          "start": 43,
+          "end": 55,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 11,
+            "chapterId": "john11",
+            "verses": [
+              {
+                "start": 1,
+                "end": 47
+              }
+            ]
+          }
+        },
+        {
+          "text": "12:2",
+          "start": 57,
+          "end": 61,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 12,
+            "chapterId": "john12",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "martha",
+  "title": "Martha",
+  "type": "bd"
+}

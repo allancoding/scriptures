@@ -1,0 +1,97 @@
+{
+  "_id": "index-pearl",
+  "content": [
+    {
+      "text": "cast not your pearls before swine, 3 Ne. 14:6 (Matt. 7:6). Nephites begin to be proud, wearing fine pearls, 4 Ne. 1:24.",
+      "references": [
+        {
+          "text": "3 Ne. 14:6",
+          "start": 35,
+          "end": 45,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 14,
+            "chapterId": "3nephi14",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 7:6",
+          "start": 47,
+          "end": 56,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 7,
+            "chapterId": "matthew7",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "4 Ne. 1:24",
+          "start": 108,
+          "end": 118,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "4-ne",
+            "book": "4nephi",
+            "chapter": 1,
+            "chapterId": "4nephi1",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "do not cast pearls before swine, D&C 41:6.",
+      "references": [
+        {
+          "text": "D&C 41:6",
+          "start": 33,
+          "end": 41,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 41,
+            "chapterId": "doctrineandcovenants41",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-precious",
+      "slug": "precious",
+      "title": "Precious"
+    }
+  ],
+  "slug": "pearl",
+  "title": "Pearl",
+  "type": "index"
+}

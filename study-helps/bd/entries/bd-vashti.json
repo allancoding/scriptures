@@ -1,0 +1,67 @@
+{
+  "_id": "bd-vashti",
+  "content": [
+    {
+      "text": "Queen of Ahasuerus (Esth. 1–2); deposed for disobedience and replaced by Esther (1:12, 19; 2:17).",
+      "references": [
+        {
+          "text": "Esth. 1–2",
+          "start": 20,
+          "end": 29,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "esth",
+            "book": "esther",
+            "chapter": 1,
+            "chapterId": "esther1",
+            "verses": []
+          }
+        },
+        {
+          "text": "1:12, 19",
+          "start": 81,
+          "end": 89,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "esth",
+            "book": "esther",
+            "chapter": 1,
+            "chapterId": "esther1",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              },
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "2:17",
+          "start": 91,
+          "end": 95,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "esth",
+            "book": "esther",
+            "chapter": 2,
+            "chapterId": "esther2",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "vashti",
+  "title": "Vashti",
+  "type": "bd"
+}

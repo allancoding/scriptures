@@ -1,0 +1,43 @@
+{
+  "_id": "index-arrow",
+  "content": [
+    {
+      "text": "Nephi1 makes arrow out of straight stick, 1 Ne. 16:23.",
+      "references": [
+        {
+          "text": "1 Ne. 16:23",
+          "start": 42,
+          "end": 53,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 16,
+            "chapterId": "1nephi16",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-bow-noun",
+      "slug": "bow-noun",
+      "title": "Bow [noun]"
+    },
+    {
+      "entryId": "index-weapon",
+      "slug": "weapon",
+      "title": "Weapon"
+    }
+  ],
+  "slug": "arrow",
+  "title": "Arrow",
+  "type": "index"
+}

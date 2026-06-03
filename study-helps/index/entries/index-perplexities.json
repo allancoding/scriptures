@@ -1,0 +1,43 @@
+{
+  "_id": "index-perplexities",
+  "content": [
+    {
+      "text": "Saints to be instructed regarding wars and perplexities of nations, D&C 88:78–79.",
+      "references": [
+        {
+          "text": "D&C 88:78–79",
+          "start": 68,
+          "end": 80,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 78,
+                "end": 79
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-calamity",
+      "slug": "calamity",
+      "title": "Calamity"
+    },
+    {
+      "entryId": "index-war",
+      "slug": "war",
+      "title": "War"
+    }
+  ],
+  "slug": "perplexities",
+  "title": "Perplexities",
+  "type": "index"
+}

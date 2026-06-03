@@ -1,0 +1,47 @@
+{
+  "_id": "index-korash",
+  "content": [
+    {
+      "text": "heathen god of Korash, Abr. 1:13, 17.",
+      "references": [
+        {
+          "text": "Abr. 1:13, 17",
+          "start": 23,
+          "end": 36,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 1,
+            "chapterId": "abraham1",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              },
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-gods",
+      "slug": "gods",
+      "title": "Gods"
+    },
+    {
+      "entryId": "index-idolatry",
+      "slug": "idolatry",
+      "title": "Idolatry"
+    }
+  ],
+  "slug": "korash",
+  "title": "Korash",
+  "type": "index"
+}

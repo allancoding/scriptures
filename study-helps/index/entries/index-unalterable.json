@@ -1,0 +1,66 @@
+{
+  "_id": "index-unalterable",
+  "content": [
+    {
+      "text": "decrees of God are unalterable, Alma 41:8.",
+      "references": [
+        {
+          "text": "Alma 41:8",
+          "start": 32,
+          "end": 41,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 41,
+            "chapterId": "alma41",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "God sends unalterable decree that seed of Enoch2 should always be found, Moses 7:52.",
+      "references": [
+        {
+          "text": "Moses 7:52",
+          "start": 73,
+          "end": 83,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 7,
+            "chapterId": "moses7",
+            "verses": [
+              {
+                "start": 52,
+                "end": 52
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-immutable",
+      "slug": "immutable",
+      "title": "Immutable"
+    },
+    {
+      "entryId": "index-unchangeable",
+      "slug": "unchangeable",
+      "title": "Unchangeable"
+    }
+  ],
+  "slug": "unalterable",
+  "title": "Unalterable",
+  "type": "index"
+}

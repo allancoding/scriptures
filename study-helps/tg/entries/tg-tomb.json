@@ -1,0 +1,133 @@
+{
+  "_id": "tg-tomb",
+  "content": [
+    {
+      "text": "two possessed with devils, coming out of the tombs, Matt. 8:28 (Mark 5:2; Luke 8:27). Woe unto you … because ye build the tombs of the prophets, Matt. 23:29. laid it in his own new tomb, Matt. 27:60. took up his corpse, and laid it in a tomb, Mark 6:29.",
+      "references": [
+        {
+          "text": "Matt. 8:28",
+          "start": 52,
+          "end": 62,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 8,
+            "chapterId": "matthew8",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 5:2",
+          "start": 64,
+          "end": 72,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 5,
+            "chapterId": "mark5",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 8:27",
+          "start": 74,
+          "end": 83,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 8,
+            "chapterId": "luke8",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 23:29",
+          "start": 145,
+          "end": 156,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 23,
+            "chapterId": "matthew23",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 27:60",
+          "start": 187,
+          "end": 198,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 27,
+            "chapterId": "matthew27",
+            "verses": [
+              {
+                "start": 60,
+                "end": 60
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 6:29",
+          "start": 243,
+          "end": 252,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 6,
+            "chapterId": "mark6",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-grave-noun",
+      "slug": "grave-noun",
+      "title": "Grave [noun]"
+    },
+    {
+      "entryId": "tg-sepulchre",
+      "slug": "sepulchre",
+      "title": "Sepulchre"
+    }
+  ],
+  "slug": "tomb",
+  "title": "Tomb",
+  "type": "tg"
+}

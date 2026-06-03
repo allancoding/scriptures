@@ -1,0 +1,104 @@
+{
+  "_id": "tg-reel",
+  "content": [
+    {
+      "text": "They reel to and fro, Ps. 107:27. earth shall reel to and fro like a drunkard, Isa. 24:20 (D&C 45:48; 49:23; 88:87).",
+      "references": [
+        {
+          "text": "Ps. 107:27",
+          "start": 22,
+          "end": 32,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 107,
+            "chapterId": "psalms107",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 24:20",
+          "start": 79,
+          "end": 89,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 24,
+            "chapterId": "isaiah24",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 45:48",
+          "start": 91,
+          "end": 100,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 45,
+            "chapterId": "doctrineandcovenants45",
+            "verses": [
+              {
+                "start": 48,
+                "end": 48
+              }
+            ]
+          }
+        },
+        {
+          "text": "49:23",
+          "start": 102,
+          "end": 107,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 49,
+            "chapterId": "doctrineandcovenants49",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "88:87",
+          "start": 109,
+          "end": 114,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 87,
+                "end": 87
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "reel",
+  "title": "Reel",
+  "type": "tg"
+}

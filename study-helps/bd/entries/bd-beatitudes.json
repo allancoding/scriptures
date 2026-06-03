@@ -1,0 +1,68 @@
+{
+  "_id": "bd-beatitudes",
+  "content": [
+    {
+      "text": "Name given to certain declarations of blessedness in the Sermon on the Mount (Matt. 5:3–11; Luke 6:20–22). They describe certain elements that go to form the refined and spiritual character, all of which will be present whenever that character exists in its perfection. Rather than being isolated statements, the Beatitudes are interrelated and progressive in their arrangement. A more comprehensive and accurate listing is found in 3 Ne. 12:1–12, where a greater spiritual emphasis is given. (The JST wording is similar to 3 Ne.)",
+      "references": [
+        {
+          "text": "Matt. 5:3–11",
+          "start": 78,
+          "end": 90,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 5,
+            "chapterId": "matthew5",
+            "verses": [
+              {
+                "start": 3,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 6:20–22",
+          "start": 92,
+          "end": 104,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 6,
+            "chapterId": "luke6",
+            "verses": [
+              {
+                "start": 20,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 12:1–12",
+          "start": 433,
+          "end": 446,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 12,
+            "chapterId": "3nephi12",
+            "verses": [
+              {
+                "start": 1,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "beatitudes",
+  "title": "Beatitudes",
+  "type": "bd"
+}

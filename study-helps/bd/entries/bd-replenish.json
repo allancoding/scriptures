@@ -1,0 +1,68 @@
+{
+  "_id": "bd-replenish",
+  "content": [
+    {
+      "text": "To fill (not refill) (Gen. 1:28; 9:1; Isa. 2:6).",
+      "references": [
+        {
+          "text": "Gen. 1:28",
+          "start": 22,
+          "end": 31,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 1,
+            "chapterId": "genesis1",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "9:1",
+          "start": 33,
+          "end": 36,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 9,
+            "chapterId": "genesis9",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 2:6",
+          "start": 38,
+          "end": 46,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 2,
+            "chapterId": "isaiah2",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "replenish",
+  "title": "Replenish",
+  "type": "bd"
+}

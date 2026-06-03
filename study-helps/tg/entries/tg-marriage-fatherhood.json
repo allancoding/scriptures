@@ -1,0 +1,666 @@
+{
+  "_id": "tg-marriage-fatherhood",
+  "content": [
+    {
+      "text": "Be fruitful, and multiply, and replenish the earth, Gen. 1:28 (9:1, 7; Moses 2:28). shall a man leave his father and his mother, Gen. 2:24 (Moses 3:24; Abr. 5:18). visiting the iniquity of the fathers upon the children, Ex. 20:5. fathers shall not be put to death for the children, Deut. 24:16. perform the duty of an husband’s brother unto her, Deut. 25:5. our fathers have told us, what work thou didst, Ps. 44:1. even as a father the son in whom he delighteth, Prov. 3:12. wise son maketh a glad father, Prov. 10:1. He that troubleth his own house shall inherit the wind, Prov. 11:29. Children’s children are the crown of old men, Prov. 17:6. foolish son is the calamity of his father, Prov. 19:13. Train up a child in the way he should go, Prov. 22:6. Our fathers have sinned, Lam. 5:7. turn the heart of the fathers to the children, Mal. 4:6 (3 Ne. 25:6; D&C 2:2).",
+      "references": [
+        {
+          "text": "Gen. 1:28",
+          "start": 52,
+          "end": 61,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 1,
+            "chapterId": "genesis1",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "9:1, 7",
+          "start": 63,
+          "end": 69,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 9,
+            "chapterId": "genesis9",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              },
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 2:28",
+          "start": 71,
+          "end": 81,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 2,
+            "chapterId": "moses2",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 2:24",
+          "start": 129,
+          "end": 138,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 2,
+            "chapterId": "genesis2",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 3:24",
+          "start": 140,
+          "end": 150,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 3,
+            "chapterId": "moses3",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Abr. 5:18",
+          "start": 152,
+          "end": 161,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 5,
+            "chapterId": "abraham5",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 20:5",
+          "start": 220,
+          "end": 228,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 20,
+            "chapterId": "exodus20",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 24:16",
+          "start": 282,
+          "end": 293,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 24,
+            "chapterId": "deuteronomy24",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 25:5",
+          "start": 346,
+          "end": 356,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 25,
+            "chapterId": "deuteronomy25",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 44:1",
+          "start": 406,
+          "end": 414,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 44,
+            "chapterId": "psalms44",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 3:12",
+          "start": 464,
+          "end": 474,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 3,
+            "chapterId": "proverbs3",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 10:1",
+          "start": 507,
+          "end": 517,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 10,
+            "chapterId": "proverbs10",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 11:29",
+          "start": 575,
+          "end": 586,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 11,
+            "chapterId": "proverbs11",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 17:6",
+          "start": 634,
+          "end": 644,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 17,
+            "chapterId": "proverbs17",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 19:13",
+          "start": 689,
+          "end": 700,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 19,
+            "chapterId": "proverbs19",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 22:6",
+          "start": 744,
+          "end": 754,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 22,
+            "chapterId": "proverbs22",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Lam. 5:7",
+          "start": 781,
+          "end": 789,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lam",
+            "book": "lamentations",
+            "chapter": 5,
+            "chapterId": "lamentations5",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mal. 4:6",
+          "start": 838,
+          "end": 846,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "mal",
+            "book": "malachi",
+            "chapter": 4,
+            "chapterId": "malachi4",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 25:6",
+          "start": 848,
+          "end": 858,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 25,
+            "chapterId": "3nephi25",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 2:2",
+          "start": 860,
+          "end": 867,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 2,
+            "chapterId": "doctrineandcovenants2",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "fathers, provoke not your children to wrath, Eph. 6:4. One that ruleth well his own house, 1 Tim. 3:4. fathers of our flesh which corrected us, Heb. 12:9.",
+      "references": [
+        {
+          "text": "Eph. 6:4",
+          "start": 45,
+          "end": 53,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "eph",
+            "book": "ephesians",
+            "chapter": 6,
+            "chapterId": "ephesians6",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Tim. 3:4",
+          "start": 91,
+          "end": 101,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 3,
+            "chapterId": "1timothy3",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 12:9",
+          "start": 144,
+          "end": 153,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 12,
+            "chapterId": "hebrews12",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "taught somewhat in all the learning of my father, 1 Ne. 1:1. not suffer your children that they go hungry, Mosiah 4:14.",
+      "references": [
+        {
+          "text": "1 Ne. 1:1",
+          "start": 50,
+          "end": 59,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 1,
+            "chapterId": "1nephi1",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 4:14",
+          "start": 107,
+          "end": 118,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 4,
+            "chapterId": "mosiah4",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "great things may be required … of their fathers, D&C 29:48. inasmuch as parents have children in Zion, D&C 68:25. every man who is obliged to provide for his own family, D&C 75:28. bring up your children in light and truth, D&C 93:40. set in order your own house, D&C 93:43. end of his kingdom; he cannot have an increase, D&C 131:4. shall they be gods, because they have all power, D&C 132:20.",
+      "references": [
+        {
+          "text": "D&C 29:48",
+          "start": 49,
+          "end": 58,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 29,
+            "chapterId": "doctrineandcovenants29",
+            "verses": [
+              {
+                "start": 48,
+                "end": 48
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 68:25",
+          "start": 103,
+          "end": 112,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 68,
+            "chapterId": "doctrineandcovenants68",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 75:28",
+          "start": 170,
+          "end": 179,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 75,
+            "chapterId": "doctrineandcovenants75",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 93:40",
+          "start": 224,
+          "end": 233,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 93,
+            "chapterId": "doctrineandcovenants93",
+            "verses": [
+              {
+                "start": 40,
+                "end": 40
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 93:43",
+          "start": 264,
+          "end": 273,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 93,
+            "chapterId": "doctrineandcovenants93",
+            "verses": [
+              {
+                "start": 43,
+                "end": 43
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 131:4",
+          "start": 323,
+          "end": 332,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 131,
+            "chapterId": "doctrineandcovenants131",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 132:20",
+          "start": 383,
+          "end": 393,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 132,
+            "chapterId": "doctrineandcovenants132",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "made all things known unto their sons, Moses 5:12. promises made to the fathers, JS—H 1:39.",
+      "references": [
+        {
+          "text": "Moses 5:12",
+          "start": 39,
+          "end": 49,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 5,
+            "chapterId": "moses5",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "JS—H 1:39",
+          "start": 81,
+          "end": 90,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 39,
+                "end": 39
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-children",
+      "slug": "children",
+      "title": "Children"
+    },
+    {
+      "entryId": "tg-family-children-responsibilities-toward",
+      "slug": "family-children-responsibilities-toward",
+      "title": "Family, Children, Responsibilities toward"
+    },
+    {
+      "entryId": "tg-marriage-husbands",
+      "slug": "marriage-husbands",
+      "title": "Marriage, Husbands"
+    }
+  ],
+  "slug": "marriage-fatherhood",
+  "title": "Marriage, Fatherhood",
+  "type": "tg"
+}

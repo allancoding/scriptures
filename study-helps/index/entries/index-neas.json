@@ -1,0 +1,38 @@
+{
+  "_id": "index-neas",
+  "content": [
+    {
+      "text": "people of Zeniff grow neas, Mosiah 9:9.",
+      "references": [
+        {
+          "text": "Mosiah 9:9",
+          "start": 28,
+          "end": 38,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 9,
+            "chapterId": "mosiah9",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-grain",
+      "slug": "grain",
+      "title": "Grain"
+    }
+  ],
+  "slug": "neas",
+  "title": "Neas—unidentified plant",
+  "type": "index"
+}

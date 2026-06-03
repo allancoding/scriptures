@@ -1,0 +1,91 @@
+{
+  "_id": "tg-stem",
+  "content": [
+    {
+      "text": "rod out of the stem of Jesse, Isa. 11:1 (2 Ne. 21:1).",
+      "references": [
+        {
+          "text": "Isa. 11:1",
+          "start": 30,
+          "end": 39,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 11,
+            "chapterId": "isaiah11",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 21:1",
+          "start": 41,
+          "end": 51,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 21,
+            "chapterId": "2nephi21",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Who is the Stem of Jesse, D&C 113:1 (113:3).",
+      "references": [
+        {
+          "text": "D&C 113:1",
+          "start": 26,
+          "end": 35,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 113,
+            "chapterId": "doctrineandcovenants113",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "113:3",
+          "start": 37,
+          "end": 42,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 113,
+            "chapterId": "doctrineandcovenants113",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "stem",
+  "title": "Stem",
+  "type": "tg"
+}

@@ -1,0 +1,133 @@
+{
+  "_id": "tg-salutation",
+  "content": [
+    {
+      "text": "scribes … love salutations in the marketplaces, Mark 12:38. cast in her mind what manner of salutation this should be, Luke 1:29. when Elisabeth heard the salutation of Mary, the babe leaped, Luke 1:41.",
+      "references": [
+        {
+          "text": "Mark 12:38",
+          "start": 48,
+          "end": 58,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 12,
+            "chapterId": "mark12",
+            "verses": [
+              {
+                "start": 38,
+                "end": 38
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 1:29",
+          "start": 119,
+          "end": 128,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 1,
+            "chapterId": "luke1",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 1:41",
+          "start": 192,
+          "end": 201,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 1,
+            "chapterId": "luke1",
+            "verses": [
+              {
+                "start": 41,
+                "end": 41
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "that all your salutations may be in the name of the Lord, D&C 88:120 (109:9). he that is found unworthy of this salutation shall not have place among you, D&C 88:134.",
+      "references": [
+        {
+          "text": "D&C 88:120",
+          "start": 58,
+          "end": 68,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 120,
+                "end": 120
+              }
+            ]
+          }
+        },
+        {
+          "text": "109:9",
+          "start": 70,
+          "end": 75,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 109,
+            "chapterId": "doctrineandcovenants109",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 88:134",
+          "start": 155,
+          "end": 165,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 134,
+                "end": 134
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-salute",
+      "slug": "salute",
+      "title": "Salute"
+    }
+  ],
+  "slug": "salutation",
+  "title": "Salutation",
+  "type": "tg"
+}

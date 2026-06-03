@@ -1,0 +1,73 @@
+{
+  "_id": "tg-twice",
+  "content": [
+    {
+      "text": "before the cock crow twice, thou shalt deny me, Mark 14:30. trees … without fruit, twice dead, Jude 1:12.",
+      "references": [
+        {
+          "text": "Mark 14:30",
+          "start": 48,
+          "end": 58,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 14,
+            "chapterId": "mark14",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jude 1:12",
+          "start": 95,
+          "end": 104,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "jude",
+            "book": "jude",
+            "chapter": 1,
+            "chapterId": "jude1",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "twice were they cast into a den of wild beasts, 3 Ne. 28:22.",
+      "references": [
+        {
+          "text": "3 Ne. 28:22",
+          "start": 48,
+          "end": 59,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 28,
+            "chapterId": "3nephi28",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "twice",
+  "title": "Twice",
+  "type": "tg"
+}

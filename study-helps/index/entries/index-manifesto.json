@@ -1,0 +1,33 @@
+{
+  "_id": "index-manifesto",
+  "content": [
+    {
+      "text": "official declaration on practice of plural marriage, OD 1.",
+      "references": [
+        {
+          "text": "OD 1",
+          "start": 53,
+          "end": 57,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "od",
+            "book": "officialdeclaration",
+            "chapter": 1,
+            "chapterId": "officialdeclaration1",
+            "verses": []
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-marriage",
+      "slug": "marriage",
+      "title": "Marriage"
+    }
+  ],
+  "slug": "manifesto",
+  "title": "Manifesto",
+  "type": "index"
+}

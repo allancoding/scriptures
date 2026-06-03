@@ -1,0 +1,32 @@
+{
+  "_id": "bd-galley",
+  "content": [
+    {
+      "text": "A rowing boat with a low deck (Isa. 33:21).",
+      "references": [
+        {
+          "text": "Isa. 33:21",
+          "start": 31,
+          "end": 41,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 33,
+            "chapterId": "isaiah33",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "galley",
+  "title": "Galley",
+  "type": "bd"
+}

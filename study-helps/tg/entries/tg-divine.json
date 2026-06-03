@@ -1,0 +1,50 @@
+{
+  "_id": "tg-divine",
+  "content": [
+    {
+      "text": "his divine power hath given unto us all, 2 Pet. 1:3. partakers of the divine nature, 2 Pet. 1:4.",
+      "references": [
+        {
+          "text": "2 Pet. 1:3",
+          "start": 41,
+          "end": 51,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-pet",
+            "book": "2peter",
+            "chapter": 1,
+            "chapterId": "2peter1",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Pet. 1:4",
+          "start": 85,
+          "end": 95,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-pet",
+            "book": "2peter",
+            "chapter": 1,
+            "chapterId": "2peter1",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "divine",
+  "title": "Divine",
+  "type": "tg"
+}

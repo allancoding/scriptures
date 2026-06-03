@@ -1,0 +1,72 @@
+{
+  "_id": "bd-reuel",
+  "content": [
+    {
+      "text": "Friend of God. (1) Son of Esau (Gen. 36; 1 Chr. 1:35, 37).",
+      "references": [
+        {
+          "text": "Gen. 36",
+          "start": 32,
+          "end": 39,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 36,
+            "chapterId": "genesis36",
+            "verses": []
+          }
+        },
+        {
+          "text": "1 Chr. 1:35, 37",
+          "start": 41,
+          "end": 56,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-chr",
+            "book": "1chronicles",
+            "chapter": 1,
+            "chapterId": "1chronicles1",
+            "verses": [
+              {
+                "start": 35,
+                "end": 35
+              },
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "(2) Priest of Midian, Moses’ father-in-law, also called Jethro (Ex. 2:18).",
+      "references": [
+        {
+          "text": "Ex. 2:18",
+          "start": 64,
+          "end": 72,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 2,
+            "chapterId": "exodus2",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "reuel",
+  "title": "Reuel",
+  "type": "bd"
+}

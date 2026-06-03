@@ -1,0 +1,50 @@
+{
+  "_id": "index-smith-george-a",
+  "content": [
+    {
+      "text": "member of Twelve, D&C 124:129. to organize company for journey west, D&C 136:14.",
+      "references": [
+        {
+          "text": "D&C 124:129",
+          "start": 18,
+          "end": 29,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 124,
+            "chapterId": "doctrineandcovenants124",
+            "verses": [
+              {
+                "start": 129,
+                "end": 129
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 136:14",
+          "start": 69,
+          "end": 79,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 136,
+            "chapterId": "doctrineandcovenants136",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "smith-george-a",
+  "title": "Smith, George A.",
+  "type": "index"
+}

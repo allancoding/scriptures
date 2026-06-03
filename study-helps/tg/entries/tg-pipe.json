@@ -1,0 +1,79 @@
+{
+  "_id": "tg-pipe",
+  "content": [
+    {
+      "text": "the people piped with pipes, 1 Kgs. 1:40.",
+      "references": [
+        {
+          "text": "1 Kgs. 1:40",
+          "start": 29,
+          "end": 40,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 1,
+            "chapterId": "1kings1",
+            "verses": [
+              {
+                "start": 40,
+                "end": 40
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "We have piped unto you, and ye have not danced, Matt. 11:17. shall it be known what is piped or harped, 1 Cor. 14:7.",
+      "references": [
+        {
+          "text": "Matt. 11:17",
+          "start": 48,
+          "end": 59,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 11,
+            "chapterId": "matthew11",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 14:7",
+          "start": 104,
+          "end": 115,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 14,
+            "chapterId": "1corinthians14",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-musical-instruments",
+      "slug": "musical-instruments",
+      "title": "Musical Instruments"
+    }
+  ],
+  "slug": "pipe",
+  "title": "Pipe",
+  "type": "tg"
+}

@@ -1,0 +1,138 @@
+{
+  "_id": "tg-vesture",
+  "content": [
+    {
+      "text": "They … cast lots upon my vesture, Ps. 22:18 (Matt. 27:35; John 19:24). as a vesture shalt thou change them, Ps. 102:26 (Heb. 1:12).",
+      "references": [
+        {
+          "text": "Ps. 22:18",
+          "start": 34,
+          "end": 43,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 22,
+            "chapterId": "psalms22",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 27:35",
+          "start": 45,
+          "end": 56,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 27,
+            "chapterId": "matthew27",
+            "verses": [
+              {
+                "start": 35,
+                "end": 35
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 19:24",
+          "start": 58,
+          "end": 68,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 19,
+            "chapterId": "john19",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 102:26",
+          "start": 108,
+          "end": 118,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 102,
+            "chapterId": "psalms102",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 1:12",
+          "start": 120,
+          "end": 129,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 1,
+            "chapterId": "hebrews1",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "clothed with a vesture dipped in blood, Rev. 19:13.",
+      "references": [
+        {
+          "text": "Rev. 19:13",
+          "start": 40,
+          "end": 50,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 19,
+            "chapterId": "revelation19",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-garment",
+      "slug": "garment",
+      "title": "Garment"
+    },
+    {
+      "entryId": "tg-raiment",
+      "slug": "raiment",
+      "title": "Raiment"
+    }
+  ],
+  "slug": "vesture",
+  "title": "Vesture",
+  "type": "tg"
+}

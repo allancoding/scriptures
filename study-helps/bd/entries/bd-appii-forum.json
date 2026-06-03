@@ -1,0 +1,32 @@
+{
+  "_id": "bd-appii-forum",
+  "content": [
+    {
+      "text": "A place on the Appian Road, 43 miles from Rome (Acts 28:15).",
+      "references": [
+        {
+          "text": "Acts 28:15",
+          "start": 48,
+          "end": 58,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 28,
+            "chapterId": "acts28",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "appii-forum",
+  "title": "Appii Forum, or Market of Appius",
+  "type": "bd"
+}

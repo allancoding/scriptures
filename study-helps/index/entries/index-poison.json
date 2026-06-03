@@ -1,0 +1,97 @@
+{
+  "_id": "index-poison",
+  "content": [
+    {
+      "text": "effect of whirlwind is poison, Mosiah 7:30. Amalickiah causes servant to administer poison by degrees to Lehonti, Alma 47:18. Lamanites attempt to destroy Nephites with poison, Alma 55:30.",
+      "references": [
+        {
+          "text": "Mosiah 7:30",
+          "start": 31,
+          "end": 42,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 7,
+            "chapterId": "mosiah7",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 47:18",
+          "start": 114,
+          "end": 124,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 47,
+            "chapterId": "alma47",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 55:30",
+          "start": 177,
+          "end": 187,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 55,
+            "chapterId": "alma55",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "William Law to be delivered from those who would give him deadly poison, D&C 124:98.",
+      "references": [
+        {
+          "text": "D&C 124:98",
+          "start": 73,
+          "end": 83,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 124,
+            "chapterId": "doctrineandcovenants124",
+            "verses": [
+              {
+                "start": 98,
+                "end": 98
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-serpent",
+      "slug": "serpent",
+      "title": "Serpent"
+    }
+  ],
+  "slug": "poison",
+  "title": "Poison, Poisonous",
+  "type": "index"
+}

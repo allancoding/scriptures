@@ -1,0 +1,138 @@
+{
+  "_id": "tg-tomorrow",
+  "content": [
+    {
+      "text": "Boast not thyself of to morrow, Prov. 27:1. eat and drink; for to morrow we shall die, Isa. 22:13 (1 Cor. 15:32; 2 Ne. 28:7–8).",
+      "references": [
+        {
+          "text": "Prov. 27:1",
+          "start": 32,
+          "end": 42,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 27,
+            "chapterId": "proverbs27",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 22:13",
+          "start": 87,
+          "end": 97,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 22,
+            "chapterId": "isaiah22",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 15:32",
+          "start": 99,
+          "end": 111,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 15,
+            "chapterId": "1corinthians15",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 28:7–8",
+          "start": 113,
+          "end": 125,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 28,
+            "chapterId": "2nephi28",
+            "verses": [
+              {
+                "start": 7,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "God … the same today and tomorrow, and forever, Moro. 10:7.",
+      "references": [
+        {
+          "text": "Moro. 10:7",
+          "start": 48,
+          "end": 58,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "moro",
+            "book": "moroni",
+            "chapter": 10,
+            "chapterId": "moroni10",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "tomorrow … they that do wickedly shall be as stubble, D&C 64:24.",
+      "references": [
+        {
+          "text": "D&C 64:24",
+          "start": 54,
+          "end": 63,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 64,
+            "chapterId": "doctrineandcovenants64",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-morrow",
+      "slug": "morrow",
+      "title": "Morrow"
+    }
+  ],
+  "slug": "tomorrow",
+  "title": "Tomorrow",
+  "type": "tg"
+}

@@ -1,0 +1,42 @@
+{
+  "_id": "index-shum",
+  "content": [
+    {
+      "text": "shum of gold is twice value of seon, Alma 11:5, 9.",
+      "references": [
+        {
+          "text": "Alma 11:5, 9",
+          "start": 37,
+          "end": 49,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 11,
+            "chapterId": "alma11",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              },
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-money-nephite",
+      "slug": "money-nephite",
+      "title": "Money, Nephite"
+    }
+  ],
+  "slug": "shum",
+  "title": "Shum—Nephite money",
+  "type": "index"
+}

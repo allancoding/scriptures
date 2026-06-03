@@ -1,0 +1,79 @@
+{
+  "_id": "index-herb",
+  "content": [
+    {
+      "text": "those without faith to be healed shall be nourished with herbs, D&C 42:43. herbs made for benefit and use of man, D&C 59:17–18 (89:10–11).",
+      "references": [
+        {
+          "text": "D&C 42:43",
+          "start": 64,
+          "end": 73,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 42,
+            "chapterId": "doctrineandcovenants42",
+            "verses": [
+              {
+                "start": 43,
+                "end": 43
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 59:17–18",
+          "start": 114,
+          "end": 126,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 59,
+            "chapterId": "doctrineandcovenants59",
+            "verses": [
+              {
+                "start": 17,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "89:10–11",
+          "start": 128,
+          "end": 136,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 89,
+            "chapterId": "doctrineandcovenants89",
+            "verses": [
+              {
+                "start": 10,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-food",
+      "slug": "food",
+      "title": "Food"
+    },
+    {
+      "entryId": "index-grass",
+      "slug": "grass",
+      "title": "Grass"
+    }
+  ],
+  "slug": "herb",
+  "title": "Herb",
+  "type": "index"
+}

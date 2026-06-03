@@ -1,0 +1,73 @@
+{
+  "_id": "tg-ditch",
+  "content": [
+    {
+      "text": "fallen into the ditch which he made, Ps. 7:15. ditch between the two walls for the water, Isa. 22:11.",
+      "references": [
+        {
+          "text": "Ps. 7:15",
+          "start": 37,
+          "end": 45,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 7,
+            "chapterId": "psalms7",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 22:11",
+          "start": 90,
+          "end": 100,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 22,
+            "chapterId": "isaiah22",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "shall they not both fall into the ditch, Luke 6:39.",
+      "references": [
+        {
+          "text": "Luke 6:39",
+          "start": 41,
+          "end": 50,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 6,
+            "chapterId": "luke6",
+            "verses": [
+              {
+                "start": 39,
+                "end": 39
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "ditch",
+  "title": "Ditch",
+  "type": "tg"
+}

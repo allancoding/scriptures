@@ -1,0 +1,86 @@
+{
+  "_id": "tg-pruning-hook",
+  "content": [
+    {
+      "text": "beat … their spears into pruninghooks, Isa. 2:4 (Micah 4:3; 2 Ne. 12:4). Beat … your pruninghooks into spears, Joel 3:10.",
+      "references": [
+        {
+          "text": "Isa. 2:4",
+          "start": 39,
+          "end": 47,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 2,
+            "chapterId": "isaiah2",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Micah 4:3",
+          "start": 49,
+          "end": 58,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "micah",
+            "book": "micah",
+            "chapter": 4,
+            "chapterId": "micah4",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 12:4",
+          "start": 60,
+          "end": 70,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 12,
+            "chapterId": "2nephi12",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Joel 3:10",
+          "start": 111,
+          "end": 120,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "joel",
+            "book": "joel",
+            "chapter": 3,
+            "chapterId": "joel3",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "pruning-hook",
+  "title": "Pruning Hook",
+  "type": "tg"
+}

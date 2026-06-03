@@ -1,0 +1,50 @@
+{
+  "_id": "index-ahah",
+  "content": [
+    {
+      "text": "father of Ethem, Ether 1:9. commits iniquity while king, Ether 11:10.",
+      "references": [
+        {
+          "text": "Ether 1:9",
+          "start": 17,
+          "end": 26,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 1,
+            "chapterId": "ether1",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 11:10",
+          "start": 57,
+          "end": 68,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 11,
+            "chapterId": "ether11",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "ahah",
+  "title": "Ahah—Jaredite king, son of Seth2",
+  "type": "index"
+}

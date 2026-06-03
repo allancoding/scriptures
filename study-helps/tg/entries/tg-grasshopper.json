@@ -1,0 +1,68 @@
+{
+  "_id": "tg-grasshopper",
+  "content": [
+    {
+      "text": "we were in our own sight as grasshoppers, Num. 13:33. they came as grasshoppers for multitude, Judg. 6:5. inhabitants thereof are as grasshoppers, Isa. 40:22.",
+      "references": [
+        {
+          "text": "Num. 13:33",
+          "start": 42,
+          "end": 52,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 13,
+            "chapterId": "numbers13",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "Judg. 6:5",
+          "start": 95,
+          "end": 104,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "judg",
+            "book": "judges",
+            "chapter": 6,
+            "chapterId": "judges6",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 40:22",
+          "start": 147,
+          "end": 157,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 40,
+            "chapterId": "isaiah40",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "grasshopper",
+  "title": "Grasshopper",
+  "type": "tg"
+}

@@ -1,0 +1,54 @@
+{
+  "_id": "bd-poti-pherah",
+  "content": [
+    {
+      "text": "Devoted to the Sun. Priest of On and father-in-law of Joseph (Gen. 41:45, 50; 46:20).",
+      "references": [
+        {
+          "text": "Gen. 41:45, 50",
+          "start": 62,
+          "end": 76,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 41,
+            "chapterId": "genesis41",
+            "verses": [
+              {
+                "start": 45,
+                "end": 45
+              },
+              {
+                "start": 50,
+                "end": 50
+              }
+            ]
+          }
+        },
+        {
+          "text": "46:20",
+          "start": 78,
+          "end": 83,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 46,
+            "chapterId": "genesis46",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "poti-pherah",
+  "title": "Poti-pherah",
+  "type": "bd"
+}

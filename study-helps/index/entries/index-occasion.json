@@ -1,0 +1,38 @@
+{
+  "_id": "index-occasion",
+  "content": [
+    {
+      "text": "disciples in days of old sought occasion against one another and forgave not, D&C 64:8.",
+      "references": [
+        {
+          "text": "D&C 64:8",
+          "start": 78,
+          "end": 86,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 64,
+            "chapterId": "doctrineandcovenants64",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-contention",
+      "slug": "contention",
+      "title": "Contention"
+    }
+  ],
+  "slug": "occasion",
+  "title": "Occasion",
+  "type": "index"
+}

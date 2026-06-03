@@ -1,0 +1,96 @@
+{
+  "_id": "tg-kick",
+  "content": [
+    {
+      "text": "kick ye at my sacrifice, 1 Sam. 2:29.",
+      "references": [
+        {
+          "text": "1 Sam. 2:29",
+          "start": 25,
+          "end": 36,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 2,
+            "chapterId": "1samuel2",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "hard for thee to kick against the pricks, Acts 9:5 (26:14).",
+      "references": [
+        {
+          "text": "Acts 9:5",
+          "start": 42,
+          "end": 50,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 9,
+            "chapterId": "acts9",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "26:14",
+          "start": 52,
+          "end": 57,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 26,
+            "chapterId": "acts26",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "to kick against the pricks, to persecute the saints, D&C 121:38.",
+      "references": [
+        {
+          "text": "D&C 121:38",
+          "start": 53,
+          "end": 63,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 38,
+                "end": 38
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "kick",
+  "title": "Kick",
+  "type": "tg"
+}

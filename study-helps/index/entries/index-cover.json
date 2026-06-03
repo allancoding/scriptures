@@ -1,0 +1,79 @@
+{
+  "_id": "index-cover",
+  "content": [
+    {
+      "text": "darkness covers earth, D&C 112:23. when man covers sins, amen to his priesthood, D&C 121:37.",
+      "references": [
+        {
+          "text": "D&C 112:23",
+          "start": 23,
+          "end": 33,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 112,
+            "chapterId": "doctrineandcovenants112",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 121:37",
+          "start": 81,
+          "end": 91,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "eternity was our covering, Abr. 2:16.",
+      "references": [
+        {
+          "text": "Abr. 2:16",
+          "start": 27,
+          "end": 36,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 2,
+            "chapterId": "abraham2",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-hide",
+      "slug": "hide",
+      "title": "Hide"
+    }
+  ],
+  "slug": "cover",
+  "title": "Cover, Covering",
+  "type": "index"
+}

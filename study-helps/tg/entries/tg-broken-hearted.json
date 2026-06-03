@@ -1,0 +1,79 @@
+{
+  "_id": "tg-broken-hearted",
+  "content": [
+    {
+      "text": "hath sent me to bind up the brokenhearted, Isa. 61:1 (Luke 4:18).",
+      "references": [
+        {
+          "text": "Isa. 61:1",
+          "start": 43,
+          "end": 52,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 61,
+            "chapterId": "isaiah61",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 4:18",
+          "start": 54,
+          "end": 63,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 4,
+            "chapterId": "luke4",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "anointed to bind up the broken-hearted, D&C 138:42.",
+      "references": [
+        {
+          "text": "D&C 138:42",
+          "start": 40,
+          "end": 50,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 138,
+            "chapterId": "doctrineandcovenants138",
+            "verses": [
+              {
+                "start": 42,
+                "end": 42
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-contrite-heart",
+      "slug": "contrite-heart",
+      "title": "Contrite Heart"
+    }
+  ],
+  "slug": "broken-hearted",
+  "title": "Broken-Hearted",
+  "type": "tg"
+}

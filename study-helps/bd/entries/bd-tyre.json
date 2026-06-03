@@ -1,0 +1,613 @@
+{
+  "_id": "bd-tyre",
+  "content": [
+    {
+      "text": "Rock. “The strong city” (Josh. 19:29); an important commercial and seaport town of Syria, in alliance with David (2 Sam. 5:11; 1 Chr. 14:1); with Solomon (1 Kgs. 5; 2 Chr. 2:3–16; see also 2 Sam. 24:7; Isa. 23; Joel 3:4–8; Amos 1:9); its destruction (Jer. 25:22; 27:3; 47:4; Ezek. 26; 27:2–3, 8, 32; 28:2, 12; 29:18; Zech. 9:2–3); supplied men and material to Zerubbabel (Ezra 3:7). See also 1 Kgs. 7:13–14; 9:11–12; Neh. 13:16; Ps. 45:12; 83:7; 87:4; Hosea 9:13; Zech. 9:2–3; Matt. 11:22; Mark 3:8; 7:24, 31; Luke 6:17; 10:13–14; Acts 12:20; 21:3, 7.",
+      "references": [
+        {
+          "text": "Josh. 19:29",
+          "start": 25,
+          "end": 36,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "josh",
+            "book": "joshua",
+            "chapter": 19,
+            "chapterId": "joshua19",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Sam. 5:11",
+          "start": 114,
+          "end": 125,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-sam",
+            "book": "2samuel",
+            "chapter": 5,
+            "chapterId": "2samuel5",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Chr. 14:1",
+          "start": 127,
+          "end": 138,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-chr",
+            "book": "1chronicles",
+            "chapter": 14,
+            "chapterId": "1chronicles14",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Kgs. 5",
+          "start": 155,
+          "end": 163,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 5,
+            "chapterId": "1kings5",
+            "verses": []
+          }
+        },
+        {
+          "text": "2 Chr. 2:3–16",
+          "start": 165,
+          "end": 178,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-chr",
+            "book": "2chronicles",
+            "chapter": 2,
+            "chapterId": "2chronicles2",
+            "verses": [
+              {
+                "start": 3,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Sam. 24:7",
+          "start": 189,
+          "end": 200,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-sam",
+            "book": "2samuel",
+            "chapter": 24,
+            "chapterId": "2samuel24",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 23",
+          "start": 202,
+          "end": 209,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 23,
+            "chapterId": "isaiah23",
+            "verses": []
+          }
+        },
+        {
+          "text": "Joel 3:4–8",
+          "start": 211,
+          "end": 221,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "joel",
+            "book": "joel",
+            "chapter": 3,
+            "chapterId": "joel3",
+            "verses": [
+              {
+                "start": 4,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Amos 1:9",
+          "start": 223,
+          "end": 231,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "amos",
+            "book": "amos",
+            "chapter": 1,
+            "chapterId": "amos1",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 25:22",
+          "start": 251,
+          "end": 261,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 25,
+            "chapterId": "jeremiah25",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "27:3",
+          "start": 263,
+          "end": 267,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 27,
+            "chapterId": "jeremiah27",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "47:4",
+          "start": 269,
+          "end": 273,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 47,
+            "chapterId": "jeremiah47",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 26",
+          "start": 275,
+          "end": 283,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 26,
+            "chapterId": "ezekiel26",
+            "verses": []
+          }
+        },
+        {
+          "text": "27:2–3, 8, 32",
+          "start": 285,
+          "end": 298,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 27,
+            "chapterId": "ezekiel27",
+            "verses": [
+              {
+                "start": 2,
+                "end": 3
+              },
+              {
+                "start": 8,
+                "end": 8
+              },
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "28:2, 12",
+          "start": 300,
+          "end": 308,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 28,
+            "chapterId": "ezekiel28",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              },
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "29:18",
+          "start": 310,
+          "end": 315,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 29,
+            "chapterId": "ezekiel29",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Zech. 9:2–3",
+          "start": 317,
+          "end": 328,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "zech",
+            "book": "zechariah",
+            "chapter": 9,
+            "chapterId": "zechariah9",
+            "verses": [
+              {
+                "start": 2,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezra 3:7",
+          "start": 372,
+          "end": 380,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezra",
+            "book": "ezra",
+            "chapter": 3,
+            "chapterId": "ezra3",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Kgs. 7:13–14",
+          "start": 392,
+          "end": 406,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 7,
+            "chapterId": "1kings7",
+            "verses": [
+              {
+                "start": 13,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "9:11–12",
+          "start": 408,
+          "end": 415,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 9,
+            "chapterId": "1kings9",
+            "verses": [
+              {
+                "start": 11,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Neh. 13:16",
+          "start": 417,
+          "end": 427,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "neh",
+            "book": "nehemiah",
+            "chapter": 13,
+            "chapterId": "nehemiah13",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 45:12",
+          "start": 429,
+          "end": 438,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 45,
+            "chapterId": "psalms45",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "83:7",
+          "start": 440,
+          "end": 444,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 83,
+            "chapterId": "psalms83",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "87:4",
+          "start": 446,
+          "end": 450,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 87,
+            "chapterId": "psalms87",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hosea 9:13",
+          "start": 452,
+          "end": 462,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "hosea",
+            "book": "hosea",
+            "chapter": 9,
+            "chapterId": "hosea9",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Zech. 9:2–3",
+          "start": 464,
+          "end": 475,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "zech",
+            "book": "zechariah",
+            "chapter": 9,
+            "chapterId": "zechariah9",
+            "verses": [
+              {
+                "start": 2,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 11:22",
+          "start": 477,
+          "end": 488,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 11,
+            "chapterId": "matthew11",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 3:8",
+          "start": 490,
+          "end": 498,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 3,
+            "chapterId": "mark3",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "7:24, 31",
+          "start": 500,
+          "end": 508,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 7,
+            "chapterId": "mark7",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              },
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 6:17",
+          "start": 510,
+          "end": 519,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 6,
+            "chapterId": "luke6",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "10:13–14",
+          "start": 521,
+          "end": 529,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 10,
+            "chapterId": "luke10",
+            "verses": [
+              {
+                "start": 13,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 12:20",
+          "start": 531,
+          "end": 541,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 12,
+            "chapterId": "acts12",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "21:3, 7",
+          "start": 543,
+          "end": 550,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 21,
+            "chapterId": "acts21",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              },
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "tyre",
+  "title": "Tyre",
+  "type": "bd"
+}

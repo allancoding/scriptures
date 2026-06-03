@@ -1,0 +1,77 @@
+{
+  "_id": "index-lots",
+  "content": [
+    {
+      "text": "lot falls upon Laman1 to visit Laban, 1 Ne. 3:11.",
+      "references": [
+        {
+          "text": "1 Ne. 3:11",
+          "start": 38,
+          "end": 48,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 3,
+            "chapterId": "1nephi3",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "the Lord’s servant will arrange inheritances of Saints by lot, D&C 85:7. twelve high councilors cast lots or ballot, D&C 102:12, 34.",
+      "references": [
+        {
+          "text": "D&C 85:7",
+          "start": 63,
+          "end": 71,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 85,
+            "chapterId": "doctrineandcovenants85",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 102:12, 34",
+          "start": 117,
+          "end": 131,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 102,
+            "chapterId": "doctrineandcovenants102",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              },
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "lots",
+  "title": "Lots—casting of",
+  "type": "index"
+}

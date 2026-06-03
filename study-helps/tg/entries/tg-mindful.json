@@ -1,0 +1,73 @@
+{
+  "_id": "tg-mindful",
+  "content": [
+    {
+      "text": "What is man, that thou art mindful of him, Ps. 8:4.",
+      "references": [
+        {
+          "text": "Ps. 8:4",
+          "start": 43,
+          "end": 50,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 8,
+            "chapterId": "psalms8",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "God is mindful of every people, Alma 26:37. Christ hath been mindful of you, Moro. 8:2.",
+      "references": [
+        {
+          "text": "Alma 26:37",
+          "start": 32,
+          "end": 42,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 26,
+            "chapterId": "alma26",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moro. 8:2",
+          "start": 77,
+          "end": 86,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "moro",
+            "book": "moroni",
+            "chapter": 8,
+            "chapterId": "moroni8",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "mindful",
+  "title": "Mindful",
+  "type": "tg"
+}

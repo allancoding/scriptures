@@ -1,0 +1,56 @@
+{
+  "_id": "index-dungeons",
+  "content": [
+    {
+      "text": "neither have I suffered that ye should be confined in dungeons, Mosiah 2:13. Alma2 and Amulek could not be confined in dungeons, Alma 8:31.",
+      "references": [
+        {
+          "text": "Mosiah 2:13",
+          "start": 64,
+          "end": 75,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 2,
+            "chapterId": "mosiah2",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 8:31",
+          "start": 129,
+          "end": 138,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 8,
+            "chapterId": "alma8",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-prison",
+      "slug": "prison",
+      "title": "Prison"
+    }
+  ],
+  "slug": "dungeons",
+  "title": "Dungeons",
+  "type": "index"
+}

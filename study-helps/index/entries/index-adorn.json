@@ -1,0 +1,79 @@
+{
+  "_id": "index-adorn",
+  "content": [
+    {
+      "text": "Nephites adorn churches with precious things, 4 Ne. 1:41 (Morm. 8:37). why do ye adorn yourselves with that which hath no life, Morm. 8:39.",
+      "references": [
+        {
+          "text": "4 Ne. 1:41",
+          "start": 46,
+          "end": 56,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "4-ne",
+            "book": "4nephi",
+            "chapter": 1,
+            "chapterId": "4nephi1",
+            "verses": [
+              {
+                "start": 41,
+                "end": 41
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 8:37",
+          "start": 58,
+          "end": 68,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 8,
+            "chapterId": "mormon8",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 8:39",
+          "start": 128,
+          "end": 138,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 8,
+            "chapterId": "mormon8",
+            "verses": [
+              {
+                "start": 39,
+                "end": 39
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-pride",
+      "slug": "pride",
+      "title": "Pride"
+    },
+    {
+      "entryId": "index-vanity",
+      "slug": "vanity",
+      "title": "Vanity"
+    }
+  ],
+  "slug": "adorn",
+  "title": "Adorn",
+  "type": "index"
+}

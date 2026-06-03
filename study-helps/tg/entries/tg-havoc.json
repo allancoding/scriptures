@@ -1,0 +1,55 @@
+{
+  "_id": "tg-havoc",
+  "content": [
+    {
+      "text": "Saul, he made havoc of the church, Acts 8:3.",
+      "references": [
+        {
+          "text": "Acts 8:3",
+          "start": 35,
+          "end": 43,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 8,
+            "chapterId": "acts8",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "these robbers did make great havoc, Hel. 11:27.",
+      "references": [
+        {
+          "text": "Hel. 11:27",
+          "start": 36,
+          "end": 46,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 11,
+            "chapterId": "helaman11",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "havoc",
+  "title": "Havoc",
+  "type": "tg"
+}

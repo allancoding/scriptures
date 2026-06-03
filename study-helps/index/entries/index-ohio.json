@@ -1,0 +1,95 @@
+{
+  "_id": "index-ohio",
+  "content": [
+    {
+      "text": "Church to assemble at the Ohio, D&C 37 (38:32). Saints to assemble in Ohio, D&C 48: Intro. settlement of Saints in Ohio, D&C 51: Intro. Church agent in Ohio, D&C 58:49.",
+      "references": [
+        {
+          "text": "D&C 37",
+          "start": 32,
+          "end": 38,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 37,
+            "chapterId": "doctrineandcovenants37",
+            "verses": []
+          }
+        },
+        {
+          "text": "38:32",
+          "start": 40,
+          "end": 45,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 38,
+            "chapterId": "doctrineandcovenants38",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 48: Intro.",
+          "start": 76,
+          "end": 90,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 48,
+            "chapterId": "doctrineandcovenants48",
+            "verses": []
+          }
+        },
+        {
+          "text": "D&C 51: Intro.",
+          "start": 121,
+          "end": 135,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 51,
+            "chapterId": "doctrineandcovenants51",
+            "verses": []
+          }
+        },
+        {
+          "text": "D&C 58:49",
+          "start": 158,
+          "end": 167,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 58,
+            "chapterId": "doctrineandcovenants58",
+            "verses": [
+              {
+                "start": 49,
+                "end": 49
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-kirtland-ohio",
+      "slug": "kirtland-ohio",
+      "title": "Kirtland, Ohio"
+    }
+  ],
+  "slug": "ohio",
+  "title": "Ohio",
+  "type": "index"
+}

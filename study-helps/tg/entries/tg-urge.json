@@ -1,0 +1,78 @@
+{
+  "_id": "tg-urge",
+  "content": [
+    {
+      "text": "she pressed him daily … and urged him, Judg. 16:16.",
+      "references": [
+        {
+          "text": "Judg. 16:16",
+          "start": 39,
+          "end": 50,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "judg",
+            "book": "judges",
+            "chapter": 16,
+            "chapterId": "judges16",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Pharisees began to urge him, Luke 11:53.",
+      "references": [
+        {
+          "text": "Luke 11:53",
+          "start": 29,
+          "end": 39,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 11,
+            "chapterId": "luke11",
+            "verses": [
+              {
+                "start": 53,
+                "end": 53
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "speak unto my people, and did urge them, Morm. 2:23.",
+      "references": [
+        {
+          "text": "Morm. 2:23",
+          "start": 41,
+          "end": 51,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 2,
+            "chapterId": "mormon2",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "urge",
+  "title": "Urge",
+  "type": "tg"
+}

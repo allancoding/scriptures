@@ -1,0 +1,73 @@
+{
+  "_id": "tg-fisher",
+  "content": [
+    {
+      "text": "I will send for many fishers, saith the Lord, Jer. 16:16.",
+      "references": [
+        {
+          "text": "Jer. 16:16",
+          "start": 46,
+          "end": 56,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 16,
+            "chapterId": "jeremiah16",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "I will make you fishers of men, Matt. 4:19 (Mark 1:17).",
+      "references": [
+        {
+          "text": "Matt. 4:19",
+          "start": 32,
+          "end": 42,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 4,
+            "chapterId": "matthew4",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 1:17",
+          "start": 44,
+          "end": 53,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 1,
+            "chapterId": "mark1",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "fisher",
+  "title": "Fisher",
+  "type": "tg"
+}

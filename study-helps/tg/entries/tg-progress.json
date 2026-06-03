@@ -1,0 +1,89 @@
+{
+  "_id": "tg-progress",
+  "content": [
+    {
+      "text": "church began to fail in its progress, Alma 4:10. ye can have no more power to impede the progress of this people, Alma 60:30.",
+      "references": [
+        {
+          "text": "Alma 4:10",
+          "start": 38,
+          "end": 47,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 4,
+            "chapterId": "alma4",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 60:30",
+          "start": 114,
+          "end": 124,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 60,
+            "chapterId": "alma60",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "militate against its character as a Church and its progress in the world, JS—H 1:1.",
+      "references": [
+        {
+          "text": "JS—H 1:1",
+          "start": 74,
+          "end": 82,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-godliness",
+      "slug": "godliness",
+      "title": "Godliness"
+    },
+    {
+      "entryId": "tg-man-potential-to-become-like-heavenly-father",
+      "slug": "man-potential-to-become-like-heavenly-father",
+      "title": "Man, Potential to Become like Heavenly Father"
+    },
+    {
+      "entryId": "tg-perfection",
+      "slug": "perfection",
+      "title": "Perfection"
+    }
+  ],
+  "slug": "progress",
+  "title": "Progress",
+  "type": "tg"
+}

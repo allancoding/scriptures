@@ -1,0 +1,112 @@
+{
+  "_id": "bd-occupy",
+  "content": [
+    {
+      "text": "To make use of (Ex. 38:24; Judg. 16:11). To do business with (Ex. 27:9; Ezek. 27:16, 19, 21; Luke 19:13).",
+      "references": [
+        {
+          "text": "Ex. 38:24",
+          "start": 16,
+          "end": 25,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 38,
+            "chapterId": "exodus38",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Judg. 16:11",
+          "start": 27,
+          "end": 38,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "judg",
+            "book": "judges",
+            "chapter": 16,
+            "chapterId": "judges16",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 27:9",
+          "start": 62,
+          "end": 70,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 27,
+            "chapterId": "exodus27",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 27:16, 19, 21",
+          "start": 72,
+          "end": 91,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 27,
+            "chapterId": "ezekiel27",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              },
+              {
+                "start": 19,
+                "end": 19
+              },
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 19:13",
+          "start": 93,
+          "end": 103,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 19,
+            "chapterId": "luke19",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "occupy",
+  "title": "Occupy",
+  "type": "bd"
+}

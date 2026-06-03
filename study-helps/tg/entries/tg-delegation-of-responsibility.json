@@ -1,0 +1,665 @@
+{
+  "_id": "tg-delegation-of-responsibility",
+  "content": [
+    {
+      "text": "Moses chose able men … made them heads over the people, Ex. 18:25. Lord said unto Moses, Gather unto me seventy men … that they may stand there with thee, Num. 11:16. thou shalt put some of thine honour upon him, Num. 27:20. Take you wise men … and I will make them rulers, Deut. 1:13. Lord spake by me, and his word was in my tongue, 2 Sam. 23:2. Solomon had twelve officers over all Israel, 1 Kgs. 4:7. I have this day set thee over the nations, Jer. 1:10. made thee a watchman unto the house of Israel, Ezek. 3:17.",
+      "references": [
+        {
+          "text": "Ex. 18:25",
+          "start": 56,
+          "end": 65,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 18,
+            "chapterId": "exodus18",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 11:16",
+          "start": 155,
+          "end": 165,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 11,
+            "chapterId": "numbers11",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 27:20",
+          "start": 213,
+          "end": 223,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 27,
+            "chapterId": "numbers27",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 1:13",
+          "start": 274,
+          "end": 284,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 1,
+            "chapterId": "deuteronomy1",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Sam. 23:2",
+          "start": 335,
+          "end": 346,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-sam",
+            "book": "2samuel",
+            "chapter": 23,
+            "chapterId": "2samuel23",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Kgs. 4:7",
+          "start": 393,
+          "end": 403,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 4,
+            "chapterId": "1kings4",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 1:10",
+          "start": 448,
+          "end": 457,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 1,
+            "chapterId": "jeremiah1",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 3:17",
+          "start": 506,
+          "end": 516,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 3,
+            "chapterId": "ezekiel3",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "called unto him his twelve disciples, Matt. 10:1. I will give unto thee the keys of the kingdom, Matt. 16:19. given him authority to execute judgment, John 5:27. ordained you, that ye should go and bring forth fruit, John 15:16. Jesus … hath sent me, Acts 9:17. Moreover it is required in stewards, 1 Cor. 4:2. bishop must be blameless, as the steward of God, Titus 1:7.",
+      "references": [
+        {
+          "text": "Matt. 10:1",
+          "start": 38,
+          "end": 48,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 10,
+            "chapterId": "matthew10",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 16:19",
+          "start": 97,
+          "end": 108,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 16,
+            "chapterId": "matthew16",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 5:27",
+          "start": 151,
+          "end": 160,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 5,
+            "chapterId": "john5",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 15:16",
+          "start": 217,
+          "end": 227,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 15,
+            "chapterId": "john15",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 9:17",
+          "start": 251,
+          "end": 260,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 9,
+            "chapterId": "acts9",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 4:2",
+          "start": 299,
+          "end": 309,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 4,
+            "chapterId": "1corinthians4",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Titus 1:7",
+          "start": 360,
+          "end": 369,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "titus",
+            "book": "titus",
+            "chapter": 1,
+            "chapterId": "titus1",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "had been consecrated priests and teachers, Jacob 1:18. these plates … conferred them upon my son, Omni 1:3. Mosiah had given Alma the authority over the church, Mosiah 26:8. Mosiah … conferred them upon Alma, Mosiah 28:20. let us appoint judges, Mosiah 29:11. Alma … high priest, his father having conferred the office, Mosiah 29:42. appointed captains, and higher captains, Alma 2:13. expedient for Shiblon to confer those sacred things, Alma 63:11. Having authority given me of Jesus Christ, I baptize, 3 Ne. 11:25. I have chosen to minister unto this people, 3 Ne. 13:25. I speak with boldness, having authority from God, Moro. 8:16.",
+      "references": [
+        {
+          "text": "Jacob 1:18",
+          "start": 43,
+          "end": 53,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 1,
+            "chapterId": "jacob1",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Omni 1:3",
+          "start": 98,
+          "end": 106,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "omni",
+            "book": "omni",
+            "chapter": 1,
+            "chapterId": "omni1",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 26:8",
+          "start": 161,
+          "end": 172,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 26,
+            "chapterId": "mosiah26",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 28:20",
+          "start": 209,
+          "end": 221,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 28,
+            "chapterId": "mosiah28",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 29:11",
+          "start": 246,
+          "end": 258,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 29,
+            "chapterId": "mosiah29",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 29:42",
+          "start": 320,
+          "end": 332,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 29,
+            "chapterId": "mosiah29",
+            "verses": [
+              {
+                "start": 42,
+                "end": 42
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 2:13",
+          "start": 375,
+          "end": 384,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 2,
+            "chapterId": "alma2",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 63:11",
+          "start": 439,
+          "end": 449,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 63,
+            "chapterId": "alma63",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 11:25",
+          "start": 505,
+          "end": 516,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 11,
+            "chapterId": "3nephi11",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 13:25",
+          "start": 562,
+          "end": 573,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 13,
+            "chapterId": "3nephi13",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moro. 8:16",
+          "start": 625,
+          "end": 635,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "moro",
+            "book": "moroni",
+            "chapter": 8,
+            "chapterId": "moroni8",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Upon you … I confer the Priesthood, D&C 13. teach … according to the office wherewith I have appointed you, D&C 38:23. men … shall be appointed by the voice of the church, D&C 38:34. stand in the office whereunto I have appointed him, D&C 42:10. I send you out to prove the world, D&C 84:79. keys of which kingdom have been conferred, D&C 97:14. needs be presiding elders to preside, D&C 107:60. give unto you the officers belonging to my Priesthood, D&C 124:123.",
+      "references": [
+        {
+          "text": "D&C 13",
+          "start": 36,
+          "end": 42,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 13,
+            "chapterId": "doctrineandcovenants13",
+            "verses": []
+          }
+        },
+        {
+          "text": "D&C 38:23",
+          "start": 108,
+          "end": 117,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 38,
+            "chapterId": "doctrineandcovenants38",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 38:34",
+          "start": 172,
+          "end": 181,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 38,
+            "chapterId": "doctrineandcovenants38",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 42:10",
+          "start": 235,
+          "end": 244,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 42,
+            "chapterId": "doctrineandcovenants42",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 84:79",
+          "start": 281,
+          "end": 290,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 84,
+            "chapterId": "doctrineandcovenants84",
+            "verses": [
+              {
+                "start": 79,
+                "end": 79
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 97:14",
+          "start": 335,
+          "end": 344,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 97,
+            "chapterId": "doctrineandcovenants97",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 107:60",
+          "start": 384,
+          "end": 394,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 107,
+            "chapterId": "doctrineandcovenants107",
+            "verses": [
+              {
+                "start": 60,
+                "end": 60
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 124:123",
+          "start": 451,
+          "end": 462,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 124,
+            "chapterId": "doctrineandcovenants124",
+            "verses": [
+              {
+                "start": 123,
+                "end": 123
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "make of thee a minister to bear my name, Abr. 2:6.",
+      "references": [
+        {
+          "text": "Abr. 2:6",
+          "start": 41,
+          "end": 49,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 2,
+            "chapterId": "abraham2",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-leadership",
+      "slug": "leadership",
+      "title": "Leadership"
+    }
+  ],
+  "slug": "delegation-of-responsibility",
+  "title": "Delegation of Responsibility",
+  "type": "tg"
+}

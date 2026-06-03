@@ -1,0 +1,92 @@
+{
+  "_id": "index-evidence",
+  "content": [
+    {
+      "text": "judges judge according to law and evidences, Alma 11:2. what evidence have ye that there is no God, Alma 30:40. Lamanites are convinced because of greatness of evidences, Hel. 5:50. corrupt judges have rejected truth notwithstanding many evidences they have received, Hel. 8:24.",
+      "references": [
+        {
+          "text": "Alma 11:2",
+          "start": 45,
+          "end": 54,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 11,
+            "chapterId": "alma11",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 30:40",
+          "start": 100,
+          "end": 110,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 30,
+            "chapterId": "alma30",
+            "verses": [
+              {
+                "start": 40,
+                "end": 40
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 5:50",
+          "start": 171,
+          "end": 180,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 5,
+            "chapterId": "helaman5",
+            "verses": [
+              {
+                "start": 50,
+                "end": 50
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 8:24",
+          "start": 268,
+          "end": 277,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 8,
+            "chapterId": "helaman8",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-witness",
+      "slug": "witness",
+      "title": "Witness"
+    }
+  ],
+  "slug": "evidence",
+  "title": "Evidence",
+  "type": "index"
+}

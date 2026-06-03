@@ -1,0 +1,50 @@
+{
+  "_id": "bd-nisan",
+  "content": [
+    {
+      "text": "Babylonian name of the first month (Neh. 2:1; Esth. 3:7); anciently called Abib. See Calendar.",
+      "references": [
+        {
+          "text": "Neh. 2:1",
+          "start": 36,
+          "end": 44,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "neh",
+            "book": "nehemiah",
+            "chapter": 2,
+            "chapterId": "nehemiah2",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Esth. 3:7",
+          "start": 46,
+          "end": 55,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "esth",
+            "book": "esther",
+            "chapter": 3,
+            "chapterId": "esther3",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "nisan",
+  "title": "Nisan",
+  "type": "bd"
+}

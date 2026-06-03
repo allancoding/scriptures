@@ -1,0 +1,97 @@
+{
+  "_id": "index-scroll",
+  "content": [
+    {
+      "text": "earth to be wrapt together as scroll, 3 Ne. 26:3 (Morm. 5:23; 9:2).",
+      "references": [
+        {
+          "text": "3 Ne. 26:3",
+          "start": 38,
+          "end": 48,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 26,
+            "chapterId": "3nephi26",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 5:23",
+          "start": 50,
+          "end": 60,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 5,
+            "chapterId": "mormon5",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "9:2",
+          "start": 62,
+          "end": 65,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 9,
+            "chapterId": "mormon9",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "curtain of heaven to be unfolded as scroll, D&C 88:95.",
+      "references": [
+        {
+          "text": "D&C 88:95",
+          "start": 44,
+          "end": 53,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 95,
+                "end": 95
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-roll",
+      "slug": "roll",
+      "title": "Roll"
+    }
+  ],
+  "slug": "scroll",
+  "title": "Scroll",
+  "type": "index"
+}

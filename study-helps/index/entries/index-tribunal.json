@@ -1,0 +1,43 @@
+{
+  "_id": "index-tribunal",
+  "content": [
+    {
+      "text": "can ye imagine yourselves brought before God’s tribunal filled with guilt, Alma 5:18.",
+      "references": [
+        {
+          "text": "Alma 5:18",
+          "start": 75,
+          "end": 84,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 5,
+            "chapterId": "alma5",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-bar",
+      "slug": "bar",
+      "title": "Bar"
+    },
+    {
+      "entryId": "index-judgment-seat",
+      "slug": "judgment-seat",
+      "title": "Judgment-Seat"
+    }
+  ],
+  "slug": "tribunal",
+  "title": "Tribunal",
+  "type": "index"
+}

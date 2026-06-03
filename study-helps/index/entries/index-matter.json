@@ -1,0 +1,61 @@
+{
+  "_id": "index-matter",
+  "content": [
+    {
+      "text": "no such thing as immaterial matter, all spirit is matter, D&C 131:7. when bodies are purified, it is all matter, D&C 131:8.",
+      "references": [
+        {
+          "text": "D&C 131:7",
+          "start": 58,
+          "end": 67,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 131,
+            "chapterId": "doctrineandcovenants131",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 131:8",
+          "start": 113,
+          "end": 122,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 131,
+            "chapterId": "doctrineandcovenants131",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-element",
+      "slug": "element",
+      "title": "Element"
+    },
+    {
+      "entryId": "index-materials",
+      "slug": "materials",
+      "title": "Materials"
+    }
+  ],
+  "slug": "matter",
+  "title": "Matter",
+  "type": "index"
+}

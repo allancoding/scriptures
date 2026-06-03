@@ -1,0 +1,179 @@
+{
+  "_id": "tg-thrice",
+  "content": [
+    {
+      "text": "Thrice in the year shall all your men children appear, Ex. 34:23.",
+      "references": [
+        {
+          "text": "Ex. 34:23",
+          "start": 55,
+          "end": 64,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 34,
+            "chapterId": "exodus34",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "this night … thou shalt deny me thrice, Matt. 26:34 (Mark 14:30; Luke 22:34; John 13:38). Thrice was I beaten … thrice I suffered shipwreck, 2 Cor. 11:25.",
+      "references": [
+        {
+          "text": "Matt. 26:34",
+          "start": 40,
+          "end": 51,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 26,
+            "chapterId": "matthew26",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 14:30",
+          "start": 53,
+          "end": 63,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 14,
+            "chapterId": "mark14",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 22:34",
+          "start": 65,
+          "end": 75,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 22,
+            "chapterId": "luke22",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 13:38",
+          "start": 77,
+          "end": 87,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 13,
+            "chapterId": "john13",
+            "verses": [
+              {
+                "start": 38,
+                "end": 38
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Cor. 11:25",
+          "start": 141,
+          "end": 153,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 11,
+            "chapterId": "2corinthians11",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "thrice they were cast into a furnace, 3 Ne. 28:21. thrice have I delivered them out of the hands of their enemies, Morm. 3:13.",
+      "references": [
+        {
+          "text": "3 Ne. 28:21",
+          "start": 38,
+          "end": 49,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 28,
+            "chapterId": "3nephi28",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 3:13",
+          "start": 115,
+          "end": 125,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 3,
+            "chapterId": "mormon3",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-third",
+      "slug": "third",
+      "title": "Third"
+    },
+    {
+      "entryId": "tg-three",
+      "slug": "three",
+      "title": "Three"
+    }
+  ],
+  "slug": "thrice",
+  "title": "Thrice",
+  "type": "tg"
+}

@@ -1,0 +1,86 @@
+{
+  "_id": "bd-lees",
+  "content": [
+    {
+      "text": "Sediment, dregs, as in the wine-making process (Isa. 25:6; Jer. 48:11; Zeph. 1:12; D&C 58:8).",
+      "references": [
+        {
+          "text": "Isa. 25:6",
+          "start": 48,
+          "end": 57,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 25,
+            "chapterId": "isaiah25",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 48:11",
+          "start": 59,
+          "end": 69,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 48,
+            "chapterId": "jeremiah48",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Zeph. 1:12",
+          "start": 71,
+          "end": 81,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "zeph",
+            "book": "zephaniah",
+            "chapter": 1,
+            "chapterId": "zephaniah1",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 58:8",
+          "start": 83,
+          "end": 91,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 58,
+            "chapterId": "doctrineandcovenants58",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "lees",
+  "title": "Lees",
+  "type": "bd"
+}

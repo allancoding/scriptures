@@ -1,0 +1,50 @@
+{
+  "_id": "tg-aprons",
+  "content": [
+    {
+      "text": "sewed fig leaves together, and made themselves aprons, Gen. 3:7 (Moses 4:13).",
+      "references": [
+        {
+          "text": "Gen. 3:7",
+          "start": 55,
+          "end": 63,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 3,
+            "chapterId": "genesis3",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 4:13",
+          "start": 65,
+          "end": 75,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 4,
+            "chapterId": "moses4",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "aprons",
+  "title": "Aprons",
+  "type": "tg"
+}

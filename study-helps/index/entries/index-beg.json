@@ -1,0 +1,79 @@
+{
+  "_id": "index-beg",
+  "content": [
+    {
+      "text": "ye will not suffer the beggar to put up his petition to you in vain, Mosiah 4:16–25. Nephites begging the Lord for forgiveness, Mosiah 4:20. Korihor begging from house to house for food, Alma 30:56.",
+      "references": [
+        {
+          "text": "Mosiah 4:16–25",
+          "start": 69,
+          "end": 83,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 4,
+            "chapterId": "mosiah4",
+            "verses": [
+              {
+                "start": 16,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 4:20",
+          "start": 128,
+          "end": 139,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 4,
+            "chapterId": "mosiah4",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 30:56",
+          "start": 187,
+          "end": 197,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 30,
+            "chapterId": "alma30",
+            "verses": [
+              {
+                "start": 56,
+                "end": 56
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-plead",
+      "slug": "plead",
+      "title": "Plead"
+    },
+    {
+      "entryId": "index-poor",
+      "slug": "poor",
+      "title": "Poor"
+    }
+  ],
+  "slug": "beg",
+  "title": "Beg, Beggar",
+  "type": "index"
+}

@@ -1,0 +1,96 @@
+{
+  "_id": "index-ark",
+  "content": [
+    {
+      "text": "Jaredite vessels were tight like ark of Noah1, Ether 6:7.",
+      "references": [
+        {
+          "text": "Ether 6:7",
+          "start": 47,
+          "end": 56,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 6,
+            "chapterId": "ether6",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "man who puts forth hand to steady ark will die, D&C 85:8.",
+      "references": [
+        {
+          "text": "D&C 85:8",
+          "start": 48,
+          "end": 56,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 85,
+            "chapterId": "doctrineandcovenants85",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Enoch2 sees Noah1 build ark, Moses 7:43. until day Noah1 entered ark, people were eating and drinking, JS—M 1:42.",
+      "references": [
+        {
+          "text": "Moses 7:43",
+          "start": 29,
+          "end": 39,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 7,
+            "chapterId": "moses7",
+            "verses": [
+              {
+                "start": 43,
+                "end": 43
+              }
+            ]
+          }
+        },
+        {
+          "text": "JS—M 1:42",
+          "start": 103,
+          "end": 112,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-m",
+            "book": "josephsmithmatthew",
+            "chapter": 1,
+            "chapterId": "josephsmithmatthew1",
+            "verses": [
+              {
+                "start": 42,
+                "end": 42
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "ark",
+  "title": "Ark",
+  "type": "index"
+}

@@ -1,0 +1,84 @@
+{
+  "_id": "index-plague",
+  "content": [
+    {
+      "text": "plagues shall go forth, D&C 84:97. with famine and plague will inhabitants feel God’s wrath, D&C 87:6. if Zion does not obey, the Lord will visit her with plague, D&C 97:26.",
+      "references": [
+        {
+          "text": "D&C 84:97",
+          "start": 24,
+          "end": 33,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 84,
+            "chapterId": "doctrineandcovenants84",
+            "verses": [
+              {
+                "start": 97,
+                "end": 97
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 87:6",
+          "start": 93,
+          "end": 101,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 87,
+            "chapterId": "doctrineandcovenants87",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 97:26",
+          "start": 163,
+          "end": 172,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 97,
+            "chapterId": "doctrineandcovenants97",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-destruction",
+      "slug": "destruction",
+      "title": "Destruction"
+    },
+    {
+      "entryId": "index-disease",
+      "slug": "disease",
+      "title": "Disease"
+    },
+    {
+      "entryId": "index-pestilence",
+      "slug": "pestilence",
+      "title": "Pestilence"
+    }
+  ],
+  "slug": "plague",
+  "title": "Plague",
+  "type": "index"
+}

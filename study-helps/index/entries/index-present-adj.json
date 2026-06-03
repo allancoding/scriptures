@@ -1,0 +1,55 @@
+{
+  "_id": "index-present-adj",
+  "content": [
+    {
+      "text": "Moroni2 speaks unto readers as though they were present, Morm. 8:35.",
+      "references": [
+        {
+          "text": "Morm. 8:35",
+          "start": 57,
+          "end": 67,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 8,
+            "chapterId": "mormon8",
+            "verses": [
+              {
+                "start": 35,
+                "end": 35
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "all things are present before the Lord’s eyes, D&C 38:2.",
+      "references": [
+        {
+          "text": "D&C 38:2",
+          "start": 47,
+          "end": 55,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 38,
+            "chapterId": "doctrineandcovenants38",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "present-adj",
+  "title": "Present [adj.]",
+  "type": "index"
+}

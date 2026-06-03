@@ -1,0 +1,54 @@
+{
+  "_id": "bd-pulse",
+  "content": [
+    {
+      "text": "Occurs in 2 Sam. 17:28; Dan. 1:12, 16. The Hebrew word denotes seeds, and may include the grains of leguminous vegetables or any other edible seeds.",
+      "references": [
+        {
+          "text": "2 Sam. 17:28",
+          "start": 10,
+          "end": 22,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-sam",
+            "book": "2samuel",
+            "chapter": 17,
+            "chapterId": "2samuel17",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 1:12, 16",
+          "start": 24,
+          "end": 37,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 1,
+            "chapterId": "daniel1",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              },
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "pulse",
+  "title": "Pulse",
+  "type": "bd"
+}

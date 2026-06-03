@@ -1,0 +1,114 @@
+{
+  "_id": "tg-sever",
+  "content": [
+    {
+      "text": "I will sever in that day the land of Goshen, Ex. 8:22. Lord shall sever between the cattle of Israel and the cattle of Egypt, Ex. 9:4. have severed you from other people, Lev. 20:26.",
+      "references": [
+        {
+          "text": "Ex. 8:22",
+          "start": 45,
+          "end": 53,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 8,
+            "chapterId": "exodus8",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 9:4",
+          "start": 126,
+          "end": 133,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 9,
+            "chapterId": "exodus9",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Lev. 20:26",
+          "start": 171,
+          "end": 181,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 20,
+            "chapterId": "leviticus20",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "angels … sever the wicked from among the just, Matt. 13:49.",
+      "references": [
+        {
+          "text": "Matt. 13:49",
+          "start": 47,
+          "end": 58,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 13,
+            "chapterId": "matthew13",
+            "verses": [
+              {
+                "start": 49,
+                "end": 49
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "they shall be severed from the ordinances of mine house, D&C 121:19.",
+      "references": [
+        {
+          "text": "D&C 121:19",
+          "start": 57,
+          "end": 67,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "sever",
+  "title": "Sever",
+  "type": "tg"
+}

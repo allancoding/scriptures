@@ -1,0 +1,32 @@
+{
+  "_id": "bd-aeneas",
+  "content": [
+    {
+      "text": "Healed by Peter at Lydda (Acts 9:33).",
+      "references": [
+        {
+          "text": "Acts 9:33",
+          "start": 26,
+          "end": 35,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 9,
+            "chapterId": "acts9",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "aeneas",
+  "title": "Aeneas",
+  "type": "bd"
+}

@@ -1,0 +1,79 @@
+{
+  "_id": "index-canker",
+  "content": [
+    {
+      "text": "blades of swords are cankered with rust, Mosiah 8:11. ye hypocrites who sell yourselves for that which will canker, Morm. 8:38.",
+      "references": [
+        {
+          "text": "Mosiah 8:11",
+          "start": 41,
+          "end": 52,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 8,
+            "chapterId": "mosiah8",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 8:38",
+          "start": 116,
+          "end": 126,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 8,
+            "chapterId": "mormon8",
+            "verses": [
+              {
+                "start": 38,
+                "end": 38
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "riches canker souls, D&C 56:16.",
+      "references": [
+        {
+          "text": "D&C 56:16",
+          "start": 21,
+          "end": 30,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 56,
+            "chapterId": "doctrineandcovenants56",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-corrupt",
+      "slug": "corrupt",
+      "title": "Corrupt"
+    }
+  ],
+  "slug": "canker",
+  "title": "Canker",
+  "type": "index"
+}

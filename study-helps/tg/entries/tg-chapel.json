@@ -1,0 +1,32 @@
+{
+  "_id": "tg-chapel",
+  "content": [
+    {
+      "text": "Beth-el: for it is the king’s chapel, Amos 7:13.",
+      "references": [
+        {
+          "text": "Amos 7:13",
+          "start": 38,
+          "end": 47,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "amos",
+            "book": "amos",
+            "chapter": 7,
+            "chapterId": "amos7",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "chapel",
+  "title": "Chapel",
+  "type": "tg"
+}

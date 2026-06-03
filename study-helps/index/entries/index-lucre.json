@@ -1,0 +1,61 @@
+{
+  "_id": "index-lucre",
+  "content": [
+    {
+      "text": "lucre corrupts soul, Mosiah 29:40. Zeezrom loves lucre more than God, Alma 11:24.",
+      "references": [
+        {
+          "text": "Mosiah 29:40",
+          "start": 21,
+          "end": 33,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 29,
+            "chapterId": "mosiah29",
+            "verses": [
+              {
+                "start": 40,
+                "end": 40
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 11:24",
+          "start": 70,
+          "end": 80,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 11,
+            "chapterId": "alma11",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-money",
+      "slug": "money",
+      "title": "Money"
+    },
+    {
+      "entryId": "index-riches",
+      "slug": "riches",
+      "title": "Riches"
+    }
+  ],
+  "slug": "lucre",
+  "title": "Lucre",
+  "type": "index"
+}

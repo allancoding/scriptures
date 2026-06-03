@@ -1,0 +1,43 @@
+{
+  "_id": "index-direct-adj",
+  "content": [
+    {
+      "text": "fathers did not travel direct course in wilderness because of transgressions, Alma 37:42.",
+      "references": [
+        {
+          "text": "Alma 37:42",
+          "start": 78,
+          "end": 88,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 37,
+            "chapterId": "alma37",
+            "verses": [
+              {
+                "start": 42,
+                "end": 42
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-course",
+      "slug": "course",
+      "title": "Course"
+    },
+    {
+      "entryId": "index-straight",
+      "slug": "straight",
+      "title": "Straight"
+    }
+  ],
+  "slug": "direct-adj",
+  "title": "Direct [adj.]",
+  "type": "index"
+}

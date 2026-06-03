@@ -1,0 +1,32 @@
+{
+  "_id": "tg-gardener",
+  "content": [
+    {
+      "text": "supposing him to be the gardener, John 20:15.",
+      "references": [
+        {
+          "text": "John 20:15",
+          "start": 34,
+          "end": 44,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 20,
+            "chapterId": "john20",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "gardener",
+  "title": "Gardener",
+  "type": "tg"
+}

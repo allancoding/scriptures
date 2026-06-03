@@ -1,0 +1,43 @@
+{
+  "_id": "tg-light-verb",
+  "content": [
+    {
+      "text": "descending like a dove, and lighting upon him, Matt. 3:16.",
+      "references": [
+        {
+          "text": "Matt. 3:16",
+          "start": 47,
+          "end": 57,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 3,
+            "chapterId": "matthew3",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-descend",
+      "slug": "descend",
+      "title": "Descend"
+    },
+    {
+      "entryId": "tg-fall",
+      "slug": "fall",
+      "title": "Fall"
+    }
+  ],
+  "slug": "light-verb",
+  "title": "Light [verb]",
+  "type": "tg"
+}

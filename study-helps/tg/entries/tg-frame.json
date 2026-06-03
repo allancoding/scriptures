@@ -1,0 +1,50 @@
+{
+  "_id": "tg-frame",
+  "content": [
+    {
+      "text": "In whom all the building fitly framed together, Eph. 2:21. worlds were framed by the word of God, Heb. 11:3.",
+      "references": [
+        {
+          "text": "Eph. 2:21",
+          "start": 48,
+          "end": 57,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "eph",
+            "book": "ephesians",
+            "chapter": 2,
+            "chapterId": "ephesians2",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 11:3",
+          "start": 98,
+          "end": 107,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 11,
+            "chapterId": "hebrews11",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "frame",
+  "title": "Frame",
+  "type": "tg"
+}

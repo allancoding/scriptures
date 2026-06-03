@@ -1,0 +1,50 @@
+{
+  "_id": "tg-extortioner",
+  "content": [
+    {
+      "text": "I am not as other men are, extortioners, Luke 18:11. nor extortioners, shall inherit the kingdom of God, 1 Cor. 6:10.",
+      "references": [
+        {
+          "text": "Luke 18:11",
+          "start": 41,
+          "end": 51,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 18,
+            "chapterId": "luke18",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 6:10",
+          "start": 105,
+          "end": 116,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 6,
+            "chapterId": "1corinthians6",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "extortioner",
+  "title": "Extortioner",
+  "type": "tg"
+}

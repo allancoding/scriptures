@@ -1,0 +1,43 @@
+{
+  "_id": "index-oblation",
+  "content": [
+    {
+      "text": "offer oblations and sacraments on the Lord’s day, D&C 59:12.",
+      "references": [
+        {
+          "text": "D&C 59:12",
+          "start": 50,
+          "end": 59,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 59,
+            "chapterId": "doctrineandcovenants59",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-offering",
+      "slug": "offering",
+      "title": "Offering"
+    },
+    {
+      "entryId": "index-sacrifice",
+      "slug": "sacrifice",
+      "title": "Sacrifice"
+    }
+  ],
+  "slug": "oblation",
+  "title": "Oblation",
+  "type": "index"
+}

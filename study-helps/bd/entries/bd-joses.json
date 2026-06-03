@@ -1,0 +1,90 @@
+{
+  "_id": "bd-joses",
+  "content": [
+    {
+      "text": "A brother of our Lord (Matt. 13:55; 27:56; Mark 6:3; 15:40, 47).",
+      "references": [
+        {
+          "text": "Matt. 13:55",
+          "start": 23,
+          "end": 34,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 13,
+            "chapterId": "matthew13",
+            "verses": [
+              {
+                "start": 55,
+                "end": 55
+              }
+            ]
+          }
+        },
+        {
+          "text": "27:56",
+          "start": 36,
+          "end": 41,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 27,
+            "chapterId": "matthew27",
+            "verses": [
+              {
+                "start": 56,
+                "end": 56
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 6:3",
+          "start": 43,
+          "end": 51,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 6,
+            "chapterId": "mark6",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "15:40, 47",
+          "start": 53,
+          "end": 62,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 15,
+            "chapterId": "mark15",
+            "verses": [
+              {
+                "start": 40,
+                "end": 40
+              },
+              {
+                "start": 47,
+                "end": 47
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "joses",
+  "title": "Joses",
+  "type": "bd"
+}

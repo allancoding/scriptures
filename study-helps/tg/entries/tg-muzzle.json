@@ -1,0 +1,68 @@
+{
+  "_id": "tg-muzzle",
+  "content": [
+    {
+      "text": "shalt not muzzle the ox, Deut. 25:4 (1 Cor. 9:9; 1 Tim. 5:18).",
+      "references": [
+        {
+          "text": "Deut. 25:4",
+          "start": 25,
+          "end": 35,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 25,
+            "chapterId": "deuteronomy25",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 9:9",
+          "start": 37,
+          "end": 47,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 9,
+            "chapterId": "1corinthians9",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Tim. 5:18",
+          "start": 49,
+          "end": 60,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 5,
+            "chapterId": "1timothy5",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "muzzle",
+  "title": "Muzzle",
+  "type": "tg"
+}

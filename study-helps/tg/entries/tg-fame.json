@@ -1,0 +1,174 @@
+{
+  "_id": "tg-fame",
+  "content": [
+    {
+      "text": "heard of the fame of Solomon, 1 Kgs. 10:1 (2 Chr. 9:1). isles afar off, that have not heard my fame, Isa. 66:19.",
+      "references": [
+        {
+          "text": "1 Kgs. 10:1",
+          "start": 30,
+          "end": 41,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 10,
+            "chapterId": "1kings10",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Chr. 9:1",
+          "start": 43,
+          "end": 53,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-chr",
+            "book": "2chronicles",
+            "chapter": 9,
+            "chapterId": "2chronicles9",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 66:19",
+          "start": 101,
+          "end": 111,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 66,
+            "chapterId": "isaiah66",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "his fame went throughout all Syria, Matt. 4:24. spread abroad his fame in all that country, Matt. 9:31. Herod … heard of the fame of Jesus, Matt. 14:1. his fame spread abroad, Mark 1:28 (Luke 4:37).",
+      "references": [
+        {
+          "text": "Matt. 4:24",
+          "start": 36,
+          "end": 46,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 4,
+            "chapterId": "matthew4",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 9:31",
+          "start": 92,
+          "end": 102,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 9,
+            "chapterId": "matthew9",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 14:1",
+          "start": 140,
+          "end": 150,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 14,
+            "chapterId": "matthew14",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 1:28",
+          "start": 176,
+          "end": 185,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 1,
+            "chapterId": "mark1",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 4:37",
+          "start": 187,
+          "end": 196,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 4,
+            "chapterId": "luke4",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-honor",
+      "slug": "honor",
+      "title": "Honor"
+    },
+    {
+      "entryId": "tg-praise",
+      "slug": "praise",
+      "title": "Praise"
+    }
+  ],
+  "slug": "fame",
+  "title": "Fame",
+  "type": "tg"
+}

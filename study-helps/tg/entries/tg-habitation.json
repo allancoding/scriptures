@@ -1,0 +1,197 @@
+{
+  "_id": "tg-habitation",
+  "content": [
+    {
+      "text": "instruments of cruelty are in their habitations, Gen. 49:5. Look down from thy holy habitation, Deut. 26:15. God of Israel, whose habitation is in Jerusalem, Ezra 7:15. Let their habitation be desolate, Ps. 69:25 (Acts 1:20).",
+      "references": [
+        {
+          "text": "Gen. 49:5",
+          "start": 49,
+          "end": 58,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 49,
+            "chapterId": "genesis49",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 26:15",
+          "start": 96,
+          "end": 107,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 26,
+            "chapterId": "deuteronomy26",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezra 7:15",
+          "start": 158,
+          "end": 167,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezra",
+            "book": "ezra",
+            "chapter": 7,
+            "chapterId": "ezra7",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 69:25",
+          "start": 203,
+          "end": 212,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 69,
+            "chapterId": "psalms69",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 1:20",
+          "start": 214,
+          "end": 223,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 1,
+            "chapterId": "acts1",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "builded together for an habitation of God, Eph. 2:22. angels which kept not their first estate, but left their own habitation, Jude 1:6. Babylon … is fallen, and is become the habitation of devils, Rev. 18:2.",
+      "references": [
+        {
+          "text": "Eph. 2:22",
+          "start": 43,
+          "end": 52,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "eph",
+            "book": "ephesians",
+            "chapter": 2,
+            "chapterId": "ephesians2",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jude 1:6",
+          "start": 127,
+          "end": 135,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "jude",
+            "book": "jude",
+            "chapter": 1,
+            "chapterId": "jude1",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 18:2",
+          "start": 198,
+          "end": 207,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 18,
+            "chapterId": "revelation18",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "justice, and truth is the habitation of thy throne, Moses 7:31.",
+      "references": [
+        {
+          "text": "Moses 7:31",
+          "start": 52,
+          "end": 62,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 7,
+            "chapterId": "moses7",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-abode",
+      "slug": "abode",
+      "title": "Abode"
+    },
+    {
+      "entryId": "tg-house",
+      "slug": "house",
+      "title": "House"
+    }
+  ],
+  "slug": "habitation",
+  "title": "Habitation",
+  "type": "tg"
+}

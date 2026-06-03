@@ -1,0 +1,156 @@
+{
+  "_id": "tg-fashion",
+  "content": [
+    {
+      "text": "this is the fashion which thou shalt make it, Gen. 6:15. rear up the tabernacle according to the fashion thereof, Ex. 26:30. fashioned it with a graving tool, Ex. 32:4. smith … fashioneth it with hammers, Isa. 44:12.",
+      "references": [
+        {
+          "text": "Gen. 6:15",
+          "start": 46,
+          "end": 55,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 6,
+            "chapterId": "genesis6",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 26:30",
+          "start": 114,
+          "end": 123,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 26,
+            "chapterId": "exodus26",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 32:4",
+          "start": 159,
+          "end": 167,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 32,
+            "chapterId": "exodus32",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 44:12",
+          "start": 205,
+          "end": 215,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 44,
+            "chapterId": "isaiah44",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "make it according to the fashion that he had seen, Acts 7:44. for the fashion of this world passeth away, 1 Cor. 7:31. not fashioning yourselves according to the former lusts, 1 Pet. 1:14.",
+      "references": [
+        {
+          "text": "Acts 7:44",
+          "start": 51,
+          "end": 60,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 7,
+            "chapterId": "acts7",
+            "verses": [
+              {
+                "start": 44,
+                "end": 44
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 7:31",
+          "start": 106,
+          "end": 117,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 7,
+            "chapterId": "1corinthians7",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Pet. 1:14",
+          "start": 176,
+          "end": 187,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-pet",
+            "book": "1peter",
+            "chapter": 1,
+            "chapterId": "1peter1",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-modesty",
+      "slug": "modesty",
+      "title": "Modesty"
+    },
+    {
+      "entryId": "tg-peer-influence",
+      "slug": "peer-influence",
+      "title": "Peer Influence"
+    }
+  ],
+  "slug": "fashion",
+  "title": "Fashion",
+  "type": "tg"
+}

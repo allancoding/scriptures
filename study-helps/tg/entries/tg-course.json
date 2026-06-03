@@ -1,0 +1,150 @@
+{
+  "_id": "tg-course",
+  "content": [
+    {
+      "text": "Hezekiah appointed the courses of the priests, 2 Chr. 31:2. foundations of the earth are out of course, Ps. 82:5.",
+      "references": [
+        {
+          "text": "2 Chr. 31:2",
+          "start": 47,
+          "end": 58,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-chr",
+            "book": "2chronicles",
+            "chapter": 31,
+            "chapterId": "2chronicles31",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 82:5",
+          "start": 104,
+          "end": 112,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 82,
+            "chapterId": "psalms82",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "finish my course with joy, Acts 20:24. word of the Lord may have free course, 2 Thes. 3:1. finished my course, I have kept the faith, 2 Tim. 4:7.",
+      "references": [
+        {
+          "text": "Acts 20:24",
+          "start": 27,
+          "end": 37,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 20,
+            "chapterId": "acts20",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Thes. 3:1",
+          "start": 78,
+          "end": 89,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-thes",
+            "book": "2thessalonians",
+            "chapter": 3,
+            "chapterId": "2thessalonians3",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Tim. 4:7",
+          "start": 134,
+          "end": 144,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-tim",
+            "book": "2timothy",
+            "chapter": 4,
+            "chapterId": "2timothy4",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "his course is one eternal round, Alma 7:20 (D&C 3:2).",
+      "references": [
+        {
+          "text": "Alma 7:20",
+          "start": 33,
+          "end": 42,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 7,
+            "chapterId": "alma7",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 3:2",
+          "start": 44,
+          "end": 51,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 3,
+            "chapterId": "doctrineandcovenants3",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "course",
+  "title": "Course",
+  "type": "tg"
+}

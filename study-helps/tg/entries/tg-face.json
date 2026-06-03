@@ -1,0 +1,998 @@
+{
+  "_id": "tg-face",
+  "content": [
+    {
+      "text": "driven me out this day from the face of the earth, Gen. 4:14 (Moses 5:39). I have seen God face to face, Gen. 32:30 (Moses 1:2, 11). Lord spake unto Moses face to face, Ex. 33:11 (Moses 1:31). skin of his face shone, Ex. 34:29. set my face against that soul that eateth, Lev. 17:10. Lord make his face shine upon thee, Num. 6:25. thou Lord art seen face to face, Num. 14:14. Lord talked with you face to face in the mount, Deut. 5:4. I will hide my face from them, Deut. 31:17. Moses, whom the Lord knew face to face, Deut. 34:10. seen an angel … face to face, Judg. 6:22. seek his face continually, 1 Chr. 16:11 (Ps. 105:4; D&C 101:38). If my people … seek my face, 2 Chr. 7:14. Thy face, Lord, will I seek, Ps. 27:8. Make thy face to shine upon thy servant, Ps. 31:16 (119:135). face of the Lord is against them that do evil, Ps. 34:16 (1 Pet. 3:12). As in water face answereth to face, Prov. 27:19. man’s wisdom maketh his face to shine, Eccl. 8:1. Lord, that hideth his face, Isa. 8:17. your sins have hid his face from you, Isa. 59:2. plead with you face to face, Ezek. 20:35. his face as the appearance of lightning, Dan. 10:6. acknowledge their offence, and seek my face, Hosea 5:15. all faces shall gather blackness, Joel 2:6.",
+      "references": [
+        {
+          "text": "Gen. 4:14",
+          "start": 51,
+          "end": 60,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 4,
+            "chapterId": "genesis4",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 5:39",
+          "start": 62,
+          "end": 72,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 5,
+            "chapterId": "moses5",
+            "verses": [
+              {
+                "start": 39,
+                "end": 39
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 32:30",
+          "start": 105,
+          "end": 115,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 32,
+            "chapterId": "genesis32",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 1:2, 11",
+          "start": 117,
+          "end": 130,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 1,
+            "chapterId": "moses1",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              },
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 33:11",
+          "start": 169,
+          "end": 178,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 33,
+            "chapterId": "exodus33",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 1:31",
+          "start": 180,
+          "end": 190,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 1,
+            "chapterId": "moses1",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 34:29",
+          "start": 217,
+          "end": 226,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 34,
+            "chapterId": "exodus34",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Lev. 17:10",
+          "start": 271,
+          "end": 281,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 17,
+            "chapterId": "leviticus17",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 6:25",
+          "start": 319,
+          "end": 328,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 6,
+            "chapterId": "numbers6",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 14:14",
+          "start": 363,
+          "end": 373,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 14,
+            "chapterId": "numbers14",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 5:4",
+          "start": 423,
+          "end": 432,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 5,
+            "chapterId": "deuteronomy5",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 31:17",
+          "start": 465,
+          "end": 476,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 31,
+            "chapterId": "deuteronomy31",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 34:10",
+          "start": 518,
+          "end": 529,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 34,
+            "chapterId": "deuteronomy34",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Judg. 6:22",
+          "start": 561,
+          "end": 571,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "judg",
+            "book": "judges",
+            "chapter": 6,
+            "chapterId": "judges6",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Chr. 16:11",
+          "start": 600,
+          "end": 612,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-chr",
+            "book": "1chronicles",
+            "chapter": 16,
+            "chapterId": "1chronicles16",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 105:4",
+          "start": 614,
+          "end": 623,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 105,
+            "chapterId": "psalms105",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 101:38",
+          "start": 625,
+          "end": 635,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 101,
+            "chapterId": "doctrineandcovenants101",
+            "verses": [
+              {
+                "start": 38,
+                "end": 38
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Chr. 7:14",
+          "start": 667,
+          "end": 678,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-chr",
+            "book": "2chronicles",
+            "chapter": 7,
+            "chapterId": "2chronicles7",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 27:8",
+          "start": 709,
+          "end": 717,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 27,
+            "chapterId": "psalms27",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 31:16",
+          "start": 760,
+          "end": 769,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 31,
+            "chapterId": "psalms31",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "119:135",
+          "start": 771,
+          "end": 778,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 119,
+            "chapterId": "psalms119",
+            "verses": [
+              {
+                "start": 135,
+                "end": 135
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 34:16",
+          "start": 828,
+          "end": 837,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 34,
+            "chapterId": "psalms34",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Pet. 3:12",
+          "start": 839,
+          "end": 850,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-pet",
+            "book": "1peter",
+            "chapter": 3,
+            "chapterId": "1peter3",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 27:19",
+          "start": 889,
+          "end": 900,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 27,
+            "chapterId": "proverbs27",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eccl. 8:1",
+          "start": 941,
+          "end": 950,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "eccl",
+            "book": "ecclesiastes",
+            "chapter": 8,
+            "chapterId": "ecclesiastes8",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 8:17",
+          "start": 980,
+          "end": 989,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 8,
+            "chapterId": "isaiah8",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 59:2",
+          "start": 1029,
+          "end": 1038,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 59,
+            "chapterId": "isaiah59",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 20:35",
+          "start": 1069,
+          "end": 1080,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 20,
+            "chapterId": "ezekiel20",
+            "verses": [
+              {
+                "start": 35,
+                "end": 35
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 10:6",
+          "start": 1123,
+          "end": 1132,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 10,
+            "chapterId": "daniel10",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hosea 5:15",
+          "start": 1179,
+          "end": 1189,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "hosea",
+            "book": "hosea",
+            "chapter": 5,
+            "chapterId": "hosea5",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Joel 2:6",
+          "start": 1225,
+          "end": 1233,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "joel",
+            "book": "joel",
+            "chapter": 2,
+            "chapterId": "joel2",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "hypocrites … disfigure their faces, Matt. 6:16 (3 Ne. 13:16). transfigured … his face did shine as the sun, Matt. 17:2. angels do always behold the face of my Father, Matt. 18:10. go before the face of the Lord, Luke 1:76. they struck him on the face, Luke 22:64. saw his face as it had been the face of an angel, Acts 6:15. accused have the accusers face to face, Acts 25:16. now we see through a glass, darkly; but then face to face, 1 Cor. 13:12. Moses, which put a veil over his face, 2 Cor. 3:13. with open face beholding … glory of the Lord, 2 Cor. 3:18. man beholding his natural face in a glass, James 1:23. they shall see his face, Rev. 22:4.",
+      "references": [
+        {
+          "text": "Matt. 6:16",
+          "start": 36,
+          "end": 46,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 6,
+            "chapterId": "matthew6",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 13:16",
+          "start": 48,
+          "end": 59,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 13,
+            "chapterId": "3nephi13",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 17:2",
+          "start": 108,
+          "end": 118,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 17,
+            "chapterId": "matthew17",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 18:10",
+          "start": 167,
+          "end": 178,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 18,
+            "chapterId": "matthew18",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 1:76",
+          "start": 212,
+          "end": 221,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 1,
+            "chapterId": "luke1",
+            "verses": [
+              {
+                "start": 76,
+                "end": 76
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 22:64",
+          "start": 252,
+          "end": 262,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 22,
+            "chapterId": "luke22",
+            "verses": [
+              {
+                "start": 64,
+                "end": 64
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 6:15",
+          "start": 314,
+          "end": 323,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 6,
+            "chapterId": "acts6",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 25:16",
+          "start": 365,
+          "end": 375,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 25,
+            "chapterId": "acts25",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 13:12",
+          "start": 436,
+          "end": 448,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 13,
+            "chapterId": "1corinthians13",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Cor. 3:13",
+          "start": 489,
+          "end": 500,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 3,
+            "chapterId": "2corinthians3",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Cor. 3:18",
+          "start": 548,
+          "end": 559,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 3,
+            "chapterId": "2corinthians3",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "James 1:23",
+          "start": 604,
+          "end": 614,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "james",
+            "book": "james",
+            "chapter": 1,
+            "chapterId": "james1",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 22:4",
+          "start": 641,
+          "end": 650,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 22,
+            "chapterId": "revelation22",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "shine … as the faces of angels, Hel. 5:36. wickedness … hid from before my face, 3 Ne. 9:11. I have seen Jesus … face to face, Ether 12:39 (D&C 17:1).",
+      "references": [
+        {
+          "text": "Hel. 5:36",
+          "start": 32,
+          "end": 41,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 5,
+            "chapterId": "helaman5",
+            "verses": [
+              {
+                "start": 36,
+                "end": 36
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 9:11",
+          "start": 81,
+          "end": 91,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 9,
+            "chapterId": "3nephi9",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 12:39",
+          "start": 127,
+          "end": 138,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 12,
+            "chapterId": "ether12",
+            "verses": [
+              {
+                "start": 39,
+                "end": 39
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 17:1",
+          "start": 140,
+          "end": 148,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 17,
+            "chapterId": "doctrineandcovenants17",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "sanctify … might behold the face of God, D&C 84:23. face of the Lord shall be unveiled, D&C 88:95. shall see my face and know that I am, D&C 93:1.",
+      "references": [
+        {
+          "text": "D&C 84:23",
+          "start": 41,
+          "end": 50,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 84,
+            "chapterId": "doctrineandcovenants84",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 88:95",
+          "start": 88,
+          "end": 97,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 95,
+                "end": 95
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 93:1",
+          "start": 137,
+          "end": 145,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 93,
+            "chapterId": "doctrineandcovenants93",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "the Lord … talked with me … face to face, Moses 7:4. Abraham, talked with the Lord, face to face, Abr. 3:11.",
+      "references": [
+        {
+          "text": "Moses 7:4",
+          "start": 42,
+          "end": 51,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 7,
+            "chapterId": "moses7",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Abr. 3:11",
+          "start": 98,
+          "end": 107,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 3,
+            "chapterId": "abraham3",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-countenance",
+      "slug": "countenance",
+      "title": "Countenance"
+    }
+  ],
+  "slug": "face",
+  "title": "Face",
+  "type": "tg"
+}

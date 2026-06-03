@@ -1,0 +1,102 @@
+{
+  "_id": "tg-plenteous",
+  "content": [
+    {
+      "text": "take up the fifth part of … Egypt in the seven plenteous years, Gen. 41:34. Lord shall make thee plenteous in goods, Deut. 28:11. Lord … make thee plenteous in every work, Deut. 30:9.",
+      "references": [
+        {
+          "text": "Gen. 41:34",
+          "start": 64,
+          "end": 74,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 41,
+            "chapterId": "genesis41",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 28:11",
+          "start": 117,
+          "end": 128,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 28,
+            "chapterId": "deuteronomy28",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 30:9",
+          "start": 172,
+          "end": 182,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 30,
+            "chapterId": "deuteronomy30",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "harvest truly is plenteous, Matt. 9:37.",
+      "references": [
+        {
+          "text": "Matt. 9:37",
+          "start": 28,
+          "end": 38,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 9,
+            "chapterId": "matthew9",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-abundance",
+      "slug": "abundance",
+      "title": "Abundance"
+    },
+    {
+      "entryId": "tg-plenty",
+      "slug": "plenty",
+      "title": "Plenty"
+    }
+  ],
+  "slug": "plenteous",
+  "title": "Plenteous",
+  "type": "tg"
+}

@@ -1,0 +1,97 @@
+{
+  "_id": "tg-close",
+  "content": [
+    {
+      "text": "Lord had fast closed up all the wombs, Gen. 20:18. words are closed up, Dan. 12:9.",
+      "references": [
+        {
+          "text": "Gen. 20:18",
+          "start": 39,
+          "end": 49,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 20,
+            "chapterId": "genesis20",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 12:9",
+          "start": 72,
+          "end": 81,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 12,
+            "chapterId": "daniel12",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "their eyes they have closed, Matt. 13:15 (Acts 28:27).",
+      "references": [
+        {
+          "text": "Matt. 13:15",
+          "start": 29,
+          "end": 40,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 13,
+            "chapterId": "matthew13",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 28:27",
+          "start": 42,
+          "end": 52,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 28,
+            "chapterId": "acts28",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-shut",
+      "slug": "shut",
+      "title": "Shut"
+    }
+  ],
+  "slug": "close",
+  "title": "Close [verb]",
+  "type": "tg"
+}

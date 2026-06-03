@@ -1,0 +1,161 @@
+{
+  "_id": "tg-music",
+  "content": [
+    {
+      "text": "to appoint … the singers with instruments of musick, 1 Chr. 15:16. all the daughters of musick shall be brought low, Eccl. 12:4. I am their musick, Lam. 3:63. That chant … and invent … instruments of musick, Amos 6:5.",
+      "references": [
+        {
+          "text": "1 Chr. 15:16",
+          "start": 53,
+          "end": 65,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-chr",
+            "book": "1chronicles",
+            "chapter": 15,
+            "chapterId": "1chronicles15",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eccl. 12:4",
+          "start": 117,
+          "end": 127,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "eccl",
+            "book": "ecclesiastes",
+            "chapter": 12,
+            "chapterId": "ecclesiastes12",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Lam. 3:63",
+          "start": 148,
+          "end": 157,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lam",
+            "book": "lamentations",
+            "chapter": 3,
+            "chapterId": "lamentations3",
+            "verses": [
+              {
+                "start": 63,
+                "end": 63
+              }
+            ]
+          }
+        },
+        {
+          "text": "Amos 6:5",
+          "start": 208,
+          "end": 216,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "amos",
+            "book": "amos",
+            "chapter": 6,
+            "chapterId": "amos6",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "he heard musick and dancing, Luke 15:25. voice of harpers, and musicians … shall be heard no more, Rev. 18:22.",
+      "references": [
+        {
+          "text": "Luke 15:25",
+          "start": 29,
+          "end": 39,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 15,
+            "chapterId": "luke15",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 18:22",
+          "start": 99,
+          "end": 109,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 18,
+            "chapterId": "revelation18",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "praise the Lord with singing, with music, with dancing, D&C 136:28.",
+      "references": [
+        {
+          "text": "D&C 136:28",
+          "start": 56,
+          "end": 66,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 136,
+            "chapterId": "doctrineandcovenants136",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-musical-instruments",
+      "slug": "musical-instruments",
+      "title": "Musical Instruments"
+    },
+    {
+      "entryId": "tg-singing",
+      "slug": "singing",
+      "title": "Singing"
+    }
+  ],
+  "slug": "music",
+  "title": "Music",
+  "type": "tg"
+}

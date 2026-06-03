@@ -1,0 +1,43 @@
+{
+  "_id": "index-materials",
+  "content": [
+    {
+      "text": "we will take of these materials and make an earth, Abr. 3:24.",
+      "references": [
+        {
+          "text": "Abr. 3:24",
+          "start": 51,
+          "end": 60,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 3,
+            "chapterId": "abraham3",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-element",
+      "slug": "element",
+      "title": "Element"
+    },
+    {
+      "entryId": "index-matter",
+      "slug": "matter",
+      "title": "Matter"
+    }
+  ],
+  "slug": "materials",
+  "title": "Materials",
+  "type": "index"
+}

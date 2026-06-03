@@ -1,0 +1,54 @@
+{
+  "_id": "bd-asenath",
+  "content": [
+    {
+      "text": "Joseph’s wife (Gen. 41:45, 50; 46:20).",
+      "references": [
+        {
+          "text": "Gen. 41:45, 50",
+          "start": 15,
+          "end": 29,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 41,
+            "chapterId": "genesis41",
+            "verses": [
+              {
+                "start": 45,
+                "end": 45
+              },
+              {
+                "start": 50,
+                "end": 50
+              }
+            ]
+          }
+        },
+        {
+          "text": "46:20",
+          "start": 31,
+          "end": 36,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 46,
+            "chapterId": "genesis46",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "asenath",
+  "title": "Asenath",
+  "type": "bd"
+}

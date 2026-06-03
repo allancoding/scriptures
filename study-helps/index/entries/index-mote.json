@@ -1,0 +1,73 @@
+{
+  "_id": "index-mote",
+  "content": [
+    {
+      "text": "why beholdest thou mote in thy brother’s eye, 3 Ne. 14:3 (Matt. 7:3).",
+      "references": [
+        {
+          "text": "3 Ne. 14:3",
+          "start": 46,
+          "end": 56,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 14,
+            "chapterId": "3nephi14",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 7:3",
+          "start": 58,
+          "end": 67,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 7,
+            "chapterId": "matthew7",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "not one hair, neither mote, shall be lost, D&C 29:25.",
+      "references": [
+        {
+          "text": "D&C 29:25",
+          "start": 43,
+          "end": 52,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 29,
+            "chapterId": "doctrineandcovenants29",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "mote",
+  "title": "Mote",
+  "type": "index"
+}

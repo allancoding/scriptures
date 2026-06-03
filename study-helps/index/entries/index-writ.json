@@ -1,0 +1,38 @@
+{
+  "_id": "index-writ",
+  "content": [
+    {
+      "text": "all plates which contain holy writ shall retain brightness, Alma 37:5.",
+      "references": [
+        {
+          "text": "Alma 37:5",
+          "start": 60,
+          "end": 69,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 37,
+            "chapterId": "alma37",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-scriptures",
+      "slug": "scriptures",
+      "title": "Scriptures"
+    }
+  ],
+  "slug": "writ",
+  "title": "Writ",
+  "type": "index"
+}

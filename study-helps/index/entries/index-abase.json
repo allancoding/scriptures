@@ -1,0 +1,56 @@
+{
+  "_id": "index-abase",
+  "content": [
+    {
+      "text": "he who exalts himself shall be abased, D&C 101:42. he who has abased himself shall be exalted, D&C 112:3.",
+      "references": [
+        {
+          "text": "D&C 101:42",
+          "start": 39,
+          "end": 49,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 101,
+            "chapterId": "doctrineandcovenants101",
+            "verses": [
+              {
+                "start": 42,
+                "end": 42
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 112:3",
+          "start": 95,
+          "end": 104,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 112,
+            "chapterId": "doctrineandcovenants112",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-humble",
+      "slug": "humble",
+      "title": "Humble"
+    }
+  ],
+  "slug": "abase",
+  "title": "Abase",
+  "type": "index"
+}

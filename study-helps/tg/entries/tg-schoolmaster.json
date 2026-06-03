@@ -1,0 +1,38 @@
+{
+  "_id": "tg-schoolmaster",
+  "content": [
+    {
+      "text": "law was our schoolmaster to bring us unto Christ, Gal. 3:24.",
+      "references": [
+        {
+          "text": "Gal. 3:24",
+          "start": 50,
+          "end": 59,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "gal",
+            "book": "galatians",
+            "chapter": 3,
+            "chapterId": "galatians3",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-law-of-moses",
+      "slug": "law-of-moses",
+      "title": "Law of Moses"
+    }
+  ],
+  "slug": "schoolmaster",
+  "title": "Schoolmaster",
+  "type": "tg"
+}

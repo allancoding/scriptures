@@ -1,0 +1,50 @@
+{
+  "_id": "tg-fugitive",
+  "content": [
+    {
+      "text": "a fugitive and a vagabond shalt thou be, Gen. 4:12 (Moses 5:37).",
+      "references": [
+        {
+          "text": "Gen. 4:12",
+          "start": 41,
+          "end": 50,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 4,
+            "chapterId": "genesis4",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 5:37",
+          "start": 52,
+          "end": 62,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 5,
+            "chapterId": "moses5",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "fugitive",
+  "title": "Fugitive",
+  "type": "tg"
+}

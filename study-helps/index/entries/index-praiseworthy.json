@@ -1,0 +1,38 @@
+{
+  "_id": "index-praiseworthy",
+  "content": [
+    {
+      "text": "if there is anything praiseworthy, we seek after these things, A of F 1:13.",
+      "references": [
+        {
+          "text": "A of F 1:13",
+          "start": 63,
+          "end": 74,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "a-of-f",
+            "book": "articlesoffaith",
+            "chapter": 1,
+            "chapterId": "articlesoffaith1",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-good",
+      "slug": "good",
+      "title": "Good"
+    }
+  ],
+  "slug": "praiseworthy",
+  "title": "Praiseworthy",
+  "type": "index"
+}

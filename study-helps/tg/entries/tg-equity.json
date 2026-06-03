@@ -1,0 +1,102 @@
+{
+  "_id": "tg-equity",
+  "content": [
+    {
+      "text": "judge the world, and the people with equity, Ps. 98:9. reprove with equity for the meek of the earth, Isa. 11:4. princes of the house of Israel, that … pervert all equity, Micah 3:9. he walked with me in peace and equity, Mal. 2:6.",
+      "references": [
+        {
+          "text": "Ps. 98:9",
+          "start": 45,
+          "end": 53,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 98,
+            "chapterId": "psalms98",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 11:4",
+          "start": 102,
+          "end": 111,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 11,
+            "chapterId": "isaiah11",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Micah 3:9",
+          "start": 172,
+          "end": 181,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "micah",
+            "book": "micah",
+            "chapter": 3,
+            "chapterId": "micah3",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mal. 2:6",
+          "start": 222,
+          "end": 230,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "mal",
+            "book": "malachi",
+            "chapter": 2,
+            "chapterId": "malachi2",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-judgment",
+      "slug": "judgment",
+      "title": "Judgment"
+    },
+    {
+      "entryId": "tg-justice",
+      "slug": "justice",
+      "title": "Justice"
+    },
+    {
+      "entryId": "tg-righteousness",
+      "slug": "righteousness",
+      "title": "Righteousness"
+    }
+  ],
+  "slug": "equity",
+  "title": "Equity",
+  "type": "tg"
+}

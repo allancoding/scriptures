@@ -1,0 +1,79 @@
+{
+  "_id": "index-fish",
+  "content": [
+    {
+      "text": "if son ask fish, what man will give him serpent, 3 Ne. 14:9–10 (Matt. 7:10). Jaredites carry fish with them in vessel, Ether 2:2.",
+      "references": [
+        {
+          "text": "3 Ne. 14:9–10",
+          "start": 49,
+          "end": 62,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 14,
+            "chapterId": "3nephi14",
+            "verses": [
+              {
+                "start": 9,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 7:10",
+          "start": 64,
+          "end": 74,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 7,
+            "chapterId": "matthew7",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 2:2",
+          "start": 119,
+          "end": 128,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 2,
+            "chapterId": "ether2",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-animal",
+      "slug": "animal",
+      "title": "Animal"
+    },
+    {
+      "entryId": "index-whale",
+      "slug": "whale",
+      "title": "Whale"
+    }
+  ],
+  "slug": "fish",
+  "title": "Fish",
+  "type": "index"
+}

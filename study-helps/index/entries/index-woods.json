@@ -1,0 +1,42 @@
+{
+  "_id": "index-woods",
+  "content": [
+    {
+      "text": "Joseph Smith retires to woods to pray, JS—H 1:14, 68.",
+      "references": [
+        {
+          "text": "JS—H 1:14, 68",
+          "start": 39,
+          "end": 52,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              },
+              {
+                "start": 68,
+                "end": 68
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-wood",
+      "slug": "wood",
+      "title": "Wood"
+    }
+  ],
+  "slug": "woods",
+  "title": "Woods",
+  "type": "index"
+}

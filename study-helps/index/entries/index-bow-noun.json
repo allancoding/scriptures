@@ -1,0 +1,174 @@
+{
+  "_id": "index-bow-noun",
+  "content": [
+    {
+      "text": "Nephi1 breaks his bow, 1 Ne. 16:18. Nephi1 makes bow out of wood, arms himself with bow and arrows, 1 Ne. 16:23. Zeniff arms his people with bows, Mosiah 9:16. Nephites arm themselves with bows, Alma 2:12. army of Zerahemnah armed with bows, Alma 43:20. Lamanite army armed with bows, Hel. 1:14. Lamanites fall upon Nephites with sword, bow, arrow, Morm. 6:9.",
+      "references": [
+        {
+          "text": "1 Ne. 16:18",
+          "start": 23,
+          "end": 34,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 16,
+            "chapterId": "1nephi16",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Ne. 16:23",
+          "start": 100,
+          "end": 111,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 16,
+            "chapterId": "1nephi16",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 9:16",
+          "start": 147,
+          "end": 158,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 9,
+            "chapterId": "mosiah9",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 2:12",
+          "start": 195,
+          "end": 204,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 2,
+            "chapterId": "alma2",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 43:20",
+          "start": 242,
+          "end": 252,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 43,
+            "chapterId": "alma43",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 1:14",
+          "start": 285,
+          "end": 294,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 1,
+            "chapterId": "helaman1",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 6:9",
+          "start": 349,
+          "end": 358,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 6,
+            "chapterId": "mormon6",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "two stones in silver bows are called Urim and Thummim, JS—H 1:35.",
+      "references": [
+        {
+          "text": "JS—H 1:35",
+          "start": 55,
+          "end": 64,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 35,
+                "end": 35
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-arrow",
+      "slug": "arrow",
+      "title": "Arrow"
+    },
+    {
+      "entryId": "index-weapon",
+      "slug": "weapon",
+      "title": "Weapon"
+    }
+  ],
+  "slug": "bow-noun",
+  "title": "Bow [noun]",
+  "type": "index"
+}

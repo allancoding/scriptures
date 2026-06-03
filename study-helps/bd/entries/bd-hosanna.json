@@ -1,0 +1,90 @@
+{
+  "_id": "bd-hosanna",
+  "content": [
+    {
+      "text": "Save now. The word is taken from Ps. 118:25, one of the Psalms of the Hallel. The chanting of this psalm was connected at the Feast of Tabernacles with the waving of palm branches; hence the use of the word by the multitudes at our Lord’s triumphal entry into Jerusalem (Matt. 21:9, 15; Mark 11:9–10; John 12:13).",
+      "references": [
+        {
+          "text": "Ps. 118:25",
+          "start": 33,
+          "end": 43,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 118,
+            "chapterId": "psalms118",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 21:9, 15",
+          "start": 271,
+          "end": 285,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 21,
+            "chapterId": "matthew21",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              },
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 11:9–10",
+          "start": 287,
+          "end": 299,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 11,
+            "chapterId": "mark11",
+            "verses": [
+              {
+                "start": 9,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 12:13",
+          "start": 301,
+          "end": 311,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 12,
+            "chapterId": "john12",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "hosanna",
+  "title": "Hosanna",
+  "type": "bd"
+}

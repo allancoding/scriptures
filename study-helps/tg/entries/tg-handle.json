@@ -1,0 +1,91 @@
+{
+  "_id": "tg-handle",
+  "content": [
+    {
+      "text": "it is I myself: handle me, and see, Luke 24:39. nor handling the word of God deceitfully, 2 Cor. 4:2.",
+      "references": [
+        {
+          "text": "Luke 24:39",
+          "start": 36,
+          "end": 46,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 24,
+            "chapterId": "luke24",
+            "verses": [
+              {
+                "start": 39,
+                "end": 39
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Cor. 4:2",
+          "start": 90,
+          "end": 100,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 4,
+            "chapterId": "2corinthians4",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "powers of heaven cannot be controlled nor handled, D&C 121:36. Handle me and see, for a spirit hath not flesh and bones, D&C 129:2.",
+      "references": [
+        {
+          "text": "D&C 121:36",
+          "start": 51,
+          "end": 61,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 36,
+                "end": 36
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 129:2",
+          "start": 121,
+          "end": 130,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 129,
+            "chapterId": "doctrineandcovenants129",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "handle",
+  "title": "Handle",
+  "type": "tg"
+}

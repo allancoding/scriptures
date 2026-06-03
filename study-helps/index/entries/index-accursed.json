@@ -1,0 +1,61 @@
+{
+  "_id": "index-accursed",
+  "content": [
+    {
+      "text": "hidden treasure to be accursed because of iniquity, Hel. 12:18. he who contends against word of the Lord shall be accursed, Ether 4:8.",
+      "references": [
+        {
+          "text": "Hel. 12:18",
+          "start": 52,
+          "end": 62,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 12,
+            "chapterId": "helaman12",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 4:8",
+          "start": 124,
+          "end": 133,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 4,
+            "chapterId": "ether4",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-curse",
+      "slug": "curse",
+      "title": "Curse"
+    },
+    {
+      "entryId": "index-slippery",
+      "slug": "slippery",
+      "title": "Slippery"
+    }
+  ],
+  "slug": "accursed",
+  "title": "Accursed",
+  "type": "index"
+}

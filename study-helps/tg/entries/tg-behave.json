@@ -1,0 +1,91 @@
+{
+  "_id": "tg-behave",
+  "content": [
+    {
+      "text": "child shall behave himself proudly, Isa. 3:5 (2 Ne. 13:5). behaved themselves ill in their doings, Micah 3:4.",
+      "references": [
+        {
+          "text": "Isa. 3:5",
+          "start": 36,
+          "end": 44,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 3,
+            "chapterId": "isaiah3",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 13:5",
+          "start": 46,
+          "end": 56,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 13,
+            "chapterId": "2nephi13",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Micah 3:4",
+          "start": 99,
+          "end": 108,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "micah",
+            "book": "micah",
+            "chapter": 3,
+            "chapterId": "micah3",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Doth not behave itself unseemly, 1 Cor. 13:5.",
+      "references": [
+        {
+          "text": "1 Cor. 13:5",
+          "start": 33,
+          "end": 44,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 13,
+            "chapterId": "1corinthians13",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "behave",
+  "title": "Behave",
+  "type": "tg"
+}

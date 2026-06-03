@@ -1,0 +1,695 @@
+{
+  "_id": "tg-forget",
+  "content": [
+    {
+      "text": "Yet did not the chief butler remember Joseph, but forgat him, Gen. 40:23. lest thou forget the things which thine eyes have seen, Deut. 4:9. lest ye forget the covenant of the Lord, Deut. 4:23. beware lest thou forget the Lord, Deut. 6:12. hast forgotten God that formed thee, Deut. 32:18. he forgetteth not the cry of the humble, Ps. 9:12. all the nations that forget God, Ps. 9:17. How long wilt thou forget me, Ps. 13:1. I am forgotten as a dead man, Ps. 31:12. consider this, ye that forget God, Ps. 50:22. forget not the congregation of thy poor, Ps. 74:19. They forgat God their saviour, Ps. 106:21. forget not my law, Prov. 3:1. get understanding: forget it not, Prov. 4:5. hast forgotten the God of thy salvation, Isa. 17:10. Israel, thou shalt not be forgotten of me, Isa. 44:21. Can a woman forget her sucking child, Isa. 49:15 (1 Ne. 21:15). forgettest the Lord thy maker, Isa. 51:13. my people have forgotten me days without number, Jer. 2:32. Have ye forgotten the wickedness of your fathers, Jer. 44:9. Because thou hast forgotten me, Ezek. 23:35. hast forgotten the law … I will also forget thy children, Hosea 4:6. For Israel hath forgotten his Maker, Hosea 8:14. Surely I will never forget any of their works, Amos 8:7.",
+      "references": [
+        {
+          "text": "Gen. 40:23",
+          "start": 62,
+          "end": 72,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 40,
+            "chapterId": "genesis40",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 4:9",
+          "start": 130,
+          "end": 139,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 4,
+            "chapterId": "deuteronomy4",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 4:23",
+          "start": 182,
+          "end": 192,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 4,
+            "chapterId": "deuteronomy4",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 6:12",
+          "start": 228,
+          "end": 238,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 6,
+            "chapterId": "deuteronomy6",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 32:18",
+          "start": 277,
+          "end": 288,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 32,
+            "chapterId": "deuteronomy32",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 9:12",
+          "start": 331,
+          "end": 339,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 9,
+            "chapterId": "psalms9",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 9:17",
+          "start": 374,
+          "end": 382,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 9,
+            "chapterId": "psalms9",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 13:1",
+          "start": 414,
+          "end": 422,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 13,
+            "chapterId": "psalms13",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 31:12",
+          "start": 454,
+          "end": 463,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 31,
+            "chapterId": "psalms31",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 50:22",
+          "start": 500,
+          "end": 509,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 50,
+            "chapterId": "psalms50",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 74:19",
+          "start": 552,
+          "end": 561,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 74,
+            "chapterId": "psalms74",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 106:21",
+          "start": 594,
+          "end": 604,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 106,
+            "chapterId": "psalms106",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 3:1",
+          "start": 625,
+          "end": 634,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 3,
+            "chapterId": "proverbs3",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 4:5",
+          "start": 670,
+          "end": 679,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 4,
+            "chapterId": "proverbs4",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 17:10",
+          "start": 722,
+          "end": 732,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 17,
+            "chapterId": "isaiah17",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 44:21",
+          "start": 777,
+          "end": 787,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 44,
+            "chapterId": "isaiah44",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 49:15",
+          "start": 827,
+          "end": 837,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 49,
+            "chapterId": "isaiah49",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Ne. 21:15",
+          "start": 839,
+          "end": 850,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 21,
+            "chapterId": "1nephi21",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 51:13",
+          "start": 884,
+          "end": 894,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 51,
+            "chapterId": "isaiah51",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 2:32",
+          "start": 945,
+          "end": 954,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 2,
+            "chapterId": "jeremiah2",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 44:9",
+          "start": 1006,
+          "end": 1015,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 44,
+            "chapterId": "jeremiah44",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 23:35",
+          "start": 1049,
+          "end": 1060,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 23,
+            "chapterId": "ezekiel23",
+            "verses": [
+              {
+                "start": 35,
+                "end": 35
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hosea 4:6",
+          "start": 1120,
+          "end": 1129,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "hosea",
+            "book": "hosea",
+            "chapter": 4,
+            "chapterId": "hosea4",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hosea 8:14",
+          "start": 1168,
+          "end": 1178,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "hosea",
+            "book": "hosea",
+            "chapter": 8,
+            "chapterId": "hosea8",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Amos 8:7",
+          "start": 1227,
+          "end": 1235,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "amos",
+            "book": "amos",
+            "chapter": 8,
+            "chapterId": "amos8",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "they had forgotten to take bread, Matt. 16:5 (Mark 8:14). sparrows … not one of them is forgotten before God, Luke 12:6. ye have forgotten the exhortation which speaketh, Heb. 12:5. Be not forgetful to entertain strangers, Heb. 13:2. straightway forgetteth what manner of man he was, James 1:24. forgotten that he was purged from his old sins, 2 Pet. 1:9.",
+      "references": [
+        {
+          "text": "Matt. 16:5",
+          "start": 34,
+          "end": 44,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 16,
+            "chapterId": "matthew16",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 8:14",
+          "start": 46,
+          "end": 55,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 8,
+            "chapterId": "mark8",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 12:6",
+          "start": 110,
+          "end": 119,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 12,
+            "chapterId": "luke12",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 12:5",
+          "start": 171,
+          "end": 180,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 12,
+            "chapterId": "hebrews12",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 13:2",
+          "start": 223,
+          "end": 232,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 13,
+            "chapterId": "hebrews13",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "James 1:24",
+          "start": 284,
+          "end": 294,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "james",
+            "book": "james",
+            "chapter": 1,
+            "chapterId": "james1",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Pet. 1:9",
+          "start": 344,
+          "end": 354,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-pet",
+            "book": "2peter",
+            "chapter": 1,
+            "chapterId": "2peter1",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "how quick the children of men do forget the Lord, Alma 46:8. how could you have forgotten your God, Hel. 7:20. when he doth prosper his people … they … forget the Lord, Hel. 12:2.",
+      "references": [
+        {
+          "text": "Alma 46:8",
+          "start": 50,
+          "end": 59,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 46,
+            "chapterId": "alma46",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 7:20",
+          "start": 100,
+          "end": 109,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 7,
+            "chapterId": "helaman7",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 12:2",
+          "start": 169,
+          "end": 178,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 12,
+            "chapterId": "helaman12",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "stupor of thought that shall cause you to forget, D&C 9:9. curse … all the nations that forget God, D&C 133:2.",
+      "references": [
+        {
+          "text": "D&C 9:9",
+          "start": 50,
+          "end": 57,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 9,
+            "chapterId": "doctrineandcovenants9",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 133:2",
+          "start": 100,
+          "end": 109,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 133,
+            "chapterId": "doctrineandcovenants133",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "forget",
+  "title": "Forget, Forgat, Forgot, Forgotten",
+  "type": "tg"
+}

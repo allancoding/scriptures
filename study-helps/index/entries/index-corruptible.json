@@ -1,0 +1,38 @@
+{
+  "_id": "index-corruptible",
+  "content": [
+    {
+      "text": "every corruptible thing shall be consumed, D&C 101:24.",
+      "references": [
+        {
+          "text": "D&C 101:24",
+          "start": 43,
+          "end": 53,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 101,
+            "chapterId": "doctrineandcovenants101",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-corrupt",
+      "slug": "corrupt",
+      "title": "Corrupt"
+    }
+  ],
+  "slug": "corruptible",
+  "title": "Corruptible",
+  "type": "index"
+}

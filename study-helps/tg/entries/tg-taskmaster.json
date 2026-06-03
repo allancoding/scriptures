@@ -1,0 +1,91 @@
+{
+  "_id": "tg-taskmaster",
+  "content": [
+    {
+      "text": "they did set over them taskmasters, Ex. 1:11. I … have heard their cry by reason of their taskmasters, Ex. 3:7. Pharaoh commanded … the taskmasters of the people, Ex. 5:6.",
+      "references": [
+        {
+          "text": "Ex. 1:11",
+          "start": 36,
+          "end": 44,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 1,
+            "chapterId": "exodus1",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 3:7",
+          "start": 103,
+          "end": 110,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 3,
+            "chapterId": "exodus3",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 5:6",
+          "start": 163,
+          "end": 170,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 5,
+            "chapterId": "exodus5",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Amulon … put task-masters over them, Mosiah 24:9.",
+      "references": [
+        {
+          "text": "Mosiah 24:9",
+          "start": 37,
+          "end": 48,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 24,
+            "chapterId": "mosiah24",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "taskmaster",
+  "title": "Taskmaster",
+  "type": "tg"
+}

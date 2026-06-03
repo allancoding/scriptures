@@ -1,0 +1,91 @@
+{
+  "_id": "bd-luz",
+  "content": [
+    {
+      "text": "Almond tree. (1) The scene of Jacob’s dream, afterwards called Bethel (Gen. 28:19; 35:6; 48:3).",
+      "references": [
+        {
+          "text": "Gen. 28:19",
+          "start": 71,
+          "end": 81,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 28,
+            "chapterId": "genesis28",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "35:6",
+          "start": 83,
+          "end": 87,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 35,
+            "chapterId": "genesis35",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "48:3",
+          "start": 89,
+          "end": 93,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 48,
+            "chapterId": "genesis48",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "(2) A city of the Hittites (Judg. 1:26), its position entirely unknown.",
+      "references": [
+        {
+          "text": "Judg. 1:26",
+          "start": 28,
+          "end": 38,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "judg",
+            "book": "judges",
+            "chapter": 1,
+            "chapterId": "judges1",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "luz",
+  "title": "Luz",
+  "type": "bd"
+}

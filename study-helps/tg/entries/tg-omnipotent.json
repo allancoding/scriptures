@@ -1,0 +1,97 @@
+{
+  "_id": "tg-omnipotent",
+  "content": [
+    {
+      "text": "Lord God omnipotent reigneth, Rev. 19:6.",
+      "references": [
+        {
+          "text": "Rev. 19:6",
+          "start": 30,
+          "end": 39,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 19,
+            "chapterId": "revelation19",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "with power, the Lord Omnipotent … shall come down, Mosiah 3:5 (3:17–21; 5:2).",
+      "references": [
+        {
+          "text": "Mosiah 3:5",
+          "start": 51,
+          "end": 61,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 3,
+            "chapterId": "mosiah3",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "3:17–21",
+          "start": 63,
+          "end": 70,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 3,
+            "chapterId": "mosiah3",
+            "verses": [
+              {
+                "start": 17,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "5:2",
+          "start": 72,
+          "end": 75,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 5,
+            "chapterId": "mosiah5",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-god-power-of",
+      "slug": "god-power-of",
+      "title": "God, Power of"
+    }
+  ],
+  "slug": "omnipotent",
+  "title": "Omnipotent",
+  "type": "tg"
+}

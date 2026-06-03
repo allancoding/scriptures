@@ -1,0 +1,92 @@
+{
+  "_id": "tg-post",
+  "content": [
+    {
+      "text": "blood, and strike it on the two side posts, Ex. 12:7. thou shalt write them upon the posts of thy house, Deut. 6:9. the posts went with the letters from the king, 2 Chr. 30:6. Smite the lintel … that the posts may shake, Amos 9:1.",
+      "references": [
+        {
+          "text": "Ex. 12:7",
+          "start": 44,
+          "end": 52,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 12,
+            "chapterId": "exodus12",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 6:9",
+          "start": 105,
+          "end": 114,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 6,
+            "chapterId": "deuteronomy6",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Chr. 30:6",
+          "start": 163,
+          "end": 174,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-chr",
+            "book": "2chronicles",
+            "chapter": 30,
+            "chapterId": "2chronicles30",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Amos 9:1",
+          "start": 221,
+          "end": 229,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "amos",
+            "book": "amos",
+            "chapter": 9,
+            "chapterId": "amos9",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-pillar",
+      "slug": "pillar",
+      "title": "Pillar"
+    }
+  ],
+  "slug": "post",
+  "title": "Post",
+  "type": "tg"
+}

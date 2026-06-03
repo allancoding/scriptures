@@ -1,0 +1,105 @@
+{
+  "_id": "index-doctrine-and-covenants",
+  "content": [
+    {
+      "text": "importance of Doctrine and Covenants, D&C 70: Intro. knowledge of bishopric given in Doctrine and Covenants, D&C 124:141. meeting to consider contents of first edition of Doctrine and Covenants, D&C 134: Intro. Joseph Smith brought forth revelations of Doctrine and Covenants, D&C 135:3. Doctrine and Covenants cost best blood of century, D&C 135:6.",
+      "references": [
+        {
+          "text": "D&C 70: Intro.",
+          "start": 38,
+          "end": 52,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 70,
+            "chapterId": "doctrineandcovenants70",
+            "verses": []
+          }
+        },
+        {
+          "text": "D&C 124:141",
+          "start": 109,
+          "end": 120,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 124,
+            "chapterId": "doctrineandcovenants124",
+            "verses": [
+              {
+                "start": 141,
+                "end": 141
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 134: Intro.",
+          "start": 195,
+          "end": 210,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 134,
+            "chapterId": "doctrineandcovenants134",
+            "verses": []
+          }
+        },
+        {
+          "text": "D&C 135:3",
+          "start": 277,
+          "end": 286,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 135,
+            "chapterId": "doctrineandcovenants135",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 135:6",
+          "start": 339,
+          "end": 348,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 135,
+            "chapterId": "doctrineandcovenants135",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-book-of-commandments",
+      "slug": "book-of-commandments",
+      "title": "Book of Commandments"
+    },
+    {
+      "entryId": "index-scriptures",
+      "slug": "scriptures",
+      "title": "Scriptures"
+    }
+  ],
+  "slug": "doctrine-and-covenants",
+  "title": "Doctrine and Covenants",
+  "type": "index"
+}

@@ -1,0 +1,50 @@
+{
+  "_id": "tg-aware",
+  "content": [
+    {
+      "text": "shall come … in an hour that he is not aware, Matt. 24:50 (Luke 12:46).",
+      "references": [
+        {
+          "text": "Matt. 24:50",
+          "start": 46,
+          "end": 57,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 24,
+            "chapterId": "matthew24",
+            "verses": [
+              {
+                "start": 50,
+                "end": 50
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 12:46",
+          "start": 59,
+          "end": 69,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 12,
+            "chapterId": "luke12",
+            "verses": [
+              {
+                "start": 46,
+                "end": 46
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "aware",
+  "title": "Aware",
+  "type": "tg"
+}

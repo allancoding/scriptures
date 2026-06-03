@@ -1,0 +1,42 @@
+{
+  "_id": "index-provision",
+  "content": [
+    {
+      "text": "Nephites gather all provisions in one place to deny food to robbers, 3 Ne. 4:4, 18–19.",
+      "references": [
+        {
+          "text": "3 Ne. 4:4, 18–19",
+          "start": 69,
+          "end": 85,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 4,
+            "chapterId": "3nephi4",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              },
+              {
+                "start": 18,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-substance",
+      "slug": "substance",
+      "title": "Substance"
+    }
+  ],
+  "slug": "provision",
+  "title": "Provision",
+  "type": "index"
+}

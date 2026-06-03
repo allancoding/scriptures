@@ -1,0 +1,79 @@
+{
+  "_id": "index-lucifer",
+  "content": [
+    {
+      "text": "how art thou fallen from heaven, Lucifer, son of morning, 2 Ne. 24:12 (Isa. 14:12).",
+      "references": [
+        {
+          "text": "2 Ne. 24:12",
+          "start": 58,
+          "end": 69,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 24,
+            "chapterId": "2nephi24",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 14:12",
+          "start": 71,
+          "end": 81,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 14,
+            "chapterId": "isaiah14",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Satan was Lucifer, son of morning, D&C 76:26.",
+      "references": [
+        {
+          "text": "D&C 76:26",
+          "start": 35,
+          "end": 44,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 76,
+            "chapterId": "doctrineandcovenants76",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-devil",
+      "slug": "devil",
+      "title": "Devil"
+    }
+  ],
+  "slug": "lucifer",
+  "title": "Lucifer",
+  "type": "index"
+}

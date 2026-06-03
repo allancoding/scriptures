@@ -1,0 +1,76 @@
+{
+  "_id": "tg-science",
+  "content": [
+    {
+      "text": "Children … cunning in knowledge, and understanding science, Dan. 1:4.",
+      "references": [
+        {
+          "text": "Dan. 1:4",
+          "start": 60,
+          "end": 68,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 1,
+            "chapterId": "daniel1",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "avoiding … oppositions of science falsely so called, 1 Tim. 6:20.",
+      "references": [
+        {
+          "text": "1 Tim. 6:20",
+          "start": 53,
+          "end": 64,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 6,
+            "chapterId": "1timothy6",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-education",
+      "slug": "education",
+      "title": "Education"
+    },
+    {
+      "entryId": "tg-knowledge",
+      "slug": "knowledge",
+      "title": "Knowledge"
+    },
+    {
+      "entryId": "tg-learn",
+      "slug": "learn",
+      "title": "Learn"
+    },
+    {
+      "entryId": "tg-truth",
+      "slug": "truth",
+      "title": "Truth"
+    }
+  ],
+  "slug": "science",
+  "title": "Science",
+  "type": "tg"
+}

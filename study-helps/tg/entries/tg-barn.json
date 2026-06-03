@@ -1,0 +1,168 @@
+{
+  "_id": "tg-barn",
+  "content": [
+    {
+      "text": "So shall thy barns be filled with plenty, Prov. 3:10. the barns are broken down, Joel 1:17.",
+      "references": [
+        {
+          "text": "Prov. 3:10",
+          "start": 42,
+          "end": 52,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 3,
+            "chapterId": "proverbs3",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Joel 1:17",
+          "start": 81,
+          "end": 90,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "joel",
+            "book": "joel",
+            "chapter": 1,
+            "chapterId": "joel1",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "neither … reap, nor gather into barns, Matt. 6:26 (Luke 12:24; 3 Ne. 13:26). gather the wheat into my barn, Matt. 13:30. I will pull down my barns, and build greater, Luke 12:18.",
+      "references": [
+        {
+          "text": "Matt. 6:26",
+          "start": 39,
+          "end": 49,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 6,
+            "chapterId": "matthew6",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 12:24",
+          "start": 51,
+          "end": 61,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 12,
+            "chapterId": "luke12",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 13:26",
+          "start": 63,
+          "end": 74,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 13,
+            "chapterId": "3nephi13",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 13:30",
+          "start": 108,
+          "end": 119,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 13,
+            "chapterId": "matthew13",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 12:18",
+          "start": 167,
+          "end": 177,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 12,
+            "chapterId": "luke12",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "raiment, or for houses, or for barns, D&C 59:17.",
+      "references": [
+        {
+          "text": "D&C 59:17",
+          "start": 38,
+          "end": 47,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 59,
+            "chapterId": "doctrineandcovenants59",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "barn",
+  "title": "Barn",
+  "type": "tg"
+}

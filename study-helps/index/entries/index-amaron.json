@@ -1,0 +1,50 @@
+{
+  "_id": "index-amaron",
+  "content": [
+    {
+      "text": "receives plates, Omni 1:3. delivers plates to Chemish, Omni 1:8.",
+      "references": [
+        {
+          "text": "Omni 1:3",
+          "start": 17,
+          "end": 25,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "omni",
+            "book": "omni",
+            "chapter": 1,
+            "chapterId": "omni1",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Omni 1:8",
+          "start": 55,
+          "end": 63,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "omni",
+            "book": "omni",
+            "chapter": 1,
+            "chapterId": "omni1",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "amaron",
+  "title": "Amaron—son of Omni, Nephite record keeper",
+  "type": "index"
+}

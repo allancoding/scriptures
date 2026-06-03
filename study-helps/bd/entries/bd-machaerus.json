@@ -1,0 +1,50 @@
+{
+  "_id": "bd-machaerus",
+  "content": [
+    {
+      "text": "A fortress in Perea above the northeastern shore of the Dead Sea. It is not mentioned by name in the New Testament, but Josephus (Antiquities, 18.5.1–2) mentions it as the place where John the Baptist was imprisoned and beheaded, as in Matt. 14:10–11 and Mark 6:17–28. Some ruins still remain at the site.",
+      "references": [
+        {
+          "text": "Matt. 14:10–11",
+          "start": 236,
+          "end": 250,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 14,
+            "chapterId": "matthew14",
+            "verses": [
+              {
+                "start": 10,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 6:17–28",
+          "start": 255,
+          "end": 267,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 6,
+            "chapterId": "mark6",
+            "verses": [
+              {
+                "start": 17,
+                "end": 28
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "machaerus",
+  "title": "Machaerus",
+  "type": "bd"
+}

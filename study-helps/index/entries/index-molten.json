@@ -1,0 +1,74 @@
+{
+  "_id": "index-molten",
+  "content": [
+    {
+      "text": "Nephi1 makes tools with ore which he did molten out of rock, 1 Ne. 17:16. brother of Jared2 did molten out of rock 16 small stones, Ether 3:1. Shule did molten out of hill and made swords, Ether 7:9.",
+      "references": [
+        {
+          "text": "1 Ne. 17:16",
+          "start": 61,
+          "end": 72,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 17,
+            "chapterId": "1nephi17",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 3:1",
+          "start": 132,
+          "end": 141,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 3,
+            "chapterId": "ether3",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 7:9",
+          "start": 189,
+          "end": 198,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 7,
+            "chapterId": "ether7",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-melt",
+      "slug": "melt",
+      "title": "Melt"
+    }
+  ],
+  "slug": "molten",
+  "title": "Molten",
+  "type": "index"
+}

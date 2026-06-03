@@ -1,0 +1,50 @@
+{
+  "_id": "tg-consist",
+  "content": [
+    {
+      "text": "a man’s life consisteth not in the abundance, Luke 12:15. by him all things consist, Col. 1:17.",
+      "references": [
+        {
+          "text": "Luke 12:15",
+          "start": 46,
+          "end": 56,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 12,
+            "chapterId": "luke12",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Col. 1:17",
+          "start": 85,
+          "end": 94,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "col",
+            "book": "colossians",
+            "chapter": 1,
+            "chapterId": "colossians1",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "consist",
+  "title": "Consist",
+  "type": "tg"
+}

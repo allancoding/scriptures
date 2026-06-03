@@ -1,0 +1,156 @@
+{
+  "_id": "tg-rising",
+  "content": [
+    {
+      "text": "That they may know from the rising of the sun, Isa. 45:6 (Mal. 1:11; Hel. 14:4).",
+      "references": [
+        {
+          "text": "Isa. 45:6",
+          "start": 47,
+          "end": 56,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 45,
+            "chapterId": "isaiah45",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mal. 1:11",
+          "start": 58,
+          "end": 67,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "mal",
+            "book": "malachi",
+            "chapter": 1,
+            "chapterId": "malachi1",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 14:4",
+          "start": 69,
+          "end": 78,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 14,
+            "chapterId": "helaman14",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "what the rising from the dead should mean, Mark 9:10. unto the sepulchre at the rising of the sun, Mark 16:2.",
+      "references": [
+        {
+          "text": "Mark 9:10",
+          "start": 43,
+          "end": 52,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 9,
+            "chapterId": "mark9",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 16:2",
+          "start": 99,
+          "end": 108,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 16,
+            "chapterId": "mark16",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "hoar frost melteth before … the rising sun, D&C 121:11. an imperative duty that we owe to all the rising generation, D&C 123:11.",
+      "references": [
+        {
+          "text": "D&C 121:11",
+          "start": 44,
+          "end": 54,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 123:11",
+          "start": 117,
+          "end": 127,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 123,
+            "chapterId": "doctrineandcovenants123",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-rise",
+      "slug": "rise",
+      "title": "Rise"
+    }
+  ],
+  "slug": "rising",
+  "title": "Rising",
+  "type": "tg"
+}

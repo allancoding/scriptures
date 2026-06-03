@@ -1,0 +1,48 @@
+{
+  "_id": "index-wear",
+  "content": [
+    {
+      "text": "Saints to wear out lives bringing things of darkness to light, D&C 123:13.",
+      "references": [
+        {
+          "text": "D&C 123:13",
+          "start": 63,
+          "end": 73,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 123,
+            "chapterId": "doctrineandcovenants123",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-apparel",
+      "slug": "apparel",
+      "title": "Apparel"
+    },
+    {
+      "entryId": "index-garment",
+      "slug": "garment",
+      "title": "Garment"
+    },
+    {
+      "entryId": "index-stiffnecked",
+      "slug": "stiffnecked",
+      "title": "Stiffnecked"
+    }
+  ],
+  "slug": "wear",
+  "title": "Wear",
+  "type": "index"
+}

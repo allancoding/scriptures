@@ -1,0 +1,788 @@
+{
+  "_id": "tg-inheritance",
+  "content": [
+    {
+      "text": "Is there yet any portion or inheritance for us, Gen. 31:14. I have given to thee one portion above thy brethren, Gen. 48:22. pardon … sin, and take us for thine inheritance, Ex. 34:9. Levites … shall have no inheritance, Num. 18:24. land shall be divided for an inheritance, Num. 26:53. to be unto him a people of inheritance, Deut. 4:20. Lord … destroy not thy people and thine inheritance, Deut. 9:26. Yet they are thy people and thine inheritance, Deut. 9:29. Jacob is the lot of his inheritance, Deut. 32:9. tribe of Levi … the Lord God … was their inheritance, Josh. 13:33. priesthood of the Lord is their inheritance, Josh. 18:7. inheritances, which Eleazar … and Joshua … divided, Josh. 19:51. they be thy people, and thine inheritance, 1 Kgs. 8:51. give the inheritance of my fathers unto thee, 1 Kgs. 21:3. what inheritance of the Almighty from on high, Job 31:2. the upright: and their inheritance shall be for ever, Ps. 37:18.",
+      "references": [
+        {
+          "text": "Gen. 31:14",
+          "start": 48,
+          "end": 58,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 31,
+            "chapterId": "genesis31",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 48:22",
+          "start": 113,
+          "end": 123,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 48,
+            "chapterId": "genesis48",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 34:9",
+          "start": 174,
+          "end": 182,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 34,
+            "chapterId": "exodus34",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 18:24",
+          "start": 221,
+          "end": 231,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 18,
+            "chapterId": "numbers18",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 26:53",
+          "start": 275,
+          "end": 285,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 26,
+            "chapterId": "numbers26",
+            "verses": [
+              {
+                "start": 53,
+                "end": 53
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 4:20",
+          "start": 327,
+          "end": 337,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 4,
+            "chapterId": "deuteronomy4",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 9:26",
+          "start": 392,
+          "end": 402,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 9,
+            "chapterId": "deuteronomy9",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 9:29",
+          "start": 451,
+          "end": 461,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 9,
+            "chapterId": "deuteronomy9",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 32:9",
+          "start": 500,
+          "end": 510,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 32,
+            "chapterId": "deuteronomy32",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Josh. 13:33",
+          "start": 566,
+          "end": 577,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "josh",
+            "book": "joshua",
+            "chapter": 13,
+            "chapterId": "joshua13",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "Josh. 18:7",
+          "start": 624,
+          "end": 634,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "josh",
+            "book": "joshua",
+            "chapter": 18,
+            "chapterId": "joshua18",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Josh. 19:51",
+          "start": 688,
+          "end": 699,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "josh",
+            "book": "joshua",
+            "chapter": 19,
+            "chapterId": "joshua19",
+            "verses": [
+              {
+                "start": 51,
+                "end": 51
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Kgs. 8:51",
+          "start": 744,
+          "end": 755,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 8,
+            "chapterId": "1kings8",
+            "verses": [
+              {
+                "start": 51,
+                "end": 51
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Kgs. 21:3",
+          "start": 803,
+          "end": 814,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 21,
+            "chapterId": "1kings21",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Job 31:2",
+          "start": 863,
+          "end": 871,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "job",
+            "book": "job",
+            "chapter": 31,
+            "chapterId": "job31",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 37:18",
+          "start": 927,
+          "end": 936,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 37,
+            "chapterId": "psalms37",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "kill him, and let us seize on his inheritance, Matt. 21:38 (Mark 12:7; Luke 20:14). my brother, that he divide the inheritance with me, Luke 12:13. an inheritance among all them which are sanctified, Acts 20:32. if the inheritance be of the law, it is no more of promise, Gal. 3:18. earnest of our inheritance until the redemption, Eph. 1:14. riches of the glory of his inheritance in the saints, Eph. 1:18. no … unclean person … hath any inheritance, Eph. 5:5. partakers of the inheritance of the saints, Col. 1:12. ye shall receive the reward of the inheritance, Col. 3:24. receive the promise of eternal inheritance, Heb. 9:15. To an inheritance incorruptible, 1 Pet. 1:4.",
+      "references": [
+        {
+          "text": "Matt. 21:38",
+          "start": 47,
+          "end": 58,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 21,
+            "chapterId": "matthew21",
+            "verses": [
+              {
+                "start": 38,
+                "end": 38
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 12:7",
+          "start": 60,
+          "end": 69,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 12,
+            "chapterId": "mark12",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 20:14",
+          "start": 71,
+          "end": 81,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 20,
+            "chapterId": "luke20",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 12:13",
+          "start": 136,
+          "end": 146,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 12,
+            "chapterId": "luke12",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 20:32",
+          "start": 200,
+          "end": 210,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 20,
+            "chapterId": "acts20",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gal. 3:18",
+          "start": 272,
+          "end": 281,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "gal",
+            "book": "galatians",
+            "chapter": 3,
+            "chapterId": "galatians3",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eph. 1:14",
+          "start": 332,
+          "end": 341,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "eph",
+            "book": "ephesians",
+            "chapter": 1,
+            "chapterId": "ephesians1",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eph. 1:18",
+          "start": 397,
+          "end": 406,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "eph",
+            "book": "ephesians",
+            "chapter": 1,
+            "chapterId": "ephesians1",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eph. 5:5",
+          "start": 452,
+          "end": 460,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "eph",
+            "book": "ephesians",
+            "chapter": 5,
+            "chapterId": "ephesians5",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Col. 1:12",
+          "start": 506,
+          "end": 515,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "col",
+            "book": "colossians",
+            "chapter": 1,
+            "chapterId": "colossians1",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Col. 3:24",
+          "start": 565,
+          "end": 574,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "col",
+            "book": "colossians",
+            "chapter": 3,
+            "chapterId": "colossians3",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 9:15",
+          "start": 620,
+          "end": 629,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 9,
+            "chapterId": "hebrews9",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Pet. 1:4",
+          "start": 664,
+          "end": 674,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-pet",
+            "book": "1peter",
+            "chapter": 1,
+            "chapterId": "1peter1",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "none … to take away the land of their inheritance, 2 Ne. 1:9. shall be restored … unto the lands of their inheritance, 2 Ne. 10:7. unto them will I grant an inheritance at my right hand, Alma 5:58. given this land for their inheritance, 3 Ne. 21:22. obtain the land of their first inheritance, Ether 7:16.",
+      "references": [
+        {
+          "text": "2 Ne. 1:9",
+          "start": 51,
+          "end": 60,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 1,
+            "chapterId": "2nephi1",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 10:7",
+          "start": 119,
+          "end": 129,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 10,
+            "chapterId": "2nephi10",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 5:58",
+          "start": 187,
+          "end": 196,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 5,
+            "chapterId": "alma5",
+            "verses": [
+              {
+                "start": 58,
+                "end": 58
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 21:22",
+          "start": 237,
+          "end": 248,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 21,
+            "chapterId": "3nephi21",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 7:16",
+          "start": 294,
+          "end": 304,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 7,
+            "chapterId": "ether7",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "earth shall be given unto them for an inheritance, D&C 45:58. be made known unto them the land of your inheritance, D&C 52:5. he that endureth … shall receive an inheritance, D&C 63:20. receive not their inheritance by consecration, D&C 85:3. receive their inheritance and be made equal with him, D&C 88:107. pure in heart, shall … come to their inheritances, D&C 101:18. land … obtained in exchange for his former inheritance, D&C 104:24.",
+      "references": [
+        {
+          "text": "D&C 45:58",
+          "start": 51,
+          "end": 60,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 45,
+            "chapterId": "doctrineandcovenants45",
+            "verses": [
+              {
+                "start": 58,
+                "end": 58
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 52:5",
+          "start": 116,
+          "end": 124,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 52,
+            "chapterId": "doctrineandcovenants52",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 63:20",
+          "start": 175,
+          "end": 184,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 63,
+            "chapterId": "doctrineandcovenants63",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 85:3",
+          "start": 233,
+          "end": 241,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 85,
+            "chapterId": "doctrineandcovenants85",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 88:107",
+          "start": 297,
+          "end": 307,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 107,
+                "end": 107
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 101:18",
+          "start": 360,
+          "end": 370,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 101,
+            "chapterId": "doctrineandcovenants101",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 104:24",
+          "start": 428,
+          "end": 438,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 104,
+            "chapterId": "doctrineandcovenants104",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-birthright",
+      "slug": "birthright",
+      "title": "Birthright"
+    },
+    {
+      "entryId": "tg-exaltation",
+      "slug": "exaltation",
+      "title": "Exaltation"
+    },
+    {
+      "entryId": "tg-inherit",
+      "slug": "inherit",
+      "title": "Inherit"
+    },
+    {
+      "entryId": "tg-lands-of-inheritance",
+      "slug": "lands-of-inheritance",
+      "title": "Lands of Inheritance"
+    }
+  ],
+  "slug": "inheritance",
+  "title": "Inheritance",
+  "type": "tg"
+}

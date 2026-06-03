@@ -1,0 +1,50 @@
+{
+  "_id": "tg-swaddling",
+  "content": [
+    {
+      "text": "wrapped him in swaddling clothes, Luke 2:7. Ye shall find the babe wrapped in swaddling clothes, Luke 2:12.",
+      "references": [
+        {
+          "text": "Luke 2:7",
+          "start": 34,
+          "end": 42,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 2,
+            "chapterId": "luke2",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 2:12",
+          "start": 97,
+          "end": 106,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 2,
+            "chapterId": "luke2",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "swaddling",
+  "title": "Swaddling",
+  "type": "tg"
+}

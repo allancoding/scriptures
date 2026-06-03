@@ -1,0 +1,68 @@
+{
+  "_id": "bd-didymus",
+  "content": [
+    {
+      "text": "Twin. The Greek equivalent of the Aramaic name Thomas (John 11:16; 20:24; 21:2).",
+      "references": [
+        {
+          "text": "John 11:16",
+          "start": 55,
+          "end": 65,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 11,
+            "chapterId": "john11",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "20:24",
+          "start": 67,
+          "end": 72,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 20,
+            "chapterId": "john20",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "21:2",
+          "start": 74,
+          "end": 78,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 21,
+            "chapterId": "john21",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "didymus",
+  "title": "Didymus",
+  "type": "bd"
+}

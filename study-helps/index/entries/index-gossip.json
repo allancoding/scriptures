@@ -1,0 +1,130 @@
+{
+  "_id": "index-gossip",
+  "content": [
+    {
+      "text": "Satan spreads rumors and contentions, Hel. 16:22.",
+      "references": [
+        {
+          "text": "Hel. 16:22",
+          "start": 38,
+          "end": 48,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 16,
+            "chapterId": "helaman16",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "thou shalt not speak evil of thy neighbor, D&C 42:27 (136:23). cease to find fault one with another, D&C 88:124. let your words tend to edifying one another, D&C 136:24.",
+      "references": [
+        {
+          "text": "D&C 42:27",
+          "start": 43,
+          "end": 52,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 42,
+            "chapterId": "doctrineandcovenants42",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "136:23",
+          "start": 54,
+          "end": 60,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 136,
+            "chapterId": "doctrineandcovenants136",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 88:124",
+          "start": 101,
+          "end": 111,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 124,
+                "end": 124
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 136:24",
+          "start": 158,
+          "end": 168,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 136,
+            "chapterId": "doctrineandcovenants136",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-babblings",
+      "slug": "babblings",
+      "title": "Babblings"
+    },
+    {
+      "entryId": "index-backbiting",
+      "slug": "backbiting",
+      "title": "Backbiting"
+    },
+    {
+      "entryId": "index-lying",
+      "slug": "lying",
+      "title": "Lying"
+    },
+    {
+      "entryId": "index-slander",
+      "slug": "slander",
+      "title": "Slander"
+    }
+  ],
+  "slug": "gossip",
+  "title": "Gossip",
+  "type": "index"
+}

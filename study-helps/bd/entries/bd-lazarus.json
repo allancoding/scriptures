@@ -1,0 +1,77 @@
+{
+  "_id": "bd-lazarus",
+  "content": [
+    {
+      "text": "Helped of God. (1) Of Bethany, brother of Martha and Mary (John 11:1–44; 12:1–2, 9–11); raised by Jesus from the dead.",
+      "references": [
+        {
+          "text": "John 11:1–44",
+          "start": 59,
+          "end": 71,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 11,
+            "chapterId": "john11",
+            "verses": [
+              {
+                "start": 1,
+                "end": 44
+              }
+            ]
+          }
+        },
+        {
+          "text": "12:1–2, 9–11",
+          "start": 73,
+          "end": 85,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 12,
+            "chapterId": "john12",
+            "verses": [
+              {
+                "start": 1,
+                "end": 2
+              },
+              {
+                "start": 9,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "(2) Of the parable (Luke 16:19–25); the meaning of the name may have suggested its use here.",
+      "references": [
+        {
+          "text": "Luke 16:19–25",
+          "start": 20,
+          "end": 33,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 16,
+            "chapterId": "luke16",
+            "verses": [
+              {
+                "start": 19,
+                "end": 25
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "lazarus",
+  "title": "Lazarus",
+  "type": "bd"
+}

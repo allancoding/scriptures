@@ -1,0 +1,50 @@
+{
+  "_id": "tg-swim",
+  "content": [
+    {
+      "text": "the iron did swim, 2 Kgs. 6:6. as he that swimmeth spreadeth forth his hands to swim, Isa. 25:11.",
+      "references": [
+        {
+          "text": "2 Kgs. 6:6",
+          "start": 19,
+          "end": 29,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 6,
+            "chapterId": "2kings6",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 25:11",
+          "start": 86,
+          "end": 96,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 25,
+            "chapterId": "isaiah25",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "swim",
+  "title": "Swim",
+  "type": "tg"
+}

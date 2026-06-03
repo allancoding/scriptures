@@ -1,0 +1,91 @@
+{
+  "_id": "tg-wagon",
+  "content": [
+    {
+      "text": "take you wagons out of the land of Egypt, Gen. 45:19 (46:5). brought their offering before the Lord, six covered wagons, Num. 7:3.",
+      "references": [
+        {
+          "text": "Gen. 45:19",
+          "start": 42,
+          "end": 52,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 45,
+            "chapterId": "genesis45",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "46:5",
+          "start": 54,
+          "end": 58,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 46,
+            "chapterId": "genesis46",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 7:3",
+          "start": 121,
+          "end": 129,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 7,
+            "chapterId": "numbers7",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "provide themselves with all the teams, wagons, D&C 136:5.",
+      "references": [
+        {
+          "text": "D&C 136:5",
+          "start": 47,
+          "end": 56,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 136,
+            "chapterId": "doctrineandcovenants136",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "wagon",
+  "title": "Wagon",
+  "type": "tg"
+}

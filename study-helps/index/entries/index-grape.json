@@ -1,0 +1,120 @@
+{
+  "_id": "index-grape",
+  "content": [
+    {
+      "text": "well-beloved’s vineyard brought forth wild grapes, 2 Ne. 15:2 (Isa. 5:2). do men gather grapes of thorns, 3 Ne. 14:16 (Matt. 7:16).",
+      "references": [
+        {
+          "text": "2 Ne. 15:2",
+          "start": 51,
+          "end": 61,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 15,
+            "chapterId": "2nephi15",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 5:2",
+          "start": 63,
+          "end": 71,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 5,
+            "chapterId": "isaiah5",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 14:16",
+          "start": 106,
+          "end": 117,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 14,
+            "chapterId": "3nephi14",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 7:16",
+          "start": 119,
+          "end": 129,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 7,
+            "chapterId": "matthew7",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "pure wine of grape to be used in sacrament, D&C 89:6.",
+      "references": [
+        {
+          "text": "D&C 89:6",
+          "start": 44,
+          "end": 52,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 89,
+            "chapterId": "doctrineandcovenants89",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-vineyard",
+      "slug": "vineyard",
+      "title": "Vineyard"
+    },
+    {
+      "entryId": "index-wine",
+      "slug": "wine",
+      "title": "Wine"
+    }
+  ],
+  "slug": "grape",
+  "title": "Grape",
+  "type": "index"
+}

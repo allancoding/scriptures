@@ -1,0 +1,86 @@
+{
+  "_id": "tg-bushel",
+  "content": [
+    {
+      "text": "Neither do men light a candle, and put it under a bushel, Matt. 5:15 (Mark 4:21; Luke 11:33; 3 Ne. 12:15).",
+      "references": [
+        {
+          "text": "Matt. 5:15",
+          "start": 58,
+          "end": 68,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 5,
+            "chapterId": "matthew5",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 4:21",
+          "start": 70,
+          "end": 79,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 4,
+            "chapterId": "mark4",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 11:33",
+          "start": 81,
+          "end": 91,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 11,
+            "chapterId": "luke11",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 12:15",
+          "start": 93,
+          "end": 104,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 12,
+            "chapterId": "3nephi12",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "bushel",
+  "title": "Bushel",
+  "type": "tg"
+}

@@ -1,0 +1,38 @@
+{
+  "_id": "index-clerk",
+  "content": [
+    {
+      "text": "duty of the Lord’s clerk, D&C 85:1.",
+      "references": [
+        {
+          "text": "D&C 85:1",
+          "start": 26,
+          "end": 34,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 85,
+            "chapterId": "doctrineandcovenants85",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-recorder",
+      "slug": "recorder",
+      "title": "Recorder"
+    }
+  ],
+  "slug": "clerk",
+  "title": "Clerk",
+  "type": "index"
+}

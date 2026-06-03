@@ -1,0 +1,74 @@
+{
+  "_id": "index-josephites",
+  "content": [
+    {
+      "text": "included among Nephites, Jacob 1:13 (4 Ne. 1:36–37; Morm. 1:8).",
+      "references": [
+        {
+          "text": "Jacob 1:13",
+          "start": 25,
+          "end": 35,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 1,
+            "chapterId": "jacob1",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "4 Ne. 1:36–37",
+          "start": 37,
+          "end": 50,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "4-ne",
+            "book": "4nephi",
+            "chapter": 1,
+            "chapterId": "4nephi1",
+            "verses": [
+              {
+                "start": 36,
+                "end": 37
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 1:8",
+          "start": 52,
+          "end": 61,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 1,
+            "chapterId": "mormon1",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-joseph-2",
+      "slug": "joseph-2",
+      "title": "Joseph2"
+    }
+  ],
+  "slug": "josephites",
+  "title": "Josephites—descendants of Joseph2",
+  "type": "index"
+}

@@ -1,0 +1,50 @@
+{
+  "_id": "bd-eunice",
+  "content": [
+    {
+      "text": "A Jewish Christian of Lystra, mother of Timothy (Acts 16:1; 2 Tim. 1:5).",
+      "references": [
+        {
+          "text": "Acts 16:1",
+          "start": 49,
+          "end": 58,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 16,
+            "chapterId": "acts16",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Tim. 1:5",
+          "start": 60,
+          "end": 70,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-tim",
+            "book": "2timothy",
+            "chapter": 1,
+            "chapterId": "2timothy1",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "eunice",
+  "title": "Eunice",
+  "type": "bd"
+}

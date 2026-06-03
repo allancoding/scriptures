@@ -1,0 +1,125 @@
+{
+  "_id": "tg-handmaid",
+  "content": [
+    {
+      "text": "she had an handmaid … Hagar, Gen. 16:1. an handmaid that is heir to her mistress, Prov. 30:23. upon the handmaids … pour out my spirit, Joel 2:29 (Acts 2:18).",
+      "references": [
+        {
+          "text": "Gen. 16:1",
+          "start": 29,
+          "end": 38,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 16,
+            "chapterId": "genesis16",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 30:23",
+          "start": 82,
+          "end": 93,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 30,
+            "chapterId": "proverbs30",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Joel 2:29",
+          "start": 136,
+          "end": 145,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "joel",
+            "book": "joel",
+            "chapter": 2,
+            "chapterId": "joel2",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 2:18",
+          "start": 147,
+          "end": 156,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 2,
+            "chapterId": "acts2",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Mary said, Behold the handmaid of the Lord, Luke 1:38.",
+      "references": [
+        {
+          "text": "Luke 1:38",
+          "start": 44,
+          "end": 53,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 1,
+            "chapterId": "luke1",
+            "verses": [
+              {
+                "start": 38,
+                "end": 38
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-damsel",
+      "slug": "damsel",
+      "title": "Damsel"
+    },
+    {
+      "entryId": "tg-girl",
+      "slug": "girl",
+      "title": "Girl"
+    },
+    {
+      "entryId": "tg-maid",
+      "slug": "maid",
+      "title": "Maid"
+    }
+  ],
+  "slug": "handmaid",
+  "title": "Handmaid",
+  "type": "tg"
+}

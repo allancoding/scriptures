@@ -1,0 +1,86 @@
+{
+  "_id": "bd-lords-prayer",
+  "content": [
+    {
+      "text": "So called because it was taught by our Lord to His disciples. Matthew (6:9–13) includes it in the Sermon on the Mount, while Luke (11:1–5) tells us that it was given by our Lord in answer to a request from one of His disciples. There are some small differences in the form in which the two disciples have recorded the prayer; these may be accounted for by supposing that they themselves did not always use exactly the same words in saying the prayer. A slightly different rendition is found in 3 Ne. 13:9–13; and further variations are to be seen in JST Matt. 6:9–15 (see Matt. 6:13 note a).",
+      "references": [
+        {
+          "text": "6:9–13",
+          "start": 71,
+          "end": 77,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 6,
+            "chapterId": "matthew6",
+            "verses": [
+              {
+                "start": 9,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "11:1–5",
+          "start": 131,
+          "end": 137,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 11,
+            "chapterId": "luke11",
+            "verses": [
+              {
+                "start": 1,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 13:9–13",
+          "start": 494,
+          "end": 507,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 13,
+            "chapterId": "3nephi13",
+            "verses": [
+              {
+                "start": 9,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 6:13 note a",
+          "start": 572,
+          "end": 589,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 6,
+            "chapterId": "matthew6",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "lords-prayer",
+  "title": "Lord’s Prayer",
+  "type": "bd"
+}

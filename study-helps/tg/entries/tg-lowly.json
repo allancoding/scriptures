@@ -1,0 +1,156 @@
+{
+  "_id": "tg-lowly",
+  "content": [
+    {
+      "text": "he giveth grace unto the lowly, Prov. 3:34. thy King cometh … lowly, and riding upon an ass, Zech. 9:9.",
+      "references": [
+        {
+          "text": "Prov. 3:34",
+          "start": 32,
+          "end": 42,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 3,
+            "chapterId": "proverbs3",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        },
+        {
+          "text": "Zech. 9:9",
+          "start": 93,
+          "end": 102,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "zech",
+            "book": "zechariah",
+            "chapter": 9,
+            "chapterId": "zechariah9",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "learn of me; for I am meek and lowly in heart, Matt. 11:29.",
+      "references": [
+        {
+          "text": "Matt. 11:29",
+          "start": 47,
+          "end": 58,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 11,
+            "chapterId": "matthew11",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "I behold that ye are lowly in heart, Alma 32:8. teach them … to be meek and lowly in heart, Alma 37:33 (Moro. 7:43; D&C 32:1).",
+      "references": [
+        {
+          "text": "Alma 32:8",
+          "start": 37,
+          "end": 46,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 32,
+            "chapterId": "alma32",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 37:33",
+          "start": 92,
+          "end": 102,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 37,
+            "chapterId": "alma37",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moro. 7:43",
+          "start": 104,
+          "end": 114,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "moro",
+            "book": "moroni",
+            "chapter": 7,
+            "chapterId": "moroni7",
+            "verses": [
+              {
+                "start": 43,
+                "end": 43
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 32:1",
+          "start": 116,
+          "end": 124,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 32,
+            "chapterId": "doctrineandcovenants32",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-humility",
+      "slug": "humility",
+      "title": "Humility"
+    }
+  ],
+  "slug": "lowly",
+  "title": "Lowly",
+  "type": "tg"
+}

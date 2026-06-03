@@ -1,0 +1,68 @@
+{
+  "_id": "tg-shape",
+  "content": [
+    {
+      "text": "Holy Ghost descended in a bodily shape like a dove, Luke 3:22. Ye have neither heard his voice … nor seen his shape, John 5:37. shapes of the locusts were like unto horses, Rev. 9:7.",
+      "references": [
+        {
+          "text": "Luke 3:22",
+          "start": 52,
+          "end": 61,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 3,
+            "chapterId": "luke3",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 5:37",
+          "start": 117,
+          "end": 126,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 5,
+            "chapterId": "john5",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 9:7",
+          "start": 173,
+          "end": 181,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 9,
+            "chapterId": "revelation9",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "shape",
+  "title": "Shape",
+  "type": "tg"
+}

@@ -1,0 +1,86 @@
+{
+  "_id": "bd-hart",
+  "content": [
+    {
+      "text": "A fallow-deer or a roebuck, mentioned as fit for food (Deut. 12:22; see also Ps. 42:1; Song 2:8–9; Isa. 35:6).",
+      "references": [
+        {
+          "text": "Deut. 12:22",
+          "start": 55,
+          "end": 66,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 12,
+            "chapterId": "deuteronomy12",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 42:1",
+          "start": 77,
+          "end": 85,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 42,
+            "chapterId": "psalms42",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Song 2:8–9",
+          "start": 87,
+          "end": 97,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "song",
+            "book": "songofsolomon",
+            "chapter": 2,
+            "chapterId": "songofsolomon2",
+            "verses": [
+              {
+                "start": 8,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 35:6",
+          "start": 99,
+          "end": 108,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 35,
+            "chapterId": "isaiah35",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "hart",
+  "title": "Hart",
+  "type": "bd"
+}

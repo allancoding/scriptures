@@ -1,0 +1,56 @@
+{
+  "_id": "index-warfare",
+  "content": [
+    {
+      "text": "Mosiah2 has warred good warfare, Alma 1:1. Helaman2 and Moroni1 brothers in the Lord as in warfare, Alma 56:2.",
+      "references": [
+        {
+          "text": "Alma 1:1",
+          "start": 33,
+          "end": 41,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 1,
+            "chapterId": "alma1",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 56:2",
+          "start": 100,
+          "end": 109,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 56,
+            "chapterId": "alma56",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-war",
+      "slug": "war",
+      "title": "War"
+    }
+  ],
+  "slug": "warfare",
+  "title": "Warfare",
+  "type": "index"
+}

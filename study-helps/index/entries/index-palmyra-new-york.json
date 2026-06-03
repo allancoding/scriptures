@@ -1,0 +1,50 @@
+{
+  "_id": "index-palmyra-new-york",
+  "content": [
+    {
+      "text": "Joseph Smith’s family moves to Palmyra, JS—H 1:3. Martin Harris is resident of Palmyra, JS—H 1:61.",
+      "references": [
+        {
+          "text": "JS—H 1:3",
+          "start": 40,
+          "end": 48,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "JS—H 1:61",
+          "start": 88,
+          "end": 97,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 61,
+                "end": 61
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "palmyra-new-york",
+  "title": "Palmyra, New York",
+  "type": "index"
+}

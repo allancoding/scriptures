@@ -1,0 +1,91 @@
+{
+  "_id": "tg-refiner",
+  "content": [
+    {
+      "text": "he is like a refiner’s fire, Mal. 3:2 (3 Ne. 24:3; D&C 128:24).",
+      "references": [
+        {
+          "text": "Mal. 3:2",
+          "start": 29,
+          "end": 37,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "mal",
+            "book": "malachi",
+            "chapter": 3,
+            "chapterId": "malachi3",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 24:3",
+          "start": 39,
+          "end": 49,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 24,
+            "chapterId": "3nephi24",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 128:24",
+          "start": 51,
+          "end": 61,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 128,
+            "chapterId": "doctrineandcovenants128",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "ye are as dross, which the refiners do cast out, Alma 34:29.",
+      "references": [
+        {
+          "text": "Alma 34:29",
+          "start": 49,
+          "end": 59,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 34,
+            "chapterId": "alma34",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "refiner",
+  "title": "Refiner",
+  "type": "tg"
+}

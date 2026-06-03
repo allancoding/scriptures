@@ -1,0 +1,94 @@
+{
+  "_id": "index-begotten",
+  "content": [
+    {
+      "text": "Christ hath spiritually begotten his people, Mosiah 5:7.",
+      "references": [
+        {
+          "text": "Mosiah 5:7",
+          "start": 45,
+          "end": 55,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 5,
+            "chapterId": "mosiah5",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "inhabitants of worlds are begotten sons and daughters of God, D&C 76:24. those who are begotten through the Lord are of Church of the Firstborn, D&C 93:22.",
+      "references": [
+        {
+          "text": "D&C 76:24",
+          "start": 62,
+          "end": 71,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 76,
+            "chapterId": "doctrineandcovenants76",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 93:22",
+          "start": 145,
+          "end": 154,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 93,
+            "chapterId": "doctrineandcovenants93",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-born-of-god",
+      "slug": "born-of-god",
+      "title": "Born of God"
+    },
+    {
+      "entryId": "index-children-of-god",
+      "slug": "children-of-god",
+      "title": "Children of God"
+    },
+    {
+      "entryId": "index-jesus-christ-only-begotten-son",
+      "slug": "jesus-christ-only-begotten-son",
+      "title": "Jesus Christ—Only Begotten Son"
+    },
+    {
+      "entryId": "index-son",
+      "slug": "son",
+      "title": "Son"
+    }
+  ],
+  "slug": "begotten",
+  "title": "Begotten",
+  "type": "index"
+}

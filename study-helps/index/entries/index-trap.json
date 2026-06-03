@@ -1,0 +1,43 @@
+{
+  "_id": "index-trap",
+  "content": [
+    {
+      "text": "lawyers are laying traps to catch holy ones of God, Alma 10:17.",
+      "references": [
+        {
+          "text": "Alma 10:17",
+          "start": 52,
+          "end": 62,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 10,
+            "chapterId": "alma10",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-pit",
+      "slug": "pit",
+      "title": "Pit"
+    },
+    {
+      "entryId": "index-snare",
+      "slug": "snare",
+      "title": "Snare"
+    }
+  ],
+  "slug": "trap",
+  "title": "Trap",
+  "type": "index"
+}

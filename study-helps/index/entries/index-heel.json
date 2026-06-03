@@ -1,0 +1,61 @@
+{
+  "_id": "index-heel",
+  "content": [
+    {
+      "text": "cursed are those who lift up heel against the Lord’s anointed, D&C 121:16.",
+      "references": [
+        {
+          "text": "D&C 121:16",
+          "start": 63,
+          "end": 73,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "serpent shall bruise heel of seed of woman, Moses 4:21.",
+      "references": [
+        {
+          "text": "Moses 4:21",
+          "start": 44,
+          "end": 54,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 4,
+            "chapterId": "moses4",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-foot",
+      "slug": "foot",
+      "title": "Foot"
+    }
+  ],
+  "slug": "heel",
+  "title": "Heel",
+  "type": "index"
+}

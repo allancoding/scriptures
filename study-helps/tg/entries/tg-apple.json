@@ -1,0 +1,68 @@
+{
+  "_id": "tg-apple",
+  "content": [
+    {
+      "text": "kept him as the apple of his eye, Deut. 32:10. Keep me as the apple of the eye, Ps. 17:8. my law as the apple of thine eye, Prov. 7:2.",
+      "references": [
+        {
+          "text": "Deut. 32:10",
+          "start": 34,
+          "end": 45,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 32,
+            "chapterId": "deuteronomy32",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 17:8",
+          "start": 80,
+          "end": 88,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 17,
+            "chapterId": "psalms17",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 7:2",
+          "start": 124,
+          "end": 133,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 7,
+            "chapterId": "proverbs7",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "apple",
+  "title": "Apple",
+  "type": "tg"
+}

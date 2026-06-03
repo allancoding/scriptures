@@ -1,0 +1,68 @@
+{
+  "_id": "bd-zarephath",
+  "content": [
+    {
+      "text": "A city lying between Tyre and Sidon, where Elijah dwelt with a widow (1 Kgs. 17:9; Obad. 1:20; Luke 4:26).",
+      "references": [
+        {
+          "text": "1 Kgs. 17:9",
+          "start": 70,
+          "end": 81,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 17,
+            "chapterId": "1kings17",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Obad. 1:20",
+          "start": 83,
+          "end": 93,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "obad",
+            "book": "obadiah",
+            "chapter": 1,
+            "chapterId": "obadiah1",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 4:26",
+          "start": 95,
+          "end": 104,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 4,
+            "chapterId": "luke4",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "zarephath",
+  "title": "Zarephath",
+  "type": "bd"
+}

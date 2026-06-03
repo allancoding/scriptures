@@ -1,0 +1,138 @@
+{
+  "_id": "tg-common-consent",
+  "content": [
+    {
+      "text": "all the people answered with one voice, Ex. 24:3.",
+      "references": [
+        {
+          "text": "Ex. 24:3",
+          "start": 40,
+          "end": 48,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 24,
+            "chapterId": "exodus24",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "being assembled with one accord, to send chosen men, Acts 15:25.",
+      "references": [
+        {
+          "text": "Acts 15:25",
+          "start": 53,
+          "end": 63,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 15,
+            "chapterId": "acts15",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "No person is to be ordained … without the vote of that church, D&C 20:65. all things shall be done by common consent, D&C 26:2 (28:13). fill all these offices and approve of those names, D&C 124:144.",
+      "references": [
+        {
+          "text": "D&C 20:65",
+          "start": 63,
+          "end": 72,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 20,
+            "chapterId": "doctrineandcovenants20",
+            "verses": [
+              {
+                "start": 65,
+                "end": 65
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 26:2",
+          "start": 118,
+          "end": 126,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 26,
+            "chapterId": "doctrineandcovenants26",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "28:13",
+          "start": 128,
+          "end": 133,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 28,
+            "chapterId": "doctrineandcovenants28",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 124:144",
+          "start": 187,
+          "end": 198,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 124,
+            "chapterId": "doctrineandcovenants124",
+            "verses": [
+              {
+                "start": 144,
+                "end": 144
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-sustaining-church-leaders",
+      "slug": "sustaining-church-leaders",
+      "title": "Sustaining Church Leaders"
+    }
+  ],
+  "slug": "common-consent",
+  "title": "Common Consent",
+  "type": "tg"
+}

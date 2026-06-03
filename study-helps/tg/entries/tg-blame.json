@@ -1,0 +1,115 @@
+{
+  "_id": "tg-blame",
+  "content": [
+    {
+      "text": "let me bear the blame for ever, Gen. 43:9 (44:32).",
+      "references": [
+        {
+          "text": "Gen. 43:9",
+          "start": 32,
+          "end": 41,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 43,
+            "chapterId": "genesis43",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "44:32",
+          "start": 43,
+          "end": 48,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 44,
+            "chapterId": "genesis44",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "no offence in any thing, that the ministry be not blamed, 2 Cor. 6:3. withstood him … because he was to be blamed, Gal. 2:11. holy and without blame before him, Eph. 1:4.",
+      "references": [
+        {
+          "text": "2 Cor. 6:3",
+          "start": 58,
+          "end": 68,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 6,
+            "chapterId": "2corinthians6",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gal. 2:11",
+          "start": 115,
+          "end": 124,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "gal",
+            "book": "galatians",
+            "chapter": 2,
+            "chapterId": "galatians2",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eph. 1:4",
+          "start": 161,
+          "end": 169,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "eph",
+            "book": "ephesians",
+            "chapter": 1,
+            "chapterId": "ephesians1",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-accuse",
+      "slug": "accuse",
+      "title": "Accuse"
+    }
+  ],
+  "slug": "blame",
+  "title": "Blame",
+  "type": "tg"
+}

@@ -1,0 +1,61 @@
+{
+  "_id": "tg-renounce",
+  "content": [
+    {
+      "text": "have renounced the hidden things of dishonesty, 2 Cor. 4:2.",
+      "references": [
+        {
+          "text": "2 Cor. 4:2",
+          "start": 48,
+          "end": 58,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 4,
+            "chapterId": "2corinthians4",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "renounce war and proclaim peace, D&C 98:16.",
+      "references": [
+        {
+          "text": "D&C 98:16",
+          "start": 33,
+          "end": 42,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 98,
+            "chapterId": "doctrineandcovenants98",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-deny",
+      "slug": "deny",
+      "title": "Deny"
+    }
+  ],
+  "slug": "renounce",
+  "title": "Renounce",
+  "type": "tg"
+}

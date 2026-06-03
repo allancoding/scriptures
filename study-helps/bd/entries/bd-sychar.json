@@ -1,0 +1,32 @@
+{
+  "_id": "bd-sychar",
+  "content": [
+    {
+      "text": "Site of Jacob’s well (John 4:5). See Shechem.",
+      "references": [
+        {
+          "text": "John 4:5",
+          "start": 22,
+          "end": 30,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 4,
+            "chapterId": "john4",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "sychar",
+  "title": "Sychar",
+  "type": "bd"
+}

@@ -1,0 +1,90 @@
+{
+  "_id": "bd-rameses",
+  "content": [
+    {
+      "text": "An Egyptian treasure-city, and also name of the district surrounding it (Gen. 47:11; Ex. 12:37; Num. 33:3, 5). Spelled Raamses (Ex. 1:11).",
+      "references": [
+        {
+          "text": "Gen. 47:11",
+          "start": 73,
+          "end": 83,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 47,
+            "chapterId": "genesis47",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 12:37",
+          "start": 85,
+          "end": 94,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 12,
+            "chapterId": "exodus12",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 33:3, 5",
+          "start": 96,
+          "end": 108,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 33,
+            "chapterId": "numbers33",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              },
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 1:11",
+          "start": 128,
+          "end": 136,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 1,
+            "chapterId": "exodus1",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "rameses",
+  "title": "Rameses",
+  "type": "bd"
+}

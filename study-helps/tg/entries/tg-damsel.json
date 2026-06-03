@@ -1,0 +1,71 @@
+{
+  "_id": "tg-damsel",
+  "content": [
+    {
+      "text": "damsel is not dead, but sleepeth, Mark 5:39. certain damsel possessed with a spirit, Acts 16:16.",
+      "references": [
+        {
+          "text": "Mark 5:39",
+          "start": 34,
+          "end": 43,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 5,
+            "chapterId": "mark5",
+            "verses": [
+              {
+                "start": 39,
+                "end": 39
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 16:16",
+          "start": 85,
+          "end": 95,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 16,
+            "chapterId": "acts16",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-girl",
+      "slug": "girl",
+      "title": "Girl"
+    },
+    {
+      "entryId": "tg-handmaid",
+      "slug": "handmaid",
+      "title": "Handmaid"
+    },
+    {
+      "entryId": "tg-maid",
+      "slug": "maid",
+      "title": "Maid"
+    },
+    {
+      "entryId": "tg-virgin",
+      "slug": "virgin",
+      "title": "Virgin"
+    }
+  ],
+  "slug": "damsel",
+  "title": "Damsel",
+  "type": "tg"
+}

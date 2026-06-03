@@ -1,0 +1,86 @@
+{
+  "_id": "bd-quick",
+  "content": [
+    {
+      "text": "Living, alive, as in Lev. 13:10; Ps. 124:3; 2 Tim. 4:1; Heb. 4:12.",
+      "references": [
+        {
+          "text": "Lev. 13:10",
+          "start": 21,
+          "end": 31,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 13,
+            "chapterId": "leviticus13",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 124:3",
+          "start": 33,
+          "end": 42,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 124,
+            "chapterId": "psalms124",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Tim. 4:1",
+          "start": 44,
+          "end": 54,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-tim",
+            "book": "2timothy",
+            "chapter": 4,
+            "chapterId": "2timothy4",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 4:12",
+          "start": 56,
+          "end": 65,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 4,
+            "chapterId": "hebrews4",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "quick",
+  "title": "Quick",
+  "type": "bd"
+}

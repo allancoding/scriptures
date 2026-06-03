@@ -1,0 +1,84 @@
+{
+  "_id": "tg-enough",
+  "content": [
+    {
+      "text": "greedy dogs which can never have enough, Isa. 56:11.",
+      "references": [
+        {
+          "text": "Isa. 56:11",
+          "start": 41,
+          "end": 51,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 56,
+            "chapterId": "isaiah56",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "word of God, for we have enough, 2 Ne. 28:29.",
+      "references": [
+        {
+          "text": "2 Ne. 28:29",
+          "start": 33,
+          "end": 44,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 28,
+            "chapterId": "2nephi28",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "earth is full, and there is enough and to spare, D&C 104:17.",
+      "references": [
+        {
+          "text": "D&C 104:17",
+          "start": 49,
+          "end": 59,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 104,
+            "chapterId": "doctrineandcovenants104",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-sufficiency",
+      "slug": "sufficiency",
+      "title": "Sufficiency"
+    }
+  ],
+  "slug": "enough",
+  "title": "Enough",
+  "type": "tg"
+}

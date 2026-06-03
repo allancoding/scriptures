@@ -1,0 +1,886 @@
+{
+  "_id": "tg-scribe",
+  "content": [
+    {
+      "text": "Moses wrote all the words of the Lord, Ex. 24:4 (34:27; Moses 2:1). Moses wrote this law, Deut. 31:9. they that handle the pen of the writer, Judg. 5:14. Samuel … wrote it in a book, 1 Sam. 10:25. Seraiah was the scribe, 2 Sam. 8:17. sons of Shisha, scribes, 1 Kgs. 4:3. Shebna the scribe, 2 Kgs. 19:2. families of the scribes which dwelt at Jabez, 1 Chr. 2:55. acts of Uzziah … did Isaiah … write, 2 Chr. 26:22. of the Levites there were scribes, 2 Chr. 34:13. Ezra … a scribe of the words of the commandments, Ezra 7:11. Ezra the scribe to bring the book of the law of Moses, Neh. 8:1. Where is the scribe, Isa. 33:18 (1 Cor. 1:20). Baruch the scribe, Jer. 36:32.",
+      "references": [
+        {
+          "text": "Ex. 24:4",
+          "start": 39,
+          "end": 47,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 24,
+            "chapterId": "exodus24",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "34:27",
+          "start": 49,
+          "end": 54,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 34,
+            "chapterId": "exodus34",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 2:1",
+          "start": 56,
+          "end": 65,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 2,
+            "chapterId": "moses2",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 31:9",
+          "start": 90,
+          "end": 100,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 31,
+            "chapterId": "deuteronomy31",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Judg. 5:14",
+          "start": 142,
+          "end": 152,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "judg",
+            "book": "judges",
+            "chapter": 5,
+            "chapterId": "judges5",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Sam. 10:25",
+          "start": 183,
+          "end": 195,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 10,
+            "chapterId": "1samuel10",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Sam. 8:17",
+          "start": 221,
+          "end": 232,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-sam",
+            "book": "2samuel",
+            "chapter": 8,
+            "chapterId": "2samuel8",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Kgs. 4:3",
+          "start": 259,
+          "end": 269,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 4,
+            "chapterId": "1kings4",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Kgs. 19:2",
+          "start": 290,
+          "end": 301,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 19,
+            "chapterId": "2kings19",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Chr. 2:55",
+          "start": 349,
+          "end": 360,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-chr",
+            "book": "1chronicles",
+            "chapter": 2,
+            "chapterId": "1chronicles2",
+            "verses": [
+              {
+                "start": 55,
+                "end": 55
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Chr. 26:22",
+          "start": 399,
+          "end": 411,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-chr",
+            "book": "2chronicles",
+            "chapter": 26,
+            "chapterId": "2chronicles26",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Chr. 34:13",
+          "start": 448,
+          "end": 460,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-chr",
+            "book": "2chronicles",
+            "chapter": 34,
+            "chapterId": "2chronicles34",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezra 7:11",
+          "start": 512,
+          "end": 521,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezra",
+            "book": "ezra",
+            "chapter": 7,
+            "chapterId": "ezra7",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Neh. 8:1",
+          "start": 578,
+          "end": 586,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "neh",
+            "book": "nehemiah",
+            "chapter": 8,
+            "chapterId": "nehemiah8",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 33:18",
+          "start": 609,
+          "end": 619,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 33,
+            "chapterId": "isaiah33",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 1:20",
+          "start": 621,
+          "end": 632,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 1,
+            "chapterId": "1corinthians1",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 36:32",
+          "start": 654,
+          "end": 664,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 36,
+            "chapterId": "jeremiah36",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "except your righteousness shall exceed … the scribes, Matt. 5:20. he taught them as one having authority, and not as the scribes, Matt. 7:29 (Mark 1:22). certain scribe came, and said unto him, Matt. 8:19. every scribe which is instructed unto the kingdom, Matt. 13:52. Then came to Jesus scribes and Pharisees, Matt. 15:1. scribes and the Pharisees sit in Moses’ seat, Matt. 23:2. woe unto you, scribes and Pharisees, hypocrites, Matt. 23:13 (Luke 11:44). I send unto you … scribes, Matt. 23:34. disciples … and the scribes questioning with them, Mark 9:14. Son of man shall be delivered unto … the scribes, Mark 10:33. one of the scribes came, Mark 12:28 (Luke 20:46). scribes sought how they might take him, Mark 14:1. scribes and Pharisees watched him, Luke 6:7. scribes sought how they might kill him, Luke 22:2. priests and scribes stood and vehemently accused, Luke 23:10. scribes that were of the Pharisees’ part arose, Acts 23:9.",
+      "references": [
+        {
+          "text": "Matt. 5:20",
+          "start": 54,
+          "end": 64,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 5,
+            "chapterId": "matthew5",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 7:29",
+          "start": 130,
+          "end": 140,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 7,
+            "chapterId": "matthew7",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 1:22",
+          "start": 142,
+          "end": 151,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 1,
+            "chapterId": "mark1",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 8:19",
+          "start": 194,
+          "end": 204,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 8,
+            "chapterId": "matthew8",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 13:52",
+          "start": 257,
+          "end": 268,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 13,
+            "chapterId": "matthew13",
+            "verses": [
+              {
+                "start": 52,
+                "end": 52
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 15:1",
+          "start": 312,
+          "end": 322,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 15,
+            "chapterId": "matthew15",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 23:2",
+          "start": 370,
+          "end": 380,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 23,
+            "chapterId": "matthew23",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 23:13",
+          "start": 431,
+          "end": 442,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 23,
+            "chapterId": "matthew23",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 11:44",
+          "start": 444,
+          "end": 454,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 11,
+            "chapterId": "luke11",
+            "verses": [
+              {
+                "start": 44,
+                "end": 44
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 23:34",
+          "start": 484,
+          "end": 495,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 23,
+            "chapterId": "matthew23",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 9:14",
+          "start": 548,
+          "end": 557,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 9,
+            "chapterId": "mark9",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 10:33",
+          "start": 609,
+          "end": 619,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 10,
+            "chapterId": "mark10",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 12:28",
+          "start": 646,
+          "end": 656,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 12,
+            "chapterId": "mark12",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 20:46",
+          "start": 658,
+          "end": 668,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 20,
+            "chapterId": "luke20",
+            "verses": [
+              {
+                "start": 46,
+                "end": 46
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 14:1",
+          "start": 711,
+          "end": 720,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 14,
+            "chapterId": "mark14",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 6:7",
+          "start": 757,
+          "end": 765,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 6,
+            "chapterId": "luke6",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 22:2",
+          "start": 807,
+          "end": 816,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 22,
+            "chapterId": "luke22",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 23:10",
+          "start": 868,
+          "end": 878,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 23,
+            "chapterId": "luke23",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 23:9",
+          "start": 928,
+          "end": 937,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 23,
+            "chapterId": "acts23",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "I shall make an account of my proceedings, 1 Ne. 1:17. I did engraven the record of my father, 1 Ne. 19:1. gave me, Jacob, a commandment that I should write, Jacob 1:2. Jarom, write a few words, Jarom 1:1. Omni, being commanded … write … upon these plates, Omni 1:1. write the things which I have told you, 3 Ne. 23:4. I write a small abridgment, Morm. 5:9. write the things which he had seen, Ether 4:1.",
+      "references": [
+        {
+          "text": "1 Ne. 1:17",
+          "start": 43,
+          "end": 53,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 1,
+            "chapterId": "1nephi1",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Ne. 19:1",
+          "start": 95,
+          "end": 105,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 19,
+            "chapterId": "1nephi19",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jacob 1:2",
+          "start": 158,
+          "end": 167,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 1,
+            "chapterId": "jacob1",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jarom 1:1",
+          "start": 195,
+          "end": 204,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jarom",
+            "book": "jarom",
+            "chapter": 1,
+            "chapterId": "jarom1",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Omni 1:1",
+          "start": 257,
+          "end": 265,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "omni",
+            "book": "omni",
+            "chapter": 1,
+            "chapterId": "omni1",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 23:4",
+          "start": 307,
+          "end": 317,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 23,
+            "chapterId": "3nephi23",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 5:9",
+          "start": 347,
+          "end": 356,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 5,
+            "chapterId": "mormon5",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 4:1",
+          "start": 394,
+          "end": 403,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 4,
+            "chapterId": "ether4",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "write for my servant Joseph, D&C 9:4. thou wast called and chosen to write the Book of Mormon, D&C 24:1. given thee … what thou shalt … write, D&C 24:6.",
+      "references": [
+        {
+          "text": "D&C 9:4",
+          "start": 29,
+          "end": 36,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 9,
+            "chapterId": "doctrineandcovenants9",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 24:1",
+          "start": 95,
+          "end": 103,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 24,
+            "chapterId": "doctrineandcovenants24",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 24:6",
+          "start": 143,
+          "end": 151,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 24,
+            "chapterId": "doctrineandcovenants24",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-lawyer",
+      "slug": "lawyer",
+      "title": "Lawyer"
+    },
+    {
+      "entryId": "tg-scriptures-writing-of",
+      "slug": "scriptures-writing-of",
+      "title": "Scriptures, Writing of"
+    }
+  ],
+  "slug": "scribe",
+  "title": "Scribe",
+  "type": "tg"
+}

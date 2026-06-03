@@ -1,0 +1,54 @@
+{
+  "_id": "index-shared",
+  "content": [
+    {
+      "text": "gives battle to Coriantumr2 and sons, Ether 13:23–24, 27–29. is slain, Ether 13:30.",
+      "references": [
+        {
+          "text": "Ether 13:23–24, 27–29",
+          "start": 38,
+          "end": 59,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 13,
+            "chapterId": "ether13",
+            "verses": [
+              {
+                "start": 23,
+                "end": 24
+              },
+              {
+                "start": 27,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 13:30",
+          "start": 71,
+          "end": 82,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 13,
+            "chapterId": "ether13",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "shared",
+  "title": "Shared—Jaredite military leader",
+  "type": "index"
+}

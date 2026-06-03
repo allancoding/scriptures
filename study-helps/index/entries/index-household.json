@@ -1,0 +1,56 @@
+{
+  "_id": "index-household",
+  "content": [
+    {
+      "text": "whole household of Lamanite king is converted unto the Lord, Alma 22:23. cry unto the Lord over all your household, Alma 34:21.",
+      "references": [
+        {
+          "text": "Alma 22:23",
+          "start": 61,
+          "end": 71,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 22,
+            "chapterId": "alma22",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 34:21",
+          "start": 116,
+          "end": 126,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 34,
+            "chapterId": "alma34",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-family",
+      "slug": "family",
+      "title": "Family"
+    }
+  ],
+  "slug": "household",
+  "title": "Household",
+  "type": "index"
+}

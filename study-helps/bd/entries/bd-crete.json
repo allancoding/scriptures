@@ -1,0 +1,68 @@
+{
+  "_id": "bd-crete",
+  "content": [
+    {
+      "text": "An island south of the Greek Archipelago, visited by Paul on his voyage to Rome (Acts 27:7–21) and possibly again, later on, between his first and second imprisonments (Titus 1:5). The Cretans bore a bad reputation (Titus 1:12).",
+      "references": [
+        {
+          "text": "Acts 27:7–21",
+          "start": 81,
+          "end": 93,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 27,
+            "chapterId": "acts27",
+            "verses": [
+              {
+                "start": 7,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Titus 1:5",
+          "start": 169,
+          "end": 178,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "titus",
+            "book": "titus",
+            "chapter": 1,
+            "chapterId": "titus1",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Titus 1:12",
+          "start": 216,
+          "end": 226,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "titus",
+            "book": "titus",
+            "chapter": 1,
+            "chapterId": "titus1",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "crete",
+  "title": "Crete",
+  "type": "bd"
+}

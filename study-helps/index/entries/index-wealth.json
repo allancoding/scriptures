@@ -1,0 +1,94 @@
+{
+  "_id": "index-wealth",
+  "content": [
+    {
+      "text": "Nephites become large and wealthy people, Mosiah 27:7. members of Church become far more wealthy than nonmembers, Alma 1:31.",
+      "references": [
+        {
+          "text": "Mosiah 27:7",
+          "start": 42,
+          "end": 53,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 27,
+            "chapterId": "mosiah27",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 1:31",
+          "start": 114,
+          "end": 123,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 1,
+            "chapterId": "alma1",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "wealth of city to be given to Saints, D&C 111:4.",
+      "references": [
+        {
+          "text": "D&C 111:4",
+          "start": 38,
+          "end": 47,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 111,
+            "chapterId": "doctrineandcovenants111",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-gain",
+      "slug": "gain",
+      "title": "Gain"
+    },
+    {
+      "entryId": "index-money",
+      "slug": "money",
+      "title": "Money"
+    },
+    {
+      "entryId": "index-rich",
+      "slug": "rich",
+      "title": "Rich"
+    },
+    {
+      "entryId": "index-riches",
+      "slug": "riches",
+      "title": "Riches"
+    }
+  ],
+  "slug": "wealth",
+  "title": "Wealth, Wealthy",
+  "type": "index"
+}

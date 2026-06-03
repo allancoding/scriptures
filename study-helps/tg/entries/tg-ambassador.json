@@ -1,0 +1,71 @@
+{
+  "_id": "tg-ambassador",
+  "content": [
+    {
+      "text": "we are ambassadors for Christ, 2 Cor. 5:20. For which I am an ambassador in bonds, Eph. 6:20.",
+      "references": [
+        {
+          "text": "2 Cor. 5:20",
+          "start": 31,
+          "end": 42,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 5,
+            "chapterId": "2corinthians5",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eph. 6:20",
+          "start": 83,
+          "end": 92,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "eph",
+            "book": "ephesians",
+            "chapter": 6,
+            "chapterId": "ephesians6",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-disciple",
+      "slug": "disciple",
+      "title": "Disciple"
+    },
+    {
+      "entryId": "tg-messenger",
+      "slug": "messenger",
+      "title": "Messenger"
+    },
+    {
+      "entryId": "tg-minister",
+      "slug": "minister",
+      "title": "Minister"
+    },
+    {
+      "entryId": "tg-prophets-mission-of",
+      "slug": "prophets-mission-of",
+      "title": "Prophets, Mission of"
+    }
+  ],
+  "slug": "ambassador",
+  "title": "Ambassador",
+  "type": "tg"
+}

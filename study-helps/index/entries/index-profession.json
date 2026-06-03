@@ -1,0 +1,92 @@
+{
+  "_id": "index-profession",
+  "content": [
+    {
+      "text": "lawyers are learned in arts and cunning that they might be skillful in their profession, Alma 10:15. priests of Ammonihah are of profession of Nehor, Alma 14:18 (15:15; 16:11).",
+      "references": [
+        {
+          "text": "Alma 10:15",
+          "start": 89,
+          "end": 99,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 10,
+            "chapterId": "alma10",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 14:18",
+          "start": 150,
+          "end": 160,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 14,
+            "chapterId": "alma14",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "15:15",
+          "start": 162,
+          "end": 167,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 15,
+            "chapterId": "alma15",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "16:11",
+          "start": 169,
+          "end": 174,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 16,
+            "chapterId": "alma16",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-craftiness",
+      "slug": "craftiness",
+      "title": "Craftiness"
+    }
+  ],
+  "slug": "profession",
+  "title": "Profession",
+  "type": "index"
+}

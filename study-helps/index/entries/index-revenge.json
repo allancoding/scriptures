@@ -1,0 +1,111 @@
+{
+  "_id": "index-revenge",
+  "content": [
+    {
+      "text": "those who fled with Noah3 swear to return and seek revenge, Mosiah 19:19. Amalekites see they cannot seek revenge, Alma 27:2. Nephites thirst after blood and revenge continually, Moro. 9:5, 23.",
+      "references": [
+        {
+          "text": "Mosiah 19:19",
+          "start": 60,
+          "end": 72,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 19,
+            "chapterId": "mosiah19",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 27:2",
+          "start": 115,
+          "end": 124,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 27,
+            "chapterId": "alma27",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moro. 9:5, 23",
+          "start": 179,
+          "end": 192,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "moro",
+            "book": "moroni",
+            "chapter": 9,
+            "chapterId": "moroni9",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              },
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "if men smite you or your family, do not seek revenge, D&C 98:23–26.",
+      "references": [
+        {
+          "text": "D&C 98:23–26",
+          "start": 54,
+          "end": 66,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 98,
+            "chapterId": "doctrineandcovenants98",
+            "verses": [
+              {
+                "start": 23,
+                "end": 26
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-avenge",
+      "slug": "avenge",
+      "title": "Avenge"
+    },
+    {
+      "entryId": "index-recompense",
+      "slug": "recompense",
+      "title": "Recompense"
+    },
+    {
+      "entryId": "index-vengeance",
+      "slug": "vengeance",
+      "title": "Vengeance"
+    }
+  ],
+  "slug": "revenge",
+  "title": "Revenge",
+  "type": "index"
+}

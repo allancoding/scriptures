@@ -1,0 +1,50 @@
+{
+  "_id": "tg-mill",
+  "content": [
+    {
+      "text": "Two women shall be grinding at the mill, Matt. 24:41 (JS—M 1:45).",
+      "references": [
+        {
+          "text": "Matt. 24:41",
+          "start": 41,
+          "end": 52,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 24,
+            "chapterId": "matthew24",
+            "verses": [
+              {
+                "start": 41,
+                "end": 41
+              }
+            ]
+          }
+        },
+        {
+          "text": "JS—M 1:45",
+          "start": 54,
+          "end": 63,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-m",
+            "book": "josephsmithmatthew",
+            "chapter": 1,
+            "chapterId": "josephsmithmatthew1",
+            "verses": [
+              {
+                "start": 45,
+                "end": 45
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "mill",
+  "title": "Mill",
+  "type": "tg"
+}

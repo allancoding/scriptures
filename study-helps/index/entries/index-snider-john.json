@@ -1,0 +1,44 @@
+{
+  "_id": "index-snider-john",
+  "content": [
+    {
+      "text": "to help in building Nauvoo House, D&C 124:22–24, 60, 62, 70.",
+      "references": [
+        {
+          "text": "D&C 124:22–24, 60, 62, 70",
+          "start": 34,
+          "end": 59,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 124,
+            "chapterId": "doctrineandcovenants124",
+            "verses": [
+              {
+                "start": 22,
+                "end": 24
+              },
+              {
+                "start": 60,
+                "end": 60
+              },
+              {
+                "start": 62,
+                "end": 62
+              },
+              {
+                "start": 70,
+                "end": 70
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "snider-john",
+  "title": "Snider, John",
+  "type": "index"
+}

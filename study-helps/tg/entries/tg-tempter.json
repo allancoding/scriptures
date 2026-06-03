@@ -1,0 +1,61 @@
+{
+  "_id": "tg-tempter",
+  "content": [
+    {
+      "text": "when the tempter came to him, Matt. 4:3. lest by some means the tempter have tempted you, 1 Thes. 3:5.",
+      "references": [
+        {
+          "text": "Matt. 4:3",
+          "start": 30,
+          "end": 39,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 4,
+            "chapterId": "matthew4",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Thes. 3:5",
+          "start": 90,
+          "end": 101,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-thes",
+            "book": "1thessalonians",
+            "chapter": 3,
+            "chapterId": "1thessalonians3",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-tempt",
+      "slug": "tempt",
+      "title": "Tempt"
+    },
+    {
+      "entryId": "tg-temptation",
+      "slug": "temptation",
+      "title": "Temptation"
+    }
+  ],
+  "slug": "tempter",
+  "title": "Tempter",
+  "type": "tg"
+}

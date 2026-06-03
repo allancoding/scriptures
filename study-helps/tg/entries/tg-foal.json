@@ -1,0 +1,50 @@
+{
+  "_id": "tg-foal",
+  "content": [
+    {
+      "text": "upon a colt the foal of an ass, Zech. 9:9 (Matt. 21:5).",
+      "references": [
+        {
+          "text": "Zech. 9:9",
+          "start": 32,
+          "end": 41,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "zech",
+            "book": "zechariah",
+            "chapter": 9,
+            "chapterId": "zechariah9",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 21:5",
+          "start": 43,
+          "end": 53,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 21,
+            "chapterId": "matthew21",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "foal",
+  "title": "Foal",
+  "type": "tg"
+}

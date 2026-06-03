@@ -1,0 +1,66 @@
+{
+  "_id": "index-hurt",
+  "content": [
+    {
+      "text": "hurt not earth, D&C 77:9. poison shall not hurt Apostles, D&C 84:71.",
+      "references": [
+        {
+          "text": "D&C 77:9",
+          "start": 16,
+          "end": 24,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 77,
+            "chapterId": "doctrineandcovenants77",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 84:71",
+          "start": 58,
+          "end": 67,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 84,
+            "chapterId": "doctrineandcovenants84",
+            "verses": [
+              {
+                "start": 71,
+                "end": 71
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-harm",
+      "slug": "harm",
+      "title": "Harm"
+    },
+    {
+      "entryId": "index-pain",
+      "slug": "pain",
+      "title": "Pain"
+    },
+    {
+      "entryId": "index-wound",
+      "slug": "wound",
+      "title": "Wound"
+    }
+  ],
+  "slug": "hurt",
+  "title": "Hurt",
+  "type": "index"
+}

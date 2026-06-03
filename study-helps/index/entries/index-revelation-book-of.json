@@ -1,0 +1,33 @@
+{
+  "_id": "index-revelation-book-of",
+  "content": [
+    {
+      "text": "interpretations of passages from, D&C 77.",
+      "references": [
+        {
+          "text": "D&C 77",
+          "start": 34,
+          "end": 40,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 77,
+            "chapterId": "doctrineandcovenants77",
+            "verses": []
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-john-the-beloved",
+      "slug": "john-the-beloved",
+      "title": "John the Beloved"
+    }
+  ],
+  "slug": "revelation-book-of",
+  "title": "Revelation, Book of",
+  "type": "index"
+}

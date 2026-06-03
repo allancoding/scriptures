@@ -1,0 +1,122 @@
+{
+  "_id": "bd-horeb",
+  "content": [
+    {
+      "text": "Another name for Sinai (Ex. 3:1; Deut. 1:6; 4:10; 1 Kgs. 19:8; Mal. 4:4; 3 Ne. 25:4).",
+      "references": [
+        {
+          "text": "Ex. 3:1",
+          "start": 24,
+          "end": 31,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 3,
+            "chapterId": "exodus3",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 1:6",
+          "start": 33,
+          "end": 42,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 1,
+            "chapterId": "deuteronomy1",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "4:10",
+          "start": 44,
+          "end": 48,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 4,
+            "chapterId": "deuteronomy4",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Kgs. 19:8",
+          "start": 50,
+          "end": 61,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 19,
+            "chapterId": "1kings19",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mal. 4:4",
+          "start": 63,
+          "end": 71,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "mal",
+            "book": "malachi",
+            "chapter": 4,
+            "chapterId": "malachi4",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 25:4",
+          "start": 73,
+          "end": 83,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 25,
+            "chapterId": "3nephi25",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "horeb",
+  "title": "Horeb",
+  "type": "bd"
+}

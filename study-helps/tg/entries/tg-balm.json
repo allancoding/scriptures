@@ -1,0 +1,50 @@
+{
+  "_id": "tg-balm",
+  "content": [
+    {
+      "text": "no balm in Gilead, Jer. 8:22. balm for her pain, if so be she may be healed, Jer. 51:8.",
+      "references": [
+        {
+          "text": "Jer. 8:22",
+          "start": 19,
+          "end": 28,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 8,
+            "chapterId": "jeremiah8",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 51:8",
+          "start": 77,
+          "end": 86,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 51,
+            "chapterId": "jeremiah51",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "balm",
+  "title": "Balm",
+  "type": "tg"
+}

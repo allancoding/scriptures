@@ -1,0 +1,38 @@
+{
+  "_id": "index-preparator",
+  "content": [
+    {
+      "text": "devil is preparator of hell, 1 Ne. 15:35.",
+      "references": [
+        {
+          "text": "1 Ne. 15:35",
+          "start": 29,
+          "end": 40,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 15,
+            "chapterId": "1nephi15",
+            "verses": [
+              {
+                "start": 35,
+                "end": 35
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-founder",
+      "slug": "founder",
+      "title": "Founder"
+    }
+  ],
+  "slug": "preparator",
+  "title": "Preparator",
+  "type": "index"
+}

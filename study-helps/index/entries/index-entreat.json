@@ -1,0 +1,56 @@
+{
+  "_id": "index-entreat",
+  "content": [
+    {
+      "text": "be easy to be entreated, Alma 7:23. people of Nephi were easy to be entreated, Hel. 7:7.",
+      "references": [
+        {
+          "text": "Alma 7:23",
+          "start": 25,
+          "end": 34,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 7,
+            "chapterId": "alma7",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 7:7",
+          "start": 79,
+          "end": 87,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 7,
+            "chapterId": "helaman7",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-exhort",
+      "slug": "exhort",
+      "title": "Exhort"
+    }
+  ],
+  "slug": "entreat",
+  "title": "Entreat",
+  "type": "index"
+}

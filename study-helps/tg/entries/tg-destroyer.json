@@ -1,0 +1,109 @@
+{
+  "_id": "tg-destroyer",
+  "content": [
+    {
+      "text": "not suffer the destroyer to come in, Ex. 12:23. Whoso robbeth … is the companion of a destroyer, Prov. 28:24.",
+      "references": [
+        {
+          "text": "Ex. 12:23",
+          "start": 37,
+          "end": 46,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 12,
+            "chapterId": "exodus12",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 28:24",
+          "start": 97,
+          "end": 108,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 28,
+            "chapterId": "proverbs28",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "destroyer rideth upon the face … the decree, D&C 61:19. saved my vineyard from … the destroyer, D&C 101:54. destroyer I have sent forth to destroy … mine enemies, D&C 105:15.",
+      "references": [
+        {
+          "text": "D&C 61:19",
+          "start": 45,
+          "end": 54,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 61,
+            "chapterId": "doctrineandcovenants61",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 101:54",
+          "start": 96,
+          "end": 106,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 101,
+            "chapterId": "doctrineandcovenants101",
+            "verses": [
+              {
+                "start": 54,
+                "end": 54
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 105:15",
+          "start": 163,
+          "end": 173,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 105,
+            "chapterId": "doctrineandcovenants105",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "destroyer",
+  "title": "Destroyer",
+  "type": "tg"
+}

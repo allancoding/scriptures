@@ -1,0 +1,68 @@
+{
+  "_id": "bd-jebus",
+  "content": [
+    {
+      "text": "Ancient name of Jerusalem (Judg. 19:10; 1 Chr. 11:4–5); it was a hill fortress, which maintained its independence until stormed by David (2 Sam. 5:6–9).",
+      "references": [
+        {
+          "text": "Judg. 19:10",
+          "start": 27,
+          "end": 38,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "judg",
+            "book": "judges",
+            "chapter": 19,
+            "chapterId": "judges19",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Chr. 11:4–5",
+          "start": 40,
+          "end": 53,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-chr",
+            "book": "1chronicles",
+            "chapter": 11,
+            "chapterId": "1chronicles11",
+            "verses": [
+              {
+                "start": 4,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Sam. 5:6–9",
+          "start": 138,
+          "end": 150,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-sam",
+            "book": "2samuel",
+            "chapter": 5,
+            "chapterId": "2samuel5",
+            "verses": [
+              {
+                "start": 6,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "jebus",
+  "title": "Jebus",
+  "type": "bd"
+}

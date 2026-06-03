@@ -1,0 +1,102 @@
+{
+  "_id": "index-account",
+  "content": [
+    {
+      "text": "Nephi1 does not make full account on small plates, 1 Ne. 1:16–17 (6:3). large plates of Nephi contain account of secular history, 1 Ne. 9:2–4. Nephi1 records account of his ministry on small plates, 1 Ne. 10:1.",
+      "references": [
+        {
+          "text": "1 Ne. 1:16–17",
+          "start": 51,
+          "end": 64,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 1,
+            "chapterId": "1nephi1",
+            "verses": [
+              {
+                "start": 16,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "6:3",
+          "start": 66,
+          "end": 69,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 6,
+            "chapterId": "1nephi6",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Ne. 9:2–4",
+          "start": 130,
+          "end": 141,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 9,
+            "chapterId": "1nephi9",
+            "verses": [
+              {
+                "start": 2,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Ne. 10:1",
+          "start": 199,
+          "end": 209,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 10,
+            "chapterId": "1nephi10",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-accountable",
+      "slug": "accountable",
+      "title": "Accountable"
+    },
+    {
+      "entryId": "index-history",
+      "slug": "history",
+      "title": "History"
+    },
+    {
+      "entryId": "index-record",
+      "slug": "record",
+      "title": "Record"
+    }
+  ],
+  "slug": "account",
+  "title": "Account",
+  "type": "index"
+}

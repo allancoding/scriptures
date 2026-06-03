@@ -1,0 +1,56 @@
+{
+  "_id": "index-despitefully",
+  "content": [
+    {
+      "text": "pray for them who despitefully use you, 3 Ne. 12:44 (Matt. 5:44).",
+      "references": [
+        {
+          "text": "3 Ne. 12:44",
+          "start": 40,
+          "end": 51,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 12,
+            "chapterId": "3nephi12",
+            "verses": [
+              {
+                "start": 44,
+                "end": 44
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 5:44",
+          "start": 53,
+          "end": 63,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 5,
+            "chapterId": "matthew5",
+            "verses": [
+              {
+                "start": 44,
+                "end": 44
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-despise",
+      "slug": "despise",
+      "title": "Despise"
+    }
+  ],
+  "slug": "despitefully",
+  "title": "Despitefully",
+  "type": "index"
+}

@@ -1,0 +1,38 @@
+{
+  "_id": "index-affection",
+  "content": [
+    {
+      "text": "let affections of heart be placed upon the Lord forever, Alma 37:36.",
+      "references": [
+        {
+          "text": "Alma 37:36",
+          "start": 57,
+          "end": 67,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 37,
+            "chapterId": "alma37",
+            "verses": [
+              {
+                "start": 36,
+                "end": 36
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-love",
+      "slug": "love",
+      "title": "Love"
+    }
+  ],
+  "slug": "affection",
+  "title": "Affection",
+  "type": "index"
+}

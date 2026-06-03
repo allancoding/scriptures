@@ -1,0 +1,233 @@
+{
+  "_id": "tg-commit",
+  "content": [
+    {
+      "text": "Into thine hand I commit my spirit, Ps. 31:5. Commit thy works unto the Lord, Prov. 16:3.",
+      "references": [
+        {
+          "text": "Ps. 31:5",
+          "start": 36,
+          "end": 44,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 31,
+            "chapterId": "psalms31",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 16:3",
+          "start": 78,
+          "end": 88,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 16,
+            "chapterId": "proverbs16",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Jesus did not commit himself unto them, John 2:24. hath committed all judgment unto the Son, John 5:22. Whosoever committeth sin is the servant of sin, John 8:34. unto them were committed the oracles of God, Rom. 3:2. dispensation of the gospel is committed unto me, 1 Cor. 9:17. hath committed unto us the word of reconciliation, 2 Cor. 5:19. commit the keeping of their souls to him, 1 Pet. 4:19. He that committeth sin is of the devil, 1 Jn. 3:8.",
+      "references": [
+        {
+          "text": "John 2:24",
+          "start": 40,
+          "end": 49,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 2,
+            "chapterId": "john2",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 5:22",
+          "start": 93,
+          "end": 102,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 5,
+            "chapterId": "john5",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 8:34",
+          "start": 152,
+          "end": 161,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 8,
+            "chapterId": "john8",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 3:2",
+          "start": 208,
+          "end": 216,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 3,
+            "chapterId": "romans3",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 9:17",
+          "start": 267,
+          "end": 278,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 9,
+            "chapterId": "1corinthians9",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Cor. 5:19",
+          "start": 331,
+          "end": 342,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 5,
+            "chapterId": "2corinthians5",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Pet. 4:19",
+          "start": 386,
+          "end": 397,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-pet",
+            "book": "1peter",
+            "chapter": 4,
+            "chapterId": "1peter4",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Jn. 3:8",
+          "start": 439,
+          "end": 448,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-jn",
+            "book": "1john",
+            "chapter": 3,
+            "chapterId": "1john3",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "committed the keys of my kingdom, D&C 27:13.",
+      "references": [
+        {
+          "text": "D&C 27:13",
+          "start": 34,
+          "end": 43,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 27,
+            "chapterId": "doctrineandcovenants27",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-commend",
+      "slug": "commend",
+      "title": "Commend"
+    },
+    {
+      "entryId": "tg-commitment",
+      "slug": "commitment",
+      "title": "Commitment"
+    }
+  ],
+  "slug": "commit",
+  "title": "Commit",
+  "type": "tg"
+}

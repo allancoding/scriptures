@@ -1,0 +1,79 @@
+{
+  "_id": "index-cure",
+  "content": [
+    {
+      "text": "the Lord will come down among men and cure all manner of diseases, Mosiah 3:5. sons of Mosiah2 seek to cure Lamanites of hatred, Mosiah 28:2. Christ does all manner of cures among Nephites, 3 Ne. 26:15.",
+      "references": [
+        {
+          "text": "Mosiah 3:5",
+          "start": 67,
+          "end": 77,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 3,
+            "chapterId": "mosiah3",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 28:2",
+          "start": 129,
+          "end": 140,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 28,
+            "chapterId": "mosiah28",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 26:15",
+          "start": 190,
+          "end": 201,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 26,
+            "chapterId": "3nephi26",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-heal",
+      "slug": "heal",
+      "title": "Heal"
+    },
+    {
+      "entryId": "index-restoration",
+      "slug": "restoration",
+      "title": "Restoration"
+    }
+  ],
+  "slug": "cure",
+  "title": "Cure",
+  "type": "index"
+}

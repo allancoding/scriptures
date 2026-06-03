@@ -1,0 +1,55 @@
+{
+  "_id": "tg-handiwork",
+  "content": [
+    {
+      "text": "firmament sheweth his handywork, Ps. 19:1.",
+      "references": [
+        {
+          "text": "Ps. 19:1",
+          "start": 33,
+          "end": 41,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 19,
+            "chapterId": "psalms19",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "heavens … earth, my very handiwork, D&C 104:14.",
+      "references": [
+        {
+          "text": "D&C 104:14",
+          "start": 36,
+          "end": 46,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 104,
+            "chapterId": "doctrineandcovenants104",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "handiwork",
+  "title": "Handiwork",
+  "type": "tg"
+}

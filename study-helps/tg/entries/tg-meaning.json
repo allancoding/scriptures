@@ -1,0 +1,120 @@
+{
+  "_id": "tg-meaning",
+  "content": [
+    {
+      "text": "seen the vision, and sought for the meaning, Dan. 8:15.",
+      "references": [
+        {
+          "text": "Dan. 8:15",
+          "start": 45,
+          "end": 54,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 8,
+            "chapterId": "daniel8",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "I know not the meaning of the voice, 1 Cor. 14:11.",
+      "references": [
+        {
+          "text": "1 Cor. 14:11",
+          "start": 37,
+          "end": 49,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 14,
+            "chapterId": "1corinthians14",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "I do not know the meaning of all things, 1 Ne. 11:17. this is the whole meaning of the law, Alma 34:14. is the meaning of the word restoration, Alma 41:12.",
+      "references": [
+        {
+          "text": "1 Ne. 11:17",
+          "start": 41,
+          "end": 52,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 11,
+            "chapterId": "1nephi11",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 34:14",
+          "start": 92,
+          "end": 102,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 34,
+            "chapterId": "alma34",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 41:12",
+          "start": 144,
+          "end": 154,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 41,
+            "chapterId": "alma41",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-mean",
+      "slug": "mean",
+      "title": "Mean"
+    }
+  ],
+  "slug": "meaning",
+  "title": "Meaning",
+  "type": "tg"
+}

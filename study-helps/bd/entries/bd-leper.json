@@ -1,0 +1,40 @@
+{
+  "_id": "bd-leper",
+  "content": [
+    {
+      "text": "Leprosy is a terrible form of skin disease, still occuring in various parts of the world. Lepers were forbidden by the law to enter any walled city. If a stranger approached, the leper was obliged to cry “unclean.” The disease was regarded as a living death, indicated by bare head, rent clothes, and covered lip. For the regulations concerning the treatment of lepers, see Lev. 13 and 14.",
+      "references": [
+        {
+          "text": "Lev. 13",
+          "start": 374,
+          "end": 381,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 13,
+            "chapterId": "leviticus13",
+            "verses": []
+          }
+        },
+        {
+          "text": "14",
+          "start": 386,
+          "end": 388,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 14,
+            "chapterId": "leviticus14",
+            "verses": []
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "leper",
+  "title": "Leper",
+  "type": "bd"
+}

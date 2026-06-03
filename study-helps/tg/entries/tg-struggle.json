@@ -1,0 +1,73 @@
+{
+  "_id": "tg-struggle",
+  "content": [
+    {
+      "text": "children struggled together within her, Gen. 25:22.",
+      "references": [
+        {
+          "text": "Gen. 25:22",
+          "start": 40,
+          "end": 50,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 25,
+            "chapterId": "genesis25",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "while I was thus struggling in the spirit, Enos 1:10. I trust there remaineth an effectual struggle, Mosiah 7:18.",
+      "references": [
+        {
+          "text": "Enos 1:10",
+          "start": 43,
+          "end": 52,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "enos",
+            "book": "enos",
+            "chapter": 1,
+            "chapterId": "enos1",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 7:18",
+          "start": 101,
+          "end": 112,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 7,
+            "chapterId": "mosiah7",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "struggle",
+  "title": "Struggle",
+  "type": "tg"
+}

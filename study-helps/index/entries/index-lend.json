@@ -1,0 +1,79 @@
+{
+  "_id": "index-lend",
+  "content": [
+    {
+      "text": "blessed are they who lend ear to the Lord’s counsel, 2 Ne. 28:30. God preserves you from day to day, lending you breath, Mosiah 2:21. people would not borrow or lend, Ether 14:2.",
+      "references": [
+        {
+          "text": "2 Ne. 28:30",
+          "start": 53,
+          "end": 64,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 28,
+            "chapterId": "2nephi28",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 2:21",
+          "start": 121,
+          "end": 132,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 2,
+            "chapterId": "mosiah2",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 14:2",
+          "start": 167,
+          "end": 177,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 14,
+            "chapterId": "ether14",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-borrow",
+      "slug": "borrow",
+      "title": "Borrow"
+    },
+    {
+      "entryId": "index-give",
+      "slug": "give",
+      "title": "Give"
+    }
+  ],
+  "slug": "lend",
+  "title": "Lend",
+  "type": "index"
+}

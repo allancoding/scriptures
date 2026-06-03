@@ -1,0 +1,60 @@
+{
+  "_id": "index-plot",
+  "content": [
+    {
+      "text": "Alma2 sends spies to know plots of Amlicites, Alma 2:21. devil, who plots with Cain, hands down secret plots for workers of darkness, Hel. 6:27, 30.",
+      "references": [
+        {
+          "text": "Alma 2:21",
+          "start": 46,
+          "end": 55,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 2,
+            "chapterId": "alma2",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 6:27, 30",
+          "start": 134,
+          "end": 147,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 6,
+            "chapterId": "helaman6",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              },
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-plan",
+      "slug": "plan",
+      "title": "Plan"
+    }
+  ],
+  "slug": "plot",
+  "title": "Plot",
+  "type": "index"
+}

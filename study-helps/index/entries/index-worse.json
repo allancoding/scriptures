@@ -1,0 +1,56 @@
+{
+  "_id": "index-worse",
+  "content": [
+    {
+      "text": "state of enlightened people who fall into sin is worse than if they had never known, Alma 24:30. this people is worse than fathers of old, Hel. 13:26.",
+      "references": [
+        {
+          "text": "Alma 24:30",
+          "start": 85,
+          "end": 95,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 24,
+            "chapterId": "alma24",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 13:26",
+          "start": 139,
+          "end": 149,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 13,
+            "chapterId": "helaman13",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-bad",
+      "slug": "bad",
+      "title": "Bad"
+    }
+  ],
+  "slug": "worse",
+  "title": "Worse",
+  "type": "index"
+}

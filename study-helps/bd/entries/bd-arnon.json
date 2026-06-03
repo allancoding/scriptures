@@ -1,0 +1,50 @@
+{
+  "_id": "bd-arnon",
+  "content": [
+    {
+      "text": "The river of Moab, emptying into the Dead Sea (Num. 21:13–28; 22:36; etc.).",
+      "references": [
+        {
+          "text": "Num. 21:13–28",
+          "start": 47,
+          "end": 60,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 21,
+            "chapterId": "numbers21",
+            "verses": [
+              {
+                "start": 13,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "22:36",
+          "start": 62,
+          "end": 67,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 22,
+            "chapterId": "numbers22",
+            "verses": [
+              {
+                "start": 36,
+                "end": 36
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "arnon",
+  "title": "Arnon",
+  "type": "bd"
+}

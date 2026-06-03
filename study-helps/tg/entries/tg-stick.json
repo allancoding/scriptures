@@ -1,0 +1,125 @@
+{
+  "_id": "tg-stick",
+  "content": [
+    {
+      "text": "a man that gathered sticks upon the sabbath, Num. 15:32. take thee one stick, and write upon it, Ezek. 37:16. stick of Joseph … of Judah … shall be one in mine hand, Ezek. 37:19.",
+      "references": [
+        {
+          "text": "Num. 15:32",
+          "start": 45,
+          "end": 55,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 15,
+            "chapterId": "numbers15",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 37:16",
+          "start": 97,
+          "end": 108,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 37,
+            "chapterId": "ezekiel37",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 37:19",
+          "start": 166,
+          "end": 177,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 37,
+            "chapterId": "ezekiel37",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Paul had gathered a bundle of sticks, Acts 28:3.",
+      "references": [
+        {
+          "text": "Acts 28:3",
+          "start": 38,
+          "end": 47,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 28,
+            "chapterId": "acts28",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "keys of the record of the stick of Ephraim, D&C 27:5.",
+      "references": [
+        {
+          "text": "D&C 27:5",
+          "start": 44,
+          "end": 52,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 27,
+            "chapterId": "doctrineandcovenants27",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-book-of-mormon",
+      "slug": "book-of-mormon",
+      "title": "Book of Mormon"
+    },
+    {
+      "entryId": "tg-israel-joseph-people-of",
+      "slug": "israel-joseph-people-of",
+      "title": "Israel, Joseph, People of"
+    }
+  ],
+  "slug": "stick",
+  "title": "Stick",
+  "type": "tg"
+}

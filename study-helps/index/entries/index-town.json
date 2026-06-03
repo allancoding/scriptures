@@ -1,0 +1,61 @@
+{
+  "_id": "index-town",
+  "content": [
+    {
+      "text": "Nephites flee, taking all inhabitants with them, in towns and villages, Morm. 4:22. towns and villages burned by Lamanites, Morm. 5:5.",
+      "references": [
+        {
+          "text": "Morm. 4:22",
+          "start": 72,
+          "end": 82,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 4,
+            "chapterId": "mormon4",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 5:5",
+          "start": 124,
+          "end": 133,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 5,
+            "chapterId": "mormon5",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-city",
+      "slug": "city",
+      "title": "City"
+    },
+    {
+      "entryId": "index-villages",
+      "slug": "villages",
+      "title": "Villages"
+    }
+  ],
+  "slug": "town",
+  "title": "Town",
+  "type": "index"
+}

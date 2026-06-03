@@ -1,0 +1,102 @@
+{
+  "_id": "tg-mammon",
+  "content": [
+    {
+      "text": "Ye cannot serve God and mammon, Matt. 6:24 (3 Ne. 13:24). Make to yourselves friends of the mammon of unrighteousness, Luke 16:9 (D&C 82:22).",
+      "references": [
+        {
+          "text": "Matt. 6:24",
+          "start": 32,
+          "end": 42,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 6,
+            "chapterId": "matthew6",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 13:24",
+          "start": 44,
+          "end": 55,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 13,
+            "chapterId": "3nephi13",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 16:9",
+          "start": 119,
+          "end": 128,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 16,
+            "chapterId": "luke16",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 82:22",
+          "start": 130,
+          "end": 139,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 82,
+            "chapterId": "doctrineandcovenants82",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-money",
+      "slug": "money",
+      "title": "Money"
+    },
+    {
+      "entryId": "tg-riches",
+      "slug": "riches",
+      "title": "Riches"
+    },
+    {
+      "entryId": "tg-wealth",
+      "slug": "wealth",
+      "title": "Wealth"
+    }
+  ],
+  "slug": "mammon",
+  "title": "Mammon",
+  "type": "tg"
+}

@@ -1,0 +1,32 @@
+{
+  "_id": "bd-dulcimer",
+  "content": [
+    {
+      "text": "A musical instrument, probably on the order of the bagpipe (Dan. 3:5).",
+      "references": [
+        {
+          "text": "Dan. 3:5",
+          "start": 60,
+          "end": 68,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 3,
+            "chapterId": "daniel3",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "dulcimer",
+  "title": "Dulcimer",
+  "type": "bd"
+}

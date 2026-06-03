@@ -1,0 +1,53 @@
+{
+  "_id": "index-accept",
+  "content": [
+    {
+      "text": "will the Lord accept offering not made in his name, D&C 132:9.",
+      "references": [
+        {
+          "text": "D&C 132:9",
+          "start": 52,
+          "end": 61,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 132,
+            "chapterId": "doctrineandcovenants132",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-acceptable",
+      "slug": "acceptable",
+      "title": "Acceptable"
+    },
+    {
+      "entryId": "index-approve",
+      "slug": "approve",
+      "title": "Approve"
+    },
+    {
+      "entryId": "index-embrace",
+      "slug": "embrace",
+      "title": "Embrace"
+    },
+    {
+      "entryId": "index-receive",
+      "slug": "receive",
+      "title": "Receive"
+    }
+  ],
+  "slug": "accept",
+  "title": "Accept",
+  "type": "index"
+}

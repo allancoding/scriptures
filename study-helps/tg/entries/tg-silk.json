@@ -1,0 +1,150 @@
+{
+  "_id": "tg-silk",
+  "content": [
+    {
+      "text": "her clothing is silk and purple, Prov. 31:22. I covered thee with silk, Ezek. 16:10.",
+      "references": [
+        {
+          "text": "Prov. 31:22",
+          "start": 33,
+          "end": 44,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 31,
+            "chapterId": "proverbs31",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 16:10",
+          "start": 72,
+          "end": 83,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 16,
+            "chapterId": "ezekiel16",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "merchandise of gold, and silver … and silk, Rev. 18:12.",
+      "references": [
+        {
+          "text": "Rev. 18:12",
+          "start": 44,
+          "end": 54,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 18,
+            "chapterId": "revelation18",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "I also saw … silks, and scarlets, 1 Ne. 13:7. abundance of silk, Alma 1:29 (4:6). Having all manner … of grain, and of silks, Ether 9:17.",
+      "references": [
+        {
+          "text": "1 Ne. 13:7",
+          "start": 34,
+          "end": 44,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 13,
+            "chapterId": "1nephi13",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 1:29",
+          "start": 65,
+          "end": 74,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 1,
+            "chapterId": "alma1",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "4:6",
+          "start": 76,
+          "end": 79,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 4,
+            "chapterId": "alma4",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 9:17",
+          "start": 126,
+          "end": 136,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 9,
+            "chapterId": "ether9",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "silk",
+  "title": "Silk",
+  "type": "tg"
+}

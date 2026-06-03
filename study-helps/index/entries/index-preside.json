@@ -1,0 +1,58 @@
+{
+  "_id": "index-preside",
+  "content": [
+    {
+      "text": "Alma2 ordains priests and teachers to preside over Church, Alma 6:1.",
+      "references": [
+        {
+          "text": "Alma 6:1",
+          "start": 59,
+          "end": 67,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 6,
+            "chapterId": "alma6",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-first-presidency",
+      "slug": "first-presidency",
+      "title": "First Presidency"
+    },
+    {
+      "entryId": "index-lead",
+      "slug": "lead",
+      "title": "Lead"
+    },
+    {
+      "entryId": "index-presidency",
+      "slug": "presidency",
+      "title": "Presidency"
+    },
+    {
+      "entryId": "index-president",
+      "slug": "president",
+      "title": "President"
+    },
+    {
+      "entryId": "index-watch",
+      "slug": "watch",
+      "title": "Watch"
+    }
+  ],
+  "slug": "preside",
+  "title": "Preside",
+  "type": "index"
+}

@@ -1,0 +1,54 @@
+{
+  "_id": "index-johnson-john",
+  "content": [
+    {
+      "text": "member of high council, D&C 102:3. exchange of land of, D&C 104:24, 34.",
+      "references": [
+        {
+          "text": "D&C 102:3",
+          "start": 24,
+          "end": 33,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 102,
+            "chapterId": "doctrineandcovenants102",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 104:24, 34",
+          "start": 56,
+          "end": 70,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 104,
+            "chapterId": "doctrineandcovenants104",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              },
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "johnson-john",
+  "title": "Johnson, John",
+  "type": "index"
+}

@@ -1,0 +1,133 @@
+{
+  "_id": "index-temperance",
+  "content": [
+    {
+      "text": "be temperate in all things, Alma 7:23 (38:10).",
+      "references": [
+        {
+          "text": "Alma 7:23",
+          "start": 28,
+          "end": 37,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 7,
+            "chapterId": "alma7",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "38:10",
+          "start": 39,
+          "end": 44,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 38,
+            "chapterId": "alma38",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "remember faith, virtue, knowledge, temperance, D&C 4:6. be temperate, D&C 6:19. those who assist in the Lord’s work must be temperate in all things, D&C 12:8. decisions to be made in temperance, D&C 107:30.",
+      "references": [
+        {
+          "text": "D&C 4:6",
+          "start": 47,
+          "end": 54,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 4,
+            "chapterId": "doctrineandcovenants4",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 6:19",
+          "start": 70,
+          "end": 78,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 6,
+            "chapterId": "doctrineandcovenants6",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 12:8",
+          "start": 149,
+          "end": 157,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 12,
+            "chapterId": "doctrineandcovenants12",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 107:30",
+          "start": 195,
+          "end": 205,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 107,
+            "chapterId": "doctrineandcovenants107",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-abstinence",
+      "slug": "abstinence",
+      "title": "Abstinence"
+    }
+  ],
+  "slug": "temperance",
+  "title": "Temperance, Temperate",
+  "type": "index"
+}

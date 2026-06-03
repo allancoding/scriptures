@@ -1,0 +1,68 @@
+{
+  "_id": "bd-mean",
+  "content": [
+    {
+      "text": "Obscure, humble, ordinary, not especially noteworthy (Prov. 22:29; Isa. 2:9; Acts 21:39).",
+      "references": [
+        {
+          "text": "Prov. 22:29",
+          "start": 54,
+          "end": 65,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 22,
+            "chapterId": "proverbs22",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 2:9",
+          "start": 67,
+          "end": 75,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 2,
+            "chapterId": "isaiah2",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 21:39",
+          "start": 77,
+          "end": 87,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 21,
+            "chapterId": "acts21",
+            "verses": [
+              {
+                "start": 39,
+                "end": 39
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "mean",
+  "title": "Mean",
+  "type": "bd"
+}

@@ -1,0 +1,50 @@
+{
+  "_id": "bd-cankerworm",
+  "content": [
+    {
+      "text": "Sometimes rendered caterpillar by the KJV; a destructive locust, in the winged or larval state (Joel 1:4; 2:25).",
+      "references": [
+        {
+          "text": "Joel 1:4",
+          "start": 96,
+          "end": 104,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "joel",
+            "book": "joel",
+            "chapter": 1,
+            "chapterId": "joel1",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "2:25",
+          "start": 106,
+          "end": 110,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "joel",
+            "book": "joel",
+            "chapter": 2,
+            "chapterId": "joel2",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "cankerworm",
+  "title": "Cankerworm",
+  "type": "bd"
+}

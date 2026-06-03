@@ -1,0 +1,71 @@
+{
+  "_id": "index-count",
+  "content": [
+    {
+      "text": "slothful shall not be counted worthy to stand, D&C 107:100. let no man count them as small things, D&C 123:15.",
+      "references": [
+        {
+          "text": "D&C 107:100",
+          "start": 47,
+          "end": 58,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 107,
+            "chapterId": "doctrineandcovenants107",
+            "verses": [
+              {
+                "start": 100,
+                "end": 100
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 123:15",
+          "start": 99,
+          "end": 109,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 123,
+            "chapterId": "doctrineandcovenants123",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-account",
+      "slug": "account",
+      "title": "Account"
+    },
+    {
+      "entryId": "index-innumerable",
+      "slug": "innumerable",
+      "title": "Innumerable"
+    },
+    {
+      "entryId": "index-reckon",
+      "slug": "reckon",
+      "title": "Reckon"
+    },
+    {
+      "entryId": "index-sand",
+      "slug": "sand",
+      "title": "Sand"
+    }
+  ],
+  "slug": "count",
+  "title": "Count",
+  "type": "index"
+}

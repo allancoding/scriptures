@@ -1,0 +1,693 @@
+{
+  "_id": "tg-heathen",
+  "content": [
+    {
+      "text": "bondmen, and thy bondmaids … shall be of the heathen, Lev. 25:44. according to the abominations of the heathen, 2 Kgs. 16:3. walked in the statutes of the heathen, 2 Kgs. 17:8. do worse than the heathen, whom the Lord had destroyed, 2 Chr. 33:9. filthiness of the heathen, Ezra 6:21. reproach of the heathen our enemies, Neh. 5:9. Why do the heathen rage, Ps. 2:1 (Acts 4:25). bringeth the counsel of the heathen to nought, Ps. 33:10. give them the heritage of the heathen, Ps. 111:6. idols of the heathen are silver and gold, Ps. 135:15. I will scatter them also among the heathen, Jer. 9:16 (Ezek. 36:19). Learn not the way of the heathen, Jer. 10:2. done after the manners of the heathen, Ezek. 11:12. Judah is like unto all the heathen, Ezek. 25:8. heathen shall know that I the Lord do sanctify Israel, Ezek. 37:28. I will set my glory among the heathen, Ezek. 39:21. Let the heathen be wakened, Joel 3:12. of all the heathen, which are called by my name, Amos 9:12. day of the Lord is near upon all the heathen, Obad. 1:15. all the isles of the heathen, Zeph. 2:11. he shall speak peace unto the heathen, Zech. 9:10. my name shall be great among the heathen, Mal. 1:11.",
+      "references": [
+        {
+          "text": "Lev. 25:44",
+          "start": 54,
+          "end": 64,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 25,
+            "chapterId": "leviticus25",
+            "verses": [
+              {
+                "start": 44,
+                "end": 44
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Kgs. 16:3",
+          "start": 112,
+          "end": 123,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 16,
+            "chapterId": "2kings16",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Kgs. 17:8",
+          "start": 164,
+          "end": 175,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 17,
+            "chapterId": "2kings17",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Chr. 33:9",
+          "start": 233,
+          "end": 244,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-chr",
+            "book": "2chronicles",
+            "chapter": 33,
+            "chapterId": "2chronicles33",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezra 6:21",
+          "start": 273,
+          "end": 282,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezra",
+            "book": "ezra",
+            "chapter": 6,
+            "chapterId": "ezra6",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Neh. 5:9",
+          "start": 321,
+          "end": 329,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "neh",
+            "book": "nehemiah",
+            "chapter": 5,
+            "chapterId": "nehemiah5",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 2:1",
+          "start": 356,
+          "end": 363,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 2,
+            "chapterId": "psalms2",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 4:25",
+          "start": 365,
+          "end": 374,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 4,
+            "chapterId": "acts4",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 33:10",
+          "start": 424,
+          "end": 433,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 33,
+            "chapterId": "psalms33",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 111:6",
+          "start": 474,
+          "end": 483,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 111,
+            "chapterId": "psalms111",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 135:15",
+          "start": 527,
+          "end": 537,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 135,
+            "chapterId": "psalms135",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 9:16",
+          "start": 583,
+          "end": 592,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 9,
+            "chapterId": "jeremiah9",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 36:19",
+          "start": 594,
+          "end": 605,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 36,
+            "chapterId": "ezekiel36",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 10:2",
+          "start": 642,
+          "end": 651,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 10,
+            "chapterId": "jeremiah10",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 11:12",
+          "start": 692,
+          "end": 703,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 11,
+            "chapterId": "ezekiel11",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 25:8",
+          "start": 741,
+          "end": 751,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 25,
+            "chapterId": "ezekiel25",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 37:28",
+          "start": 808,
+          "end": 819,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 37,
+            "chapterId": "ezekiel37",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 39:21",
+          "start": 860,
+          "end": 871,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 39,
+            "chapterId": "ezekiel39",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Joel 3:12",
+          "start": 901,
+          "end": 910,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "joel",
+            "book": "joel",
+            "chapter": 3,
+            "chapterId": "joel3",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Amos 9:12",
+          "start": 961,
+          "end": 970,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "amos",
+            "book": "amos",
+            "chapter": 9,
+            "chapterId": "amos9",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Obad. 1:15",
+          "start": 1018,
+          "end": 1028,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "obad",
+            "book": "obadiah",
+            "chapter": 1,
+            "chapterId": "obadiah1",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Zeph. 2:11",
+          "start": 1060,
+          "end": 1070,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "zeph",
+            "book": "zephaniah",
+            "chapter": 2,
+            "chapterId": "zephaniah2",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Zech. 9:10",
+          "start": 1111,
+          "end": 1121,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "zech",
+            "book": "zechariah",
+            "chapter": 9,
+            "chapterId": "zechariah9",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mal. 1:11",
+          "start": 1165,
+          "end": 1174,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "mal",
+            "book": "malachi",
+            "chapter": 1,
+            "chapterId": "malachi1",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "use not vain repetitions, as the heathen, Matt. 6:7 (3 Ne. 13:7). in perils by the heathen, 2 Cor. 11:26. preach him among the heathen, Gal. 1:16. God would justify the heathen through faith, Gal. 3:8.",
+      "references": [
+        {
+          "text": "Matt. 6:7",
+          "start": 42,
+          "end": 51,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 6,
+            "chapterId": "matthew6",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 13:7",
+          "start": 53,
+          "end": 63,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 13,
+            "chapterId": "3nephi13",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Cor. 11:26",
+          "start": 92,
+          "end": 104,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 11,
+            "chapterId": "2corinthians11",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gal. 1:16",
+          "start": 136,
+          "end": 145,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "gal",
+            "book": "galatians",
+            "chapter": 1,
+            "chapterId": "galatians1",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gal. 3:8",
+          "start": 192,
+          "end": 200,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "gal",
+            "book": "galatians",
+            "chapter": 3,
+            "chapterId": "galatians3",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "he remembereth the heathen; and all are alike unto God, 2 Ne. 26:33. fury upon them, even as upon the heathen, 3 Ne. 21:21.",
+      "references": [
+        {
+          "text": "2 Ne. 26:33",
+          "start": 56,
+          "end": 67,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 26,
+            "chapterId": "2nephi26",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 21:21",
+          "start": 111,
+          "end": 122,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 21,
+            "chapterId": "3nephi21",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "then shall the heathen nations be redeemed, D&C 45:54. more tolerable for the heathen in the day of judgment, D&C 75:22. convincing … heathen nations, D&C 90:10.",
+      "references": [
+        {
+          "text": "D&C 45:54",
+          "start": 44,
+          "end": 53,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 45,
+            "chapterId": "doctrineandcovenants45",
+            "verses": [
+              {
+                "start": 54,
+                "end": 54
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 75:22",
+          "start": 110,
+          "end": 119,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 75,
+            "chapterId": "doctrineandcovenants75",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 90:10",
+          "start": 151,
+          "end": 160,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 90,
+            "chapterId": "doctrineandcovenants90",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "worshiping of the gods of the heathen, Abr. 1:5. turned their hearts to the sacrifice of the heathen, Abr. 1:7.",
+      "references": [
+        {
+          "text": "Abr. 1:5",
+          "start": 39,
+          "end": 47,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 1,
+            "chapterId": "abraham1",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Abr. 1:7",
+          "start": 102,
+          "end": 110,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 1,
+            "chapterId": "abraham1",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-gentiles",
+      "slug": "gentiles",
+      "title": "Gentiles"
+    },
+    {
+      "entryId": "tg-nations",
+      "slug": "nations",
+      "title": "Nations"
+    }
+  ],
+  "slug": "heathen",
+  "title": "Heathen",
+  "type": "tg"
+}

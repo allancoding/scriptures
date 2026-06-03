@@ -1,0 +1,97 @@
+{
+  "_id": "tg-bold",
+  "content": [
+    {
+      "text": "righteous are bold as a lion, Prov. 28:1.",
+      "references": [
+        {
+          "text": "Prov. 28:1",
+          "start": 30,
+          "end": 40,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 28,
+            "chapterId": "proverbs28",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Paul and Barnabas waxed bold, Acts 13:46. being absent am bold toward you, 2 Cor. 10:1. bold in our God to speak unto you, 1 Thes. 2:2.",
+      "references": [
+        {
+          "text": "Acts 13:46",
+          "start": 30,
+          "end": 40,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 13,
+            "chapterId": "acts13",
+            "verses": [
+              {
+                "start": 46,
+                "end": 46
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Cor. 10:1",
+          "start": 75,
+          "end": 86,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 10,
+            "chapterId": "2corinthians10",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Thes. 2:2",
+          "start": 123,
+          "end": 134,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-thes",
+            "book": "1thessalonians",
+            "chapter": 2,
+            "chapterId": "1thessalonians2",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-courage",
+      "slug": "courage",
+      "title": "Courage"
+    }
+  ],
+  "slug": "bold",
+  "title": "Bold",
+  "type": "tg"
+}

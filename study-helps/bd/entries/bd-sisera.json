@@ -1,0 +1,104 @@
+{
+  "_id": "bd-sisera",
+  "content": [
+    {
+      "text": "(1) Captain of the army of Jabin, killed by Jael (Judg. 4–5; 1 Sam. 12:9; Ps. 83:9).",
+      "references": [
+        {
+          "text": "Judg. 4–5",
+          "start": 50,
+          "end": 59,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "judg",
+            "book": "judges",
+            "chapter": 4,
+            "chapterId": "judges4",
+            "verses": []
+          }
+        },
+        {
+          "text": "1 Sam. 12:9",
+          "start": 61,
+          "end": 72,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 12,
+            "chapterId": "1samuel12",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 83:9",
+          "start": 74,
+          "end": 82,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 83,
+            "chapterId": "psalms83",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "(2) The children of Sisera, among the Nethinim (Ezra 2:53; Neh. 7:55).",
+      "references": [
+        {
+          "text": "Ezra 2:53",
+          "start": 48,
+          "end": 57,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezra",
+            "book": "ezra",
+            "chapter": 2,
+            "chapterId": "ezra2",
+            "verses": [
+              {
+                "start": 53,
+                "end": 53
+              }
+            ]
+          }
+        },
+        {
+          "text": "Neh. 7:55",
+          "start": 59,
+          "end": 68,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "neh",
+            "book": "nehemiah",
+            "chapter": 7,
+            "chapterId": "nehemiah7",
+            "verses": [
+              {
+                "start": 55,
+                "end": 55
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "sisera",
+  "title": "Sisera",
+  "type": "bd"
+}

@@ -1,0 +1,109 @@
+{
+  "_id": "tg-cloth",
+  "content": [
+    {
+      "text": "No man putteth a piece of new cloth unto an old garment, Matt. 9:16 (Mark 2:21).",
+      "references": [
+        {
+          "text": "Matt. 9:16",
+          "start": 57,
+          "end": 67,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 9,
+            "chapterId": "matthew9",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 2:21",
+          "start": 69,
+          "end": 78,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 2,
+            "chapterId": "mark2",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "work all manner of fine linen, yea, and cloth of every kind, Mosiah 10:5 (Ether 10:24). exceedingly rich, having … all manner of good homely cloth, Alma 1:29.",
+      "references": [
+        {
+          "text": "Mosiah 10:5",
+          "start": 61,
+          "end": 72,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 10,
+            "chapterId": "mosiah10",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 10:24",
+          "start": 74,
+          "end": 85,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 10,
+            "chapterId": "ether10",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 1:29",
+          "start": 148,
+          "end": 157,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 1,
+            "chapterId": "alma1",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "cloth",
+  "title": "Cloth",
+  "type": "tg"
+}

@@ -1,0 +1,803 @@
+{
+  "_id": "tg-burn",
+  "content": [
+    {
+      "text": "the bullock … burn with fire without the camp, Ex. 29:14. took the calf which they had made, and burnt it, Ex. 32:20. whore … shall be burnt with fire, Lev. 21:9. even their sons and their daughters they have burnt in the fire, Deut. 12:31. They shall be burnt with hunger, and devoured with burning heat, Deut. 32:24. priests of the high places that burn incense upon thee, 1 Kgs. 13:2. vessels … he burned them without Jerusalem, 2 Kgs. 23:4. he burnt the house of the Lord, 2 Kgs. 25:9. he burnt the bones of the priests upon their altars, 2 Chr. 34:5. built the high places … to burn their sons and their daughters, Jer. 7:31. made intercession to the king that he would not burn the roll, Jer. 36:25. the Chaldeans burned the king’s house, Jer. 39:8 (52:13). the earth is burned at his presence, Nahum 1:5. the day cometh, that shall burn as an oven, Mal. 4:1.",
+      "references": [
+        {
+          "text": "Ex. 29:14",
+          "start": 47,
+          "end": 56,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 29,
+            "chapterId": "exodus29",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 32:20",
+          "start": 107,
+          "end": 116,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 32,
+            "chapterId": "exodus32",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Lev. 21:9",
+          "start": 152,
+          "end": 161,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 21,
+            "chapterId": "leviticus21",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 12:31",
+          "start": 228,
+          "end": 239,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 12,
+            "chapterId": "deuteronomy12",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 32:24",
+          "start": 306,
+          "end": 317,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 32,
+            "chapterId": "deuteronomy32",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Kgs. 13:2",
+          "start": 375,
+          "end": 386,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 13,
+            "chapterId": "1kings13",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Kgs. 23:4",
+          "start": 432,
+          "end": 443,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 23,
+            "chapterId": "2kings23",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Kgs. 25:9",
+          "start": 477,
+          "end": 488,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 25,
+            "chapterId": "2kings25",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Chr. 34:5",
+          "start": 543,
+          "end": 554,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-chr",
+            "book": "2chronicles",
+            "chapter": 34,
+            "chapterId": "2chronicles34",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 7:31",
+          "start": 620,
+          "end": 629,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 7,
+            "chapterId": "jeremiah7",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 36:25",
+          "start": 694,
+          "end": 704,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 36,
+            "chapterId": "jeremiah36",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 39:8",
+          "start": 745,
+          "end": 754,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 39,
+            "chapterId": "jeremiah39",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "52:13",
+          "start": 756,
+          "end": 761,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 52,
+            "chapterId": "jeremiah52",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Nahum 1:5",
+          "start": 801,
+          "end": 810,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "nahum",
+            "book": "nahum",
+            "chapter": 1,
+            "chapterId": "nahum1",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mal. 4:1",
+          "start": 856,
+          "end": 864,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "mal",
+            "book": "malachi",
+            "chapter": 4,
+            "chapterId": "malachi4",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "he will burn up the chaff with unquenchable fire, Matt. 3:12 (Luke 3:17). tares, and bind them in bundles to burn them, Matt. 13:30 (D&C 38:12; 86:7; 101:66). Did not our heart burn within us, Luke 24:32. brought their books together, and burned them before all men, Acts 19:19. If any man’s work shall be burned, 1 Cor. 3:15. it is better to marry than to burn, 1 Cor. 7:9. though I give my body to be burned, and have not charity, 1 Cor. 13:3. who is offended, and I burn not, 2 Cor. 11:29. bodies of those beasts … burned without the camp, Heb. 13:11. works that are therein shall be burned up, 2 Pet. 3:10. third part of trees … and all green grass was burnt up, Rev. 8:7. shall eat her flesh, and burn her with fire, Rev. 17:16. she shall be utterly burned with fire, Rev. 18:8.",
+      "references": [
+        {
+          "text": "Matt. 3:12",
+          "start": 50,
+          "end": 60,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 3,
+            "chapterId": "matthew3",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 3:17",
+          "start": 62,
+          "end": 71,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 3,
+            "chapterId": "luke3",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 13:30",
+          "start": 120,
+          "end": 131,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 13,
+            "chapterId": "matthew13",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 38:12",
+          "start": 133,
+          "end": 142,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 38,
+            "chapterId": "doctrineandcovenants38",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "86:7",
+          "start": 144,
+          "end": 148,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 86,
+            "chapterId": "doctrineandcovenants86",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "101:66",
+          "start": 150,
+          "end": 156,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 101,
+            "chapterId": "doctrineandcovenants101",
+            "verses": [
+              {
+                "start": 66,
+                "end": 66
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 24:32",
+          "start": 193,
+          "end": 203,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 24,
+            "chapterId": "luke24",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 19:19",
+          "start": 267,
+          "end": 277,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 19,
+            "chapterId": "acts19",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 3:15",
+          "start": 314,
+          "end": 325,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 3,
+            "chapterId": "1corinthians3",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 7:9",
+          "start": 363,
+          "end": 373,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 7,
+            "chapterId": "1corinthians7",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 13:3",
+          "start": 433,
+          "end": 444,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 13,
+            "chapterId": "1corinthians13",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Cor. 11:29",
+          "start": 479,
+          "end": 491,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 11,
+            "chapterId": "2corinthians11",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 13:11",
+          "start": 543,
+          "end": 553,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 13,
+            "chapterId": "hebrews13",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Pet. 3:10",
+          "start": 598,
+          "end": 609,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-pet",
+            "book": "2peter",
+            "chapter": 3,
+            "chapterId": "2peter3",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 8:7",
+          "start": 667,
+          "end": 675,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 8,
+            "chapterId": "revelation8",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 17:16",
+          "start": 722,
+          "end": 732,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 17,
+            "chapterId": "revelation17",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 18:8",
+          "start": 773,
+          "end": 782,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 18,
+            "chapterId": "revelation18",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "proud and they who do wickedly … must be burned, 1 Ne. 22:15 (D&C 29:9). my vineyard will I cause to be burned, Jacob 5:77. Zarahemla have I burned, 3 Ne. 9:3. a small voice … did cause their hearts to burn, 3 Ne. 11:3. shall burn as an oven; and all the proud, 3 Ne. 25:1 (D&C 133:64; JS—H 1:37).",
+      "references": [
+        {
+          "text": "1 Ne. 22:15",
+          "start": 49,
+          "end": 60,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 22,
+            "chapterId": "1nephi22",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 29:9",
+          "start": 62,
+          "end": 70,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 29,
+            "chapterId": "doctrineandcovenants29",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jacob 5:77",
+          "start": 112,
+          "end": 122,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 5,
+            "chapterId": "jacob5",
+            "verses": [
+              {
+                "start": 77,
+                "end": 77
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 9:3",
+          "start": 149,
+          "end": 158,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 9,
+            "chapterId": "3nephi9",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 11:3",
+          "start": 208,
+          "end": 218,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 11,
+            "chapterId": "3nephi11",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 25:1",
+          "start": 262,
+          "end": 272,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 25,
+            "chapterId": "3nephi25",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 133:64",
+          "start": 274,
+          "end": 284,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 133,
+            "chapterId": "doctrineandcovenants133",
+            "verses": [
+              {
+                "start": 64,
+                "end": 64
+              }
+            ]
+          }
+        },
+        {
+          "text": "JS—H 1:37",
+          "start": 286,
+          "end": 295,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "if it is right … your bosom shall burn, D&C 9:8. he that is tithed shall not be burned, D&C 64:23. great church … is ready to be burned, D&C 88:94.",
+      "references": [
+        {
+          "text": "D&C 9:8",
+          "start": 40,
+          "end": 47,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 9,
+            "chapterId": "doctrineandcovenants9",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 64:23",
+          "start": 88,
+          "end": 97,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 64,
+            "chapterId": "doctrineandcovenants64",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 88:94",
+          "start": 137,
+          "end": 146,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 94,
+                "end": 94
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "burn",
+  "title": "Burn, Burned, Burnt",
+  "type": "tg"
+}

@@ -1,0 +1,50 @@
+{
+  "_id": "index-committee",
+  "content": [
+    {
+      "text": "committee appointed to build the Lord’s houses, D&C 94:15. committee to gather libelous publications, D&C 123:4–6.",
+      "references": [
+        {
+          "text": "D&C 94:15",
+          "start": 48,
+          "end": 57,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 94,
+            "chapterId": "doctrineandcovenants94",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 123:4–6",
+          "start": 102,
+          "end": 113,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 123,
+            "chapterId": "doctrineandcovenants123",
+            "verses": [
+              {
+                "start": 4,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "committee",
+  "title": "Committee",
+  "type": "index"
+}

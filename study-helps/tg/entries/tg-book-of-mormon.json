@@ -1,0 +1,826 @@
+{
+  "_id": "tg-book-of-mormon",
+  "content": [
+    {
+      "text": "from thence did the Lord scatter them abroad, Gen. 11:9. Joseph is a fruitful bough … branches … over the wall, Gen. 49:22 (49:22–26; Deut. 33:13–16). Truth shall spring out of the earth, Ps. 85:11 (Morm. 8:16; Moses 7:62). voice shall be … familiar spirit, out of the ground, Isa. 29:4 (2 Ne. 26:16). vision of all … as the words of a book that is sealed, Isa. 29:11 (29:9–14; 2 Ne. 27:1–26). shall the deaf hear the words of the book, Isa. 29:18 (2 Ne. 27:29). stick of Joseph … of Judah … shall be one in mine hand, Ezek. 37:19 (37:15–20; 2 Ne. 3:12).",
+      "references": [
+        {
+          "text": "Gen. 11:9",
+          "start": 46,
+          "end": 55,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 11,
+            "chapterId": "genesis11",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 49:22",
+          "start": 112,
+          "end": 122,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 49,
+            "chapterId": "genesis49",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "49:22–26",
+          "start": 124,
+          "end": 132,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 49,
+            "chapterId": "genesis49",
+            "verses": [
+              {
+                "start": 22,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 33:13–16",
+          "start": 134,
+          "end": 148,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 33,
+            "chapterId": "deuteronomy33",
+            "verses": [
+              {
+                "start": 13,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 85:11",
+          "start": 188,
+          "end": 197,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 85,
+            "chapterId": "psalms85",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 8:16",
+          "start": 199,
+          "end": 209,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 8,
+            "chapterId": "mormon8",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 7:62",
+          "start": 211,
+          "end": 221,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 7,
+            "chapterId": "moses7",
+            "verses": [
+              {
+                "start": 62,
+                "end": 62
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 29:4",
+          "start": 277,
+          "end": 286,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 29,
+            "chapterId": "isaiah29",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 26:16",
+          "start": 288,
+          "end": 299,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 26,
+            "chapterId": "2nephi26",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 29:11",
+          "start": 357,
+          "end": 367,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 29,
+            "chapterId": "isaiah29",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "29:9–14",
+          "start": 369,
+          "end": 376,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 29,
+            "chapterId": "isaiah29",
+            "verses": [
+              {
+                "start": 9,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 27:1–26",
+          "start": 378,
+          "end": 391,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 27,
+            "chapterId": "2nephi27",
+            "verses": [
+              {
+                "start": 1,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 29:18",
+          "start": 437,
+          "end": 447,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 29,
+            "chapterId": "isaiah29",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 27:29",
+          "start": 449,
+          "end": 460,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 27,
+            "chapterId": "2nephi27",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 37:19",
+          "start": 519,
+          "end": 530,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 37,
+            "chapterId": "ezekiel37",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "37:15–20",
+          "start": 532,
+          "end": 540,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 37,
+            "chapterId": "ezekiel37",
+            "verses": [
+              {
+                "start": 15,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 3:12",
+          "start": 542,
+          "end": 552,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 3,
+            "chapterId": "2nephi3",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "other sheep I have, which are not of this fold, John 10:16 (3 Ne. 15:21). I saw another angel … having the everlasting gospel, Rev. 14:6.",
+      "references": [
+        {
+          "text": "John 10:16",
+          "start": 48,
+          "end": 58,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 10,
+            "chapterId": "john10",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 15:21",
+          "start": 60,
+          "end": 71,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 15,
+            "chapterId": "3nephi15",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 14:6",
+          "start": 127,
+          "end": 136,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 14,
+            "chapterId": "revelation14",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "last records … shall establish the truth, 1 Ne. 13:40. they shall cry from the dust, 2 Ne. 3:20. words … given them for … convincing them of the true Messiah, 2 Ne. 25:18. testimony of the two nations shall run together, 2 Ne. 29:8. believe in these words … words of Christ, 2 Ne. 33:10. preserve the records; and he covenanted … bring them forth, Enos 1:16. written unto the remnant … of Jacob, Morm. 5:12. written … that ye may believe, Morm. 7:9. this cometh unto you, O ye Gentiles … that ye may repent, Ether 2:11. this shall stand as a testimony against the world, Ether 5:4. ask God … if these things are not true, Moro. 10:4 (10:3–5). God shall show unto you, that that which I have written is true, Moro. 10:29.",
+      "references": [
+        {
+          "text": "1 Ne. 13:40",
+          "start": 42,
+          "end": 53,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 13,
+            "chapterId": "1nephi13",
+            "verses": [
+              {
+                "start": 40,
+                "end": 40
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 3:20",
+          "start": 85,
+          "end": 95,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 3,
+            "chapterId": "2nephi3",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 25:18",
+          "start": 159,
+          "end": 170,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 25,
+            "chapterId": "2nephi25",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 29:8",
+          "start": 221,
+          "end": 231,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 29,
+            "chapterId": "2nephi29",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 33:10",
+          "start": 275,
+          "end": 286,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 33,
+            "chapterId": "2nephi33",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Enos 1:16",
+          "start": 348,
+          "end": 357,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "enos",
+            "book": "enos",
+            "chapter": 1,
+            "chapterId": "enos1",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 5:12",
+          "start": 396,
+          "end": 406,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 5,
+            "chapterId": "mormon5",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 7:9",
+          "start": 439,
+          "end": 448,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 7,
+            "chapterId": "mormon7",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 2:11",
+          "start": 508,
+          "end": 518,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 2,
+            "chapterId": "ether2",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 5:4",
+          "start": 571,
+          "end": 580,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 5,
+            "chapterId": "ether5",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moro. 10:4",
+          "start": 622,
+          "end": 632,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "moro",
+            "book": "moroni",
+            "chapter": 10,
+            "chapterId": "moroni10",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "10:3–5",
+          "start": 634,
+          "end": 640,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "moro",
+            "book": "moroni",
+            "chapter": 10,
+            "chapterId": "moroni10",
+            "verses": [
+              {
+                "start": 3,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moro. 10:29",
+          "start": 708,
+          "end": 719,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "moro",
+            "book": "moroni",
+            "chapter": 10,
+            "chapterId": "moroni10",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "translate … by the power of God, the Book of Mormon, D&C 1:29. for this very purpose are these plates preserved, D&C 3:19. he has translated the book … it is true, D&C 17:6. Which contains … fulness of the gospel of Jesus Christ, D&C 20:9 (20:8–12). Moroni … sent unto you to reveal the Book of Mormon, D&C 27:5. Book of Mormon, in the which is the fulness of the gospel, D&C 42:12. new covenant, even the Book of Mormon, D&C 84:57.",
+      "references": [
+        {
+          "text": "D&C 1:29",
+          "start": 53,
+          "end": 61,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 1,
+            "chapterId": "doctrineandcovenants1",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 3:19",
+          "start": 113,
+          "end": 121,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 3,
+            "chapterId": "doctrineandcovenants3",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 17:6",
+          "start": 164,
+          "end": 172,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 17,
+            "chapterId": "doctrineandcovenants17",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 20:9",
+          "start": 230,
+          "end": 238,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 20,
+            "chapterId": "doctrineandcovenants20",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "20:8–12",
+          "start": 240,
+          "end": 247,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 20,
+            "chapterId": "doctrineandcovenants20",
+            "verses": [
+              {
+                "start": 8,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 27:5",
+          "start": 303,
+          "end": 311,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 27,
+            "chapterId": "doctrineandcovenants27",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 42:12",
+          "start": 372,
+          "end": 381,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 42,
+            "chapterId": "doctrineandcovenants42",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 84:57",
+          "start": 422,
+          "end": 431,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 84,
+            "chapterId": "doctrineandcovenants84",
+            "verses": [
+              {
+                "start": 57,
+                "end": 57
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "said there was a book deposited, written upon gold, JS—H 1:34 (1:29–75). We … believe the Book of Mormon to be the word of God, A of F 1:8.",
+      "references": [
+        {
+          "text": "JS—H 1:34",
+          "start": 52,
+          "end": 61,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        },
+        {
+          "text": "1:29–75",
+          "start": 63,
+          "end": 70,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 29,
+                "end": 75
+              }
+            ]
+          }
+        },
+        {
+          "text": "A of F 1:8",
+          "start": 128,
+          "end": 138,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "a-of-f",
+            "book": "articlesoffaith",
+            "chapter": 1,
+            "chapterId": "articlesoffaith1",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "book-of-mormon",
+  "title": "Book of Mormon",
+  "type": "tg"
+}

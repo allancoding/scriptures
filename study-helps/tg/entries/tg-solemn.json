@@ -1,0 +1,179 @@
+{
+  "_id": "tg-solemn",
+  "content": [
+    {
+      "text": "in your solemn days … ye shall blow with the trumpets, Num. 10:10. upon the harp with a solemn sound, Ps. 92:3. I will also cause all her mirth to cease … and all her solemn feasts, Hosea 2:11.",
+      "references": [
+        {
+          "text": "Num. 10:10",
+          "start": 55,
+          "end": 65,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 10,
+            "chapterId": "numbers10",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 92:3",
+          "start": 102,
+          "end": 110,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 92,
+            "chapterId": "psalms92",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hosea 2:11",
+          "start": 182,
+          "end": 192,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "hosea",
+            "book": "hosea",
+            "chapter": 2,
+            "chapterId": "hosea2",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "we being a lonesome and a solemn people, Jacob 7:26. solemn mockery before God, that ye should baptize little children, Moro. 8:9.",
+      "references": [
+        {
+          "text": "Jacob 7:26",
+          "start": 41,
+          "end": 51,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 7,
+            "chapterId": "jacob7",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moro. 8:9",
+          "start": 120,
+          "end": 129,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "moro",
+            "book": "moroni",
+            "chapter": 8,
+            "chapterId": "moroni8",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "call upon the Father in solemn prayer, D&C 20:76. called immediately to make a solemn proclamation of my gospel, D&C 124:2 (124:107).",
+      "references": [
+        {
+          "text": "D&C 20:76",
+          "start": 39,
+          "end": 48,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 20,
+            "chapterId": "doctrineandcovenants20",
+            "verses": [
+              {
+                "start": 76,
+                "end": 76
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 124:2",
+          "start": 113,
+          "end": 122,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 124,
+            "chapterId": "doctrineandcovenants124",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "124:107",
+          "start": 124,
+          "end": 131,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 124,
+            "chapterId": "doctrineandcovenants124",
+            "verses": [
+              {
+                "start": 107,
+                "end": 107
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-solemn-assembly",
+      "slug": "solemn-assembly",
+      "title": "Solemn Assembly"
+    },
+    {
+      "entryId": "tg-solemnity",
+      "slug": "solemnity",
+      "title": "Solemnity"
+    }
+  ],
+  "slug": "solemn",
+  "title": "Solemn",
+  "type": "tg"
+}

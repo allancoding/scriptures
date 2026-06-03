@@ -1,0 +1,663 @@
+{
+  "_id": "tg-weapon",
+  "content": [
+    {
+      "text": "How are … the weapons of war perished, 2 Sam. 1:27. with the other hand held a weapon, Neh. 4:17. Wisdom is better than weapons of war, Eccl. 9:18. weapons of his indignation, Isa. 13:5 (2 Ne. 23:5). No weapon that is formed against thee shall prosper, Isa. 54:17 (3 Ne. 22:17; D&C 71:9; 109:25). I will turn back the weapons of war, Jer. 21:4. Thou art my battle axe and weapons, Jer. 51:20. draw near, even every man with his destroying weapon, Ezek. 9:1.",
+      "references": [
+        {
+          "text": "2 Sam. 1:27",
+          "start": 39,
+          "end": 50,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-sam",
+            "book": "2samuel",
+            "chapter": 1,
+            "chapterId": "2samuel1",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Neh. 4:17",
+          "start": 87,
+          "end": 96,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "neh",
+            "book": "nehemiah",
+            "chapter": 4,
+            "chapterId": "nehemiah4",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eccl. 9:18",
+          "start": 136,
+          "end": 146,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "eccl",
+            "book": "ecclesiastes",
+            "chapter": 9,
+            "chapterId": "ecclesiastes9",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 13:5",
+          "start": 176,
+          "end": 185,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 13,
+            "chapterId": "isaiah13",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 23:5",
+          "start": 187,
+          "end": 197,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 23,
+            "chapterId": "2nephi23",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 54:17",
+          "start": 253,
+          "end": 263,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 54,
+            "chapterId": "isaiah54",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 22:17",
+          "start": 265,
+          "end": 276,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 22,
+            "chapterId": "3nephi22",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 71:9",
+          "start": 278,
+          "end": 286,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 71,
+            "chapterId": "doctrineandcovenants71",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "109:25",
+          "start": 288,
+          "end": 294,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 109,
+            "chapterId": "doctrineandcovenants109",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 21:4",
+          "start": 334,
+          "end": 343,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 21,
+            "chapterId": "jeremiah21",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 51:20",
+          "start": 381,
+          "end": 391,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 51,
+            "chapterId": "jeremiah51",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 9:1",
+          "start": 447,
+          "end": 456,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 9,
+            "chapterId": "ezekiel9",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "weapons of our warfare are not carnal, 2 Cor. 10:4.",
+      "references": [
+        {
+          "text": "2 Cor. 10:4",
+          "start": 39,
+          "end": 50,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 10,
+            "chapterId": "2corinthians10",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "arm them with … all manner of weapons, Mosiah 9:16 (Alma 2:12, 14; 43:18; 60:2; Morm. 6:9; Ether 10:27). did lay down the weapons of their rebellion, Alma 23:7. testimony … that they never would use weapons again, Alma 24:18 (56:6–7; 62:16). they buried their … weapons of war, Alma 24:19 (25:14; 26:32). many came forth and threw down their weapons, Alma 44:15 (44:6). they did lift their weapons of war to fight, Alma 51:18. slew … all those who would not yield up their weapons, Alma 52:25 (52:32). not entered into a covenant that they would not take their weapons, Alma 53:16. as many as were convinced did lay down their weapons, Hel. 5:51. ye must lay down your weapons, Morm. 7:4.",
+      "references": [
+        {
+          "text": "Mosiah 9:16",
+          "start": 39,
+          "end": 50,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 9,
+            "chapterId": "mosiah9",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 2:12, 14",
+          "start": 52,
+          "end": 65,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 2,
+            "chapterId": "alma2",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              },
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "43:18",
+          "start": 67,
+          "end": 72,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 43,
+            "chapterId": "alma43",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "60:2",
+          "start": 74,
+          "end": 78,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 60,
+            "chapterId": "alma60",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 6:9",
+          "start": 80,
+          "end": 89,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 6,
+            "chapterId": "mormon6",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 10:27",
+          "start": 91,
+          "end": 102,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 10,
+            "chapterId": "ether10",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 23:7",
+          "start": 150,
+          "end": 159,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 23,
+            "chapterId": "alma23",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 24:18",
+          "start": 214,
+          "end": 224,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 24,
+            "chapterId": "alma24",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "56:6–7",
+          "start": 226,
+          "end": 232,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 56,
+            "chapterId": "alma56",
+            "verses": [
+              {
+                "start": 6,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "62:16",
+          "start": 234,
+          "end": 239,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 62,
+            "chapterId": "alma62",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 24:19",
+          "start": 278,
+          "end": 288,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 24,
+            "chapterId": "alma24",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "25:14",
+          "start": 290,
+          "end": 295,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 25,
+            "chapterId": "alma25",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "26:32",
+          "start": 297,
+          "end": 302,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 26,
+            "chapterId": "alma26",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 44:15",
+          "start": 351,
+          "end": 361,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 44,
+            "chapterId": "alma44",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "44:6",
+          "start": 363,
+          "end": 367,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 44,
+            "chapterId": "alma44",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 51:18",
+          "start": 415,
+          "end": 425,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 51,
+            "chapterId": "alma51",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 52:25",
+          "start": 482,
+          "end": 492,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 52,
+            "chapterId": "alma52",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "52:32",
+          "start": 494,
+          "end": 499,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 52,
+            "chapterId": "alma52",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 53:16",
+          "start": 570,
+          "end": 580,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 53,
+            "chapterId": "alma53",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 5:51",
+          "start": 636,
+          "end": 645,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 5,
+            "chapterId": "helaman5",
+            "verses": [
+              {
+                "start": 51,
+                "end": 51
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 7:4",
+          "start": 678,
+          "end": 687,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 7,
+            "chapterId": "mormon7",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "they may lay down their weapons of bloodshed, D&C 109:66.",
+      "references": [
+        {
+          "text": "D&C 109:66",
+          "start": 46,
+          "end": 56,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 109,
+            "chapterId": "doctrineandcovenants109",
+            "verses": [
+              {
+                "start": 66,
+                "end": 66
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "weapon",
+  "title": "Weapon",
+  "type": "tg"
+}

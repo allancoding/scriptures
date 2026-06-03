@@ -1,0 +1,50 @@
+{
+  "_id": "tg-philosopher",
+  "content": [
+    {
+      "text": "Then certain philosophers … encountered him, Acts 17:18. Beware lest any man spoil you through philosophy, Col. 2:8.",
+      "references": [
+        {
+          "text": "Acts 17:18",
+          "start": 45,
+          "end": 55,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 17,
+            "chapterId": "acts17",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Col. 2:8",
+          "start": 107,
+          "end": 115,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "col",
+            "book": "colossians",
+            "chapter": 2,
+            "chapterId": "colossians2",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "philosopher",
+  "title": "Philosopher, Philosophy",
+  "type": "tg"
+}

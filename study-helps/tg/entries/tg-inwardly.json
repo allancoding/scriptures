@@ -1,0 +1,97 @@
+{
+  "_id": "tg-inwardly",
+  "content": [
+    {
+      "text": "bless with their mouth, but they curse inwardly, Ps. 62:4.",
+      "references": [
+        {
+          "text": "Ps. 62:4",
+          "start": 49,
+          "end": 57,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 62,
+            "chapterId": "psalms62",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "sheep’s clothing, but inwardly they are ravening wolves, Matt. 7:15 (3 Ne. 14:15). he is a Jew, which is one inwardly, Rom. 2:29.",
+      "references": [
+        {
+          "text": "Matt. 7:15",
+          "start": 57,
+          "end": 67,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 7,
+            "chapterId": "matthew7",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 14:15",
+          "start": 69,
+          "end": 80,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 14,
+            "chapterId": "3nephi14",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 2:29",
+          "start": 119,
+          "end": 128,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 2,
+            "chapterId": "romans2",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-inward",
+      "slug": "inward",
+      "title": "Inward"
+    }
+  ],
+  "slug": "inwardly",
+  "title": "Inwardly",
+  "type": "tg"
+}

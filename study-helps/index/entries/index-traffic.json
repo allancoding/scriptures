@@ -1,0 +1,66 @@
+{
+  "_id": "index-traffic",
+  "content": [
+    {
+      "text": "robbers traffic in all manner of traffic, 4 Ne. 1:46. Jaredites traffic one with another to get gain, Ether 10:22.",
+      "references": [
+        {
+          "text": "4 Ne. 1:46",
+          "start": 42,
+          "end": 52,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "4-ne",
+            "book": "4nephi",
+            "chapter": 1,
+            "chapterId": "4nephi1",
+            "verses": [
+              {
+                "start": 46,
+                "end": 46
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 10:22",
+          "start": 102,
+          "end": 113,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 10,
+            "chapterId": "ether10",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-business",
+      "slug": "business",
+      "title": "Business"
+    },
+    {
+      "entryId": "index-merchants",
+      "slug": "merchants",
+      "title": "Merchants"
+    },
+    {
+      "entryId": "index-trade",
+      "slug": "trade",
+      "title": "Trade"
+    }
+  ],
+  "slug": "traffic",
+  "title": "Traffic",
+  "type": "index"
+}

@@ -1,0 +1,32 @@
+{
+  "_id": "index-bush",
+  "content": [
+    {
+      "text": "the Lord gave Moses commandments out of burning bush, Moses 1:17.",
+      "references": [
+        {
+          "text": "Moses 1:17",
+          "start": 54,
+          "end": 64,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 1,
+            "chapterId": "moses1",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "bush",
+  "title": "Bush",
+  "type": "index"
+}

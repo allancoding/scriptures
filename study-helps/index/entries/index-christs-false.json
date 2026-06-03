@@ -1,0 +1,56 @@
+{
+  "_id": "index-christs-false",
+  "content": [
+    {
+      "text": "no other Messiah will come save a false Messiah, 2 Ne. 25:18. are punished according to crimes, W of M 1:15–16.",
+      "references": [
+        {
+          "text": "2 Ne. 25:18",
+          "start": 49,
+          "end": 60,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 25,
+            "chapterId": "2nephi25",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "W of M 1:15–16",
+          "start": 96,
+          "end": 110,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "w-of-m",
+            "book": "wordsofmormon",
+            "chapter": 1,
+            "chapterId": "wordsofmormon1",
+            "verses": [
+              {
+                "start": 15,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-prophets-false",
+      "slug": "prophets-false",
+      "title": "Prophets, False"
+    }
+  ],
+  "slug": "christs-false",
+  "title": "Christs, False",
+  "type": "index"
+}

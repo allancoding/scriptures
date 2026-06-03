@@ -1,0 +1,66 @@
+{
+  "_id": "index-rash",
+  "content": [
+    {
+      "text": "Amalickiah’s promise is rash, Alma 51:10. he who judgeth rashly shall be judged rashly, Morm. 8:19.",
+      "references": [
+        {
+          "text": "Alma 51:10",
+          "start": 30,
+          "end": 40,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 51,
+            "chapterId": "alma51",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 8:19",
+          "start": 88,
+          "end": 98,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 8,
+            "chapterId": "mormon8",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-foolish",
+      "slug": "foolish",
+      "title": "Foolish"
+    },
+    {
+      "entryId": "index-haste",
+      "slug": "haste",
+      "title": "Haste"
+    },
+    {
+      "entryId": "index-quick",
+      "slug": "quick",
+      "title": "Quick"
+    }
+  ],
+  "slug": "rash",
+  "title": "Rash, Rashly",
+  "type": "index"
+}

@@ -1,0 +1,958 @@
+{
+  "_id": "tg-cry",
+  "content": [
+    {
+      "text": "voice of thy brother’s blood crieth unto me, Gen. 4:10. the cry of Sodom and Gomorrah is great, Gen. 18:20. Esau … cried with a great and exceeding bitter cry, Gen. 27:34. Joseph … cried, Cause every man to go out from me, Gen. 45:1. they cried, and their cry came up unto God, Ex. 2:23. heard their cry by reason of their taskmasters, Ex. 3:7. If … they cry at all unto me, I will surely hear their cry, Ex. 22:23. Elijah mocked them, and said, Cry aloud, 1 Kgs. 18:27. They cried, but there was none to save them, Ps. 18:41. I have cried day and night before thee, Ps. 88:1. they cried unto the Lord in their trouble, Ps. 107:6. In my distress I cried unto the Lord, Ps. 120:1. looked for … righteousness, but behold a cry, Isa. 5:7 (2 Ne. 15:7). voice of him that crieth in the wilderness, Isa. 40:3 (Matt. 3:3; Mark 1:3; Luke 3:4; John 1:23). He shall not cry, Isa. 42:2 (Matt. 12:19). though they shall cry unto me, Jer. 11:11. go to Nineveh … and cry against it, Jonah 1:2. how long shall I cry, and thou wilt not hear, Hab. 1:2.",
+      "references": [
+        {
+          "text": "Gen. 4:10",
+          "start": 45,
+          "end": 54,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 4,
+            "chapterId": "genesis4",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 18:20",
+          "start": 96,
+          "end": 106,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 18,
+            "chapterId": "genesis18",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 27:34",
+          "start": 160,
+          "end": 170,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 27,
+            "chapterId": "genesis27",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 45:1",
+          "start": 223,
+          "end": 232,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 45,
+            "chapterId": "genesis45",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 2:23",
+          "start": 278,
+          "end": 286,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 2,
+            "chapterId": "exodus2",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 3:7",
+          "start": 336,
+          "end": 343,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 3,
+            "chapterId": "exodus3",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 22:23",
+          "start": 405,
+          "end": 414,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 22,
+            "chapterId": "exodus22",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Kgs. 18:27",
+          "start": 457,
+          "end": 469,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 18,
+            "chapterId": "1kings18",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 18:41",
+          "start": 516,
+          "end": 525,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 18,
+            "chapterId": "psalms18",
+            "verses": [
+              {
+                "start": 41,
+                "end": 41
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 88:1",
+          "start": 567,
+          "end": 575,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 88,
+            "chapterId": "psalms88",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 107:6",
+          "start": 620,
+          "end": 629,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 107,
+            "chapterId": "psalms107",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 120:1",
+          "start": 669,
+          "end": 678,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 120,
+            "chapterId": "psalms120",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 5:7",
+          "start": 726,
+          "end": 734,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 5,
+            "chapterId": "isaiah5",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 15:7",
+          "start": 736,
+          "end": 746,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 15,
+            "chapterId": "2nephi15",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 40:3",
+          "start": 793,
+          "end": 802,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 40,
+            "chapterId": "isaiah40",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 3:3",
+          "start": 804,
+          "end": 813,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 3,
+            "chapterId": "matthew3",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 1:3",
+          "start": 815,
+          "end": 823,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 1,
+            "chapterId": "mark1",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 3:4",
+          "start": 825,
+          "end": 833,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 3,
+            "chapterId": "luke3",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 1:23",
+          "start": 835,
+          "end": 844,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 1,
+            "chapterId": "john1",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 42:2",
+          "start": 865,
+          "end": 874,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 42,
+            "chapterId": "isaiah42",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 12:19",
+          "start": 876,
+          "end": 887,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 12,
+            "chapterId": "matthew12",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 11:11",
+          "start": 921,
+          "end": 931,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 11,
+            "chapterId": "jeremiah11",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jonah 1:2",
+          "start": 969,
+          "end": 978,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jonah",
+            "book": "jonah",
+            "chapter": 1,
+            "chapterId": "jonah1",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hab. 1:2",
+          "start": 1026,
+          "end": 1034,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "hab",
+            "book": "habakkuk",
+            "chapter": 1,
+            "chapterId": "habakkuk1",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "they cried the more, Matt. 20:31 (Mark 10:48; Luke 18:39). the children crying in the temple, Matt. 21:15. at midnight there was a cry made, Behold, the bridegroom, Matt. 25:6. Jesus cried with a loud voice, Matt. 27:46 (Mark 15:34). Jesus, when he had cried … yielded up the ghost, Matt. 27:50 (Mark 15:37; Luke 23:46). avenge his own elect, which cry day and night, Luke 18:7. stones would immediately cry out, Luke 19:40. they cried out, saying, Crucify him, John 19:6. cried … Lord, lay not this sin to their charge, Acts 7:60.",
+      "references": [
+        {
+          "text": "Matt. 20:31",
+          "start": 21,
+          "end": 32,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 20,
+            "chapterId": "matthew20",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 10:48",
+          "start": 34,
+          "end": 44,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 10,
+            "chapterId": "mark10",
+            "verses": [
+              {
+                "start": 48,
+                "end": 48
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 18:39",
+          "start": 46,
+          "end": 56,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 18,
+            "chapterId": "luke18",
+            "verses": [
+              {
+                "start": 39,
+                "end": 39
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 21:15",
+          "start": 94,
+          "end": 105,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 21,
+            "chapterId": "matthew21",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 25:6",
+          "start": 165,
+          "end": 175,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 25,
+            "chapterId": "matthew25",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 27:46",
+          "start": 208,
+          "end": 219,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 27,
+            "chapterId": "matthew27",
+            "verses": [
+              {
+                "start": 46,
+                "end": 46
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 15:34",
+          "start": 221,
+          "end": 231,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 15,
+            "chapterId": "mark15",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 27:50",
+          "start": 283,
+          "end": 294,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 27,
+            "chapterId": "matthew27",
+            "verses": [
+              {
+                "start": 50,
+                "end": 50
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 15:37",
+          "start": 296,
+          "end": 306,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 15,
+            "chapterId": "mark15",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 23:46",
+          "start": 308,
+          "end": 318,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 23,
+            "chapterId": "luke23",
+            "verses": [
+              {
+                "start": 46,
+                "end": 46
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 18:7",
+          "start": 368,
+          "end": 377,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 18,
+            "chapterId": "luke18",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 19:40",
+          "start": 413,
+          "end": 423,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 19,
+            "chapterId": "luke19",
+            "verses": [
+              {
+                "start": 40,
+                "end": 40
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 19:6",
+          "start": 462,
+          "end": 471,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 19,
+            "chapterId": "john19",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 7:60",
+          "start": 521,
+          "end": 530,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 7,
+            "chapterId": "acts7",
+            "verses": [
+              {
+                "start": 60,
+                "end": 60
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "went up into the mountain, and cried unto the Lord, 1 Ne. 17:7. cried unto him in mighty prayer, Enos 1:4. shall cry unto me I will be slow to hear their cries, Mosiah 11:24 (21:15). humble themselves … cry mightily to God, Mosiah 21:14. because they cried mightily unto him he did deliver, Mosiah 29:20. they cry unto thee … while they are puffed up, Alma 31:27. Cry unto him … morning, mid-day, and evening, Alma 34:21. cry unto God for all thy support, Alma 37:36. cried with one voice unto the Lord … for their liberty, Alma 43:49. did cry from the morning, even until the going down of the sun, Ether 12:3.",
+      "references": [
+        {
+          "text": "1 Ne. 17:7",
+          "start": 52,
+          "end": 62,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 17,
+            "chapterId": "1nephi17",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Enos 1:4",
+          "start": 97,
+          "end": 105,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "enos",
+            "book": "enos",
+            "chapter": 1,
+            "chapterId": "enos1",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 11:24",
+          "start": 161,
+          "end": 173,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 11,
+            "chapterId": "mosiah11",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "21:15",
+          "start": 175,
+          "end": 180,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 21,
+            "chapterId": "mosiah21",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 21:14",
+          "start": 224,
+          "end": 236,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 21,
+            "chapterId": "mosiah21",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 29:20",
+          "start": 291,
+          "end": 303,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 29,
+            "chapterId": "mosiah29",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 31:27",
+          "start": 352,
+          "end": 362,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 31,
+            "chapterId": "alma31",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 34:21",
+          "start": 410,
+          "end": 420,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 34,
+            "chapterId": "alma34",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 37:36",
+          "start": 456,
+          "end": 466,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 37,
+            "chapterId": "alma37",
+            "verses": [
+              {
+                "start": 36,
+                "end": 36
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 43:49",
+          "start": 524,
+          "end": 534,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 43,
+            "chapterId": "alma43",
+            "verses": [
+              {
+                "start": 49,
+                "end": 49
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 12:3",
+          "start": 600,
+          "end": 610,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 12,
+            "chapterId": "ether12",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "cries of their innocent ones to ascend up in thine ears, D&C 109:49. cry they have sinned when they have not sinned, D&C 121:16.",
+      "references": [
+        {
+          "text": "D&C 109:49",
+          "start": 57,
+          "end": 67,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 109,
+            "chapterId": "doctrineandcovenants109",
+            "verses": [
+              {
+                "start": 49,
+                "end": 49
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 121:16",
+          "start": 117,
+          "end": 127,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-mourning",
+      "slug": "mourning",
+      "title": "Mourning"
+    },
+    {
+      "entryId": "tg-weep",
+      "slug": "weep",
+      "title": "Weep"
+    }
+  ],
+  "slug": "cry",
+  "title": "Cry",
+  "type": "tg"
+}

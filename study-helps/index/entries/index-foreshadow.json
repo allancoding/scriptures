@@ -1,0 +1,38 @@
+{
+  "_id": "index-foreshadow",
+  "content": [
+    {
+      "text": "Elijah’s mission foreshadowing great work to be done in temples, D&C 138:48.",
+      "references": [
+        {
+          "text": "D&C 138:48",
+          "start": 65,
+          "end": 75,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 138,
+            "chapterId": "doctrineandcovenants138",
+            "verses": [
+              {
+                "start": 48,
+                "end": 48
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-shadow",
+      "slug": "shadow",
+      "title": "Shadow"
+    }
+  ],
+  "slug": "foreshadow",
+  "title": "Foreshadow",
+  "type": "index"
+}

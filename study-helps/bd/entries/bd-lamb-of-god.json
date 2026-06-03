@@ -1,0 +1,68 @@
+{
+  "_id": "bd-lamb-of-god",
+  "content": [
+    {
+      "text": "A name for the Savior used by John the Baptist and others (John 1:29). It has reference to Jesus being a sacrifice for the sins of mankind. See also 1 Cor. 5:7; 1 Pet. 1:19.",
+      "references": [
+        {
+          "text": "John 1:29",
+          "start": 59,
+          "end": 68,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 1,
+            "chapterId": "john1",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 5:7",
+          "start": 149,
+          "end": 159,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 5,
+            "chapterId": "1corinthians5",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Pet. 1:19",
+          "start": 161,
+          "end": 172,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-pet",
+            "book": "1peter",
+            "chapter": 1,
+            "chapterId": "1peter1",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "lamb-of-god",
+  "title": "Lamb of God",
+  "type": "bd"
+}

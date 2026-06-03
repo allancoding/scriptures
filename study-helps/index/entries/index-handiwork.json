@@ -1,0 +1,43 @@
+{
+  "_id": "index-handiwork",
+  "content": [
+    {
+      "text": "heavens and earth are the Lord’s handiwork, D&C 104:14.",
+      "references": [
+        {
+          "text": "D&C 104:14",
+          "start": 44,
+          "end": 54,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 104,
+            "chapterId": "doctrineandcovenants104",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-creation",
+      "slug": "creation",
+      "title": "Creation"
+    },
+    {
+      "entryId": "index-workmanship",
+      "slug": "workmanship",
+      "title": "Workmanship"
+    }
+  ],
+  "slug": "handiwork",
+  "title": "Handiwork",
+  "type": "index"
+}

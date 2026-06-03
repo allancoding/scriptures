@@ -1,0 +1,38 @@
+{
+  "_id": "index-feeble",
+  "content": [
+    {
+      "text": "strengthen feeble knees, D&C 81:5.",
+      "references": [
+        {
+          "text": "D&C 81:5",
+          "start": 25,
+          "end": 33,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 81,
+            "chapterId": "doctrineandcovenants81",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-weak",
+      "slug": "weak",
+      "title": "Weak"
+    }
+  ],
+  "slug": "feeble",
+  "title": "Feeble",
+  "type": "index"
+}

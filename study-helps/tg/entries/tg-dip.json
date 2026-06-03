@@ -1,0 +1,127 @@
+{
+  "_id": "tg-dip",
+  "content": [
+    {
+      "text": "hyssop, and dip it in the blood, Ex. 12:22. priest shall dip his finger in the blood, Lev. 4:6. dipped himself seven times in Jordan, 2 Kgs. 5:14.",
+      "references": [
+        {
+          "text": "Ex. 12:22",
+          "start": 33,
+          "end": 42,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 12,
+            "chapterId": "exodus12",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Lev. 4:6",
+          "start": 86,
+          "end": 94,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 4,
+            "chapterId": "leviticus4",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Kgs. 5:14",
+          "start": 134,
+          "end": 145,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 5,
+            "chapterId": "2kings5",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "He that dippeth his hand with me, Matt. 26:23 (Mark 14:20). when he had dipped the sop, John 13:26.",
+      "references": [
+        {
+          "text": "Matt. 26:23",
+          "start": 34,
+          "end": 45,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 26,
+            "chapterId": "matthew26",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 14:20",
+          "start": 47,
+          "end": 57,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 14,
+            "chapterId": "mark14",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 13:26",
+          "start": 88,
+          "end": 98,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 13,
+            "chapterId": "john13",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "dip",
+  "title": "Dip",
+  "type": "tg"
+}

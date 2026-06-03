@@ -1,0 +1,97 @@
+{
+  "_id": "index-orphan",
+  "content": [
+    {
+      "text": "why do ye cause orphans to mourn before the Lord, Morm. 8:40.",
+      "references": [
+        {
+          "text": "Morm. 8:40",
+          "start": 50,
+          "end": 60,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 8,
+            "chapterId": "mormon8",
+            "verses": [
+              {
+                "start": 40,
+                "end": 40
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "widows and orphans shall be provided for, D&C 83:6. imperative duty owed to widows and fatherless, D&C 123:9 (136:8).",
+      "references": [
+        {
+          "text": "D&C 83:6",
+          "start": 42,
+          "end": 50,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 83,
+            "chapterId": "doctrineandcovenants83",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 123:9",
+          "start": 99,
+          "end": 108,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 123,
+            "chapterId": "doctrineandcovenants123",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "136:8",
+          "start": 110,
+          "end": 115,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 136,
+            "chapterId": "doctrineandcovenants136",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-needy",
+      "slug": "needy",
+      "title": "Needy"
+    }
+  ],
+  "slug": "orphan",
+  "title": "Orphan",
+  "type": "index"
+}

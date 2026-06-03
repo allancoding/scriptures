@@ -1,0 +1,92 @@
+{
+  "_id": "index-abound",
+  "content": [
+    {
+      "text": "always abounding in good works, Mosiah 5:15 (Alma 7:24; Ether 12:4). Nephites abound in grace of God, Mosiah 27:5.",
+      "references": [
+        {
+          "text": "Mosiah 5:15",
+          "start": 32,
+          "end": 43,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 5,
+            "chapterId": "mosiah5",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 7:24",
+          "start": 45,
+          "end": 54,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 7,
+            "chapterId": "alma7",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 12:4",
+          "start": 56,
+          "end": 66,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 12,
+            "chapterId": "ether12",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 27:5",
+          "start": 102,
+          "end": 113,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 27,
+            "chapterId": "mosiah27",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-abundance",
+      "slug": "abundance",
+      "title": "Abundance"
+    }
+  ],
+  "slug": "abound",
+  "title": "Abound",
+  "type": "index"
+}

@@ -1,0 +1,102 @@
+{
+  "_id": "tg-burial",
+  "content": [
+    {
+      "text": "He shall be buried with the burial of an ass, Jer. 22:19.",
+      "references": [
+        {
+          "text": "Jer. 22:19",
+          "start": 46,
+          "end": 56,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 22,
+            "chapterId": "jeremiah22",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "ointment on my body, she did it for my burial, Matt. 26:12. devout men carried Stephen to his burial, Acts 8:2.",
+      "references": [
+        {
+          "text": "Matt. 26:12",
+          "start": 47,
+          "end": 58,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 26,
+            "chapterId": "matthew26",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 8:2",
+          "start": 102,
+          "end": 110,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 8,
+            "chapterId": "acts8",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "as to his death or burial we know not of, Alma 45:18.",
+      "references": [
+        {
+          "text": "Alma 45:18",
+          "start": 42,
+          "end": 52,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 45,
+            "chapterId": "alma45",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-bury",
+      "slug": "bury",
+      "title": "Bury"
+    }
+  ],
+  "slug": "burial",
+  "title": "Burial",
+  "type": "tg"
+}

@@ -1,0 +1,90 @@
+{
+  "_id": "bd-onan",
+  "content": [
+    {
+      "text": "Son of Judah. His sin is referred to in Gen. 38:4, 8–9; 46:12; Num. 26:19; 1 Chr. 2:3.",
+      "references": [
+        {
+          "text": "Gen. 38:4, 8–9",
+          "start": 40,
+          "end": 54,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 38,
+            "chapterId": "genesis38",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              },
+              {
+                "start": 8,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "46:12",
+          "start": 56,
+          "end": 61,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 46,
+            "chapterId": "genesis46",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 26:19",
+          "start": 63,
+          "end": 73,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 26,
+            "chapterId": "numbers26",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Chr. 2:3",
+          "start": 75,
+          "end": 85,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-chr",
+            "book": "1chronicles",
+            "chapter": 2,
+            "chapterId": "1chronicles2",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "onan",
+  "title": "Onan",
+  "type": "bd"
+}

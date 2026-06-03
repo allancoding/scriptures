@@ -1,0 +1,76 @@
+{
+  "_id": "bd-gerar",
+  "content": [
+    {
+      "text": "A place in southwestern Palestine, near Gaza (Gen. 10:19). Abraham lived there for a time (Gen. 20), as did Isaac (Gen. 26). See also 2 Chr. 14:13–14.",
+      "references": [
+        {
+          "text": "Gen. 10:19",
+          "start": 46,
+          "end": 56,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 10,
+            "chapterId": "genesis10",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 20",
+          "start": 91,
+          "end": 98,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 20,
+            "chapterId": "genesis20",
+            "verses": []
+          }
+        },
+        {
+          "text": "Gen. 26",
+          "start": 115,
+          "end": 122,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 26,
+            "chapterId": "genesis26",
+            "verses": []
+          }
+        },
+        {
+          "text": "2 Chr. 14:13–14",
+          "start": 134,
+          "end": 149,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-chr",
+            "book": "2chronicles",
+            "chapter": 14,
+            "chapterId": "2chronicles14",
+            "verses": [
+              {
+                "start": 13,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "gerar",
+  "title": "Gerar",
+  "type": "bd"
+}

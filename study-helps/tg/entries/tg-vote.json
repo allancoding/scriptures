@@ -1,0 +1,74 @@
+{
+  "_id": "tg-vote",
+  "content": [
+    {
+      "text": "receive their licenses … by vote of the church, D&C 20:63. No person is to be ordained … without the vote of that church, D&C 20:65. councilors to sanction the same by their vote, D&C 102:19.",
+      "references": [
+        {
+          "text": "D&C 20:63",
+          "start": 48,
+          "end": 57,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 20,
+            "chapterId": "doctrineandcovenants20",
+            "verses": [
+              {
+                "start": 63,
+                "end": 63
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 20:65",
+          "start": 122,
+          "end": 131,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 20,
+            "chapterId": "doctrineandcovenants20",
+            "verses": [
+              {
+                "start": 65,
+                "end": 65
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 102:19",
+          "start": 180,
+          "end": 190,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 102,
+            "chapterId": "doctrineandcovenants102",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-common-consent",
+      "slug": "common-consent",
+      "title": "Common Consent"
+    }
+  ],
+  "slug": "vote",
+  "title": "Vote",
+  "type": "tg"
+}

@@ -1,0 +1,79 @@
+{
+  "_id": "tg-discouraged",
+  "content": [
+    {
+      "text": "people was much discouraged, Num. 21:4. fear not, neither be discouraged, Deut. 1:21.",
+      "references": [
+        {
+          "text": "Num. 21:4",
+          "start": 29,
+          "end": 38,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 21,
+            "chapterId": "numbers21",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 1:21",
+          "start": 74,
+          "end": 84,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 1,
+            "chapterId": "deuteronomy1",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "provoke not your children … lest they be discouraged, Col. 3:21.",
+      "references": [
+        {
+          "text": "Col. 3:21",
+          "start": 54,
+          "end": 63,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "col",
+            "book": "colossians",
+            "chapter": 3,
+            "chapterId": "colossians3",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-afraid",
+      "slug": "afraid",
+      "title": "Afraid"
+    }
+  ],
+  "slug": "discouraged",
+  "title": "Discouraged",
+  "type": "tg"
+}

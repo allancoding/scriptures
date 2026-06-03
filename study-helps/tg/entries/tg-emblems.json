@@ -1,0 +1,61 @@
+{
+  "_id": "tg-emblems",
+  "content": [
+    {
+      "text": "bread and wine—the emblems of the flesh and blood of Christ, D&C 20:40 (20:75–79).",
+      "references": [
+        {
+          "text": "D&C 20:40",
+          "start": 61,
+          "end": 70,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 20,
+            "chapterId": "doctrineandcovenants20",
+            "verses": [
+              {
+                "start": 40,
+                "end": 40
+              }
+            ]
+          }
+        },
+        {
+          "text": "20:75–79",
+          "start": 72,
+          "end": 80,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 20,
+            "chapterId": "doctrineandcovenants20",
+            "verses": [
+              {
+                "start": 75,
+                "end": 79
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-sacrament",
+      "slug": "sacrament",
+      "title": "Sacrament"
+    },
+    {
+      "entryId": "tg-symbolism",
+      "slug": "symbolism",
+      "title": "Symbolism"
+    }
+  ],
+  "slug": "emblems",
+  "title": "Emblems",
+  "type": "tg"
+}

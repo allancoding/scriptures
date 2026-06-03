@@ -1,0 +1,63 @@
+{
+  "_id": "bd-hannah",
+  "content": [
+    {
+      "text": "Grace. Mother of Samuel, who was given to her in answer to prayer (1 Sam. 1:2–2:21). Her song of thanksgiving may be compared with that of Mary (Luke 1:46–55). It contains the first reference to the title Messiah (“his Anointed”) (1 Sam. 2:10).",
+      "references": [
+        {
+          "text": "1 Sam. 1:2–2:21",
+          "start": 67,
+          "end": 82,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 1,
+            "chapterId": "1samuel1",
+            "verses": []
+          }
+        },
+        {
+          "text": "Luke 1:46–55",
+          "start": 145,
+          "end": 157,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 1,
+            "chapterId": "luke1",
+            "verses": [
+              {
+                "start": 46,
+                "end": 55
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Sam. 2:10",
+          "start": 231,
+          "end": 242,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 2,
+            "chapterId": "1samuel2",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "hannah",
+  "title": "Hannah",
+  "type": "bd"
+}

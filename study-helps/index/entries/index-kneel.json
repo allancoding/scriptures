@@ -1,0 +1,115 @@
+{
+  "_id": "index-kneel",
+  "content": [
+    {
+      "text": "Enos2 kneeled before his Maker, Enos 1:4. Jesus commands multitude to kneel, 3 Ne. 17:13 (19:16). elders and priests kneel with Church to offer sacrament prayer, Moro. 4:1–2.",
+      "references": [
+        {
+          "text": "Enos 1:4",
+          "start": 32,
+          "end": 40,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "enos",
+            "book": "enos",
+            "chapter": 1,
+            "chapterId": "enos1",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 17:13",
+          "start": 77,
+          "end": 88,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 17,
+            "chapterId": "3nephi17",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "19:16",
+          "start": 90,
+          "end": 95,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 19,
+            "chapterId": "3nephi19",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moro. 4:1–2",
+          "start": 162,
+          "end": 173,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "moro",
+            "book": "moroni",
+            "chapter": 4,
+            "chapterId": "moroni4",
+            "verses": [
+              {
+                "start": 1,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "elder or priest shall kneel to offer sacrament prayer, D&C 20:76.",
+      "references": [
+        {
+          "text": "D&C 20:76",
+          "start": 55,
+          "end": 64,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 20,
+            "chapterId": "doctrineandcovenants20",
+            "verses": [
+              {
+                "start": 76,
+                "end": 76
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-knee",
+      "slug": "knee",
+      "title": "Knee"
+    }
+  ],
+  "slug": "kneel",
+  "title": "Kneel",
+  "type": "index"
+}

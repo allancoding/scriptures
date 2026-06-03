@@ -1,0 +1,991 @@
+{
+  "_id": "tg-trust-in-god",
+  "content": [
+    {
+      "text": "Lord … under whose wings thou art come to trust, Ruth 2:12. God of my rock; in him will I trust, 2 Sam. 22:3 (Ps. 56:4; 91:2). they put their trust in him, 1 Chr. 5:20. Though he slay me, yet will I trust, Job 13:15. Blessed are all they that put their trust in him, Ps. 2:12 (Jer. 17:7; Hel. 12:1). they that know thy name will put their trust in thee, Ps. 9:10. Some trust in chariots … we will remember the name of the Lord, Ps. 20:7. Our fathers trusted in thee, Ps. 22:4. none … that trust in him shall be desolate, Ps. 34:22. put their trust under the shadow of thy wings, Ps. 36:7. Trust in the Lord, and do good, Ps. 37:3. Trust in him at all times, Ps. 62:8. righteous shall … trust in him, Ps. 64:10. believed not in God, and trusted not, Ps. 78:22. trust thou in the Lord: he is their help, Ps. 115:9. better to trust in the Lord than … in man, Ps. 118:8. They that trust in the Lord … abideth for ever, Ps. 125:1. Trust in the Lord with all thine heart, Prov. 3:5. whoso trusteth in the Lord, happy is he, Prov. 16:20. putteth his trust in the Lord shall be made fat, Prov. 28:25. putteth his trust in the Lord shall be safe, Prov. 29:25 (Alma 61:13). let him trust in the name of the Lord, Isa. 50:10. God … delivered his servants that trusted in him, Dan. 3:28. Lord … knoweth them that trust in him, Nahum 1:7.",
+      "references": [
+        {
+          "text": "Ruth 2:12",
+          "start": 49,
+          "end": 58,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ruth",
+            "book": "ruth",
+            "chapter": 2,
+            "chapterId": "ruth2",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Sam. 22:3",
+          "start": 97,
+          "end": 108,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-sam",
+            "book": "2samuel",
+            "chapter": 22,
+            "chapterId": "2samuel22",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 56:4",
+          "start": 110,
+          "end": 118,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 56,
+            "chapterId": "psalms56",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "91:2",
+          "start": 120,
+          "end": 124,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 91,
+            "chapterId": "psalms91",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Chr. 5:20",
+          "start": 156,
+          "end": 167,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-chr",
+            "book": "1chronicles",
+            "chapter": 5,
+            "chapterId": "1chronicles5",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Job 13:15",
+          "start": 206,
+          "end": 215,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "job",
+            "book": "job",
+            "chapter": 13,
+            "chapterId": "job13",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 2:12",
+          "start": 267,
+          "end": 275,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 2,
+            "chapterId": "psalms2",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 17:7",
+          "start": 277,
+          "end": 286,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 17,
+            "chapterId": "jeremiah17",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 12:1",
+          "start": 288,
+          "end": 297,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 12,
+            "chapterId": "helaman12",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 9:10",
+          "start": 354,
+          "end": 362,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 9,
+            "chapterId": "psalms9",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 20:7",
+          "start": 428,
+          "end": 436,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 20,
+            "chapterId": "psalms20",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 22:4",
+          "start": 467,
+          "end": 475,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 22,
+            "chapterId": "psalms22",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 34:22",
+          "start": 521,
+          "end": 530,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 34,
+            "chapterId": "psalms34",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 36:7",
+          "start": 579,
+          "end": 587,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 36,
+            "chapterId": "psalms36",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 37:3",
+          "start": 621,
+          "end": 629,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 37,
+            "chapterId": "psalms37",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 62:8",
+          "start": 658,
+          "end": 666,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 62,
+            "chapterId": "psalms62",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 64:10",
+          "start": 700,
+          "end": 709,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 64,
+            "chapterId": "psalms64",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 78:22",
+          "start": 749,
+          "end": 758,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 78,
+            "chapterId": "psalms78",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 115:9",
+          "start": 802,
+          "end": 811,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 115,
+            "chapterId": "psalms115",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 118:8",
+          "start": 856,
+          "end": 865,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 118,
+            "chapterId": "psalms118",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 125:1",
+          "start": 915,
+          "end": 924,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 125,
+            "chapterId": "psalms125",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 3:5",
+          "start": 966,
+          "end": 975,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 3,
+            "chapterId": "proverbs3",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 16:20",
+          "start": 1018,
+          "end": 1029,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 16,
+            "chapterId": "proverbs16",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 28:25",
+          "start": 1080,
+          "end": 1091,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 28,
+            "chapterId": "proverbs28",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 29:25",
+          "start": 1138,
+          "end": 1149,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 29,
+            "chapterId": "proverbs29",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 61:13",
+          "start": 1151,
+          "end": 1161,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 61,
+            "chapterId": "alma61",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 50:10",
+          "start": 1203,
+          "end": 1213,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 50,
+            "chapterId": "isaiah50",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 3:28",
+          "start": 1265,
+          "end": 1274,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 3,
+            "chapterId": "daniel3",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Nahum 1:7",
+          "start": 1315,
+          "end": 1324,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "nahum",
+            "book": "nahum",
+            "chapter": 1,
+            "chapterId": "nahum1",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "suffer reproach, because we trust in the living God, 1 Tim. 4:10. I will put my trust in him, Heb. 2:13. holy women also, who trusted in God, 1 Pet. 3:5.",
+      "references": [
+        {
+          "text": "1 Tim. 4:10",
+          "start": 53,
+          "end": 64,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 4,
+            "chapterId": "1timothy4",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 2:13",
+          "start": 94,
+          "end": 103,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 2,
+            "chapterId": "hebrews2",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Pet. 3:5",
+          "start": 142,
+          "end": 152,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-pet",
+            "book": "1peter",
+            "chapter": 3,
+            "chapterId": "1peter3",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "I know in whom I have trusted, 2 Ne. 4:19. I will trust in thee forever, 2 Ne. 4:34. isles … on mine arm shall they trust, 2 Ne. 8:5. God is my salvation; I will trust, 2 Ne. 22:2. Nephi did fortify against them … trusting in the God … of their salvation, Jacob 7:25. salvation might come to him that should put his trust, Mosiah 4:6. rejoice, and put your trust in God, Mosiah 7:19. putteth his trust in him … shall be lifted, Mosiah 23:22. arm of mercy towards them that put their trust in him, Mosiah 29:20. humbled themselves and put their trust in … God, Alma 5:13. Mosiah trusted him unto the Lord, Alma 19:23. shall … trust in God shall be supported, Alma 36:3 (38:5). they do put their trust in God, Alma 57:27. trust in our God who has given us victory, Alma 58:33. know not the God in whom they should trust, Morm. 9:20.",
+      "references": [
+        {
+          "text": "2 Ne. 4:19",
+          "start": 31,
+          "end": 41,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 4,
+            "chapterId": "2nephi4",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 4:34",
+          "start": 73,
+          "end": 83,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 4,
+            "chapterId": "2nephi4",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 8:5",
+          "start": 123,
+          "end": 132,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 8,
+            "chapterId": "2nephi8",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 22:2",
+          "start": 169,
+          "end": 179,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 22,
+            "chapterId": "2nephi22",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jacob 7:25",
+          "start": 256,
+          "end": 266,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 7,
+            "chapterId": "jacob7",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 4:6",
+          "start": 323,
+          "end": 333,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 4,
+            "chapterId": "mosiah4",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 7:19",
+          "start": 371,
+          "end": 382,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 7,
+            "chapterId": "mosiah7",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 23:22",
+          "start": 428,
+          "end": 440,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 23,
+            "chapterId": "mosiah23",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 29:20",
+          "start": 497,
+          "end": 509,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 29,
+            "chapterId": "mosiah29",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 5:13",
+          "start": 560,
+          "end": 569,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 5,
+            "chapterId": "alma5",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 19:23",
+          "start": 605,
+          "end": 615,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 19,
+            "chapterId": "alma19",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 36:3",
+          "start": 658,
+          "end": 667,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 36,
+            "chapterId": "alma36",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "38:5",
+          "start": 669,
+          "end": 673,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 38,
+            "chapterId": "alma38",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 57:27",
+          "start": 708,
+          "end": 718,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 57,
+            "chapterId": "alma57",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 58:33",
+          "start": 763,
+          "end": 773,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 58,
+            "chapterId": "alma58",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 9:20",
+          "start": 819,
+          "end": 829,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 9,
+            "chapterId": "mormon9",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "put your trust in that Spirit which leadeth to do good, D&C 11:12. do it with all humility, trusting in me, D&C 19:30. trust in me and he shall not be confounded, D&C 84:116. confidence wax strong in the presence of God, D&C 121:45.",
+      "references": [
+        {
+          "text": "D&C 11:12",
+          "start": 56,
+          "end": 65,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 11,
+            "chapterId": "doctrineandcovenants11",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 19:30",
+          "start": 108,
+          "end": 117,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 19,
+            "chapterId": "doctrineandcovenants19",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 84:116",
+          "start": 163,
+          "end": 173,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 84,
+            "chapterId": "doctrineandcovenants84",
+            "verses": [
+              {
+                "start": 116,
+                "end": 116
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 121:45",
+          "start": 221,
+          "end": 231,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 45,
+                "end": 45
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-assurance",
+      "slug": "assurance",
+      "title": "Assurance"
+    },
+    {
+      "entryId": "tg-believe",
+      "slug": "believe",
+      "title": "Believe"
+    },
+    {
+      "entryId": "tg-confidence",
+      "slug": "confidence",
+      "title": "Confidence"
+    },
+    {
+      "entryId": "tg-faith",
+      "slug": "faith",
+      "title": "Faith"
+    },
+    {
+      "entryId": "tg-hope",
+      "slug": "hope",
+      "title": "Hope"
+    }
+  ],
+  "slug": "trust-in-god",
+  "title": "Trust in God",
+  "type": "tg"
+}

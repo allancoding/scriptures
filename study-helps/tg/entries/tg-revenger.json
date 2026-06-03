@@ -1,0 +1,79 @@
+{
+  "_id": "tg-revenger",
+  "content": [
+    {
+      "text": "revenger of blood himself shall slay the murderer, Num. 35:19. not suffer the revengers of blood to destroy, 2 Sam. 14:11.",
+      "references": [
+        {
+          "text": "Num. 35:19",
+          "start": 51,
+          "end": 61,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 35,
+            "chapterId": "numbers35",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Sam. 14:11",
+          "start": 109,
+          "end": 121,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-sam",
+            "book": "2samuel",
+            "chapter": 14,
+            "chapterId": "2samuel14",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "revenger to execute wrath upon him that doeth evil, Rom. 13:4.",
+      "references": [
+        {
+          "text": "Rom. 13:4",
+          "start": 52,
+          "end": 61,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 13,
+            "chapterId": "romans13",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-avenger",
+      "slug": "avenger",
+      "title": "Avenger"
+    }
+  ],
+  "slug": "revenger",
+  "title": "Revenger",
+  "type": "tg"
+}

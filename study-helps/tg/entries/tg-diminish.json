@@ -1,0 +1,120 @@
+{
+  "_id": "tg-diminish",
+  "content": [
+    {
+      "text": "tale of the bricks … ye shall not diminish ought thereof, Ex. 5:8. not add unto the word … neither shall ye diminish, Deut. 4:2. thou shalt not add thereto, nor diminish, Deut. 12:32. diminish not a word, Jer. 26:2.",
+      "references": [
+        {
+          "text": "Ex. 5:8",
+          "start": 58,
+          "end": 65,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 5,
+            "chapterId": "exodus5",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 4:2",
+          "start": 118,
+          "end": 127,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 4,
+            "chapterId": "deuteronomy4",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 12:32",
+          "start": 171,
+          "end": 182,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 12,
+            "chapterId": "deuteronomy12",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 26:2",
+          "start": 205,
+          "end": 214,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 26,
+            "chapterId": "jeremiah26",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "diminishing of them the riches of the Gentiles, Rom. 11:12.",
+      "references": [
+        {
+          "text": "Rom. 11:12",
+          "start": 48,
+          "end": 58,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 11,
+            "chapterId": "romans11",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-abate",
+      "slug": "abate",
+      "title": "Abate"
+    },
+    {
+      "entryId": "tg-decrease",
+      "slug": "decrease",
+      "title": "Decrease"
+    }
+  ],
+  "slug": "diminish",
+  "title": "Diminish",
+  "type": "tg"
+}

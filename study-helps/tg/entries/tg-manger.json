@@ -1,0 +1,32 @@
+{
+  "_id": "tg-manger",
+  "content": [
+    {
+      "text": "laid him in a manger, Luke 2:7.",
+      "references": [
+        {
+          "text": "Luke 2:7",
+          "start": 22,
+          "end": 30,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 2,
+            "chapterId": "luke2",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "manger",
+  "title": "Manger",
+  "type": "tg"
+}

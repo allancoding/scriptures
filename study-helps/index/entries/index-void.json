@@ -1,0 +1,88 @@
+{
+  "_id": "index-void",
+  "content": [
+    {
+      "text": "if Adam had partaken of tree of life, there would have been no death, word would have been void, Alma 12:23, 26 (42:5).",
+      "references": [
+        {
+          "text": "Alma 12:23, 26",
+          "start": 97,
+          "end": 111,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 12,
+            "chapterId": "alma12",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              },
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "42:5",
+          "start": 113,
+          "end": 117,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 42,
+            "chapterId": "alma42",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Joseph Smith’s conscience void of offense toward God, D&C 135:4.",
+      "references": [
+        {
+          "text": "D&C 135:4",
+          "start": 54,
+          "end": 63,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 135,
+            "chapterId": "doctrineandcovenants135",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-empty",
+      "slug": "empty",
+      "title": "Empty"
+    },
+    {
+      "entryId": "index-valid",
+      "slug": "valid",
+      "title": "Valid"
+    }
+  ],
+  "slug": "void",
+  "title": "Void",
+  "type": "index"
+}

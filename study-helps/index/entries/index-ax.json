@@ -1,0 +1,68 @@
+{
+  "_id": "index-ax",
+  "content": [
+    {
+      "text": "Lamanites have skill with ax, Enos 1:20 (Morm. 6:9). ax is laid at root of tree, Alma 5:52.",
+      "references": [
+        {
+          "text": "Enos 1:20",
+          "start": 30,
+          "end": 39,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "enos",
+            "book": "enos",
+            "chapter": 1,
+            "chapterId": "enos1",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 6:9",
+          "start": 41,
+          "end": 50,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 6,
+            "chapterId": "mormon6",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 5:52",
+          "start": 81,
+          "end": 90,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 5,
+            "chapterId": "alma5",
+            "verses": [
+              {
+                "start": 52,
+                "end": 52
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "ax",
+  "title": "Ax",
+  "type": "index"
+}

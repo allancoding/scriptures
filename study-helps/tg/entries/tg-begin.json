@@ -1,0 +1,55 @@
+{
+  "_id": "tg-begin",
+  "content": [
+    {
+      "text": "when I begin, I will also make an end, 1 Sam. 3:12.",
+      "references": [
+        {
+          "text": "1 Sam. 3:12",
+          "start": 39,
+          "end": 50,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 3,
+            "chapterId": "1samuel3",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "judgment must begin at the house of God, 1 Pet. 4:17.",
+      "references": [
+        {
+          "text": "1 Pet. 4:17",
+          "start": 41,
+          "end": 52,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-pet",
+            "book": "1peter",
+            "chapter": 4,
+            "chapterId": "1peter4",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "begin",
+  "title": "Begin, Begun",
+  "type": "tg"
+}

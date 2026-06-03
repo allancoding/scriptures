@@ -1,0 +1,97 @@
+{
+  "_id": "tg-lad",
+  "content": [
+    {
+      "text": "grievous in thy sight because of the lad, Gen. 21:12. up to my father, and the lad be not with me, Gen. 44:34. Angel which redeemed me … bless the lads, Gen. 48:16.",
+      "references": [
+        {
+          "text": "Gen. 21:12",
+          "start": 42,
+          "end": 52,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 21,
+            "chapterId": "genesis21",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 44:34",
+          "start": 99,
+          "end": 109,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 44,
+            "chapterId": "genesis44",
+            "verses": [
+              {
+                "start": 34,
+                "end": 34
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 48:16",
+          "start": 153,
+          "end": 163,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 48,
+            "chapterId": "genesis48",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "found favor in thy sight, and am but a lad, Moses 6:31.",
+      "references": [
+        {
+          "text": "Moses 6:31",
+          "start": 44,
+          "end": 54,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 6,
+            "chapterId": "moses6",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-child",
+      "slug": "child",
+      "title": "Child"
+    }
+  ],
+  "slug": "lad",
+  "title": "Lad",
+  "type": "tg"
+}

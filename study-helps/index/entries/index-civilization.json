@@ -1,0 +1,50 @@
+{
+  "_id": "index-civilization",
+  "content": [
+    {
+      "text": "Moroni1 subjects his people to peace and civilization, Alma 51:22. Nephites are without civilization, Moro. 9:11.",
+      "references": [
+        {
+          "text": "Alma 51:22",
+          "start": 55,
+          "end": 65,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 51,
+            "chapterId": "alma51",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moro. 9:11",
+          "start": 102,
+          "end": 112,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "moro",
+            "book": "moroni",
+            "chapter": 9,
+            "chapterId": "moroni9",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "civilization",
+  "title": "Civilization",
+  "type": "index"
+}

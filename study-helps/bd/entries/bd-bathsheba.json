@@ -1,0 +1,94 @@
+{
+  "_id": "bd-bathsheba",
+  "content": [
+    {
+      "text": "Wife of Uriah. David’s sin with, 2 Sam. 11–12; mother of Solomon, 12:24; 1 Kgs. 1:11–31; 2:13–19; Ps. 51 heading; granddaughter of Ahithophel.",
+      "references": [
+        {
+          "text": "2 Sam. 11–12",
+          "start": 33,
+          "end": 45,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-sam",
+            "book": "2samuel",
+            "chapter": 11,
+            "chapterId": "2samuel11",
+            "verses": []
+          }
+        },
+        {
+          "text": "12:24",
+          "start": 66,
+          "end": 71,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-sam",
+            "book": "2samuel",
+            "chapter": 12,
+            "chapterId": "2samuel12",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Kgs. 1:11–31",
+          "start": 73,
+          "end": 87,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 1,
+            "chapterId": "1kings1",
+            "verses": [
+              {
+                "start": 11,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "2:13–19",
+          "start": 89,
+          "end": 96,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 2,
+            "chapterId": "1kings2",
+            "verses": [
+              {
+                "start": 13,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 51 heading",
+          "start": 98,
+          "end": 112,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 51,
+            "chapterId": "psalms51",
+            "verses": []
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "bathsheba",
+  "title": "Bathsheba",
+  "type": "bd"
+}

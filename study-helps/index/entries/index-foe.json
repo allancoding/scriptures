@@ -1,0 +1,43 @@
+{
+  "_id": "index-foe",
+  "content": [
+    {
+      "text": "Joseph Smith to triumph over all foes, D&C 121:8.",
+      "references": [
+        {
+          "text": "D&C 121:8",
+          "start": 39,
+          "end": 48,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-adversary",
+      "slug": "adversary",
+      "title": "Adversary"
+    },
+    {
+      "entryId": "index-enemy",
+      "slug": "enemy",
+      "title": "Enemy"
+    }
+  ],
+  "slug": "foe",
+  "title": "Foe",
+  "type": "index"
+}

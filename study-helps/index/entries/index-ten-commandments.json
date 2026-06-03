@@ -1,0 +1,56 @@
+{
+  "_id": "index-ten-commandments",
+  "content": [
+    {
+      "text": "Abinadi teaches Ten Commandments, Mosiah 12:33–36; 13:12–24.",
+      "references": [
+        {
+          "text": "Mosiah 12:33–36",
+          "start": 34,
+          "end": 49,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 12,
+            "chapterId": "mosiah12",
+            "verses": [
+              {
+                "start": 33,
+                "end": 36
+              }
+            ]
+          }
+        },
+        {
+          "text": "13:12–24",
+          "start": 51,
+          "end": 59,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 13,
+            "chapterId": "mosiah13",
+            "verses": [
+              {
+                "start": 12,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-commandments-of-god",
+      "slug": "commandments-of-god",
+      "title": "Commandments of God"
+    }
+  ],
+  "slug": "ten-commandments",
+  "title": "Ten Commandments",
+  "type": "index"
+}

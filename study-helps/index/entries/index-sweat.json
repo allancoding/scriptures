@@ -1,0 +1,50 @@
+{
+  "_id": "index-sweat",
+  "content": [
+    {
+      "text": "by sweat of thy face shalt thou eat bread, Moses 4:25 (5:1).",
+      "references": [
+        {
+          "text": "Moses 4:25",
+          "start": 43,
+          "end": 53,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 4,
+            "chapterId": "moses4",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "5:1",
+          "start": 55,
+          "end": 58,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 5,
+            "chapterId": "moses5",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "sweat",
+  "title": "Sweat",
+  "type": "index"
+}

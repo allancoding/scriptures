@@ -1,0 +1,38 @@
+{
+  "_id": "index-boundaries",
+  "content": [
+    {
+      "text": "boundaries of everlasting hills to tremble, D&C 133:31.",
+      "references": [
+        {
+          "text": "D&C 133:31",
+          "start": 44,
+          "end": 54,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 133,
+            "chapterId": "doctrineandcovenants133",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-borders",
+      "slug": "borders",
+      "title": "Borders"
+    }
+  ],
+  "slug": "boundaries",
+  "title": "Boundaries",
+  "type": "index"
+}

@@ -1,0 +1,202 @@
+{
+  "_id": "tg-weight",
+  "content": [
+    {
+      "text": "Just balances, just weights … shall ye have, Lev. 19:36. Thou shalt not have in thy bag divers weights, Deut. 25:13. just weight is his delight, Prov. 11:1. just weight and balance are the Lord’s, Prov. 16:11.",
+      "references": [
+        {
+          "text": "Lev. 19:36",
+          "start": 45,
+          "end": 55,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 19,
+            "chapterId": "leviticus19",
+            "verses": [
+              {
+                "start": 36,
+                "end": 36
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 25:13",
+          "start": 104,
+          "end": 115,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 25,
+            "chapterId": "deuteronomy25",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 11:1",
+          "start": 145,
+          "end": 155,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 11,
+            "chapterId": "proverbs11",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 16:11",
+          "start": 197,
+          "end": 208,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 16,
+            "chapterId": "proverbs16",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "more exceeding and eternal weight of glory, 2 Cor. 4:17 (D&C 63:66; 132:16). let us lay aside every weight, and the sin, Heb. 12:1.",
+      "references": [
+        {
+          "text": "2 Cor. 4:17",
+          "start": 44,
+          "end": 55,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 4,
+            "chapterId": "2corinthians4",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 63:66",
+          "start": 57,
+          "end": 66,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 63,
+            "chapterId": "doctrineandcovenants63",
+            "verses": [
+              {
+                "start": 66,
+                "end": 66
+              }
+            ]
+          }
+        },
+        {
+          "text": "132:16",
+          "start": 68,
+          "end": 74,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 132,
+            "chapterId": "doctrineandcovenants132",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 12:1",
+          "start": 121,
+          "end": 130,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 12,
+            "chapterId": "hebrews12",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "earth groans under the weight of its iniquity, D&C 123:7.",
+      "references": [
+        {
+          "text": "D&C 123:7",
+          "start": 47,
+          "end": 56,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 123,
+            "chapterId": "doctrineandcovenants123",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-measure",
+      "slug": "measure",
+      "title": "Measure"
+    },
+    {
+      "entryId": "tg-weigh",
+      "slug": "weigh",
+      "title": "Weigh"
+    },
+    {
+      "entryId": "tg-weighty",
+      "slug": "weighty",
+      "title": "Weighty"
+    }
+  ],
+  "slug": "weight",
+  "title": "Weight",
+  "type": "tg"
+}

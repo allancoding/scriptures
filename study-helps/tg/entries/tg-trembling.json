@@ -1,0 +1,120 @@
+{
+  "_id": "tg-trembling",
+  "content": [
+    {
+      "text": "I was with you in weakness … and in much trembling, 1 Cor. 2:3. Servants, be obedient … with fear and trembling, Eph. 6:5. work out your own salvation with fear and trembling, Philip. 2:12 (Morm. 9:27).",
+      "references": [
+        {
+          "text": "1 Cor. 2:3",
+          "start": 52,
+          "end": 62,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 2,
+            "chapterId": "1corinthians2",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eph. 6:5",
+          "start": 113,
+          "end": 121,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "eph",
+            "book": "ephesians",
+            "chapter": 6,
+            "chapterId": "ephesians6",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Philip. 2:12",
+          "start": 176,
+          "end": 188,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "philip",
+            "book": "philippians",
+            "chapter": 2,
+            "chapterId": "philippians2",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 9:27",
+          "start": 190,
+          "end": 200,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 9,
+            "chapterId": "mormon9",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "hear the words of a trembling parent, 2 Ne. 1:14.",
+      "references": [
+        {
+          "text": "2 Ne. 1:14",
+          "start": 38,
+          "end": 48,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 1,
+            "chapterId": "2nephi1",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-fear",
+      "slug": "fear",
+      "title": "Fear"
+    },
+    {
+      "entryId": "tg-tremble",
+      "slug": "tremble",
+      "title": "Tremble"
+    }
+  ],
+  "slug": "trembling",
+  "title": "Trembling",
+  "type": "tg"
+}

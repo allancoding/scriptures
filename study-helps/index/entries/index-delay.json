@@ -1,0 +1,61 @@
+{
+  "_id": "index-delay",
+  "content": [
+    {
+      "text": "ye need not say the Lord delays his coming, 3 Ne. 29:2.",
+      "references": [
+        {
+          "text": "3 Ne. 29:2",
+          "start": 44,
+          "end": 54,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 29,
+            "chapterId": "3nephi29",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "men shall say Christ delays his coming, D&C 45:26.",
+      "references": [
+        {
+          "text": "D&C 45:26",
+          "start": 40,
+          "end": 49,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 45,
+            "chapterId": "doctrineandcovenants45",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-procrastinate",
+      "slug": "procrastinate",
+      "title": "Procrastinate"
+    }
+  ],
+  "slug": "delay",
+  "title": "Delay",
+  "type": "index"
+}

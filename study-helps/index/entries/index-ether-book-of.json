@@ -1,0 +1,50 @@
+{
+  "_id": "index-ether-book-of",
+  "content": [
+    {
+      "text": "quotation from, D&C 135:4–5 (Ether 12:36–38).",
+      "references": [
+        {
+          "text": "D&C 135:4–5",
+          "start": 16,
+          "end": 27,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 135,
+            "chapterId": "doctrineandcovenants135",
+            "verses": [
+              {
+                "start": 4,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 12:36–38",
+          "start": 29,
+          "end": 43,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 12,
+            "chapterId": "ether12",
+            "verses": [
+              {
+                "start": 36,
+                "end": 38
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "ether-book-of",
+  "title": "Ether, Book of",
+  "type": "index"
+}

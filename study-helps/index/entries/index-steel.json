@@ -1,0 +1,110 @@
+{
+  "_id": "index-steel",
+  "content": [
+    {
+      "text": "Laban’s sword is of most precious steel, 1 Ne. 4:9. Nephi1 breaks his bow, made of fine steel, 1 Ne. 16:18. Nephi1 teaches his people to work in steel, 2 Ne. 5:15 (Jarom 1:8). Shule makes swords of steel, Ether 7:9.",
+      "references": [
+        {
+          "text": "1 Ne. 4:9",
+          "start": 41,
+          "end": 50,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 4,
+            "chapterId": "1nephi4",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Ne. 16:18",
+          "start": 95,
+          "end": 106,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 16,
+            "chapterId": "1nephi16",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 5:15",
+          "start": 152,
+          "end": 162,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 5,
+            "chapterId": "2nephi5",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jarom 1:8",
+          "start": 164,
+          "end": 173,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jarom",
+            "book": "jarom",
+            "chapter": 1,
+            "chapterId": "jarom1",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 7:9",
+          "start": 205,
+          "end": 214,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 7,
+            "chapterId": "ether7",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-metal",
+      "slug": "metal",
+      "title": "Metal"
+    }
+  ],
+  "slug": "steel",
+  "title": "Steel",
+  "type": "index"
+}

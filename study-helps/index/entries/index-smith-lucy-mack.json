@@ -1,0 +1,72 @@
+{
+  "_id": "index-smith-lucy-mack",
+  "content": [
+    {
+      "text": "mother of Joseph Smith, JS—H 1:4, 20. joins Presbyterian faith, JS—H 1:7. is told by son that Presbyterianism is not true, JS—H 1:20.",
+      "references": [
+        {
+          "text": "JS—H 1:4, 20",
+          "start": 24,
+          "end": 36,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              },
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "JS—H 1:7",
+          "start": 64,
+          "end": 72,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "JS—H 1:20",
+          "start": 123,
+          "end": 132,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "smith-lucy-mack",
+  "title": "Smith, Lucy Mack",
+  "type": "index"
+}

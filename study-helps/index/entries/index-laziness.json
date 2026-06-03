@@ -1,0 +1,66 @@
+{
+  "_id": "index-laziness",
+  "content": [
+    {
+      "text": "Lamanites are lazy and idolatrous, Mosiah 9:12. priests of Noah3 are supported in laziness by taxes, Mosiah 11:6.",
+      "references": [
+        {
+          "text": "Mosiah 9:12",
+          "start": 35,
+          "end": 46,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 9,
+            "chapterId": "mosiah9",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 11:6",
+          "start": 101,
+          "end": 112,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 11,
+            "chapterId": "mosiah11",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-idleness",
+      "slug": "idleness",
+      "title": "Idleness"
+    },
+    {
+      "entryId": "index-labor",
+      "slug": "labor",
+      "title": "Labor"
+    },
+    {
+      "entryId": "index-slothful",
+      "slug": "slothful",
+      "title": "Slothful"
+    }
+  ],
+  "slug": "laziness",
+  "title": "Laziness, Lazy",
+  "type": "index"
+}

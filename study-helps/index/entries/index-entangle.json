@@ -1,0 +1,50 @@
+{
+  "_id": "index-entangle",
+  "content": [
+    {
+      "text": "Joseph Smith entangled again in vanities of world, D&C 20:5. entangle not yourselves in sin, D&C 88:86.",
+      "references": [
+        {
+          "text": "D&C 20:5",
+          "start": 51,
+          "end": 59,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 20,
+            "chapterId": "doctrineandcovenants20",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 88:86",
+          "start": 93,
+          "end": 102,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 86,
+                "end": 86
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "entangle",
+  "title": "Entangle",
+  "type": "index"
+}

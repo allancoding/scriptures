@@ -1,0 +1,68 @@
+{
+  "_id": "index-lamech-2",
+  "content": [
+    {
+      "text": "son of Methuselah, Moses 8:5–6. father of Noah1, Moses 8:8–10. lives 777 years and dies, Moses 8:11.",
+      "references": [
+        {
+          "text": "Moses 8:5–6",
+          "start": 19,
+          "end": 30,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 8,
+            "chapterId": "moses8",
+            "verses": [
+              {
+                "start": 5,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 8:8–10",
+          "start": 49,
+          "end": 61,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 8,
+            "chapterId": "moses8",
+            "verses": [
+              {
+                "start": 8,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 8:11",
+          "start": 89,
+          "end": 99,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 8,
+            "chapterId": "moses8",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "lamech-2",
+  "title": "Lamech2—father of Noah1",
+  "type": "index"
+}

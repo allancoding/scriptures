@@ -1,0 +1,38 @@
+{
+  "_id": "tg-uncorruptible",
+  "content": [
+    {
+      "text": "changed the glory of the uncorruptible God into an image made like to corruptible man, Rom. 1:23.",
+      "references": [
+        {
+          "text": "Rom. 1:23",
+          "start": 87,
+          "end": 96,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 1,
+            "chapterId": "romans1",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-incorruptible",
+      "slug": "incorruptible",
+      "title": "Incorruptible"
+    }
+  ],
+  "slug": "uncorruptible",
+  "title": "Uncorruptible",
+  "type": "tg"
+}

@@ -1,0 +1,50 @@
+{
+  "_id": "index-heth-2",
+  "content": [
+    {
+      "text": "ancestor of Aaron2, son of Hearthom, Ether 1:16. lives in captivity, Ether 10:31.",
+      "references": [
+        {
+          "text": "Ether 1:16",
+          "start": 37,
+          "end": 47,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 1,
+            "chapterId": "ether1",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 10:31",
+          "start": 69,
+          "end": 80,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 10,
+            "chapterId": "ether10",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "heth-2",
+  "title": "Heth2—middle Jaredite",
+  "type": "index"
+}

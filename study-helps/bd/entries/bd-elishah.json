@@ -1,0 +1,50 @@
+{
+  "_id": "bd-elishah",
+  "content": [
+    {
+      "text": "A son of Javan (Gen. 10:4; see also Ezek. 27:7); the country so called is probably the mainland of Greece.",
+      "references": [
+        {
+          "text": "Gen. 10:4",
+          "start": 16,
+          "end": 25,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 10,
+            "chapterId": "genesis10",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 27:7",
+          "start": 36,
+          "end": 46,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 27,
+            "chapterId": "ezekiel27",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "elishah",
+  "title": "Elishah",
+  "type": "bd"
+}

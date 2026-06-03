@@ -1,0 +1,61 @@
+{
+  "_id": "index-necessity",
+  "content": [
+    {
+      "text": "if Saints receive more than is needful for necessities, it should be given to storehouse, D&C 70:7. in day of trouble, of necessity Saints feel after the Lord, D&C 101:8.",
+      "references": [
+        {
+          "text": "D&C 70:7",
+          "start": 90,
+          "end": 98,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 70,
+            "chapterId": "doctrineandcovenants70",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 101:8",
+          "start": 160,
+          "end": 169,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 101,
+            "chapterId": "doctrineandcovenants101",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-need",
+      "slug": "need",
+      "title": "Need"
+    },
+    {
+      "entryId": "index-needful",
+      "slug": "needful",
+      "title": "Needful"
+    }
+  ],
+  "slug": "necessity",
+  "title": "Necessity",
+  "type": "index"
+}

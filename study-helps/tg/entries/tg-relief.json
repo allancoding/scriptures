@@ -1,0 +1,194 @@
+{
+  "_id": "tg-relief",
+  "content": [
+    {
+      "text": "Lord … relieveth the fatherless and widow, Ps. 146:9. seek judgment, relieve the oppressed, Isa. 1:17.",
+      "references": [
+        {
+          "text": "Ps. 146:9",
+          "start": 43,
+          "end": 52,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 146,
+            "chapterId": "psalms146",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 1:17",
+          "start": 92,
+          "end": 101,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 1,
+            "chapterId": "isaiah1",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "determined to send relief unto the brethren, Acts 11:29. if she have relieved the afflicted, 1 Tim. 5:10. If any man or woman that believeth have widows, let them relieve them, 1 Tim. 5:16.",
+      "references": [
+        {
+          "text": "Acts 11:29",
+          "start": 45,
+          "end": 55,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 11,
+            "chapterId": "acts11",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Tim. 5:10",
+          "start": 93,
+          "end": 104,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 5,
+            "chapterId": "1timothy5",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Tim. 5:16",
+          "start": 177,
+          "end": 188,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 5,
+            "chapterId": "1timothy5",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "administer relief to the sick and the afflicted, Jacob 2:19. visiting the sick and administering to their relief, Mosiah 4:26.",
+      "references": [
+        {
+          "text": "Jacob 2:19",
+          "start": 49,
+          "end": 59,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 2,
+            "chapterId": "jacob2",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 4:26",
+          "start": 114,
+          "end": 125,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 4,
+            "chapterId": "mosiah4",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "they shall … administer to their relief, D&C 38:35.",
+      "references": [
+        {
+          "text": "D&C 38:35",
+          "start": 41,
+          "end": 50,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 38,
+            "chapterId": "doctrineandcovenants38",
+            "verses": [
+              {
+                "start": 35,
+                "end": 35
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-almsgiving",
+      "slug": "almsgiving",
+      "title": "Almsgiving"
+    },
+    {
+      "entryId": "tg-charity",
+      "slug": "charity",
+      "title": "Charity"
+    },
+    {
+      "entryId": "tg-service",
+      "slug": "service",
+      "title": "Service"
+    },
+    {
+      "entryId": "tg-welfare",
+      "slug": "welfare",
+      "title": "Welfare"
+    }
+  ],
+  "slug": "relief",
+  "title": "Relief, Relieve",
+  "type": "tg"
+}

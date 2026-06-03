@@ -1,0 +1,96 @@
+{
+  "_id": "tg-verify",
+  "content": [
+    {
+      "text": "shall your words be verified, Gen. 42:20.",
+      "references": [
+        {
+          "text": "Gen. 42:20",
+          "start": 30,
+          "end": 40,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 42,
+            "chapterId": "genesis42",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "word of the Lord was verified, Jarom 1:9 (Alma 9:14).",
+      "references": [
+        {
+          "text": "Jarom 1:9",
+          "start": 31,
+          "end": 40,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jarom",
+            "book": "jarom",
+            "chapter": 1,
+            "chapterId": "jarom1",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 9:14",
+          "start": 42,
+          "end": 51,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 9,
+            "chapterId": "alma9",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "my word shall be verified, D&C 5:20.",
+      "references": [
+        {
+          "text": "D&C 5:20",
+          "start": 27,
+          "end": 35,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 5,
+            "chapterId": "doctrineandcovenants5",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "verify",
+  "title": "Verify",
+  "type": "tg"
+}

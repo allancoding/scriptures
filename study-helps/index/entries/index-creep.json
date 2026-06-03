@@ -1,0 +1,115 @@
+{
+  "_id": "index-creep",
+  "content": [
+    {
+      "text": "four beasts represent happiness of man, beast, creeping things, D&C 77:2 (Rev. 4:6). grain is ordained for use of wild animals that run or creep, D&C 89:14.",
+      "references": [
+        {
+          "text": "D&C 77:2",
+          "start": 64,
+          "end": 72,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 77,
+            "chapterId": "doctrineandcovenants77",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 4:6",
+          "start": 74,
+          "end": 82,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 4,
+            "chapterId": "revelation4",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 89:14",
+          "start": 146,
+          "end": 155,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 89,
+            "chapterId": "doctrineandcovenants89",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "creation of everything that creeps upon earth, Moses 2:25 (Abr. 4:25).",
+      "references": [
+        {
+          "text": "Moses 2:25",
+          "start": 47,
+          "end": 57,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 2,
+            "chapterId": "moses2",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Abr. 4:25",
+          "start": 59,
+          "end": 68,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 4,
+            "chapterId": "abraham4",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-animal",
+      "slug": "animal",
+      "title": "Animal"
+    }
+  ],
+  "slug": "creep",
+  "title": "Creep, Creeping",
+  "type": "index"
+}

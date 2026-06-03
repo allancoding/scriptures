@@ -1,0 +1,169 @@
+{
+  "_id": "tg-weigh",
+  "content": [
+    {
+      "text": "Let me be weighed in an even balance, Job 31:6. Lord weigheth the spirits, Prov. 16:2. dost weigh the path of the just, Isa. 26:7. Thou art weighed in the balances, Dan. 5:27.",
+      "references": [
+        {
+          "text": "Job 31:6",
+          "start": 38,
+          "end": 46,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "job",
+            "book": "job",
+            "chapter": 31,
+            "chapterId": "job31",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 16:2",
+          "start": 75,
+          "end": 85,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 16,
+            "chapterId": "proverbs16",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 26:7",
+          "start": 120,
+          "end": 129,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 26,
+            "chapterId": "isaiah26",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 5:27",
+          "start": 165,
+          "end": 174,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 5,
+            "chapterId": "daniel5",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "My heart hath been weighed down with sorrow, 2 Ne. 1:17. I this day am weighed down, Jacob 2:3. he was … weighed down with sorrow, Alma 8:14. may not the things which I have written grieve thee, to weigh thee down, Moro. 9:25.",
+      "references": [
+        {
+          "text": "2 Ne. 1:17",
+          "start": 45,
+          "end": 55,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 1,
+            "chapterId": "2nephi1",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jacob 2:3",
+          "start": 85,
+          "end": 94,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 2,
+            "chapterId": "jacob2",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 8:14",
+          "start": 131,
+          "end": 140,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 8,
+            "chapterId": "alma8",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moro. 9:25",
+          "start": 215,
+          "end": 225,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "moro",
+            "book": "moroni",
+            "chapter": 9,
+            "chapterId": "moroni9",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-weight",
+      "slug": "weight",
+      "title": "Weight"
+    }
+  ],
+  "slug": "weigh",
+  "title": "Weigh",
+  "type": "tg"
+}

@@ -1,0 +1,91 @@
+{
+  "_id": "tg-hyssop",
+  "content": [
+    {
+      "text": "bunch of hyssop, and dip it in the blood, Ex. 12:22. Purge me with hyssop, and I shall be clean, Ps. 51:7.",
+      "references": [
+        {
+          "text": "Ex. 12:22",
+          "start": 42,
+          "end": 51,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 12,
+            "chapterId": "exodus12",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 51:7",
+          "start": 97,
+          "end": 105,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 51,
+            "chapterId": "psalms51",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "put it upon hyssop, and put it to his mouth, John 19:29. took the blood … with water, and scarlet wool, and hyssop, and sprinkled, Heb. 9:19.",
+      "references": [
+        {
+          "text": "John 19:29",
+          "start": 45,
+          "end": 55,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 19,
+            "chapterId": "john19",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 9:19",
+          "start": 131,
+          "end": 140,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 9,
+            "chapterId": "hebrews9",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "hyssop",
+  "title": "Hyssop",
+  "type": "tg"
+}

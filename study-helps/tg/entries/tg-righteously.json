@@ -1,0 +1,115 @@
+{
+  "_id": "tg-righteously",
+  "content": [
+    {
+      "text": "judge righteously between every man and his brother, Deut. 1:16. thou shalt judge the people righteously, Ps. 67:4. He that walketh righteously, Isa. 33:15.",
+      "references": [
+        {
+          "text": "Deut. 1:16",
+          "start": 53,
+          "end": 63,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 1,
+            "chapterId": "deuteronomy1",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 67:4",
+          "start": 106,
+          "end": 114,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 67,
+            "chapterId": "psalms67",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 33:15",
+          "start": 145,
+          "end": 155,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 33,
+            "chapterId": "isaiah33",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "we should live soberly, righteously, Titus 2:12. committed himself to him that judgeth righteously, 1 Pet. 2:23.",
+      "references": [
+        {
+          "text": "Titus 2:12",
+          "start": 37,
+          "end": 47,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "titus",
+            "book": "titus",
+            "chapter": 2,
+            "chapterId": "titus2",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Pet. 2:23",
+          "start": 100,
+          "end": 111,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-pet",
+            "book": "1peter",
+            "chapter": 2,
+            "chapterId": "1peter2",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-uprightly",
+      "slug": "uprightly",
+      "title": "Uprightly"
+    }
+  ],
+  "slug": "righteously",
+  "title": "Righteously",
+  "type": "tg"
+}

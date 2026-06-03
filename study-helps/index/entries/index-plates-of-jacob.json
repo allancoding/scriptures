@@ -1,0 +1,43 @@
+{
+  "_id": "index-plates-of-jacob",
+  "content": [
+    {
+      "text": "Jacob2 writes upon plates called plates of Jacob, made by Nephi1, Jacob 3:14.",
+      "references": [
+        {
+          "text": "Jacob 3:14",
+          "start": 66,
+          "end": 76,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 3,
+            "chapterId": "jacob3",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-jacob-2",
+      "slug": "jacob-2",
+      "title": "Jacob2"
+    },
+    {
+      "entryId": "index-plates-of-nephi-small",
+      "slug": "plates-of-nephi-small",
+      "title": "Plates of Nephi, Small"
+    }
+  ],
+  "slug": "plates-of-jacob",
+  "title": "Plates of Jacob",
+  "type": "index"
+}

@@ -1,0 +1,151 @@
+{
+  "_id": "index-store",
+  "content": [
+    {
+      "text": "Nephites have laid up much provision in store, 3 Ne. 4:18. robbers lay up gold and silver in store, 4 Ne. 1:46.",
+      "references": [
+        {
+          "text": "3 Ne. 4:18",
+          "start": 47,
+          "end": 57,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 4,
+            "chapterId": "3nephi4",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "4 Ne. 1:46",
+          "start": 100,
+          "end": 110,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "4-ne",
+            "book": "4nephi",
+            "chapter": 1,
+            "chapterId": "4nephi1",
+            "verses": [
+              {
+                "start": 46,
+                "end": 46
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "he who thrusts in sickle lays up in store that he perishes not, D&C 4:4. Sidney Gilbert to establish store, D&C 57:8. Newel K. Whitney to retain store, D&C 63:42. Newel K. Whitney and Sidney Gilbert not to sell store, D&C 64:26. agent to be man with riches in store, D&C 90:22.",
+      "references": [
+        {
+          "text": "D&C 4:4",
+          "start": 64,
+          "end": 71,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 4,
+            "chapterId": "doctrineandcovenants4",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 57:8",
+          "start": 108,
+          "end": 116,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 57,
+            "chapterId": "doctrineandcovenants57",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 63:42",
+          "start": 152,
+          "end": 161,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 63,
+            "chapterId": "doctrineandcovenants63",
+            "verses": [
+              {
+                "start": 42,
+                "end": 42
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 64:26",
+          "start": 218,
+          "end": 227,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 64,
+            "chapterId": "doctrineandcovenants64",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 90:22",
+          "start": 267,
+          "end": 276,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 90,
+            "chapterId": "doctrineandcovenants90",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-storehouse",
+      "slug": "storehouse",
+      "title": "Storehouse"
+    }
+  ],
+  "slug": "store",
+  "title": "Store",
+  "type": "index"
+}

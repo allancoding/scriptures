@@ -1,0 +1,38 @@
+{
+  "_id": "index-clap",
+  "content": [
+    {
+      "text": "Alma2 clapped his hands upon them, and they were filled with the Spirit, Alma 31:36.",
+      "references": [
+        {
+          "text": "Alma 31:36",
+          "start": 73,
+          "end": 83,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 31,
+            "chapterId": "alma31",
+            "verses": [
+              {
+                "start": 36,
+                "end": 36
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-hands-laying-on-of",
+      "slug": "hands-laying-on-of",
+      "title": "Hands, Laying on of"
+    }
+  ],
+  "slug": "clap",
+  "title": "Clap",
+  "type": "index"
+}

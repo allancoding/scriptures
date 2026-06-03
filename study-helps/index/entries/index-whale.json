@@ -1,0 +1,97 @@
+{
+  "_id": "index-whale",
+  "content": [
+    {
+      "text": "Jaredite vessels shall be as whale in midst of sea, Ether 2:24. whale could not mar Jaredite vessels, Ether 6:10.",
+      "references": [
+        {
+          "text": "Ether 2:24",
+          "start": 52,
+          "end": 62,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 2,
+            "chapterId": "ether2",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 6:10",
+          "start": 102,
+          "end": 112,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 6,
+            "chapterId": "ether6",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "God created great whales, Moses 2:21 (Abr. 4:21).",
+      "references": [
+        {
+          "text": "Moses 2:21",
+          "start": 26,
+          "end": 36,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 2,
+            "chapterId": "moses2",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Abr. 4:21",
+          "start": 38,
+          "end": 47,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 4,
+            "chapterId": "abraham4",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-animal",
+      "slug": "animal",
+      "title": "Animal"
+    }
+  ],
+  "slug": "whale",
+  "title": "Whale",
+  "type": "index"
+}

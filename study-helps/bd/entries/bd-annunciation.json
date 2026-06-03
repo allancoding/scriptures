@@ -1,0 +1,32 @@
+{
+  "_id": "bd-annunciation",
+  "content": [
+    {
+      "text": "The message brought by the angel Gabriel to Mary announcing the Savior’s birth (Luke 1:26–35).",
+      "references": [
+        {
+          "text": "Luke 1:26–35",
+          "start": 80,
+          "end": 92,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 1,
+            "chapterId": "luke1",
+            "verses": [
+              {
+                "start": 26,
+                "end": 35
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "annunciation",
+  "title": "Annunciation",
+  "type": "bd"
+}

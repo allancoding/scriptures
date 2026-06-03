@@ -1,0 +1,554 @@
+{
+  "_id": "tg-err",
+  "content": [
+    {
+      "text": "concerning his ignorance wherein he erred, Lev. 5:18. if ye have erred, and not observed, Num. 15:22. Manasseh made Judah … to err, 2 Chr. 33:9. people that do err in their heart, Ps. 95:10 (Heb. 3:10). proud … do err from thy commandments, Ps. 119:21. I erred not from thy precepts, Ps. 119:110. he that refuseth reproof erreth, Prov. 10:17. Do they not err that devise evil, Prov. 14:22. causeth to err from the words of knowledge, Prov. 19:27. they which lead thee cause thee to err, Isa. 3:12 (2 Ne. 13:12). leaders of this people cause them to err, Isa. 9:16 (2 Ne. 19:16). have erred through wine, Isa. 28:7. cause my people to err by their lies, Jer. 23:32.",
+      "references": [
+        {
+          "text": "Lev. 5:18",
+          "start": 43,
+          "end": 52,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 5,
+            "chapterId": "leviticus5",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 15:22",
+          "start": 90,
+          "end": 100,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 15,
+            "chapterId": "numbers15",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Chr. 33:9",
+          "start": 132,
+          "end": 143,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-chr",
+            "book": "2chronicles",
+            "chapter": 33,
+            "chapterId": "2chronicles33",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 95:10",
+          "start": 180,
+          "end": 189,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 95,
+            "chapterId": "psalms95",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 3:10",
+          "start": 191,
+          "end": 200,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 3,
+            "chapterId": "hebrews3",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 119:21",
+          "start": 241,
+          "end": 251,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 119,
+            "chapterId": "psalms119",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 119:110",
+          "start": 284,
+          "end": 295,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 119,
+            "chapterId": "psalms119",
+            "verses": [
+              {
+                "start": 110,
+                "end": 110
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 10:17",
+          "start": 330,
+          "end": 341,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 10,
+            "chapterId": "proverbs10",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 14:22",
+          "start": 377,
+          "end": 388,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 14,
+            "chapterId": "proverbs14",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 19:27",
+          "start": 434,
+          "end": 445,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 19,
+            "chapterId": "proverbs19",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 3:12",
+          "start": 487,
+          "end": 496,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 3,
+            "chapterId": "isaiah3",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 13:12",
+          "start": 498,
+          "end": 509,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 13,
+            "chapterId": "2nephi13",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 9:16",
+          "start": 554,
+          "end": 563,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 9,
+            "chapterId": "isaiah9",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 19:16",
+          "start": 565,
+          "end": 576,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 19,
+            "chapterId": "2nephi19",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 28:7",
+          "start": 604,
+          "end": 613,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 28,
+            "chapterId": "isaiah28",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 23:32",
+          "start": 653,
+          "end": 663,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 23,
+            "chapterId": "jeremiah23",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "err, not knowing the scriptures, Matt. 22:29 (Mark 12:24). ye therefore do greatly err, Mark 12:27. they have erred from the faith, 1 Tim. 6:10. some professing have erred concerning the faith, 1 Tim. 6:21. concerning the truth have erred, 2 Tim. 2:18. Do not err, my beloved brethren, James 1:16. if any of you do err from the truth, James 5:19.",
+      "references": [
+        {
+          "text": "Matt. 22:29",
+          "start": 33,
+          "end": 44,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 22,
+            "chapterId": "matthew22",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 12:24",
+          "start": 46,
+          "end": 56,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 12,
+            "chapterId": "mark12",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 12:27",
+          "start": 88,
+          "end": 98,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 12,
+            "chapterId": "mark12",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Tim. 6:10",
+          "start": 132,
+          "end": 143,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 6,
+            "chapterId": "1timothy6",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Tim. 6:21",
+          "start": 194,
+          "end": 205,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 6,
+            "chapterId": "1timothy6",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Tim. 2:18",
+          "start": 240,
+          "end": 251,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-tim",
+            "book": "2timothy",
+            "chapter": 2,
+            "chapterId": "2timothy2",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "James 1:16",
+          "start": 286,
+          "end": 296,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "james",
+            "book": "james",
+            "chapter": 1,
+            "chapterId": "james1",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "James 5:19",
+          "start": 335,
+          "end": 345,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "james",
+            "book": "james",
+            "chapter": 5,
+            "chapterId": "james5",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "spoken plainly that ye cannot err, 2 Ne. 25:20. many instances they do err, 2 Ne. 28:14.",
+      "references": [
+        {
+          "text": "2 Ne. 25:20",
+          "start": 35,
+          "end": 46,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 25,
+            "chapterId": "2nephi25",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 28:14",
+          "start": 76,
+          "end": 87,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 28,
+            "chapterId": "2nephi28",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "inasmuch as they erred it might be made known, D&C 1:25. they err … because of priestcrafts, D&C 33:4.",
+      "references": [
+        {
+          "text": "D&C 1:25",
+          "start": 47,
+          "end": 55,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 1,
+            "chapterId": "doctrineandcovenants1",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 33:4",
+          "start": 93,
+          "end": 101,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 33,
+            "chapterId": "doctrineandcovenants33",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-repent",
+      "slug": "repent",
+      "title": "Repent"
+    },
+    {
+      "entryId": "tg-sin",
+      "slug": "sin",
+      "title": "Sin"
+    },
+    {
+      "entryId": "tg-transgress",
+      "slug": "transgress",
+      "title": "Transgress"
+    },
+    {
+      "entryId": "tg-wander",
+      "slug": "wander",
+      "title": "Wander"
+    }
+  ],
+  "slug": "err",
+  "title": "Err",
+  "type": "tg"
+}

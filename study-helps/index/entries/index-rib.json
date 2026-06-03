@@ -1,0 +1,50 @@
+{
+  "_id": "index-rib",
+  "content": [
+    {
+      "text": "God makes woman from Adam’s rib, Moses 3:21–22 (Abr. 5:15–16).",
+      "references": [
+        {
+          "text": "Moses 3:21–22",
+          "start": 33,
+          "end": 46,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 3,
+            "chapterId": "moses3",
+            "verses": [
+              {
+                "start": 21,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Abr. 5:15–16",
+          "start": 48,
+          "end": 60,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 5,
+            "chapterId": "abraham5",
+            "verses": [
+              {
+                "start": 15,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "rib",
+  "title": "Rib",
+  "type": "index"
+}

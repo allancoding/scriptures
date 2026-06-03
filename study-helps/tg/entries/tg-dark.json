@@ -1,0 +1,197 @@
+{
+  "_id": "tg-dark",
+  "content": [
+    {
+      "text": "not in dark speeches, Num. 12:8. They grope in the dark without light, Job 12:25. dark places of the earth, Ps. 74:20. the wise, and their dark sayings, Prov. 1:6. king of … dark sentences, Dan. 8:23. light shall not be clear, nor dark, Zech. 14:6.",
+      "references": [
+        {
+          "text": "Num. 12:8",
+          "start": 22,
+          "end": 31,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 12,
+            "chapterId": "numbers12",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Job 12:25",
+          "start": 71,
+          "end": 80,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "job",
+            "book": "job",
+            "chapter": 12,
+            "chapterId": "job12",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 74:20",
+          "start": 108,
+          "end": 117,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 74,
+            "chapterId": "psalms74",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 1:6",
+          "start": 153,
+          "end": 162,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 1,
+            "chapterId": "proverbs1",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 8:23",
+          "start": 190,
+          "end": 199,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 8,
+            "chapterId": "daniel8",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Zech. 14:6",
+          "start": 237,
+          "end": 247,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "zech",
+            "book": "zechariah",
+            "chapter": 14,
+            "chapterId": "zechariah14",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "light that shineth in a dark place, 2 Pet. 1:19.",
+      "references": [
+        {
+          "text": "2 Pet. 1:19",
+          "start": 36,
+          "end": 47,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-pet",
+            "book": "2peter",
+            "chapter": 1,
+            "chapterId": "2peter1",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "their works are in the dark, 2 Ne. 27:27 (28:9).",
+      "references": [
+        {
+          "text": "2 Ne. 27:27",
+          "start": 29,
+          "end": 40,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 27,
+            "chapterId": "2nephi27",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "28:9",
+          "start": 42,
+          "end": 46,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 28,
+            "chapterId": "2nephi28",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-darkness-physical",
+      "slug": "darkness-physical",
+      "title": "Darkness, Physical"
+    },
+    {
+      "entryId": "tg-darkness-spiritual",
+      "slug": "darkness-spiritual",
+      "title": "Darkness, Spiritual"
+    }
+  ],
+  "slug": "dark",
+  "title": "Dark",
+  "type": "tg"
+}

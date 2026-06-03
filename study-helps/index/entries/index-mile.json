@@ -1,0 +1,50 @@
+{
+  "_id": "index-mile",
+  "content": [
+    {
+      "text": "whosoever shall compel thee to go mile, go with him twain, 3 Ne. 12:41 (Matt. 5:41).",
+      "references": [
+        {
+          "text": "3 Ne. 12:41",
+          "start": 59,
+          "end": 70,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 12,
+            "chapterId": "3nephi12",
+            "verses": [
+              {
+                "start": 41,
+                "end": 41
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 5:41",
+          "start": 72,
+          "end": 82,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 5,
+            "chapterId": "matthew5",
+            "verses": [
+              {
+                "start": 41,
+                "end": 41
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "mile",
+  "title": "Mile",
+  "type": "index"
+}

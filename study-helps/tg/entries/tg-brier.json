@@ -1,0 +1,115 @@
+{
+  "_id": "tg-brier",
+  "content": [
+    {
+      "text": "there shall come up briers and thorns, Isa. 5:6 (32:13; 2 Ne. 15:6). instead of the brier shall come up the myrtle, Isa. 55:13.",
+      "references": [
+        {
+          "text": "Isa. 5:6",
+          "start": 39,
+          "end": 47,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 5,
+            "chapterId": "isaiah5",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "32:13",
+          "start": 49,
+          "end": 54,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 32,
+            "chapterId": "isaiah32",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 15:6",
+          "start": 56,
+          "end": 66,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 15,
+            "chapterId": "2nephi15",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 55:13",
+          "start": 116,
+          "end": 126,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 55,
+            "chapterId": "isaiah55",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "which beareth thorns and briers is rejected, Heb. 6:8.",
+      "references": [
+        {
+          "text": "Heb. 6:8",
+          "start": 45,
+          "end": 53,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 6,
+            "chapterId": "hebrews6",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-thorn",
+      "slug": "thorn",
+      "title": "Thorn"
+    }
+  ],
+  "slug": "brier",
+  "title": "Brier",
+  "type": "tg"
+}

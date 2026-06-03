@@ -1,0 +1,68 @@
+{
+  "_id": "bd-medicine",
+  "content": [
+    {
+      "text": "Medicine and surgery among the Israelites were of a very primitive kind, and until the introduction of Greek civilization, they never rose to the rank of sciences. The only remedies mentioned in the Old Testament are for external injuries, such as plasters, bandages, and unguents. Jeremiah speaks of a resinous gum (“balm of Gilead”) noted for its healing properties (Jer. 8:22; 46:11). We also hear of figs being used as a poultice (Isa. 38:21).",
+      "references": [
+        {
+          "text": "Jer. 8:22",
+          "start": 369,
+          "end": 378,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 8,
+            "chapterId": "jeremiah8",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "46:11",
+          "start": 380,
+          "end": 385,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 46,
+            "chapterId": "jeremiah46",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 38:21",
+          "start": 435,
+          "end": 445,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 38,
+            "chapterId": "isaiah38",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "medicine",
+  "title": "Medicine",
+  "type": "bd"
+}

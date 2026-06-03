@@ -1,0 +1,45 @@
+{
+  "_id": "index-qualify",
+  "content": [
+    {
+      "text": "qualities needed to qualify for ministry, D&C 4 (12:8).",
+      "references": [
+        {
+          "text": "D&C 4",
+          "start": 42,
+          "end": 47,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 4,
+            "chapterId": "doctrineandcovenants4",
+            "verses": []
+          }
+        },
+        {
+          "text": "12:8",
+          "start": 49,
+          "end": 53,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 12,
+            "chapterId": "doctrineandcovenants12",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "qualify",
+  "title": "Qualify",
+  "type": "index"
+}

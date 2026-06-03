@@ -1,0 +1,102 @@
+{
+  "_id": "tg-destitute",
+  "content": [
+    {
+      "text": "He will regard the prayer of the destitute, Ps. 102:17. leave not my soul destitute, Ps. 141:8.",
+      "references": [
+        {
+          "text": "Ps. 102:17",
+          "start": 44,
+          "end": 54,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 102,
+            "chapterId": "psalms102",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 141:8",
+          "start": 85,
+          "end": 94,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 141,
+            "chapterId": "psalms141",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "destitute of the truth, 1 Tim. 6:5. naked, and destitute of daily food, James 2:15.",
+      "references": [
+        {
+          "text": "1 Tim. 6:5",
+          "start": 24,
+          "end": 34,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 6,
+            "chapterId": "1timothy6",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "James 2:15",
+          "start": 72,
+          "end": 82,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "james",
+            "book": "james",
+            "chapter": 2,
+            "chapterId": "james2",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-needy",
+      "slug": "needy",
+      "title": "Needy"
+    },
+    {
+      "entryId": "tg-poor",
+      "slug": "poor",
+      "title": "Poor"
+    }
+  ],
+  "slug": "destitute",
+  "title": "Destitute",
+  "type": "tg"
+}

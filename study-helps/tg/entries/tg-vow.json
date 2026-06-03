@@ -1,0 +1,518 @@
+{
+  "_id": "tg-vow",
+  "content": [
+    {
+      "text": "Jacob vowed a vow, Gen. 28:20. vowedst a vow unto me, Gen. 31:13. man shall make a singular vow, Lev. 27:2. man or woman shall separate themselves to vow a vow, Num. 6:2. Israel vowed a vow unto the Lord, Num. 21:2 (Deut. 23:21). vow a vow unto the Lord … he shall not break his word, Num. 30:2 (Isa. 19:21). Jephthah vowed a vow unto the Lord, Judg. 11:30. she vowed a vow, 1 Sam. 1:11. hear thee, and thou shalt pay thy vows, Job 22:27. pay my vows before them that fear him, Ps. 22:25. pay thy vows unto the most High, Ps. 50:14 (76:11). Thy vows are upon me, Ps. 56:12. God, hast heard my vows, Ps. 61:5. pay my vows unto the Lord, Ps. 116:14. sware unto the Lord, and vowed, Ps. 132:2. vowest a vow unto God, defer not to pay it, Eccl. 5:4. I will pay that that I have vowed, Jonah 2:9. keep thy solemn feasts, perform thy vows, Nahum 1:15.",
+      "references": [
+        {
+          "text": "Gen. 28:20",
+          "start": 19,
+          "end": 29,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 28,
+            "chapterId": "genesis28",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 31:13",
+          "start": 54,
+          "end": 64,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 31,
+            "chapterId": "genesis31",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Lev. 27:2",
+          "start": 97,
+          "end": 106,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 27,
+            "chapterId": "leviticus27",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 6:2",
+          "start": 161,
+          "end": 169,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 6,
+            "chapterId": "numbers6",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 21:2",
+          "start": 205,
+          "end": 214,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 21,
+            "chapterId": "numbers21",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 23:21",
+          "start": 216,
+          "end": 227,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 23,
+            "chapterId": "deuteronomy23",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 30:2",
+          "start": 285,
+          "end": 294,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 30,
+            "chapterId": "numbers30",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 19:21",
+          "start": 296,
+          "end": 306,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 19,
+            "chapterId": "isaiah19",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Judg. 11:30",
+          "start": 345,
+          "end": 356,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "judg",
+            "book": "judges",
+            "chapter": 11,
+            "chapterId": "judges11",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Sam. 1:11",
+          "start": 375,
+          "end": 386,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 1,
+            "chapterId": "1samuel1",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Job 22:27",
+          "start": 428,
+          "end": 437,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "job",
+            "book": "job",
+            "chapter": 22,
+            "chapterId": "job22",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 22:25",
+          "start": 478,
+          "end": 487,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 22,
+            "chapterId": "psalms22",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 50:14",
+          "start": 522,
+          "end": 531,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 50,
+            "chapterId": "psalms50",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "76:11",
+          "start": 533,
+          "end": 538,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 76,
+            "chapterId": "psalms76",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 56:12",
+          "start": 563,
+          "end": 572,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 56,
+            "chapterId": "psalms56",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 61:5",
+          "start": 599,
+          "end": 607,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 61,
+            "chapterId": "psalms61",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 116:14",
+          "start": 636,
+          "end": 646,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 116,
+            "chapterId": "psalms116",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 132:2",
+          "start": 680,
+          "end": 689,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 132,
+            "chapterId": "psalms132",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eccl. 5:4",
+          "start": 735,
+          "end": 744,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "eccl",
+            "book": "ecclesiastes",
+            "chapter": 5,
+            "chapterId": "ecclesiastes5",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jonah 2:9",
+          "start": 781,
+          "end": 790,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jonah",
+            "book": "jonah",
+            "chapter": 2,
+            "chapterId": "jonah2",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Nahum 1:15",
+          "start": 834,
+          "end": 844,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "nahum",
+            "book": "nahum",
+            "chapter": 1,
+            "chapterId": "nahum1",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Paul … having shorn his head … for he had a vow, Acts 18:18. four men which have a vow, Acts 21:23.",
+      "references": [
+        {
+          "text": "Acts 18:18",
+          "start": 49,
+          "end": 59,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 18,
+            "chapterId": "acts18",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 21:23",
+          "start": 88,
+          "end": 98,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 21,
+            "chapterId": "acts21",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "vows shall be offered up in righteousness, D&C 59:11. careful henceforth in observing your vows, D&C 108:3. All covenants … oaths, vows … not made and entered, D&C 132:7.",
+      "references": [
+        {
+          "text": "D&C 59:11",
+          "start": 43,
+          "end": 52,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 59,
+            "chapterId": "doctrineandcovenants59",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 108:3",
+          "start": 97,
+          "end": 106,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 108,
+            "chapterId": "doctrineandcovenants108",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 132:7",
+          "start": 160,
+          "end": 169,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 132,
+            "chapterId": "doctrineandcovenants132",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-covenants",
+      "slug": "covenants",
+      "title": "Covenants"
+    },
+    {
+      "entryId": "tg-oath",
+      "slug": "oath",
+      "title": "Oath"
+    },
+    {
+      "entryId": "tg-pledge",
+      "slug": "pledge",
+      "title": "Pledge"
+    },
+    {
+      "entryId": "tg-promise",
+      "slug": "promise",
+      "title": "Promise"
+    },
+    {
+      "entryId": "tg-swearing",
+      "slug": "swearing",
+      "title": "Swearing"
+    }
+  ],
+  "slug": "vow",
+  "title": "Vow",
+  "type": "tg"
+}

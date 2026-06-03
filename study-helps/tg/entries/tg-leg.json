@@ -1,0 +1,32 @@
+{
+  "_id": "tg-leg",
+  "content": [
+    {
+      "text": "was dead already, they brake not his legs, John 19:33.",
+      "references": [
+        {
+          "text": "John 19:33",
+          "start": 43,
+          "end": 53,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 19,
+            "chapterId": "john19",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "leg",
+  "title": "Leg",
+  "type": "tg"
+}

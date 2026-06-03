@@ -1,0 +1,102 @@
+{
+  "_id": "index-near",
+  "content": [
+    {
+      "text": "this people draw near the Lord with mouth, but hearts are far from him, 2 Ne. 27:25 (Isa. 29:13).",
+      "references": [
+        {
+          "text": "2 Ne. 27:25",
+          "start": 72,
+          "end": 83,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 27,
+            "chapterId": "2nephi27",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 29:13",
+          "start": 85,
+          "end": 95,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 29,
+            "chapterId": "isaiah29",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "draw near unto the Lord and he will draw near unto you, D&C 88:63.",
+      "references": [
+        {
+          "text": "D&C 88:63",
+          "start": 56,
+          "end": 65,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 63,
+                "end": 63
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "professors of religion draw near the Lord with lips, but hearts are far from him, JS—H 1:19.",
+      "references": [
+        {
+          "text": "JS—H 1:19",
+          "start": 82,
+          "end": 91,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-nigh",
+      "slug": "nigh",
+      "title": "Nigh"
+    }
+  ],
+  "slug": "near",
+  "title": "Near",
+  "type": "index"
+}

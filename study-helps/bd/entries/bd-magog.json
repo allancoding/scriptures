@@ -1,0 +1,109 @@
+{
+  "_id": "bd-magog",
+  "content": [
+    {
+      "text": "Covering. (1) Son of Japheth (Gen. 10:2; 1 Chr. 1:5).",
+      "references": [
+        {
+          "text": "Gen. 10:2",
+          "start": 30,
+          "end": 39,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 10,
+            "chapterId": "genesis10",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Chr. 1:5",
+          "start": 41,
+          "end": 51,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-chr",
+            "book": "1chronicles",
+            "chapter": 1,
+            "chapterId": "1chronicles1",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "(2) A country or people near the Black Sea, and equivalent to Scythian (Ezek. 38:2; 39:6; Rev. 20:8). See also Gog.",
+      "references": [
+        {
+          "text": "Ezek. 38:2",
+          "start": 72,
+          "end": 82,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 38,
+            "chapterId": "ezekiel38",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "39:6",
+          "start": 84,
+          "end": 88,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 39,
+            "chapterId": "ezekiel39",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 20:8",
+          "start": 90,
+          "end": 99,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 20,
+            "chapterId": "revelation20",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "magog",
+  "title": "Magog",
+  "type": "bd"
+}

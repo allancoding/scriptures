@@ -1,0 +1,53 @@
+{
+  "_id": "index-music",
+  "content": [
+    {
+      "text": "praise the Lord with music, D&C 136:28.",
+      "references": [
+        {
+          "text": "D&C 136:28",
+          "start": 28,
+          "end": 38,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 136,
+            "chapterId": "doctrineandcovenants136",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-dance",
+      "slug": "dance",
+      "title": "Dance"
+    },
+    {
+      "entryId": "index-hymn",
+      "slug": "hymn",
+      "title": "Hymn"
+    },
+    {
+      "entryId": "index-sing",
+      "slug": "sing",
+      "title": "Sing"
+    },
+    {
+      "entryId": "index-song",
+      "slug": "song",
+      "title": "Song"
+    }
+  ],
+  "slug": "music",
+  "title": "Music",
+  "type": "index"
+}

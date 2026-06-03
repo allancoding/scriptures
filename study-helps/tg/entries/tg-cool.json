@@ -1,0 +1,73 @@
+{
+  "_id": "tg-cool",
+  "content": [
+    {
+      "text": "walking in the garden in the cool of the day, Gen. 3:8 (Moses 4:14).",
+      "references": [
+        {
+          "text": "Gen. 3:8",
+          "start": 46,
+          "end": 54,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 3,
+            "chapterId": "genesis3",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 4:14",
+          "start": 56,
+          "end": 66,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 4,
+            "chapterId": "moses4",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "tip of his finger in water, and cool my tongue, Luke 16:24.",
+      "references": [
+        {
+          "text": "Luke 16:24",
+          "start": 48,
+          "end": 58,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 16,
+            "chapterId": "luke16",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "cool",
+  "title": "Cool",
+  "type": "tg"
+}

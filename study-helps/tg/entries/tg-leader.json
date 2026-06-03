@@ -1,0 +1,125 @@
+{
+  "_id": "tg-leader",
+  "content": [
+    {
+      "text": "leaders of this people cause them to err, Isa. 9:16 (2 Ne. 19:16).",
+      "references": [
+        {
+          "text": "Isa. 9:16",
+          "start": 42,
+          "end": 51,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 9,
+            "chapterId": "isaiah9",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 19:16",
+          "start": 53,
+          "end": 64,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 19,
+            "chapterId": "2nephi19",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "they be blind leaders of the blind, Matt. 15:14.",
+      "references": [
+        {
+          "text": "Matt. 15:14",
+          "start": 36,
+          "end": 47,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 15,
+            "chapterId": "matthew15",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "our leaders were mighty men in the faith, Jarom 1:7. their leaders did establish their laws, 3 Ne. 7:11.",
+      "references": [
+        {
+          "text": "Jarom 1:7",
+          "start": 42,
+          "end": 51,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jarom",
+            "book": "jarom",
+            "chapter": 1,
+            "chapterId": "jarom1",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 7:11",
+          "start": 93,
+          "end": 103,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 7,
+            "chapterId": "3nephi7",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-lead",
+      "slug": "lead",
+      "title": "Lead"
+    },
+    {
+      "entryId": "tg-leadership",
+      "slug": "leadership",
+      "title": "Leadership"
+    }
+  ],
+  "slug": "leader",
+  "title": "Leader",
+  "type": "tg"
+}

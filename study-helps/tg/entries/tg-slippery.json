@@ -1,0 +1,91 @@
+{
+  "_id": "tg-slippery",
+  "content": [
+    {
+      "text": "thou didst set them in slippery places, Ps. 73:18. their way shall be unto them as slippery ways, Jer. 23:12.",
+      "references": [
+        {
+          "text": "Ps. 73:18",
+          "start": 40,
+          "end": 49,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 73,
+            "chapterId": "psalms73",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 23:12",
+          "start": 98,
+          "end": 108,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 23,
+            "chapterId": "jeremiah23",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "curseth your riches, that they become slippery, Hel. 13:31. Gadianton robbers … became slippery, Morm. 1:18.",
+      "references": [
+        {
+          "text": "Hel. 13:31",
+          "start": 48,
+          "end": 58,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 13,
+            "chapterId": "helaman13",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 1:18",
+          "start": 97,
+          "end": 107,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 1,
+            "chapterId": "mormon1",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "slippery",
+  "title": "Slippery",
+  "type": "tg"
+}

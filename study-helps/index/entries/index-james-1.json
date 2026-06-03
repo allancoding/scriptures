@@ -1,0 +1,84 @@
+{
+  "_id": "index-james-1",
+  "content": [
+    {
+      "text": "Joseph Smith and Oliver Cowdery ordained and confirmed Apostles by Peter, James, and John, D&C 27:12. voice of Peter, James, and John declaring themselves as possessing keys of kingdom, D&C 128:20.",
+      "references": [
+        {
+          "text": "D&C 27:12",
+          "start": 91,
+          "end": 100,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 27,
+            "chapterId": "doctrineandcovenants27",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 128:20",
+          "start": 186,
+          "end": 196,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 128,
+            "chapterId": "doctrineandcovenants128",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Peter, James, and John hold keys of Melchizedek Priesthood, JS—H 1:72.",
+      "references": [
+        {
+          "text": "JS—H 1:72",
+          "start": 60,
+          "end": 69,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "js-h",
+            "book": "josephsmithhistory",
+            "chapter": 1,
+            "chapterId": "josephsmithhistory1",
+            "verses": [
+              {
+                "start": 72,
+                "end": 72
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-apostle",
+      "slug": "apostle",
+      "title": "Apostle"
+    },
+    {
+      "entryId": "index-priesthood-melchizedek",
+      "slug": "priesthood-melchizedek",
+      "title": "Priesthood, Melchizedek"
+    }
+  ],
+  "slug": "james-1",
+  "title": "James1",
+  "type": "index"
+}

@@ -1,0 +1,86 @@
+{
+  "_id": "bd-compass",
+  "content": [
+    {
+      "text": "As a verb, to go completely around, or about, as in Matt. 23:15. As a noun, a circle, as in Prov. 8:27; or a circular direction, as in 2 Kgs. 3:9 and Acts 28:13.",
+      "references": [
+        {
+          "text": "Matt. 23:15",
+          "start": 52,
+          "end": 63,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 23,
+            "chapterId": "matthew23",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 8:27",
+          "start": 92,
+          "end": 102,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 8,
+            "chapterId": "proverbs8",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Kgs. 3:9",
+          "start": 135,
+          "end": 145,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 3,
+            "chapterId": "2kings3",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 28:13",
+          "start": 150,
+          "end": 160,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 28,
+            "chapterId": "acts28",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "compass",
+  "title": "Compass",
+  "type": "bd"
+}

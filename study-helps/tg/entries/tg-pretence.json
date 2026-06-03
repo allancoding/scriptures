@@ -1,0 +1,50 @@
+{
+  "_id": "tg-pretence",
+  "content": [
+    {
+      "text": "for a pretence make long prayer, Matt. 23:14 (Mark 12:40).",
+      "references": [
+        {
+          "text": "Matt. 23:14",
+          "start": 33,
+          "end": 44,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 23,
+            "chapterId": "matthew23",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 12:40",
+          "start": 46,
+          "end": 56,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 12,
+            "chapterId": "mark12",
+            "verses": [
+              {
+                "start": 40,
+                "end": 40
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "pretence",
+  "title": "Pretence",
+  "type": "tg"
+}

@@ -1,0 +1,110 @@
+{
+  "_id": "tg-sluggard",
+  "content": [
+    {
+      "text": "Go to the ant, thou sluggard; consider her ways, Prov. 6:6. as smoke to the eyes, so is the sluggard, Prov. 10:26. soul of the sluggard desireth, and hath nothing, Prov. 13:4. sluggard will not plow by reason of the cold, Prov. 20:4. sluggard is wiser in his own conceit than seven, Prov. 26:16.",
+      "references": [
+        {
+          "text": "Prov. 6:6",
+          "start": 49,
+          "end": 58,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 6,
+            "chapterId": "proverbs6",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 10:26",
+          "start": 102,
+          "end": 113,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 10,
+            "chapterId": "proverbs10",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 13:4",
+          "start": 164,
+          "end": 174,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 13,
+            "chapterId": "proverbs13",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 20:4",
+          "start": 222,
+          "end": 232,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 20,
+            "chapterId": "proverbs20",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 26:16",
+          "start": 283,
+          "end": 294,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 26,
+            "chapterId": "proverbs26",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-slothful",
+      "slug": "slothful",
+      "title": "Slothful"
+    }
+  ],
+  "slug": "sluggard",
+  "title": "Sluggard",
+  "type": "tg"
+}

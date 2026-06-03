@@ -1,0 +1,51 @@
+{
+  "_id": "index-mahmackrah",
+  "content": [
+    {
+      "text": "heathen god of Mahmackrah, Abr. 1:6, 13, 17.",
+      "references": [
+        {
+          "text": "Abr. 1:6, 13, 17",
+          "start": 27,
+          "end": 43,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 1,
+            "chapterId": "abraham1",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              },
+              {
+                "start": 13,
+                "end": 13
+              },
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-gods",
+      "slug": "gods",
+      "title": "Gods"
+    },
+    {
+      "entryId": "index-idolatry",
+      "slug": "idolatry",
+      "title": "Idolatry"
+    }
+  ],
+  "slug": "mahmackrah",
+  "title": "Mahmackrah",
+  "type": "index"
+}

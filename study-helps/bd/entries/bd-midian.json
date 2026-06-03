@@ -1,0 +1,54 @@
+{
+  "_id": "bd-midian",
+  "content": [
+    {
+      "text": "Judgment. Son of Abraham and Keturah (Gen. 25:2, 4; 1 Chr. 1:32–33).",
+      "references": [
+        {
+          "text": "Gen. 25:2, 4",
+          "start": 38,
+          "end": 50,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 25,
+            "chapterId": "genesis25",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              },
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Chr. 1:32–33",
+          "start": 52,
+          "end": 66,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-chr",
+            "book": "1chronicles",
+            "chapter": 1,
+            "chapterId": "1chronicles1",
+            "verses": [
+              {
+                "start": 32,
+                "end": 33
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "midian",
+  "title": "Midian",
+  "type": "bd"
+}

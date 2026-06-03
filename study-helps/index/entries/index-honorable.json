@@ -1,0 +1,61 @@
+{
+  "_id": "index-honorable",
+  "content": [
+    {
+      "text": "honorable men of earth blinded by craftiness of men, D&C 76:75. honorable men to be appointed to purchase lands, D&C 101:73.",
+      "references": [
+        {
+          "text": "D&C 76:75",
+          "start": 53,
+          "end": 62,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 76,
+            "chapterId": "doctrineandcovenants76",
+            "verses": [
+              {
+                "start": 75,
+                "end": 75
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 101:73",
+          "start": 113,
+          "end": 123,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 101,
+            "chapterId": "doctrineandcovenants101",
+            "verses": [
+              {
+                "start": 73,
+                "end": 73
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-noble",
+      "slug": "noble",
+      "title": "Noble"
+    },
+    {
+      "entryId": "index-worthy",
+      "slug": "worthy",
+      "title": "Worthy"
+    }
+  ],
+  "slug": "honorable",
+  "title": "Honorable",
+  "type": "index"
+}

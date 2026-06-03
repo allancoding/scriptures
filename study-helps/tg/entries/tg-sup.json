@@ -1,0 +1,74 @@
+{
+  "_id": "tg-sup",
+  "content": [
+    {
+      "text": "Make ready wherewith I may sup, Luke 17:8. when he had supped, saying, This cup is the new testament in my blood, 1 Cor. 11:25. I will … sup with him, Rev. 3:20.",
+      "references": [
+        {
+          "text": "Luke 17:8",
+          "start": 32,
+          "end": 41,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 17,
+            "chapterId": "luke17",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 11:25",
+          "start": 114,
+          "end": 126,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 11,
+            "chapterId": "1corinthians11",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 3:20",
+          "start": 151,
+          "end": 160,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 3,
+            "chapterId": "revelation3",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-supper",
+      "slug": "supper",
+      "title": "Supper"
+    }
+  ],
+  "slug": "sup",
+  "title": "Sup",
+  "type": "tg"
+}

@@ -1,0 +1,86 @@
+{
+  "_id": "bd-bartholomew",
+  "content": [
+    {
+      "text": "One of the Twelve (Matt. 10:2–4; Mark 3:18; Luke 6:14; Acts 1:13). See also Nathanael.",
+      "references": [
+        {
+          "text": "Matt. 10:2–4",
+          "start": 19,
+          "end": 31,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 10,
+            "chapterId": "matthew10",
+            "verses": [
+              {
+                "start": 2,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 3:18",
+          "start": 33,
+          "end": 42,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 3,
+            "chapterId": "mark3",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 6:14",
+          "start": 44,
+          "end": 53,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 6,
+            "chapterId": "luke6",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 1:13",
+          "start": 55,
+          "end": 64,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 1,
+            "chapterId": "acts1",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "bartholomew",
+  "title": "Bartholomew",
+  "type": "bd"
+}

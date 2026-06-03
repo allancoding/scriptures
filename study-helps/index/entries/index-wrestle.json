@@ -1,0 +1,56 @@
+{
+  "_id": "index-wrestle",
+  "content": [
+    {
+      "text": "Enos2 wrestles before God before receiving remission of sins, Enos 1:2. Alma2 wrestles with God in mighty prayer to pour out the Spirit, Alma 8:10.",
+      "references": [
+        {
+          "text": "Enos 1:2",
+          "start": 62,
+          "end": 70,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "enos",
+            "book": "enos",
+            "chapter": 1,
+            "chapterId": "enos1",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 8:10",
+          "start": 137,
+          "end": 146,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 8,
+            "chapterId": "alma8",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-struggle",
+      "slug": "struggle",
+      "title": "Struggle"
+    }
+  ],
+  "slug": "wrestle",
+  "title": "Wrestle",
+  "type": "index"
+}

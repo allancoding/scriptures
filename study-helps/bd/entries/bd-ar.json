@@ -1,0 +1,80 @@
+{
+  "_id": "bd-ar",
+  "content": [
+    {
+      "text": "Capital of Moab, at the eastern end of one of the Arnon valleys (Num. 21:15, 28; Deut. 2:9, 18, 29; Isa. 15:1).",
+      "references": [
+        {
+          "text": "Num. 21:15, 28",
+          "start": 65,
+          "end": 79,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 21,
+            "chapterId": "numbers21",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              },
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 2:9, 18, 29",
+          "start": 81,
+          "end": 98,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 2,
+            "chapterId": "deuteronomy2",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              },
+              {
+                "start": 18,
+                "end": 18
+              },
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 15:1",
+          "start": 100,
+          "end": 109,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 15,
+            "chapterId": "isaiah15",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "ar",
+  "title": "Ar",
+  "type": "bd"
+}

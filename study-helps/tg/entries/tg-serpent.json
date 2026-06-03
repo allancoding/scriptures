@@ -1,0 +1,765 @@
+{
+  "_id": "tg-serpent",
+  "content": [
+    {
+      "text": "serpent was more subtil than any beast, Gen. 3:1 (Moses 4:5). Dan shall be a serpent by the way, Gen. 49:17. it became a serpent; and Moses fled from before it, Ex. 4:3. Lord sent fiery serpents among the people, Num. 21:6 (Deut. 8:15; 1 Ne. 17:41). Lord said unto Moses, Make thee a fiery serpent, Num. 21:8. Moses made a serpent of brass, Num. 21:9. brake in pieces the brasen serpent, 2 Kgs. 18:4. his hand hath formed the crooked serpent, Job 26:13. They have sharpened their tongues like a serpent, Ps. 140:3. his fruit shall be a fiery flying serpent, Isa. 14:29 (2 Ne. 24:29). dust shall be the serpent’s meat, Isa. 65:25. I will send serpents, cockatrices, among you, Jer. 8:17. I command the serpent, and he shall bite them, Amos 9:3.",
+      "references": [
+        {
+          "text": "Gen. 3:1",
+          "start": 40,
+          "end": 48,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 3,
+            "chapterId": "genesis3",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moses 4:5",
+          "start": 50,
+          "end": 59,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 4,
+            "chapterId": "moses4",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Gen. 49:17",
+          "start": 97,
+          "end": 107,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 49,
+            "chapterId": "genesis49",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 4:3",
+          "start": 161,
+          "end": 168,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 4,
+            "chapterId": "exodus4",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 21:6",
+          "start": 213,
+          "end": 222,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 21,
+            "chapterId": "numbers21",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 8:15",
+          "start": 224,
+          "end": 234,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 8,
+            "chapterId": "deuteronomy8",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Ne. 17:41",
+          "start": 236,
+          "end": 247,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 17,
+            "chapterId": "1nephi17",
+            "verses": [
+              {
+                "start": 41,
+                "end": 41
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 21:8",
+          "start": 299,
+          "end": 308,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 21,
+            "chapterId": "numbers21",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Num. 21:9",
+          "start": 341,
+          "end": 350,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "num",
+            "book": "numbers",
+            "chapter": 21,
+            "chapterId": "numbers21",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Kgs. 18:4",
+          "start": 388,
+          "end": 399,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 18,
+            "chapterId": "2kings18",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Job 26:13",
+          "start": 443,
+          "end": 452,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "job",
+            "book": "job",
+            "chapter": 26,
+            "chapterId": "job26",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 140:3",
+          "start": 504,
+          "end": 513,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 140,
+            "chapterId": "psalms140",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 14:29",
+          "start": 558,
+          "end": 568,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 14,
+            "chapterId": "isaiah14",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 24:29",
+          "start": 570,
+          "end": 581,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 24,
+            "chapterId": "2nephi24",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 65:25",
+          "start": 618,
+          "end": 628,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 65,
+            "chapterId": "isaiah65",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 8:17",
+          "start": 676,
+          "end": 685,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 8,
+            "chapterId": "jeremiah8",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Amos 9:3",
+          "start": 734,
+          "end": 742,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "amos",
+            "book": "amos",
+            "chapter": 9,
+            "chapterId": "amos9",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "if he ask a fish, will he give him a serpent, Matt. 7:10 (Luke 11:11; 3 Ne. 14:10). wise as serpents, and harmless as doves, Matt. 10:16 (D&C 111:11). Ye serpents, ye generation of vipers, Matt. 23:33. They shall take up serpents; … not hurt them, Mark 16:18 (Morm. 9:24; D&C 84:72; 124:99). unto you power to tread on serpents, Luke 10:19. as Moses lifted up the serpent … so must the Son of man, John 3:14. as the serpent beguiled Eve … so your minds should be corrupted, 2 Cor. 11:3. great dragon was cast out, that old serpent … the Devil, Rev. 12:9. he laid hold on … that old serpent … and bound him a thousand years, Rev. 20:2.",
+      "references": [
+        {
+          "text": "Matt. 7:10",
+          "start": 46,
+          "end": 56,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 7,
+            "chapterId": "matthew7",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 11:11",
+          "start": 58,
+          "end": 68,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 11,
+            "chapterId": "luke11",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 14:10",
+          "start": 70,
+          "end": 81,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 14,
+            "chapterId": "3nephi14",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 10:16",
+          "start": 125,
+          "end": 136,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 10,
+            "chapterId": "matthew10",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 111:11",
+          "start": 138,
+          "end": 148,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 111,
+            "chapterId": "doctrineandcovenants111",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 23:33",
+          "start": 189,
+          "end": 200,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 23,
+            "chapterId": "matthew23",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 16:18",
+          "start": 248,
+          "end": 258,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 16,
+            "chapterId": "mark16",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 9:24",
+          "start": 260,
+          "end": 270,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 9,
+            "chapterId": "mormon9",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 84:72",
+          "start": 272,
+          "end": 281,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 84,
+            "chapterId": "doctrineandcovenants84",
+            "verses": [
+              {
+                "start": 72,
+                "end": 72
+              }
+            ]
+          }
+        },
+        {
+          "text": "124:99",
+          "start": 283,
+          "end": 289,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 124,
+            "chapterId": "doctrineandcovenants124",
+            "verses": [
+              {
+                "start": 99,
+                "end": 99
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 10:19",
+          "start": 329,
+          "end": 339,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 10,
+            "chapterId": "luke10",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 3:14",
+          "start": 398,
+          "end": 407,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 3,
+            "chapterId": "john3",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Cor. 11:3",
+          "start": 474,
+          "end": 485,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 11,
+            "chapterId": "2corinthians11",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 12:9",
+          "start": 544,
+          "end": 553,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 12,
+            "chapterId": "revelation12",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rev. 20:2",
+          "start": 624,
+          "end": 633,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rev",
+            "book": "revelation",
+            "chapter": 20,
+            "chapterId": "revelation20",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "he said unto Eve, yea, even that old serpent, 2 Ne. 2:18 (Mosiah 16:3). cast their eyes unto the serpent which he did raise, 2 Ne. 25:20. brazen serpent in the wilderness, even so shall he be lifted up who should come, Hel. 8:14. Lord did cause the serpents that they should pursue them, Ether 9:33.",
+      "references": [
+        {
+          "text": "2 Ne. 2:18",
+          "start": 46,
+          "end": 56,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 2,
+            "chapterId": "2nephi2",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 16:3",
+          "start": 58,
+          "end": 69,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 16,
+            "chapterId": "mosiah16",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 25:20",
+          "start": 125,
+          "end": 136,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 25,
+            "chapterId": "2nephi25",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 8:14",
+          "start": 219,
+          "end": 228,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 8,
+            "chapterId": "helaman8",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 9:33",
+          "start": 288,
+          "end": 298,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 9,
+            "chapterId": "ether9",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "we beheld Satan, that old serpent, D&C 76:28. Satan shall be bound, that old serpent, D&C 88:110.",
+      "references": [
+        {
+          "text": "D&C 76:28",
+          "start": 35,
+          "end": 44,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 76,
+            "chapterId": "doctrineandcovenants76",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 88:110",
+          "start": 86,
+          "end": 96,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 88,
+            "chapterId": "doctrineandcovenants88",
+            "verses": [
+              {
+                "start": 110,
+                "end": 110
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "he spake by the mouth of the serpent, Moses 4:7.",
+      "references": [
+        {
+          "text": "Moses 4:7",
+          "start": 38,
+          "end": 47,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 4,
+            "chapterId": "moses4",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-devil",
+      "slug": "devil",
+      "title": "Devil"
+    },
+    {
+      "entryId": "tg-jesus-christ-types-of-in-anticipation",
+      "slug": "jesus-christ-types-of-in-anticipation",
+      "title": "Jesus Christ, Types of, in Anticipation"
+    }
+  ],
+  "slug": "serpent",
+  "title": "Serpent",
+  "type": "tg"
+}

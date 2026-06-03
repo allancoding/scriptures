@@ -1,0 +1,161 @@
+{
+  "_id": "tg-goat",
+  "content": [
+    {
+      "text": "fetch me … two good kids of the goats, Gen. 27:9. a kid of the goats for a sin offering, Lev. 9:3. goat shall bear upon him all their iniquities, Lev. 16:22. rough goat is the king of Grecia, Dan. 8:21.",
+      "references": [
+        {
+          "text": "Gen. 27:9",
+          "start": 39,
+          "end": 48,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 27,
+            "chapterId": "genesis27",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Lev. 9:3",
+          "start": 89,
+          "end": 97,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 9,
+            "chapterId": "leviticus9",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Lev. 16:22",
+          "start": 146,
+          "end": 156,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 16,
+            "chapterId": "leviticus16",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 8:21",
+          "start": 192,
+          "end": 201,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 8,
+            "chapterId": "daniel8",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "shepherd divideth his sheep from the goats, Matt. 25:32. Neither by the blood of goats and calves, Heb. 9:12. blood of bulls and of goats should take away sins, Heb. 10:4.",
+      "references": [
+        {
+          "text": "Matt. 25:32",
+          "start": 44,
+          "end": 55,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 25,
+            "chapterId": "matthew25",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 9:12",
+          "start": 99,
+          "end": 108,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 9,
+            "chapterId": "hebrews9",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 10:4",
+          "start": 161,
+          "end": 170,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 10,
+            "chapterId": "hebrews10",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-kid",
+      "slug": "kid",
+      "title": "Kid"
+    },
+    {
+      "entryId": "tg-scapegoat",
+      "slug": "scapegoat",
+      "title": "Scapegoat"
+    },
+    {
+      "entryId": "tg-sheep",
+      "slug": "sheep",
+      "title": "Sheep"
+    }
+  ],
+  "slug": "goat",
+  "title": "Goat",
+  "type": "tg"
+}

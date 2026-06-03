@@ -1,0 +1,54 @@
+{
+  "_id": "bd-siloam",
+  "content": [
+    {
+      "text": "Tower in, Luke 13:4. Nothing further is known of the event mentioned by Jesus in this verse. Pool of, John 9:7, 11.",
+      "references": [
+        {
+          "text": "Luke 13:4",
+          "start": 10,
+          "end": 19,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 13,
+            "chapterId": "luke13",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 9:7, 11",
+          "start": 102,
+          "end": 114,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 9,
+            "chapterId": "john9",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              },
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "siloam",
+  "title": "Siloam",
+  "type": "bd"
+}

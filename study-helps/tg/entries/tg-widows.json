@@ -1,0 +1,742 @@
+{
+  "_id": "tg-widows",
+  "content": [
+    {
+      "text": "Go in unto thy brother’s wife, and marry her, Gen. 38:8. Ye shall not afflict any widow, Ex. 22:22. judgment of the fatherless and widow, Deut. 10:18. fatherless, and the widow … shall come, and shall eat, Deut. 14:29. hast forgot a sheaf … it shall be for … the widow, Deut. 24:19. wife of the dead shall not marry … stranger, Deut. 25:5. Ruth … the wife of the dead, Ruth 4:5. a widow woman there to sustain thee, 1 Kgs. 17:9. judge of the widows, is God, Ps. 68:5. They slay the widow and the stranger, Ps. 94:6. his children be fatherless, and his wife a widow, Ps. 109:9. Lord … relieveth the fatherless and widow, Ps. 146:9. Lord … will establish the border of the widow, Prov. 15:25. plead for the widow, Isa. 1:17. not remember the reproach of thy widowhood any more, Isa. 54:4. let thy widows trust in me, Jer. 49:11. oppress not the widow, Zech. 7:10.",
+      "references": [
+        {
+          "text": "Gen. 38:8",
+          "start": 46,
+          "end": 55,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 38,
+            "chapterId": "genesis38",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ex. 22:22",
+          "start": 89,
+          "end": 98,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 22,
+            "chapterId": "exodus22",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 10:18",
+          "start": 138,
+          "end": 149,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 10,
+            "chapterId": "deuteronomy10",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 14:29",
+          "start": 206,
+          "end": 217,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 14,
+            "chapterId": "deuteronomy14",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 24:19",
+          "start": 270,
+          "end": 281,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 24,
+            "chapterId": "deuteronomy24",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 25:5",
+          "start": 328,
+          "end": 338,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 25,
+            "chapterId": "deuteronomy25",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ruth 4:5",
+          "start": 369,
+          "end": 377,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ruth",
+            "book": "ruth",
+            "chapter": 4,
+            "chapterId": "ruth4",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Kgs. 17:9",
+          "start": 416,
+          "end": 427,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-kgs",
+            "book": "1kings",
+            "chapter": 17,
+            "chapterId": "1kings17",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 68:5",
+          "start": 458,
+          "end": 466,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 68,
+            "chapterId": "psalms68",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 94:6",
+          "start": 506,
+          "end": 514,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 94,
+            "chapterId": "psalms94",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 109:9",
+          "start": 566,
+          "end": 575,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 109,
+            "chapterId": "psalms109",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 146:9",
+          "start": 620,
+          "end": 629,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 146,
+            "chapterId": "psalms146",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 15:25",
+          "start": 678,
+          "end": 689,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 15,
+            "chapterId": "proverbs15",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 1:17",
+          "start": 712,
+          "end": 721,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 1,
+            "chapterId": "isaiah1",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 54:4",
+          "start": 776,
+          "end": 785,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 54,
+            "chapterId": "isaiah54",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 49:11",
+          "start": 815,
+          "end": 825,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 49,
+            "chapterId": "jeremiah49",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Zech. 7:10",
+          "start": 850,
+          "end": 860,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "zech",
+            "book": "zechariah",
+            "chapter": 7,
+            "chapterId": "zechariah7",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "ye devour widows’ houses, Matt. 23:14 (Mark 12:40; Luke 20:47). poor widow hath cast more in, than all, Mark 12:43 (Luke 21:3). was a widow of about fourscore and four years, Luke 2:37. many widows were in Israel in the days of Elias, Luke 4:25. Elias sent … unto a woman that was a widow, Luke 4:26. there was a widow in that city, Luke 18:3. their widows were neglected in the daily ministration, Acts 6:1. I say therefore to the unmarried and widows, 1 Cor. 7:8. Honour widows that are widows indeed, 1 Tim. 5:3. visit the fatherless and widows in their affliction, James 1:27.",
+      "references": [
+        {
+          "text": "Matt. 23:14",
+          "start": 26,
+          "end": 37,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 23,
+            "chapterId": "matthew23",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 12:40",
+          "start": 39,
+          "end": 49,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 12,
+            "chapterId": "mark12",
+            "verses": [
+              {
+                "start": 40,
+                "end": 40
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 20:47",
+          "start": 51,
+          "end": 61,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 20,
+            "chapterId": "luke20",
+            "verses": [
+              {
+                "start": 47,
+                "end": 47
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 12:43",
+          "start": 104,
+          "end": 114,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 12,
+            "chapterId": "mark12",
+            "verses": [
+              {
+                "start": 43,
+                "end": 43
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 21:3",
+          "start": 116,
+          "end": 125,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 21,
+            "chapterId": "luke21",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 2:37",
+          "start": 175,
+          "end": 184,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 2,
+            "chapterId": "luke2",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 4:25",
+          "start": 235,
+          "end": 244,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 4,
+            "chapterId": "luke4",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 4:26",
+          "start": 290,
+          "end": 299,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 4,
+            "chapterId": "luke4",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 18:3",
+          "start": 333,
+          "end": 342,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 18,
+            "chapterId": "luke18",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 6:1",
+          "start": 399,
+          "end": 407,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 6,
+            "chapterId": "acts6",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 7:8",
+          "start": 454,
+          "end": 464,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 7,
+            "chapterId": "1corinthians7",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Tim. 5:3",
+          "start": 504,
+          "end": 514,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-tim",
+            "book": "1timothy",
+            "chapter": 5,
+            "chapterId": "1timothy5",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "James 1:27",
+          "start": 569,
+          "end": 579,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "james",
+            "book": "james",
+            "chapter": 1,
+            "chapterId": "james1",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "neither shall have mercy on their fatherless and widows, 2 Ne. 19:17. that widows may be their prey, 2 Ne. 20:2. Now there were a great many widows, Mosiah 21:10 (Moro. 9:16). cry of widows mourning for their husbands, Alma 28:5. secret abominations … cause that widows should mourn, Morm. 8:40.",
+      "references": [
+        {
+          "text": "2 Ne. 19:17",
+          "start": 57,
+          "end": 68,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 19,
+            "chapterId": "2nephi19",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 20:2",
+          "start": 101,
+          "end": 111,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 20,
+            "chapterId": "2nephi20",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 21:10",
+          "start": 149,
+          "end": 161,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 21,
+            "chapterId": "mosiah21",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moro. 9:16",
+          "start": 163,
+          "end": 173,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "moro",
+            "book": "moroni",
+            "chapter": 9,
+            "chapterId": "moroni9",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 28:5",
+          "start": 219,
+          "end": 228,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 28,
+            "chapterId": "alma28",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Morm. 8:40",
+          "start": 284,
+          "end": 294,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 8,
+            "chapterId": "mormon8",
+            "verses": [
+              {
+                "start": 40,
+                "end": 40
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "widows and orphans shall be provided for, D&C 83:6. duty that we owe … to the widows, D&C 123:9. bear an equal proportion … in taking the poor, the widows, D&C 136:8.",
+      "references": [
+        {
+          "text": "D&C 83:6",
+          "start": 42,
+          "end": 50,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 83,
+            "chapterId": "doctrineandcovenants83",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 123:9",
+          "start": 86,
+          "end": 95,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 123,
+            "chapterId": "doctrineandcovenants123",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 136:8",
+          "start": 156,
+          "end": 165,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 136,
+            "chapterId": "doctrineandcovenants136",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-poor",
+      "slug": "poor",
+      "title": "Poor"
+    },
+    {
+      "entryId": "tg-welfare",
+      "slug": "welfare",
+      "title": "Welfare"
+    }
+  ],
+  "slug": "widows",
+  "title": "Widows",
+  "type": "tg"
+}

@@ -1,0 +1,38 @@
+{
+  "_id": "index-rye",
+  "content": [
+    {
+      "text": "rye is for fowls, D&C 89:17.",
+      "references": [
+        {
+          "text": "D&C 89:17",
+          "start": 18,
+          "end": 27,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 89,
+            "chapterId": "doctrineandcovenants89",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-grain",
+      "slug": "grain",
+      "title": "Grain"
+    }
+  ],
+  "slug": "rye",
+  "title": "Rye",
+  "type": "index"
+}

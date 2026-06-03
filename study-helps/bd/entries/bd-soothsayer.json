@@ -1,0 +1,68 @@
+{
+  "_id": "bd-soothsayer",
+  "content": [
+    {
+      "text": "A diviner, one who professes to foretell the future (Josh. 13:22; Isa. 2:6; Dan. 2:27).",
+      "references": [
+        {
+          "text": "Josh. 13:22",
+          "start": 53,
+          "end": 64,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "josh",
+            "book": "joshua",
+            "chapter": 13,
+            "chapterId": "joshua13",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 2:6",
+          "start": 66,
+          "end": 74,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 2,
+            "chapterId": "isaiah2",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 2:27",
+          "start": 76,
+          "end": 85,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 2,
+            "chapterId": "daniel2",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "soothsayer",
+  "title": "Soothsayer",
+  "type": "bd"
+}

@@ -1,0 +1,61 @@
+{
+  "_id": "tg-fit",
+  "content": [
+    {
+      "text": "No man … looking back, is fit for the kingdom, Luke 9:62. Wives, submit … as it is fit in the Lord, Col. 3:18.",
+      "references": [
+        {
+          "text": "Luke 9:62",
+          "start": 47,
+          "end": 56,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 9,
+            "chapterId": "luke9",
+            "verses": [
+              {
+                "start": 62,
+                "end": 62
+              }
+            ]
+          }
+        },
+        {
+          "text": "Col. 3:18",
+          "start": 100,
+          "end": 109,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "col",
+            "book": "colossians",
+            "chapter": 3,
+            "chapterId": "colossians3",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-meet-adjective",
+      "slug": "meet-adjective",
+      "title": "Meet [adjective]"
+    },
+    {
+      "entryId": "tg-worthiness",
+      "slug": "worthiness",
+      "title": "Worthiness"
+    }
+  ],
+  "slug": "fit",
+  "title": "Fit",
+  "type": "tg"
+}

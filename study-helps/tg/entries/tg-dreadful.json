@@ -1,0 +1,86 @@
+{
+  "_id": "tg-dreadful",
+  "content": [
+    {
+      "text": "How dreadful is this place, Gen. 28:17. coming of the great and dreadful day of the Lord, Mal. 4:5 (D&C 2:1; 110:14).",
+      "references": [
+        {
+          "text": "Gen. 28:17",
+          "start": 28,
+          "end": 38,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 28,
+            "chapterId": "genesis28",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mal. 4:5",
+          "start": 90,
+          "end": 98,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "mal",
+            "book": "malachi",
+            "chapter": 4,
+            "chapterId": "malachi4",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 2:1",
+          "start": 100,
+          "end": 107,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 2,
+            "chapterId": "doctrineandcovenants2",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "110:14",
+          "start": 109,
+          "end": 115,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 110,
+            "chapterId": "doctrineandcovenants110",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "dreadful",
+  "title": "Dreadful",
+  "type": "tg"
+}

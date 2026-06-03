@@ -1,0 +1,50 @@
+{
+  "_id": "bd-accho",
+  "content": [
+    {
+      "text": "Judg. 1:31, same as Ptolemais, Acts 21:7.",
+      "references": [
+        {
+          "text": "Judg. 1:31",
+          "start": 0,
+          "end": 10,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "judg",
+            "book": "judges",
+            "chapter": 1,
+            "chapterId": "judges1",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 21:7",
+          "start": 31,
+          "end": 40,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 21,
+            "chapterId": "acts21",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "accho",
+  "title": "Accho",
+  "type": "bd"
+}

@@ -1,0 +1,50 @@
+{
+  "_id": "bd-zebedee",
+  "content": [
+    {
+      "text": "Probably Hebrew Zebediah, meaning “endowment of the Lord.” The father of James and John, two of the Twelve; a fisherman in fairly good circumstances at or near Capernaum (Mark 1:19, 20; Luke 5:10).",
+      "references": [
+        {
+          "text": "Mark 1:19, 20",
+          "start": 171,
+          "end": 184,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 1,
+            "chapterId": "mark1",
+            "verses": [
+              {
+                "start": 19,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 5:10",
+          "start": 186,
+          "end": 195,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 5,
+            "chapterId": "luke5",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "zebedee",
+  "title": "Zebedee",
+  "type": "bd"
+}

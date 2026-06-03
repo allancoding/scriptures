@@ -1,0 +1,107 @@
+{
+  "_id": "index-cloth",
+  "content": [
+    {
+      "text": "Nephite women work all manner of cloth, Mosiah 10:5 (Hel. 6:13). Church becomes rich, having all manner of good homely cloth, Alma 1:29. Jaredites work all manner of cloth, Ether 10:24.",
+      "references": [
+        {
+          "text": "Mosiah 10:5",
+          "start": 40,
+          "end": 51,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 10,
+            "chapterId": "mosiah10",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 6:13",
+          "start": 53,
+          "end": 62,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 6,
+            "chapterId": "helaman6",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 1:29",
+          "start": 126,
+          "end": 135,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 1,
+            "chapterId": "alma1",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 10:24",
+          "start": 173,
+          "end": 184,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 10,
+            "chapterId": "ether10",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-clothe",
+      "slug": "clothe",
+      "title": "Clothe"
+    },
+    {
+      "entryId": "index-clothing",
+      "slug": "clothing",
+      "title": "Clothing"
+    },
+    {
+      "entryId": "index-linen",
+      "slug": "linen",
+      "title": "Linen"
+    },
+    {
+      "entryId": "index-silk",
+      "slug": "silk",
+      "title": "Silk"
+    }
+  ],
+  "slug": "cloth",
+  "title": "Cloth",
+  "type": "index"
+}

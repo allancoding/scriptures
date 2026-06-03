@@ -1,0 +1,724 @@
+{
+  "_id": "tg-fool",
+  "content": [
+    {
+      "text": "said Saul … I have played the fool, 1 Sam. 26:21. fool hath said in his heart, There is no God, Ps. 14:1 (53:1). Fools because of their transgression … are afflicted, Ps. 107:17. fools despise wisdom and instruction, Prov. 1:7. shame shall be the promotion of fools, Prov. 3:35. fools die for want of wisdom, Prov. 10:21. as sport to a fool to do mischief, Prov. 10:23. way of a fool is right in his own eyes, Prov. 12:15. folly of fools is deceit, Prov. 14:8. Fools make a mock at sin, Prov. 14:9. fool despiseth his father’s instruction, Prov. 15:5. He that begetteth a fool doeth it to his sorrow, Prov. 17:21. fool, when he holdeth his peace, is counted wise, Prov. 17:28. fool hath no delight in understanding, Prov. 18:2. fool’s lips enter into contention, Prov. 18:6. every fool will be meddling, Prov. 20:3. Speak not in the ears of a fool, Prov. 23:9. more hope of a fool than of him, Prov. 26:12 (29:20). He that trusteth in his own heart is a fool, Prov. 28:26. fool uttereth all his mind, Prov. 29:11. fool walketh in darkness, Eccl. 2:14. fool foldeth his hands together, and eateth his own flesh, Eccl. 4:5. heart of fools is in the house of mirth, Eccl. 7:4. lips of a fool will swallow up himself, Eccl. 10:12. Israel shall know it: the prophet is a fool, Hosea 9:7.",
+      "references": [
+        {
+          "text": "1 Sam. 26:21",
+          "start": 36,
+          "end": 48,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "1-sam",
+            "book": "1samuel",
+            "chapter": 26,
+            "chapterId": "1samuel26",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 14:1",
+          "start": 96,
+          "end": 104,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 14,
+            "chapterId": "psalms14",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "53:1",
+          "start": 106,
+          "end": 110,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 53,
+            "chapterId": "psalms53",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 107:17",
+          "start": 167,
+          "end": 177,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 107,
+            "chapterId": "psalms107",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 1:7",
+          "start": 217,
+          "end": 226,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 1,
+            "chapterId": "proverbs1",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 3:35",
+          "start": 267,
+          "end": 277,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 3,
+            "chapterId": "proverbs3",
+            "verses": [
+              {
+                "start": 35,
+                "end": 35
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 10:21",
+          "start": 309,
+          "end": 320,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 10,
+            "chapterId": "proverbs10",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 10:23",
+          "start": 357,
+          "end": 368,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 10,
+            "chapterId": "proverbs10",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 12:15",
+          "start": 410,
+          "end": 421,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 12,
+            "chapterId": "proverbs12",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 14:8",
+          "start": 449,
+          "end": 459,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 14,
+            "chapterId": "proverbs14",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 14:9",
+          "start": 487,
+          "end": 497,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 14,
+            "chapterId": "proverbs14",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 15:5",
+          "start": 540,
+          "end": 550,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 15,
+            "chapterId": "proverbs15",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 17:21",
+          "start": 601,
+          "end": 612,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 17,
+            "chapterId": "proverbs17",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 17:28",
+          "start": 664,
+          "end": 675,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 17,
+            "chapterId": "proverbs17",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 18:2",
+          "start": 716,
+          "end": 726,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 18,
+            "chapterId": "proverbs18",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 18:6",
+          "start": 763,
+          "end": 773,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 18,
+            "chapterId": "proverbs18",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 20:3",
+          "start": 804,
+          "end": 814,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 20,
+            "chapterId": "proverbs20",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 23:9",
+          "start": 849,
+          "end": 859,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 23,
+            "chapterId": "proverbs23",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 26:12",
+          "start": 894,
+          "end": 905,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 26,
+            "chapterId": "proverbs26",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "29:20",
+          "start": 907,
+          "end": 912,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 29,
+            "chapterId": "proverbs29",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 28:26",
+          "start": 960,
+          "end": 971,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 28,
+            "chapterId": "proverbs28",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 29:11",
+          "start": 1001,
+          "end": 1012,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 29,
+            "chapterId": "proverbs29",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eccl. 2:14",
+          "start": 1040,
+          "end": 1050,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "eccl",
+            "book": "ecclesiastes",
+            "chapter": 2,
+            "chapterId": "ecclesiastes2",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eccl. 4:5",
+          "start": 1111,
+          "end": 1120,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "eccl",
+            "book": "ecclesiastes",
+            "chapter": 4,
+            "chapterId": "ecclesiastes4",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eccl. 7:4",
+          "start": 1163,
+          "end": 1172,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "eccl",
+            "book": "ecclesiastes",
+            "chapter": 7,
+            "chapterId": "ecclesiastes7",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eccl. 10:12",
+          "start": 1214,
+          "end": 1225,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "eccl",
+            "book": "ecclesiastes",
+            "chapter": 10,
+            "chapterId": "ecclesiastes10",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hosea 9:7",
+          "start": 1272,
+          "end": 1281,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "hosea",
+            "book": "hosea",
+            "chapter": 9,
+            "chapterId": "hosea9",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "say, Thou fool, shall be in danger of hell fire, Matt. 5:22. Ye fools and blind: for whether is greater, Matt. 23:17. O fools, and slow of heart to believe, Luke 24:25. Professing … to be wise, they became fools, Rom. 1:22. let him become a fool, that he may be wise, 1 Cor. 3:18. We are fools for Christ’s sake, 1 Cor. 4:10. I would desire to glory, I shall not be a fool, 2 Cor. 12:6. ye walk circumspectly, not as fools, Eph. 5:15.",
+      "references": [
+        {
+          "text": "Matt. 5:22",
+          "start": 49,
+          "end": 59,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 5,
+            "chapterId": "matthew5",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 23:17",
+          "start": 105,
+          "end": 116,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 23,
+            "chapterId": "matthew23",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 24:25",
+          "start": 157,
+          "end": 167,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 24,
+            "chapterId": "luke24",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Rom. 1:22",
+          "start": 213,
+          "end": 222,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "rom",
+            "book": "romans",
+            "chapter": 1,
+            "chapterId": "romans1",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 3:18",
+          "start": 268,
+          "end": 279,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 3,
+            "chapterId": "1corinthians3",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Cor. 4:10",
+          "start": 313,
+          "end": 324,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-cor",
+            "book": "1corinthians",
+            "chapter": 4,
+            "chapterId": "1corinthians4",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Cor. 12:6",
+          "start": 374,
+          "end": 385,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-cor",
+            "book": "2corinthians",
+            "chapter": 12,
+            "chapterId": "2corinthians12",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eph. 5:15",
+          "start": 424,
+          "end": 433,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "eph",
+            "book": "ephesians",
+            "chapter": 5,
+            "chapterId": "ephesians5",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "wise … consider themselves fools, 2 Ne. 9:42. ye fools, ye uncircumcised of heart, Hel. 9:21. Fools mock, but they shall mourn, Ether 12:26.",
+      "references": [
+        {
+          "text": "2 Ne. 9:42",
+          "start": 34,
+          "end": 44,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 9,
+            "chapterId": "2nephi9",
+            "verses": [
+              {
+                "start": 42,
+                "end": 42
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 9:21",
+          "start": 83,
+          "end": 92,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 9,
+            "chapterId": "helaman9",
+            "verses": [
+              {
+                "start": 21,
+                "end": 21
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 12:26",
+          "start": 128,
+          "end": 139,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 12,
+            "chapterId": "ether12",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-folly",
+      "slug": "folly",
+      "title": "Folly"
+    },
+    {
+      "entryId": "tg-foolish",
+      "slug": "foolish",
+      "title": "Foolish"
+    },
+    {
+      "entryId": "tg-foolishness",
+      "slug": "foolishness",
+      "title": "Foolishness"
+    }
+  ],
+  "slug": "fool",
+  "title": "Fool",
+  "type": "tg"
+}

@@ -1,0 +1,110 @@
+{
+  "_id": "index-silk",
+  "content": [
+    {
+      "text": "Nephi1 sees silks in abominable church, 1 Ne. 13:7. people have abundance of silk, Alma 1:29 (4:6). Jaredites have all manner of silks, Ether 9:17 (10:24).",
+      "references": [
+        {
+          "text": "1 Ne. 13:7",
+          "start": 40,
+          "end": 50,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 13,
+            "chapterId": "1nephi13",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 1:29",
+          "start": 83,
+          "end": 92,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 1,
+            "chapterId": "alma1",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "4:6",
+          "start": 94,
+          "end": 97,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 4,
+            "chapterId": "alma4",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ether 9:17",
+          "start": 136,
+          "end": 146,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 9,
+            "chapterId": "ether9",
+            "verses": [
+              {
+                "start": 17,
+                "end": 17
+              }
+            ]
+          }
+        },
+        {
+          "text": "10:24",
+          "start": 148,
+          "end": 153,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "ether",
+            "book": "ether",
+            "chapter": 10,
+            "chapterId": "ether10",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-cloth",
+      "slug": "cloth",
+      "title": "Cloth"
+    }
+  ],
+  "slug": "silk",
+  "title": "Silk",
+  "type": "index"
+}

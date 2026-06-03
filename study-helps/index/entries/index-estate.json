@@ -1,0 +1,56 @@
+{
+  "_id": "index-estate",
+  "content": [
+    {
+      "text": "those who keep first and second estates shall be added upon, Abr. 3:26. second kept not his first estate, Abr. 3:28.",
+      "references": [
+        {
+          "text": "Abr. 3:26",
+          "start": 61,
+          "end": 70,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 3,
+            "chapterId": "abraham3",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Abr. 3:28",
+          "start": 106,
+          "end": 115,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 3,
+            "chapterId": "abraham3",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-premortal-existence",
+      "slug": "premortal-existence",
+      "title": "Premortal Existence"
+    }
+  ],
+  "slug": "estate",
+  "title": "Estate",
+  "type": "index"
+}

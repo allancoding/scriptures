@@ -1,0 +1,32 @@
+{
+  "_id": "bd-cephas",
+  "content": [
+    {
+      "text": "A stone. The Aramaic name (of which Petros is the corresponding Greek) given by our Lord to Simon, when he was called to be a disciple (John 1:42).",
+      "references": [
+        {
+          "text": "John 1:42",
+          "start": 136,
+          "end": 145,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 1,
+            "chapterId": "john1",
+            "verses": [
+              {
+                "start": 42,
+                "end": 42
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "cephas",
+  "title": "Cephas",
+  "type": "bd"
+}

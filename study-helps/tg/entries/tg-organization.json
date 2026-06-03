@@ -1,0 +1,71 @@
+{
+  "_id": "tg-organization",
+  "content": [
+    {
+      "text": "it must needs be that there be an organization of my people, D&C 78:3.",
+      "references": [
+        {
+          "text": "D&C 78:3",
+          "start": 61,
+          "end": 69,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 78,
+            "chapterId": "doctrineandcovenants78",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "We believe in the same organization that existed in the Primitive Church, A of F 1:6.",
+      "references": [
+        {
+          "text": "A of F 1:6",
+          "start": 74,
+          "end": 84,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "a-of-f",
+            "book": "articlesoffaith",
+            "chapter": 1,
+            "chapterId": "articlesoffaith1",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-church-organization",
+      "slug": "church-organization",
+      "title": "Church Organization"
+    },
+    {
+      "entryId": "tg-jesus-christ-head-of-the-church",
+      "slug": "jesus-christ-head-of-the-church",
+      "title": "Jesus Christ, Head of the Church"
+    },
+    {
+      "entryId": "tg-order",
+      "slug": "order",
+      "title": "Order"
+    }
+  ],
+  "slug": "organization",
+  "title": "Organization",
+  "type": "tg"
+}

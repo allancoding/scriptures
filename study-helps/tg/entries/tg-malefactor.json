@@ -1,0 +1,50 @@
+{
+  "_id": "tg-malefactor",
+  "content": [
+    {
+      "text": "two other, malefactors, led with him to be put to death, Luke 23:32. If he were not a malefactor, we would not have delivered him, John 18:30.",
+      "references": [
+        {
+          "text": "Luke 23:32",
+          "start": 57,
+          "end": 67,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 23,
+            "chapterId": "luke23",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 18:30",
+          "start": 131,
+          "end": 141,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 18,
+            "chapterId": "john18",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "malefactor",
+  "title": "Malefactor",
+  "type": "tg"
+}

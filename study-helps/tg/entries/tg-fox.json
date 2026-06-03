@@ -1,0 +1,109 @@
+{
+  "_id": "tg-fox",
+  "content": [
+    {
+      "text": "Samson went and caught three hundred foxes, Judg. 15:4. they shall be a portion for foxes, Ps. 63:10. Israel, thy prophets are like the foxes, Ezek. 13:4.",
+      "references": [
+        {
+          "text": "Judg. 15:4",
+          "start": 44,
+          "end": 54,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "judg",
+            "book": "judges",
+            "chapter": 15,
+            "chapterId": "judges15",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 63:10",
+          "start": 91,
+          "end": 100,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 63,
+            "chapterId": "psalms63",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 13:4",
+          "start": 143,
+          "end": 153,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 13,
+            "chapterId": "ezekiel13",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "foxes have holes, Matt. 8:20 (Luke 9:58).",
+      "references": [
+        {
+          "text": "Matt. 8:20",
+          "start": 18,
+          "end": 28,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 8,
+            "chapterId": "matthew8",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 9:58",
+          "start": 30,
+          "end": 39,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 9,
+            "chapterId": "luke9",
+            "verses": [
+              {
+                "start": 58,
+                "end": 58
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "fox",
+  "title": "Fox",
+  "type": "tg"
+}

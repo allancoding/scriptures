@@ -1,0 +1,86 @@
+{
+  "_id": "bd-gleanings",
+  "content": [
+    {
+      "text": "To be left for the poor (Lev. 19:9–10; 23:22; Deut. 24:19–22). See also Ruth 2:2–23.",
+      "references": [
+        {
+          "text": "Lev. 19:9–10",
+          "start": 25,
+          "end": 37,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 19,
+            "chapterId": "leviticus19",
+            "verses": [
+              {
+                "start": 9,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "23:22",
+          "start": 39,
+          "end": 44,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 23,
+            "chapterId": "leviticus23",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 24:19–22",
+          "start": 46,
+          "end": 60,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 24,
+            "chapterId": "deuteronomy24",
+            "verses": [
+              {
+                "start": 19,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ruth 2:2–23",
+          "start": 72,
+          "end": 83,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ruth",
+            "book": "ruth",
+            "chapter": 2,
+            "chapterId": "ruth2",
+            "verses": [
+              {
+                "start": 2,
+                "end": 23
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "gleanings",
+  "title": "Gleanings",
+  "type": "bd"
+}

@@ -1,0 +1,69 @@
+{
+  "_id": "index-west",
+  "content": [
+    {
+      "text": "teach converts to flee to west, D&C 42:64. elders called to assemble in western countries, D&C 45:64. will of the Lord concerning Saints’ journey to west, D&C 136.",
+      "references": [
+        {
+          "text": "D&C 42:64",
+          "start": 32,
+          "end": 41,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 42,
+            "chapterId": "doctrineandcovenants42",
+            "verses": [
+              {
+                "start": 64,
+                "end": 64
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 45:64",
+          "start": 91,
+          "end": 100,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 45,
+            "chapterId": "doctrineandcovenants45",
+            "verses": [
+              {
+                "start": 64,
+                "end": 64
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 136",
+          "start": 155,
+          "end": 162,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 136,
+            "chapterId": "doctrineandcovenants136",
+            "verses": []
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-north",
+      "slug": "north",
+      "title": "North"
+    }
+  ],
+  "slug": "west",
+  "title": "West, Western",
+  "type": "index"
+}

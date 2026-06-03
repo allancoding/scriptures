@@ -1,0 +1,90 @@
+{
+  "_id": "bd-coney",
+  "content": [
+    {
+      "text": "(Ps. 104:18; Prov. 30:24, 26). Described as unclean (Lev. 11:5; Deut. 14:7).",
+      "references": [
+        {
+          "text": "Ps. 104:18",
+          "start": 1,
+          "end": 11,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 104,
+            "chapterId": "psalms104",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 30:24, 26",
+          "start": 13,
+          "end": 28,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 30,
+            "chapterId": "proverbs30",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              },
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Lev. 11:5",
+          "start": 53,
+          "end": 62,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "lev",
+            "book": "leviticus",
+            "chapter": 11,
+            "chapterId": "leviticus11",
+            "verses": [
+              {
+                "start": 5,
+                "end": 5
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 14:7",
+          "start": 64,
+          "end": 74,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 14,
+            "chapterId": "deuteronomy14",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "coney",
+  "title": "Coney or rock-badger",
+  "type": "bd"
+}

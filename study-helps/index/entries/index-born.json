@@ -1,0 +1,130 @@
+{
+  "_id": "index-born",
+  "content": [
+    {
+      "text": "Nephi1 born of goodly parents, 1 Ne. 1:1. Joseph2 is last-born of Lehi1, 2 Ne. 3:1. better for those who do not receive Jesus not to have been born, 3 Ne. 28:35.",
+      "references": [
+        {
+          "text": "1 Ne. 1:1",
+          "start": 31,
+          "end": 40,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 1,
+            "chapterId": "1nephi1",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 3:1",
+          "start": 73,
+          "end": 82,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 3,
+            "chapterId": "2nephi3",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 28:35",
+          "start": 149,
+          "end": 160,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 28,
+            "chapterId": "3nephi28",
+            "verses": [
+              {
+                "start": 35,
+                "end": 35
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "better for sons of perdition never to have been born, D&C 76:32. noble spirits received first lessons before they were born, D&C 138:56.",
+      "references": [
+        {
+          "text": "D&C 76:32",
+          "start": 54,
+          "end": 63,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 76,
+            "chapterId": "doctrineandcovenants76",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 138:56",
+          "start": 125,
+          "end": 135,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 138,
+            "chapterId": "doctrineandcovenants138",
+            "verses": [
+              {
+                "start": 56,
+                "end": 56
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-bear-verb",
+      "slug": "bear-verb",
+      "title": "Bear [verb]"
+    },
+    {
+      "entryId": "index-born-of-god",
+      "slug": "born-of-god",
+      "title": "Born of God"
+    },
+    {
+      "entryId": "index-firstborn",
+      "slug": "firstborn",
+      "title": "Firstborn"
+    },
+    {
+      "entryId": "index-jesus-christ-first-coming-of",
+      "slug": "jesus-christ-first-coming-of",
+      "title": "Jesus Christ, First Coming of"
+    }
+  ],
+  "slug": "born",
+  "title": "Born",
+  "type": "index"
+}

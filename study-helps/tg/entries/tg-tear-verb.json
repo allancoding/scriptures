@@ -1,0 +1,179 @@
+{
+  "_id": "tg-tear-verb",
+  "content": [
+    {
+      "text": "Surely he is torn in pieces, Gen. 44:28. two she bears … tare forty and two children, 2 Kgs. 2:24. wild beast shall tear them, Hosea 13:8. as a young lion among the flocks of sheep: who … teareth in pieces, Micah 5:8.",
+      "references": [
+        {
+          "text": "Gen. 44:28",
+          "start": 29,
+          "end": 39,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 44,
+            "chapterId": "genesis44",
+            "verses": [
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Kgs. 2:24",
+          "start": 86,
+          "end": 97,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 2,
+            "chapterId": "2kings2",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hosea 13:8",
+          "start": 127,
+          "end": 137,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "hosea",
+            "book": "hosea",
+            "chapter": 13,
+            "chapterId": "hosea13",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Micah 5:8",
+          "start": 207,
+          "end": 216,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "micah",
+            "book": "micah",
+            "chapter": 5,
+            "chapterId": "micah5",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "teareth him: and he foameth, and gnasheth, Mark 9:18 (Luke 9:39).",
+      "references": [
+        {
+          "text": "Mark 9:18",
+          "start": 43,
+          "end": 52,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 9,
+            "chapterId": "mark9",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 9:39",
+          "start": 54,
+          "end": 63,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 9,
+            "chapterId": "luke9",
+            "verses": [
+              {
+                "start": 39,
+                "end": 39
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "remnant of the seed of Jacob shall … tear you in pieces, Morm. 5:24.",
+      "references": [
+        {
+          "text": "Morm. 5:24",
+          "start": 57,
+          "end": 67,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "morm",
+            "book": "mormon",
+            "chapter": 5,
+            "chapterId": "mormon5",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "if … thine enemies tear thee from the bosom of thy wife, D&C 122:6.",
+      "references": [
+        {
+          "text": "D&C 122:6",
+          "start": 57,
+          "end": 66,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 122,
+            "chapterId": "doctrineandcovenants122",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-rend",
+      "slug": "rend",
+      "title": "Rend"
+    }
+  ],
+  "slug": "tear-verb",
+  "title": "Tear, Tare, Tore, Torn",
+  "type": "tg"
+}

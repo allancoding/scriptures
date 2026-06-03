@@ -1,0 +1,107 @@
+{
+  "_id": "tg-maid",
+  "content": [
+    {
+      "text": "Sarai Abram’s wife took Hagar her maid, Gen. 16:3. little maid … waited on Naaman’s wife, 2 Kgs. 5:2. way of a man with a maid, Prov. 30:19.",
+      "references": [
+        {
+          "text": "Gen. 16:3",
+          "start": 40,
+          "end": 49,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 16,
+            "chapterId": "genesis16",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Kgs. 5:2",
+          "start": 90,
+          "end": 100,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 5,
+            "chapterId": "2kings5",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Prov. 30:19",
+          "start": 128,
+          "end": 139,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 30,
+            "chapterId": "proverbs30",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "maid is not dead, but sleepeth, Matt. 9:24.",
+      "references": [
+        {
+          "text": "Matt. 9:24",
+          "start": 32,
+          "end": 42,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 9,
+            "chapterId": "matthew9",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-damsel",
+      "slug": "damsel",
+      "title": "Damsel"
+    },
+    {
+      "entryId": "tg-girl",
+      "slug": "girl",
+      "title": "Girl"
+    },
+    {
+      "entryId": "tg-handmaid",
+      "slug": "handmaid",
+      "title": "Handmaid"
+    }
+  ],
+  "slug": "maid",
+  "title": "Maid",
+  "type": "tg"
+}

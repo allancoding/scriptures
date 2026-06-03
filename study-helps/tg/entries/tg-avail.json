@@ -1,0 +1,91 @@
+{
+  "_id": "tg-avail",
+  "content": [
+    {
+      "text": "neither circumcision availeth any thing, Gal. 5:6. fervent prayer of a righteous man availeth much, James 5:16.",
+      "references": [
+        {
+          "text": "Gal. 5:6",
+          "start": 41,
+          "end": 49,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "gal",
+            "book": "galatians",
+            "chapter": 5,
+            "chapterId": "galatians5",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "James 5:16",
+          "start": 100,
+          "end": 110,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "james",
+            "book": "james",
+            "chapter": 5,
+            "chapterId": "james5",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "law of Moses availeth nothing except, Mosiah 3:15. unto such baptism availeth nothing, Moro. 8:22.",
+      "references": [
+        {
+          "text": "Mosiah 3:15",
+          "start": 38,
+          "end": 49,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 3,
+            "chapterId": "mosiah3",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Moro. 8:22",
+          "start": 87,
+          "end": 97,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "moro",
+            "book": "moroni",
+            "chapter": 8,
+            "chapterId": "moroni8",
+            "verses": [
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "avail",
+  "title": "Avail",
+  "type": "tg"
+}

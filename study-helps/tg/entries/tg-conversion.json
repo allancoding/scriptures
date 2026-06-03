@@ -1,0 +1,523 @@
+{
+  "_id": "tg-conversion",
+  "content": [
+    {
+      "text": "law of the Lord is perfect, converting the soul, Ps. 19:7. sinners shall be converted unto thee, Ps. 51:13. understand with their heart, and convert, Isa. 6:10 (Matt. 13:15; Mark 4:12; John 12:40; Acts 28:27). turn thou to thy God, Hosea 12:6. turn ye even to me with all your heart, Joel 2:12.",
+      "references": [
+        {
+          "text": "Ps. 19:7",
+          "start": 49,
+          "end": 57,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 19,
+            "chapterId": "psalms19",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 51:13",
+          "start": 97,
+          "end": 106,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 51,
+            "chapterId": "psalms51",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 6:10",
+          "start": 150,
+          "end": 159,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 6,
+            "chapterId": "isaiah6",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Matt. 13:15",
+          "start": 161,
+          "end": 172,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 13,
+            "chapterId": "matthew13",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mark 4:12",
+          "start": 174,
+          "end": 183,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 4,
+            "chapterId": "mark4",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "John 12:40",
+          "start": 185,
+          "end": 195,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 12,
+            "chapterId": "john12",
+            "verses": [
+              {
+                "start": 40,
+                "end": 40
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 28:27",
+          "start": 197,
+          "end": 207,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 28,
+            "chapterId": "acts28",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hosea 12:6",
+          "start": 232,
+          "end": 242,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "hosea",
+            "book": "hosea",
+            "chapter": 12,
+            "chapterId": "hosea12",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        },
+        {
+          "text": "Joel 2:12",
+          "start": 284,
+          "end": 293,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "joel",
+            "book": "joel",
+            "chapter": 2,
+            "chapterId": "joel2",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Except ye be converted, and become as little children, Matt. 18:3. when thou art converted, strengthen thy brethren, Luke 22:32. they were pricked in their heart, Acts 2:37. Repent … and be converted, Acts 3:19. declaring the conversion of the Gentiles, Acts 15:3. converteth the sinner from the error of his way, James 5:20.",
+      "references": [
+        {
+          "text": "Matt. 18:3",
+          "start": 55,
+          "end": 65,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 18,
+            "chapterId": "matthew18",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 22:32",
+          "start": 117,
+          "end": 127,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 22,
+            "chapterId": "luke22",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 2:37",
+          "start": 163,
+          "end": 172,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 2,
+            "chapterId": "acts2",
+            "verses": [
+              {
+                "start": 37,
+                "end": 37
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 3:19",
+          "start": 201,
+          "end": 210,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 3,
+            "chapterId": "acts3",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 15:3",
+          "start": 254,
+          "end": 263,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 15,
+            "chapterId": "acts15",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "James 5:20",
+          "start": 314,
+          "end": 324,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "james",
+            "book": "james",
+            "chapter": 5,
+            "chapterId": "james5",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "wrought a mighty change in us, Mosiah 5:2 (Alma 5:12–14). desirous to come into the fold of God, Mosiah 18:8. all mankind … must be born again; yea, born of God, Mosiah 27:25. bow down before God, Alma 22:16. repentance bringeth a change of heart, Hel. 15:7.",
+      "references": [
+        {
+          "text": "Mosiah 5:2",
+          "start": 31,
+          "end": 41,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 5,
+            "chapterId": "mosiah5",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 5:12–14",
+          "start": 43,
+          "end": 55,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 5,
+            "chapterId": "alma5",
+            "verses": [
+              {
+                "start": 12,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 18:8",
+          "start": 97,
+          "end": 108,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 18,
+            "chapterId": "mosiah18",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 27:25",
+          "start": 162,
+          "end": 174,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 27,
+            "chapterId": "mosiah27",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 22:16",
+          "start": 197,
+          "end": 207,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 22,
+            "chapterId": "alma22",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Hel. 15:7",
+          "start": 248,
+          "end": 257,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "hel",
+            "book": "helaman",
+            "chapter": 15,
+            "chapterId": "helaman15",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "many shall be converted, D&C 44:4. remnants of Jacob … be converted, D&C 109:65. converted and redeemed with Israel, D&C 109:70. they shall be converted, D&C 112:13.",
+      "references": [
+        {
+          "text": "D&C 44:4",
+          "start": 25,
+          "end": 33,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 44,
+            "chapterId": "doctrineandcovenants44",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 109:65",
+          "start": 69,
+          "end": 79,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 109,
+            "chapterId": "doctrineandcovenants109",
+            "verses": [
+              {
+                "start": 65,
+                "end": 65
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 109:70",
+          "start": 117,
+          "end": 127,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 109,
+            "chapterId": "doctrineandcovenants109",
+            "verses": [
+              {
+                "start": 70,
+                "end": 70
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 112:13",
+          "start": 154,
+          "end": 164,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 112,
+            "chapterId": "doctrineandcovenants112",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "the souls that we had won in Haran, Abr. 2:15.",
+      "references": [
+        {
+          "text": "Abr. 2:15",
+          "start": 36,
+          "end": 45,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "abr",
+            "book": "abraham",
+            "chapter": 2,
+            "chapterId": "abraham2",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-holy-ghost-baptism-of",
+      "slug": "holy-ghost-baptism-of",
+      "title": "Holy Ghost, Baptism of"
+    },
+    {
+      "entryId": "tg-man-new-spiritually-reborn",
+      "slug": "man-new-spiritually-reborn",
+      "title": "Man, New, Spiritually Reborn"
+    },
+    {
+      "entryId": "tg-missionary-work",
+      "slug": "missionary-work",
+      "title": "Missionary Work"
+    },
+    {
+      "entryId": "tg-soul",
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "slug": "conversion",
+  "title": "Conversion, Convert",
+  "type": "tg"
+}

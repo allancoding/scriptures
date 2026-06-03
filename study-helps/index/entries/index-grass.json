@@ -1,0 +1,43 @@
+{
+  "_id": "index-grass",
+  "content": [
+    {
+      "text": "do not fear kings and authorities, for they are as grass, D&C 124:7.",
+      "references": [
+        {
+          "text": "D&C 124:7",
+          "start": 58,
+          "end": 67,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 124,
+            "chapterId": "doctrineandcovenants124",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-herb",
+      "slug": "herb",
+      "title": "Herb"
+    },
+    {
+      "entryId": "index-plant",
+      "slug": "plant",
+      "title": "Plant"
+    }
+  ],
+  "slug": "grass",
+  "title": "Grass",
+  "type": "index"
+}

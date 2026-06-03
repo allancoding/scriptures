@@ -1,0 +1,92 @@
+{
+  "_id": "index-letter",
+  "content": [
+    {
+      "text": "members moving to new area should take letter of certification, D&C 20:84. elders to be called together by letter, D&C 44:1. Aaronic Priesthood is to administer in letter of gospel, D&C 107:20. revelation contained in letter which Joseph Smith wrote, D&C 128:7.",
+      "references": [
+        {
+          "text": "D&C 20:84",
+          "start": 64,
+          "end": 73,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 20,
+            "chapterId": "doctrineandcovenants20",
+            "verses": [
+              {
+                "start": 84,
+                "end": 84
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 44:1",
+          "start": 115,
+          "end": 123,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 44,
+            "chapterId": "doctrineandcovenants44",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 107:20",
+          "start": 182,
+          "end": 192,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 107,
+            "chapterId": "doctrineandcovenants107",
+            "verses": [
+              {
+                "start": 20,
+                "end": 20
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 128:7",
+          "start": 251,
+          "end": 260,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 128,
+            "chapterId": "doctrineandcovenants128",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-epistle",
+      "slug": "epistle",
+      "title": "Epistle"
+    }
+  ],
+  "slug": "letter",
+  "title": "Letter",
+  "type": "index"
+}

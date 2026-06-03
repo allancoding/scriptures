@@ -1,0 +1,63 @@
+{
+  "_id": "tg-train",
+  "content": [
+    {
+      "text": "Train up a child in the way he should go, Prov. 22:6.",
+      "references": [
+        {
+          "text": "Prov. 22:6",
+          "start": 42,
+          "end": 52,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "prov",
+            "book": "proverbs",
+            "chapter": 22,
+            "chapterId": "proverbs22",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-children",
+      "slug": "children",
+      "title": "Children"
+    },
+    {
+      "entryId": "tg-education",
+      "slug": "education",
+      "title": "Education"
+    },
+    {
+      "entryId": "tg-family-children-responsibilities-toward",
+      "slug": "family-children-responsibilities-toward",
+      "title": "Family, Children, Responsibilities toward"
+    },
+    {
+      "entryId": "tg-marriage-fatherhood",
+      "slug": "marriage-fatherhood",
+      "title": "Marriage, Fatherhood"
+    },
+    {
+      "entryId": "tg-marriage-motherhood",
+      "slug": "marriage-motherhood",
+      "title": "Marriage, Motherhood"
+    },
+    {
+      "entryId": "tg-teaching",
+      "slug": "teaching",
+      "title": "Teaching"
+    }
+  ],
+  "slug": "train",
+  "title": "Train",
+  "type": "tg"
+}

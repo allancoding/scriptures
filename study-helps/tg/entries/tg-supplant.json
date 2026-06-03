@@ -1,0 +1,73 @@
+{
+  "_id": "tg-supplant",
+  "content": [
+    {
+      "text": "Jacob? for he hath supplanted me these two times, Gen. 27:36. every brother will utterly supplant, Jer. 9:4.",
+      "references": [
+        {
+          "text": "Gen. 27:36",
+          "start": 50,
+          "end": 60,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 27,
+            "chapterId": "genesis27",
+            "verses": [
+              {
+                "start": 36,
+                "end": 36
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 9:4",
+          "start": 99,
+          "end": 107,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 9,
+            "chapterId": "jeremiah9",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "peace and harmony would be supplanted by anarchy, D&C 134:6.",
+      "references": [
+        {
+          "text": "D&C 134:6",
+          "start": 50,
+          "end": 59,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 134,
+            "chapterId": "doctrineandcovenants134",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "supplant",
+  "title": "Supplant",
+  "type": "tg"
+}

@@ -1,0 +1,38 @@
+{
+  "_id": "index-silly",
+  "content": [
+    {
+      "text": "Korihor accuses priests of leading people after silly traditions, Alma 30:31.",
+      "references": [
+        {
+          "text": "Alma 30:31",
+          "start": 66,
+          "end": 76,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 30,
+            "chapterId": "alma30",
+            "verses": [
+              {
+                "start": 31,
+                "end": 31
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-foolish",
+      "slug": "foolish",
+      "title": "Foolish"
+    }
+  ],
+  "slug": "silly",
+  "title": "Silly",
+  "type": "index"
+}

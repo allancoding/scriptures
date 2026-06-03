@@ -1,0 +1,73 @@
+{
+  "_id": "tg-pot",
+  "content": [
+    {
+      "text": "Take a pot, and put an omer full of manna therein, Ex. 16:33.",
+      "references": [
+        {
+          "text": "Ex. 16:33",
+          "start": 51,
+          "end": 60,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ex",
+            "book": "exodus",
+            "chapter": 16,
+            "chapterId": "exodus16",
+            "verses": [
+              {
+                "start": 33,
+                "end": 33
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "tradition of men, as the washing of pots, Mark 7:8. wherein was the golden pot that had manna, Heb. 9:4.",
+      "references": [
+        {
+          "text": "Mark 7:8",
+          "start": 42,
+          "end": 50,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "mark",
+            "book": "mark",
+            "chapter": 7,
+            "chapterId": "mark7",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Heb. 9:4",
+          "start": 95,
+          "end": 103,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "heb",
+            "book": "hebrews",
+            "chapter": 9,
+            "chapterId": "hebrews9",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "pot",
+  "title": "Pot",
+  "type": "tg"
+}

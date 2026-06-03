@@ -1,0 +1,588 @@
+{
+  "_id": "tg-captive",
+  "content": [
+    {
+      "text": "Abram heard that his brother was taken captive, Gen. 14:14. Tiglath-pileser … carried them captive, 2 Kgs. 15:29. the king of Babylon brought captive to Babylon, 2 Kgs. 24:16. which ye have taken captive of your brethren, 2 Chr. 28:11. thou hast led captivity captive, Ps. 68:18 (Eph. 4:8). they shall take them captives, whose captives they were, Isa. 14:2 (2 Ne. 24:2). Even the captives of the mighty shall be taken, Isa. 49:25. captive exile hasteneth that he may be loosed, Isa. 51:14. he hath sent me … to proclaim liberty to the captives, Isa. 61:1 (Luke 4:18; D&C 138:18, 31, 42). Judah shall be carried away captive, Jer. 13:19. Judah … carry them captive into Babylon, Jer. 20:4. Nebuzar-adan … carried away captive of the Jews, Jer. 52:30. I was among the captives, Ezek. 1:1.",
+      "references": [
+        {
+          "text": "Gen. 14:14",
+          "start": 48,
+          "end": 58,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 14,
+            "chapterId": "genesis14",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Kgs. 15:29",
+          "start": 100,
+          "end": 112,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 15,
+            "chapterId": "2kings15",
+            "verses": [
+              {
+                "start": 29,
+                "end": 29
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Kgs. 24:16",
+          "start": 162,
+          "end": 174,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-kgs",
+            "book": "2kings",
+            "chapter": 24,
+            "chapterId": "2kings24",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Chr. 28:11",
+          "start": 222,
+          "end": 234,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "2-chr",
+            "book": "2chronicles",
+            "chapter": 28,
+            "chapterId": "2chronicles28",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 68:18",
+          "start": 269,
+          "end": 278,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 68,
+            "chapterId": "psalms68",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "Eph. 4:8",
+          "start": 280,
+          "end": 288,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "eph",
+            "book": "ephesians",
+            "chapter": 4,
+            "chapterId": "ephesians4",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 14:2",
+          "start": 348,
+          "end": 357,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 14,
+            "chapterId": "isaiah14",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 24:2",
+          "start": 359,
+          "end": 369,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 24,
+            "chapterId": "2nephi24",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 49:25",
+          "start": 420,
+          "end": 430,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 49,
+            "chapterId": "isaiah49",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 51:14",
+          "start": 479,
+          "end": 489,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 51,
+            "chapterId": "isaiah51",
+            "verses": [
+              {
+                "start": 14,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Isa. 61:1",
+          "start": 546,
+          "end": 555,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "isa",
+            "book": "isaiah",
+            "chapter": 61,
+            "chapterId": "isaiah61",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        },
+        {
+          "text": "Luke 4:18",
+          "start": 557,
+          "end": 566,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 4,
+            "chapterId": "luke4",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              }
+            ]
+          }
+        },
+        {
+          "text": "D&C 138:18, 31, 42",
+          "start": 568,
+          "end": 586,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 138,
+            "chapterId": "doctrineandcovenants138",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              },
+              {
+                "start": 31,
+                "end": 31
+              },
+              {
+                "start": 42,
+                "end": 42
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 13:19",
+          "start": 626,
+          "end": 636,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 13,
+            "chapterId": "jeremiah13",
+            "verses": [
+              {
+                "start": 19,
+                "end": 19
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 20:4",
+          "start": 679,
+          "end": 688,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 20,
+            "chapterId": "jeremiah20",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 52:30",
+          "start": 739,
+          "end": 749,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 52,
+            "chapterId": "jeremiah52",
+            "verses": [
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ezek. 1:1",
+          "start": 777,
+          "end": 786,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezek",
+            "book": "ezekiel",
+            "chapter": 1,
+            "chapterId": "ezekiel1",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "shall be led away captive into all nations, Luke 21:24. devil … taken captive by him, 2 Tim. 2:26. they which creep into houses, and lead captive silly women, 2 Tim. 3:6.",
+      "references": [
+        {
+          "text": "Luke 21:24",
+          "start": 44,
+          "end": 54,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "luke",
+            "book": "luke",
+            "chapter": 21,
+            "chapterId": "luke21",
+            "verses": [
+              {
+                "start": 24,
+                "end": 24
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Tim. 2:26",
+          "start": 86,
+          "end": 97,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-tim",
+            "book": "2timothy",
+            "chapter": 2,
+            "chapterId": "2timothy2",
+            "verses": [
+              {
+                "start": 26,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Tim. 3:6",
+          "start": 159,
+          "end": 169,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "2-tim",
+            "book": "2timothy",
+            "chapter": 3,
+            "chapterId": "2timothy3",
+            "verses": [
+              {
+                "start": 6,
+                "end": 6
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Jerusalem … many should be carried away captive into Babylon, 1 Ne. 1:13 (10:3). descendant of Joseph who was carried captive, 2 Ne. 3:4. hell must deliver up its captive spirits, 2 Ne. 9:12. they have been destroyed, save it be those which are carried away captive into Babylon, 2 Ne. 25:10. Zedekiah … carried away captive into Babylon, Omni 1:15. they are taken captive by the devil, Alma 12:11. watch and pray always, lest ye be … led away captive, 3 Ne. 18:15. the fourth generation … are led away captive … as was the son of perdition, 3 Ne. 27:32.",
+      "references": [
+        {
+          "text": "1 Ne. 1:13",
+          "start": 62,
+          "end": 72,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 1,
+            "chapterId": "1nephi1",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "10:3",
+          "start": 74,
+          "end": 78,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 10,
+            "chapterId": "1nephi10",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 3:4",
+          "start": 127,
+          "end": 136,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 3,
+            "chapterId": "2nephi3",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 9:12",
+          "start": 180,
+          "end": 190,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 9,
+            "chapterId": "2nephi9",
+            "verses": [
+              {
+                "start": 12,
+                "end": 12
+              }
+            ]
+          }
+        },
+        {
+          "text": "2 Ne. 25:10",
+          "start": 280,
+          "end": 291,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "2-ne",
+            "book": "2nephi",
+            "chapter": 25,
+            "chapterId": "2nephi25",
+            "verses": [
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        },
+        {
+          "text": "Omni 1:15",
+          "start": 339,
+          "end": 348,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "omni",
+            "book": "omni",
+            "chapter": 1,
+            "chapterId": "omni1",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 12:11",
+          "start": 387,
+          "end": 397,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 12,
+            "chapterId": "alma12",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 18:15",
+          "start": 453,
+          "end": 464,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 18,
+            "chapterId": "3nephi18",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 27:32",
+          "start": 542,
+          "end": 553,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 27,
+            "chapterId": "3nephi27",
+            "verses": [
+              {
+                "start": 32,
+                "end": 32
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "Satan … lead them captive at his will, Moses 4:4.",
+      "references": [
+        {
+          "text": "Moses 4:4",
+          "start": 39,
+          "end": 48,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 4,
+            "chapterId": "moses4",
+            "verses": [
+              {
+                "start": 4,
+                "end": 4
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-captivity",
+      "slug": "captivity",
+      "title": "Captivity"
+    },
+    {
+      "entryId": "tg-prisoner",
+      "slug": "prisoner",
+      "title": "Prisoner"
+    }
+  ],
+  "slug": "captive",
+  "title": "Captive",
+  "type": "tg"
+}

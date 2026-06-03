@@ -1,0 +1,68 @@
+{
+  "_id": "bd-pontus",
+  "content": [
+    {
+      "text": "A country in northeastern Asia Minor, forming part of the shore of the Euxine or Black Sea (Acts 2:9; 18:2; 1 Pet. 1:1).",
+      "references": [
+        {
+          "text": "Acts 2:9",
+          "start": 92,
+          "end": 100,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 2,
+            "chapterId": "acts2",
+            "verses": [
+              {
+                "start": 9,
+                "end": 9
+              }
+            ]
+          }
+        },
+        {
+          "text": "18:2",
+          "start": 102,
+          "end": 106,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 18,
+            "chapterId": "acts18",
+            "verses": [
+              {
+                "start": 2,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "1 Pet. 1:1",
+          "start": 108,
+          "end": 118,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "1-pet",
+            "book": "1peter",
+            "chapter": 1,
+            "chapterId": "1peter1",
+            "verses": [
+              {
+                "start": 1,
+                "end": 1
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "pontus",
+  "title": "Pontus",
+  "type": "bd"
+}

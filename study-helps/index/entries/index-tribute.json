@@ -1,0 +1,99 @@
+{
+  "_id": "index-tribute",
+  "content": [
+    {
+      "text": "Limhi’s people pay tribute to Lamanites, Mosiah 7:15, 22 (19:15, 22, 26, 28). Gideon will pay last tribute of wine to Lamanites, Mosiah 22:7, 10.",
+      "references": [
+        {
+          "text": "Mosiah 7:15, 22",
+          "start": 41,
+          "end": 56,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 7,
+            "chapterId": "mosiah7",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              },
+              {
+                "start": 22,
+                "end": 22
+              }
+            ]
+          }
+        },
+        {
+          "text": "19:15, 22, 26, 28",
+          "start": 58,
+          "end": 75,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 19,
+            "chapterId": "mosiah19",
+            "verses": [
+              {
+                "start": 15,
+                "end": 15
+              },
+              {
+                "start": 22,
+                "end": 22
+              },
+              {
+                "start": 26,
+                "end": 26
+              },
+              {
+                "start": 28,
+                "end": 28
+              }
+            ]
+          }
+        },
+        {
+          "text": "Mosiah 22:7, 10",
+          "start": 129,
+          "end": 144,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 22,
+            "chapterId": "mosiah22",
+            "verses": [
+              {
+                "start": 7,
+                "end": 7
+              },
+              {
+                "start": 10,
+                "end": 10
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-bondage",
+      "slug": "bondage",
+      "title": "Bondage"
+    },
+    {
+      "entryId": "index-tax",
+      "slug": "tax",
+      "title": "Tax"
+    }
+  ],
+  "slug": "tribute",
+  "title": "Tribute",
+  "type": "index"
+}

@@ -1,0 +1,100 @@
+{
+  "_id": "index-smile",
+  "content": [
+    {
+      "text": "hand of providence has smiled upon Nephites, Jacob 2:13. Jesus’ countenance smiled upon disciples, 3 Ne. 19:25, 30.",
+      "references": [
+        {
+          "text": "Jacob 2:13",
+          "start": 45,
+          "end": 55,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "jacob",
+            "book": "jacob",
+            "chapter": 2,
+            "chapterId": "jacob2",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        },
+        {
+          "text": "3 Ne. 19:25, 30",
+          "start": 99,
+          "end": 114,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "3-ne",
+            "book": "3nephi",
+            "chapter": 19,
+            "chapterId": "3nephi19",
+            "verses": [
+              {
+                "start": 25,
+                "end": 25
+              },
+              {
+                "start": 30,
+                "end": 30
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "heavens have smiled upon earth, D&C 84:101.",
+      "references": [
+        {
+          "text": "D&C 84:101",
+          "start": 32,
+          "end": 42,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 84,
+            "chapterId": "doctrineandcovenants84",
+            "verses": [
+              {
+                "start": 101,
+                "end": 101
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "the Lord smiled upon ark of Noah1, Moses 7:43.",
+      "references": [
+        {
+          "text": "Moses 7:43",
+          "start": 35,
+          "end": 45,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 7,
+            "chapterId": "moses7",
+            "verses": [
+              {
+                "start": 43,
+                "end": 43
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "smile",
+  "title": "Smile",
+  "type": "index"
+}

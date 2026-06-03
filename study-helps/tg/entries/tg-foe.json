@@ -1,0 +1,84 @@
+{
+  "_id": "tg-foe",
+  "content": [
+    {
+      "text": "man’s foes shall be they of his own household, Matt. 10:36. Until I make thy foes thy footstool, Acts 2:35.",
+      "references": [
+        {
+          "text": "Matt. 10:36",
+          "start": 47,
+          "end": 58,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "matt",
+            "book": "matthew",
+            "chapter": 10,
+            "chapterId": "matthew10",
+            "verses": [
+              {
+                "start": 36,
+                "end": 36
+              }
+            ]
+          }
+        },
+        {
+          "text": "Acts 2:35",
+          "start": 97,
+          "end": 106,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "acts",
+            "book": "acts",
+            "chapter": 2,
+            "chapterId": "acts2",
+            "verses": [
+              {
+                "start": 35,
+                "end": 35
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "thou shalt triumph over all thy foes, D&C 121:8.",
+      "references": [
+        {
+          "text": "D&C 121:8",
+          "start": 38,
+          "end": 47,
+          "parsed": {
+            "volume": "dc-testament",
+            "bookKey": "dc",
+            "book": "doctrineandcovenants",
+            "chapter": 121,
+            "chapterId": "doctrineandcovenants121",
+            "verses": [
+              {
+                "start": 8,
+                "end": 8
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-adversary",
+      "slug": "adversary",
+      "title": "Adversary"
+    },
+    {
+      "entryId": "tg-enemies",
+      "slug": "enemies",
+      "title": "Enemies"
+    }
+  ],
+  "slug": "foe",
+  "title": "Foe",
+  "type": "tg"
+}

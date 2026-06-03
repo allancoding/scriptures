@@ -1,0 +1,61 @@
+{
+  "_id": "tg-popular",
+  "content": [
+    {
+      "text": "churches … built up to become popular, 1 Ne. 22:23. declaring … that every priest and teacher ought to become popular, Alma 1:3.",
+      "references": [
+        {
+          "text": "1 Ne. 22:23",
+          "start": 39,
+          "end": 50,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "1-ne",
+            "book": "1nephi",
+            "chapter": 22,
+            "chapterId": "1nephi22",
+            "verses": [
+              {
+                "start": 23,
+                "end": 23
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 1:3",
+          "start": 119,
+          "end": 127,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 1,
+            "chapterId": "alma1",
+            "verses": [
+              {
+                "start": 3,
+                "end": 3
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "tg-peer-influence",
+      "slug": "peer-influence",
+      "title": "Peer Influence"
+    },
+    {
+      "entryId": "tg-worldliness",
+      "slug": "worldliness",
+      "title": "Worldliness"
+    }
+  ],
+  "slug": "popular",
+  "title": "Popular",
+  "type": "tg"
+}

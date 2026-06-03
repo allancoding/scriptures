@@ -1,0 +1,50 @@
+{
+  "_id": "bd-rabboni",
+  "content": [
+    {
+      "text": "My master. Title used in addressing Christ (John 20:16; compare Alma 18:13).",
+      "references": [
+        {
+          "text": "John 20:16",
+          "start": 44,
+          "end": 54,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "john",
+            "book": "john",
+            "chapter": 20,
+            "chapterId": "john20",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Alma 18:13",
+          "start": 64,
+          "end": 74,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "alma",
+            "book": "alma",
+            "chapter": 18,
+            "chapterId": "alma18",
+            "verses": [
+              {
+                "start": 13,
+                "end": 13
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "rabboni",
+  "title": "Rabboni",
+  "type": "bd"
+}

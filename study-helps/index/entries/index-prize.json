@@ -1,0 +1,61 @@
+{
+  "_id": "index-prize",
+  "content": [
+    {
+      "text": "man should be diligent, that thereby he might win prize, Mosiah 4:27.",
+      "references": [
+        {
+          "text": "Mosiah 4:27",
+          "start": 57,
+          "end": 68,
+          "parsed": {
+            "volume": "bofm",
+            "bookKey": "mosiah",
+            "book": "mosiah",
+            "chapter": 4,
+            "chapterId": "mosiah4",
+            "verses": [
+              {
+                "start": 27,
+                "end": 27
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "men must taste bitter so that they prize good, Moses 6:55.",
+      "references": [
+        {
+          "text": "Moses 6:55",
+          "start": 47,
+          "end": 57,
+          "parsed": {
+            "volume": "pgp",
+            "bookKey": "moses",
+            "book": "moses",
+            "chapter": 6,
+            "chapterId": "moses6",
+            "verses": [
+              {
+                "start": 55,
+                "end": 55
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "entryId": "index-reward",
+      "slug": "reward",
+      "title": "Reward"
+    }
+  ],
+  "slug": "prize",
+  "title": "Prize",
+  "type": "index"
+}

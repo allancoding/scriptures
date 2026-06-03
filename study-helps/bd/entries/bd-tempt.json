@@ -1,0 +1,94 @@
+{
+  "_id": "bd-tempt",
+  "content": [
+    {
+      "text": "To test, try, or prove (Gen. 22:1–2). To seduce or lead toward evil (James 1:13–14). To provoke to anger (Deut. 6:16; Ps. 78:18, 41, 56).",
+      "references": [
+        {
+          "text": "Gen. 22:1–2",
+          "start": 24,
+          "end": 35,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "gen",
+            "book": "genesis",
+            "chapter": 22,
+            "chapterId": "genesis22",
+            "verses": [
+              {
+                "start": 1,
+                "end": 2
+              }
+            ]
+          }
+        },
+        {
+          "text": "James 1:13–14",
+          "start": 69,
+          "end": 82,
+          "parsed": {
+            "volume": "nt",
+            "bookKey": "james",
+            "book": "james",
+            "chapter": 1,
+            "chapterId": "james1",
+            "verses": [
+              {
+                "start": 13,
+                "end": 14
+              }
+            ]
+          }
+        },
+        {
+          "text": "Deut. 6:16",
+          "start": 106,
+          "end": 116,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "deut",
+            "book": "deuteronomy",
+            "chapter": 6,
+            "chapterId": "deuteronomy6",
+            "verses": [
+              {
+                "start": 16,
+                "end": 16
+              }
+            ]
+          }
+        },
+        {
+          "text": "Ps. 78:18, 41, 56",
+          "start": 118,
+          "end": 135,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ps",
+            "book": "psalms",
+            "chapter": 78,
+            "chapterId": "psalms78",
+            "verses": [
+              {
+                "start": 18,
+                "end": 18
+              },
+              {
+                "start": 41,
+                "end": 41
+              },
+              {
+                "start": 56,
+                "end": 56
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "seeAlso": [],
+  "slug": "tempt",
+  "title": "Tempt",
+  "type": "bd"
+}

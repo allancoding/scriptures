@@ -1,0 +1,80 @@
+{
+  "_id": "bd-aramaic",
+  "content": [
+    {
+      "text": "An official language of the Persian Empire, spoken widely throughout the Near East. Certain portions of the Old Testament are written in Aramaic (Ezra 4:8–6:18; 7:12–26; Jer. 10:11; Dan. 2:4–7:28). Aramaic words are also found in Job, Song of Solomon, Jonah, Esther, the Hebrew parts of Daniel, and some of the Psalms.",
+      "references": [
+        {
+          "text": "Ezra 4:8–6:18",
+          "start": 146,
+          "end": 159,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezra",
+            "book": "ezra",
+            "chapter": 4,
+            "chapterId": "ezra4",
+            "verses": []
+          }
+        },
+        {
+          "text": "7:12–26",
+          "start": 161,
+          "end": 168,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "ezra",
+            "book": "ezra",
+            "chapter": 7,
+            "chapterId": "ezra7",
+            "verses": [
+              {
+                "start": 12,
+                "end": 26
+              }
+            ]
+          }
+        },
+        {
+          "text": "Jer. 10:11",
+          "start": 170,
+          "end": 180,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "jer",
+            "book": "jeremiah",
+            "chapter": 10,
+            "chapterId": "jeremiah10",
+            "verses": [
+              {
+                "start": 11,
+                "end": 11
+              }
+            ]
+          }
+        },
+        {
+          "text": "Dan. 2:4–7:28",
+          "start": 182,
+          "end": 195,
+          "parsed": {
+            "volume": "ot",
+            "bookKey": "dan",
+            "book": "daniel",
+            "chapter": 2,
+            "chapterId": "daniel2",
+            "verses": []
+          }
+        }
+      ]
+    },
+    {
+      "text": "The common language of the Jews after the return from Babylon was Aramaic, and it is most probable that Jesus and the Twelve spoke Galilean Aramaic, rather than the Hebrew of earlier times. See also Aram.",
+      "references": []
+    }
+  ],
+  "seeAlso": [],
+  "slug": "aramaic",
+  "title": "Aramaic",
+  "type": "bd"
+}
