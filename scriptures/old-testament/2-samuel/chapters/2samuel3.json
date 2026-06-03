@@ -1,0 +1,1000 @@
+{
+  "_id": "2samuel3",
+  "book": {
+    "_id": "2samuel",
+    "title": "2 Samuel",
+    "titleShort": "2 Sam.",
+    "titleOfficial": "",
+    "subtitle": "",
+    "summary": "",
+    "chapterDelineation": "Chapter"
+  },
+  "chapter": {
+    "bookTitle": "2 Samuel",
+    "delineation": "Chapter",
+    "number": 3,
+    "summary": "The houses of David and Saul engage in a long war—David grows stronger—Abner joins David but is slain by Joab—David mourns for Abner.",
+    "chapterAugmentations": [],
+    "verses": [
+      {
+        "text": "Now there was long war between the house of Saul and the house of David: but David waxed stronger and stronger, and the house of Saul waxed weaker and weaker.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 1,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "2 Samuel 3:1",
+        "book": "2 Samuel",
+        "chapter": 3,
+        "verse": 1
+      },
+      {
+        "text": "And unto David were sons born in Hebron: and his firstborn was Amnon, of Ahinoam the Jezreelitess;",
+        "footNotes": [
+          {
+            "start": 9,
+            "end": 14,
+            "text": "2 Sam. 5:13; 1 Chr. 3:1 (1–4)."
+          },
+          {
+            "start": 73,
+            "end": 80,
+            "text": "1 Sam. 14:50; 25:43."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 2,
+        "crossReferences": [
+          {
+            "raw": "1 Sam. 14:50; 25:43.",
+            "prettyString": "1 Samuel 14:50; 25:43",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "1samuel",
+                "chapters": [
+                  {
+                    "start": 14,
+                    "end": 14,
+                    "verses": [
+                      {
+                        "start": 50,
+                        "end": 50
+                      }
+                    ]
+                  },
+                  {
+                    "start": 25,
+                    "end": 25,
+                    "verses": [
+                      {
+                        "start": 43,
+                        "end": 43
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "2 Samuel 3:2",
+        "book": "2 Samuel",
+        "chapter": 3,
+        "verse": 2
+      },
+      {
+        "text": "And his second, Chileab, of Abigail the wife of Nabal the Carmelite; and the third, Absalom the son of Maacah the daughter of Talmai king of Geshur;",
+        "footNotes": [
+          {
+            "start": 84,
+            "end": 91,
+            "text": "2 Sam. 13:1."
+          },
+          {
+            "start": 141,
+            "end": 147,
+            "text": "Deut. 3:14; 2 Sam. 14:32 (23, 32); 15:8."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 3,
+        "crossReferences": [
+          {
+            "raw": "2 Sam. 13:1.",
+            "prettyString": "2 Samuel 13:1",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "2samuel",
+                "chapters": [
+                  {
+                    "start": 13,
+                    "end": 13,
+                    "verses": [
+                      {
+                        "start": 1,
+                        "end": 1
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "2 Samuel 3:3",
+        "book": "2 Samuel",
+        "chapter": 3,
+        "verse": 3
+      },
+      {
+        "text": "And the fourth, Adonijah the son of Haggith; and the fifth, Shephatiah the son of Abital;",
+        "footNotes": [
+          {
+            "start": 16,
+            "end": 24,
+            "text": "1 Kgs. 1:5."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 4,
+        "crossReferences": [
+          {
+            "raw": "1 Kgs. 1:5.",
+            "prettyString": "1 Kings 1:5",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "1kings",
+                "chapters": [
+                  {
+                    "start": 1,
+                    "end": 1,
+                    "verses": [
+                      {
+                        "start": 5,
+                        "end": 5
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "2 Samuel 3:4",
+        "book": "2 Samuel",
+        "chapter": 3,
+        "verse": 4
+      },
+      {
+        "text": "And the sixth, Ithream, by Eglah David’s wife. These were born to David in Hebron.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 5,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "2 Samuel 3:5",
+        "book": "2 Samuel",
+        "chapter": 3,
+        "verse": 5
+      },
+      {
+        "text": "And it came to pass, while there was war between the house of Saul and the house of David, that Abner made himself strong for the house of Saul.",
+        "footNotes": [
+          {
+            "start": 96,
+            "end": 101,
+            "text": "2 Sam. 2:8."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 6,
+        "crossReferences": [
+          {
+            "raw": "2 Sam. 2:8.",
+            "prettyString": "2 Samuel 2:8",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "2samuel",
+                "chapters": [
+                  {
+                    "start": 2,
+                    "end": 2,
+                    "verses": [
+                      {
+                        "start": 8,
+                        "end": 8
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "2 Samuel 3:6",
+        "book": "2 Samuel",
+        "chapter": 3,
+        "verse": 6
+      },
+      {
+        "text": "And Saul had a concubine, whose name was Rizpah, the daughter of Aiah: and Ish-bosheth said to Abner, Wherefore hast thou gone in unto my father’s concubine?",
+        "footNotes": [
+          {
+            "start": 41,
+            "end": 47,
+            "text": "2 Sam. 21:8 (8, 10)."
+          }
+        ],
+        "italics": [
+          {
+            "start": 37,
+            "end": 40
+          },
+          {
+            "start": 75,
+            "end": 86
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 7,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "2 Samuel 3:7",
+        "book": "2 Samuel",
+        "chapter": 3,
+        "verse": 7
+      },
+      {
+        "text": "Then was Abner very wroth for the words of Ish-bosheth, and said, Am I a dog’s head, which against Judah do shew kindness this day unto the house of Saul thy father, to his brethren, and to his friends, and have not delivered thee into the hand of David, that thou chargest me to day with a fault concerning this woman?",
+        "footNotes": [
+          {
+            "start": 73,
+            "end": 78,
+            "text": "1 Sam. 17:43."
+          }
+        ],
+        "italics": [
+          {
+            "start": 66,
+            "end": 68
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 8,
+        "crossReferences": [
+          {
+            "raw": "1 Sam. 17:43.",
+            "prettyString": "1 Samuel 17:43",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "1samuel",
+                "chapters": [
+                  {
+                    "start": 17,
+                    "end": 17,
+                    "verses": [
+                      {
+                        "start": 43,
+                        "end": 43
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "2 Samuel 3:8",
+        "book": "2 Samuel",
+        "chapter": 3,
+        "verse": 8
+      },
+      {
+        "text": "So do God to Abner, and more also, except, as the Lord hath sworn to David, even so I do to him;",
+        "footNotes": [
+          {
+            "start": 69,
+            "end": 74,
+            "text": "1 Sam. 15:28."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 9,
+        "crossReferences": [
+          {
+            "raw": "1 Sam. 15:28.",
+            "prettyString": "1 Samuel 15:28",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "1samuel",
+                "chapters": [
+                  {
+                    "start": 15,
+                    "end": 15,
+                    "verses": [
+                      {
+                        "start": 28,
+                        "end": 28
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "2 Samuel 3:9",
+        "book": "2 Samuel",
+        "chapter": 3,
+        "verse": 9
+      },
+      {
+        "text": "To translate the kingdom from the house of Saul, and to set up the throne of David over Israel and over Judah, from Dan even to Beer-sheba.",
+        "footNotes": [
+          {
+            "start": 3,
+            "end": 12,
+            "text": "OR transfer."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 10,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "2 Samuel 3:10",
+        "book": "2 Samuel",
+        "chapter": 3,
+        "verse": 10
+      },
+      {
+        "text": "And he could not answer Abner a word again, because he feared him.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 11,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "2 Samuel 3:11",
+        "book": "2 Samuel",
+        "chapter": 3,
+        "verse": 11
+      },
+      {
+        "text": "And Abner sent messengers to David on his behalf, saying, Whose is the land? saying also, Make thy league with me, and, behold, my hand shall be with thee, to bring about all Israel unto thee.",
+        "footNotes": [
+          {
+            "start": 99,
+            "end": 105,
+            "text": "OR covenant (also v. 13)."
+          }
+        ],
+        "italics": [
+          {
+            "start": 64,
+            "end": 66
+          },
+          {
+            "start": 84,
+            "end": 89
+          },
+          {
+            "start": 136,
+            "end": 144
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 12,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "2 Samuel 3:12",
+        "book": "2 Samuel",
+        "chapter": 3,
+        "verse": 12
+      },
+      {
+        "text": "And he said, Well; I will make a league with thee: but one thing I require of thee, that is, Thou shalt not see my face, except thou first bring Michal Saul’s daughter, when thou comest to see my face.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 13,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "2 Samuel 3:13",
+        "book": "2 Samuel",
+        "chapter": 3,
+        "verse": 13
+      },
+      {
+        "text": "And David sent messengers to Ish-bosheth Saul’s son, saying, Deliver me my wife Michal, which I espoused to me for an hundred foreskins of the Philistines.",
+        "footNotes": [
+          {
+            "start": 80,
+            "end": 86,
+            "text": "1 Sam. 14:49; 18:27 (25–27)."
+          }
+        ],
+        "italics": [
+          {
+            "start": 69,
+            "end": 71
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 14,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "2 Samuel 3:14",
+        "book": "2 Samuel",
+        "chapter": 3,
+        "verse": 14
+      },
+      {
+        "text": "And Ish-bosheth sent, and took her from her husband, even from Phaltiel the son of Laish.",
+        "footNotes": [
+          {
+            "start": 63,
+            "end": 71,
+            "text": "1 Sam. 25:44."
+          }
+        ],
+        "italics": [
+          {
+            "start": 40,
+            "end": 43
+          },
+          {
+            "start": 53,
+            "end": 57
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 15,
+        "crossReferences": [
+          {
+            "raw": "1 Sam. 25:44.",
+            "prettyString": "1 Samuel 25:44",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "1samuel",
+                "chapters": [
+                  {
+                    "start": 25,
+                    "end": 25,
+                    "verses": [
+                      {
+                        "start": 44,
+                        "end": 44
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "2 Samuel 3:15",
+        "book": "2 Samuel",
+        "chapter": 3,
+        "verse": 15
+      },
+      {
+        "text": "And her husband went with her along weeping behind her to Bahurim. Then said Abner unto him, Go, return. And he returned.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 16,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "2 Samuel 3:16",
+        "book": "2 Samuel",
+        "chapter": 3,
+        "verse": 16
+      },
+      {
+        "text": "And Abner had communication with the elders of Israel, saying, Ye sought for David in times past to be king over you:",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 97,
+            "end": 102
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 17,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "2 Samuel 3:17",
+        "book": "2 Samuel",
+        "chapter": 3,
+        "verse": 17
+      },
+      {
+        "text": "Now then do it: for the Lord hath spoken of David, saying, By the hand of my servant David I will save my people Israel out of the hand of the Philistines, and out of the hand of all their enemies.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 12,
+            "end": 15
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 18,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "2 Samuel 3:18",
+        "book": "2 Samuel",
+        "chapter": 3,
+        "verse": 18
+      },
+      {
+        "text": "And Abner also spake in the ears of Benjamin: and Abner went also to speak in the ears of David in Hebron all that seemed good to Israel, and that seemed good to the whole house of Benjamin.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 19,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "2 Samuel 3:19",
+        "book": "2 Samuel",
+        "chapter": 3,
+        "verse": 19
+      },
+      {
+        "text": "So Abner came to David to Hebron, and twenty men with him. And David made Abner and the men that were with him a feast.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 97,
+            "end": 101
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 20,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "2 Samuel 3:20",
+        "book": "2 Samuel",
+        "chapter": 3,
+        "verse": 20
+      },
+      {
+        "text": "And Abner said unto David, I will arise and go, and will gather all Israel unto my lord the king, that they may make a league with thee, and that thou mayest reign over all that thine heart desireth. And David sent Abner away; and he went in peace.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 21,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "2 Samuel 3:21",
+        "book": "2 Samuel",
+        "chapter": 3,
+        "verse": 21
+      },
+      {
+        "text": "And, behold, the servants of David and Joab came from pursuing a troop, and brought in a great spoil with them: but Abner was not with David in Hebron; for he had sent him away, and he was gone in peace.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 54,
+            "end": 62
+          },
+          {
+            "start": 122,
+            "end": 125
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 22,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "2 Samuel 3:22",
+        "book": "2 Samuel",
+        "chapter": 3,
+        "verse": 22
+      },
+      {
+        "text": "When Joab and all the host that was with him were come, they told Joab, saying, Abner the son of Ner came to the king, and he hath sent him away, and he is gone in peace.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 32,
+            "end": 35
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 23,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "2 Samuel 3:23",
+        "book": "2 Samuel",
+        "chapter": 3,
+        "verse": 23
+      },
+      {
+        "text": "Then Joab came to the king, and said, What hast thou done? behold, Abner came unto thee; why is it that thou hast sent him away, and he is quite gone?",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 93,
+            "end": 95
+          },
+          {
+            "start": 99,
+            "end": 103
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 24,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "2 Samuel 3:24",
+        "book": "2 Samuel",
+        "chapter": 3,
+        "verse": 24
+      },
+      {
+        "text": "Thou knowest Abner the son of Ner, that he came to deceive thee, and to know thy going out and thy coming in, and to know all that thou doest.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 25,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "2 Samuel 3:25",
+        "book": "2 Samuel",
+        "chapter": 3,
+        "verse": 25
+      },
+      {
+        "text": "And when Joab was come out from David, he sent messengers after Abner, which brought him again from the well of Sirah: but David knew it not.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 134,
+            "end": 136
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 26,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "2 Samuel 3:26",
+        "book": "2 Samuel",
+        "chapter": 3,
+        "verse": 26
+      },
+      {
+        "text": "And when Abner was returned to Hebron, Joab took him aside in the gate to speak with him quietly, and smote him there under the fifth rib, that he died, for the blood of Asahel his brother.",
+        "footNotes": [
+          {
+            "start": 9,
+            "end": 14,
+            "text": "1 Kgs. 2:5, 32."
+          },
+          {
+            "start": 170,
+            "end": 176,
+            "text": "2 Sam. 2:23."
+          }
+        ],
+        "italics": [
+          {
+            "start": 134,
+            "end": 138
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 27,
+        "crossReferences": [
+          {
+            "raw": "1 Kgs. 2:5, 32.",
+            "prettyString": "1 Kings 2:5, 32",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "1kings",
+                "chapters": [
+                  {
+                    "start": 2,
+                    "end": 2,
+                    "verses": [
+                      {
+                        "start": 5,
+                        "end": 5
+                      },
+                      {
+                        "start": 32,
+                        "end": 32
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "2 Sam. 2:23.",
+            "prettyString": "2 Samuel 2:23",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "2samuel",
+                "chapters": [
+                  {
+                    "start": 2,
+                    "end": 2,
+                    "verses": [
+                      {
+                        "start": 23,
+                        "end": 23
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "2 Samuel 3:27",
+        "book": "2 Samuel",
+        "chapter": 3,
+        "verse": 27
+      },
+      {
+        "text": "And afterward when David heard it, he said, I and my kingdom are guiltless before the Lord for ever from the blood of Abner the son of Ner:",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 31,
+            "end": 34
+          },
+          {
+            "start": 61,
+            "end": 64
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 28,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "2 Samuel 3:28",
+        "book": "2 Samuel",
+        "chapter": 3,
+        "verse": 28
+      },
+      {
+        "text": "Let it rest on the head of Joab, and on all his father’s house; and let there not fail from the house of Joab one that hath an issue, or that is a leper, or that leaneth on a staff, or that falleth on the sword, or that lacketh bread.",
+        "footNotes": [
+          {
+            "start": 27,
+            "end": 31,
+            "text": "1 Kgs. 2:33 (32–33)."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 29,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "2 Samuel 3:29",
+        "book": "2 Samuel",
+        "chapter": 3,
+        "verse": 29
+      },
+      {
+        "text": "So Joab and Abishai his brother slew Abner, because he had slain their brother Asahel at Gibeon in the battle.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 30,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "2 Samuel 3:30",
+        "book": "2 Samuel",
+        "chapter": 3,
+        "verse": 30
+      },
+      {
+        "text": "And David said to Joab, and to all the people that were with him, Rend your clothes, and gird you with sackcloth, and mourn before Abner. And king David himself followed the bier.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 51,
+            "end": 55
+          },
+          {
+            "start": 153,
+            "end": 160
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 31,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "2 Samuel 3:31",
+        "book": "2 Samuel",
+        "chapter": 3,
+        "verse": 31
+      },
+      {
+        "text": "And they buried Abner in Hebron: and the king lifted up his voice, and wept at the grave of Abner; and all the people wept.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 32,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "2 Samuel 3:32",
+        "book": "2 Samuel",
+        "chapter": 3,
+        "verse": 32
+      },
+      {
+        "text": "And the king lamented over Abner, and said, Died Abner as a fool dieth?",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 33,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "2 Samuel 3:33",
+        "book": "2 Samuel",
+        "chapter": 3,
+        "verse": 33
+      },
+      {
+        "text": "Thy hands were not bound, nor thy feet put into fetters: as a man falleth before wicked men, so fellest thou. And all the people wept again over him.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 10,
+            "end": 14
+          },
+          {
+            "start": 93,
+            "end": 95
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 34,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "2 Samuel 3:34",
+        "book": "2 Samuel",
+        "chapter": 3,
+        "verse": 34
+      },
+      {
+        "text": "And when all the people came to cause David to eat meat while it was yet day, David sware, saying, So do God to me, and more also, if I taste bread, or ought else, till the sun be down.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 35,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "2 Samuel 3:35",
+        "book": "2 Samuel",
+        "chapter": 3,
+        "verse": 35
+      },
+      {
+        "text": "And all the people took notice of it, and it pleased them: as whatsoever the king did pleased all the people.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 31,
+            "end": 37
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 36,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "2 Samuel 3:36",
+        "book": "2 Samuel",
+        "chapter": 3,
+        "verse": 36
+      },
+      {
+        "text": "For all the people and all Israel understood that day that it was not of the king to slay Abner the son of Ner.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 37,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "2 Samuel 3:37",
+        "book": "2 Samuel",
+        "chapter": 3,
+        "verse": 37
+      },
+      {
+        "text": "And the king said unto his servants, Know ye not that there is a prince and a great man fallen this day in Israel?",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 38,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "2 Samuel 3:38",
+        "book": "2 Samuel",
+        "chapter": 3,
+        "verse": 38
+      },
+      {
+        "text": "And I am this day weak, though anointed king; and these men the sons of Zeruiah be too hard for me: the Lord shall reward the doer of evil according to his wickedness.",
+        "footNotes": [
+          {
+            "start": 115,
+            "end": 121,
+            "text": "TG Reward."
+          }
+        ],
+        "italics": [
+          {
+            "start": 6,
+            "end": 8
+          },
+          {
+            "start": 80,
+            "end": 82
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 39,
+        "crossReferences": [
+          {
+            "raw": "TG Reward.",
+            "prettyString": "TG Reward",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Reward",
+                "entryId": "tg-reward",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "2 Samuel 3:39",
+        "book": "2 Samuel",
+        "chapter": 3,
+        "verse": 39
+      }
+    ]
+  },
+  "nextChapterId": "2samuel4",
+  "prevChapterId": "2samuel2",
+  "volume": {
+    "_id": "oldtestament",
+    "title": "Old Testament",
+    "titleShort": "OT",
+    "titleOfficial": "The Old Testament"
+  }
+}

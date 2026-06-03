@@ -1,0 +1,235 @@
+{
+  "_id": "psalms114",
+  "book": {
+    "_id": "psalms",
+    "title": "Psalms",
+    "titleShort": "Ps.",
+    "titleOfficial": "",
+    "subtitle": "",
+    "summary": "",
+    "chapterDelineation": "Psalm"
+  },
+  "chapter": {
+    "bookTitle": "Psalms",
+    "delineation": "Psalm",
+    "number": 114,
+    "summary": "The Lord governs the sea and the land for the blessing of His people.",
+    "chapterAugmentations": [],
+    "verses": [
+      {
+        "text": "When Israel went out of Egypt, the house of Jacob from a people of strange language;",
+        "footNotes": [
+          {
+            "start": 24,
+            "end": 29,
+            "text": "Ex. 13:3."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 1,
+        "crossReferences": [
+          {
+            "raw": "Ex. 13:3.",
+            "prettyString": "Exodus 13:3",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "exodus",
+                "chapters": [
+                  {
+                    "start": 13,
+                    "end": 13,
+                    "verses": [
+                      {
+                        "start": 3,
+                        "end": 3
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 114:1",
+        "book": "Psalms",
+        "chapter": 114,
+        "verse": 1
+      },
+      {
+        "text": "Judah was his sanctuary, and Israel his dominion.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 25,
+            "end": 28
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 2,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 114:2",
+        "book": "Psalms",
+        "chapter": 114,
+        "verse": 2
+      },
+      {
+        "text": "The sea saw it, and fled: Jordan was driven back.",
+        "footNotes": [
+          {
+            "start": 20,
+            "end": 24,
+            "text": "Ex. 14:21 (21–22); Ps. 78:13."
+          }
+        ],
+        "italics": [
+          {
+            "start": 12,
+            "end": 15
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 3,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 114:3",
+        "book": "Psalms",
+        "chapter": 114,
+        "verse": 3
+      },
+      {
+        "text": "The mountains skipped like rams, and the little hills like lambs.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 33,
+            "end": 36
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 4,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 114:4",
+        "book": "Psalms",
+        "chapter": 114,
+        "verse": 4
+      },
+      {
+        "text": "What ailed thee, O thou sea, that thou fleddest? thou Jordan, that thou wast driven back?",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 5,
+            "end": 10
+          },
+          {
+            "start": 62,
+            "end": 66
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 5,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 114:5",
+        "book": "Psalms",
+        "chapter": 114,
+        "verse": 5
+      },
+      {
+        "text": "Ye mountains, that ye skipped like rams; and ye little hills, like lambs?",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 14,
+            "end": 18
+          },
+          {
+            "start": 41,
+            "end": 44
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 6,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 114:6",
+        "book": "Psalms",
+        "chapter": 114,
+        "verse": 6
+      },
+      {
+        "text": "Tremble, thou earth, at the presence of the Lord, at the presence of the God of Jacob;",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 7,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 114:7",
+        "book": "Psalms",
+        "chapter": 114,
+        "verse": 7
+      },
+      {
+        "text": "Which turned the rock into a standing water, the flint into a fountain of waters.",
+        "footNotes": [
+          {
+            "start": 74,
+            "end": 80,
+            "text": "Ex. 17:6."
+          }
+        ],
+        "italics": [
+          {
+            "start": 22,
+            "end": 26
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 8,
+        "crossReferences": [
+          {
+            "raw": "Ex. 17:6.",
+            "prettyString": "Exodus 17:6",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "exodus",
+                "chapters": [
+                  {
+                    "start": 17,
+                    "end": 17,
+                    "verses": [
+                      {
+                        "start": 6,
+                        "end": 6
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 114:8",
+        "book": "Psalms",
+        "chapter": 114,
+        "verse": 8
+      }
+    ]
+  },
+  "nextChapterId": "psalms115",
+  "prevChapterId": "psalms113",
+  "volume": {
+    "_id": "oldtestament",
+    "title": "Old Testament",
+    "titleShort": "OT",
+    "titleOfficial": "The Old Testament"
+  }
+}

@@ -1,0 +1,706 @@
+{
+  "_id": "psalms95",
+  "book": {
+    "_id": "psalms",
+    "title": "Psalms",
+    "titleShort": "Ps.",
+    "titleOfficial": "",
+    "subtitle": "",
+    "summary": "",
+    "chapterDelineation": "Psalm"
+  },
+  "chapter": {
+    "bookTitle": "Psalms",
+    "delineation": "Psalm",
+    "number": 95,
+    "summary": "Let us sing unto the Lord—Let us worship and bow down before Him—Israel provoked the Lord and failed to enter into His rest.",
+    "chapterAugmentations": [],
+    "verses": [
+      {
+        "text": "O come, let us sing unto the Lord: let us make a joyful noise to the rock of our salvation.",
+        "footNotes": [
+          {
+            "start": 15,
+            "end": 19,
+            "text": "1 Chr. 16:9."
+          },
+          {
+            "start": 49,
+            "end": 55,
+            "text": "Ps. 66:1."
+          },
+          {
+            "start": 69,
+            "end": 73,
+            "text": "2 Sam. 22:47; Ps. 89:26."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 1,
+        "crossReferences": [
+          {
+            "raw": "1 Chr. 16:9.",
+            "prettyString": "1 Chronicles 16:9",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "1chronicles",
+                "chapters": [
+                  {
+                    "start": 16,
+                    "end": 16,
+                    "verses": [
+                      {
+                        "start": 9,
+                        "end": 9
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "Ps. 66:1.",
+            "prettyString": "Psalms 66:1",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "psalms",
+                "chapters": [
+                  {
+                    "start": 66,
+                    "end": 66,
+                    "verses": [
+                      {
+                        "start": 1,
+                        "end": 1
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "2 Sam. 22:47; Ps. 89:26.",
+            "prettyString": "2 Samuel 22:47; Psalms 89:26",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "2samuel",
+                "chapters": [
+                  {
+                    "start": 22,
+                    "end": 22,
+                    "verses": [
+                      {
+                        "start": 47,
+                        "end": 47
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "psalms",
+                "chapters": [
+                  {
+                    "start": 89,
+                    "end": 89,
+                    "verses": [
+                      {
+                        "start": 26,
+                        "end": 26
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 95:1",
+        "book": "Psalms",
+        "chapter": 95,
+        "verse": 1
+      },
+      {
+        "text": "Let us come before his presence with thanksgiving, and make a joyful noise unto him with psalms.",
+        "footNotes": [
+          {
+            "start": 37,
+            "end": 49,
+            "text": "TG Thanksgiving."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 2,
+        "crossReferences": [
+          {
+            "raw": "TG Thanksgiving.",
+            "prettyString": "TG Thanksgiving",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Thanksgiving",
+                "entryId": "tg-thanksgiving",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 95:2",
+        "book": "Psalms",
+        "chapter": 95,
+        "verse": 2
+      },
+      {
+        "text": "For the Lord is a great God, and a great King above all gods.",
+        "footNotes": [
+          {
+            "start": 18,
+            "end": 23,
+            "text": "1 Chr. 16:25."
+          },
+          {
+            "start": 41,
+            "end": 45,
+            "text": "TG Kingdom of God, in Heaven."
+          }
+        ],
+        "italics": [
+          {
+            "start": 13,
+            "end": 15
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 3,
+        "crossReferences": [
+          {
+            "raw": "1 Chr. 16:25.",
+            "prettyString": "1 Chronicles 16:25",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "1chronicles",
+                "chapters": [
+                  {
+                    "start": 16,
+                    "end": 16,
+                    "verses": [
+                      {
+                        "start": 25,
+                        "end": 25
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Kingdom of God, in Heaven.",
+            "prettyString": "TG Kingdom of God, in Heaven",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Kingdom of God, in Heaven",
+                "entryId": "tg-kingdom-of-god-in-heaven",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 95:3",
+        "book": "Psalms",
+        "chapter": 95,
+        "verse": 3
+      },
+      {
+        "text": "In his hand are the deep places of the earth: the strength of the hills is his also.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 12,
+            "end": 15
+          },
+          {
+            "start": 72,
+            "end": 74
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 4,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 95:4",
+        "book": "Psalms",
+        "chapter": 95,
+        "verse": 4
+      },
+      {
+        "text": "The sea is his, and he made it: and his hands formed the dry land.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 8,
+            "end": 10
+          },
+          {
+            "start": 61,
+            "end": 66
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 5,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 95:5",
+        "book": "Psalms",
+        "chapter": 95,
+        "verse": 5
+      },
+      {
+        "text": "O come, let us worship and bow down: let us kneel before the Lord our maker.",
+        "footNotes": [
+          {
+            "start": 15,
+            "end": 22,
+            "text": "TG Worship."
+          },
+          {
+            "start": 70,
+            "end": 75,
+            "text": "Ps. 149:2."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 6,
+        "crossReferences": [
+          {
+            "raw": "TG Worship.",
+            "prettyString": "TG Worship",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Worship",
+                "entryId": "tg-worship",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "Ps. 149:2.",
+            "prettyString": "Psalms 149:2",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "psalms",
+                "chapters": [
+                  {
+                    "start": 149,
+                    "end": 149,
+                    "verses": [
+                      {
+                        "start": 2,
+                        "end": 2
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 95:6",
+        "book": "Psalms",
+        "chapter": 95,
+        "verse": 6
+      },
+      {
+        "text": "For he is our God; and we are the people of his pasture, and the sheep of his hand. To day if ye will hear his voice,",
+        "footNotes": [
+          {
+            "start": 65,
+            "end": 70,
+            "text": "TG Jesus Christ, Good Shepherd; Sheep."
+          },
+          {
+            "start": 84,
+            "end": 90,
+            "text": "Heb. 3:7 (7–11)."
+          },
+          {
+            "start": 102,
+            "end": 106,
+            "text": "Heb. 4:7."
+          },
+          {
+            "start": 111,
+            "end": 116,
+            "text": "D&C 88:66."
+          }
+        ],
+        "italics": [
+          {
+            "start": 7,
+            "end": 9
+          },
+          {
+            "start": 26,
+            "end": 29
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 7,
+        "crossReferences": [
+          {
+            "raw": "TG Jesus Christ, Good Shepherd; Sheep.",
+            "prettyString": "TG Jesus Christ, Good Shepherd; TG Sheep",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Jesus Christ, Good Shepherd",
+                "entryId": "tg-jesus-christ-good-shepherd",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Sheep",
+                "entryId": "tg-sheep",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "Heb. 4:7.",
+            "prettyString": "Hebrews 4:7",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "hebrews",
+                "chapters": [
+                  {
+                    "start": 4,
+                    "end": 4,
+                    "verses": [
+                      {
+                        "start": 7,
+                        "end": 7
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "D&C 88:66.",
+            "prettyString": "D&C 88:66",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 88,
+                    "end": 88,
+                    "verses": [
+                      {
+                        "start": 66,
+                        "end": 66
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 95:7",
+        "book": "Psalms",
+        "chapter": 95,
+        "verse": 7
+      },
+      {
+        "text": "Harden not your heart, as in the provocation, and as in the day of temptation in the wilderness:",
+        "footNotes": [
+          {
+            "start": 0,
+            "end": 6,
+            "text": "TG Hardheartedness."
+          },
+          {
+            "start": 26,
+            "end": 28,
+            "text": "HEB at Meribah."
+          },
+          {
+            "start": 33,
+            "end": 44,
+            "text": "TG Provoking."
+          },
+          {
+            "start": 67,
+            "end": 77,
+            "text": "TG Test."
+          }
+        ],
+        "italics": [
+          {
+            "start": 46,
+            "end": 49
+          },
+          {
+            "start": 53,
+            "end": 55
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 8,
+        "crossReferences": [
+          {
+            "raw": "TG Hardheartedness.",
+            "prettyString": "TG Hardheartedness",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Hardheartedness",
+                "entryId": "tg-hardheartedness",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Provoking.",
+            "prettyString": "TG Provoking",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Provoking",
+                "entryId": "tg-provoking",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Test.",
+            "prettyString": "TG Test",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Test",
+                "entryId": "tg-test",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 95:8",
+        "book": "Psalms",
+        "chapter": 95,
+        "verse": 8
+      },
+      {
+        "text": "When your fathers tempted me, proved me, and saw my work.",
+        "footNotes": [
+          {
+            "start": 30,
+            "end": 36,
+            "text": "TG Test."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 9,
+        "crossReferences": [
+          {
+            "raw": "TG Test.",
+            "prettyString": "TG Test",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Test",
+                "entryId": "tg-test",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 95:9",
+        "book": "Psalms",
+        "chapter": 95,
+        "verse": 9
+      },
+      {
+        "text": "Forty years long was I grieved with this generation, and said, It is a people that do err in their heart, and they have not known my ways:",
+        "footNotes": [
+          {
+            "start": 0,
+            "end": 5,
+            "text": "Num. 14:33; Deut. 2:14 (14–15)."
+          },
+          {
+            "start": 23,
+            "end": 30,
+            "text": "Ps. 119:158."
+          },
+          {
+            "start": 41,
+            "end": 51,
+            "text": "Prov. 30:12 (11–14)."
+          }
+        ],
+        "italics": [
+          {
+            "start": 36,
+            "end": 40
+          },
+          {
+            "start": 66,
+            "end": 68
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 10,
+        "crossReferences": [
+          {
+            "raw": "Ps. 119:158.",
+            "prettyString": "Psalms 119:158",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "psalms",
+                "chapters": [
+                  {
+                    "start": 119,
+                    "end": 119,
+                    "verses": [
+                      {
+                        "start": 158,
+                        "end": 158
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 95:10",
+        "book": "Psalms",
+        "chapter": 95,
+        "verse": 10
+      },
+      {
+        "text": "Unto whom I sware in my wrath that they should not enter into my rest.",
+        "footNotes": [
+          {
+            "start": 51,
+            "end": 56,
+            "text": "Heb. 3:11."
+          },
+          {
+            "start": 65,
+            "end": 69,
+            "text": "TG God, Privilege of Seeing; Rest."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 11,
+        "crossReferences": [
+          {
+            "raw": "Heb. 3:11.",
+            "prettyString": "Hebrews 3:11",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "hebrews",
+                "chapters": [
+                  {
+                    "start": 3,
+                    "end": 3,
+                    "verses": [
+                      {
+                        "start": 11,
+                        "end": 11
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG God, Privilege of Seeing; Rest.",
+            "prettyString": "TG God, Privilege of Seeing; TG Rest",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "God, Privilege of Seeing",
+                "entryId": "tg-god-privilege-of-seeing",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Rest",
+                "entryId": "tg-rest",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 95:11",
+        "book": "Psalms",
+        "chapter": 95,
+        "verse": 11
+      }
+    ]
+  },
+  "nextChapterId": "psalms96",
+  "prevChapterId": "psalms94",
+  "volume": {
+    "_id": "oldtestament",
+    "title": "Old Testament",
+    "titleShort": "OT",
+    "titleOfficial": "The Old Testament"
+  }
+}

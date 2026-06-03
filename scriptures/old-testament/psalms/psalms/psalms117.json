@@ -1,0 +1,99 @@
+{
+  "_id": "psalms117",
+  "book": {
+    "_id": "psalms",
+    "title": "Psalms",
+    "titleShort": "Ps.",
+    "titleOfficial": "",
+    "subtitle": "",
+    "summary": "",
+    "chapterDelineation": "Psalm"
+  },
+  "chapter": {
+    "bookTitle": "Psalms",
+    "delineation": "Psalm",
+    "number": 117,
+    "summary": "Praise the Lord for His mercy and truth.",
+    "chapterAugmentations": [],
+    "verses": [
+      {
+        "text": "O praise the Lord, all ye nations: praise him, all ye people.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 1,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 117:1",
+        "book": "Psalms",
+        "chapter": 117,
+        "verse": 1
+      },
+      {
+        "text": "For his merciful kindness is great toward us: and the truth of the Lord endureth for ever. Praise ye the Lord.",
+        "footNotes": [
+          {
+            "start": 54,
+            "end": 59,
+            "text": "D&C 84:45; 93:24."
+          }
+        ],
+        "italics": [
+          {
+            "start": 72,
+            "end": 80
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 2,
+        "crossReferences": [
+          {
+            "raw": "D&C 84:45; 93:24.",
+            "prettyString": "D&C 84:45; 93:24",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 84,
+                    "end": 84,
+                    "verses": [
+                      {
+                        "start": 45,
+                        "end": 45
+                      }
+                    ]
+                  },
+                  {
+                    "start": 93,
+                    "end": 93,
+                    "verses": [
+                      {
+                        "start": 24,
+                        "end": 24
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 117:2",
+        "book": "Psalms",
+        "chapter": 117,
+        "verse": 2
+      }
+    ]
+  },
+  "nextChapterId": "psalms118",
+  "prevChapterId": "psalms116",
+  "volume": {
+    "_id": "oldtestament",
+    "title": "Old Testament",
+    "titleShort": "OT",
+    "titleOfficial": "The Old Testament"
+  }
+}

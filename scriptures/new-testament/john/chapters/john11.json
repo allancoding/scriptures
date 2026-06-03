@@ -1,0 +1,1617 @@
+{
+  "_id": "john11",
+  "book": {
+    "_id": "john",
+    "title": "John",
+    "titleShort": "John",
+    "titleOfficial": "",
+    "subtitle": "",
+    "summary": "",
+    "chapterDelineation": "Chapter"
+  },
+  "chapter": {
+    "bookTitle": "John",
+    "delineation": "Chapter",
+    "number": 11,
+    "summary": "Jesus testifies that He is the Resurrection and the Life—Mary and Martha testify of Him—He raises Lazarus from the dead—Caiaphas speaks prophetically of the death of Jesus.",
+    "chapterAugmentations": [],
+    "verses": [
+      {
+        "text": "Now a certain man was sick, named Lazarus, of Bethany, the town of Mary and her sister Martha.",
+        "footNotes": [
+          {
+            "start": 87,
+            "end": 93,
+            "text": "Luke 10:38; John 12:2."
+          }
+        ],
+        "italics": [
+          {
+            "start": 14,
+            "end": 17
+          },
+          {
+            "start": 28,
+            "end": 33
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 1,
+        "crossReferences": [
+          {
+            "raw": "Luke 10:38; John 12:2.",
+            "prettyString": "Luke 10:38; John 12:2",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "luke",
+                "chapters": [
+                  {
+                    "start": 10,
+                    "end": 10,
+                    "verses": [
+                      {
+                        "start": 38,
+                        "end": 38
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "john",
+                "chapters": [
+                  {
+                    "start": 12,
+                    "end": 12,
+                    "verses": [
+                      {
+                        "start": 2,
+                        "end": 2
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "John 11:1",
+        "book": "John",
+        "chapter": 11,
+        "verse": 1
+      },
+      {
+        "text": "(It was that Mary which anointed the Lord with ointment, and wiped his feet with her hair, whose brother Lazarus was sick.)",
+        "footNotes": [
+          {
+            "start": 0,
+            "end": 3,
+            "text": "JST John 11:2 And Mary, his sister, who anointed the Lord with ointment and wiped his feet with her hair, lived with her sister Martha, in whose house her brother Lazarus was sick."
+          },
+          {
+            "start": 37,
+            "end": 41,
+            "text": "TG Jesus Christ, Lord."
+          },
+          {
+            "start": 47,
+            "end": 55,
+            "text": "Matt. 26:7 (6–13)."
+          }
+        ],
+        "italics": [
+          {
+            "start": 8,
+            "end": 12
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 2,
+        "crossReferences": [
+          {
+            "raw": "TG Jesus Christ, Lord.",
+            "prettyString": "TG Jesus Christ, Lord",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Jesus Christ, Lord",
+                "entryId": "tg-jesus-christ-lord",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "John 11:2",
+        "book": "John",
+        "chapter": 11,
+        "verse": 2
+      },
+      {
+        "text": "Therefore his sisters sent unto him, saying, Lord, behold, he whom thou lovest is sick.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 3,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "John 11:3",
+        "book": "John",
+        "chapter": 11,
+        "verse": 3
+      },
+      {
+        "text": "When Jesus heard that, he said, This sickness is not unto death, but for the glory of God, that the Son of God might be glorified thereby.",
+        "footNotes": [
+          {
+            "start": 77,
+            "end": 82,
+            "text": "3 Ne. 12:16; Ether 12:4."
+          },
+          {
+            "start": 120,
+            "end": 129,
+            "text": "John 9:3."
+          }
+        ],
+        "italics": [
+          {
+            "start": 17,
+            "end": 22
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 4,
+        "crossReferences": [
+          {
+            "raw": "3 Ne. 12:16; Ether 12:4.",
+            "prettyString": "3 Nephi 12:16; Ether 12:4",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "3nephi",
+                "chapters": [
+                  {
+                    "start": 12,
+                    "end": 12,
+                    "verses": [
+                      {
+                        "start": 16,
+                        "end": 16
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "ether",
+                "chapters": [
+                  {
+                    "start": 12,
+                    "end": 12,
+                    "verses": [
+                      {
+                        "start": 4,
+                        "end": 4
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "John 9:3.",
+            "prettyString": "John 9:3",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "john",
+                "chapters": [
+                  {
+                    "start": 9,
+                    "end": 9,
+                    "verses": [
+                      {
+                        "start": 3,
+                        "end": 3
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "John 11:4",
+        "book": "John",
+        "chapter": 11,
+        "verse": 4
+      },
+      {
+        "text": "Now Jesus loved Martha, and her sister, and Lazarus.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 5,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "John 11:5",
+        "book": "John",
+        "chapter": 11,
+        "verse": 5
+      },
+      {
+        "text": "When he had heard therefore that he was sick, he abode two days still in the same place where he was.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 6,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "John 11:6",
+        "book": "John",
+        "chapter": 11,
+        "verse": 6
+      },
+      {
+        "text": "Then after that saith he to his disciples, Let us go into Judæa again.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 28,
+            "end": 31
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 7,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "John 11:7",
+        "book": "John",
+        "chapter": 11,
+        "verse": 7
+      },
+      {
+        "text": "His disciples say unto him, Master, the Jews of late sought to stone thee; and goest thou thither again?",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 0,
+            "end": 3
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 8,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "John 11:8",
+        "book": "John",
+        "chapter": 11,
+        "verse": 8
+      },
+      {
+        "text": "Jesus answered, Are there not twelve hours in the day? If any man walk in the day, he stumbleth not, because he seeth the light of this world.",
+        "footNotes": [
+          {
+            "start": 66,
+            "end": 70,
+            "text": "TG Walking with God."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 9,
+        "crossReferences": [
+          {
+            "raw": "TG Walking with God.",
+            "prettyString": "TG Walking with God",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Walking with God",
+                "entryId": "tg-walking-with-god",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "John 11:9",
+        "book": "John",
+        "chapter": 11,
+        "verse": 9
+      },
+      {
+        "text": "But if a man walk in the night, he stumbleth, because there is no light in him.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 10,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "John 11:10",
+        "book": "John",
+        "chapter": 11,
+        "verse": 10
+      },
+      {
+        "text": "These things said he: and after that he saith unto them, Our friend Lazarus sleepeth; but I go, that I may awake him out of sleep.",
+        "footNotes": [
+          {
+            "start": 107,
+            "end": 112,
+            "text": "2 Kgs. 4:31."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 11,
+        "crossReferences": [
+          {
+            "raw": "2 Kgs. 4:31.",
+            "prettyString": "2 Kings 4:31",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "2kings",
+                "chapters": [
+                  {
+                    "start": 4,
+                    "end": 4,
+                    "verses": [
+                      {
+                        "start": 31,
+                        "end": 31
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "John 11:11",
+        "book": "John",
+        "chapter": 11,
+        "verse": 11
+      },
+      {
+        "text": "Then said his disciples, Lord, if he sleep, he shall do well.",
+        "footNotes": [
+          {
+            "start": 53,
+            "end": 60,
+            "text": "GR be cured, saved."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 12,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "John 11:12",
+        "book": "John",
+        "chapter": 11,
+        "verse": 12
+      },
+      {
+        "text": "Howbeit Jesus spake of his death: but they thought that he had spoken of taking of rest in sleep.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 13,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "John 11:13",
+        "book": "John",
+        "chapter": 11,
+        "verse": 13
+      },
+      {
+        "text": "Then said Jesus unto them plainly, Lazarus is dead.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 14,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "John 11:14",
+        "book": "John",
+        "chapter": 11,
+        "verse": 14
+      },
+      {
+        "text": "And I am glad for your sakes that I was not there, to the intent ye may believe; nevertheless let us go unto him.",
+        "footNotes": [
+          {
+            "start": 72,
+            "end": 79,
+            "text": "TG Faith."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 15,
+        "crossReferences": [
+          {
+            "raw": "TG Faith.",
+            "prettyString": "TG Faith",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Faith",
+                "entryId": "tg-faith",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "John 11:15",
+        "book": "John",
+        "chapter": 11,
+        "verse": 15
+      },
+      {
+        "text": "Then said Thomas, which is called Didymus, unto his fellowdisciples, Let us also go, that we may die with him.",
+        "footNotes": [
+          {
+            "start": 106,
+            "end": 109,
+            "text": "JST John 11:16 … him; for they feared lest the Jews should take Jesus and put him to death, for as yet they did not understand the power of God."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 16,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "John 11:16",
+        "book": "John",
+        "chapter": 11,
+        "verse": 16
+      },
+      {
+        "text": "Then when Jesus came, he found that he had lain in the grave four days already.",
+        "footNotes": [
+          {
+            "start": 22,
+            "end": 24,
+            "text": "JST John 11:17 … to Bethany, to Martha’s house, Lazarus had already been in the grave four days."
+          }
+        ],
+        "italics": [
+          {
+            "start": 43,
+            "end": 47
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 17,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "John 11:17",
+        "book": "John",
+        "chapter": 11,
+        "verse": 17
+      },
+      {
+        "text": "Now Bethany was nigh unto Jerusalem, about fifteen furlongs off:",
+        "footNotes": [
+          {
+            "start": 51,
+            "end": 59,
+            "text": "GR stadium —607 English feet, about 185 meters."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 18,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "John 11:18",
+        "book": "John",
+        "chapter": 11,
+        "verse": 18
+      },
+      {
+        "text": "And many of the Jews came to Martha and Mary, to comfort them concerning their brother.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 19,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "John 11:19",
+        "book": "John",
+        "chapter": 11,
+        "verse": 19
+      },
+      {
+        "text": "Then Martha, as soon as she heard that Jesus was coming, went and met him: but Mary sat still in the house.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 88,
+            "end": 93
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 20,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "John 11:20",
+        "book": "John",
+        "chapter": 11,
+        "verse": 20
+      },
+      {
+        "text": "Then said Martha unto Jesus, Lord, if thou hadst been here, my brother had not died.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 21,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "John 11:21",
+        "book": "John",
+        "chapter": 11,
+        "verse": 21
+      },
+      {
+        "text": "But I know, that even now, whatsoever thou wilt ask of God, God will give it thee.",
+        "footNotes": [
+          {
+            "start": 69,
+            "end": 73,
+            "text": "TG God, Gifts of."
+          }
+        ],
+        "italics": [
+          {
+            "start": 74,
+            "end": 76
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 22,
+        "crossReferences": [
+          {
+            "raw": "TG God, Gifts of.",
+            "prettyString": "TG God, Gifts of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "God, Gifts of",
+                "entryId": "tg-god-gifts-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "John 11:22",
+        "book": "John",
+        "chapter": 11,
+        "verse": 22
+      },
+      {
+        "text": "Jesus saith unto her, Thy brother shall rise again.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 23,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "John 11:23",
+        "book": "John",
+        "chapter": 11,
+        "verse": 23
+      },
+      {
+        "text": "Martha saith unto him, I know that he shall rise again in the resurrection at the last day.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 24,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "John 11:24",
+        "book": "John",
+        "chapter": 11,
+        "verse": 24
+      },
+      {
+        "text": "Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live:",
+        "footNotes": [
+          {
+            "start": 30,
+            "end": 42,
+            "text": "TG Jesus Christ, Resurrection; Resurrection."
+          },
+          {
+            "start": 52,
+            "end": 56,
+            "text": "TG Jesus Christ, Atonement through."
+          },
+          {
+            "start": 66,
+            "end": 75,
+            "text": "TG Faith."
+          },
+          {
+            "start": 98,
+            "end": 102,
+            "text": "TG Death."
+          },
+          {
+            "start": 117,
+            "end": 121,
+            "text": "Alma 37:46 (46–47); Hel. 8:15; 3 Ne. 15:9."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 25,
+        "crossReferences": [
+          {
+            "raw": "TG Jesus Christ, Resurrection; Resurrection.",
+            "prettyString": "TG Jesus Christ, Resurrection; TG Resurrection",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Jesus Christ, Resurrection",
+                "entryId": "tg-jesus-christ-resurrection",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Resurrection",
+                "entryId": "tg-resurrection",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Jesus Christ, Atonement through.",
+            "prettyString": "TG Jesus Christ, Atonement through",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Jesus Christ, Atonement through",
+                "entryId": "tg-jesus-christ-atonement-through",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Faith.",
+            "prettyString": "TG Faith",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Faith",
+                "entryId": "tg-faith",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Death.",
+            "prettyString": "TG Death",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Death",
+                "entryId": "tg-death",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "John 11:25",
+        "book": "John",
+        "chapter": 11,
+        "verse": 25
+      },
+      {
+        "text": "And whosoever liveth and believeth in me shall never die. Believest thou this?",
+        "footNotes": [
+          {
+            "start": 53,
+            "end": 56,
+            "text": "John 5:24; 8:51; D&C 42:46 (44, 46); 63:49."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 26,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "John 11:26",
+        "book": "John",
+        "chapter": 11,
+        "verse": 26
+      },
+      {
+        "text": "She saith unto him, Yea, Lord: I believe that thou art the Christ, the Son of God, which should come into the world.",
+        "footNotes": [
+          {
+            "start": 71,
+            "end": 81,
+            "text": "TG God, Body of, Corporeal Nature."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 27,
+        "crossReferences": [
+          {
+            "raw": "TG God, Body of, Corporeal Nature.",
+            "prettyString": "TG God, Body of, Corporeal Nature",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "God, Body of, Corporeal Nature",
+                "entryId": "tg-god-body-of-corporeal-nature",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "John 11:27",
+        "book": "John",
+        "chapter": 11,
+        "verse": 27
+      },
+      {
+        "text": "And when she had so said, she went her way, and called Mary her sister secretly, saying, The Master is come, and calleth for thee.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 28,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "John 11:28",
+        "book": "John",
+        "chapter": 11,
+        "verse": 28
+      },
+      {
+        "text": "As soon as she heard that, she arose quickly, and came unto him.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 21,
+            "end": 26
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 29,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "John 11:29",
+        "book": "John",
+        "chapter": 11,
+        "verse": 29
+      },
+      {
+        "text": "Now Jesus was not yet come into the town, but was in that place where Martha met him.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 30,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "John 11:30",
+        "book": "John",
+        "chapter": 11,
+        "verse": 30
+      },
+      {
+        "text": "The Jews then which were with her in the house, and comforted her, when they saw Mary, that she rose up hastily and went out, followed her, saying, She goeth unto the grave to weep there.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 31,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "John 11:31",
+        "book": "John",
+        "chapter": 11,
+        "verse": 31
+      },
+      {
+        "text": "Then when Mary was come where Jesus was, and saw him, she fell down at his feet, saying unto him, Lord, if thou hadst been here, my brother had not died.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 32,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "John 11:32",
+        "book": "John",
+        "chapter": 11,
+        "verse": 32
+      },
+      {
+        "text": "When Jesus therefore saw her weeping, and the Jews also weeping which came with her, he groaned in the spirit, and was troubled,",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 33,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "John 11:33",
+        "book": "John",
+        "chapter": 11,
+        "verse": 33
+      },
+      {
+        "text": "And said, Where have ye laid him? They said unto him, Lord, come and see.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 34,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "John 11:34",
+        "book": "John",
+        "chapter": 11,
+        "verse": 34
+      },
+      {
+        "text": "Jesus wept.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 35,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "John 11:35",
+        "book": "John",
+        "chapter": 11,
+        "verse": 35
+      },
+      {
+        "text": "Then said the Jews, Behold how he loved him!",
+        "footNotes": [
+          {
+            "start": 34,
+            "end": 39,
+            "text": "D&C 42:45."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 36,
+        "crossReferences": [
+          {
+            "raw": "D&C 42:45.",
+            "prettyString": "D&C 42:45",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 42,
+                    "end": 42,
+                    "verses": [
+                      {
+                        "start": 45,
+                        "end": 45
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "John 11:36",
+        "book": "John",
+        "chapter": 11,
+        "verse": 36
+      },
+      {
+        "text": "And some of them said, Could not this man, which opened the eyes of the blind, have caused that even this man should not have died?",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 37,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "John 11:37",
+        "book": "John",
+        "chapter": 11,
+        "verse": 37
+      },
+      {
+        "text": "Jesus therefore again groaning in himself cometh to the grave. It was a cave, and a stone lay upon it.",
+        "footNotes": [
+          {
+            "start": 84,
+            "end": 89,
+            "text": "Matt. 27:60."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 38,
+        "crossReferences": [
+          {
+            "raw": "Matt. 27:60.",
+            "prettyString": "Matthew 27:60",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "matthew",
+                "chapters": [
+                  {
+                    "start": 27,
+                    "end": 27,
+                    "verses": [
+                      {
+                        "start": 60,
+                        "end": 60
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "John 11:38",
+        "book": "John",
+        "chapter": 11,
+        "verse": 38
+      },
+      {
+        "text": "Jesus said, Take ye away the stone. Martha, the sister of him that was dead, saith unto him, Lord, by this time he stinketh: for he hath been dead four days.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 142,
+            "end": 146
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 39,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "John 11:39",
+        "book": "John",
+        "chapter": 11,
+        "verse": 39
+      },
+      {
+        "text": "Jesus saith unto her, Said I not unto thee, that, if thou wouldest believe, thou shouldest see the glory of God?",
+        "footNotes": [
+          {
+            "start": 99,
+            "end": 104,
+            "text": "Ex. 16:7."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 40,
+        "crossReferences": [
+          {
+            "raw": "Ex. 16:7.",
+            "prettyString": "Exodus 16:7",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "exodus",
+                "chapters": [
+                  {
+                    "start": 16,
+                    "end": 16,
+                    "verses": [
+                      {
+                        "start": 7,
+                        "end": 7
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "John 11:40",
+        "book": "John",
+        "chapter": 11,
+        "verse": 40
+      },
+      {
+        "text": "Then they took away the stone from the place where the dead was laid. And Jesus lifted up his eyes, and said, Father, I thank thee that thou hast heard me.",
+        "footNotes": [
+          {
+            "start": 120,
+            "end": 125,
+            "text": "TG Thanksgiving."
+          }
+        ],
+        "italics": [
+          {
+            "start": 30,
+            "end": 44
+          },
+          {
+            "start": 90,
+            "end": 93
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 41,
+        "crossReferences": [
+          {
+            "raw": "TG Thanksgiving.",
+            "prettyString": "TG Thanksgiving",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Thanksgiving",
+                "entryId": "tg-thanksgiving",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "John 11:41",
+        "book": "John",
+        "chapter": 11,
+        "verse": 41
+      },
+      {
+        "text": "And I knew that thou hearest me always: but because of the people which stand by I said it, that they may believe that thou hast sent me.",
+        "footNotes": [
+          {
+            "start": 129,
+            "end": 133,
+            "text": "TG Jesus Christ, Messenger of the Covenant."
+          }
+        ],
+        "italics": [
+          {
+            "start": 88,
+            "end": 91
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 42,
+        "crossReferences": [
+          {
+            "raw": "TG Jesus Christ, Messenger of the Covenant.",
+            "prettyString": "TG Jesus Christ, Messenger of the Covenant",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Jesus Christ, Messenger of the Covenant",
+                "entryId": "tg-jesus-christ-messenger-of-the-covenant",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "John 11:42",
+        "book": "John",
+        "chapter": 11,
+        "verse": 42
+      },
+      {
+        "text": "And when he thus had spoken, he cried with a loud voice, Lazarus, come forth.",
+        "footNotes": [
+          {
+            "start": 57,
+            "end": 64,
+            "text": "TG God, Power of."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 43,
+        "crossReferences": [
+          {
+            "raw": "TG God, Power of.",
+            "prettyString": "TG God, Power of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "God, Power of",
+                "entryId": "tg-god-power-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "John 11:43",
+        "book": "John",
+        "chapter": 11,
+        "verse": 43
+      },
+      {
+        "text": "And he that was dead came forth, bound hand and foot with graveclothes: and his face was bound about with a napkin. Jesus saith unto them, Loose him, and let him go.",
+        "footNotes": [
+          {
+            "start": 16,
+            "end": 20,
+            "text": "2 Kgs. 8:1. TG Death, Power over."
+          },
+          {
+            "start": 108,
+            "end": 114,
+            "text": "John 20:7."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 44,
+        "crossReferences": [
+          {
+            "raw": "John 20:7.",
+            "prettyString": "John 20:7",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "john",
+                "chapters": [
+                  {
+                    "start": 20,
+                    "end": 20,
+                    "verses": [
+                      {
+                        "start": 7,
+                        "end": 7
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "John 11:44",
+        "book": "John",
+        "chapter": 11,
+        "verse": 44
+      },
+      {
+        "text": "Then many of the Jews which came to Mary, and had seen the things which Jesus did, believed on him.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 45,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "John 11:45",
+        "book": "John",
+        "chapter": 11,
+        "verse": 45
+      },
+      {
+        "text": "But some of them went their ways to the Pharisees, and told them what things Jesus had done.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 46,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "John 11:46",
+        "book": "John",
+        "chapter": 11,
+        "verse": 46
+      },
+      {
+        "text": "Then gathered the chief priests and the Pharisees a council, and said, What do we? for this man doeth many miracles.",
+        "footNotes": [
+          {
+            "start": 24,
+            "end": 31,
+            "text": "2 Ne. 10:5."
+          },
+          {
+            "start": 107,
+            "end": 115,
+            "text": "3 Ne. 19:35."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 47,
+        "crossReferences": [
+          {
+            "raw": "2 Ne. 10:5.",
+            "prettyString": "2 Nephi 10:5",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "2nephi",
+                "chapters": [
+                  {
+                    "start": 10,
+                    "end": 10,
+                    "verses": [
+                      {
+                        "start": 5,
+                        "end": 5
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "3 Ne. 19:35.",
+            "prettyString": "3 Nephi 19:35",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "3nephi",
+                "chapters": [
+                  {
+                    "start": 19,
+                    "end": 19,
+                    "verses": [
+                      {
+                        "start": 35,
+                        "end": 35
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "John 11:47",
+        "book": "John",
+        "chapter": 11,
+        "verse": 47
+      },
+      {
+        "text": "If we let him thus alone, all men will believe on him: and the Romans shall come and take away both our place and nation.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 30,
+            "end": 33
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 48,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "John 11:48",
+        "book": "John",
+        "chapter": 11,
+        "verse": 48
+      },
+      {
+        "text": "And one of them, named Caiaphas, being the high priest that same year, said unto them, Ye know nothing at all,",
+        "footNotes": [
+          {
+            "start": 23,
+            "end": 31,
+            "text": "Matt. 26:3 (3–5)."
+          },
+          {
+            "start": 43,
+            "end": 54,
+            "text": "TG Priesthood, Aaronic."
+          }
+        ],
+        "italics": [
+          {
+            "start": 17,
+            "end": 22
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 49,
+        "crossReferences": [
+          {
+            "raw": "TG Priesthood, Aaronic.",
+            "prettyString": "TG Priesthood, Aaronic",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Priesthood, Aaronic",
+                "entryId": "tg-priesthood-aaronic",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "John 11:49",
+        "book": "John",
+        "chapter": 11,
+        "verse": 49
+      },
+      {
+        "text": "Nor consider that it is expedient for us, that one man should die for the people, and that the whole nation perish not.",
+        "footNotes": [
+          {
+            "start": 62,
+            "end": 65,
+            "text": "TG Jesus Christ, Trials of."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 50,
+        "crossReferences": [
+          {
+            "raw": "TG Jesus Christ, Trials of.",
+            "prettyString": "TG Jesus Christ, Trials of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Jesus Christ, Trials of",
+                "entryId": "tg-jesus-christ-trials-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "John 11:50",
+        "book": "John",
+        "chapter": 11,
+        "verse": 50
+      },
+      {
+        "text": "And this spake he not of himself: but being high priest that year, he prophesied that Jesus should die for that nation;",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 51,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "John 11:51",
+        "book": "John",
+        "chapter": 11,
+        "verse": 51
+      },
+      {
+        "text": "And not for that nation only, but that also he should gather together in one the children of God that were scattered abroad.",
+        "footNotes": [
+          {
+            "start": 54,
+            "end": 60,
+            "text": "TG Israel, Gathering of."
+          },
+          {
+            "start": 81,
+            "end": 89,
+            "text": "TG Sons and Daughters of God."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 52,
+        "crossReferences": [
+          {
+            "raw": "TG Israel, Gathering of.",
+            "prettyString": "TG Israel, Gathering of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Israel, Gathering of",
+                "entryId": "tg-israel-gathering-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Sons and Daughters of God.",
+            "prettyString": "TG Sons and Daughters of God",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Sons and Daughters of God",
+                "entryId": "tg-sons-and-daughters-of-god",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "John 11:52",
+        "book": "John",
+        "chapter": 11,
+        "verse": 52
+      },
+      {
+        "text": "Then from that day forth they took counsel together for to put him to death.",
+        "footNotes": [
+          {
+            "start": 35,
+            "end": 42,
+            "text": "Matt. 21:38 (33–46). TG Counsel."
+          },
+          {
+            "start": 70,
+            "end": 75,
+            "text": "John 7:1."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 53,
+        "crossReferences": [
+          {
+            "raw": "John 7:1.",
+            "prettyString": "John 7:1",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "john",
+                "chapters": [
+                  {
+                    "start": 7,
+                    "end": 7,
+                    "verses": [
+                      {
+                        "start": 1,
+                        "end": 1
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "John 11:53",
+        "book": "John",
+        "chapter": 11,
+        "verse": 53
+      },
+      {
+        "text": "Jesus therefore walked no more openly among the Jews; but went thence unto a country near to the wilderness, into a city called Ephraim, and there continued with his disciples.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 54,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "John 11:54",
+        "book": "John",
+        "chapter": 11,
+        "verse": 54
+      },
+      {
+        "text": "And the Jews’ passover was nigh at hand: and many went out of the country up to Jerusalem before the passover, to purify themselves.",
+        "footNotes": [
+          {
+            "start": 114,
+            "end": 120,
+            "text": "TG Purification."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 55,
+        "crossReferences": [
+          {
+            "raw": "TG Purification.",
+            "prettyString": "TG Purification",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Purification",
+                "entryId": "tg-purification",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "John 11:55",
+        "book": "John",
+        "chapter": 11,
+        "verse": 55
+      },
+      {
+        "text": "Then sought they for Jesus, and spake among themselves, as they stood in the temple, What think ye, that he will not come to the feast?",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 56,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "John 11:56",
+        "book": "John",
+        "chapter": 11,
+        "verse": 56
+      },
+      {
+        "text": "Now both the chief priests and the Pharisees had given a commandment, that, if any man knew where he were, he should shew it, that they might take him.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 122,
+            "end": 125
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 57,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "John 11:57",
+        "book": "John",
+        "chapter": 11,
+        "verse": 57
+      }
+    ]
+  },
+  "nextChapterId": "john12",
+  "prevChapterId": "john10",
+  "volume": {
+    "_id": "newtestament",
+    "title": "New Testament",
+    "titleShort": "NT",
+    "titleOfficial": "The New Testament"
+  }
+}

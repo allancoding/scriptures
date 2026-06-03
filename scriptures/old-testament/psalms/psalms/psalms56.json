@@ -1,0 +1,434 @@
+{
+  "_id": "psalms56",
+  "book": {
+    "_id": "psalms",
+    "title": "Psalms",
+    "titleShort": "Ps.",
+    "titleOfficial": "",
+    "subtitle": "",
+    "summary": "",
+    "chapterDelineation": "Psalm"
+  },
+  "chapter": {
+    "bookTitle": "Psalms",
+    "delineation": "Psalm",
+    "number": 56,
+    "summary": "David seeks mercy, trusts in and praises the Lord, and thanks Him for deliverance.",
+    "chapterAugmentations": [],
+    "verses": [
+      {
+        "text": "Be merciful unto me, O God: for man would swallow me up; he fighting daily oppresseth me.",
+        "footNotes": [
+          {
+            "start": 42,
+            "end": 49,
+            "text": "Ps. 124:3."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 1,
+        "crossReferences": [
+          {
+            "raw": "Ps. 124:3.",
+            "prettyString": "Psalms 124:3",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "psalms",
+                "chapters": [
+                  {
+                    "start": 124,
+                    "end": 124,
+                    "verses": [
+                      {
+                        "start": 3,
+                        "end": 3
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 56:1",
+        "book": "Psalms",
+        "chapter": 56,
+        "verse": 1
+      },
+      {
+        "text": "Mine enemies would daily swallow me up: for they be many that fight against me, O thou most High.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 33,
+            "end": 35
+          },
+          {
+            "start": 44,
+            "end": 51
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 2,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 56:2",
+        "book": "Psalms",
+        "chapter": 56,
+        "verse": 2
+      },
+      {
+        "text": "What time I am afraid, I will trust in thee.",
+        "footNotes": [
+          {
+            "start": 30,
+            "end": 35,
+            "text": "1 Sam. 30:6."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 3,
+        "crossReferences": [
+          {
+            "raw": "1 Sam. 30:6.",
+            "prettyString": "1 Samuel 30:6",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "1samuel",
+                "chapters": [
+                  {
+                    "start": 30,
+                    "end": 30,
+                    "verses": [
+                      {
+                        "start": 6,
+                        "end": 6
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 56:3",
+        "book": "Psalms",
+        "chapter": 56,
+        "verse": 3
+      },
+      {
+        "text": "In God I will praise his word, in God I have put my trust; I will not fear what flesh can do unto me.",
+        "footNotes": [
+          {
+            "start": 52,
+            "end": 57,
+            "text": "TG Trust in God."
+          },
+          {
+            "start": 70,
+            "end": 74,
+            "text": "Ps. 118:6; Isa. 51:12; 2 Ne. 8:7 (7, 12); D&C 122:9."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 4,
+        "crossReferences": [
+          {
+            "raw": "TG Trust in God.",
+            "prettyString": "TG Trust in God",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Trust in God",
+                "entryId": "tg-trust-in-god",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 56:4",
+        "book": "Psalms",
+        "chapter": 56,
+        "verse": 4
+      },
+      {
+        "text": "Every day they wrest my words: all their thoughts are against me for evil.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 50,
+            "end": 53
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 5,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 56:5",
+        "book": "Psalms",
+        "chapter": 56,
+        "verse": 5
+      },
+      {
+        "text": "They gather themselves together, they hide themselves, they mark my steps, when they wait for my soul.",
+        "footNotes": [
+          {
+            "start": 85,
+            "end": 101,
+            "text": "OR hope to take my life."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 6,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 56:6",
+        "book": "Psalms",
+        "chapter": 56,
+        "verse": 6
+      },
+      {
+        "text": "Shall they escape by iniquity? in thine anger cast down the people, O God.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 34,
+            "end": 39
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 7,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 56:7",
+        "book": "Psalms",
+        "chapter": 56,
+        "verse": 7
+      },
+      {
+        "text": "Thou tellest my wanderings: put thou my tears into thy bottle: are they not in thy book?",
+        "footNotes": [
+          {
+            "start": 83,
+            "end": 87,
+            "text": "TG Book of Remembrance."
+          }
+        ],
+        "italics": [
+          {
+            "start": 63,
+            "end": 71
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 8,
+        "crossReferences": [
+          {
+            "raw": "TG Book of Remembrance.",
+            "prettyString": "TG Book of Remembrance",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Book of Remembrance",
+                "entryId": "tg-book-of-remembrance",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 56:8",
+        "book": "Psalms",
+        "chapter": 56,
+        "verse": 8
+      },
+      {
+        "text": "When I cry unto thee, then shall mine enemies turn back: this I know; for God is for me.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 11,
+            "end": 21
+          },
+          {
+            "start": 78,
+            "end": 80
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 9,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 56:9",
+        "book": "Psalms",
+        "chapter": 56,
+        "verse": 9
+      },
+      {
+        "text": "In God will I praise his word: in the Lord will I praise his word.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 21,
+            "end": 24
+          },
+          {
+            "start": 57,
+            "end": 60
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 10,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 56:10",
+        "book": "Psalms",
+        "chapter": 56,
+        "verse": 10
+      },
+      {
+        "text": "In God have I put my trust: I will not be afraid what man can do unto me.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 11,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 56:11",
+        "book": "Psalms",
+        "chapter": 56,
+        "verse": 11
+      },
+      {
+        "text": "Thy vows are upon me, O God: I will render praises unto thee.",
+        "footNotes": [
+          {
+            "start": 4,
+            "end": 8,
+            "text": "TG Vow."
+          }
+        ],
+        "italics": [
+          {
+            "start": 9,
+            "end": 12
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 12,
+        "crossReferences": [
+          {
+            "raw": "TG Vow.",
+            "prettyString": "TG Vow",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Vow",
+                "entryId": "tg-vow",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 56:12",
+        "book": "Psalms",
+        "chapter": 56,
+        "verse": 12
+      },
+      {
+        "text": "For thou hast delivered my soul from death: wilt not thou deliver my feet from falling, that I may walk before God in the light of the living?",
+        "footNotes": [
+          {
+            "start": 27,
+            "end": 31,
+            "text": "Ps. 116:8."
+          },
+          {
+            "start": 99,
+            "end": 103,
+            "text": "TG Walking with God."
+          }
+        ],
+        "italics": [
+          {
+            "start": 44,
+            "end": 48
+          },
+          {
+            "start": 53,
+            "end": 65
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 13,
+        "crossReferences": [
+          {
+            "raw": "Ps. 116:8.",
+            "prettyString": "Psalms 116:8",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "psalms",
+                "chapters": [
+                  {
+                    "start": 116,
+                    "end": 116,
+                    "verses": [
+                      {
+                        "start": 8,
+                        "end": 8
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Walking with God.",
+            "prettyString": "TG Walking with God",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Walking with God",
+                "entryId": "tg-walking-with-god",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 56:13",
+        "book": "Psalms",
+        "chapter": 56,
+        "verse": 13
+      }
+    ]
+  },
+  "nextChapterId": "psalms57",
+  "prevChapterId": "psalms55",
+  "volume": {
+    "_id": "oldtestament",
+    "title": "Old Testament",
+    "titleShort": "OT",
+    "titleOfficial": "The Old Testament"
+  }
+}

@@ -1,0 +1,393 @@
+{
+  "_id": "psalms41",
+  "book": {
+    "_id": "psalms",
+    "title": "Psalms",
+    "titleShort": "Ps.",
+    "titleOfficial": "",
+    "subtitle": "",
+    "summary": "",
+    "chapterDelineation": "Psalm"
+  },
+  "chapter": {
+    "bookTitle": "Psalms",
+    "delineation": "Psalm",
+    "number": 41,
+    "summary": "A messianic psalm of David—Blessed is he who considers the poor—The treachery of Judas is foretold.",
+    "chapterAugmentations": [],
+    "verses": [
+      {
+        "text": "Blessed is he that considereth the poor: the Lord will deliver him in time of trouble.",
+        "footNotes": [
+          {
+            "start": 35,
+            "end": 39,
+            "text": "TG Poor."
+          }
+        ],
+        "italics": [
+          {
+            "start": 8,
+            "end": 10
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 1,
+        "crossReferences": [
+          {
+            "raw": "TG Poor.",
+            "prettyString": "TG Poor",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Poor",
+                "entryId": "tg-poor",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 41:1",
+        "book": "Psalms",
+        "chapter": 41,
+        "verse": 1
+      },
+      {
+        "text": "The Lord will preserve him, and keep him alive; and he shall be blessed upon the earth: and thou wilt not deliver him unto the will of his enemies.",
+        "footNotes": [
+          {
+            "start": 14,
+            "end": 22,
+            "text": "Deut. 6:24."
+          }
+        ],
+        "italics": [
+          {
+            "start": 48,
+            "end": 51
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 2,
+        "crossReferences": [
+          {
+            "raw": "Deut. 6:24.",
+            "prettyString": "Deuteronomy 6:24",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "deuteronomy",
+                "chapters": [
+                  {
+                    "start": 6,
+                    "end": 6,
+                    "verses": [
+                      {
+                        "start": 24,
+                        "end": 24
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 41:2",
+        "book": "Psalms",
+        "chapter": 41,
+        "verse": 2
+      },
+      {
+        "text": "The Lord will strengthen him upon the bed of languishing: thou wilt make all his bed in his sickness.",
+        "footNotes": [
+          {
+            "start": 68,
+            "end": 72,
+            "text": "IE heal all his infirmities when he is sick."
+          },
+          {
+            "start": 92,
+            "end": 100,
+            "text": "TG Sickness."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 3,
+        "crossReferences": [
+          {
+            "raw": "TG Sickness.",
+            "prettyString": "TG Sickness",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Sickness",
+                "entryId": "tg-sickness",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 41:3",
+        "book": "Psalms",
+        "chapter": 41,
+        "verse": 3
+      },
+      {
+        "text": "I said, Lord, be merciful unto me: heal my soul; for I have sinned against thee.",
+        "footNotes": [
+          {
+            "start": 35,
+            "end": 39,
+            "text": "Mosiah 4:10 (10–11); D&C 61:2."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 4,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 41:4",
+        "book": "Psalms",
+        "chapter": 41,
+        "verse": 4
+      },
+      {
+        "text": "Mine enemies speak evil of me, When shall he die, and his name perish?",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 5,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 41:5",
+        "book": "Psalms",
+        "chapter": 41,
+        "verse": 5
+      },
+      {
+        "text": "And if he come to see me, he speaketh vanity: his heart gathereth iniquity to itself; when he goeth abroad, he telleth it.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 22,
+            "end": 25
+          },
+          {
+            "start": 86,
+            "end": 90
+          },
+          {
+            "start": 119,
+            "end": 122
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 6,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 41:6",
+        "book": "Psalms",
+        "chapter": 41,
+        "verse": 6
+      },
+      {
+        "text": "All that hate me whisper together against me: against me do they devise my hurt.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 7,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 41:7",
+        "book": "Psalms",
+        "chapter": 41,
+        "verse": 7
+      },
+      {
+        "text": "An evil disease, say they, cleaveth fast unto him: and now that he lieth he shall rise up no more.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 17,
+            "end": 26
+          },
+          {
+            "start": 55,
+            "end": 58
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 8,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 41:8",
+        "book": "Psalms",
+        "chapter": 41,
+        "verse": 8
+      },
+      {
+        "text": "Yea, mine own familiar friend, in whom I trusted, which did eat of my bread, hath lifted up his heel against me.",
+        "footNotes": [
+          {
+            "start": 23,
+            "end": 29,
+            "text": "Acts 1:16 (16–17)."
+          },
+          {
+            "start": 96,
+            "end": 100,
+            "text": "TG Jesus Christ, Betrayal of."
+          }
+        ],
+        "italics": [
+          {
+            "start": 92,
+            "end": 95
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 9,
+        "crossReferences": [
+          {
+            "raw": "TG Jesus Christ, Betrayal of.",
+            "prettyString": "TG Jesus Christ, Betrayal of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Jesus Christ, Betrayal of",
+                "entryId": "tg-jesus-christ-betrayal-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 41:9",
+        "book": "Psalms",
+        "chapter": 41,
+        "verse": 9
+      },
+      {
+        "text": "But thou, O Lord, be merciful unto me, and raise me up, that I may requite them.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 10,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 41:10",
+        "book": "Psalms",
+        "chapter": 41,
+        "verse": 10
+      },
+      {
+        "text": "By this I know that thou favourest me, because mine enemy doth not triumph over me.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 11,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 41:11",
+        "book": "Psalms",
+        "chapter": 41,
+        "verse": 11
+      },
+      {
+        "text": "And as for me, thou upholdest me in mine integrity, and settest me before thy face for ever.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 12,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 41:12",
+        "book": "Psalms",
+        "chapter": 41,
+        "verse": 12
+      },
+      {
+        "text": "Blessed be the Lord God of Israel from everlasting, and to everlasting. Amen, and Amen.",
+        "footNotes": [
+          {
+            "start": 0,
+            "end": 7,
+            "text": "Ps. 72:18; Alma 26:8."
+          }
+        ],
+        "italics": [
+          {
+            "start": 8,
+            "end": 10
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 13,
+        "crossReferences": [
+          {
+            "raw": "Ps. 72:18; Alma 26:8.",
+            "prettyString": "Psalms 72:18; Alma 26:8",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "psalms",
+                "chapters": [
+                  {
+                    "start": 72,
+                    "end": 72,
+                    "verses": [
+                      {
+                        "start": 18,
+                        "end": 18
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "scripture",
+                "book": "alma",
+                "chapters": [
+                  {
+                    "start": 26,
+                    "end": 26,
+                    "verses": [
+                      {
+                        "start": 8,
+                        "end": 8
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 41:13",
+        "book": "Psalms",
+        "chapter": 41,
+        "verse": 13
+      }
+    ]
+  },
+  "nextChapterId": "psalms42",
+  "prevChapterId": "psalms40",
+  "volume": {
+    "_id": "oldtestament",
+    "title": "Old Testament",
+    "titleShort": "OT",
+    "titleOfficial": "The Old Testament"
+  }
+}

@@ -1,0 +1,892 @@
+{
+  "_id": "acts28",
+  "book": {
+    "_id": "acts",
+    "title": "Acts",
+    "titleShort": "Acts",
+    "titleOfficial": "",
+    "subtitle": "",
+    "summary": "",
+    "chapterDelineation": "Chapter"
+  },
+  "chapter": {
+    "bookTitle": "Acts",
+    "delineation": "Chapter",
+    "number": 28,
+    "summary": "Paul is unharmed by a viper’s bite—He heals the sick in Melita—He preaches in Rome, first to the Jews and then to the Gentiles.",
+    "chapterAugmentations": [],
+    "verses": [
+      {
+        "text": "And when they were escaped, then they knew that the island was called Melita.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 1,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Acts 28:1",
+        "book": "Acts",
+        "chapter": 28,
+        "verse": 1
+      },
+      {
+        "text": "And the barbarous people shewed us no little kindness: for they kindled a fire, and received us every one, because of the present rain, and because of the cold.",
+        "footNotes": [
+          {
+            "start": 8,
+            "end": 17,
+            "text": "Rom. 1:14."
+          },
+          {
+            "start": 45,
+            "end": 53,
+            "text": "TG Hospitality."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 2,
+        "crossReferences": [
+          {
+            "raw": "Rom. 1:14.",
+            "prettyString": "Romans 1:14",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "romans",
+                "chapters": [
+                  {
+                    "start": 1,
+                    "end": 1,
+                    "verses": [
+                      {
+                        "start": 14,
+                        "end": 14
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "raw": "TG Hospitality.",
+            "prettyString": "TG Hospitality",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Hospitality",
+                "entryId": "tg-hospitality",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Acts 28:2",
+        "book": "Acts",
+        "chapter": 28,
+        "verse": 2
+      },
+      {
+        "text": "And when Paul had gathered a bundle of sticks, and laid them on the fire, there came a viper out of the heat, and fastened on his hand.",
+        "footNotes": [
+          {
+            "start": 87,
+            "end": 92,
+            "text": "Mark 16:18; D&C 24:13; 84:72 (71–72); 124:99 (98–100)."
+          }
+        ],
+        "italics": [
+          {
+            "start": 56,
+            "end": 60
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 3,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Acts 28:3",
+        "book": "Acts",
+        "chapter": 28,
+        "verse": 3
+      },
+      {
+        "text": "And when the barbarians saw the venomous beast hang on his hand, they said among themselves, No doubt this man is a murderer, whom, though he hath escaped the sea, yet vengeance suffereth not to live.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 32,
+            "end": 40
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 4,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Acts 28:4",
+        "book": "Acts",
+        "chapter": 28,
+        "verse": 4
+      },
+      {
+        "text": "And he shook off the beast into the fire, and felt no harm.",
+        "footNotes": [
+          {
+            "start": 54,
+            "end": 58,
+            "text": "Luke 10:19."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 5,
+        "crossReferences": [
+          {
+            "raw": "Luke 10:19.",
+            "prettyString": "Luke 10:19",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "luke",
+                "chapters": [
+                  {
+                    "start": 10,
+                    "end": 10,
+                    "verses": [
+                      {
+                        "start": 19,
+                        "end": 19
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Acts 28:5",
+        "book": "Acts",
+        "chapter": 28,
+        "verse": 5
+      },
+      {
+        "text": "Howbeit they looked when he should have swollen, or fallen down dead suddenly: but after they had looked a great while, and saw no harm come to him, they changed their minds, and said that he was a god.",
+        "footNotes": [
+          {
+            "start": 198,
+            "end": 201,
+            "text": "Acts 14:11 (8–11)."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 6,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Acts 28:6",
+        "book": "Acts",
+        "chapter": 28,
+        "verse": 6
+      },
+      {
+        "text": "In the same quarters were possessions of the chief man of the island, whose name was Publius; who received us, and lodged us three days courteously.",
+        "footNotes": [
+          {
+            "start": 136,
+            "end": 147,
+            "text": "TG Courtesy."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 7,
+        "crossReferences": [
+          {
+            "raw": "TG Courtesy.",
+            "prettyString": "TG Courtesy",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Courtesy",
+                "entryId": "tg-courtesy",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Acts 28:7",
+        "book": "Acts",
+        "chapter": 28,
+        "verse": 7
+      },
+      {
+        "text": "And it came to pass, that the father of Publius lay sick of a fever and of a bloody flux: to whom Paul entered in, and prayed, and laid his hands on him, and healed him.",
+        "footNotes": [
+          {
+            "start": 52,
+            "end": 56,
+            "text": "TG Sickness."
+          },
+          {
+            "start": 77,
+            "end": 88,
+            "text": "GR dysentery."
+          },
+          {
+            "start": 140,
+            "end": 145,
+            "text": "TG Administrations to the Sick; Hands, Laying on of."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 8,
+        "crossReferences": [
+          {
+            "raw": "TG Sickness.",
+            "prettyString": "TG Sickness",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Sickness",
+                "entryId": "tg-sickness",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Administrations to the Sick; Hands, Laying on of.",
+            "prettyString": "TG Administrations to the Sick; TG Hands, Laying on of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Administrations to the Sick",
+                "entryId": "tg-administrations-to-the-sick",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Hands, Laying on of",
+                "entryId": "tg-hands-laying-on-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Acts 28:8",
+        "book": "Acts",
+        "chapter": 28,
+        "verse": 8
+      },
+      {
+        "text": "So when this was done, others also, which had diseases in the island, came, and were healed:",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 9,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Acts 28:9",
+        "book": "Acts",
+        "chapter": 28,
+        "verse": 9
+      },
+      {
+        "text": "Who also honoured us with many honours; and when we departed, they laded us with such things as were necessary.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 73,
+            "end": 75
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 10,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Acts 28:10",
+        "book": "Acts",
+        "chapter": 28,
+        "verse": 10
+      },
+      {
+        "text": "And after three months we departed in a ship of Alexandria, which had wintered in the isle, whose sign was Castor and Pollux.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 11,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Acts 28:11",
+        "book": "Acts",
+        "chapter": 28,
+        "verse": 11
+      },
+      {
+        "text": "And landing at Syracuse, we tarried there three days.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 36,
+            "end": 41
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 12,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Acts 28:12",
+        "book": "Acts",
+        "chapter": 28,
+        "verse": 12
+      },
+      {
+        "text": "And from thence we fetched a compass, and came to Rhegium: and after one day the south wind blew, and we came the next day to Puteoli:",
+        "footNotes": [
+          {
+            "start": 19,
+            "end": 36,
+            "text": "GR went around, took a circuitous course."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 13,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Acts 28:13",
+        "book": "Acts",
+        "chapter": 28,
+        "verse": 13
+      },
+      {
+        "text": "Where we found brethren, and were desired to tarry with them seven days: and so we went toward Rome.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 14,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Acts 28:14",
+        "book": "Acts",
+        "chapter": 28,
+        "verse": 14
+      },
+      {
+        "text": "And from thence, when the brethren heard of us, they came to meet us as far as Appii forum, and The three taverns: whom when Paul saw, he thanked God, and took courage.",
+        "footNotes": [
+          {
+            "start": 138,
+            "end": 145,
+            "text": "TG Thanksgiving."
+          },
+          {
+            "start": 160,
+            "end": 167,
+            "text": "TG Courage."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 15,
+        "crossReferences": [
+          {
+            "raw": "TG Thanksgiving.",
+            "prettyString": "TG Thanksgiving",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Thanksgiving",
+                "entryId": "tg-thanksgiving",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Courage.",
+            "prettyString": "TG Courage",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Courage",
+                "entryId": "tg-courage",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Acts 28:15",
+        "book": "Acts",
+        "chapter": 28,
+        "verse": 15
+      },
+      {
+        "text": "And when we came to Rome, the centurion delivered the prisoners to the captain of the guard: but Paul was suffered to dwell by himself with a soldier that kept him.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 16,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Acts 28:16",
+        "book": "Acts",
+        "chapter": 28,
+        "verse": 16
+      },
+      {
+        "text": "And it came to pass, that after three days Paul called the chief of the Jews together: and when they were come together, he said unto them, Men and brethren, though I have committed nothing against the people, or customs of our fathers, yet was I delivered prisoner from Jerusalem into the hands of the Romans.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 144,
+            "end": 147
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 17,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Acts 28:17",
+        "book": "Acts",
+        "chapter": 28,
+        "verse": 17
+      },
+      {
+        "text": "Who, when they had examined me, would have let me go, because there was no cause of death in me.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 47,
+            "end": 49
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 18,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Acts 28:18",
+        "book": "Acts",
+        "chapter": 28,
+        "verse": 18
+      },
+      {
+        "text": "But when the Jews spake against it, I was constrained to appeal unto Cæsar; not that I had ought to accuse my nation of.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 32,
+            "end": 35
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 19,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Acts 28:19",
+        "book": "Acts",
+        "chapter": 28,
+        "verse": 19
+      },
+      {
+        "text": "For this cause therefore have I called for you, to see you, and to speak with you: because that for the hope of Israel I am bound with this chain.",
+        "footNotes": [
+          {
+            "start": 104,
+            "end": 108,
+            "text": "Acts 23:6. TG Hope."
+          }
+        ],
+        "italics": [
+          {
+            "start": 55,
+            "end": 59
+          },
+          {
+            "start": 78,
+            "end": 82
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 20,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Acts 28:20",
+        "book": "Acts",
+        "chapter": 28,
+        "verse": 20
+      },
+      {
+        "text": "And they said unto him, We neither received letters out of Judæa concerning thee, neither any of the brethren that came shewed or spake any harm of thee.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 21,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Acts 28:21",
+        "book": "Acts",
+        "chapter": 28,
+        "verse": 21
+      },
+      {
+        "text": "But we desire to hear of thee what thou thinkest: for as concerning this sect, we know that every where it is spoken against.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 22,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Acts 28:22",
+        "book": "Acts",
+        "chapter": 28,
+        "verse": 22
+      },
+      {
+        "text": "And when they had appointed him a day, there came many to him into his lodging; to whom he expounded and testified the kingdom of God, persuading them concerning Jesus, both out of the law of Moses, and out of the prophets, from morning till evening.",
+        "footNotes": [
+          {
+            "start": 91,
+            "end": 100,
+            "text": "D&C 68:1."
+          },
+          {
+            "start": 214,
+            "end": 222,
+            "text": "Acts 3:18 (18–21); 24:14; 26:22; Alma 18:36."
+          }
+        ],
+        "italics": [
+          {
+            "start": 67,
+            "end": 70
+          },
+          {
+            "start": 203,
+            "end": 209
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 23,
+        "crossReferences": [
+          {
+            "raw": "D&C 68:1.",
+            "prettyString": "D&C 68:1",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "doctrineandcovenants",
+                "chapters": [
+                  {
+                    "start": 68,
+                    "end": 68,
+                    "verses": [
+                      {
+                        "start": 1,
+                        "end": 1
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Acts 28:23",
+        "book": "Acts",
+        "chapter": 28,
+        "verse": 23
+      },
+      {
+        "text": "And some believed the things which were spoken, and some believed not.",
+        "footNotes": [
+          {
+            "start": 57,
+            "end": 69,
+            "text": "TG Unbelief."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 24,
+        "crossReferences": [
+          {
+            "raw": "TG Unbelief.",
+            "prettyString": "TG Unbelief",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Unbelief",
+                "entryId": "tg-unbelief",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Acts 28:24",
+        "book": "Acts",
+        "chapter": 28,
+        "verse": 24
+      },
+      {
+        "text": "And when they agreed not among themselves, they departed, after that Paul had spoken one word, Well spake the Holy Ghost by Esaias the prophet unto our fathers,",
+        "footNotes": [
+          {
+            "start": 100,
+            "end": 105,
+            "text": "TG Holy Ghost, Mission of."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 25,
+        "crossReferences": [
+          {
+            "raw": "TG Holy Ghost, Mission of.",
+            "prettyString": "TG Holy Ghost, Mission of",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Holy Ghost, Mission of",
+                "entryId": "tg-holy-ghost-mission-of",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Acts 28:25",
+        "book": "Acts",
+        "chapter": 28,
+        "verse": 25
+      },
+      {
+        "text": "Saying, Go unto this people, and say, Hearing ye shall hear, and shall not understand; and seeing ye shall see, and not perceive:",
+        "footNotes": [
+          {
+            "start": 120,
+            "end": 128,
+            "text": "Isa. 6:9."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 26,
+        "crossReferences": [
+          {
+            "raw": "Isa. 6:9.",
+            "prettyString": "Isaiah 6:9",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "isaiah",
+                "chapters": [
+                  {
+                    "start": 6,
+                    "end": 6,
+                    "verses": [
+                      {
+                        "start": 9,
+                        "end": 9
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Acts 28:26",
+        "book": "Acts",
+        "chapter": 28,
+        "verse": 26
+      },
+      {
+        "text": "For the heart of this people is waxed gross, and their ears are dull of hearing, and their eyes have they closed; lest they should see with their eyes, and hear with their ears, and understand with their heart, and should be converted, and I should heal them.",
+        "footNotes": [
+          {
+            "start": 8,
+            "end": 13,
+            "text": "TG Hardheartedness."
+          },
+          {
+            "start": 91,
+            "end": 95,
+            "text": "TG Spiritual Blindness."
+          }
+        ],
+        "italics": [
+          {
+            "start": 140,
+            "end": 145
+          },
+          {
+            "start": 166,
+            "end": 171
+          },
+          {
+            "start": 198,
+            "end": 203
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 27,
+        "crossReferences": [
+          {
+            "raw": "TG Hardheartedness.",
+            "prettyString": "TG Hardheartedness",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Hardheartedness",
+                "entryId": "tg-hardheartedness",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "TG Spiritual Blindness.",
+            "prettyString": "TG Spiritual Blindness",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Spiritual Blindness",
+                "entryId": "tg-spiritual-blindness",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Acts 28:27",
+        "book": "Acts",
+        "chapter": 28,
+        "verse": 27
+      },
+      {
+        "text": "Be it known therefore unto you, that the salvation of God is sent unto the Gentiles, and that they will hear it.",
+        "footNotes": [
+          {
+            "start": 75,
+            "end": 83,
+            "text": "Acts 13:46."
+          }
+        ],
+        "italics": [
+          {
+            "start": 89,
+            "end": 93
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 28,
+        "crossReferences": [
+          {
+            "raw": "Acts 13:46.",
+            "prettyString": "Acts 13:46",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "acts",
+                "chapters": [
+                  {
+                    "start": 13,
+                    "end": 13,
+                    "verses": [
+                      {
+                        "start": 46,
+                        "end": 46
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Acts 28:28",
+        "book": "Acts",
+        "chapter": 28,
+        "verse": 28
+      },
+      {
+        "text": "And when he had said these words, the Jews departed, and had great reasoning among themselves.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 29,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Acts 28:29",
+        "book": "Acts",
+        "chapter": 28,
+        "verse": 29
+      },
+      {
+        "text": "And Paul dwelt two whole years in his own hired house, and received all that came in unto him,",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 30,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Acts 28:30",
+        "book": "Acts",
+        "chapter": 28,
+        "verse": 30
+      },
+      {
+        "text": "Preaching the kingdom of God, and teaching those things which concern the Lord Jesus Christ, with all confidence, no man forbidding him.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 31,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Acts 28:31",
+        "book": "Acts",
+        "chapter": 28,
+        "verse": 31
+      }
+    ]
+  },
+  "nextChapterId": "romans1",
+  "prevChapterId": "acts27",
+  "volume": {
+    "_id": "newtestament",
+    "title": "New Testament",
+    "titleShort": "NT",
+    "titleOfficial": "The New Testament"
+  }
+}

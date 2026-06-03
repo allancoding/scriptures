@@ -1,0 +1,554 @@
+{
+  "_id": "psalms147",
+  "book": {
+    "_id": "psalms",
+    "title": "Psalms",
+    "titleShort": "Ps.",
+    "titleOfficial": "",
+    "subtitle": "",
+    "summary": "",
+    "chapterDelineation": "Psalm"
+  },
+  "chapter": {
+    "bookTitle": "Psalms",
+    "delineation": "Psalm",
+    "number": 147,
+    "summary": "Praise the Lord for His power—His understanding is infinite—He sends His commandments, His word, His statutes, and His judgments unto Israel.",
+    "chapterAugmentations": [],
+    "verses": [
+      {
+        "text": "Praise ye the Lord: for it is good to sing praises unto our God; for it is pleasant; and praise is comely.",
+        "footNotes": [
+          {
+            "start": 0,
+            "end": 6,
+            "text": "Ps. 33:1."
+          }
+        ],
+        "italics": [
+          {
+            "start": 24,
+            "end": 29
+          },
+          {
+            "start": 69,
+            "end": 74
+          },
+          {
+            "start": 85,
+            "end": 88
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 1,
+        "crossReferences": [
+          {
+            "raw": "Ps. 33:1.",
+            "prettyString": "Psalms 33:1",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "psalms",
+                "chapters": [
+                  {
+                    "start": 33,
+                    "end": 33,
+                    "verses": [
+                      {
+                        "start": 1,
+                        "end": 1
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 147:1",
+        "book": "Psalms",
+        "chapter": 147,
+        "verse": 1
+      },
+      {
+        "text": "The Lord doth build up Jerusalem: he gathereth together the outcasts of Israel.",
+        "footNotes": [
+          {
+            "start": 37,
+            "end": 46,
+            "text": "Deut. 30:3 (1–3)."
+          },
+          {
+            "start": 60,
+            "end": 68,
+            "text": "Matt. 24:31."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 2,
+        "crossReferences": [
+          {
+            "raw": "Matt. 24:31.",
+            "prettyString": "Matthew 24:31",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "matthew",
+                "chapters": [
+                  {
+                    "start": 24,
+                    "end": 24,
+                    "verses": [
+                      {
+                        "start": 31,
+                        "end": 31
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 147:2",
+        "book": "Psalms",
+        "chapter": 147,
+        "verse": 2
+      },
+      {
+        "text": "He healeth the broken in heart, and bindeth up their wounds.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 3,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 147:3",
+        "book": "Psalms",
+        "chapter": 147,
+        "verse": 3
+      },
+      {
+        "text": "He telleth the number of the stars; he calleth them all by their names.",
+        "footNotes": [
+          {
+            "start": 29,
+            "end": 34,
+            "text": "TG Astronomy."
+          },
+          {
+            "start": 65,
+            "end": 70,
+            "text": "Isa. 40:26."
+          }
+        ],
+        "italics": [
+          {
+            "start": 59,
+            "end": 64
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 4,
+        "crossReferences": [
+          {
+            "raw": "TG Astronomy.",
+            "prettyString": "TG Astronomy",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Astronomy",
+                "entryId": "tg-astronomy",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          },
+          {
+            "raw": "Isa. 40:26.",
+            "prettyString": "Isaiah 40:26",
+            "references": [
+              {
+                "type": "scripture",
+                "book": "isaiah",
+                "chapters": [
+                  {
+                    "start": 40,
+                    "end": 40,
+                    "verses": [
+                      {
+                        "start": 26,
+                        "end": 26
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 147:4",
+        "book": "Psalms",
+        "chapter": 147,
+        "verse": 4
+      },
+      {
+        "text": "Great is our Lord, and of great power: his understanding is infinite.",
+        "footNotes": [
+          {
+            "start": 43,
+            "end": 56,
+            "text": "TG God, Omniscience of; Understanding."
+          }
+        ],
+        "italics": [
+          {
+            "start": 6,
+            "end": 8
+          },
+          {
+            "start": 57,
+            "end": 59
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 5,
+        "crossReferences": [
+          {
+            "raw": "TG God, Omniscience of; Understanding.",
+            "prettyString": "TG God, Omniscience of; TG Understanding",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "God, Omniscience of",
+                "entryId": "tg-god-omniscience-of",
+                "book": "",
+                "chapters": []
+              },
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Understanding",
+                "entryId": "tg-understanding",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 147:5",
+        "book": "Psalms",
+        "chapter": 147,
+        "verse": 5
+      },
+      {
+        "text": "The Lord lifteth up the meek: he casteth the wicked down to the ground.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 6,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 147:6",
+        "book": "Psalms",
+        "chapter": 147,
+        "verse": 6
+      },
+      {
+        "text": "Sing unto the Lord with thanksgiving; sing praise upon the harp unto our God:",
+        "footNotes": [
+          {
+            "start": 24,
+            "end": 36,
+            "text": "TG Thanksgiving."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 7,
+        "crossReferences": [
+          {
+            "raw": "TG Thanksgiving.",
+            "prettyString": "TG Thanksgiving",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Thanksgiving",
+                "entryId": "tg-thanksgiving",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 147:7",
+        "book": "Psalms",
+        "chapter": 147,
+        "verse": 7
+      },
+      {
+        "text": "Who covereth the heaven with clouds, who prepareth rain for the earth, who maketh grass to grow upon the mountains.",
+        "footNotes": [
+          {
+            "start": 82,
+            "end": 87,
+            "text": "TG Nature, Earth."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 8,
+        "crossReferences": [
+          {
+            "raw": "TG Nature, Earth.",
+            "prettyString": "TG Nature, Earth",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Nature, Earth",
+                "entryId": "tg-nature-earth",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 147:8",
+        "book": "Psalms",
+        "chapter": 147,
+        "verse": 8
+      },
+      {
+        "text": "He giveth to the beast his food, and to the young ravens which cry.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 33,
+            "end": 36
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 9,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 147:9",
+        "book": "Psalms",
+        "chapter": 147,
+        "verse": 9
+      },
+      {
+        "text": "He delighteth not in the strength of the horse: he taketh not pleasure in the legs of a man.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 10,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 147:10",
+        "book": "Psalms",
+        "chapter": 147,
+        "verse": 10
+      },
+      {
+        "text": "The Lord taketh pleasure in them that fear him, in those that hope in his mercy.",
+        "footNotes": [
+          {
+            "start": 16,
+            "end": 24,
+            "text": "TG Pleasure."
+          }
+        ],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 11,
+        "crossReferences": [
+          {
+            "raw": "TG Pleasure.",
+            "prettyString": "TG Pleasure",
+            "references": [
+              {
+                "type": "studyHelp",
+                "studyHelpType": "tg",
+                "title": "Pleasure",
+                "entryId": "tg-pleasure",
+                "book": "",
+                "chapters": []
+              }
+            ]
+          }
+        ],
+        "jstReferences": [],
+        "reference": "Psalms 147:11",
+        "book": "Psalms",
+        "chapter": 147,
+        "verse": 11
+      },
+      {
+        "text": "Praise the Lord, O Jerusalem; praise thy God, O Zion.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 12,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 147:12",
+        "book": "Psalms",
+        "chapter": 147,
+        "verse": 12
+      },
+      {
+        "text": "For he hath strengthened the bars of thy gates; he hath blessed thy children within thee.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 13,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 147:13",
+        "book": "Psalms",
+        "chapter": 147,
+        "verse": 13
+      },
+      {
+        "text": "He maketh peace in thy borders, and filleth thee with the finest of the wheat.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 16,
+            "end": 18
+          },
+          {
+            "start": 32,
+            "end": 35
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 14,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 147:14",
+        "book": "Psalms",
+        "chapter": 147,
+        "verse": 14
+      },
+      {
+        "text": "He sendeth forth his commandment upon earth: his word runneth very swiftly.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 33,
+            "end": 37
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 15,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 147:15",
+        "book": "Psalms",
+        "chapter": 147,
+        "verse": 15
+      },
+      {
+        "text": "He giveth snow like wool: he scattereth the hoarfrost like ashes.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 16,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 147:16",
+        "book": "Psalms",
+        "chapter": 147,
+        "verse": 16
+      },
+      {
+        "text": "He casteth forth his ice like morsels: who can stand before his cold?",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 17,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 147:17",
+        "book": "Psalms",
+        "chapter": 147,
+        "verse": 17
+      },
+      {
+        "text": "He sendeth out his word, and melteth them: he causeth his wind to blow, and the waters flow.",
+        "footNotes": [],
+        "italics": [
+          {
+            "start": 72,
+            "end": 75
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 18,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 147:18",
+        "book": "Psalms",
+        "chapter": 147,
+        "verse": 18
+      },
+      {
+        "text": "He sheweth his word unto Jacob, his statutes and his judgments unto Israel.",
+        "footNotes": [],
+        "italics": [],
+        "associatedContent": [],
+        "verseNumber": 19,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 147:19",
+        "book": "Psalms",
+        "chapter": 147,
+        "verse": 19
+      },
+      {
+        "text": "He hath not dealt so with any nation: and as for his judgments, they have not known them. Praise ye the Lord.",
+        "footNotes": [
+          {
+            "start": 78,
+            "end": 83,
+            "text": "Amos 3:2 (1–2)."
+          }
+        ],
+        "italics": [
+          {
+            "start": 42,
+            "end": 52
+          }
+        ],
+        "associatedContent": [],
+        "verseNumber": 20,
+        "crossReferences": [],
+        "jstReferences": [],
+        "reference": "Psalms 147:20",
+        "book": "Psalms",
+        "chapter": 147,
+        "verse": 20
+      }
+    ]
+  },
+  "nextChapterId": "psalms148",
+  "prevChapterId": "psalms146",
+  "volume": {
+    "_id": "oldtestament",
+    "title": "Old Testament",
+    "titleShort": "OT",
+    "titleOfficial": "The Old Testament"
+  }
+}
